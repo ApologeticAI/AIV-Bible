@@ -8,6 +8,10 @@ A chapter-by-chapter JSON dataset of the **Apostolic Inspired Version (AIV)** Bi
 - **Cross-reference links** (stored as HTML anchor tags)
 - **Commentary** (short notes per verse)
 
+## Credits / Mentions
+- **Apologetic.AI** - Pocket Bible Scholar App for readers at any level to gain an in-depth understanding of scripture.
+- **Strictly.ai** - Providing the source tech & conversational AI to make this translation & commentary feasible.
+
 ## Directory structure
 
 Books are stored in `json/` and each chapter is a separate file:
