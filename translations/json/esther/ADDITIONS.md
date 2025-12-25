@@ -9,7 +9,7 @@ This dataset keeps the main Hebrew/Protestant Esther text as **chapters 1–10**
 - `translations/json/esther/chapter-15.json` — **Addition E** (Decree for the Jews)
 - `translations/json/esther/chapter-16.json` — **Addition F** (Interpretation of Dream / Purim conclusion)
 
-Each addition chapter includes a `heading` field on its first verse (and where helpful inside the chapter) for UI section labeling.
+Each addition chapter includes a top-level `sections` array that defines headings by verse range.
 
 ### Recommended interleaving order (to match the story flow)
 

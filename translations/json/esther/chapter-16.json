@@ -4,6 +4,13 @@
   "bookAbbreviation": "Esth",
   "collection": "Deuterocanonical",
   "chapter": 16,
+  "sections": [
+    {
+      "title": "Addition F — Interpretation of Mordecai’s Dream",
+      "startVerse": 1,
+      "endVerse": 11
+    }
+  ],
   "verses": [
     {
       "pk": 19016001,
@@ -13,7 +20,6 @@
       "bookAbbreviation": "Esth",
       "chapter": 16,
       "verse": 1,
-      "heading": "Addition F — Interpretation of Mordecai’s Dream",
       "text": "Then Mordecai said, 'These things have happened from God.'",
       "links": "<a href='/AIV/19/11/1'>Esth. 11:1</a>; <a href='/AIV/45/8/28'>Rom. 8:28</a>",
       "comment": "This addition states explicitly what Esther’s main narrative often implies: providence. Mordecai reads the reversal not as luck, but as God’s hidden governance of history."

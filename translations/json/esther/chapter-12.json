@@ -4,6 +4,13 @@
   "bookAbbreviation": "Esth",
   "collection": "Deuterocanonical",
   "chapter": 12,
+  "sections": [
+    {
+      "title": "Addition B — Haman’s Edict",
+      "startVerse": 1,
+      "endVerse": 7
+    }
+  ],
   "verses": [
     {
       "pk": 19012001,
@@ -13,7 +20,6 @@
       "bookAbbreviation": "Esth",
       "chapter": 12,
       "verse": 1,
-      "heading": "Addition B — Haman’s Edict",
       "text": "The great King Xerxes writes to the satraps of the one hundred and twenty-seven provinces from India to Cush, and to the governors under them, as follows:",
       "links": "<a href='/AIV/19/3/12'>Esth. 3:12</a>; <a href='/AIV/19/8/9'>Esth. 8:9</a>",
       "comment": "This “royal letter” is presented as an official justification for violence. Its polished language masks a policy of genocide, showing how evil often clothes itself in bureaucratic order and persuasive rhetoric."

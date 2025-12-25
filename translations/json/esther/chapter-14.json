@@ -4,6 +4,13 @@
   "bookAbbreviation": "Esth",
   "collection": "Deuterocanonical",
   "chapter": 14,
+  "sections": [
+    {
+      "title": "Addition D — Esther Approaches the King",
+      "startVerse": 1,
+      "endVerse": 6
+    }
+  ],
   "verses": [
     {
       "pk": 19014001,
@@ -13,7 +20,6 @@
       "bookAbbreviation": "Esth",
       "chapter": 14,
       "verse": 1,
-      "heading": "Addition D — Esther Approaches the King",
       "text": "On the third day, Esther put on splendid royal attire and called upon God, who watches over all and saves.",
       "links": "<a href='/AIV/19/5/1'>Esth. 5:1</a>; <a href='/AIV/19/121/4'>Ps. 121:4</a>",
       "comment": "This addition makes Esther’s hidden reliance explicit: her courage is grounded in prayer. The “third day” continues to carry the biblical sense of decisive turning and deliverance."

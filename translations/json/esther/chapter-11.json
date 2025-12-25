@@ -4,6 +4,13 @@
   "bookAbbreviation": "Esth",
   "collection": "Deuterocanonical",
   "chapter": 11,
+  "sections": [
+    {
+      "title": "Addition A — Prologue (Mordecai’s Dream)",
+      "startVerse": 1,
+      "endVerse": 5
+    }
+  ],
   "verses": [
     {
       "pk": 19011001,
@@ -13,7 +20,6 @@
       "bookAbbreviation": "Esth",
       "chapter": 11,
       "verse": 1,
-      "heading": "Addition A — Prologue (Mordecai’s Dream)",
       "text": "Mordecai son of Jair, son of Shimei, son of Kish, of the tribe of Benjamin, who lived in Susa, had a dream and visions in the night.",
       "links": "<a href='/AIV/19/2/5'>Esth. 2:5</a>",
       "comment": "This prologue frames the whole story as guided by providence. Mordecai’s dream uses symbolic imagery, preparing the reader to see the coming conflict not merely as politics, but as part of a larger spiritual struggle."

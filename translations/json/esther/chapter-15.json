@@ -4,6 +4,13 @@
   "bookAbbreviation": "Esth",
   "collection": "Deuterocanonical",
   "chapter": 15,
+  "sections": [
+    {
+      "title": "Addition E — Decree for the Jews",
+      "startVerse": 1,
+      "endVerse": 7
+    }
+  ],
   "verses": [
     {
       "pk": 19015001,
@@ -13,7 +20,6 @@
       "bookAbbreviation": "Esth",
       "chapter": 15,
       "verse": 1,
-      "heading": "Addition E — Decree for the Jews",
       "text": "The great King Xerxes writes to the rulers of the one hundred and twenty-seven provinces from India to Cush, and to the governors under them, as follows:",
       "links": "<a href='/AIV/19/8/9'>Esth. 8:9</a>",
       "comment": "This addition presents the reversal as an official royal proclamation. It complements Esther 8 by giving a fuller “letter-style” explanation of the king’s change of policy."

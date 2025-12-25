@@ -4,6 +4,18 @@
   "bookAbbreviation": "Esth",
   "collection": "Deuterocanonical",
   "chapter": 13,
+  "sections": [
+    {
+      "title": "Addition C — Prayer of Mordecai",
+      "startVerse": 1,
+      "endVerse": 5
+    },
+    {
+      "title": "Addition C — Prayer of Esther",
+      "startVerse": 6,
+      "endVerse": 11
+    }
+  ],
   "verses": [
     {
       "pk": 19013001,
@@ -13,7 +25,6 @@
       "bookAbbreviation": "Esth",
       "chapter": 13,
       "verse": 1,
-      "heading": "Addition C — Prayer of Mordecai",
       "text": "Then Mordecai prayed to the Lord and said, 'Lord, Lord, King Almighty, everything is in your power, and no one can resist you when you will to save.'",
       "links": "<a href='/AIV/14/20/6'>2 Chr. 20:6</a>",
       "comment": "Mordecai begins with adoration and faith in God’s sovereignty. In biblical prayer, remembering who God is comes before naming what we fear."
@@ -74,7 +85,6 @@
       "bookAbbreviation": "Esth",
       "chapter": 13,
       "verse": 6,
-      "heading": "Addition C — Prayer of Esther",
       "text": "Queen Esther, seized with fear of death, sought refuge in the Lord and prayed,",
       "links": "<a href='/AIV/19/56/3-4'>Ps. 56:3-4</a>",
       "comment": "Esther’s prayer makes explicit what the narrative implies: before she enters the king’s court, she enters prayer. Fear becomes a doorway to faith."
