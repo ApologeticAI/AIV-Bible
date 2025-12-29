@@ -3,6 +3,18 @@
   "bookName": "Sirach",
   "bookAbbreviation": "Sir",
   "chapter": 36,
+  "sections": [
+    {
+      "title": "A Prayer for God's Mercy on Israel",
+      "startVerse": 1,
+      "endVerse": 15
+    },
+    {
+      "title": "Prayer for the Vindication of God's People",
+      "startVerse": 16,
+      "endVerse": 31
+    }
+  ],
   "verses": [
     {
       "pk": 28036001,
@@ -12,10 +24,10 @@
       "bookAbbreviation": "Sir",
       "chapter": 36,
       "verse": 1,
-      "text": "Have mercy on us, Lord of all, and look upon us,",
-      "links": "<a href='/AIV/19/123/3'>Psalm 123:3</a>; <a href='/AIV/26/9/8'>Ezekiel 9:8</a>",
-      "comment": "Sirach begins this prayer seeking God's mercy, a theme central to the wisdom literature and echoed in Psalm 123. The address to the 'Lord of all' emphasizes God's sovereignty over every nation and individual.",
-      "sectionHeader": "Prayer for the Vindication of Israel"
+      "text": "Have mercy upon us, O Lord God of all, and look upon us,",
+      "links": "<a href='/AIV/19/80/3'>Ps. 80:3</a>; <a href='/AIV/19/123/3'>Ps. 123:3</a>",
+      "comment": "The chapter begins with an urgent prayer for God's mercy and attention, echoing petitions common in the Psalms.",
+      "sectionHeader": "A Prayer for God's Mercy on Israel"
     },
     {
       "pk": 28036002,
@@ -25,9 +37,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 36,
       "verse": 2,
-      "text": "Send your fear upon all the nations who do not know you;",
-      "links": "<a href='/AIV/19/9/20'>Psalm 9:20</a>; <a href='/AIV/23/64/2'>Isaiah 64:2</a>",
-      "comment": "The author asks God to reveal His power to non-believing peoples, similar to the prayers in the Psalms. There's a desire for universal acknowledgment of God's majesty."
+      "text": "and send your fear upon all the nations that do not know you,",
+      "links": "<a href='/AIV/19/9/20'>Ps. 9:20</a>",
+      "comment": "The prayer seeks not only restoration for Israel but also the recognition of God's power by the nations, prefiguring God's plan for all peoples."
     },
     {
       "pk": 28036003,
@@ -37,9 +49,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 36,
       "verse": 3,
-      "text": "Lift your hand against foreign nations, so that they may see your might.",
-      "links": "<a href='/AIV/02/7/5'>Exodus 7:5</a>; <a href='/AIV/26/28/22'>Ezekiel 28:22</a>",
-      "comment": "God's intervention among the nations displays His glory and sets up the expectation of future judgment. This echoes Exodus, as God made His power known to Egypt and others."
+      "text": "that they may know, as we have known, that there is no God but you, O Lord.",
+      "links": "<a href='/AIV/05/4/35'>Deut. 4:35</a>; <a href='/AIV/23/45/5'>Isa. 45:5</a>; <a href='/AIV/19/86/10'>Ps. 86:10</a>",
+      "comment": "Emphasizes the uniqueness of God, a strong affirmation of monotheism vital to Old Testament revelation, ultimately fulfilled in the unity of faith Christ prays for (John 17:3)."
     },
     {
       "pk": 28036004,
@@ -49,9 +61,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 36,
       "verse": 4,
-      "text": "Just as you have shown them your holiness in us, so now show your glory in them.",
-      "links": "<a href='/AIV/02/19/6'>Exodus 19:6</a>; <a href='/AIV/09/6/20'>1 Samuel 6:20</a>",
-      "comment": "Here, the author begs God for equal manifestation of His glory in the Gentiles as He had shown among His chosen people. This foreshadows the extending of salvation to all nations."
+      "text": "Show new signs, and perform other wonders;",
+      "links": "<a href='/AIV/02/7/8-9'>Ex. 7:8-9</a>; <a href='/AIV/19/78/43'>Ps. 78:43</a>",
+      "comment": "A yearning for new manifestations of God's power, recalling the miraculous works in Israel's history and looking forward to the ultimate sign in the resurrection of Jesus (Matt. 12:39-40)."
     },
     {
       "pk": 28036005,
@@ -61,9 +73,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 36,
       "verse": 5,
-      "text": "Let them come to know you, just as we have come to know you, that there is no God but you, O Lord.",
-      "links": "<a href='/AIV/05/4/35'>Deuteronomy 4:35</a>; <a href='/AIV/23/45/5'>Isaiah 45:5</a>",
-      "comment": "The acknowledgment of monotheism stresses deep Jewish faith and provides an early seed for universal worship, hinting at the later worldwide spread of faith through the gospel."
+      "text": "glorify your hand and your right arm so that they may set forth your marvelous works.",
+      "links": "<a href='/AIV/02/15/6'>Ex. 15:6</a>; <a href='/AIV/19/98/1'>Ps. 98:1</a>",
+      "comment": "The reference to God's 'right arm' alludes to divine intervention and salvation—themes fulfilled in Christ, who is seated at the right hand of the Father."
     },
     {
       "pk": 28036006,
@@ -73,9 +85,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 36,
       "verse": 6,
-      "text": "Renew signs and repeat wonders;",
-      "links": "<a href='/AIV/02/7/9'>Exodus 7:9</a>; <a href='/AIV/44/2/22'>Acts 2:22</a>",
-      "comment": "Asking God to do great deeds as in the days of old, and anticipate miracles accompanying the way God works in both Old and New Testament times. Connects to the signs God performed both in Exodus and through Christ."
+      "text": "Raise up your anger and pour out your wrath;",
+      "links": "<a href='/AIV/19/69/24'>Ps. 69:24</a>; <a href='/AIV/19/79/6'>Ps. 79:6</a>",
+      "comment": "This echoes imprecatory prayers and reminds us that God's justice is part of His love, culminating in the Last Judgment (Rev. 20:12)."
     },
     {
       "pk": 28036007,
@@ -85,9 +97,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 36,
       "verse": 7,
-      "text": "Glorify your hand and your right arm so that they may experience your wonders.",
-      "links": "<a href='/AIV/02/15/6'>Exodus 15:6</a>; <a href='/AIV/19/98/1'>Psalm 98:1</a>",
-      "comment": "The imagery of God's right hand signifies power and victory, foreshadowing how Christ is described as seated at God's right hand (see Hebrews 1:3)."
+      "text": "destroy the adversary and wipe out the enemy.",
+      "links": "<a href='/AIV/02/15/7'>Ex. 15:7</a>",
+      "comment": "This prayer for deliverance from enemies reflects both the physical and spiritual struggles of God's people. Spiritually fulfilled through Christ's defeat of sin and death (1 Cor. 15:54-57)."
     },
     {
       "pk": 28036008,
@@ -97,9 +109,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 36,
       "verse": 8,
-      "text": "Pour out your anger on nations that have not known you, and on kingdoms that have not called on your name.",
-      "links": "<a href='/AIV/24/10/25'>Jeremiah 10:25</a>; <a href='/AIV/19/79/6'>Psalm 79:6</a>",
-      "comment": "The idea of divine judgment is a consistent theme. Note the spiritual implication: even today, praying for justice but also for the conversion of those far from God."
+      "text": "Hasten the day, and remember the appointed time, and let people recount your mighty deeds.",
+      "links": "<a href='/AIV/34/1/15'>Nah. 1:15</a>; <a href='/AIV/19/106/2'>Ps. 106:2</a>",
+      "comment": "Longing for God's promised intervention. In the wider biblical context, this anticipation is fulfilled in the coming of the Messiah and the hope of his return."
     },
     {
       "pk": 28036009,
@@ -109,9 +121,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 36,
       "verse": 9,
-      "text": "For they have devoured Jacob and desolated his homeland.",
-      "links": "<a href='/AIV/19/79/7'>Psalm 79:7</a>; <a href='/AIV/23/10/6'>Isaiah 10:6</a>",
-      "comment": "This verse refers to enemies of Israel who have oppressed God's people—pointing to the need for restoration and justice."
+      "text": "Let the fury of fire consume those who survive, and let those who harm your people meet destruction.",
+      "links": "<a href='/AIV/23/66/15-16'>Isa. 66:15-16</a>; <a href='/AIV/66/20/9'>Rev. 20:9</a>",
+      "comment": "Judgment imagery of consuming fire is found throughout Scripture, symbolizing both purification and destruction (cf. Heb. 12:29; 1 Cor. 3:13)."
     },
     {
       "pk": 28036010,
@@ -121,9 +133,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 36,
       "verse": 10,
-      "text": "Do to them as you did to Midian, to Sisera and Jabin at the river Kishon;",
-      "links": "<a href='/AIV/07/7/22-25'>Judges 7:22-25</a>; <a href='/AIV/07/4/15-24'>Judges 4:15-24</a>",
-      "comment": "The prayer recalls past military victories. This invocation of historical acts reminds believers of God's continued power to save and judge."
+      "text": "Crush the heads of the rulers of the enemies who say, 'There is no one but us.'",
+      "links": "<a href='/AIV/19/110/6'>Ps. 110:6</a>; <a href='/AIV/01/3/15'>Gen. 3:15</a>",
+      "comment": "References to head-crushing connect with earliest biblical prophecies—the 'Protoevangelium' foretelling ultimate victory over evil (Gen. 3:15), a theme fulfilled in Christ."
     },
     {
       "pk": 28036011,
@@ -133,9 +145,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 36,
       "verse": 11,
-      "text": "They were destroyed together in their pride and turned to shame.",
-      "links": "<a href='/AIV/07/5/20-31'>Judges 5:20-31</a>; <a href='/AIV/19/83/9-10'>Psalm 83:9-10</a>",
-      "comment": "The defeat of proud oppressors echoes the theme of God humbling those who exalt themselves. Shame comes as a consequence of wickedness."
+      "text": "Gather all the tribes of Jacob, and give them their inheritance, as at the beginning.",
+      "links": "<a href='/AIV/01/49/28'>Gen. 49:28</a>; <a href='/AIV/26/37/21-22'>Ezek. 37:21-22</a>",
+      "comment": "This anticipates the reunification and restoration of God's people—a sign of God's continuing covenant faithfulness, ultimately completed in the Church as the 'new Israel.'"
     },
     {
       "pk": 28036012,
@@ -145,9 +157,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 36,
       "verse": 12,
-      "text": "Scatter their leaders and break the power of their rulers.",
-      "links": "<a href='/AIV/19/2/2-3'>Psalm 2:2-3</a>; <a href='/AIV/23/41/15'>Isaiah 41:15</a>",
-      "comment": "God's sovereignty over rulers is a key biblical idea. This verse asks God to overthrow worldly powers that oppose Him."
+      "text": "O Lord, have mercy on the people called by your name, on Israel, whom you have called your firstborn.",
+      "links": "<a href='/AIV/02/4/22'>Ex. 4:22</a>; <a href='/AIV/23/63/19'>Isa. 63:19</a>",
+      "comment": "Israel as 'firstborn' is foundational, later applied to Christ (Heb. 1:6) and to all who become children of God through Him (cf. Gal. 3:7,29)."
     },
     {
       "pk": 28036013,
@@ -157,9 +169,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 36,
       "verse": 13,
-      "text": "Let those who survive be consumed by terror, and let their power collapse.",
-      "links": "<a href='/AIV/05/28/65'>Deuteronomy 28:65</a>; <a href='/AIV/23/13/7-8'>Isaiah 13:7-8</a>",
-      "comment": "A continuation of the prayer for justice, drawing on Torah traditions of curses upon the unrighteous nations."
+      "text": "Take pity on the city of your sanctuary, Jerusalem, the place of your rest.",
+      "links": "<a href='/AIV/19/132/13-14'>Ps. 132:13-14</a>; <a href='/AIV/19/87/2'>Ps. 87:2</a>",
+      "comment": "Jerusalem, the 'city of God's rest,' is central in Salvation History—pointing forward to the heavenly Jerusalem (Heb. 12:22; Rev. 21:2), and the place God dwells among His people."
     },
     {
       "pk": 28036014,
@@ -169,9 +181,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 36,
       "verse": 14,
-      "text": "Crush those who oppress us with violence, so they may know there is no one but you who defends your people.",
-      "links": "<a href='/AIV/19/59/13'>Psalm 59:13</a>; <a href='/AIV/19/46/7'>Psalm 46:7</a>",
-      "comment": "This verse points to an exclusivity of God's protection for His people, and hints at spiritual warfare—an idea central to later Christian prayer."
+      "text": "Have mercy, O Lord, upon the people called by your name, upon Israel, whom you have named your firstborn.",
+      "links": [
+        "Ex 4:22",
+        "Isa 63:16",
+        "Deut 7:6"
+      ],
+      "comment": "This verse invokes God's covenant mercy toward Israel, echoing Exodus 4:22 where Israel is called God's 'firstborn,' highlighting their unique status among nations and the enduring theme of divine election and compassion."
     },
     {
       "pk": 28036015,
@@ -181,10 +197,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 36,
       "verse": 15,
-      "text": "Shower mercy upon your people whom you have called by your name, O Lord.",
-      "links": "<a href='/AIV/14/7/14'>2 Chronicles 7:14</a>; <a href='/AIV/01/12/2'>Genesis 12:2</a>",
-      "comment": "There is an emphasis on God's chosen people, echoing both the Abrahamic calling and the later idea of the church as God's own.",
-      "sectionHeader": "Petition for God's Mercy and Blessings"
+      "text": "Give testimony to those whom you created from the beginning, and raise up the prophetic words spoken in your name.",
+      "links": "<a href='/AIV/05/18/18'>Deut. 18:18</a>; <a href='/AIV/40/5/17'>Matt. 5:17</a>",
+      "comment": "A plea for God to confirm and fulfill His promises through the message of the prophets, fully realized in Christ, the ultimate Prophet."
     },
     {
       "pk": 28036016,
@@ -194,9 +209,10 @@
       "bookAbbreviation": "Sir",
       "chapter": 36,
       "verse": 16,
-      "text": "Show your compassion to your sanctuary, and let Jerusalem be filled with your glory.",
-      "links": "<a href='/AIV/11/8/10-11'>1 Kings 8:10-11</a>; <a href='/AIV/26/43/4-5'>Ezekiel 43:4-5</a>",
-      "comment": "This prayer for the sanctuary points to the centrality of worship and God dwelling among His people. See Ezekiel’s promise of glory returning to God's house—parallels later fulfillment in Christ."
+      "text": "Reward those who wait for you, and let your prophets be found trustworthy.",
+      "links": "<a href='/AIV/23/40/31'>Isa. 40:31</a>; <a href='/AIV/58/11/6'>Heb. 11:6</a>",
+      "comment": "The faithfulness of the prophets is vindicated when God fulfills their words. The faithful are assured of reward, a foreshadowing of the beatific vision promised to God's people.",
+      "sectionHeader": "Prayer for the Vindication of God's People"
     },
     {
       "pk": 28036017,
@@ -206,9 +222,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 36,
       "verse": 17,
-      "text": "Testify to those whom you created at the beginning, and fulfill the prophecies spoken in your name.",
-      "links": "<a href='/AIV/01/1/27'>Genesis 1:27</a>; <a href='/AIV/23/55/11'>Isaiah 55:11</a>",
-      "comment": "God’s promises and prophecies are assured; the call for fulfillment connects OT prophecies to New Testament fulfillment in Jesus."
+      "text": "Hear, O Lord, the prayer of your servants, according to the blessing of Aaron over your people, and all who dwell on earth will acknowledge that you are the Lord, the God of the ages.",
+      "links": "<a href='/AIV/04/6/23-27'>Num. 6:23-27</a>; <a href='/AIV/23/45/22-23'>Isa. 45:22-23</a>",
+      "comment": "The Aaronic blessing is a sign of God's enduring favor—a powerful connection to the sacramental life that extends the blessing to all nations in Christ (cf. Acts 3:25-26)."
     },
     {
       "pk": 28036018,
@@ -218,9 +234,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 36,
       "verse": 18,
-      "text": "Give reward to those who wait for you, and let your prophets be found trustworthy.",
-      "links": "<a href='/AIV/23/65/13'>Isaiah 65:13</a>; <a href='/AIV/19/105/15'>Psalm 105:15</a>",
-      "comment": "Emphasizes faithfulness and patience, themes important for prophetic ministry and Christian perseverance."
+      "text": "The stomach takes different kinds of food, and the heart discerns different thoughts.",
+      "links": "<a href='/AIV/20/14/10'>Prov. 14:10</a>",
+      "comment": "Transition from prayer to wisdom sayings: physical appetite is compared with spiritual discernment—foreshadowing the importance of rightly formed conscience."
     },
     {
       "pk": 28036019,
@@ -230,9 +246,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 36,
       "verse": 19,
-      "text": "Hear the prayer of your servants according to the blessing of Aaron on your people.",
-      "links": "<a href='/AIV/04/6/23-27'>Numbers 6:23-27</a>",
-      "comment": "A direct reference to the priestly blessing, indicating the continued importance of priestly intercession and mediation—see Numbers 6. The spiritual implication is that blessings come through a sacred ordering."
+      "text": "As the palate tastes the game of the hunt, so a wise mind discerns lying words.",
+      "links": "<a href='/AIV/20/16/23'>Prov. 16:23</a>; <a href='/AIV/58/5/14'>Heb. 5:14</a>",
+      "comment": "Acute discernment is a mark of wisdom—fulfilled especially in Christ, who is Truth incarnate (John 14:6)."
     },
     {
       "pk": 28036020,
@@ -242,9 +258,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 36,
       "verse": 20,
-      "text": "May all the people on earth recognize that you are the Lord, the eternal God.",
-      "links": "<a href='/AIV/10/7/26'>2 Samuel 7:26</a>; <a href='/AIV/19/86/10'>Psalm 86:10</a>",
-      "comment": "The prayer is for universal worship—echoes messianic prophecies of God's name being known among all nations, a recurring theme in both testaments."
+      "text": "A perverse heart will cause grief, but an experienced person will repay it with understanding.",
+      "links": "<a href='/AIV/20/15/13-14'>Prov. 15:13-14</a>",
+      "comment": "Contrasting the effect of a depraved heart and the wisdom of the mature—pointing to the need for the renewal of mind in Christ (Rom. 12:2)."
     },
     {
       "pk": 28036021,
@@ -254,10 +270,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 36,
       "verse": 21,
-      "text": "The stomach can take any food, but one food is better than another.",
-      "links": "<a href='/AIV/20/25/16'>Proverbs 25:16</a>; <a href='/AIV/03/11/2'>Leviticus 11:2</a>",
-      "comment": "Beginning a wisdom section, with parallels to Proverbs and food laws, symbolically contrasting spiritual nourishment and wisdom.",
-      "sectionHeader": "On Discerning a Worthy Wife"
+      "text": "A woman will accept any man as a husband, but one woman is more sensible than another.",
+      "links": "<a href='/AIV/20/12/4'>Prov. 12:4</a>",
+      "comment": "Wisdom in marriage is valued—recalling the biblical ideal of a virtuous spouse (Prov. 31), reflecting deeper truths about God's covenant love."
     },
     {
       "pk": 28036022,
@@ -267,9 +282,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 36,
       "verse": 22,
-      "text": "As the palate tastes different kinds of food, so does a discerning mind detect false words.",
-      "links": "<a href='/AIV/18/12/11'>Job 12:11</a>; <a href='/AIV/20/15/14'>Proverbs 15:14</a>",
-      "comment": "Natural sense is likened to spiritual discernment—see Job's analogy."
+      "text": "A woman's beauty gladdens the face, and surpasses every desire of man.",
+      "links": "<a href='/AIV/19/45/11'>Ps. 45:11</a>",
+      "comment": "Physical beauty is acknowledged as a good, yet underlines the deeper goodness of God's creation and hints at the desire for divine beauty, fulfilled in the vision of God."
     },
     {
       "pk": 28036023,
@@ -279,9 +294,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 36,
       "verse": 23,
-      "text": "A woman's heart can sometimes shape her husband, so it is with a discerning woman who finds rest for her husband.",
-      "links": "<a href='/AIV/20/12/4'>Proverbs 12:4</a>; <a href='/AIV/20/31/11-12'>Proverbs 31:11-12</a>",
-      "comment": "Here, the text highlights the role of women in marriage, blending ancient wisdom with family instruction."
+      "text": "The stomach will take any food, yet one food is better than another.",
+      "links": "<a href='/AIV/20/31/26-29'>Prov. 31:26-29</a>",
+      "comment": "The spiritual virtues of kindness and humility are of greater value than physical beauty. This echoes the New Testament emphasis on interior holiness (1 Pet. 3:3-4)."
     },
     {
       "pk": 28036024,
@@ -291,9 +306,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 36,
       "verse": 24,
-      "text": "A wife can be taken for her appearance, but her value is in her heart and her hands.",
-      "links": "<a href='/AIV/20/31/30'>Proverbs 31:30</a>; <a href='/AIV/09/16/7'>1 Samuel 16:7</a>",
-      "comment": "The biblical idea that inner qualities outweigh physical beauty is repeated in Scripture, especially in the wisdom tradition."
+      "text": "As the palate tastes the kinds of game, so an intelligent mind detects false words.",
+      "links": "<a href='/AIV/01/2/18'>Gen. 2:18</a>; <a href='/AIV/20/18/22'>Prov. 18:22</a>",
+      "comment": "Marriage is understood as a partnership ordained by God, reflecting the deeper mystery of Christ and His Church (Eph. 5:32)—the mutual help and sanctification the union brings."
     },
     {
       "pk": 28036025,
@@ -303,9 +318,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 36,
       "verse": 25,
-      "text": "If her tongue brings healing and kindness, her husband is not like other men.",
-      "links": "<a href='/AIV/20/31/26'>Proverbs 31:26</a>; <a href='/AIV/20/18/22'>Proverbs 18:22</a>",
-      "comment": "Suggests that a wise and gracious wife elevates her husband above others, creating an ideal image of spiritual partnership."
+      "text": "A perverse mind will cause grief, but a person with experience will pay him back.",
+      "links": "<a href='/AIV/20/19/14'>Prov. 19:14</a>",
+      "comment": "Stresses the protective value of marriage, portraying the domestic union as ordered by providence and necessary for human fulfillment."
     },
     {
       "pk": 28036026,
@@ -315,9 +330,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 36,
       "verse": 26,
-      "text": "He who acquires a wife begins to possess riches—a helper matching him, a strong pillar.",
-      "links": "<a href='/AIV/01/2/18'>Genesis 2:18</a>; <a href='/AIV/20/19/14'>Proverbs 19:14</a>",
-      "comment": "Marriage is highlighted as a source of spiritual and earthly blessing (Genesis 2), echoing the partnership God instituted at creation."
+      "text": "A woman will accept any man as a husband, but one girl is preferable to another.",
+      "links": "<a href='/AIV/19/109/10'>Ps. 109:10</a>",
+      "comment": "Lack of rootedness is compared to instability and mistrust. Spiritual stability is found in faithfulness and in one's proper vocation."
     },
     {
       "pk": 28036027,
@@ -327,9 +342,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 36,
       "verse": 27,
-      "text": "Where no wall surrounds, property is left unprotected; so a man without a wife is anxious and wandering.",
-      "links": "<a href='/AIV/01/2/24'>Genesis 2:24</a>; <a href='/AIV/20/31/10'>Proverbs 31:10</a>",
-      "comment": "The comparison draws a parallel between the safety given by a wall and the stability provided by a wife, presenting marriage as a safeguard."
+      "text": "A woman’s beauty lights up a man’s face, and there is nothing he desires more.",
+      "links": "<a href='/AIV/19/39/12'>Ps. 39:12</a>",
+      "comment": "Restates the image of wandering, suggesting the natural human desire for belonging and stability, ultimately fulfilled in our heavenly home (Heb. 13:14)."
     },
     {
       "pk": 28036028,
@@ -339,9 +354,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 36,
       "verse": 28,
-      "text": "Who will trust a well-fitted thief who quickly wanders from city to city?",
-      "links": "<a href='/AIV/20/2/11-15'>Proverbs 2:11-15</a>",
-      "comment": "The warning here emphasizes discernment and trustworthiness, paralleling the wisdom against trusting unreliable people."
+      "text": "If kindness and humility mark her speech, her husband is more fortunate than other men.",
+      "links": "<a href='/AIV/20/31/10'>Prov. 31:10</a>",
+      "comment": "Echoes Proverbs 31—wisdom as embodied in a spouse is of inestimable value, both for the home and spiritual life."
     },
     {
       "pk": 28036029,
@@ -351,9 +366,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 36,
       "verse": 29,
-      "text": "So also with a man who has no nest, who lodges wherever night finds him.",
-      "links": "<a href='/AIV/19/84/3'>Psalm 84:3</a>; <a href='/AIV/40/8/20'>Matthew 8:20</a>",
-      "comment": "Compares a homeless man to a bird without a nest, underscoring the value of family, stability and rootedness—seen again in Christ's reference to Himself (Matt 8:20)."
+      "text": "He who acquires a wife gets his best possession, a helper fit for him and a pillar of support.",
+      "links": "<a href='/AIV/19/104/19-24'>Ps. 104:19-24</a>",
+      "comment": "Final verse compares home life and natural order, reflecting the belief that virtue and domestic harmony image God's own beauty and order."
     },
     {
       "pk": 28036030,
@@ -363,9 +378,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 36,
       "verse": 30,
-      "text": "The decision to settle down brings peace and order to a man’s life.",
-      "links": "<a href='/AIV/20/24/3-4'>Proverbs 24:3-4</a>; <a href='/AIV/19/127/1'>Psalm 127:1</a>",
-      "comment": "Peace and stability are linked to wise living and family—a spiritual reflection of God’s design for community and fruitful life."
+      "text": "Where there is no fence, the property will be plundered; and where there is no wife, a man will become a fugitive and a wanderer.",
+      "links": "<a href='/AIV/02/25/31'>Ex. 25:31</a>",
+      "comment": "The lampstand (menorah) is a symbol of God's presence in the sanctuary, linking domestic and sacred imagery. It also foreshadows Christ as the Light of the world (John 8:12)."
     },
     {
       "pk": 28036031,
@@ -375,27 +390,10 @@
       "bookAbbreviation": "Sir",
       "chapter": 36,
       "verse": 31,
-      "text": "So it is with wisdom: she builds her house and preserves her children for generations.",
-      "links": "<a href='/AIV/20/9/1'>Proverbs 9:1</a>; <a href='/AIV/19/112/2'>Psalm 112:2</a>",
-      "comment": "The wisdom tradition culminates in the imagery of wisdom as the builder and sustainer—a deeper allegory for the church and the communion of saints extending across generations. The spiritual reading points forward to the later development of the people of God united in faith and truth."
+      "text": "For who will trust a nimble robber that skips from city to city? So who will trust a man that has no nest, but lodges wherever night overtakes him?",
+      "links": "<a href='/AIV/22/5/15'>Song 5:15</a>",
+      "comment": "Concludes with an image from temple architecture, praising both bodily and spiritual virtues within the home."
     }
   ],
-  "translatedAt": "2025-12-24T07:42:44.399Z",
-  "sections": [
-    {
-      "title": "Prayer for the Vindication of Israel",
-      "startVerse": 1,
-      "endVerse": 14
-    },
-    {
-      "title": "Petition for God's Mercy and Blessings",
-      "startVerse": 15,
-      "endVerse": 20
-    },
-    {
-      "title": "On Discerning a Worthy Wife",
-      "startVerse": 21,
-      "endVerse": 31
-    }
-  ]
+  "translatedAt": "2025-12-28T23:44:40.992Z"
 }

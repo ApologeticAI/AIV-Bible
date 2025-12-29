@@ -49,9 +49,13 @@
       "bookAbbreviation": "Wis",
       "chapter": 15,
       "verse": 4,
-      "text": "For we were led astray by human inventions, by the worthless works of human skill and imagination.",
-      "links": "<a href='/AIV/45/1/21-23'>Rom. 1:21-23</a>; <a href='/AIV/23/44/9-20'>Isa. 44:9-20</a>",
-      "comment": "Sinful human creativity often turns to idolatry and false worship. Cross-references reinforce that idolatry is not just the making of statues, but the misplaced works of human effort apart from God, distorting the relationship He desires.",
+      "text": "For neither has the evil intent of human art misled us, nor the fruitless toil of painters, a figure stained with varied colors.",
+      "links": [
+        "Isa 44:9-20",
+        "Jer 10:3-5",
+        "Rom 1:22-23"
+      ],
+      "comment": "The author contrasts Israel’s fidelity with pagan nations, rejecting the seduction of idolatrous art (cf. Isa 44:9-20), emphasizing that painted images—shaped by human creativity—cannot lead them astray from true worship of God.",
       "sectionHeader": "The Folly of Idolatry"
     },
     {
@@ -170,9 +174,13 @@
       "bookAbbreviation": "Wis",
       "chapter": 15,
       "verse": 14,
-      "text": "But the most foolish are those who live in exile, oppressing others and making idols of all manner of animals—even the wild beasts, and more grotesque creatures—likening gods to these senseless forms.",
-      "links": "<a href='/AIV/45/1/23'>Rom. 1:23</a>; <a href='/AIV/19/106/36-38'>Ps. 106:36-38</a>",
-      "comment": "The passage reflects the absurdity of idolatry—worshiping even detestable or monstrous things. This also echoes Old Testament prohibitions on worshipping animals, underlying the necessity for a pure and uncorrupted worship.",
+      "text": "But most foolish, and more miserable than an infant, are all the enemies who oppressed your people.",
+      "links": [
+        "Ps 14:1",
+        "1 Cor 1:20",
+        "Wis 3:1"
+      ],
+      "comment": "Using strong language, the text declares that oppressors of God’s people display utter folly, an echo of Psalm 14:1; spiritually, their ignorance is worse than infancy because they actively choose hostility toward God.",
       "sectionHeader": "The Degradation of Animal Worship"
     },
     {
@@ -231,12 +239,16 @@
       "bookAbbreviation": "Wis",
       "chapter": 15,
       "verse": 19,
-      "text": "They compare these irrational beasts to the most beautiful animals, attributing divine powers to things that are beyond even recognition; a shameful deception and lack of discernment.",
-      "links": "<a href='/AIV/45/1/23'>Rom. 1:23</a>; <a href='/AIV/23/40/18-20'>Isa. 40:18-20</a>",
-      "comment": "The chapter concludes rebuking idolatrous confusion of creation and Creator, pointing towards the principle of rightly ordered worship and an invitation to embrace the fullness of revelation and discernment available in God's true worship."
+      "text": "And even as animals they are not so beautiful in appearance that one would desire them, but they have escaped both the praise of God and his blessing.",
+      "links": [
+        "Ps 115:4-8",
+        "Isa 40:18-20",
+        "Deut 7:26"
+      ],
+      "comment": "Idols, fashioned as grotesque animals, lack genuine beauty or divine blessing (see Deut 4:15-19), and are thus doubly empty—unworthy of admiration and bereft of any share in God’s creative affirmation."
     }
   ],
-  "translatedAt": "2025-12-24T07:21:14.229Z",
+  "translatedAt": "2025-12-28T07:02:05.023Z",
   "sections": [
     {
       "title": "God's Mercy and Sovereignty",

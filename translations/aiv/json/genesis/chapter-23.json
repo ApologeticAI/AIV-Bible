@@ -63,7 +63,11 @@
       "chapter": 23,
       "verse": 5,
       "text": "The sons of Heth answered Abraham,",
-      "links": "",
+      "links": [
+        "Gen 10:15",
+        "Gen 34:20",
+        "Josh 3:10"
+      ],
       "comment": "The Hittites’ respectful response to Abraham emphasizes his reputation and relationship with surrounding peoples."
     },
     {
@@ -135,7 +139,11 @@
       "chapter": 23,
       "verse": 11,
       "text": "\"No, my lord, listen to me: I give you the field and the cave that is in it; in the presence of my people I give it to you. Bury your dead.\"",
-      "links": "",
+      "links": [
+        "Gen 33:19",
+        "2 Sam 24:24",
+        "Acts 7:16"
+      ],
       "comment": "Ephron makes a generous offer, though social custom required a formal acceptance of payment. Public generosity and propriety reflect God’s model of honorable dealings."
     },
     {
@@ -147,7 +155,11 @@
       "chapter": 23,
       "verse": 12,
       "text": "Abraham bowed before the people of the land.",
-      "links": "",
+      "links": [
+        "Gen 18:2",
+        "Ruth 2:10",
+        "1 Sam 25:23"
+      ],
       "comment": "Further humility and gratitude highlight Abraham’s example as a leader marked by peace and diplomacy."
     },
     {
@@ -171,7 +183,10 @@
       "chapter": 23,
       "verse": 14,
       "text": "Ephron answered Abraham, saying to him,",
-      "links": "",
+      "links": [
+        "Gen 49:29-31",
+        "Jer 32:10-12"
+      ],
       "comment": "Negotiation in the Ancient Near East culture was expected to show mutual respect and honor."
     },
     {
@@ -183,7 +198,11 @@
       "chapter": 23,
       "verse": 15,
       "text": "\"My lord, listen to me: the land is worth four hundred shekels of silver. What is that between you and me? Bury your dead.\"",
-      "links": "",
+      "links": [
+        "Gen 37:28",
+        "Ex 30:13",
+        "Matt 27:9"
+      ],
       "comment": "Ephron names a price, allowing Abraham to pay. The details provide insight into economic practices and the value of transparent dealings amongst God's people."
     },
     {
@@ -244,7 +263,11 @@
       "chapter": 23,
       "verse": 20,
       "text": "So the field and the cave that is in it were deeded to Abraham by the sons of Heth as a possession for a burial site.",
-      "links": "",
+      "links": [
+        "Gen 25:9-10",
+        "Gen 49:30",
+        "Acts 7:16"
+      ],
       "comment": "This legally binding property becomes a perpetual memorial. Respect for the resting places of the departed anticipates later traditions within the whole people of God."
     }
   ],

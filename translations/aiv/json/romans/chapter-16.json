@@ -292,9 +292,13 @@
       "bookAbbreviation": "Rom",
       "chapter": 16,
       "verse": 24,
-      "text": "[Grace of our Lord Jesus Christ be with you all. Amen.]",
-      "links": "<a href='/AIV/46/16/23'>1 Cor. 16:23</a>; <a href='/AIV/53/3/18'>2 Thess. 3:18</a>",
-      "comment": "Some manuscripts include this benediction, reinforcing the centrality of grace and unity brought by Christ’s ongoing presence."
+      "text": "",
+      "links": [
+        "Rom 16:20",
+        "2 Thess 3:18",
+        "Phil 4:23"
+      ],
+      "comment": "This benediction reiterates Paul's central theme of grace throughout Romans (cf. Rom 1:7; 15:33), emphasizing the church’s dependence on Christ’s unmerited favor; similar blessings conclude several Pauline letters (e.g., 1 Cor 16:23, Gal 6:18)."
     },
     {
       "pk": 52016025,
@@ -334,7 +338,7 @@
       "comment": "The doxology affirms the glory and wisdom of God revealed in Christ. Worship is perpetually centered on the work of Christ within the apostolic tradition, encouraging all believers to join in eternal praise."
     }
   ],
-  "translatedAt": "2025-12-24T11:43:31.886Z",
+  "translatedAt": "2025-12-29T00:35:42.850Z",
   "sections": [
     {
       "title": "Commendation of Phoebe",

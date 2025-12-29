@@ -73,9 +73,13 @@
       "bookAbbreviation": "Tob",
       "chapter": 10,
       "verse": 6,
-      "text": "But Raphael said to Tobias, 'Azariah, take me home, for my father and mother have lost their hope and are deeply troubled.'",
-      "links": "<a href='/AIV/17/5/19'>Tobit 5:19</a>; <a href='/AIV/43/16/33'>John 16:33</a>",
-      "comment": "Raphael’s concern for Tobit and Anna foreshadows the ministry of angels, mediating comfort and guidance. Jesus promised His disciples encouragement through tribulation (John 16:33), showing God’s sent help in difficult times.",
+      "text": "But Tobit kept saying to her, \"Be quiet and do not worry, my dear; he is safe. Perhaps something unexpected has happened. The man who went with him is trustworthy and is one of our own relatives. Do not grieve, my dear; he will be home soon.\"",
+      "links": [
+        "Gen 43:13-14",
+        "Sir 2:6",
+        "Phil 4:6-7"
+      ],
+      "comment": "Tobit's attempt to reassure Anna reflects the patriarchal expectation for husbands to contain anxiety and offer hope, much as Jacob did when his sons went to Egypt (Genesis 43:14); here faith in kinship and divine providence undergirds Tobit’s trust in Raphael as a trustworthy intermediary.",
       "sectionHeader": "Tobias Prepares to Return with Sarra"
     },
     {
@@ -86,9 +90,13 @@
       "bookAbbreviation": "Tob",
       "chapter": 10,
       "verse": 7,
-      "text": "But Raguel said to Tobias, 'Stay, my child, and I will send messengers to your father. Let me give you half of my possessions. You will return safe to your father, and I will send Sarra, your wife, with you. May the Lord grant you prosperity.'",
-      "links": "<a href='/AIV/17/8/21'>Tobit 8:21</a>; <a href='/AIV/17/7/13'>Tobit 7:13</a>; <a href='/AIV/1/24/60'>Gen. 24:60</a>",
-      "comment": "Raguel’s generous offer recalls Old Testament blessings over new marriages (Genesis 24:60), highlighting the importance of family and transmission of spiritual inheritance across generations."
+      "text": "She answered him, \"Be quiet yourself! Stop trying to deceive me! My child has perished.\" Every day she would rush out and watch the road by which her son had departed, and would heed no one. When the sun set she would go in and mourn and weep all night long, unable to sleep at all.",
+      "links": [
+        "Gen 37:34-35",
+        "Jer 31:15",
+        "Luke 15:20"
+      ],
+      "comment": "Anna's grief highlights the maternal vulnerability often seen in biblical narratives (cf. Genesis 37:35; Jeremiah 31:15), underscoring human anguish and the struggle to trust God’s unseen care; her daily vigil illustrates deep familial love and anxiety in diaspora settings."
     },
     {
       "pk": 17010008,
@@ -110,7 +118,7 @@
       "bookAbbreviation": "Tob",
       "chapter": 10,
       "verse": 9,
-      "text": "So Raguel gave Tobias Sarra, his wife, along with half of his possessions: servants, cattle, and money.",
+      "text": "But Tobias said, 'No! I beg you to send me back to my father.'",
       "links": "<a href='/AIV/17/7/13-14'>Tobit 7:13-14</a>; <a href='/AIV/19/112/3'>Ps. 112:3</a>",
       "comment": "The transfer of wealth and blessing at marriage reflects covenantal faithfulness and echoes biblical patterns of inheritance and provision (Psalm 112:3)."
     },
@@ -122,7 +130,7 @@
       "bookAbbreviation": "Tob",
       "chapter": 10,
       "verse": 10,
-      "text": "He blessed them and said, 'May the God of heaven grant you a peaceful journey, my children.'",
+      "text": "So Raguel promptly gave Tobias his wife Sarah, as well as half of all his property: male and female slaves, oxen and sheep, donkeys and camels, clothing, money, and household goods.",
       "links": "<a href='/AIV/17/8/21'>Tobit 8:21</a>; <a href='/AIV/1/28/4'>Gen. 28:4</a>",
       "comment": "Raguel’s blessing invokes God as the source of security and peace, reminiscent of patriarchal blessings (Genesis 28:4). The emphasis on God’s providence prepares readers to grasp the sacramental reality of blessing."
     },
@@ -134,7 +142,7 @@
       "bookAbbreviation": "Tob",
       "chapter": 10,
       "verse": 11,
-      "text": "He sent his daughter away with Tobias, and Edna, his wife, and Sarra comforted each other as they departed.",
+      "text": "Then he saw them safely off; he embraced Tobias and said, 'Farewell, my child; have a safe journey. The Lord of heaven prosper you and your wife Sarah, and may I see children of yours before I die.'",
       "links": "<a href='/AIV/17/7/16'>Tobit 7:16</a>; <a href='/AIV/19/30/5'>Ps. 30:5</a>",
       "comment": "The close relationship among Edna, Sarra, and Tobias shows the importance of family unity during times of transition, pointing to the spiritual support found within the believing community."
     },
@@ -146,7 +154,7 @@
       "bookAbbreviation": "Tob",
       "chapter": 10,
       "verse": 12,
-      "text": "Raguel said to Tobias, 'My dear son, may the Lord of heaven bring you safely, and may I see your children before I die.'",
+      "text": "Then he kissed his daughter Sarah and said to her, 'My daughter, honor your father-in-law and your mother-in-law, since from now on they are as much your parents as those who gave you birth. Go in peace, daughter, and may I hear a good report about you as long as I live.' Then he bade them farewell and let them go. Then Edna said to Tobias, 'My child and dear brother, the Lord of heaven bring you back safely, and may I live long enough to see children of you and of my daughter Sarah before I die. In the sight of the Lord I entrust my daughter to you; do nothing to grieve her all the days of your life. Go in peace, my child. From now on I am your mother and Sarah is your beloved wife. May we all prosper together all the days of our lives.' Then she kissed them both and saw them safely off.",
       "links": "<a href='/AIV/19/128/6'>Ps. 128:6</a>; <a href='/AIV/1/50/23'>Gen. 50:23</a>",
       "comment": "The longing to see grandchildren is a biblical theme (Psalm 128:6; Genesis 50:23), symbolizing hope for blessing and continuity within God’s people—a hint at the spiritual fruitfulness promised to those who remain in the covenant."
     },
@@ -158,7 +166,7 @@
       "bookAbbreviation": "Tob",
       "chapter": 10,
       "verse": 13,
-      "text": "He embraced Sarra his daughter and said, 'My child, honor your father and mother-in-law; they are now your parents. May I hear good news of you until my end.' Then he kissed her and let her go.",
+      "text": "Tobias parted from Raguel with happiness and joy, praising the Lord of heaven and earth, King over all, because he had made his journey a success. Finally, he blessed Raguel and his wife Edna, and said, 'I have been commanded by the Lord to honor you all the days of my life.'",
       "links": "<a href='/AIV/2/20/12'>Ex. 20:12</a>; <a href='/AIV/41/7/10'>Mark 7:10</a>",
       "comment": "Raguel charges Sarra to honor her new parents, tying in the commandment to honor one’s father and mother (Exodus 20:12; Mark 7:10). This deepens the theology of obedience and familial authority, which foreshadows the Church’s structure and spiritual parenthood."
     },
@@ -175,7 +183,7 @@
       "comment": "The closing blessing invokes lasting divine protection, much like the priestly blessing (Psalm 121:7-8). This foreshadows the practice of blessing in the liturgical tradition, preparing hearts for a deeper appreciation of sacramental grace."
     }
   ],
-  "translatedAt": "2025-12-24T04:57:59.002Z",
+  "translatedAt": "2025-12-28T23:45:15.710Z",
   "sections": [
     {
       "title": "Tobit and Anna Mourn the Delay of Tobias",

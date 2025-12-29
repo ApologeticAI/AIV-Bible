@@ -3,6 +3,18 @@
   "bookName": "Sirach",
   "bookAbbreviation": "Sir",
   "chapter": 17,
+  "sections": [
+    {
+      "title": "God’s Creation of Man",
+      "startVerse": 1,
+      "endVerse": 26
+    },
+    {
+      "title": "Repentance, Thanksgiving, and the Way to Life",
+      "startVerse": 27,
+      "endVerse": 32
+    }
+  ],
   "verses": [
     {
       "pk": 28017001,
@@ -12,10 +24,10 @@
       "bookAbbreviation": "Sir",
       "chapter": 17,
       "verse": 1,
-      "text": "The Lord created man from the earth, and turned him back to it again.",
+      "text": "The Lord created man out of the earth, and turned him back to it again.",
       "links": "<a href='/AIV/01/2/7'>Gen. 2:7</a>; <a href='/AIV/01/3/19'>Gen. 3:19</a>",
-      "comment": "This verse recalls the creation of Adam and humanity’s return to dust, stressing our dependence on God and mortality. See also Gen. 2:7, 3:19.",
-      "sectionHeader": "The Creation and Honor of Man"
+      "comment": "Echoes Genesis creation; man is fashioned from dust and returns to it (death). The cyclical nature of life and death underlies resurrection hope.",
+      "sectionHeader": "God’s Creation of Man"
     },
     {
       "pk": 28017002,
@@ -25,9 +37,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 17,
       "verse": 2,
-      "text": "He gave them a set number of days and a fixed time, and gave them authority over the things on the earth.",
-      "links": "<a href='/AIV/01/1/28'>Gen. 1:28</a>; <a href='/AIV/18/14/5'>Job 14:5</a>",
-      "comment": "God's sovereignty gives us both limits and dignity. Human authority over creation foreshadows deeper spiritual responsibility."
+      "text": "He gave them a fixed number of days and granted them authority over everything on the earth.",
+      "links": "<a href='/AIV/01/1/28'>Gen. 1:28</a>; <a href='/AIV/19/8/6'>Ps. 8:6</a>",
+      "comment": "Human dominion is a gift and responsibility, reflecting stewardship."
     },
     {
       "pk": 28017003,
@@ -37,9 +49,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 17,
       "verse": 3,
-      "text": "He endowed them with strength like his own, and made them in his own image.",
-      "links": "<a href='/AIV/01/1/27'>Gen. 1:27</a>; <a href='/AIV/19/8/5'>Ps. 8:5</a>",
-      "comment": "Being made in God's image gives all human life sacred worth. The reference anticipates the restoration of this image in Christ. See Gen. 1:27."
+      "text": "He clothed them with strength like himself, and made them according to his own image.",
+      "links": "<a href='/AIV/01/1/27'>Gen. 1:27</a>",
+      "comment": "Mirroring Genesis; image of God implies capacity for moral reasoning and communion, anticipating Christ as perfect image (Col. 1:15)."
     },
     {
       "pk": 28017004,
@@ -49,9 +61,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 17,
       "verse": 4,
-      "text": "He gave them the ability to rule over all things, and put all things under their authority.",
-      "links": "<a href='/AIV/19/8/6'>Ps. 8:6-8</a>; <a href='/AIV/01/1/28'>Gen. 1:28</a>",
-      "comment": "This dominion shows the role of humans as stewards reflecting the Creator’s kingship, underlying both a royal and priestly role."
+      "text": "He put the fear of them in every living thing, and gave them authority over beasts and birds.",
+      "links": "<a href='/AIV/01/1/28'>Gen. 1:28</a>; <a href='/AIV/19/8/7-8'>Ps. 8:7-8</a>",
+      "comment": "Highlights humanity's rule over creation; points to responsibility, not domination."
     },
     {
       "pk": 28017005,
@@ -60,10 +72,10 @@
       "bookName": "Sirach",
       "bookAbbreviation": "Sir",
       "chapter": 17,
-      "verse": 5,
-      "text": "He gave them tongue, eyes, ears, and a heart to think.",
-      "links": "<a href='/AIV/20/20/12'>Prov. 20:12</a>",
-      "comment": "The human faculties are gifts for knowing and praising God, indicating that awareness of truth is central to God’s design."
+      "verse": 6,
+      "text": "He formed within them speech, and a tongue, eyes and ears, and gave them a heart to understand.",
+      "links": "<a href='/AIV/19/94/9-10'>Ps. 94:9-10</a>",
+      "comment": "God uniquely gifts humans with capacity for communication and comprehension—foundations for divine relationship."
     },
     {
       "pk": 28017006,
@@ -72,10 +84,10 @@
       "bookName": "Sirach",
       "bookAbbreviation": "Sir",
       "chapter": 17,
-      "verse": 6,
+      "verse": 7,
       "text": "He filled them with knowledge and understanding, and showed them good and evil.",
-      "links": "<a href='/AIV/01/2/17'>Gen. 2:17</a>; <a href='/AIV/09/12/23'>1 Sam. 12:23</a>",
-      "comment": "Moral understanding is a divine endowment. The capacity for discernment points to God's law as a guide for life."
+      "links": "<a href='/AIV/01/3/5'>Gen. 3:5</a>; <a href='/AIV/20/2/6'>Prov. 2:6</a>",
+      "comment": "Moral discernment is a divine gift. Echoes Eden’s tree of knowledge, and the call to wisdom in Proverbs."
     },
     {
       "pk": 28017007,
@@ -84,10 +96,10 @@
       "bookName": "Sirach",
       "bookAbbreviation": "Sir",
       "chapter": 17,
-      "verse": 7,
-      "text": "He put his eye in their hearts, to show them the majesty of his works.",
-      "links": "<a href='/AIV/19/111/2'>Ps. 111:2</a>; <a href='/AIV/45/1/19-20'>Rom. 1:19-20</a>",
-      "comment": "Inner awareness of God’s glory is universal, comparable to natural law (cf. Rom. 1:19)."
+      "verse": 8,
+      "text": "He set his eye upon their hearts, to show them the greatness of his works.",
+      "links": "<a href='/AIV/19/19/1'>Ps. 19:1</a>; <a href='/AIV/45/1/19-20'>Rom. 1:19-20</a>",
+      "comment": "God initiates revelation, drawing hearts to recognize his majesty through creation—a precursor to natural theology."
     },
     {
       "pk": 28017008,
@@ -96,10 +108,10 @@
       "bookName": "Sirach",
       "bookAbbreviation": "Sir",
       "chapter": 17,
-      "verse": 8,
-      "text": "They will praise his holy name, to declare the greatness of his works.",
-      "links": "<a href='/AIV/19/145/10'>Ps. 145:10</a>",
-      "comment": "True wisdom leads to worship, showing humanity’s vocation to praise God."
+      "verse": 9,
+      "text": "That they might praise his holy name and make known the greatness of his works.",
+      "links": "<a href='/AIV/19/105/1-2'>Ps. 105:1-2</a>; <a href='/AIV/19/145/4'>Ps. 145:4</a>",
+      "comment": "Worship and proclamation are central purposes for humanity, in continuity with the liturgical theme throughout Scripture."
     },
     {
       "pk": 28017009,
@@ -108,10 +120,10 @@
       "bookName": "Sirach",
       "bookAbbreviation": "Sir",
       "chapter": 17,
-      "verse": 9,
-      "text": "He gave them knowledge, and allotted them a share in the law of life.",
-      "links": "<a href='/AIV/05/30/19-20'>Deut. 30:19-20</a>",
-      "comment": "\"Law of life\" here refers to divine instruction, a source of blessing—see Deut. 30."
+      "verse": 11,
+      "text": "He gave them knowledge, and allotted to them the law of life.",
+      "links": "<a href='/AIV/02/24/12'>Exod. 24:12</a>; <a href='/AIV/19/19/7'>Ps. 19:7</a>",
+      "comment": "Law as the guide for righteous living; foreshadows Christ as fulfillment of the law and giver of eternal life (John 14:6)."
     },
     {
       "pk": 28017010,
@@ -120,10 +132,10 @@
       "bookName": "Sirach",
       "bookAbbreviation": "Sir",
       "chapter": 17,
-      "verse": 10,
-      "text": "He made an everlasting covenant with them, and revealed his decrees to them.",
-      "links": "<a href='/AIV/01/9/9'>Gen. 9:9</a>; <a href='/AIV/02/19/5'>Exod. 19:5</a>",
-      "comment": "Covenant highlights God’s enduring promise and relationship with his people. The concept of covenant ties Old and New Testaments."
+      "verse": 12,
+      "text": "He made an everlasting covenant with them, and showed them his judgments.",
+      "links": "<a href='/AIV/01/9/16'>Gen. 9:16</a>; <a href='/AIV/24/31/33'>Jer. 31:33</a>",
+      "comment": "Everlasting covenant echoes the succession from Adam to Christ—fulfillment in the new and living covenant."
     },
     {
       "pk": 28017011,
@@ -132,10 +144,10 @@
       "bookName": "Sirach",
       "bookAbbreviation": "Sir",
       "chapter": 17,
-      "verse": 11,
-      "text": "Their eyes saw his glorious majesty, and their ears heard the glory of his voice.",
-      "links": "<a href='/AIV/02/19/16-19'>Exod. 19:16-19</a>; <a href='/AIV/10/22/14'>2 Sam. 22:14</a>",
-      "comment": "This refers especially to the theophanies at Sinai and in the prophets. Divine glory and voice also anticipate Christ’s incarnation and the Transfiguration."
+      "verse": 13,
+      "text": "Their eyes saw the majesty of his glory, and their ears heard the glory of his voice.",
+      "links": "<a href='/AIV/02/19/16'>Exod. 19:16</a>; <a href='/AIV/02/33/18'>Exod. 33:18</a>",
+      "comment": "Visual and auditory revelation—parallels Sinai, and points forward to Incarnation as definitive revelation (Heb. 1:1-2)."
     },
     {
       "pk": 28017012,
@@ -144,10 +156,10 @@
       "bookName": "Sirach",
       "bookAbbreviation": "Sir",
       "chapter": 17,
-      "verse": 12,
-      "text": "He said to them, ‘Beware of all unrighteousness;’ and he gave each man commandments concerning his neighbor.",
+      "verse": 14,
+      "text": "He said to them, 'Beware of all unrighteousness.' And he gave each of them commands concerning their neighbor.",
       "links": "<a href='/AIV/03/19/18'>Lev. 19:18</a>; <a href='/AIV/40/22/39'>Matt. 22:39</a>",
-      "comment": "Moral law is universally given with a focus on justice and love of neighbor."
+      "comment": "Righteousness and neighborly love summarized as abiding commands—a foreshadowing of Jesus’ teaching."
     },
     {
       "pk": 28017013,
@@ -156,10 +168,10 @@
       "bookName": "Sirach",
       "bookAbbreviation": "Sir",
       "chapter": 17,
-      "verse": 13,
-      "text": "Their ways are always before him; they will not be hidden from his eyes.",
-      "links": "<a href='/AIV/19/139/3-4'>Ps. 139:3-4</a>; <a href='/AIV/58/4/13'>Heb. 4:13</a>",
-      "comment": "God’s omniscience is a comfort and a warning—He knows all our actions and thoughts."
+      "verse": 15,
+      "text": "Their ways are always before him; they cannot be hidden from his sight.",
+      "links": "<a href='/AIV/19/139/7-12'>Ps. 139:7-12</a>; <a href='/AIV/58/4/13'>Heb. 4:13</a>",
+      "comment": "God’s omnipresence and omniscience mean that all actions are known—providing both comfort and warning."
     },
     {
       "pk": 28017014,
@@ -168,10 +180,10 @@
       "bookName": "Sirach",
       "bookAbbreviation": "Sir",
       "chapter": 17,
-      "verse": 14,
-      "text": "Every nation he appointed a ruler; but Israel is the Lord’s own portion.",
-      "links": "<a href='/AIV/05/32/8-9'>Deut. 32:8-9</a>",
-      "comment": "While God governs all, he sets his special affection and election on his chosen people."
+      "verse": 17,
+      "text": "Every nation he appointed to rule over, and he led Israel as his own portion.",
+      "links": "<a href='/AIV/05/32/8-9'>Deut. 32:8-9</a>; <a href='/AIV/19/135/4'>Ps. 135:4</a>",
+      "comment": "God’s providential ordering of nations, but special election of Israel as his chosen people—a precursor to the spiritual Israel."
     },
     {
       "pk": 28017015,
@@ -180,10 +192,10 @@
       "bookName": "Sirach",
       "bookAbbreviation": "Sir",
       "chapter": 17,
-      "verse": 15,
-      "text": "All their works are as the sun before him, and his eyes are always upon their ways.",
-      "links": "<a href='/AIV/19/33/13-15'>Ps. 33:13-15</a>",
-      "comment": "Nothing escapes God’s attention; there is a poetic emphasis on God’s ever-watching care."
+      "verse": 19,
+      "text": "All their deeds are as the sun before him, and his eyes are continually upon their ways.",
+      "links": "<a href='/AIV/19/11/4'>Ps. 11:4</a>; <a href='/AIV/19/33/13'>Ps. 33:13</a>",
+      "comment": "Nothing escapes God; imagery of the sun evokes total illumination and judgment."
     },
     {
       "pk": 28017016,
@@ -192,72 +204,10 @@
       "bookName": "Sirach",
       "bookAbbreviation": "Sir",
       "chapter": 17,
-      "verse": 16,
-      "text": "Their iniquities are not hidden from him, and all their sins are before the Lord.",
-      "links": "<a href='/AIV/19/90/8'>Ps. 90:8</a>; <a href='/AIV/47/5/10'>2 Cor. 5:10</a>",
-      "comment": "God’s perfect justice demands accountability. Secret sins are ever before Him, highlighting the need for true repentance."
-    },
-    {
-      "pk": 28017017,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 17,
-      "verse": 17,
-      "text": "But the Lord, being gracious, knows all their works, and does not reject them nor forsake them, but spares them.",
-      "links": "<a href='/AIV/19/103/13-14'>Ps. 103:13-14</a>; <a href='/AIV/23/54/7-8'>Isa. 54:7-8</a>",
-      "comment": "Divine mercy balances God’s justice. This verse hints at the continual offer of forgiveness contingent upon repentance.",
-      "sectionHeader": "God’s Justice and Mercy Revealed"
-    },
-    {
-      "pk": 28017018,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 17,
-      "verse": 18,
-      "text": "The prayers of the humble reach to the clouds; he is comforted in their affliction.",
-      "links": "<a href='/AIV/19/34/18'>Ps. 34:18</a>; <a href='/AIV/42/18/13-14'>Luke 18:13-14</a>",
-      "comment": "Humility in prayer is especially pleasing to God (cf. Luke 18). God’s closeness to the contrite is a theme throughout Scripture.",
-      "sectionHeader": "The Power of Prayer and Call to Repentance"
-    },
-    {
-      "pk": 28017019,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 17,
-      "verse": 19,
-      "text": "He will not overlook the prayer of the orphan, or the widow when she pours out her complaint.",
-      "links": "<a href='/AIV/02/22/22-23'>Exod. 22:22-23</a>; <a href='/AIV/59/1/27'>Jas. 1:27</a>",
-      "comment": "God's concern for the vulnerable (widows, orphans) shows the social dimension of righteousness."
-    },
-    {
-      "pk": 28017020,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 17,
       "verse": 20,
-      "text": "Do not the tears of the widow run down her cheek as she cries out against him who has caused them to fall?",
-      "links": "<a href='/AIV/05/10/18'>Deut. 10:18</a>",
-      "comment": "God sees the suffering and cries of the afflicted; justice will come for those who cause hardship."
-    },
-    {
-      "pk": 28017021,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 17,
-      "verse": 21,
-      "text": "He who serves God wholeheartedly will be accepted, and his prayer reaches to the clouds.",
-      "links": "<a href='/AIV/58/11/6'>Heb. 11:6</a>",
-      "comment": "Wholehearted devotion is key to acceptable prayer—faith and works are united here."
+      "text": "Their iniquities are not hidden from him, and all their sins are before the Lord.",
+      "links": "<a href='/AIV/19/90/8'>Ps. 90:8</a>; <a href='/AIV/58/4/13'>Heb. 4:13</a>",
+      "comment": "Stresses the universality of judgment and need for repentance and mercy."
     },
     {
       "pk": 28017022,
@@ -267,9 +217,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 17,
       "verse": 22,
-      "text": "The prayer of the humble pierces the clouds; until it arrives he is not comforted, and he will not withdraw until the Most High sees and judges justly, and executes justice.",
-      "links": "<a href='/AIV/19/102/17'>Ps. 102:17</a>; <a href='/AIV/42/18/7'>Luke 18:7</a>",
-      "comment": "Persistence in prayer is commended. God’s justice is sure, though not always immediate."
+      "text": "One’s almsgiving is like a signet ring with the Lord, and he will keep a person’s kindness like the apple of his eye.",
+      "links": [
+        "Tob 12:8-9",
+        "Prov 19:17",
+        "Deut 32:10"
+      ],
+      "comment": "Almsgiving is prized by God, who treasures acts of mercy as a personal seal, echoing Proverbs 19:17 and highlighting the enduring bond between generosity and divine favor."
     },
     {
       "pk": 28017023,
@@ -279,9 +233,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 17,
       "verse": 23,
-      "text": "And the Lord will not delay, neither will he be patient with them, until he crushes the loins of the merciless and repays vengeance on the nations;",
-      "links": "<a href='/AIV/05/32/35'>Deut. 32:35</a>; <a href='/AIV/45/12/19'>Rom. 12:19</a>",
-      "comment": "God’s justice also includes retribution for the unrepentant and oppressors."
+      "text": "Afterward he will rise up and repay them, and he will bring their recompense on their heads.",
+      "links": [
+        "Ps 28:4",
+        "Rom 2:6",
+        "Jer 32:19"
+      ],
+      "comment": "God's justice ensures the faithful are ultimately rewarded and the compassionate receive what is due, affirming Deuteronomy 32:35’s promise of divine recompense."
     },
     {
       "pk": 28017024,
@@ -291,9 +249,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 17,
       "verse": 24,
-      "text": "until he takes away the multitude of the proud, and breaks the scepters of the unrighteous;",
-      "links": "<a href='/AIV/19/2/9'>Ps. 2:9</a>; <a href='/AIV/42/1/52'>Luke 1:52</a>",
-      "comment": "God reverses worldly power. The theme anticipates the Magnificat (Luke 1:52)."
+      "text": "Yet to those who repent he grants a return, and he encourages those who are losing hope.",
+      "links": [
+        "Isa 55:7",
+        "Ezek 18:21",
+        "Luke 15:20"
+      ],
+      "comment": "Sirach affirms the theme of repentance, assuring that God welcomes back those who turn to Him, resonant with Ezekiel 18:21-23's encouragement to the repentant."
     },
     {
       "pk": 28017025,
@@ -303,9 +265,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 17,
       "verse": 25,
-      "text": "until he renders to each man according to his deeds, and repays the works of men according to their intentions.",
-      "links": "<a href='/AIV/19/62/12'>Ps. 62:12</a>; <a href='/AIV/40/16/27'>Matt. 16:27</a>",
-      "comment": "A clear teaching on accountability: God weighs not only actions but motives (see Matt. 16:27)."
+      "text": "Turn back to the Lord and forsake your sins; pray in his presence and lessen your offense.",
+      "links": [
+        "Isa 1:16",
+        "Acts 3:19",
+        "Hos 14:1-2"
+      ],
+      "comment": "A call to spiritual conversion, urging individuals to forsake sin and seek reconciliation through prayer, mirroring penitential practices found throughout biblical wisdom literature."
     },
     {
       "pk": 28017026,
@@ -315,9 +281,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 17,
       "verse": 26,
-      "text": "He will judge the discussion of his people, and make them rejoice in his mercy.",
-      "links": "<a href='/AIV/19/130/7'>Ps. 130:7</a>",
-      "comment": "Mercy is vividly linked with judgment. God’s mercy triumphs, foreshadowing Christ’s ministry (see Jas. 2:13)."
+      "text": "Return to the Most High and turn away from iniquity, and hate intensely what he abhors.",
+      "links": [
+        "Ps 97:10",
+        "Prov 8:13",
+        "Amos 5:15"
+      ],
+      "comment": "True repentance demands not just turning from sin but also cultivating hatred for what God finds hateful, paralleling Psalm 97:10's exhortation to 'hate evil.'"
     },
     {
       "pk": 28017027,
@@ -327,9 +297,14 @@
       "bookAbbreviation": "Sir",
       "chapter": 17,
       "verse": 27,
-      "text": "Those who repent he allows to return, and he strengthens those who lack perseverance.",
-      "links": "<a href='/AIV/23/1/18'>Isa. 1:18</a>; <a href='/AIV/42/15/20-24'>Luke 15:20-24</a>",
-      "comment": "God’s mercy is open to all who repent; this anticipates the parable of the Prodigal Son."
+      "text": "Who will sing praises to the Most High in Hades in place of the living who give thanks?",
+      "links": [
+        "Ps 6:5",
+        "Isa 38:18-19",
+        "Ps 30:9"
+      ],
+      "comment": "The living are uniquely able to praise God, highlighting the urgency to worship and thanksgiving before death, comparable to Psalm 6:5 and Isaiah 38:18.",
+      "sectionHeader": "Repentance, Thanksgiving, and the Way to Life"
     },
     {
       "pk": 28017028,
@@ -339,9 +314,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 17,
       "verse": 28,
-      "text": "Return to the Lord, and forsake your sins; pray before his face and lessen your offenses.",
-      "links": "<a href='/AIV/26/18/30'>Ezek. 18:30</a>",
-      "comment": "Repentance is an ongoing return—a lived conversion, not a one-time decision."
+      "text": "From the dead, as from one who does not exist, thanksgiving has ceased; those who are alive and well sing the Lord’s praises.",
+      "links": [
+        "Ps 88:10-12",
+        "Eccl 9:5",
+        "Isa 38:18"
+      ],
+      "comment": "Thanksgiving and praise belong to the realm of the living, emphasizing the value of life as the context for worship of God—a recurring motif in Psalms."
     },
     {
       "pk": 28017029,
@@ -351,9 +330,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 17,
       "verse": 29,
-      "text": "Turn back to the Most High, and turn away from injustice, and hate abominations intensely.",
-      "links": "<a href='/AIV/05/6/5'>Deut. 6:5</a>; <a href='/AIV/45/12/9'>Rom. 12:9</a>",
-      "comment": "Repentance requires interior conversion—hating sin is as important as loving good. See Rom. 12:9."
+      "text": "How great is the mercy of the Lord, and his forgiveness for those who return to him!",
+      "links": [
+        "Ps 103:8-13",
+        "Joel 2:13",
+        "Mic 7:18-19"
+      ],
+      "comment": "Sirach spotlights God's abundant mercy and willingness to forgive repentant sinners, a theme found in Exodus 34:6-7 and Psalm 103:8-12."
     },
     {
       "pk": 28017030,
@@ -363,9 +346,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 17,
       "verse": 30,
-      "text": "Who will praise the Most High in the grave, instead of the living and those who give thanks?",
-      "links": "<a href='/AIV/19/88/10-12'>Ps. 88:10-12</a>",
-      "comment": "There is urgency in conversion—only the living can give God true praise."
+      "text": "For not everything is within human capability, since human beings are not immortal.",
+      "links": [
+        "Ps 90:10",
+        "Jas 4:14",
+        "Wis 9:5"
+      ],
+      "comment": "Human limitation and mortality are acknowledged; salvation and restoration depend on divine grace, reaffirming themes in Psalm 90:3-10."
     },
     {
       "pk": 28017031,
@@ -375,9 +362,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 17,
       "verse": 31,
-      "text": "From the dead, as from one who does not exist, thanksgiving has ceased; he who is alive and well will praise the Lord.",
-      "links": "<a href='/AIV/19/6/5'>Ps. 6:5</a>",
-      "comment": "There is a call to live gratefully and laud God in this life—earthly praise unites us with the righteous."
+      "text": "What is brighter than the sun? Yet it can be eclipsed. So flesh and blood devise evil.",
+      "links": [
+        "Job 25:5-6",
+        "Jer 17:9",
+        "Gen 6:5"
+      ],
+      "comment": "Even the sun, though radiant, can be darkened; likewise, human nature, despite its potential, is marred by susceptibility to evil, echoing Genesis 6:5."
     },
     {
       "pk": 28017032,
@@ -387,27 +378,14 @@
       "bookAbbreviation": "Sir",
       "chapter": 17,
       "verse": 32,
-      "text": "How great is the mercy of the Lord, and his forgiveness to those who turn to him!",
-      "links": "<a href='/AIV/19/103/11-12'>Ps. 103:11-12</a>; <a href='/AIV/42/15/7'>Luke 15:7</a>",
-      "comment": "Divine mercy and forgiveness are always available. The focus on repentance and mercy is reflected in Jesus' teaching—confession and contrition remain foundational for reconciliation with God."
+      "text": "He marshals the host of the height of heaven; but all human beings are dust and ashes.",
+      "links": [
+        "Gen 18:27",
+        "Ps 103:14",
+        "Sir 10:9"
+      ],
+      "comment": "God’s majesty is contrasted with human frailty, recalling Genesis 18:27 and Ecclesiastes 12:7’s depiction of humanity as 'dust and ashes.'"
     }
   ],
-  "translatedAt": "2025-12-24T07:32:05.033Z",
-  "sections": [
-    {
-      "title": "The Creation and Honor of Man",
-      "startVerse": 1,
-      "endVerse": 16
-    },
-    {
-      "title": "God’s Justice and Mercy Revealed",
-      "startVerse": 17,
-      "endVerse": 17
-    },
-    {
-      "title": "The Power of Prayer and Call to Repentance",
-      "startVerse": 18,
-      "endVerse": 32
-    }
-  ]
+  "translatedAt": "2025-12-28T06:59:34.800Z"
 }

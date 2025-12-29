@@ -38,7 +38,11 @@
       "chapter": 24,
       "verse": 3,
       "text": "We gratefully accept these things always and in every place, most excellent Felix.",
-      "links": "",
+      "links": [
+        "Acts 23:26",
+        "Luke 1:3",
+        "Acts 26:25"
+      ],
       "comment": "Tertullus' words underscore the formal tone and the desire to achieve a favorable verdict from Felix."
     },
     {
@@ -50,7 +54,11 @@
       "chapter": 24,
       "verse": 4,
       "text": "But in order not to trouble you further, I beg you to briefly hear us with your kindness.",
-      "links": "",
+      "links": [
+        "Acts 24:22",
+        "Acts 25:8",
+        "Acts 26:3"
+      ],
       "comment": "The advocate respectfully requests a brief hearing, emphasizing deference to the governor's authority."
     },
     {
@@ -85,9 +93,13 @@
       "bookAbbreviation": "Acts",
       "chapter": 24,
       "verse": 7,
-      "text": "[But Lysias the commander came by and with great force took him out of our hands,]",
-      "links": "<a href='/AIV/44/23/26-27'>Acts 23:26-27</a>",
-      "comment": "Some manuscripts omit this verse. This sentence shifts blame for not following proper procedure onto the Roman commander."
+      "text": "But the chief captain Lysias came and with great violence took him out of our hands,",
+      "links": [
+        "Acts 21:31-32",
+        "Acts 23:23-24",
+        "Acts 23:26-27"
+      ],
+      "comment": "This verse reflects the Jewish leaders’ grievance against Roman intervention, portraying Lysias as forceful and disruptive, highlighting the tension between Jewish authority and Roman governance (cf. Acts 21:31-33)."
     },
     {
       "pk": 51024008,
@@ -147,7 +159,11 @@
       "chapter": 24,
       "verse": 12,
       "text": "They did not find me arguing with anyone in the temple, or stirring up a crowd in the synagogues, or anywhere in the city.",
-      "links": "",
+      "links": [
+        "Acts 25:8",
+        "Acts 18:14-15",
+        "Luke 23:14"
+      ],
       "comment": "Paul’s actions were focused on worship, not rebellion, aligning with the gospel’s call to peace and order (cf. Romans 12:18)."
     },
     {
@@ -159,7 +175,11 @@
       "chapter": 24,
       "verse": 13,
       "text": "Nor can they prove to you the things of which they now accuse me.",
-      "links": "",
+      "links": [
+        "Dan 6:4",
+        "Acts 25:7",
+        "Acts 23:29"
+      ],
       "comment": "Paul appeals to tangible evidence, echoing principles of justice. Christian faith values truth and evidence above accusation—see <a href='/AIV/05/19/15'>Deut. 19:15</a>."
     },
     {
@@ -256,7 +276,7 @@
       "verse": 21,
       "text": "unless it is with regard to this one thing I cried out, when standing among them: 'It is concerning the resurrection of the dead that I am on trial before you today.'",
       "links": "<a href='/AIV/44/23/6'>Acts 23:6</a>",
-      "comment": "Paul points to the real theological issue: resurrection. This belief separates Christ-followers and underlines the apostolic confession. The resurrection remains a core doctrine (cf. 1 Corinthians 15:12-20)."
+      "comment": "Paul emphasizes that the crux of his prosecution is theological—the resurrection of the dead—a doctrine fiercely debated between Pharisees and Sadducees (see Acts 23:6-8), and central to Christian faith (cf. 1 Corinthians 15:12-20), spotlighting how Christian hope pivots on the resurrection."
     },
     {
       "pk": 51024022,
@@ -333,7 +353,7 @@
       "comment": "Paul’s long imprisonment is the result of political calculation. God’s providence still works through such events, preparing Paul for ministry in Rome and demonstrating that the church must endure hardship for the sake of Christ’s name (cf. 2 Timothy 2:8-10)."
     }
   ],
-  "translatedAt": "2025-12-24T11:32:56.915Z",
+  "translatedAt": "2025-12-29T00:33:09.212Z",
   "sections": [
     {
       "title": "Paul Accused Before Felix",

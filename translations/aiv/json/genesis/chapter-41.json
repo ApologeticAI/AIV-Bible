@@ -207,7 +207,11 @@
       "chapter": 41,
       "verse": 17,
       "text": "Then Pharaoh said to Joseph, 'In my dream I was standing on the bank of the Nile.'",
-      "links": "",
+      "links": [
+        "Gen 40:9-13",
+        "Ex 7:15",
+        "Dan 2:1"
+      ],
       "comment": "Pharaoh initiates the recounting; the emphasis is placed on the Nile, the source of life and sustenance in Egypt."
     },
     {
@@ -255,7 +259,11 @@
       "chapter": 41,
       "verse": 21,
       "text": "'Yet when they had eaten them, no one could tell they had done so; they looked just as bad as before. Then I woke up.'",
-      "links": "",
+      "links": [
+        "Gen 41:4",
+        "Dan 7:7",
+        "Joel 1:4"
+      ],
       "comment": "Famine will be so severe it will erase any memory of the abundance."
     },
     {
@@ -351,7 +359,11 @@
       "chapter": 41,
       "verse": 29,
       "text": "'See, seven years of great abundance are coming throughout all the land of Egypt.'",
-      "links": "",
+      "links": [
+        "Gen 41:47",
+        "Joel 2:24",
+        "Prov 3:9-10"
+      ],
       "comment": "Prophetic warning for repentance and preparation—a theme often repeated through the prophetic books."
     },
     {
@@ -363,7 +375,11 @@
       "chapter": 41,
       "verse": 30,
       "text": "'But after them will arise seven years of famine, and all the abundance will be forgotten in the land of Egypt. The famine will consume the land.'",
-      "links": "",
+      "links": [
+        "Gen 41:54",
+        "Amos 8:11",
+        "Acts 11:28"
+      ],
       "comment": "Coming famine illustrates the peril of material reliance without spiritual preparedness."
     },
     {
@@ -387,8 +403,12 @@
       "chapter": 41,
       "verse": 32,
       "text": "'The matter was doubled to Pharaoh because the thing is established by God, and God will quickly bring it to pass.'",
-      "links": "",
-      "comment": "Certainty of God’s decree—doubled dreams mean God has fixed it. See spiritual typology: God’s promises and judgments are sure."
+      "links": [
+        "Num 23:19",
+        "Isa 14:24",
+        "Dan 2:45"
+      ],
+      "comment": "Joseph explains that the repetition of Pharaoh’s dream signifies the certainty and imminence of God’s will, a principle seen elsewhere in Genesis (cf. Gen 18:10, 14), highlighting divine sovereignty and the urgency of the coming events."
     },
     {
       "pk": 1041033,
@@ -423,7 +443,11 @@
       "chapter": 41,
       "verse": 35,
       "text": "'Let them gather all the food of these good years that are coming, and store up grain under the authority of Pharaoh to keep as food in the cities.'",
-      "links": "",
+      "links": [
+        "Prov 6:6-8",
+        "Prov 21:20",
+        "1 Cor 16:2"
+      ],
       "comment": "Centralized storage of grain under authority prefigures the later common storehouse of blessings under godly leadership."
     },
     {
@@ -435,7 +459,11 @@
       "chapter": 41,
       "verse": 36,
       "text": "'This food shall be a reserve for the land against the seven years of famine that are to come on the land of Egypt, so that the land may not perish during the famine.'",
-      "links": "",
+      "links": [
+        "Prov 30:25",
+        "Acts 11:28-29",
+        "2 Cor 9:6"
+      ],
       "comment": "God’s provision through wise administration; a model for physical and spiritual preparedness."
     },
     {
@@ -447,7 +475,11 @@
       "chapter": 41,
       "verse": 37,
       "text": "The advice seemed good to Pharaoh and to all his servants.",
-      "links": "",
+      "links": [
+        "Dan 4:1-2",
+        "Dan 6:28",
+        "Prov 16:7"
+      ],
       "comment": "Even pagan rulers can recognize the wisdom of God when it is manifest; God’s truth is powerful and persuasive.",
       "sectionHeader": "Joseph Made Governor of Egypt"
     },
@@ -496,7 +528,11 @@
       "chapter": 41,
       "verse": 41,
       "text": "Pharaoh said to Joseph, 'See, I have set you over all the land of Egypt.'",
-      "links": "",
+      "links": [
+        "Ps 105:20-22",
+        "Acts 7:10",
+        "Gen 42:6"
+      ],
       "comment": "Formal installation marks Joseph’s new authority—prefiguring the assignation of spiritual authority in the Church."
     },
     {
@@ -532,7 +568,11 @@
       "chapter": 41,
       "verse": 44,
       "text": "Moreover, Pharaoh said to Joseph, 'I am Pharaoh, and without your permission no one shall raise hand or foot in all the land of Egypt.'",
-      "links": "",
+      "links": [
+        "Esth 10:3",
+        "Dan 6:3",
+        "Gen 41:43"
+      ],
       "comment": "Joseph receives complete practical authority; mirrors biblical principles of delegated authority under God."
     },
     {
@@ -569,7 +609,11 @@
       "chapter": 41,
       "verse": 47,
       "text": "During the seven years of plenty, the land produced abundantly.",
-      "links": "",
+      "links": [
+        "Gen 41:29",
+        "Gen 26:12",
+        "Lev 25:21"
+      ],
       "comment": "God’s prediction fulfilled; His word does not fail."
     },
     {
@@ -581,7 +625,11 @@
       "chapter": 41,
       "verse": 48,
       "text": "He gathered all the food of the seven years in the land of Egypt and stored the food in the cities, placing in each city the food from the fields surrounding it.",
-      "links": "",
+      "links": [
+        "Gen 41:35",
+        "Prov 10:5",
+        "Acts 11:28-29"
+      ],
       "comment": "Orderly provision and prudence again serve as a biblical model for wise stewardship of resources."
     },
     {
@@ -641,7 +689,11 @@
       "chapter": 41,
       "verse": 53,
       "text": "The seven years of abundance in the land of Egypt came to an end.",
-      "links": "",
+      "links": [
+        "Gen 41:30",
+        "Gen 41:54",
+        "Ps 105:16"
+      ],
       "comment": "All earthly abundance is temporary—a subtle call to eternal hope founded in faith.",
       "sectionHeader": "The Famine Begins"
     },
@@ -678,7 +730,11 @@
       "chapter": 41,
       "verse": 56,
       "text": "So when the famine had spread over all the land, Joseph opened all the storehouses and sold grain to the Egyptians, for the famine was severe in the land of Egypt.",
-      "links": "",
+      "links": [
+        "Gen 47:13-14",
+        "Acts 7:11-12",
+        "Gen 41:57"
+      ],
       "comment": "Joseph’s stewardship saved many. This act anticipates the opening of Christ’s own storehouses of grace for the world."
     },
     {

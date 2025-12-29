@@ -122,9 +122,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 16,
       "verse": 10,
-      "text": "Nor did He forgive those of old who revolted in their stubbornness; He destroyed them, right along with their prideful company.",
-      "links": "<a href='/AIV/4/14/35-45'>Num. 14:35-45</a>",
-      "comment": "Here, the wilderness generation is referenced. Persistent rebellion leads to ultimate separation from the blessings of God's promise."
+      "text": "or on the six hundred thousand foot soldiers who assembled in their stubbornness.",
+      "links": [
+        "Ex 12:37",
+        "Num 11:21",
+        "Ps 78:10"
+      ],
+      "comment": "This recalls the Israelites' rebellion in the wilderness (cf. Numbers 11:21; Exodus 16–17), emphasizing that even great numbers do not protect the stubborn from God's judgment."
     },
     {
       "pk": 28016011,
@@ -134,9 +138,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 16,
       "verse": 11,
-      "text": "For mercy and wrath belong to Him; He is mighty to forgive, yet He pours out anger.",
-      "links": "<a href='/AIV/2/34/6-7'>Ex. 34:6-7</a>; <a href='/AIV/19/86/5'>Ps. 86:5</a>",
-      "comment": "Classic biblical teaching: God is both just and merciful, never lopsided in His character. True justice involves both mercy and discipline."
+      "text": "Even if there were only one stiff-necked person, it would be a wonder if he remained unpunished. For mercy and wrath are with the Lord; he is mighty to forgive — but he also pours out wrath.",
+      "links": [
+        "Ex 34:6-7",
+        "Ps 103:8-9",
+        "Rom 11:22"
+      ],
+      "comment": "God's character combines both mercy and just wrath (cf. Exodus 34:6-7); even one defiant person is subject to divine judgement, underscoring the personal consequences of stubbornness."
     },
     {
       "pk": 28016012,
@@ -158,9 +166,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 16,
       "verse": 13,
-      "text": "No sinner will escape with plunder, nor will the patient hope be disappointed.",
-      "links": "<a href='/AIV/19/37/7-9'>Ps. 37:7-9</a>; <a href='/AIV/20/11/18'>Prov. 11:18</a>",
-      "comment": "God’s justice assures that ultimately, sin and injustice are not rewarded. The encouragement for patient hope subtly connects to the virtues of perseverance and trust—important spiritual disciplines."
+      "text": "The sinner will not escape with plunder, and the patience of the godly will not be frustrated.",
+      "links": [
+        "Job 20:19-20",
+        "Ps 37:7",
+        "Prov 11:31"
+      ],
+      "comment": "The passage assures that the wicked cannot prosper by their wrongdoing, while the godly will see their patient faith rewarded (cf. Psalm 37:7-13)."
     },
     {
       "pk": 28016014,
@@ -170,9 +182,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 16,
       "verse": 14,
-      "text": "He will make room for every act of mercy; each will receive according to his works.",
-      "links": "<a href='/AIV/40/16/27'>Matt. 16:27</a>; <a href='/AIV/66/22/12'>Rev. 22:12</a>",
-      "comment": "The idea that each receives according to his works is repeated in the New Testament and is central to understanding both the justice of God and the rewards for faithfulness."
+      "text": "He makes room for every act of mercy; everyone receives in accordance with his or her deeds.",
+      "links": [
+        "Ps 62:12",
+        "Matt 16:27",
+        "Rom 2:6"
+      ],
+      "comment": "Sirach highlights God's impartial justice, offering mercy but also holding people accountable according to their deeds (cf. Romans 2:6; Matthew 16:27)."
     },
     {
       "pk": 28016015,
@@ -182,7 +198,7 @@
       "bookAbbreviation": "Sir",
       "chapter": 16,
       "verse": 15,
-      "text": "Do not say, 'I will hide myself from the Lord; who will remember me from on high? I will not be noticed among so many people, for what am I among countless creation?'",
+      "text": "",
       "links": "<a href='/AIV/18/22/12-14'>Job 22:12-14</a>; <a href='/AIV/19/139/7-12'>Ps. 139:7-12</a>",
       "comment": "God's omniscience is affirmed—no one is hidden from His sight. This reality has practical implications, encouraging sincerity before God."
     },
@@ -194,7 +210,7 @@
       "bookAbbreviation": "Sir",
       "chapter": 16,
       "verse": 16,
-      "text": "Behold, the heavens and the highest heavens, the abyss and the earth, tremble at His visitation.",
+      "text": "",
       "links": "<a href='/AIV/19/18/7-15'>Ps. 18:7-15</a>; <a href='/AIV/24/10/10'>Jer. 10:10</a>",
       "comment": "Creation reacts to God's presence, which anticipates the theophanies and the ultimate Day of the Lord. The scale of God’s power transcends all."
     },
@@ -206,9 +222,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 16,
       "verse": 17,
-      "text": "The mountains and the foundations of the earth quiver and quake when He looks on them.",
-      "links": "<a href='/AIV/29/2/10'>Joel 2:10</a>; <a href='/AIV/19/114/7'>Ps. 114:7</a>",
-      "comment": "This poetic image emphasizes God's supremacy over creation, a key theme in many Psalms."
+      "text": "Do not say, “I am hidden from the Lord, and who from on high has me in mind? Among so many people I am unknown, for what am I in a boundless creation?”",
+      "links": [
+        "Ps 139:7-8",
+        "Jer 23:24",
+        "Job 22:13-14"
+      ],
+      "comment": "This challenges the illusion of anonymity before God, echoing Psalm 139:7; no one is hidden or insignificant in God's boundless creation."
     },
     {
       "pk": 28016018,
@@ -218,9 +238,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 16,
       "verse": 18,
-      "text": "But no human heart can comprehend all His works, or understand His ways entirely.",
-      "links": "<a href='/AIV/23/55/8-9'>Isa. 55:8-9</a>; <a href='/AIV/45/11/33'>Rom. 11:33</a>",
-      "comment": "The mystery of God’s wisdom invites humility, encouraging a trust in the divine plan that is beyond complete human grasp.",
+      "text": "Lo, heaven and the highest heaven, the abyss and the earth, tremble at his visitation!",
+      "links": [
+        "Ps 18:7",
+        "Joel 2:10",
+        "Hab 3:6"
+      ],
+      "comment": "Sirach emphasizes God's absolute sovereignty and awe-inspiring power; 'heaven and the highest heaven' (cf. Deut 10:14) along with the abyss (deepest part of creation) are shaken at God's presence, illustrating the universal impact of divine judgment and majesty.",
       "sectionHeader": "The Mystery of God's Ways"
     },
     {
@@ -231,9 +255,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 16,
       "verse": 19,
-      "text": "His ways are beyond all human understanding, and His judgments are beyond describing.",
-      "links": "<a href='/AIV/18/37/23'>Job 37:23</a>; <a href='/AIV/45/11/33'>Rom. 11:33</a>",
-      "comment": "This closely follows prophetic and wisdom traditions that exalt the unknowable aspect of God's justice and providence."
+      "text": "The very mountains and the foundations of the earth quiver and quake when he looks upon them.",
+      "links": [
+        "Nah 1:5",
+        "Ps 114:7",
+        "Amos 9:5"
+      ],
+      "comment": "Mountains symbolize permanence and strength; their quaking signals God's transcendent authority over all creation (cf. Psalm 18:7; Habakkuk 3:6)."
     },
     {
       "pk": 28016020,
@@ -243,9 +271,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 16,
       "verse": 20,
-      "text": "When a person hears, they are left astonished; and understanding is scarce for many.",
-      "links": "<a href='/AIV/23/29/14'>Isa. 29:14</a>; <a href='/AIV/19/139/6'>Ps. 139:6</a>",
-      "comment": "Divine wisdom surpasses what most can grasp, attesting to the need for revelation and the Spirit’s guidance in growing in understanding."
+      "text": "But no human mind can grasp this, and who can comprehend his ways?",
+      "links": [
+        "Job 11:7",
+        "Rom 11:33",
+        "Wis 9:13"
+      ],
+      "comment": "Human understanding cannot grasp God's ways or the depths of his judgment, pointing to divine mystery (cf. Isaiah 55:8-9; Romans 11:33)."
     },
     {
       "pk": 28016021,
@@ -255,9 +287,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 16,
       "verse": 21,
-      "text": "Most of His works are hidden, but who can explain His marvelous deeds?",
-      "links": "<a href='/AIV/19/40/5'>Ps. 40:5</a>; <a href='/AIV/19/145/3'>Ps. 145:3</a>",
-      "comment": "God’s actions often occur beyond what can be observed, pointing towards faith in unseen realities and God’s ongoing involvement in the world."
+      "text": "Like a tempest that no one can see, so most of his works are concealed.",
+      "links": [
+        "Ps 77:19",
+        "Wis 9:16",
+        "Job 26:14"
+      ],
+      "comment": "Most of God's works are hidden, like an unseen storm, inviting humility and faith rather than presumption (cf. Ecclesiastes 3:11; Job 5:9)."
     },
     {
       "pk": 28016022,
@@ -267,9 +303,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 16,
       "verse": 22,
-      "text": "Many of His deeds are even greater than these, for we have only heard but a small part of His works.",
-      "links": "<a href='/AIV/18/26/14'>Job 26:14</a>; <a href='/AIV/19/104/24'>Ps. 104:24</a>",
-      "comment": "We know only in part—a theme St. Paul echoes (1 Cor. 13:9-12); full understanding awaits the vision promised in eternal life."
+      "text": "Who is to announce his acts of justice? Or who can await them? For his decree is far off.",
+      "links": [
+        "Isa 40:13-14",
+        "Eccl 8:17",
+        "Dan 4:35"
+      ],
+      "comment": "God’s justice operates according to his timing and wisdom, far beyond human foresight (cf. Habakkuk 2:3; 2 Peter 3:9)."
     },
     {
       "pk": 28016023,
@@ -279,9 +319,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 16,
       "verse": 23,
-      "text": "It is the Lord who governs the world with wisdom, giving righteous instruction to those who are wise.",
-      "links": "<a href='/AIV/20/2/6-8'>Prov. 2:6-8</a>; <a href='/AIV/19/25/12'>Ps. 25:12</a>",
-      "comment": "God’s active governance of creation has both a literal and spiritual application, anticipating the idea of God’s law written on the heart."
+      "text": "Such are the thoughts of one devoid of understanding; a senseless and misguided person thinks foolishly.",
+      "links": [
+        "Prov 12:15",
+        "Ps 94:8",
+        "Matt 15:14"
+      ],
+      "comment": "Those lacking spiritual discernment misconstrue God’s ways, paralleling proverbs warning against folly and ignorance (cf. Proverbs 1:7)."
     },
     {
       "pk": 28016024,
@@ -291,9 +335,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 16,
       "verse": 24,
-      "text": "Do not say, 'My labor is hidden from the Lord; who will remember my efforts?' For all things will be revealed in their time.",
-      "links": "<a href='/AIV/19/33/13-15'>Ps. 33:13-15</a>; <a href='/AIV/40/6/4'>Matt. 6:4</a>",
-      "comment": "God’s perfect knowledge encourages perseverance in virtue and service—even when unnoticed. This connects closely to Jesus’ teaching on secret acts of piety."
+      "text": "Listen to me, my child, and acquire knowledge, and pay close attention to my words.",
+      "links": [
+        "Prov 4:1",
+        "Sir 4:23",
+        "Matt 13:9"
+      ],
+      "comment": "The text exhorts attentive learning, echoing traditional wisdom literature’s emphasis on acquiring understanding (cf. Proverbs 4:1-7)."
     },
     {
       "pk": 28016025,
@@ -369,7 +417,7 @@
       "comment": "The fruitfulness of creation reflects God’s generosity. The passage brings to mind the New Testament’s view of the Church’s spiritual fruitfulness (John 15:5)—each member called to bear good fruit that endures eternally."
     }
   ],
-  "translatedAt": "2025-12-24T07:31:30.377Z",
+  "translatedAt": "2025-12-29T00:36:22.125Z",
   "sections": [
     {
       "title": "The Value of Righteous Children",

@@ -87,7 +87,11 @@
       "chapter": 4,
       "verse": 7,
       "text": "Again, I saw vanity under the sun:",
-      "links": "",
+      "links": [
+        "Eccl 1:14",
+        "Eccl 2:11",
+        "Rom 8:20"
+      ],
       "comment": "The Preacher continues, exploring the futility found in earthly life apart from God. This repeated observation sets the stage for yearning for something lasting and meaningful, fulfilled ultimately in following Christ (John 6:27).",
       "sectionHeader": "The Value of Companionship"
     },

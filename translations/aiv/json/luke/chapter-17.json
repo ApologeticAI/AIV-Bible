@@ -39,7 +39,7 @@
       "verse": 3,
       "text": "Keep watch over yourselves! If your brother sins, rebuke him; and if he repents, forgive him.",
       "links": "<a href='/AIV/40/18/15'>Matt. 18:15</a>; <a href='/AIV/49/4/32'>Eph. 4:32</a>",
-      "comment": "Jesus commands both accountability and mercy within his community. The instruction to 'rebuke' assumes loving correction, and forgiveness when repentance occurs. This two-fold approach is foundational for living out true Christian unity and holiness."
+      "comment": "Jesus emphasizes personal accountability and communal responsibility, urging disciples to both address wrongdoing and extend forgiveness upon genuine repentance, reflecting key themes of reconciliation and mercy found also in Matthew 18:15-17 and Ephesians 4:32."
     },
     {
       "pk": 49017004,
@@ -112,7 +112,11 @@
       "chapter": 17,
       "verse": 9,
       "text": "Does he thank the servant because he did what was commanded?",
-      "links": "",
+      "links": [
+        "Matt 20:1-16",
+        "Rom 11:35",
+        "1 Cor 9:16"
+      ],
       "comment": "The implied answer is 'No.' The passage teaches that obedience to God is a basic expectation, not something praiseworthy in itself; it encourages humility in discipleship, a major theme in Luke’s Gospel."
     },
     {
@@ -209,7 +213,11 @@
       "chapter": 17,
       "verse": 17,
       "text": "Then Jesus answered, 'Were not ten cleansed? Where are the nine?'",
-      "links": "",
+      "links": [
+        "Ps 106:13",
+        "2 Kgs 5:15",
+        "Luke 7:44-46"
+      ],
       "comment": "A rhetorical question that reveals the differences in gratitude and recognition of God’s work in Jesus. Only the Samaritan returns, emphasizing themes of faith and true worship beyond ethnic or religious barriers."
     },
     {
@@ -438,7 +446,10 @@
       "chapter": 17,
       "verse": 36,
       "text": "[This verse not present in earliest manuscripts.]",
-      "links": "",
+      "links": [
+        "Matt 24:40",
+        "Mark 13:35"
+      ],
       "comment": "Some later manuscripts add: 'Two men will be in the field; one will be taken, and the other left.' This is supported by Matthew 24:40 but is likely not original to Luke, illustrating how scribal additions occurred in the transmission process."
     },
     {

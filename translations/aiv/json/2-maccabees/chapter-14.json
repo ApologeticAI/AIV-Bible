@@ -3,6 +3,18 @@
   "bookName": "2 Maccabees",
   "bookAbbreviation": "2Macc",
   "chapter": 14,
+  "sections": [
+    {
+      "title": "Demetrius Arrives and Alcimus Seeks Power",
+      "startVerse": 1,
+      "endVerse": 39
+    },
+    {
+      "title": "The Persecution and Martyrdom of Razis",
+      "startVerse": 40,
+      "endVerse": 46
+    }
+  ],
   "verses": [
     {
       "pk": 21014001,
@@ -12,10 +24,10 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 1,
-      "text": "Three years later, news came to Judas and his companions that Demetrius, the son of Seleucus, had landed at the port of Tripolis with a powerful army and navy,",
-      "links": "<a href='/AIV/21/10/11'>2Macc 10:11</a>; <a href='/AIV/27/11/20'>Dan. 11:20</a>",
-      "comment": "The arrival of Demetrius marks a new phase in the political situation. The historical setting points to a period of instability in the Seleucid Empire. This verse sets up Demetrius as an important figure challenging the rule established by Antiochus.",
-      "sectionHeader": "Alcimus Appeals to Demetrius"
+      "text": "Three years later, word came to Judas and his men that Demetrius son of Seleucus had sailed into the harbor of Tripolis with a strong army and a fleet,",
+      "links": "<a href='/AIV/12/25/1'>2 Kings 25:1</a>",
+      "comment": "Historical background sets the scene for the conflict to come. Demetrius is a new force entering the region, which will have implications for the beleaguered Jewish community.",
+      "sectionHeader": "Demetrius Arrives and Alcimus Seeks Power"
     },
     {
       "pk": 21014002,
@@ -25,9 +37,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 2,
-      "text": "and had taken control of the region, killing Antiochus and his guardian Lysias.",
-      "links": "<a href='/AIV/21/13/4'>2Macc 13:4</a>",
-      "comment": "Demetrius quickly establishes his authority over the Seleucid Empire. Lysias previously acted as regent, as described earlier in this book."
+      "text": "and had taken possession of the country, having made away with Antiochus and his guardian Lysias.",
+      "links": "<a href='/AIV/11/1/1'>1 Kings 1:1</a>",
+      "comment": "The power struggle following the death of Antiochus leads to Demetrius’s ascension. Succession disputes are a frequent theme in biblical history."
     },
     {
       "pk": 21014003,
@@ -37,9 +49,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 3,
-      "text": "A certain Alcimus, who had been High Priest but had defiled himself in the time of the revolt, knowing that he was excluded from the priesthood,",
-      "links": "<a href='/AIV/21/4/23'>2Macc 4:23</a>; <a href='/AIV/3/21/6-8'>Lev. 21:6-8</a>",
-      "comment": "Alcimus was a former High Priest but was rejected due to defilement. This disqualification connects to the importance of ritual purity, which points to the seriousness of the priestly office."
+      "text": "Now a certain Alcimus, who had formerly been high priest but had willfully defiled himself in the times of separation, realized that there was no way for him to be safe or to have access again to the holy altar,",
+      "links": "<a href='/AIV/20/2/2'>Proverbs 2:2</a>",
+      "comment": "Alcimus’ ambition echoes earlier biblical figures who sought power for personal gain, paralleling the dangers of seeking authority without divine calling."
     },
     {
       "pk": 21014004,
@@ -49,9 +61,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 4,
-      "text": "went to King Demetrius in the one hundred and fifty-first year and presented him with a gold crown, a palm branch, and some of the customary olive branches from the Temple.",
-      "links": "<a href='/AIV/21/1/10'>2Macc 1:10</a>; <a href='/AIV/3/23/40'>Lev. 23:40</a>",
-      "comment": "Alcimus tries to legitimize his approach by bringing offerings from the temple worship, indicating the ongoing link between political and religious authority."
+      "text": "and went to King Demetrius in about the one hundred fifty-first year, presenting to him a crown of gold and a palm, and besides these some of the customary olive branches from the temple. During that day he kept quiet.",
+      "links": "<a href='/AIV/19/34/13'>Psalm 34:13</a>",
+      "comment": "The betrayal by Alcimus highlights internal divisions and the potential for strife when earthly power is prioritized over faithfulness."
     },
     {
       "pk": 21014005,
@@ -61,9 +73,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 5,
-      "text": "That day, he maintained his silence, but when the king called him to his council, he was questioned about the state and intentions of the Judeans.",
-      "links": "",
-      "comment": "Alcimus is presented as cunning and patient, awaiting an audience before revealing his motives."
+      "text": "But he found an opportunity that furthered his mad purpose when he was invited by Demetrius to a meeting of the council and was asked about the attitude and intentions of the Jews. He answered:",
+      "links": "<a href='/AIV/20/6/12'>Proverbs 6:12</a>",
+      "comment": "Describing the people as unruly and rebellious frames Judas’s actions as a rejection of secular rule, emphasizing fidelity to God over compromise."
     },
     {
       "pk": 21014006,
@@ -73,9 +85,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 6,
-      "text": "\"There is a group among the Judeans called Hasideans, led by Judas Maccabeus, who provoke unrest and cannot be left alone,\" Alcimus said.",
-      "links": "<a href='/AIV/21/7/13-17'>2Macc 7:13-17</a>",
-      "comment": "Alcimus slanders the faithful remnant, the Hasideans, showing the persecution faced by those loyal to God's law. This echoes the biblical pattern of opposition faced by the righteous."
+      "text": "“Those of the Jews who are called Hasideans, whose leader is Judas Maccabeus, are keeping up war and stirring up sedition, and will not let the kingdom attain tranquility.",
+      "links": "<a href='/AIV/20/16/18'>Proverbs 16:18</a>",
+      "comment": "Alcimus manipulates the king’s fears of rebellion, illustrating how worldly rulers can be swayed by political expediency."
     },
     {
       "pk": 21014007,
@@ -85,9 +97,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 7,
-      "text": "\"I was deprived of my ancestral honor, that is, the High Priesthood, so I came here, first for the sake of my people, but second for the king’s interest.\"",
-      "links": "",
-      "comment": "Alcimus appeals to the king’s self-interest while painting his actions in a patriotic light. There is irony in his professions, since his motives are selfish."
+      "text": "Therefore I have laid aside my ancestral glory — I mean the high priesthood — and have now come here,",
+      "links": "<a href='/AIV/2/28/1'>Exodus 28:1</a>",
+      "comment": "Alcimus appeals to his priestly lineage – a theme of legitimate succession and authority reminiscent of Old Testament priestly appointment."
     },
     {
       "pk": 21014008,
@@ -97,9 +109,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 8,
-      "text": "\"Unrest has taken over all of Judea because of Judas and his followers, and I am here to ensure the stability of the region and the king's reputation.\"",
-      "links": "",
-      "comment": "Alcimus continues the accusation, portraying the faithful group as rebels rather than defenders of true worship."
+      "text": "first because I am genuinely concerned for the interests of the king, and second because I have regard also for my compatriots. For through the folly of those whom I have mentioned our whole nation is now in no small misfortune.",
+      "links": "<a href='/AIV/11/20/23'>1 Kings 20:23</a>",
+      "comment": "Delegation of military power to Bacchides parallels God’s use of earthly rulers to fulfill divine purposes, even amid human conflict."
     },
     {
       "pk": 21014009,
@@ -109,9 +121,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 9,
-      "text": "\"So, king, investigate these matters in detail. Care for our country and our harassed people with kindness, for all are looking to you for leadership.\"",
-      "links": "<a href='/AIV/16/2/17'>Neh. 2:17</a>",
-      "comment": "Subtly, Alcimus positions himself as the people's advocate. This verse shows the political exploitation of spiritual matters."
+      "text": "Since you are acquainted, O king, with the details of this matter, may it please you to take thought for our country and our hard-pressed nation with the gracious kindness that you show to all.",
+      "links": "<a href='/AIV/2/18/21'>Exodus 18:21</a>",
+      "comment": "Selection of Bacchides for his qualities recalls biblical patterns for choosing leaders based on trust and knowledge."
     },
     {
       "pk": 21014010,
@@ -121,9 +133,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 10,
-      "text": "The king was flattered, and he immediately appointed Alcimus as High Priest—one of his oldest friends—giving him orders to destroy the opposition and restore order.",
-      "links": "",
-      "comment": "The appointment of Alcimus by the king, not by divine calling, contrasts the authentic succession of leaders with those politically appointed."
+      "text": "For as long as Judas lives, it is impossible for the government to find peace.”",
+      "links": "<a href='/AIV/3/7/7'>Leviticus 7:7</a>",
+      "comment": "Here the priesthood’s restoration is linked to secular intervention, a tension between divine mandate and worldly power seen throughout salvation history."
     },
     {
       "pk": 21014011,
@@ -133,9 +145,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 11,
-      "text": "So the Gentile leaders, who had long suffered the troubles raised by Judas, rushed to Alcimus, supposing that his appointment meant an end to Jewish independence.",
-      "links": "",
-      "comment": "Gentile leaders seek suppression of Jewish religious autonomy. The high priest’s appointment by external political powers foreshadows later challenges to true worship and leadership."
+      "text": "When he had said this, the rest of the king’s Friends, who were hostile to Judas, quickly inflamed Demetrius still more.",
+      "links": "<a href='/AIV/19/41/9'>Psalm 41:9</a>",
+      "comment": "The desertion recalls scriptural warnings against abandoning righteous leaders, showing the persistent temptation to forsake Godly allegiance."
     },
     {
       "pk": 21014012,
@@ -145,10 +157,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 12,
-      "text": "Alcimus and his supporters called for the military commander Bacchides, one of the king’s trusted men, who commanded the region west of the Euphrates.",
-      "links": "<a href='/AIV/21/15/1-3'>2Macc 15:1-3</a>",
-      "comment": "Here, political and military might are invoked to oppose the faithful community, setting up the coming conflict with Judas.",
-      "sectionHeader": "Bacchides Sent Against Judas"
+      "text": "He immediately chose Nicanor, who had been in command of the elephants, appointed him governor of Judea, and sent him off",
+      "links": "<a href='/AIV/19/122/3'>Psalm 122:3</a>",
+      "comment": "Arrival in Jerusalem – the focal point of worship – is chosen carefully, underscoring the spiritual contest as much as the military one."
     },
     {
       "pk": 21014013,
@@ -158,9 +169,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 13,
-      "text": "He was sent with a large army, instructed to kill Judas, scatter his followers, and appoint Alcimus as the first authority over the region’s holy places.",
-      "links": "",
-      "comment": "Bacchides is tasked with eliminating the lawful opposition and imposing a high priest through violence, contrasting man’s authority with God’s."
+      "text": "with orders to kill Judas and scatter his troops, and to install Alcimus as high priest of the great temple.",
+      "links": "<a href='/AIV/19/118/8'>Psalm 118:8</a>",
+      "comment": "Alcimus’s attempt to win popular support demonstrates the dangers of seeking approval at the expense of true faithfulness."
     },
     {
       "pk": 21014014,
@@ -170,9 +181,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 14,
-      "text": "Gentile villagers, who had long hated and persecuted Judas, joined Bacchides, thinking the defeat of Judas meant an end to their troubles.",
-      "links": "",
-      "comment": "The local enemies of the faithful side with the oppressors—this opposition from inside and outside was a common experience for God’s people."
+      "text": "And the Gentiles throughout Judea, who had fled before Judas, flocked to join Nicanor, thinking that the misfortunes and calamities of the Jews would mean prosperity for themselves.",
+      "links": "<a href='/AIV/40/23/2-3'>Matthew 23:2-3</a>",
+      "comment": "Righteous leaders seek truth over expedient power; note the early mention of scribes and Pharisees, foreshadowing later tensions found in the Gospels."
     },
     {
       "pk": 21014015,
@@ -182,9 +193,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 15,
-      "text": "Hearing that Bacchides and the army were coming, Judas and his allies prayed to God, with dust and ashes on their heads, asking Him to look with favor on His chosen people.",
-      "links": "<a href='/AIV/09/7/6'>1Sam. 7:6</a>; <a href='/AIV/16/9/1'>Neh. 9:1</a>",
-      "comment": "The gesture of dust and ashes shows deep humility and repentance. Calling on God’s favor reinforces the notion of an elect, covenant people."
+      "text": "When the Jews heard of Nicanor’s coming and the gathering of the Gentiles, they sprinkled dust on their heads and prayed to him who established his own people forever and always upholds his own heritage by manifesting himself.",
+      "links": "<a href='/AIV/19/18/6'>Psalm 18:6</a>",
+      "comment": "Prayer in crisis connects the remnant’s faith to God’s deliverance, echoing countless moments in salvation history."
     },
     {
       "pk": 21014016,
@@ -194,9 +205,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 16,
-      "text": "Encouraged by their prayers, they were ready to fight, so they went out from the city and confronted the royal army.",
-      "links": "<a href='/AIV/06/23/10'>Josh. 23:10</a>",
-      "comment": "Prayer and trust in God provide courage, a recurring biblical theme—courage comes not only from personal strength but from divine support."
+      "text": "At the command of the leader, they set out from there immediately and engaged them in battle at a village called Dessau.",
+      "links": "<a href='/AIV/7/17/47'>1 Samuel 17:47</a>",
+      "comment": "Mobilizing for battle out of faithfulness echoes David’s example; not merely military, but spiritual courage is implied."
     },
     {
       "pk": 21014017,
@@ -206,9 +217,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 17,
-      "text": "But as soon as Judas and his army came into view, Bacchides’ army was overwhelmed with fear and retreated, losing many soldiers.",
-      "links": "",
-      "comment": "The divine support for Judas’ army is shown as God causes fear to fall on their enemies—recalling other Old Testament victories won through God’s intervention."
+      "text": "Simon, the brother of Judas, had encountered Nicanor, but had been temporarily checked because of the sudden consternation created by the enemy.",
+      "links": "<a href='/AIV/10/18/7'>2 Samuel 18:7</a>",
+      "comment": "A theme of remnant faithfulness rises here, prefiguring the steadfastness required of believers despite temptations to abandon the cause."
     },
     {
       "pk": 21014018,
@@ -218,9 +229,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 18,
-      "text": "Bacchides saw that Judas had become powerful in the region, and he hesitated to move further,",
-      "links": "",
-      "comment": "Bacchides' hesitation illustrates an implicit recognition of a divine presence with the Maccabeans."
+      "text": "Nevertheless Nicanor, hearing of the valor of Judas and his troops and their courage in battle for their country, shrank from deciding the issue by bloodshed.",
+      "links": "<a href='/AIV/2/20/10'>Exodus 20:10</a>",
+      "comment": "Attack planned for the Sabbath underlines opposition to God’s law, drawing attention to the holiness of the seventh day and the cost of fidelity."
     },
     {
       "pk": 21014019,
@@ -230,9 +241,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 19,
-      "text": "so he sent messengers to Judas with peaceful proposals, swearing to do them no harm for the rest of their lives.",
-      "links": "",
-      "comment": "This turn to diplomacy after violence shows a pattern where God's intervention brings even enemies to seek peace."
+      "text": "Therefore he sent Posidonius, Theodotus, and Mattathias to give and receive pledges of friendship.",
+      "links": "<a href='/AIV/19/120/6'>Psalm 120:6</a>",
+      "comment": "Desire for peace is contrasted with the necessity of remaining faithful in the face of persecution, a theme continued into the New Testament."
     },
     {
       "pk": 21014020,
@@ -242,9 +253,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 20,
-      "text": "Judas accepted the terms and exchanged solemn oaths with Bacchides and his army. Afterward, the enemy returned to the king, and there was peace in the land for a while.",
-      "links": "",
-      "comment": "Oaths and covenants play a crucial role throughout the Bible. The temporary peace here is secured through solemn promise, hinting at the greater spiritual peace promised through Christ."
+      "text": "When the terms had been fully considered, and the leader had informed the people, and it had appeared that they were of one mind, they agreed to the covenant.",
+      "links": "<a href='/AIV/1/21/31'>Genesis 21:31</a>",
+      "comment": "Making oaths recalls patriarchal covenants. Faithfulness to one’s word is rooted in Old Testament teachings."
     },
     {
       "pk": 21014021,
@@ -254,9 +265,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 21,
-      "text": "But Alcimus found nothing in the covenant to further his ambitions.",
-      "links": "",
-      "comment": "Alcimus's dissatisfaction with the peace exposes his persistent ambition and the tension between human motivations and God's will."
+      "text": "The leaders set a day on which to meet by themselves. A chariot came forward from each army; seats of honor were set in place;",
+      "links": "<a href='/AIV/7/7/14'>1 Samuel 7:14</a>",
+      "comment": "Temporary peace foreshadows the cyclical pattern of rest and oppression found throughout salvation history."
     },
     {
       "pk": 21014022,
@@ -266,9 +277,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 22,
-      "text": "He went to Demetrius, accusing Judas of breaking the agreement,",
-      "links": "",
-      "comment": "Accusation and betrayal are consistent biblical motifs. Alcimus represents the treachery often faced by God's faithful."
+      "text": "Judas posted armed men in readiness at key places to prevent sudden treachery on the part of the enemy; so they duly held the consultation.",
+      "links": "<a href='/AIV/19/74/4'>Psalm 74:4</a>",
+      "comment": "Unjust leadership causes ongoing suffering. Scriptural tradition emphasizes God’s ultimate justice even amid corrupt authority."
     },
     {
       "pk": 21014023,
@@ -278,10 +289,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 23,
-      "text": "and Demetrius, angered by such reports, sent his general Nicanor, an experienced commander, to destroy the Jewish nation.",
-      "links": "<a href='/AIV/21/8/9'>2Macc 8:9</a>",
-      "comment": "A new antagonist arrives. The cycle of hostility resumes, highlighting the ongoing battle for the faithfulness and survival of Israel.",
-      "sectionHeader": "Nicanor's Mission and Betrayal of Judas"
+      "text": "Nicanor stayed on in Jerusalem and did nothing out of the way, but dismissed the flocks of people that had gathered.",
+      "links": "<a href='/AIV/20/8/4'>Proverbs 8:4</a>",
+      "comment": "Alcimus’s ruthless pursuit of power stands in contrast to the humility and justice meant to mark divinely appointed leaders."
     },
     {
       "pk": 21014024,
@@ -291,9 +301,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 24,
-      "text": "Nicanor came to Jerusalem with a great army. He tried to take Judas by treachery but failed.",
-      "links": "",
-      "comment": "Nicanor's failed plot demonstrates the inability to overcome God's chosen through deceit. God’s providence protects His people."
+      "text": "And he kept Judas always in his presence; he was warmly attached to the man.",
+      "links": "<a href='/AIV/6/24/15'>Joshua 24:15</a>",
+      "comment": "Gathering the faithful remnant illustrates continuity through apostolic tradition passed down by those loyal to God."
     },
     {
       "pk": 21014025,
@@ -303,9 +313,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 25,
-      "text": "He met and exchanged friendly greetings with Judas and his followers, showing good faith in all he said.",
-      "links": "",
-      "comment": "The display of friendship may be deceptive; Scripture often warns to be wise as serpents (cf. Matt. 10:16)."
+      "text": "He urged him to marry and have children; so Judas married, settled down, and shared the common life.",
+      "links": "<a href='/AIV/16/6/6'>Nehemiah 6:6</a>",
+      "comment": "The constant reporting to foreign rulers highlights the tension between local fidelity and outside interference, an early echo of conflicts seen in Acts."
     },
     {
       "pk": 21014026,
@@ -315,9 +325,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 26,
-      "text": "But some of Judas’ opponents accused him to Nicanor, charging him with plotting against the king.",
-      "links": "",
-      "comment": "False accusations are a recurring biblical theme, echoing the trials of Daniel and, ultimately, Christ (cf. Matt. 26:59-60)."
+      "text": "But when Alcimus noticed their goodwill for one another, he took the covenant that had been made and went to Demetrius. He told him that Nicanor was disloyal to the government, since he had appointed that conspirator against the kingdom, Judas, to be his successor.",
+      "links": "<a href='/AIV/7/8/20'>1 Samuel 8:20</a>",
+      "comment": "Nicanor’s role as the king’s agent resembles the use of secular enforcers throughout history to suppress religious renewal."
     },
     {
       "pk": 21014027,
@@ -327,9 +337,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 27,
-      "text": "Angered by these charges, Nicanor, learning of Judas' whereabouts, decided to arrest him by force.",
-      "links": "",
-      "comment": "Once more, betrayal within the community leads to persecution. This reflects the wisdom of Christ's words: 'A man's enemies will be the members of his own household.' (Matt. 10:36)"
+      "text": "The king became excited and, provoked by the false accusations of that depraved man, wrote to Nicanor, stating that he was displeased with the covenant and commanding him to send Maccabeus to Antioch as a prisoner without delay.",
+      "links": "<a href='/AIV/1/33/4'>Genesis 33:4</a>",
+      "comment": "Attempts at peace by Nicanor show the possibility, but also the limits, of reconciliation without shared values or divine truth."
     },
     {
       "pk": 21014028,
@@ -339,9 +349,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 28,
-      "text": "Learning this, Judas and his followers prayed to God for help. They withdrew to a place called Hakdasa in the wilderness, where they fasted.",
-      "links": "<a href='/AIV/44/13/3'>Acts 13:3</a>",
-      "comment": "Praying and fasting remain powerful means of seeking God’s guidance and deliverance, as seen through both Old and New Testament practice."
+      "text": "When this message came to Nicanor, he was troubled and grieved that he had to annul their agreement when the man had done no wrong.",
+      "links": "<a href='/AIV/20/1/7'>Proverbs 1:7</a>",
+      "comment": "Wisdom and prudence are needed when dealing with untrustworthy authorities; Judas’s discernment is praised."
     },
     {
       "pk": 21014029,
@@ -351,9 +361,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 29,
-      "text": "Nicanor, enraged by Judas’ escape, went to the Temple priests and made offerings in a show of piety,",
-      "links": "",
-      "comment": "Superficial religiosity is contrasted with true devotion. Nicanor honors ritual but not the God behind them, a subtle allusion to the necessity of inward holiness complementing external acts (cf. Isa. 29:13)."
+      "text": "Since it was not possible to oppose the king, he watched for an opportunity to accomplish this by a stratagem.",
+      "links": "<a href='/AIV/19/55/21'>Psalm 55:21</a>",
+      "comment": "The duplicity displayed here echoes consistent biblical warnings about false prophets and counterfeit peace."
     },
     {
       "pk": 21014030,
@@ -363,9 +373,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 30,
-      "text": "while inwardly plotting to seize Judas and betray him to the king.",
-      "links": "",
-      "comment": "Nicanor’s duplicity shows the biblical lesson that true intention matters more than outward practice (cf. Jer. 17:10)."
+      "text": "But Maccabeus, noticing that Nicanor was more austere in his dealings with him and was meeting him more rudely than had been his custom, concluded that this austerity did not spring from the best motives. So he gathered not a few of his men, and went into hiding from Nicanor.",
+      "links": "<a href='/AIV/20/27/12'>Proverbs 27:12</a>",
+      "comment": "Faithful leaders guided by wisdom avoid danger; vigilance is a mark of spiritual maturity."
     },
     {
       "pk": 21014031,
@@ -375,9 +385,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 31,
-      "text": "But after Judas was not found, he accused the priests of harboring traitors and threatened to destroy the place of worship as soon as he returned safely with the king’s troops.",
-      "links": "<a href='/AIV/40/26/61'>Matt. 26:61</a>",
-      "comment": "Nicanor’s threatening speech recalls later threats against the Temple, foreshadowing the destruction of Jerusalem and the deeper reality of God's indwelling in His people (cf. John 2:19)."
+      "text": "When the latter became aware that he had been cleverly outwitted by the man, he went to the great and holy temple while the priests were offering the customary sacrifices, and commanded them to hand the man over.",
+      "links": "<a href='/AIV/2/30/10'>Exodus 30:10</a>",
+      "comment": "The entry into the holy place by a secular leader highlights the sanctity of worship and the gravity of intrusion, prefiguring Christ’s cleansing of the Temple."
     },
     {
       "pk": 21014032,
@@ -387,9 +397,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 32,
-      "text": "The priests lifted up their hands toward heaven and called on the ever-living Lord, saying,",
-      "links": "",
-      "comment": "The priestly role as intercessor is emphasized here, a theme developed further in Christ as the High Priest (cf. Heb. 4:14)."
+      "text": "When they declared on oath that they did not know where the man was whom he wanted,",
+      "links": "<a href='/AIV/24/7/4'>Jeremiah 7:4</a>",
+      "comment": "Threat against the Temple demonstrates disregard for sacred things, which underlines the centrality of proper worship and God’s dwelling among His people."
     },
     {
       "pk": 21014033,
@@ -399,9 +409,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 33,
-      "text": "\"You, O Lord of all, who have need of nothing, were pleased to grant us this holy place for our dwelling. So now, preserve it undefiled forever!\"",
-      "links": "<a href='/AIV/11/8/27'>1Kgs 8:27</a>",
-      "comment": "God's transcendence is declared, and yet He chooses to dwell among His people. The plea to keep the temple holy anticipates the Christian idea of the indwelling of the Spirit."
+      "text": "he stretched out his right hand toward the sanctuary, and swore this oath: “If you do not hand Judas over to me as a prisoner, I will level this shrine of God to the ground and tear down the altar, and build here a splendid temple to Dionysus.”",
+      "links": "<a href='/AIV/19/51/17'>Psalm 51:17</a>",
+      "comment": "Fervent prayer for the sanctity of worship shows reliance on God’s mercy and intervention, prefiguring intercessory prayers for protection of the Church."
     },
     {
       "pk": 21014034,
@@ -411,9 +421,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 34,
-      "text": "\"Do not let anyone desecrate this sanctuary, for You have sanctified it above all others.\"",
-      "links": "<a href='/AIV/19/74/7'>Ps. 74:7</a>; <a href='/AIV/19/132/13-14'>Ps. 132:13-14</a>",
-      "comment": "God's choice of a particular holy place connects Old Testament promises to New Testament fulfillment in Christ, the true Temple (cf. John 2:19)."
+      "text": "Having said this, he went away. Then the priests stretched out their hands toward heaven and called upon the constant Defender of our nation, in these words:",
+      "links": "<a href='/AIV/23/56/7'>Isaiah 56:7</a>",
+      "comment": "The dedication of the Temple as God’s dwelling foreshadows the later understanding of the spiritual house being God’s community."
     },
     {
       "pk": 21014035,
@@ -423,9 +433,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 35,
-      "text": "When Nicanor returned, he was met by Judas and his men. Fierce fighting followed, and some of Nicanor’s troops fell in battle.",
-      "links": "",
-      "comment": "Again, divine assistance enables victory for Judah’s faithful remnant against larger forces."
+      "text": "“O Lord of all, though you have need of nothing, you were pleased that there should be a temple for your habitation among us;",
+      "links": "<a href='/AIV/11/16/18'>1 Kings 16:18</a>",
+      "comment": "Divine judgment threatens those who would destroy what is holy; the severity of oaths shows the tension between human pride and God’s protection."
     },
     {
       "pk": 21014036,
@@ -435,10 +445,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 36,
-      "text": "During the battle, a man named Razis, a leader of Jerusalem and a man of great reputation, was accused before Nicanor.",
-      "links": "",
-      "comment": "Razis’s reputation as 'a lover of his fellow citizens' foreshadows his willingness to suffer for righteousness’ sake, much like several Old Testament prophets.",
-      "sectionHeader": "The Martyrdom of Razis"
+      "text": "so now, O holy One, Lord of all holiness, keep undefiled forever this house that has been so recently purified.”",
+      "links": "<a href='/AIV/19/28/9'>Psalm 28:9</a>",
+      "comment": "Intercessory prayer by the priests is deeply rooted in tradition; it reflects confidence in divine protection for the faithful remnant."
     },
     {
       "pk": 21014037,
@@ -448,9 +457,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 37,
-      "text": "He was called the father of the Jews for his goodwill toward them.",
-      "links": "<a href='/AIV/01/45/8'>Gen. 45:8</a>",
-      "comment": "The phrasing mirrors Joseph, who was also called a father to his people and points to righteous leaders interceding for the nation."
+      "text": "A certain Razis, one of the elders of Jerusalem, was denounced to Nicanor as a man who loved his compatriots and was very well thought of and for his goodwill was called father of the Jews.",
+      "links": "<a href='/AIV/19/79/1'>Psalm 79:1</a>",
+      "comment": "The prayer for preservation of the holy place links to numerous psalms, showing the continuity of God’s promise of inheritance."
     },
     {
       "pk": 21014038,
@@ -460,9 +469,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 38,
-      "text": "In earlier days, he had boldly risked his life for Judaism and had always been known for his zeal.",
-      "links": "<a href='/AIV/04/25/7-13'>Num. 25:7-13</a>",
-      "comment": "Razis exhibits the zeal for God’s law seen throughout the Old Testament. Righteous suffering as seen in his story foreshadows the sacrificial nature of true leadership."
+      "text": "In former times, when there was no mingling with the Gentiles, he had been accused of Judaism, and he had most zealously risked body and life for Judaism.",
+      "links": "<a href='/AIV/16/13/14'>Nehemiah 13:14</a>",
+      "comment": "Razis’s faithfulness amidst persecution calls to mind martyrs and saints who stand firm for the truth."
     },
     {
       "pk": 21014039,
@@ -472,9 +481,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 39,
-      "text": "Nicanor, wanting to display his contempt for the Jews, sent more than five hundred soldiers to arrest Razis.",
-      "links": "",
-      "comment": "The deployment of overwhelming force demonstrates both the courage of Razis and the seriousness of his threat to the enemy."
+      "text": "Nicanor, wishing to exhibit the enmity that he had for the Jews, sent more than five hundred soldiers to arrest him;",
+      "links": "<a href='/AIV/43/15/13'>John 15:13</a>",
+      "comment": "Sacrificial loyalty is lifted up as the highest form of faith, anticipating Christ’s sacrifice for His Church."
     },
     {
       "pk": 21014040,
@@ -484,9 +493,10 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 40,
-      "text": "They besieged the tower and began to break down the gates. Seeing that he was about to be taken and preferring to die nobly rather than fall into the hands of evil men and suffer outrageous abuse,",
-      "links": "",
-      "comment": "Razis's choice echoes the virtue of martyrdom—a willingness to suffer or die for fidelity to God rather than yield to evil, a theme central to both Old and New Covenants."
+      "text": "for he thought that by arresting him he would do them an injury.",
+      "links": "<a href='/AIV/44/12/4'>Acts 12:4</a>",
+      "comment": "Persecution of Razis by overwhelming force displays the cost of testimony, prefiguring the trials faced by the early believers and martyrs.",
+      "sectionHeader": "The Persecution and Martyrdom of Razis"
     },
     {
       "pk": 21014041,
@@ -496,9 +506,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 41,
-      "text": "he fell on his sword, choosing to die with honor rather than be mistreated by the wicked.",
-      "links": "",
-      "comment": "Acts of heroic self-sacrifice mark those who trust in God’s ultimate vindication; his act is considered noble by the sacred historian."
+      "text": "When the troops were about to capture the tower and were forcing the door of the courtyard, they ordered that fire be brought and the doors burned. Being surrounded, Razis fell upon his own sword,",
+      "links": "<a href='/AIV/10/22/1-2'>2 Samuel 22:1-2</a>, <a href='/AIV/19/118/10-13'>Psalm 118:10-13</a>",
+      "comment": "Razis, known for his devotion to the law, chooses to die with honor rather than fall into enemy hands, demonstrating the ancient Jewish belief in martyrdom for the sake of the Law. The reference to fire and sword parallels episodes of self-sacrifice in the Old Testament."
     },
     {
       "pk": 21014042,
@@ -508,9 +518,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 42,
-      "text": "But, due to haste among the crowd, he only wounded himself heavily. So, rushing through the crowds, he found himself standing on a steep rock.",
-      "links": "",
-      "comment": "Details are drawn out to emphasize his intense courage and commitment to avoid capture, echoing other scenes of biblical heroism."
+      "text": "preferring to die nobly than to fall into the hands of sinners and be outraged unworthily for his own dignity.",
+      "links": "<a href='/AIV/58/11/35-38'>Hebrews 11:35-38</a>, <a href='/AIV/19/31/17-18'>Psalm 31:17-18</a>",
+      "comment": "His choice echoes the 'better resurrection' language in Hebrews, reflecting the hope that faithfulness to God, even unto death, is honored and that enduring suffering for righteousness is noble. The preservation of dignity and faith is key."
     },
     {
       "pk": 21014043,
@@ -520,9 +530,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 43,
-      "text": "Still bleeding and nearly dead, he tore out his innards with both hands and hurled them into the crowd, calling upon the Lord who gives life and breath to restore them to him again.",
-      "links": "<a href='/AIV/01/2/7'>Gen. 2:7</a>",
-      "comment": "Razis expresses faith in God's power over life and death, a bold hint toward a belief in the resurrection (cf. Dan. 12:2), prefiguring later Christian hope."
+      "text": "But as he struck the sword into himself, in the heat of the struggle he leapt down bravely from the wall, and all the people drew back as he fell heavily in their midst.",
+      "links": "<a href='/AIV/07/16/28-30'>Judges 16:28-30</a>, <a href='/AIV/44/7/59-60'>Acts 7:59-60</a>",
+      "comment": "Razis's self-sacrifice brings to mind the courage of biblical figures like Samson and Stephen, who trusted God in their final moments. Leaping from the wall illustrates both human vulnerability and heroic resolve."
     },
     {
       "pk": 21014044,
@@ -532,9 +542,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 44,
-      "text": "With this, he died, leaving his courage and faith as an example to the entire nation.",
-      "links": "<a href='/AIV/58/11/35-38'>Heb. 11:35-38</a>",
-      "comment": "Razis’ death is celebrated as martyrdom. The resurrection hope becomes more explicit here, as dying fidelity is seen as leading to eternal reward."
+      "text": "He was still breathing and, inflamed with courage, he rose in spite of his wounds and, with his blood gushing out in streams and his injuries grievous, ran through the crowd and stood on a steep rock.",
+      "links": "<a href='/AIV/19/27/1-3'>Psalm 27:1-3</a>, <a href='/AIV/19/18/2'>Psalm 18:2</a>",
+      "comment": "Razis's perseverance, even as he clings to life, demonstrates extraordinary zeal for faithfulness, reminiscent of other martyrs and the steadfastness celebrated in Psalms. This defense of faith at the cost of pain witnesses to the hope of the righteous."
     },
     {
       "pk": 21014045,
@@ -544,9 +554,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 45,
-      "text": "He not only endured to the end but, in the noblest manner, left a model of courage and faith for all the people.",
-      "links": "",
-      "comment": "The author highlights perseverance in the faith as a model to be followed—echoed in Christian teaching on enduring to the end (cf. Matt. 10:22)."
+      "text": "With hands now nearly powerless, he tore out his innards and hurled them with both hands to the crowd, calling upon the Lord of life and spirit to return them to him again. Thus, he died.",
+      "links": "<a href='/AIV/01/02/7'>Genesis 2:7</a>, <a href='/AIV/42/23/46'>Luke 23:46</a>, <a href='/AIV/58/11/35'>Hebrews 11:35</a>",
+      "comment": "Razis's prayer for resurrection reveals a belief in life after death and the restoration of the righteous, anticipating themes made clearer in later revelation. His appeal to the Lord of life connects to Old and New Testament references to God's power over life and death."
     },
     {
       "pk": 21014046,
@@ -556,32 +566,10 @@
       "bookAbbreviation": "2Macc",
       "chapter": 14,
       "verse": 46,
-      "text": "So, in this way, his death became a testimony for all the people to remember eternal life and God's faithfulness.",
-      "links": "<a href='/AIV/21/7/9'>2Macc 7:9</a>; <a href='/AIV/40/10/28'>Matt. 10:28</a>",
-      "comment": "This verse brings the theme of resurrection and hope for eternal life into focus. The emphasis on God's faithfulness and the martyr's witness points to the fuller revelation given in Christ, who overcomes death for His people."
+      "text": "In this way, leaving both his life and his example behind for the nation, he died, courageous and noble.",
+      "links": "<a href='/AIV/07/16/30'>Judges 16:30</a>, <a href='/AIV/43/15/13'>John 15:13</a>",
+      "comment": "Razis’s martyrdom becomes an enduring testimony for future generations—dying rather than betraying the faith. His sacrifice foreshadows the perfection of self-giving love, which is fulfilled in Christ’s ultimate gift on the Cross. The imitation of such fidelity anticipates the high call of sanctity for all believers."
     }
   ],
-  "translatedAt": "2025-12-24T05:38:38.623Z",
-  "sections": [
-    {
-      "title": "Alcimus Appeals to Demetrius",
-      "startVerse": 1,
-      "endVerse": 11
-    },
-    {
-      "title": "Bacchides Sent Against Judas",
-      "startVerse": 12,
-      "endVerse": 22
-    },
-    {
-      "title": "Nicanor's Mission and Betrayal of Judas",
-      "startVerse": 23,
-      "endVerse": 35
-    },
-    {
-      "title": "The Martyrdom of Razis",
-      "startVerse": 36,
-      "endVerse": 46
-    }
-  ]
+  "translatedAt": "2025-12-29T00:32:49.250Z"
 }

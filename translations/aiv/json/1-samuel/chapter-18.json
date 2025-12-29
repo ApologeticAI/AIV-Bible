@@ -294,7 +294,11 @@
       "chapter": 18,
       "verse": 24,
       "text": "And the servants of Saul told him, \"Thus and so did David speak.\"",
-      "links": "",
+      "links": [
+        "Gen 41:16",
+        "Num 22:7",
+        "Esth 2:22"
+      ],
       "comment": "David’s humility is reported back, and the narrative builds toward Saul’s next test, contrasting the spirit of humility with ambition."
     },
     {
@@ -318,7 +322,11 @@
       "chapter": 18,
       "verse": 26,
       "text": "When his servants told David these words, it pleased David well to become the king’s son-in-law. Before the time had expired,",
-      "links": "",
+      "links": [
+        "1 Sam 18:21",
+        "Gen 24:58",
+        "1 Sam 25:40-41"
+      ],
       "comment": "David’s willingness to accept the challenge shows his courage rooted in faith, a hallmark of heroic sanctity."
     },
     {
@@ -329,9 +337,13 @@
       "bookAbbreviation": "1Sam",
       "chapter": 18,
       "verse": 27,
-      "text": "David rose and went, he and his men, and struck down two hundred men of the Philistines. And David brought their foreskins, which were counted in full to the king, so that he became the king’s son-in-law. And Saul gave him his daughter Michal as a wife.",
-      "links": "<a href='/AIV/09/25/44'>1Sam 25:44</a>",
-      "comment": "God grants David twice the success Saul expected, underscoring the principle that God’s grace abundantly overcomes human obstacles."
+      "text": "David rose and went, along with his men, and killed one hundred of the Philistines; and David brought their foreskins, which were given in full number to the king, that he might become the king’s son-in-law. Saul gave him his daughter Michal as a wife.",
+      "links": [
+        "Josh 5:3",
+        "1 Sam 14:49",
+        "2 Sam 3:14"
+      ],
+      "comment": "David’s fulfillment of Saul’s incredibly dangerous bride-price—collecting Philistine foreskins—demonstrates his valor and God’s favor, echoing both Saul’s failed attempts to destroy David (cf. 1 Sam 18:17-21) and the divine reversal motif common in biblical narratives."
     },
     {
       "pk": 9018028,
@@ -341,9 +353,13 @@
       "bookAbbreviation": "1Sam",
       "chapter": 18,
       "verse": 28,
-      "text": "When Saul saw and knew that the LORD was with David, and that all Israel loved him,",
-      "links": "<a href='/AIV/09/18/12'>1Sam 18:12</a>",
-      "comment": "Recognition of God’s favor is central here. True authority is always marked by the presence of the Lord and the love of God’s people."
+      "text": "But when Saul realized that the LORD was with David, and that Saul’s daughter Michal loved him,",
+      "links": [
+        "Gen 39:2-3",
+        "1 Sam 16:18",
+        "1 Sam 18:12"
+      ],
+      "comment": "Saul’s recognition that the LORD is with David and that Michal loves him intensifies Saul’s envy and fear—a theme introduced earlier (1 Sam 18:12)—showing how divine blessing and genuine human affection further isolate Saul spiritually and politically."
     },
     {
       "pk": 9018029,
@@ -370,7 +386,7 @@
       "comment": "David’s rise to honor through faithfulness prefigures Christ’s glorification after humiliation (Phil. 2:8-11). This pattern is reflected in the saints who are honored in God’s household over time."
     }
   ],
-  "translatedAt": "2025-12-24T02:59:25.523Z",
+  "translatedAt": "2025-12-28T06:55:09.391Z",
   "sections": [
     {
       "title": "David and Jonathan Make a Covenant",

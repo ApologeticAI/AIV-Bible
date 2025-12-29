@@ -172,7 +172,10 @@
       "chapter": 1,
       "verse": 14,
       "text": "And you answered me, 'The thing that you have spoken is good for us to do.'",
-      "links": "",
+      "links": [
+        "Ex 18:24",
+        "Num 11:17"
+      ],
       "comment": "The people’s agreement with Moses reveals the value of unity and obedience to established leadership."
     },
     {
@@ -220,7 +223,10 @@
       "chapter": 1,
       "verse": 18,
       "text": "And I commanded you at that time all the things that you should do.",
-      "links": "",
+      "links": [
+        "Ex 18:20",
+        "Deut 4:5"
+      ],
       "comment": "Moses gives all necessary instruction, symbolizing the sufficiency and completeness of divine revelation through God’s appointed mediators."
     },
     {
@@ -245,7 +251,11 @@
       "chapter": 1,
       "verse": 20,
       "text": "And I said to you, 'You have come to the hill country of the Amorites, which the LORD our God is giving us.'",
-      "links": "",
+      "links": [
+        "Gen 15:16",
+        "Num 13:27",
+        "Josh 1:2"
+      ],
       "comment": "God’s act of giving is highlighted; faith requires the people to receive God’s gift."
     },
     {
@@ -353,7 +363,11 @@
       "chapter": 1,
       "verse": 29,
       "text": "Then I said to you, 'Do not be terrified, and do not be afraid of them.'",
-      "links": "",
+      "links": [
+        "Ex 14:13",
+        "Josh 1:9",
+        "Isa 41:10"
+      ],
       "comment": "Throughout Scripture, God calls His people to courage based on His faithfulness, ultimately fulfilled in Christ’s victory over sin and death."
     },
     {
@@ -390,7 +404,7 @@
       "verse": 32,
       "text": "Yet in spite of this word, you did not trust the LORD your God,",
       "links": "<a href='/AIV/4/14/11'>Num. 14:11</a>",
-      "comment": "Persistent unbelief is a fundamental human problem only overcome through grace and faith."
+      "comment": "Despite God's past faithfulness and assurances (cf. Deut 1:30-31), Israel’s lack of trust recalls their failure at Kadesh-barnea (Numbers 14:11), highlighting a recurring theme of unbelief versus divine provision in the wilderness narrative."
     },
     {
       "pk": 5001033,

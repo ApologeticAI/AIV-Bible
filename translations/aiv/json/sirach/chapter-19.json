@@ -12,9 +12,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 19,
       "verse": 1,
-      "text": "One who works with haste will become rich, but one who loves pleasure will grow poor.",
-      "links": "<a href='/AIV/20/21/17'>Prov. 21:17</a>",
-      "comment": "Here Sirach warns that pursuing pleasure leads to poverty, while diligence brings prosperity. This echoes Proverbs and cautions against self-indulgence which diverts us from God's call to discipline and virtue.",
+      "text": "The one who does this will not become rich; one who despises small things will fail little by little.",
+      "links": [
+        "Prov 13:11",
+        "Luke 16:10",
+        "Matt 25:23"
+      ],
+      "comment": "Sirach warns that neglecting small opportunities or responsibilities undermines one's prosperity; diligence in minor matters is a hallmark of biblical wisdom (cf. Luke 16:10).",
       "sectionHeader": "Warnings Against Pleasure and Rashness"
     },
     {
@@ -37,9 +41,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 19,
       "verse": 3,
-      "text": "Rashness will lead to old age before your time, and a wasted life will be filled with regret.",
-      "links": "<a href='/AIV/20/10/27'>Prov. 10:27</a>",
-      "comment": "A life of folly shortens one’s days, while those who fear the Lord are promised a lengthened life in wisdom."
+      "text": "Decay and worms will take possession of him, and the reckless person will be snatched away.",
+      "links": [
+        "Isa 14:11",
+        "Job 17:14",
+        "Wis 4:19"
+      ],
+      "comment": "The imagery of 'decay and worms' is a traditional reminder of mortality and judgment for the reckless, echoing themes found in Job 17:14 and Isaiah 14:11."
     },
     {
       "pk": 28019004,
@@ -61,9 +69,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 19,
       "verse": 5,
-      "text": "He who rejoices in wickedness will be condemned, but one who resists temptation gains mercy.",
-      "links": "<a href='/AIV/20/11/21'>Prov. 11:21</a>; <a href='/AIV/58/2/18'>Heb. 2:18</a>",
-      "comment": "Condoning sin brings judgment, but overcoming temptation leads to God’s mercy and favor. Christ Himself resisted temptation (Heb. 2:18), giving us an example to follow."
+      "text": "One who rejoices in wickedness will be condemned.",
+      "links": [
+        "Prov 11:21",
+        "Rom 2:8-9",
+        "Isa 3:11"
+      ],
+      "comment": "Rejoicing in evil reveals a hardened heart, and such delight leads to condemnation, consistent with Proverbs 17:5 and Romans 1:32."
     },
     {
       "pk": 28019006,
@@ -73,9 +85,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 19,
       "verse": 6,
-      "text": "Never repeat a harsh word, and you will not suffer loss.",
-      "links": "<a href='/AIV/20/17/9'>Prov. 17:9</a>; <a href='/AIV/20/11/13'>Prov. 11:13</a>",
-      "comment": "Gossip and tale-bearing lead to strife and brokenness. God's people are called to charity and discretion in speech.",
+      "text": "But one who hates gossip has less evil.",
+      "links": [
+        "Prov 20:19",
+        "Ps 34:13",
+        "Jas 3:6"
+      ],
+      "comment": "Avoiding gossip promotes personal righteousness and minimizes sin, reflecting the wisdom of Proverbs 16:28 and James 3:5-8 regarding the dangers of the tongue.",
       "sectionHeader": "Guarding the Tongue and Secrets"
     },
     {
@@ -195,9 +211,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 19,
       "verse": 16,
-      "text": "There is one who keeps silent and is thought to be wise, and another who is hateful and is considered rash.",
-      "links": "<a href='/AIV/20/17/28'>Prov. 17:28</a>",
-      "comment": "Silence can be mistaken for wisdom, and speaking out impulsively can reveal folly. True wisdom is a combination of prudent silence and timely speech."
+      "text": "A person may make a slip without intending it. Who has not sinned with his tongue?",
+      "links": [
+        "Jas 3:2",
+        "Prov 10:19",
+        "Eccl 7:20"
+      ],
+      "comment": "This verse acknowledges human frailty in speech and calls for compassion, paralleling James 3:2: 'We all stumble in many ways,' highlighting the universality of such failings."
     },
     {
       "pk": 28019017,
@@ -207,9 +227,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 19,
       "verse": 17,
-      "text": "Some people keep quiet, for they have nothing to say, while others keep silent and wait for the right moment.",
-      "links": "<a href='/AIV/20/15/23'>Prov. 15:23</a>",
-      "comment": "Distinguishing between the prudent and the ignorant reveals spiritual maturity. True wisdom waits for God's timing."
+      "text": "Question your neighbor before you threaten him; and let the law of the Most High take its course.",
+      "links": [
+        "Matt 18:15",
+        "Lev 19:17",
+        "John 7:51"
+      ],
+      "comment": "Sirach urges measured judgment and reliance on divine law before resorting to threats, promoting reconciliation and justice (see Matthew 7:1-2)."
     },
     {
       "pk": 28019018,
@@ -244,9 +268,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 19,
       "verse": 20,
-      "text": "Instruction in faith is like a fountain of life to those who believe, and it will preserve them from destruction.",
-      "links": "<a href='/AIV/20/16/22'>Prov. 16:22</a>; <a href='/AIV/43/4/14'>John 4:14</a>",
-      "comment": "True doctrine is a fountain of salvation, and faithfulness to the teaching received preserves from error and loss. Jesus calls Himself the source of Living Water (John 4:14)."
+      "text": "The whole of wisdom is fear of the Lord, and in all wisdom there is the fulfillment of the law.",
+      "links": [
+        "Prov 9:10",
+        "Ps 111:10",
+        "Deut 6:2"
+      ],
+      "comment": "True wisdom is rooted in the fear of the Lord and is inseparable from obedience to His law, a central theme in Proverbs (1:7; 9:10) and Deuteronomy 10:12."
     },
     {
       "pk": 28019021,
@@ -268,9 +296,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 19,
       "verse": 22,
-      "text": "Knowing wickedness is not wisdom, and there is a subtle cleverness that leads to deception.",
-      "links": "<a href='/AIV/20/26/24-26'>Prov. 26:24-26</a>",
-      "comment": "True wisdom avoids evil and does not glory in being shrewd in wrongdoing. This verse distinguishes between cunning evil and holy wisdom."
+      "text": "The knowledge of wickedness is not wisdom, nor is there prudence in the counsel of sinners.",
+      "links": [
+        "James 3:15",
+        "Prov 14:7",
+        "Ps 1:1"
+      ],
+      "comment": "Knowledge divorced from godliness is false wisdom; corrupt counsel, even if clever, is condemned, as also stressed in James 3:13-15."
     },
     {
       "pk": 28019023,
@@ -280,9 +312,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 19,
       "verse": 23,
-      "text": "There is one who acts justly out of humility, but there is another who keeps quiet only to deceive.",
-      "links": "<a href='/AIV/19/12/2'>Ps. 12:2</a>",
-      "comment": "Actions can look alike but their motives matter. Authentic humility brings justice; false humility can mask evil intentions."
+      "text": "There is a cleverness that is detestable, and there is a fool who merely lacks wisdom.",
+      "links": [
+        "1 Cor 1:19-20",
+        "Prov 1:7",
+        "Jas 3:17"
+      ],
+      "comment": "There is 'cleverness' (cunning) that is morally repugnant, underscoring the difference between skill and righteousness—wisdom is more than mere intelligence (cf. 1 Corinthians 3:19)."
     },
     {
       "pk": 28019024,
@@ -292,9 +328,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 19,
       "verse": 24,
-      "text": "A silent person may be thought wise, yet may be hiding pride and a cunning heart.",
-      "links": "<a href='/AIV/20/26/24'>Prov. 26:24</a>",
-      "comment": "True virtue is not only about actions but the interior disposition of the heart. Only God knows what is hidden."
+      "text": "Better are the God-fearing who lack understanding than the highly intelligent who transgress the law.",
+      "links": [
+        "Ps 111:10",
+        "Prov 8:13",
+        "Matt 5:19"
+      ],
+      "comment": "God-fearing simplicity is superior to intellectual brilliance without obedience, echoing Jesus' preference for humble servants (cf. 1 Corinthians 1:26-29)."
     },
     {
       "pk": 28019025,
@@ -304,9 +344,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 19,
       "verse": 25,
-      "text": "There is one who is silent and is found wise, yet another is detested for his loquaciousness.",
-      "links": "<a href='/AIV/20/17/27-28'>Prov. 17:27-28</a>",
-      "comment": "Speech should be measured. Both over-speaking and over-silence must be guided by virtue and love of truth."
+      "text": "There is a cleverness that is exact but unjust, and there are people who abuse favors to gain a verdict.",
+      "links": [
+        "Amos 5:7",
+        "Isa 5:20-23",
+        "Mic 7:3"
+      ],
+      "comment": "Skillful manipulation or exploitation of generosity for unjust ends is critiqued, aligning with Hebrew legal traditions that champion justice (Exodus 23:8)."
     },
     {
       "pk": 28019026,
@@ -316,9 +360,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 19,
       "verse": 26,
-      "text": "A person who is outwardly humble, but whose inward part is filled with deceit, throws dust on his own head.",
-      "links": "<a href='/AIV/19/7/16'>Ps. 7:16</a>",
-      "comment": "God sees the heart. True repentance and humility come not from outward acts alone, but from a transformed interior disposition."
+      "text": "There is the villain bowed down in mourning, but inwardly he is full of deceit.",
+      "links": [
+        "Ps 55:21",
+        "Prov 26:24-25",
+        "Matt 23:27-28"
+      ],
+      "comment": "Outward expressions of sorrow can disguise inward deceit, cautioning against hypocrisy reminiscent of warnings in Matthew 6:16-18."
     },
     {
       "pk": 28019027,
@@ -328,9 +376,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 19,
       "verse": 27,
-      "text": "He who covers up his mouth with laughter while plotting evil is known and hated in the end.",
-      "links": "<a href='/AIV/20/10/23'>Prov. 10:23</a>",
-      "comment": "Hypocrisy cannot be hidden from God or ultimately from people. The gospels warn repeatedly about the sin of hypocrisy."
+      "text": "He hides his face and pretends not to hear, but when no one notices, he will take advantage of you.",
+      "links": [
+        "Prov 7:10-12",
+        "Matt 7:15",
+        "Ps 10:11"
+      ],
+      "comment": "Feigned ignorance or inattentiveness can mask intentions to take advantage, highlighting the importance of discernment in relational dealings."
     },
     {
       "pk": 28019028,
@@ -340,9 +392,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 19,
       "verse": 28,
-      "text": "There is one who stumbles in speaking, but not with the intention to harm; who then has not sinned with his tongue?",
-      "links": "<a href='/AIV/59/3/2'>James 3:2</a>",
-      "comment": "We all fail in speech, as James confirms. God calls us to honesty and humility in our failings, seeking forgiveness and growth in holiness.",
+      "text": "Even if lack of strength keeps him from sinning, he will nevertheless do evil when he finds the opportunity.",
+      "links": [
+        "Rom 7:21",
+        "Jer 2:24",
+        "Prov 4:16"
+      ],
+      "comment": "This verse reveals that the lack of opportunity—not virtue—may prevent wrongdoing, echoing Jesus' teaching that intent matters as much as action (Matthew 5:28).",
       "sectionHeader": "Discernment of Character"
     },
     {
@@ -353,9 +409,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 19,
       "verse": 29,
-      "text": "A person is tested by his conversation, and everyone’s character is revealed by his words.",
-      "links": "<a href='/AIV/40/12/34-37'>Matt. 12:34-37</a>",
-      "comment": "Our words reveal our hearts. Jesus warns that every careless word will come into judgment, so spiritual discipline in speech is critical."
+      "text": "A person is known by his appearance, and a sensible person is known when first met, face to face.",
+      "links": [
+        "Matt 7:16",
+        "Prov 27:19",
+        "1 Sam 16:7"
+      ],
+      "comment": "A person's appearance and demeanor often reveal character, reflecting the biblical emphasis on wisdom being evident in conduct (Proverbs 20:11; Matthew 7:16-20)."
     },
     {
       "pk": 28019030,
@@ -370,7 +430,7 @@
       "comment": "Outward behavior often manifests inner disposition, but as the Lord told Samuel, man looks at outward appearance, but God sees the heart. Virtue should transform both our hearts and our lives outwardly."
     }
   ],
-  "translatedAt": "2025-12-24T07:33:13.734Z",
+  "translatedAt": "2025-12-28T06:59:41.551Z",
   "sections": [
     {
       "title": "Warnings Against Pleasure and Rashness",

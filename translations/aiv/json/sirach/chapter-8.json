@@ -3,6 +3,13 @@
   "bookName": "Sirach",
   "bookAbbreviation": "Sir",
   "chapter": 8,
+  "sections": [
+    {
+      "title": "Counsel for Daily Relationships",
+      "startVerse": 1,
+      "endVerse": 19
+    }
+  ],
   "verses": [
     {
       "pk": 28008001,
@@ -13,9 +20,9 @@
       "chapter": 8,
       "verse": 1,
       "text": "Do not quarrel with a powerful man, or you may fall into his hands.",
-      "links": "<a href='/AIV/20/16/7'>Prov. 16:7</a>; <a href='/AIV/20/25/8'>Prov. 25:8</a>",
-      "comment": "Wisdom literature warns against fighting with those in authority, much as Jesus teaches humility and prudence (see Matt. 5:25). Practical wisdom upholds peace with others, foreshadowing Christ's teachings on reconciliation.",
-      "sectionHeader": "Prudence in Dealing with the Powerful and the Proud"
+      "links": "<a href='/AIV/20/16/32'>Prov. 16:32</a>; <a href='/AIV/19/37/7-9'>Ps. 37:7-9</a>",
+      "comment": "This verse teaches prudence and humility, echoing the wisdom tradition not to provoke those in authority. Comparable advice can be found in Proverbs, emphasizing patience and avoiding unnecessary conflict.",
+      "sectionHeader": "Counsel for Daily Relationships"
     },
     {
       "pk": 28008002,
@@ -25,9 +32,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 8,
       "verse": 2,
-      "text": "Do not argue with a rich man, or you might lose your case. For gold has ruined many, and twisted the hearts of kings.",
-      "links": "<a href='/AIV/20/18/23'>Prov. 18:23</a>; <a href='/AIV/20/22/7'>Prov. 22:7</a>",
-      "comment": "This verse highlights the danger of worldly wealth corrupting justice, paralleling warnings of Jesus in Luke 16:13. The emphasis is on spiritual integrity above earthly gain."
+      "text": "Do not contend with a rich man, or you may be swept away by his power.",
+      "links": "<a href='/AIV/20/22/7'>Prov. 22:7</a>",
+      "comment": "Wisdom warns against needless disputes with those who have worldly influence. The Old Testament repeatedly counsels just dealings, especially with the rich, whose resources often afford greater leverage."
     },
     {
       "pk": 28008003,
@@ -37,9 +44,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 8,
       "verse": 3,
-      "text": "Do not contend with a talkative person, and do not heap wood on his fire.",
-      "links": "<a href='/AIV/20/26/20'>Prov. 26:20-21</a>",
-      "comment": "Escalating conflict with the argumentative brings no peace. This anticipates New Testament admonitions to leave unnecessary disputes (2 Tim. 2:23)."
+      "text": "Do not argue with someone who speaks easily; do not heap wood on his fire.",
+      "links": "<a href='/AIV/20/26/20'>Prov. 26:20</a>",
+      "comment": "This verse uses a metaphor: adding fuel to an argument only intensifies division. 'Speaking easily' likely refers to those quick with words or prone to quarrel."
     },
     {
       "pk": 28008004,
@@ -49,9 +56,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 8,
       "verse": 4,
-      "text": "Do not make fun of one who turns away from sin; remember that we are all worthy of punishment.",
-      "links": "<a href='/AIV/42/18/13'>Luke 18:13</a>; <a href='/AIV/23/64/6'>Isa. 64:6</a>",
-      "comment": "Respect for the repentant mirrors Christ's welcome of sinners (Luke 15:7). All are urged toward humility, as none are without sin (Rom. 3:23)."
+      "text": "Do not make fun of someone who repents for a sin; remember that all people are guilty.",
+      "links": "<a href='/AIV/19/51/17'>Ps. 51:17</a>; <a href='/AIV/20/24/16'>Prov. 24:16</a>; <a href='/AIV/45/3/23'>Rom. 3:23</a>",
+      "comment": "Sirach highlights mercy and humility before the reality of universal sin. The link to Psalm 51 reminds us of the call to a contrite heart, fundamental for spiritual growth and reconciliation."
     },
     {
       "pk": 28008005,
@@ -61,9 +68,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 8,
       "verse": 5,
-      "text": "Do not disrespect an old man, for some of us will also grow old.",
-      "links": "<a href='/AIV/03/19/32'>Lev. 19:32</a>",
-      "comment": "Honor of elders is a sign of wisdom and continuity of tradition. The early Church respected those with experience, reflecting this teaching."
+      "text": "Do not reject the teaching of elders, for they have learned from their fathers.",
+      "links": "<a href='/AIV/20/13/1'>Prov. 13:1</a>; <a href='/AIV/20/1/8'>Prov. 1:8</a>",
+      "comment": "Valuing tradition and wisdom passed down through generations is emphasized here. This verse suggests the importance of respecting apostolic and ecclesial teaching throughout the ages."
     },
     {
       "pk": 28008006,
@@ -73,9 +80,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 8,
       "verse": 6,
-      "text": "Do not rejoice at someone’s death; remember that we all must die.",
-      "links": "<a href='/AIV/20/24/17'>Prov. 24:17</a>; <a href='/AIV/58/9/27'>Heb. 9:27</a>",
-      "comment": "This aligns with the Christian teaching of compassion and the mystery of death, urging prayer for the departed and humility before judgment."
+      "text": "Do not argue with someone with more learning than you; for you may be shamed, and he will judge you.",
+      "links": "<a href='/AIV/20/12/15'>Prov. 12:15</a>",
+      "comment": "Humility in conversations with those of greater wisdom or knowledge is highlighted. Recognizing one's limits leads to true growth and deeper faith."
     },
     {
       "pk": 28008007,
@@ -85,10 +92,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 8,
       "verse": 7,
-      "text": "Do not reject the advice of the wise, but reflect on their teachings, for you may learn from their instruction.",
-      "links": "<a href='/AIV/20/13/20'>Prov. 13:20</a>; <a href='/AIV/59/1/5'>Jas. 1:5</a>",
-      "comment": "Receiving wisdom is foundational to spiritual growth; Christ built His Church on the witness and guidance of the apostles, passing on sound teaching (2 Tim. 2:2).",
-      "sectionHeader": "Seeking Wisdom from the Elderly and the Wise"
+      "text": "Do not despise someone who has sinned, lest you be ensnared by pride.",
+      "links": "<a href='/AIV/40/7/1'>Matt. 7:1</a>; <a href='/AIV/20/16/18'>Prov. 16:18</a>",
+      "comment": "Sirach echoes Christ's teaching on mercy and avoiding judgment of others. Emphasis on the spiritual danger of pride, a motif present in both Testaments."
     },
     {
       "pk": 28008008,
@@ -98,9 +104,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 8,
       "verse": 8,
-      "text": "Do not disregard the teachings of the elders, for they also learned from their fathers; they will teach you how to answer in time of need.",
-      "links": "<a href='/AIV/05/32/7'>Deut. 32:7</a>; <a href='/AIV/20/4/7'>Prov. 4:7</a>",
-      "comment": "The relay of tradition from elders affirms apostolic succession and the authority passed through generations, a structure essential to the unity of the faithful (cf. Acts 14:23)."
+      "text": "Do not dismiss the stories of the ancient sages, but meditate on their words.",
+      "links": "<a href='/AIV/19/119/99'>Ps. 119:99</a>; <a href='/AIV/20/4/7'>Prov. 4:7</a>",
+      "comment": "Respect for sacred tradition and the wisdom of ages past mirrors the value placed on the continuity of revelation. Learning from history deepens spiritual maturity."
     },
     {
       "pk": 28008009,
@@ -110,10 +116,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 8,
       "verse": 9,
-      "text": "Do not stir up a sinner, or you may be burned by his flames.",
-      "links": "<a href='/AIV/20/6/27'>Prov. 6:27</a>; <a href='/AIV/21/7/9'>Eccl. 7:9</a>",
-      "comment": "Tempting or provoking those inclined to sin endangers your own soul. Christian charity seeks not to tempt anyone but to lead to holiness.",
-      "sectionHeader": "Caution with Fools, Sinners, and the Violent"
+      "text": "Do not ignore the sayings of the elders, for they themselves learned from their ancestors; from them you can acquire understanding and know how to answer in time of need.",
+      "links": "<a href='/AIV/20/11/14'>Prov. 11:14</a>; <a href='/AIV/55/3/14'>2 Tim. 3:14</a>",
+      "comment": "Emphasizes generational transmission of wisdom, aligning with the apostolic teaching preserved in the Church. Listening to elders equips us for spiritual and practical challenges."
     },
     {
       "pk": 28008010,
@@ -123,9 +128,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 8,
       "verse": 10,
-      "text": "Do not argue with a hot-tempered man, and do not travel with him through the desert; for blood is nothing to him, and wherever there is no help, he will kill you.",
-      "links": "<a href='/AIV/20/22/24'>Prov. 22:24</a>; <a href='/AIV/06/10/19'>Josh. 10:19</a>",
-      "comment": "Bad company leads to ruin. The Church teaches discernment in companionship, echoing Paul’s counsel (1 Cor. 15:33)."
+      "text": "Do not kindle the fire of sinners, lest you be burned by their flames.",
+      "links": "<a href='/AIV/20/26/20-21'>Prov. 26:20-21</a>",
+      "comment": "Avoid encouragement of evil or participation in sinful conduct. There is a figurative warning for the consequences of associating with habitual transgressors."
     },
     {
       "pk": 28008011,
@@ -135,9 +140,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 8,
       "verse": 11,
-      "text": "Do not consult a fool, for he cannot keep a secret.",
-      "links": "<a href='/AIV/20/20/19'>Prov. 20:19</a>; <a href='/AIV/20/13/16'>Prov. 13:16</a>",
-      "comment": "An exhortation toward seeking wise counsel, a virtue that is essential in both Old and New Testament living (James 3:13-18)."
+      "text": "Do not confront the angry, and do not go with the reckless, lest you be caught in their trap.",
+      "links": "<a href='/AIV/20/22/24-25'>Prov. 22:24-25</a>",
+      "comment": "The wisdom of distance from hot-tempered and reckless people avoids unnecessary entanglements and dangers. Community discernment is suggested."
     },
     {
       "pk": 28008012,
@@ -147,9 +152,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 8,
       "verse": 12,
-      "text": "Do not reveal your secrets to anyone who lacks discernment, for they will not keep your confidence.",
-      "links": "<a href='/AIV/20/11/13'>Prov. 11:13</a>",
-      "comment": "Wise stewardship of knowledge safeguards relationships and the safety of the community. Jesus also taught prudence with speech (Matt. 7:6)."
+      "text": "Do not lend to someone who is stronger than you; if you do lend, count it as lost.",
+      "links": "<a href='/AIV/20/22/7'>Prov. 22:7</a>; <a href='/AIV/42/6/35'>Luke 6:35</a>",
+      "comment": "Practical financial wisdom on lending. Christ's advice (Luke 6:35) adds the spiritual dimension of lending in generosity without expecting repayment."
     },
     {
       "pk": 28008013,
@@ -159,10 +164,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 8,
       "verse": 13,
-      "text": "Do not do wrong to your friend, nor lie to him in the presence of an enemy.",
-      "links": "<a href='/AIV/19/15/3'>Ps. 15:3</a>; <a href='/AIV/51/3/9'>Col. 3:9</a>",
-      "comment": "Honesty and loyalty are the foundation of true friendship, reflecting God’s faithfulness. Christ commands truthfulness (Matt. 5:37).",
-      "sectionHeader": "Discernment in Friendship and Trust"
+      "text": "Do not guarantee another person’s debt beyond your means; if you do, be ready to pay.",
+      "links": "<a href='/AIV/20/6/1-5'>Prov. 6:1-5</a>; <a href='/AIV/20/17/18'>Prov. 17:18</a>",
+      "comment": "Warns against irresponsible financial guarantees. Old Testament (Proverbs) repeatedly cautions against co-signing for others, promoting prudence."
     },
     {
       "pk": 28008014,
@@ -172,9 +176,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 8,
       "verse": 14,
-      "text": "Do not share your secrets with anyone except the wise and discreet, for what you share with them will not be lost.",
-      "links": "<a href='/AIV/20/25/9'>Prov. 25:9</a>",
-      "comment": "The trusted stewardship of secrets anticipates the spiritual wisdom necessary for leading others. It echoes the principle of spiritual fatherhood found throughout the Scriptures."
+      "text": "Do not argue with a judge, for judgment belongs to him.",
+      "links": "<a href='/AIV/19/82/1'>Ps. 82:1</a>",
+      "comment": "Respects the proper lines of authority in society. Judges represent order and justice, echoing divine judgment in the biblical tradition."
     },
     {
       "pk": 28008015,
@@ -184,10 +188,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 8,
       "verse": 15,
-      "text": "Do not envy a sinner’s prosperity, for you do not know what sort of ruin will come upon him.",
-      "links": "<a href='/AIV/19/73/3-17'>Ps. 73:3-17</a>; <a href='/AIV/20/24/19'>Prov. 24:19</a>",
-      "comment": "Material success is not always a blessing; wisdom literature reminds us to focus on eternal rewards (see Matt. 6:19-21).",
-      "sectionHeader": "Warning Against Envy and Evil Associations"
+      "text": "Do not travel with someone who is reckless, lest he become burdensome to you; he will do as he pleases and you will suffer for it.",
+      "links": "<a href='/AIV/20/13/20'>Prov. 13:20</a>",
+      "comment": "Cautions against the company of those with poor judgment. Proverbs affirms that wise companions lead to wisdom, while fools bring harm."
     },
     {
       "pk": 28008016,
@@ -197,9 +200,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 8,
       "verse": 16,
-      "text": "Do not delight in the pleasures of the wicked; remember, they will not go unpunished to their graves.",
-      "links": "<a href='/AIV/19/37/35-38'>Ps. 37:35-38</a>",
-      "comment": "This is a call to moral and spiritual seriousness—the way of the wicked leads only to destruction (see Gal. 6:7-8)."
+      "text": "Do not quarrel with someone who is quick-tempered, and do not go into a deserted place with him; for bloodshed may occur when no one is there to help.",
+      "links": "<a href='/AIV/20/29/22'>Prov. 29:22</a>",
+      "comment": "Warns against physical and spiritual danger with violent people. Emphasizes personal safety and discernment, linking wisdom to self-preservation."
     },
     {
       "pk": 28008017,
@@ -209,9 +212,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 8,
       "verse": 17,
-      "text": "Keep far from a man who has the power to kill, and you will not be tormented by the fear of death. But if you must approach him, do nothing that will offend him, for you may risk your life. Remember you are walking among traps, and you are treading on the edge of a city’s walls.",
-      "links": "<a href='/AIV/20/22/3'>Prov. 22:3</a>",
-      "comment": "Prudence with those in power is wisdom; even Christ counseled discretion amid persecution (see Matt. 10:16-18)."
+      "text": "Do not consult with fools, for they cannot keep wise counsel.",
+      "links": "<a href='/AIV/20/13/20'>Prov. 13:20</a>; <a href='/AIV/20/26/4-5'>Prov. 26:4-5</a>",
+      "comment": "Advice on prudent counsel: wisdom is not found in the company of foolish people. The spiritual life calls for discernment in choosing one’s influences."
     },
     {
       "pk": 28008018,
@@ -221,9 +224,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 8,
       "verse": 18,
-      "text": "As much as possible, do not have dealings with a rash person, or visit the foolish, or consult the jealous woman about her rival. Do not open your heart to such people.",
-      "links": "<a href='/AIV/20/14/7'>Prov. 14:7</a>; <a href='/AIV/20/9/6'>Prov. 9:6</a>",
-      "comment": "Associating with the unruly leads to folly. New Testament wisdom continues this counsel (2 Cor. 6:14-15)."
+      "text": "Do not discuss matters before a stranger; you know not what he will do.",
+      "links": "<a href='/AIV/20/11/13'>Prov. 11:13</a>",
+      "comment": "Confidentiality and discretion are essential for safety and wisdom. In matters spiritual and temporal, trust must be earned."
     },
     {
       "pk": 28008019,
@@ -233,37 +236,10 @@
       "bookAbbreviation": "Sir",
       "chapter": 8,
       "verse": 19,
-      "text": "Do not reveal your thoughts to anyone, lest you be repaid with evil by your enemies.",
-      "links": "<a href='/AIV/20/29/11'>Prov. 29:11</a>",
-      "comment": "Discretion is vital for spiritual and practical integrity. Jesus Himself often kept silence among adversaries (see Luke 23:9)."
+      "text": "Do not open your heart to everyone, or you may be repaid with malice.",
+      "links": "<a href='/AIV/20/4/23'>Prov. 4:23</a>; <a href='/AIV/19/41/9'>Ps. 41:9</a>",
+      "comment": "The final verse urges guardedness and discernment, echoing biblical teaching (Proverbs, Psalms) to protect one’s heart. Spiritual maturity involves knowing when to reveal oneself and when to guard one's soul."
     }
   ],
-  "translatedAt": "2025-12-24T07:27:03.152Z",
-  "sections": [
-    {
-      "title": "Prudence in Dealing with the Powerful and the Proud",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "Seeking Wisdom from the Elderly and the Wise",
-      "startVerse": 7,
-      "endVerse": 8
-    },
-    {
-      "title": "Caution with Fools, Sinners, and the Violent",
-      "startVerse": 9,
-      "endVerse": 12
-    },
-    {
-      "title": "Discernment in Friendship and Trust",
-      "startVerse": 13,
-      "endVerse": 14
-    },
-    {
-      "title": "Warning Against Envy and Evil Associations",
-      "startVerse": 15,
-      "endVerse": 19
-    }
-  ]
+  "translatedAt": "2025-12-28T04:59:35.134Z"
 }

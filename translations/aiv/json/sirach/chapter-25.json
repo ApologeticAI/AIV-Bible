@@ -3,6 +3,23 @@
   "bookName": "Sirach",
   "bookAbbreviation": "Sir",
   "chapter": 25,
+  "sections": [
+    {
+      "title": "Three Pleasures Pleasing to God",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "Nine Joys of Life and the Tenth Bitter Thing",
+      "startVerse": 7,
+      "endVerse": 25
+    },
+    {
+      "title": "Wisdom on Domestic Life",
+      "startVerse": 26,
+      "endVerse": 26
+    }
+  ],
   "verses": [
     {
       "pk": 28025001,
@@ -12,10 +29,10 @@
       "bookAbbreviation": "Sir",
       "chapter": 25,
       "verse": 1,
-      "text": "With three things my spirit is pleased, and they are approved before both God and men: unity among brothers, friendship between neighbors, and a wife in harmony with her husband.",
-      "links": "<a href='/AIV/19/133/1'>Ps. 133:1</a>; <a href='/AIV/20/17/17'>Prov. 17:17</a>; <a href='/AIV/01/02/24'>Gen. 2:24</a>",
-      "comment": "This verse highlights key virtues: brotherly unity, friendship, and marital harmony. These lay the foundation for peace within God's community. The emphasis on harmony in marriage has connections with the creation account, where union is central (Gen. 2:24).",
-      "sectionHeader": "Three Things Pleasing and Three Things Hated"
+      "text": "Three things delight my soul, and they are beautiful to the Lord and to mankind: harmony among brothers, friendship between neighbors, and a wife and husband who live together in unity.",
+      "links": "<a href='/AIV/19/133/1'>Ps. 133:1</a>; <a href='/AIV/1/2/24'>Gen. 2:24</a>",
+      "comment": "This verse highlights the spiritual beauty of harmony within families and communities. The emphasis on unity between spouses prefigures the indissoluble bond of marriage, which is a sign not only of human affection but also points toward the unity Christ desires between Himself and the Church (see Eph. 5:31-32).",
+      "sectionHeader": "Three Pleasures Pleasing to God"
     },
     {
       "pk": 28025002,
@@ -25,9 +42,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 25,
       "verse": 2,
-      "text": "But my soul hates three kinds of people, and I am greatly offended by their way of life: a poor man who is arrogant, a rich man who is a liar, and an old adulterer lacking in understanding.",
-      "links": "<a href='/AIV/20/30/8-9'>Prov. 30:8-9</a>; <a href='/AIV/20/16/18-19'>Prov. 16:18-19</a>",
-      "comment": "These three vices—pride in poverty, deceit in wealth, and foolish immorality in old age—are presented as violations of the divine order. The condemnation of arrogance and deceit reflects traditional wisdom teachings (Prov. 16:18)."
+      "text": "There are three types of people my soul hates, and their whole manner of living is deeply offensive: a proud beggar, a rich liar, and an adulterous old man lacking wisdom.",
+      "links": "<a href='/AIV/20/6/16-19'>Prov. 6:16-19</a>; <a href='/AIV/21/4/13'>Eccl. 4:13</a>",
+      "comment": "The mention of hatred for certain vices serves as a strong warning against hypocrisy and moral failure, especially in old age where wisdom is expected. Note the trilogies of virtue and vice emphasized in wisdom literature."
     },
     {
       "pk": 28025003,
@@ -37,10 +54,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 25,
       "verse": 3,
-      "text": "If you have not gathered in your youth, how will you find anything in your old age?",
-      "links": "<a href='/AIV/20/6/6-8'>Prov. 6:6-8</a>",
-      "comment": "Diligence and foresight in youth are urged as the wise path. The ant’s example is echoed here (Prov. 6:6-8), suggesting preparation is necessary to secure one’s future, both spiritually and materially.",
-      "sectionHeader": "Blessings of Wisdom and the Fear of the Lord"
+      "text": "If you have not gathered wisdom in your youth, how can you find it in your old age?",
+      "links": "<a href='/AIV/20/1/7'>Prov. 1:7</a>; <a href='/AIV/21/12/1'>Eccl. 12:1</a>",
+      "comment": "The exhortation to embrace wisdom early is a frequent biblical theme. The spiritual interpretation points to a lifetime of formation, echoing the tradition of spiritual discipline from youth."
     },
     {
       "pk": 28025004,
@@ -50,9 +66,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 25,
       "verse": 4,
-      "text": "How beautiful is sound judgment in gray-haired men, and wise counsel in elders!",
-      "links": "<a href='/AIV/20/16/31'>Prov. 16:31</a>; <a href='/AIV/03/19/32'>Lev. 19:32</a>",
-      "comment": "This statement upholds reverence for elders, seeing wisdom as a crown of glory for those of age. This wisdom was crucial for passing down truth through the generations (Lev. 19:32)."
+      "text": "How lovely is sound judgment in gray-haired elders, and wisdom found among aged people.",
+      "links": "<a href='/AIV/3/19/32'>Lev. 19:32</a>; <a href='/AIV/20/16/31'>Prov. 16:31</a>",
+      "comment": "Wisdom and honorable old age are linked here; elders are seen as possessors of spiritual treasures within the community of faith."
     },
     {
       "pk": 28025005,
@@ -62,9 +78,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 25,
       "verse": 5,
-      "text": "How excellent is the experience of aged men, and the one who seeks advice from those older than himself!",
-      "links": "<a href='/AIV/20/20/5'>Prov. 20:5</a>",
-      "comment": "The author stresses the value in seeking counsel from those advanced in years, recognizing their insight. This is consistent with the biblical pattern of intergenerational faith learning."
+      "text": "How good it is to learn from those who are experienced, to listen to wise counsel from older men.",
+      "links": "<a href='/AIV/20/13/1'>Prov. 13:1</a>; <a href='/AIV/20/19/20'>Prov. 19:20</a>",
+      "comment": "This reminds believers of the value of tradition—learning from the wisdom transmitted by those who have lived faithfully before us."
     },
     {
       "pk": 28025006,
@@ -74,9 +90,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 25,
       "verse": 6,
-      "text": "Wisdom is the crown of aged men, and their glory is the fear of the Lord.",
-      "links": "<a href='/AIV/20/1/7'>Prov. 1:7</a>; <a href='/AIV/20/16/31'>Prov. 16:31</a>",
-      "comment": "Here, wisdom and fear of the Lord are closely linked (Prov. 1:7). Spiritual maturity together with reverent awe for God produces true honor among God’s people."
+      "text": "Rich experience is the crown of elders, and fearing the Lord gives glory to old age.",
+      "links": "<a href='/AIV/19/111/10'>Ps. 111:10</a>; <a href='/AIV/20/9/10'>Prov. 9:10</a>",
+      "comment": "Spiritual maturity and reverence for God elevate and dignify the years of one's life, blending the literal and spiritual interpretation of wisdom tradition."
     },
     {
       "pk": 28025007,
@@ -86,9 +102,10 @@
       "bookAbbreviation": "Sir",
       "chapter": 25,
       "verse": 7,
-      "text": "Nine things I have considered happy in my heart, and a tenth I will speak with my tongue: a man who rejoices in his children; one who lives to see the fall of his enemies;",
+      "text": "I count nine things to be happy about in my heart, and a tenth I will speak too: a man who rejoices in his children; one who lives to see the downfall of his enemies;",
       "links": "<a href='/AIV/19/127/3-5'>Ps. 127:3-5</a>; <a href='/AIV/20/11/8'>Prov. 11:8</a>",
-      "comment": "The list that follows gives examples of happiness, echoing wisdom traditions and the beatitudes. Here, joy in family is consistent with Old Testament blessing (Ps. 127:3-5)."
+      "comment": "Sirach employs the common wisdom motif of numbered sayings. The listed blessings point to family joy and vindication from adversaries as marks of a blessed life.",
+      "sectionHeader": "Nine Joys of Life and the Tenth Bitter Thing"
     },
     {
       "pk": 28025008,
@@ -98,9 +115,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 25,
       "verse": 8,
-      "text": "A man who lives with a prudent wife; one who does not stumble with his tongue; one who has not served a man inferior to himself;",
-      "links": "<a href='/AIV/20/19/14'>Prov. 19:14</a>; <a href='/AIV/59/3/2'>Jas. 3:2</a>",
-      "comment": "Wise marital choice and careful speech are signs of a blessed life. The New Testament also emphasizes the need to control one’s tongue (Jas. 3:2)."
+      "text": "a man who lives with a sensible wife; one who does not stumble with his tongue; one who has not served someone less worthy than himself;",
+      "links": "<a href='/AIV/20/14/1'>Prov. 14:1</a>; <a href='/AIV/20/10/19'>Prov. 10:19</a>",
+      "comment": "Here, the value of integrity, prudent speech and dignified life are listed. The wife’s virtue recalls the biblical emphasis on a wise and faithful spouse."
     },
     {
       "pk": 28025009,
@@ -110,9 +127,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 25,
       "verse": 9,
-      "text": "One who has found wisdom—yes, even one who speaks before attentive listeners.",
-      "links": "<a href='/AIV/20/3/13'>Prov. 3:13</a>",
-      "comment": "Finding wisdom is greatly blessed (Prov. 3:13). Speaking before an audience that listens points to the dignity of sharing God’s truths, prefiguring the importance of preaching and teaching in the community."
+      "text": "one who gains wisdom himself; one who speaks before attentive listeners.",
+      "links": "<a href='/AIV/20/1/5'>Prov. 1:5</a>; <a href='/AIV/20/18/13'>Prov. 18:13</a>",
+      "comment": "Personal acquisition of wisdom and teaching others resonate as ideals within the community of faith. There’s an implicit spiritual element here, as the act of speaking to receptive listeners echoes the apostolic transmission of faith."
     },
     {
       "pk": 28025010,
@@ -122,9 +139,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 25,
       "verse": 10,
-      "text": "How great is the one who finds wisdom! Yet no one is greater than the one who fears the Lord.",
+      "text": "How great is the one who finds wisdom! But even greater is the one who fears the Lord.",
       "links": "<a href='/AIV/20/9/10'>Prov. 9:10</a>; <a href='/AIV/19/111/10'>Ps. 111:10</a>",
-      "comment": "This verse places fear of the Lord above even wisdom itself—a key biblical theme. True wisdom flows from reverence for God."
+      "comment": "Fearing the Lord is consistently described as superior—even to wisdom itself—in both Proverbs and Psalms. The spiritual interpretation suggests reverence supersedes mere intellectual attainment."
     },
     {
       "pk": 28025011,
@@ -134,9 +151,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 25,
       "verse": 11,
-      "text": "Fear of the Lord surpasses all else; those who possess it will be compared to nothing.",
-      "links": "<a href='/AIV/20/15/16'>Prov. 15:16</a>",
-      "comment": "Once again the priority of the fear of God is underlined. Reverent awe and humility before God are valued above all earthly treasures."
+      "text": "There is nothing more powerful than the fear of the Lord, and nothing surpasses it in greatness.",
+      "links": "<a href='/AIV/19/34/9'>Ps. 34:9</a>; <a href='/AIV/20/15/33'>Prov. 15:33</a>",
+      "comment": "The fear of the Lord is the bedrock of wisdom, a theme extending through both the Old and New Testaments. True spiritual strength flows from reverence of God rather than worldly achievements."
     },
     {
       "pk": 28025012,
@@ -146,10 +163,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 25,
       "verse": 12,
-      "text": "Any plague but the plague of the heart, any wickedness but a woman’s wickedness!",
-      "links": "<a href='/AIV/20/21/9'>Prov. 21:9</a>",
-      "comment": "The author warns particularly of dangers to the heart (the center of the person). The theme of relational harmony and warning against causing division in the household is common in wisdom literature.",
-      "sectionHeader": "Evils Arising from Wicked Women"
+      "text": "[Note: Many manuscripts omit verse 12; commonly absent in several traditions.]",
+      "links": [
+        "Ps 111:10",
+        "Prov 1:7",
+        "Sir 1:14"
+      ],
+      "comment": "This verse is omitted in several major manuscripts. The omission shows textual fluidity among wisdom books; many translations skip from 11 to 13."
     },
     {
       "pk": 28025013,
@@ -159,9 +179,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 25,
       "verse": 13,
-      "text": "Any evil is small compared to the evil of a woman; may the fate of sinners come upon her!",
-      "links": "<a href='/AIV/20/7/26-27'>Prov. 7:26-27</a>",
-      "comment": "Vivid language here is consistent with ancient wisdom’s warnings. The point is to avoid bitterness and discord in the household. The theme is not misogynistic in context, as later chapters extol the virtuous woman (Sir. 26:1)."
+      "text": "Any wound, except the wound of the heart; any wickedness, except the wickedness of a woman;",
+      "links": "<a href='/AIV/20/21/9'>Prov. 21:9</a>; <a href='/AIV/20/27/15'>Prov. 27:15</a>",
+      "comment": "The verse uses hyperbolic language to warn against relational and spiritual wounds. In a spiritual sense, it calls for an interior purity and integrity in relationships."
     },
     {
       "pk": 28025014,
@@ -171,9 +191,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 25,
       "verse": 14,
-      "text": "As the sand that sinks to the bottom is to the feet of the aged, so is a talkative wife to a quiet man.",
-      "links": "<a href='/AIV/20/27/15'>Prov. 27:15</a>",
-      "comment": "A proverb-style observation. The aim is to encourage harmony and restraint in speech. The New Testament’s call for mutual respect in marriage (Eph. 5:21-33) provides a fuller context."
+      "text": "Any attack, except the attack of those who hate you; any vengeance, except the vengeance of enemies.",
+      "links": "<a href='/AIV/20/24/17'>Prov. 24:17</a>",
+      "comment": "This verse emphasizes the depth of interpersonal conflicts, but the spiritual meaning looks forward to Jesus' teaching on forgiveness (see Matt. 5:44), pointing to a higher law of love."
     },
     {
       "pk": 28025015,
@@ -183,9 +203,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 25,
       "verse": 15,
-      "text": "Do not be ensnared by the beauty of a woman, or long for her beauty.",
-      "links": "<a href='/AIV/20/6/25'>Prov. 6:25</a>; <a href='/AIV/40/5/28'>Matt. 5:28</a>",
-      "comment": "The fleeting nature of outward beauty is a warning to value virtue above physical appearance. Jesus echoes this in Matt. 5:28, warning against lustful intent and emphasizing purity of heart."
+      "text": "There is no venom worse than a snake’s venom, and no anger worse than a woman’s wrath.",
+      "links": [
+        "Prov 21:19",
+        "Sir 26:7",
+        "Eccl 7:26"
+      ],
+      "comment": "This verse reflects ancient wisdom traditions that often used vivid imagery and hyperbole, here comparing the destructive potential of unchecked anger—specifically in the context of marital conflict—to the danger of venom, paralleling similar warnings against wrath in Proverbs 21:19 and highlighting the need for harmony within the household."
     },
     {
       "pk": 28025016,
@@ -195,9 +219,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 25,
       "verse": 16,
-      "text": "Anger, insult, and shame can come with a woman who brings her husband low. Weak hands and feeble knees are caused by her.",
-      "links": "<a href='/AIV/20/12/4'>Prov. 12:4</a>",
-      "comment": "The harm caused by a destructive relationship is noted as debilitating. By contrast, the virtuous spouse strengthens and upholds (Prov. 12:4)."
+      "text": "I would rather live with a lion or a dragon than live with a wicked woman.",
+      "links": "<a href='/AIV/20/21/19'>Prov. 21:19</a>",
+      "comment": "This hyperbolic warning continues traditional wisdom’s cautions about harmful relationships. In context, it highlights the need for choosing spouses with virtue and faith."
     },
     {
       "pk": 28025017,
@@ -207,9 +231,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 25,
       "verse": 17,
-      "text": "A woman does not gladden her husband’s heart; instead, her hands cause his feet to stumble.",
-      "links": "<a href='/AIV/20/21/19'>Prov. 21:19</a>",
-      "comment": "Disorder in marriage is a source of sorrow and difficulty for a man, a recurring theme in wisdom literature. Mutual support is the biblical ideal."
+      "text": "The wickedness of a woman changes her appearance, and darkens her face like a bear.",
+      "links": "<a href='/AIV/20/11/22'>Prov. 11:22</a>",
+      "comment": "In ancient wisdom literature, external beauty is linked to inner goodness. The teaching promotes an understanding that true beauty flows from purity of heart."
     },
     {
       "pk": 28025018,
@@ -219,9 +243,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 25,
       "verse": 18,
-      "text": "From a woman’s wickedness, the beginning of sin, and because of her, we all die.",
-      "links": "<a href='/AIV/01/03/6'>Gen. 3:6</a>; <a href='/AIV/45/5/12'>Rom. 5:12</a>",
-      "comment": "This refers to the Fall (Gen. 3), with Eve’s role in humanity’s first disobedience. Paul expands this in Romans 5:12, showing that all people—men and women—inherit original sin. This sets the stage for the need for redemption through Christ’s work."
+      "text": "Her husband sits among his neighbors, and he sighs bitterly.",
+      "links": "<a href='/AIV/20/12/4'>Prov. 12:4</a>",
+      "comment": "The social consequences of broken family relationships are made clear here, anticipating New Testament advice for peace and unity in the home."
     },
     {
       "pk": 28025019,
@@ -231,9 +255,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 25,
       "verse": 19,
-      "text": "Do not let your water be spilled, nor your spring let out to a stranger.",
-      "links": "<a href='/AIV/20/5/16-18'>Prov. 5:16-18</a>",
-      "comment": "‘Water’ and ‘spring’ are metaphors for marital fidelity. This is a warning to guard the sanctity of marriage, paralleling wisdom in Proverbs."
+      "text": "Any evil is small compared to the evil of a woman; may punishment fall on her, which is the lot of sinners.",
+      "links": "<a href='/AIV/20/7/11'>Prov. 7:11</a>",
+      "comment": "Strong language warns against moral corruption; tradition understands such verses as general warnings against all vice and sinfulness, not singularly gendered condemnation."
     },
     {
       "pk": 28025020,
@@ -243,9 +267,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 25,
       "verse": 20,
-      "text": "If she will not walk under your hand, cut her off from your flesh.",
-      "links": "<a href='/AIV/05/24/1'>Deut. 24:1</a>",
-      "comment": "This is an allusion to divorce laws as found in Deuteronomy, but read in the context of the entire biblical narrative, Jesus reaffirms the sacredness and indissolubility of marriage (Matt. 19:6), calling the community back to God’s original design."
+      "text": "Like a sandy hill to the feet of the aged, so is a talkative wife to a quiet husband.",
+      "links": "<a href='/AIV/20/25/24'>Prov. 25:24</a>",
+      "comment": "The comparison illustrates marital discord. The spiritual interpretation encourages patience and forbearance in married life."
     },
     {
       "pk": 28025021,
@@ -255,9 +279,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 25,
       "verse": 21,
-      "text": "Every wickedness is small compared to a woman’s wickedness; may the lot of sinners fall on her!",
-      "links": "<a href='/AIV/20/7/26-27'>Prov. 7:26-27</a>",
-      "comment": "This repeated theme intensifies the general warning against vice and disharmony, urging the community to prize virtue above all in household life. Later wisdom texts balance this with praise for the virtuous woman (Prov. 31)."
+      "text": "Do not be led by beauty in a woman, and do not desire her for her looks.",
+      "links": "<a href='/AIV/20/31/30'>Prov. 31:30</a>; <a href='/AIV/1/3/6'>Gen. 3:6</a>",
+      "comment": "Both Scripture and tradition warn against being swayed by outward appearance (see 1 Sam. 16:7), pointing instead to virtue and grace."
     },
     {
       "pk": 28025022,
@@ -267,9 +291,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 25,
       "verse": 22,
-      "text": "As a climbing sandhill for the feet of the aged, so is a wife full of words to a quiet man.",
-      "links": "<a href='/AIV/20/21/9'>Prov. 21:9</a>",
-      "comment": "A metaphor for the strain caused by disharmony. The emphasis is again on the blessing of peace within marriage, valued in both Testaments."
+      "text": "Anger, shame, and disgrace arise where a wife dominates her husband.",
+      "links": "<a href='/AIV/1/3/16'>Gen. 3:16</a>",
+      "comment": "This verse reflects ancient social norms. Spiritual interpretation calls for mutual respect and sacrificial love in marriage, in line with New Testament teaching."
     },
     {
       "pk": 28025023,
@@ -279,9 +303,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 25,
       "verse": 23,
-      "text": "Do not be ensnared by a woman’s beauty or desire her for her looks.",
-      "links": "<a href='/AIV/20/6/25'>Prov. 6:25</a>",
-      "comment": "This repeats the warning to prioritize inner virtue rather than outward beauty in choosing whom to trust and honor."
+      "text": "A discouraged heart, a downcast look, and a wounded spirit come from a wicked wife. Weak hands and trembling knees come from a wife who does not bring happiness to her husband.",
+      "links": "<a href='/AIV/20/12/4'>Prov. 12:4</a>; <a href='/AIV/23/35/3'>Isa. 35:3</a>",
+      "comment": "The spiritual reading recognizes these symptoms as emblematic of broken relationships and urges the pursuit of virtue to heal the family."
     },
     {
       "pk": 28025024,
@@ -291,9 +315,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 25,
       "verse": 24,
-      "text": "A woman, if she maintains her superiority, is contrary to the order of creation; but a man who yields to her will face sorrow and disgrace.",
-      "links": "<a href='/AIV/01/03/16'>Gen. 3:16</a>",
-      "comment": "This verse speaks to the need for proper order in the household, reflecting Genesis. The biblical vision of marriage is one of complementarity and mutual support, not domination (cf. Eph. 5:21-33)."
+      "text": "From a woman sin began, and because of her we all die.",
+      "links": "<a href='/AIV/1/3/6-19'>Gen. 3:6-19</a>; <a href='/AIV/45/5/12'>Rom. 5:12</a>",
+      "comment": "This echoes the story of the Fall (Gen 3). However, tradition also remembers the role of Mary as the 'new Eve', whose obedience reverses Eve’s disobedience (see Luke 1:38), offering hope in Christ."
     },
     {
       "pk": 28025025,
@@ -303,9 +327,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 25,
       "verse": 25,
-      "text": "A wicked woman causes a downcast face and a gloomy heart, and hands too weak for any good work.",
-      "links": "<a href='/AIV/20/12/4'>Prov. 12:4</a>",
-      "comment": "Negative influence in the household can even affect one’s spiritual life and productivity. The Scripture invites the pursuit of sanctity in every relationship, with later chapters showing the joy brought by godly partnership."
+      "text": "Allow no outlet to water, and no boldness of speech to an evil wife.",
+      "links": [
+        "Prov 27:15-16",
+        "Sir 22:16",
+        "Prov 21:9"
+      ],
+      "comment": "Using the metaphor of restraining water to prevent disaster, this proverb cautions against permitting destructive speech in domestic relationships, echoing the biblical theme of guarding one's tongue (Proverbs 21:23) and the classical belief in maintaining order and discipline within the family."
     },
     {
       "pk": 28025026,
@@ -315,27 +343,11 @@
       "bookAbbreviation": "Sir",
       "chapter": 25,
       "verse": 26,
-      "text": "Because of a woman, sin began, and because of her, we all die.",
-      "links": "<a href='/AIV/01/03/6'>Gen. 3:6</a>; <a href='/AIV/45/5/12'>Rom. 5:12</a>; <a href='/AIV/45/5/18-19'>Rom. 5:18-19</a>",
-      "comment": "This final phrase points back to the Fall (Gen. 3; Rom. 5), underscoring the doctrine of original sin. The narrative prepares the way for the coming Redeemer, who will reverse the effects of the first disobedience (cf. Rom. 5:18-19). Through Christ, the community is invited into a new order of grace and harmony, restored through faith, sacramental living, and ongoing transformation."
+      "text": "If she will not do as you say, separate her from yourself.",
+      "links": "<a href='/AIV/19/119/115'>Ps. 119:115</a>; <a href='/AIV/40/19/8-9'>Matt. 19:8-9</a>",
+      "comment": "This verse must be read in context, balancing wisdom literature’s practical advice with New Testament teaching on love and reconciliation in marriage. Jesus calls for forgiveness and sacrificial love as the true fulfillment of marital fidelity.",
+      "sectionHeader": "Wisdom on Domestic Life"
     }
   ],
-  "translatedAt": "2025-12-24T07:36:29.548Z",
-  "sections": [
-    {
-      "title": "Three Things Pleasing and Three Things Hated",
-      "startVerse": 1,
-      "endVerse": 2
-    },
-    {
-      "title": "Blessings of Wisdom and the Fear of the Lord",
-      "startVerse": 3,
-      "endVerse": 11
-    },
-    {
-      "title": "Evils Arising from Wicked Women",
-      "startVerse": 12,
-      "endVerse": 26
-    }
-  ]
+  "translatedAt": "2025-12-28T07:00:05.279Z"
 }

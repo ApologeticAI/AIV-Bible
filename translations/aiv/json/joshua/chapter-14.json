@@ -3,6 +3,18 @@
   "bookName": "Joshua",
   "bookAbbreviation": "Josh",
   "chapter": 14,
+  "sections": [
+    {
+      "title": "The Allotment of the Land in Canaan",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "Caleb Receives Hebron",
+      "startVerse": 15,
+      "endVerse": 15
+    }
+  ],
   "verses": [
     {
       "pk": 6014001,
@@ -12,10 +24,10 @@
       "bookAbbreviation": "Josh",
       "chapter": 14,
       "verse": 1,
-      "text": "These are the inheritances that the Israelites received in the land of Canaan, which Eleazar the priest, Joshua son of Nun, and the heads of the families of the tribes of Israel distributed to them.",
-      "links": "<a href='/AIV/4/34/17-18'>Num. 34:17-18</a>; <a href='/AIV/6/19/51'>Josh. 19:51</a>",
-      "comment": "Here we see an orderly and divinely guided process for distributing God's promises. The leadership of the priest, Joshua, and elders reflects a visible authority structure, pointing to the importance of an ordered, visible leadership among God's people (see Acts 15:6).",
-      "sectionHeader": "The Division of Canaan by Lot"
+      "text": "These are the inheritances that the people of Israel received in the land of Canaan, which Eleazar the priest, Joshua son of Nun, and the heads of the fathers' houses of the tribes of the Israelites distributed to them.",
+      "links": "<a href='/AIV/4/34/17-29'>Num. 34:17-29</a>; <a href='/AIV/6/19/51'>Josh 19:51</a>",
+      "comment": "This verse stresses the importance of the priest and leader working together in the distribution of the land. The involvement of Eleazar the priest shows the strong connection between civil leadership and spiritual authority in Israel.",
+      "sectionHeader": "The Allotment of the Land in Canaan"
     },
     {
       "pk": 6014002,
@@ -25,9 +37,9 @@
       "bookAbbreviation": "Josh",
       "chapter": 14,
       "verse": 2,
-      "text": "They inherited their land by lot, as the Lord had commanded through Moses for the nine tribes and the half-tribe.",
-      "links": "<a href='/AIV/4/26/55-56'>Num. 26:55-56</a>; <a href='/AIV/6/18/6'>Josh. 18:6</a>",
-      "comment": "The use of casting lots demonstrates trust in God's providence to direct the outcome, further reinforcing the connection between God's commands and their fulfillment in the visible assembly."
+      "text": "Their inheritance was assigned by lot, just as the LORD had commanded through Moses for the nine tribes and the half-tribe.",
+      "links": "<a href='/AIV/4/26/55-56'>Num. 26:55-56</a>; <a href='/AIV/6/18/10'>Josh 18:10</a>",
+      "comment": "The use of lots reveals that God Himself determines the boundaries. The allotment is understood as an act of divine providence, connecting to the biblical theme that God directs His people in concrete, even ordinary things."
     },
     {
       "pk": 6014003,
@@ -37,9 +49,9 @@
       "bookAbbreviation": "Josh",
       "chapter": 14,
       "verse": 3,
-      "text": "For Moses had given the inheritance of the two and a half tribes across the Jordan. But to the Levites he gave no inheritance among them.",
-      "links": "<a href='/AIV/4/32/33'>Num. 32:33</a>; <a href='/AIV/4/18/20'>Num. 18:20</a>",
-      "comment": "The unique role of the Levites, set apart for service to God without a land inheritance, foreshadows the appointed clergy and a spiritual inheritance. This supports the understanding of a priestly office distinct from the laity (cf. Deut. 10:8)."
+      "text": "For Moses had already given an inheritance to the two and a half tribes beyond the Jordan; but to the Levites he gave no inheritance among them.",
+      "links": "<a href='/AIV/4/32/33'>Num. 32:33</a>; <a href='/AIV/6/13/14'>Josh 13:14</a>",
+      "comment": "The Levites are set apart from other tribes; their inheritance is spiritual rather than material (see Deut 18:1-2). Their unique role foreshadows the New Testament understanding of a priestly people distinct for God's service."
     },
     {
       "pk": 6014004,
@@ -49,9 +61,9 @@
       "bookAbbreviation": "Josh",
       "chapter": 14,
       "verse": 4,
-      "text": "Because the descendants of Joseph were two tribes, Manasseh and Ephraim, they gave no portion to the Levites in the land, except cities to live in, with their pasturelands for their livestock and their possessions.",
-      "links": "<a href='/AIV/4/26/34-37'>Num. 26:34-37</a>; <a href='/AIV/6/21/2'>Josh. 21:2</a>",
-      "comment": "The division of the tribe of Joseph into Manasseh and Ephraim fulfills Jacob’s prophecy (Genesis 48:5). The Levites’ share is spiritual, not material, evoking the New Testament understanding of a people set apart (see 1 Peter 2:9)."
+      "text": "For the people of Joseph were two tribes, Manasseh and Ephraim. And no portion was given to the Levites in the land, except cities to dwell in, with their pasture lands for their livestock and their possessions.",
+      "links": "<a href='/AIV/1/48/5'>Gen. 48:5</a>; <a href='/AIV/6/21/2'>Josh 21:2</a>",
+      "comment": "By dividing Joseph into two tribes, the number remains twelve. The Levites receive only cities, again emphasizing spiritual priorities and service, paralleling how the early Church understood apostolic ministry living among the people."
     },
     {
       "pk": 6014005,
@@ -61,9 +73,9 @@
       "bookAbbreviation": "Josh",
       "chapter": 14,
       "verse": 5,
-      "text": "Just as the Lord had commanded Moses, so the Israelites did as they divided the land.",
+      "text": "The people of Israel did just as the LORD had commanded Moses; they allotted the land.",
       "links": "<a href='/AIV/4/34/13'>Num. 34:13</a>",
-      "comment": "Obedience to the Lord’s commands through Moses shows the authority given to Moses and Joshua, an authoritative mediation not unlike that seen with Peter in the New Testament (see Matthew 16:18-19)."
+      "comment": "Obedience to God's command is emphasized. This theme points prophetically toward Christ, whose obedience secures the true inheritance for all God’s children (<a href='/AIV/58/5/8-9'>Heb. 5:8-9</a>)."
     },
     {
       "pk": 6014006,
@@ -73,10 +85,9 @@
       "bookAbbreviation": "Josh",
       "chapter": 14,
       "verse": 6,
-      "text": "Then the people of Judah came to Joshua at Gilgal. And Caleb son of Jephunneh the Kenizzite said to him, 'You know what the Lord said to Moses the man of God about you and me at Kadesh-barnea.'",
-      "links": "<a href='/AIV/4/32/12'>Num. 32:12</a>; <a href='/AIV/6/15/13'>Josh. 15:13</a>",
-      "comment": "Caleb’s direct appeal to Joshua is based on God’s promise, showing the importance of memory and tradition in the life of faith (see Ps. 119:16).",
-      "sectionHeader": "Caleb Requests and Receives Hebron"
+      "text": "Then the people of Judah came to Joshua at Gilgal. And Caleb the son of Jephunneh the Kenizzite said to him, 'You know what the LORD said to Moses the man of God concerning you and me in Kadesh-barnea.'",
+      "links": "<a href='/AIV/4/14/24'>Num. 14:24</a>; <a href='/AIV/5/1/36'>Deut. 1:36</a>",
+      "comment": "Caleb’s approach to Joshua at Gilgal brings to mind the continuing importance of personal faith and relationship with God. That Moses is called 'the man of God' illustrates the office and unique authority given to specific mediators."
     },
     {
       "pk": 6014007,
@@ -86,9 +97,9 @@
       "bookAbbreviation": "Josh",
       "chapter": 14,
       "verse": 7,
-      "text": "'I was forty years old when Moses the servant of the Lord sent me from Kadesh-barnea to spy out the land, and I brought back news to him as it was in my heart.'",
-      "links": "<a href='/AIV/4/13/30'>Num. 13:30</a>; <a href='/AIV/4/14/6'>Num. 14:6</a>",
-      "comment": "Caleb’s faithful witness provides an example of perseverance and truthfulness, core aspects of Christian life (cf. Hebrews 3:14)."
+      "text": "'I was forty years old when Moses the servant of the LORD sent me from Kadesh-barnea to spy out the land, and I brought back word to him as it was in my heart.'",
+      "links": "<a href='/AIV/4/13/6'>Num. 13:6</a>",
+      "comment": "Caleb’s honesty—speaking 'what was in my heart'—reflects the biblical call for faithfulness and witness, a theme underlying the qualifications for spiritual leadership both in the Old and New Testament."
     },
     {
       "pk": 6014008,
@@ -98,9 +109,9 @@
       "bookAbbreviation": "Josh",
       "chapter": 14,
       "verse": 8,
-      "text": "'But my brothers who went up with me made the heart of the people melt with fear. I, however, wholly followed the Lord my God.'",
-      "links": "<a href='/AIV/4/13/31-33'>Num. 13:31-33</a>; <a href='/AIV/6/14/14'>Josh. 14:14</a>",
-      "comment": "Caleb’s full-hearted fidelity to God is held up as a model for all believers, reminiscent of the New Testament call to wholehearted discipleship (Luke 9:62)."
+      "text": "'But my brothers who went up with me made the heart of the people melt; yet I wholly followed the LORD my God.'",
+      "links": "<a href='/AIV/4/13/31-33'>Num. 13:31-33</a>",
+      "comment": "Caleb’s total fidelity is contrasted with the fear of the others. 'Wholly followed' echoes the absolute devotion expected of God’s people—a type of the call to holiness and perseverance in faith entrusted to the Church (see <a href='/AIV/66/2/10'>Rev. 2:10</a>)."
     },
     {
       "pk": 6014009,
@@ -110,13 +121,10 @@
       "bookAbbreviation": "Josh",
       "chapter": 14,
       "verse": 9,
-      "text": "'So on that day Moses swore, "
+      "text": "'And Moses swore on that day, saying, “Surely the land on which your foot has trodden shall be an inheritance for you and your children forever, because you have wholly followed the LORD my God.”'",
+      "links": "<a href='/AIV/4/14/24'>Num. 14:24</a>; <a href='/AIV/5/1/35-36'>Deut. 1:35-36</a>",
+      "comment": "The gift of inheritance is sustained by faithfulness. The promise to one’s descendants foreshadows the way eternal inheritance is passed on through generations of the faithful, echoing the covenant’s enduring nature."
     },
-    "links",
-    "'Surely the land on which your foot has walked shall be your inheritance and your children’s forever, because you have wholly followed the Lord my God.",
-    "Num. 14:24; Deut. 1:36; Josh. 1:3",
-    "comment",
-    "Moses’ oath ties God’s promise to a faithful servant and his descendants, illustrating the transmission of spiritual blessing through generations—a principle stressed in apostolic tradition. Caleb's faithfulness leads to a perpetual legacy, reminiscent of New Testament teachings on spiritual inheritance (2 Timothy 2:2).",
     {
       "pk": 6014010,
       "translation": "AIV",
@@ -125,9 +133,9 @@
       "bookAbbreviation": "Josh",
       "chapter": 14,
       "verse": 10,
-      "text": "And now, behold, the Lord has kept me alive, just as he said, these forty-five years since the Lord spoke this word to Moses, while Israel journeyed in the wilderness. And now, here I am this day, eighty-five years old.",
-      "links": "<a href='/AIV/4/14/30'>Num. 14:30</a>; <a href='/AIV/19/91/16'>Ps. 91:16</a>",
-      "comment": "God’s faithfulness preserved Caleb for decades. This preservation for a spiritual task speaks to God's ongoing fidelity to those who persevere in faith (see Hebrews 10:36)."
+      "text": "'And now, behold, the LORD has kept me alive, just as he said, these forty-five years since the LORD spoke this word to Moses, while Israel wandered in the wilderness. And now, here I am this day, eighty-five years old.'",
+      "links": "<a href='/AIV/4/14/30-34'>Num. 14:30-34</a>",
+      "comment": "Caleb’s long life is attributed to God’s faithfulness, highlighting the spiritual principle that God sustains His servants. The motif of fulfillment after years of trial provides a parallel to endurance rewarded, as found in New Testament promises."
     },
     {
       "pk": 6014011,
@@ -137,9 +145,9 @@
       "bookAbbreviation": "Josh",
       "chapter": 14,
       "verse": 11,
-      "text": "I am still as strong today as I was on the day Moses sent me. My strength now is as it was then, for war and for going and coming.",
+      "text": "'I am still as strong today as I was in the day that Moses sent me; my strength now is as my strength was then, for war and for going out and coming in.'",
       "links": "<a href='/AIV/5/34/7'>Deut. 34:7</a>",
-      "comment": "Caleb’s enduring strength is a sign of divine grace, paralleling the New Testament theme of God empowering his people for mission (cf. Philippians 4:13)."
+      "comment": "This physical vigor in old age underscores God’s ongoing empowerment of those who are faithful. It reminds us that spiritual vigor matters as much as physical, relating to the call to endure and serve robustly even in later years."
     },
     {
       "pk": 6014012,
@@ -149,9 +157,9 @@
       "bookAbbreviation": "Josh",
       "chapter": 14,
       "verse": 12,
-      "text": "So now give me this hill country that the Lord spoke of on that day. For you heard on that day how the Anakim were there, with great fortified cities. Perhaps the Lord will be with me, and I will drive them out just as the Lord said.",
-      "links": "<a href='/AIV/4/13/28'>Num. 13:28</a>; <a href='/AIV/6/15/14'>Josh. 15:14</a>",
-      "comment": "Caleb’s confidence is rooted in God’s promise and presence, not in his own strength. Faith acts in cooperation with divine grace—a cooperation called for in the Christian life (see James 2:22)."
+      "text": "'So now give me this hill country of which the LORD spoke on that day. For you heard on that day how the Anakim were there, with great fortified cities. It may be that the LORD will be with me, and I shall drive them out just as the LORD said.'",
+      "links": "<a href='/AIV/4/13/28'>Num. 13:28</a>; <a href='/AIV/6/15/14'>Josh 15:14</a>",
+      "comment": "Caleb’s request for the hill country (Hebron) reflects confidence in God’s word over human obstacles. This faith for conquest mirrors the courage needed to take spiritual territory in the New Covenant, trusting in divine presence and promise."
     },
     {
       "pk": 6014013,
@@ -161,9 +169,9 @@
       "bookAbbreviation": "Josh",
       "chapter": 14,
       "verse": 13,
-      "text": "Then Joshua blessed him and gave Hebron to Caleb son of Jephunneh as an inheritance.",
-      "links": "<a href='/AIV/6/21/11-12'>Josh. 21:11-12</a>",
-      "comment": "Joshua’s blessing and gift of land to Caleb shows the authority to bestow spiritual inheritance, akin to the New Testament ministry of blessing and laying on of hands (see Acts 6:6)."
+      "text": "Then Joshua blessed him, and gave Hebron to Caleb the son of Jephunneh for an inheritance.",
+      "links": "<a href='/AIV/6/21/12'>Josh 21:12</a>",
+      "comment": "Joshua’s blessing and giving of land is a solemn act, echoing the practice of bestowing spiritual and physical blessings through authoritative leaders, as seen in later acts of laying on of hands (<a href='/AIV/44/13/3'>Acts 13:3</a>), a sign of God’s favor and commissioning."
     },
     {
       "pk": 6014014,
@@ -173,9 +181,9 @@
       "bookAbbreviation": "Josh",
       "chapter": 14,
       "verse": 14,
-      "text": "Therefore Hebron became the inheritance of Caleb son of Jephunneh the Kenizzite to this day, because he wholly followed the Lord, the God of Israel.",
-      "links": "<a href='/AIV/6/15/13-14'>Josh. 15:13-14</a>",
-      "comment": "Caleb’s inheritance is explained as a result of his total fidelity. The lasting reward echoes Christ’s words on enduring reward for those who persevere to the end (cf. Matthew 25:21)."
+      "text": "Therefore Hebron became the inheritance of Caleb the son of Jephunneh the Kenizzite to this day, because he wholly followed the LORD, the God of Israel.",
+      "links": "<a href='/AIV/6/21/12'>Josh 21:12</a>",
+      "comment": "This verse again credits faithfulness as the condition for inheritance—underscoring that covenant blessings are realized through steadfast obedience, a key biblical theme echoed throughout the Scriptures."
     },
     {
       "pk": 6014015,
@@ -185,22 +193,11 @@
       "bookAbbreviation": "Josh",
       "chapter": 14,
       "verse": 15,
-      "text": "Now the name of Hebron before was Kiriath-arba; Arba was the greatest man among the Anakim. And the land had rest from war.",
-      "links": "<a href='/AIV/1/23/2'>Gen. 23:2</a>; <a href='/AIV/6/11/23'>Josh. 11:23</a>",
-      "comment": "A place once dominated by giants becomes a symbol of faith's victory and new peace, prefiguring the peace of God given through spiritual conquest (see Romans 16:20; John 14:27). Hebron later becomes a significant city in the kingly line and sacrificial worship."
+      "text": "Now the name of Hebron formerly was Kiriath-arba; Arba was the greatest man among the Anakim. And the land had rest from war.",
+      "links": "<a href='/AIV/1/23/2'>Gen. 23:2</a>; <a href='/AIV/6/11/23'>Josh 11:23</a>",
+      "comment": "The historical note about Hebron’s former name stresses the complete transformation through God’s promise. The rest from war foreshadows the ultimate rest promised to God’s faithful in Christ (<a href='/AIV/58/4/8-11'>Heb. 4:8-11</a>).",
+      "sectionHeader": "Caleb Receives Hebron"
     }
   ],
-  "translatedAt": "2025-12-24T02:24:12.441Z",
-  "sections": [
-    {
-      "title": "The Division of Canaan by Lot",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "Caleb Requests and Receives Hebron",
-      "startVerse": 6,
-      "endVerse": 15
-    }
-  ]
+  "translatedAt": "2025-12-28T02:13:07.791Z"
 }

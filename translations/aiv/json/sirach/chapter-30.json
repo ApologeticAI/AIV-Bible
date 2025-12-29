@@ -14,7 +14,7 @@
       "verse": 1,
       "text": "He who loves his son disciplines him often, that he may rejoice at his coming of age.",
       "links": "<a href='/AIV/20/13/24'>Prov. 13:24</a>; <a href='/AIV/58/12/6-11'>Heb. 12:6-11</a>",
-      "comment": "Discipline as an act of love runs throughout both Old and New Testaments. Good parents instruct and guide their children, reflecting the heavenly Father's correction of His people (see Prov. 3:12; Heb. 12:6-7).",
+      "comment": "In ancient Jewish culture, discipline was viewed as an expression of parental love intended to guide children toward moral maturity (cf. Proverbs 13:24); Sirach emphasizes that this formative correction leads to future joy for both parent and child, highlighting the link between love, upbringing, and wisdom.",
       "sectionHeader": "Discipline of Children"
     },
     {
@@ -111,7 +111,7 @@
       "verse": 9,
       "text": "Pamper a child, and he will terrify you; play with him, and he will bring you grief.",
       "links": "<a href='/AIV/20/29/17'>Prov. 29:17</a>",
-      "comment": "A warning against neglecting one’s responsibilities—true love does not shrink from correction."
+      "comment": "This verse warns against indulgent parenting, echoing Proverbs 29:15, as pampering leads to undisciplined behaviors and eventual sorrow for the parent."
     },
     {
       "pk": 28030010,
@@ -230,9 +230,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 30,
       "verse": 19,
-      "text": "What good is a sacrifice to an idol? It cannot be eaten. So are the offerings to the dead.",
-      "links": "<a href='/AIV/23/44/9-17'>Isa. 44:9-17</a>",
-      "comment": "The text stresses the futility of rituals that lack true purpose—echoing the biblical call to worship the living God in spirit and truth (John 4:24)."
+      "text": "Of what use to an idol is a sacrifice? For it can neither eat nor smell. So is the one punished by the Lord;",
+      "links": [
+        "Ps 115:4-7",
+        "Isa 44:9-20",
+        "Jer 10:5"
+      ],
+      "comment": "Sacrificing to idols is pointless, as idols are lifeless; similarly, God's punishment renders individuals as ineffective as senseless rituals (cf. Psalm 115:4–7, Isaiah 44:9–20), emphasizing the futility of misplaced devotion."
     },
     {
       "pk": 28030020,
@@ -242,9 +246,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 30,
       "verse": 20,
-      "text": "He looks at food and sighs, like a eunuch embracing a virgin.",
-      "links": "<a href='/AIV/21/6/2'>Eccl. 6:2</a>",
-      "comment": "This image highlights the pain of unfulfilled desire, a reminder that satisfaction apart from God and purpose is vain."
+      "text": "He sees with his eyes and groans, as a eunuch groans when embracing a girl.",
+      "links": [
+        "Wis 15:17",
+        "Isa 56:3",
+        "Acts 8:36-39"
+      ],
+      "comment": "The comparison to a eunuch highlights deep frustration: just as a eunuch cannot fulfill sexual longing, so also someone punished by God is left with anguished desire, underscoring the agony of lost opportunity."
     },
     {
       "pk": 28030021,
@@ -303,12 +311,16 @@
       "bookAbbreviation": "Sir",
       "chapter": 30,
       "verse": 25,
-      "text": "A cheerful and good heart is concerned with food, but he who cannot eat will be hard to comfort.",
-      "links": "<a href='/AIV/20/15/15'>Prov. 15:15</a>",
-      "comment": "Joy and sorrow affect even daily necessities. The passage invites the faithful to seek the joy that comes from God alone—ultimately fulfilled in Christ, the Bread of Life (John 6:35)."
+      "text": "Those who are cheerful and merry at table will benefit from their food.",
+      "links": [
+        "Prov 17:22",
+        "Sir 30:23",
+        "Eccl 9:7"
+      ],
+      "comment": "Good cheer and gratitude enhance both the experience and health benefits of food, reminiscent of Proverbs 17:22 and 15:15, expressing a link between inner disposition and well-being."
     }
   ],
-  "translatedAt": "2025-12-24T07:39:02.029Z",
+  "translatedAt": "2025-12-28T04:59:38.641Z",
   "sections": [
     {
       "title": "Discipline of Children",

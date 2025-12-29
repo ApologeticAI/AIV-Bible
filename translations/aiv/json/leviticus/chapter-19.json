@@ -13,7 +13,11 @@
       "chapter": 19,
       "verse": 1,
       "text": "The LORD spoke to Moses, saying,",
-      "links": "",
+      "links": [
+        "Ex 24:12",
+        "Lev 1:1",
+        "Num 1:1"
+      ],
       "comment": "A standard formula seen throughout Leviticus, marking divine instruction: compare <a href='/AIV/3/1/1'>Lev. 1:1</a>. God’s direct speech affirms the authority of the commands which follow.",
       "sectionHeader": "Laws of Holiness and Worship"
     },
@@ -208,7 +212,7 @@
       "verse": 17,
       "text": "You shall not hate your brother in your heart. You shall surely rebuke your neighbor, and not bear sin because of him.",
       "links": "<a href='/AIV/40/18/15-17'>Matt. 18:15-17</a>",
-      "comment": "Love includes correction. Jesus teaches a similar principle of fraternal correction, showing a pattern of accountability."
+      "comment": "This command, unique in ancient law codes, calls for inner integrity and communal responsibility: instead of harboring hatred, Israelites were to lovingly confront wrongdoing within the community (cf. Matthew 18:15), embodying the holiness and justice God desires (v.2; Proverbs 27:5-6)."
     },
     {
       "pk": 3019018,

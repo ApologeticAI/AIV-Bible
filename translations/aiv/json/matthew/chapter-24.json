@@ -304,7 +304,11 @@
       "chapter": 24,
       "verse": 25,
       "text": "See, I have told you beforehand.",
-      "links": "",
+      "links": [
+        "John 13:19",
+        "John 14:29",
+        "Mark 13:23"
+      ],
       "comment": "Jesus's forewarning is intended to give spiritual confidence. Prophecy is a sign of his authority."
     },
     {
@@ -390,7 +394,7 @@
       "verse": 32,
       "text": "From the fig tree learn this parable: as soon as its branch becomes tender and puts out its leaves, you know that summer is near.",
       "links": "<a href='/AIV/41/13/28'>Mark 13:28</a>",
-      "comment": "The faithful are called to discern the times, as leaves show the changing of the season.",
+      "comment": "In ancient Palestine, the fig tree’s budding signaled the nearness of summer; Jesus uses this familiar image to teach that observable signs will precede His coming, underscoring the theme of watchfulness (cf. Luke 21:29-31).",
       "sectionHeader": "The Lesson of the Fig Tree"
     },
     {
@@ -584,7 +588,11 @@
       "chapter": 24,
       "verse": 48,
       "text": "But if that wicked servant says to himself, 'My master is delayed,'",
-      "links": "",
+      "links": [
+        "Luke 12:45",
+        "2 Pet 3:4",
+        "Eccl 8:11"
+      ],
       "comment": "Impatience and presumption lead to wickedness—end-time delay is no excuse for faithlessness."
     },
     {
@@ -596,7 +604,11 @@
       "chapter": 24,
       "verse": 49,
       "text": "and begins to beat his fellow servants and eats and drinks with drunkards,",
-      "links": "",
+      "links": [
+        "Acts 23:2",
+        "Isa 56:12",
+        "Prov 23:20"
+      ],
       "comment": "Abuses of authority and lack of charity are condemned; the Church is to be marked by loving service."
     },
     {
@@ -608,7 +620,11 @@
       "chapter": 24,
       "verse": 50,
       "text": "the master of that servant will come on a day when he does not expect him and at an hour he does not know,",
-      "links": "",
+      "links": [
+        "Luke 12:46",
+        "1 Thess 5:2",
+        "Rev 3:3"
+      ],
       "comment": "Unfaithful servants face judgment—readiness and right conduct are needed at all times."
     },
     {

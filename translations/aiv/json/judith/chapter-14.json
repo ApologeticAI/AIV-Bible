@@ -3,6 +3,13 @@
   "bookName": "Judith",
   "bookAbbreviation": "Jdt",
   "chapter": 14,
+  "sections": [
+    {
+      "title": "Judith's Instructions and the Enemy's Defeat",
+      "startVerse": 1,
+      "endVerse": 19
+    }
+  ],
   "verses": [
     {
       "pk": 18014001,
@@ -12,10 +19,10 @@
       "bookAbbreviation": "Jdt",
       "chapter": 14,
       "verse": 1,
-      "text": "Then Judith said to them, \"Listen to me, my brothers. Take this head and hang it on the parapet of our city wall.",
-      "links": "<a href='/AIV/18/13/15'>Jdt. 13:15</a>; <a href='/AIV/16/3/27'>Neh. 3:27</a>",
-      "comment": "Judith takes leadership and offers commands to the people. Note her boldness and the custom of displaying enemy heads as a sign of victory and divine deliverance.",
-      "sectionHeader": "Judith's Plan for Victory"
+      "text": "Then Judith said to them, \"Listen to me, my brothers. Take this head and hang it on the battlements of our city wall.\"",
+      "links": "<a href='/AIV/7/7/25'>Judg. 7:25</a>; <a href='/AIV/9/15/7-8'>1 Sam. 17:54</a>",
+      "comment": "Judith instructs the people to publicly display Holofernes' head, echoing the display of enemies defeated by God's people. The motif underscores God's deliverance through the humble and faithful.",
+      "sectionHeader": "Judith's Instructions and the Enemy's Defeat"
     },
     {
       "pk": 18014002,
@@ -25,9 +32,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 14,
       "verse": 2,
-      "text": "At sunrise, let each man take up his weapons, and every able man should go out of the city. Appoint a captain over them, as if you were going to descend to the valley toward the outposts of the Assyrians. But do not go down.",
-      "links": "<a href='/AIV/7/7/16'>Judg. 7:16</a>; <a href='/AIV/9/31/6'>1 Sam. 31:6</a>",
-      "comment": "Judith uses military tactics to give the appearance of an attack, stirring fear and confusion among the enemy. Her wisdom recalls other female deliverers in Israel’s history."
+      "text": "And when morning comes, each of you will take up your weapons, and every able-bodied man will go out from the city. You shall set a captain over them, as if you were about to go down into the plain toward the advance of the Assyrian army. Only do not go down.",
+      "links": "<a href='/AIV/2/14/10-13'>Ex. 14:10-13</a>",
+      "comment": "Judith orders the men to arm themselves as if going to battle, using a strategic ploy reminiscent of earlier biblical victories. Her wisdom and authority are foregrounded."
     },
     {
       "pk": 18014003,
@@ -37,9 +44,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 14,
       "verse": 3,
-      "text": "Then they will take up their armor and hurry to the camp of their leader, but they will not find him. Fear will fall upon them, and they will flee from you.",
-      "links": "<a href='/AIV/23/37/36'>Isa. 37:36</a>; <a href='/AIV/18/16/2'>Jdt. 16:2</a>",
-      "comment": "Judith prophesies the enemy’s confusion and flight, reminiscent of times God delivered Israel by causing panic among their foes (<a href='/AIV/7/7/21'>Judg. 7:21-22</a>)."
+      "text": "Then the Assyrians will seize their armor and go into the camp to awaken their commanders. When they see Holofernes’ headless body, they will be seized with fear and will flee from before you.",
+      "links": "<a href='/AIV/7/7/21-22'>Judg. 7:21-22</a>; <a href='/AIV/2/14/24-25'>Ex. 14:24-25</a>",
+      "comment": "This anticipated panic among the enemy mirrors other Old Testament instances where God instilled fear in Israel's adversaries, showing God's sovereign action on behalf of the faithful."
     },
     {
       "pk": 18014004,
@@ -49,9 +56,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 14,
       "verse": 4,
-      "text": "Then you and all who live in the land of Israel will pursue them and overthrow them as they flee.",
-      "links": "<a href='/AIV/28/2/15'>Hos. 2:15</a>",
-      "comment": "The people of God act in unity, following God’s deliverance. There is a sense here of communal participation in God’s victory, a theme developed later in Christian sacramental life."
+      "text": "Then, as soon as you and all who live within the borders of Israel have overtaken them, give chase as far as you can.",
+      "links": "<a href='/AIV/6/10/32-33'>Josh. 10:32-33</a>",
+      "comment": "Judith calls for a complete rout of the enemy, encouraging cooperation among all Israel. This unity in action prefigures the need for a united leadership and community among God's people."
     },
     {
       "pk": 18014005,
@@ -61,9 +68,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 14,
       "verse": 5,
-      "text": "But before you do all this, bring Achior the Ammonite to me so that he may see and recognize the man who despised the house of Israel and sent him to us as if to his death.",
-      "links": "<a href='/AIV/18/6/5-10'>Jdt. 6:5-10</a>",
-      "comment": "Judith recalls Achior’s prior testimony and his doubt, setting the stage for his conversion. The recognition of God’s intervention by outsiders is a repeated motif, hinting at God’s plan for all nations (<a href='/AIV/23/56/7'>Isa. 56:7</a>)."
+      "text": "But before you do any of this, summon Achior the Ammonite to me, so that he may see and recognize the one who despised the house of Israel and sent him to us as if we were to be destroyed.",
+      "links": "<a href='/AIV/18/6/5'>Jdt. 6:5</a>; <a href='/AIV/2/18/11-12'>Ex. 18:11-12</a>",
+      "comment": "Judith honors Achior, a Gentile ally, and provides him proof of God's victory. The inclusion of outsiders signals the universal scope of God's plan, later fulfilled supremely in Christ (Matt. 8:11)."
     },
     {
       "pk": 18014006,
@@ -73,10 +80,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 14,
       "verse": 6,
-      "text": "So they called Achior from the house of Uzziah. As soon as he came and saw the head of Holofernes in a man’s hand in the assembly of the people, he collapsed and fell face down on the ground.",
-      "links": "<a href='/AIV/18/13/15'>Jdt. 13:15</a>; <a href='/AIV/1/44/14'>Gen. 44:14</a>",
-      "comment": "Achior’s reaction highlights the power of God’s works in converting hearts. This prefigures the reactions of Gentiles in the New Testament witnessing the miracles of Christ.",
-      "sectionHeader": "The Conversion of Achior"
+      "text": "So they called Achior from the house of Uzziah. When he arrived and saw the head of Holofernes in the hand of one of the people assembled there, he fell down on his face and fainted.",
+      "links": "<a href='/AIV/18/6/10-14'>Jdt. 6:10-14</a>",
+      "comment": "Achior's response—falling as though dead—reflects the awe before God's mighty works. Similar reactions to revelations occur throughout Scripture (Ezek. 1:28; Rev. 1:17)."
     },
     {
       "pk": 18014007,
@@ -86,9 +92,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 14,
       "verse": 7,
-      "text": "When they raised him up, he fell at Judith’s feet and bowed low, saying, 'Blessed are you in every dwelling of Judah! In every nation, when your name is mentioned, God will be remembered.'",
-      "links": "<a href='/AIV/18/13/18'>Jdt. 13:18</a>; <a href='/AIV/19/72/17'>Ps. 72:17</a>",
-      "comment": "Achior’s praise of Judith points to the honor given to chosen vessels of God. Such reverence for those through whom God acts signals an enduring pattern in the worshiping community."
+      "text": "But when they had raised him up, he bowed at Judith’s feet and paid her great honor. He said, \"Blessed are you in every tent of Judah! In every nation those who hear your name will be amazed.",
+      "links": "<a href='/AIV/1/30/12-13'>Gen. 30:12-13</a>; <a href='/AIV/4/5/24'>Judg. 5:24</a>",
+      "comment": "Achior’s blessing connects Judith to the line of honored women in Israel and points forward to the perpetual honor given to the mother of the Messiah (Luke 1:48)."
     },
     {
       "pk": 18014008,
@@ -98,9 +104,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 14,
       "verse": 8,
-      "text": "When he saw all that God had done, he believed firmly in the God of Israel. He was circumcised and joined the house of Israel, remaining with them to this day.",
-      "links": "<a href='/AIV/2/12/48'>Ex. 12:48</a>; <a href='/AIV/44/10/48'>Acts 10:48</a>",
-      "comment": "Achior’s conversion is marked by a visible act—circumcision and incorporation into Israel—showing the importance of initiation into the people of God. This prefigures the New Covenant sacramental initiation through baptism."
+      "text": "But now tell me everything you have done in these days.\"",
+      "links": [
+        "Josh 2:22-24",
+        "Esth 5:4-8",
+        "Luke 24:18-19"
+      ],
+      "comment": "Achior seeks a full account of Judith’s actions, displaying both reverence and a desire to understand the Lord’s intervention, encouraging the sharing of testimonies among God’s people."
     },
     {
       "pk": 18014009,
@@ -110,10 +120,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 14,
       "verse": 9,
-      "text": "As soon as it was dawn, the men hung the head of Holofernes on the wall, and every man of Israel took up his weapons and went out in ranks up the mountain slopes.",
-      "links": "<a href='/AIV/18/14/1'>Jdt. 14:1</a>; <a href='/AIV/7/7/19'>Judg. 7:19</a>",
-      "comment": "The people’s obedience to Judith’s instruction shows the value of following divinely appointed leaders. Their unity and order foreshadow the structured life of the early Christian community.",
-      "sectionHeader": "The Panic and Rout of the Assyrians"
+      "text": "So in the presence of all the people, Judith told him everything she had done, from the day she went out until the hour she was speaking to them.",
+      "links": "<a href='/AIV/19/66/16'>Ps. 66:16</a>",
+      "comment": "Judith’s public testimony demonstrates the importance of transparent witness in the community, paralleling the apostolic testimony in the New Testament (Acts 4:20)."
     },
     {
       "pk": 18014010,
@@ -123,9 +132,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 14,
       "verse": 10,
-      "text": "When the Assyrians saw them, they sent for their commanders. They went to the tent of Holofernes, but found no one there. They rushed inside, but did not find him.",
-      "links": "<a href='/AIV/02/14/24'>Ex. 14:24</a>",
-      "comment": "The enemy’s confusion is made clear—God frustrates the plans of the wicked. The missing leader symbolizes the futility of opposition to God’s people."
+      "text": "When she finished speaking, the people raised a great shout and made a joyful noise in their city.",
+      "links": "<a href='/AIV/6/6/20'>Josh. 6:20</a>; <a href='/AIV/19/47/1'>Ps. 47:1</a>",
+      "comment": "The people’s joyful response is reminiscent of Israel's collective celebrations after God's victories. Shared worship is seen as the right response to God's acts."
     },
     {
       "pk": 18014011,
@@ -135,9 +144,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 14,
       "verse": 11,
-      "text": "So they ran out and called together all the generals, the commanders and all the officers of the army. They came to Holofernes’ tent.",
-      "links": "<a href='/AIV/18/14/10'>Jdt. 14:10</a>",
-      "comment": "The officers’ panic at the tent of Holofernes echoes the sudden reversals seen elsewhere in Scripture, such as Egypt’s officers during the Exodus."
+      "text": "But when the leaders of the Assyrian army heard the noise, they went to Holofernes’ tent.",
+      "links": [
+        "Esth 6:14",
+        "Judg 4:22",
+        "Matt 28:2-4"
+      ],
+      "comment": "The Assyrians, disturbed by the celebration within the city, go to their leader. The noisy celebration juxtaposes Israel’s confidence against the confusion of the enemies."
     },
     {
       "pk": 18014012,
@@ -147,9 +160,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 14,
       "verse": 12,
-      "text": "When they entered, they found Holofernes sprawled on the ground, with his head taken away.",
-      "links": "<a href='/AIV/09/17/51'>1 Sam. 17:51</a>; <a href='/AIV/18/13/8'>Jdt. 13:8</a>",
-      "comment": "Finding the body without a head heightens the sense of utter defeat. The beheading has typological resonance, prefiguring David’s victory over Goliath."
+      "text": "And they said to him, \"Awake, our lord, for the slaves have dared to come down to fight us, to their utter destruction.\"",
+      "links": [
+        "Ex 15:9",
+        "Ps 2:1-4",
+        "Isa 37:23-24"
+      ],
+      "comment": "The soldiers’ pride is evident in calling the Israelites \"slaves,\" foreshadowing their ignorance of God’s true strength, as so often in the Bible (cf. 1 Sam. 17:42–47)."
     },
     {
       "pk": 18014013,
@@ -159,9 +176,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 14,
       "verse": 13,
-      "text": "They cried out with loud voices, wept, groaned, and shouted aloud, tore their garments, and were deeply distraught.",
-      "links": "<a href='/AIV/01/37/34'>Gen. 37:34</a>; <a href='/AIV/09/4/1'>1 Sam. 4:12</a>",
-      "comment": "Tearing garments and lamenting were traditional signs of profound mourning and humiliation. God’s supremacy is revealed in the defeat of such proud enemies."
+      "text": "So Bagoas went in and knocked at the curtain of the tent, thinking that Holofernes was sleeping with Judith.",
+      "links": "<a href='/AIV/18/13/13'>Jdt. 13:13</a>",
+      "comment": "The actions of Bagoas underscore Judith’s reputation for beauty and virtue, which God used as an instrument for Israel’s salvation."
     },
     {
       "pk": 18014014,
@@ -171,9 +188,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 14,
       "verse": 14,
-      "text": "They called loudly in the camp, so that all came running to see what had happened. When they saw Holofernes’ body, leaders were stunned and lost their courage.",
-      "links": "<a href='/AIV/01/45/3'>Gen. 45:3</a>",
-      "comment": "The enemies’ hearts melt in fear. God’s intervention disarms even the mightiest, preparing the way for His people’s triumph and prefiguring spiritual victory through God’s power."
+      "text": "But when he did not hear a sound, he opened the curtain, entered, and found him lying headless on the ground, sprawled on his face.",
+      "links": [
+        "Judg 4:21",
+        "1 Sam 17:51",
+        "2 Kgs 9:35"
+      ],
+      "comment": "The shocking discovery fulfills Judith’s prophecy and foreshadows other moments when presumed power collapses suddenly (Dan. 5:30–31; Acts 12:21–23)."
     },
     {
       "pk": 18014015,
@@ -183,9 +204,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 14,
       "verse": 15,
-      "text": "All the soldiers, seized with panic and trembling, rushed out in haste. They fled in disorder, not even pausing to talk with one another, but ran together through the open country.",
-      "links": "<a href='/AIV/14/2/4'>Josh. 2:4</a>; <a href='/AIV/7/7/21'>Judg. 7:21-22</a>",
-      "comment": "The flight of the enemy fulfills Judith’s earlier words. The chaos parallels the confusion sent by God to protect Israel, as seen in other Old Testament battles."
+      "text": "Bagoas shouted with a loud cry, wept, groaned, and called out to the women’s tent, \"One slave has brought disgrace upon the whole house of King Nebuchadnezzar. Look, Holofernes lies on the ground without a head!\"",
+      "links": [
+        "Judg 4:22",
+        "Esth 7:8",
+        "Ps 9:16"
+      ],
+      "comment": "The lament and accusation reveals both the depth of the enemy’s humiliation and the overturning of worldly pride through God’s chosen instruments."
     },
     {
       "pk": 18014016,
@@ -195,9 +220,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 14,
       "verse": 16,
-      "text": "Then the Israelites, every warrior, burst out upon them, pursued them down the mountain, for the whole country was filled with fugitives.",
-      "links": "<a href='/AIV/10/15/14'>2 Sam. 15:14</a>",
-      "comment": "The Israelites pursue with discipline and unity, winning through faith and obedience. Their cooperation demonstrates the necessity of remaining together in the fight for God’s cause."
+      "text": "When the leaders of the Assyrian army heard this, they tore their tunics, deeply shaken and infilled with panic and distress.",
+      "links": "<a href='/AIV/1/37/34'>Gen. 37:34</a>; <a href='/AIV/6/7/6'>Josh. 7:6</a>",
+      "comment": "Tearing one’s garments is a biblical sign of mourning and shock, seen throughout both Old and New Testaments (Matt. 26:65)."
     },
     {
       "pk": 18014017,
@@ -207,9 +232,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 14,
       "verse": 17,
-      "text": "But those who remained in Bethulia came and seized all the possessions the Assyrians had left behind. The Israelites returned from the slaughter victorious.",
-      "links": "<a href='/AIV/06/8/27'>Josh. 8:27</a>; <a href='/AIV/02/12/36'>Ex. 12:36</a>",
-      "comment": "The people participate in the spoils of victory, reminiscent of Israel’s earlier campaigns. The sharing of blessings points to the later practice of distributing spiritual and temporal gifts in the Christian community."
+      "text": "An outcry rose in the midst of their camp. In their tents, the army was thrown into great confusion.",
+      "links": "<a href='/AIV/7/7/21-23'>Judg. 7:21-23</a>",
+      "comment": "As in other Old Testament deliverances, confusion among the enemy is a sign of God’s direct intervention (Ex. 14:24–25; 2 Chron. 20:22–23)."
     },
     {
       "pk": 18014018,
@@ -219,10 +244,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 14,
       "verse": 18,
-      "text": "But the high priest Joakim and the council of elders in Jerusalem came to witness the miraculous deeds that the Lord had accomplished for Israel, and to see Judith and greet her.",
-      "links": "<a href='/AIV/03/16/32-34'>Lev. 16:32-34</a>; <a href='/AIV/42/1/68'>Luke 1:68</a>",
-      "comment": "The authority of the high priest and elders is emphasized as they bear witness to God’s work and honor His chosen instrument. This mirrors the importance of spiritual authority given to overseers of God’s people.",
-      "sectionHeader": "Joakim and the Elders Praise Judith"
+      "text": "But when all in the camp heard the news, they were filled with terror and dread, and no man remained with his neighbor. Panic-stricken, they all ran off together into the open country.",
+      "links": "<a href='/AIV/1/35/5'>Gen. 35:5</a>; <a href='/AIV/22/14/1'>Prov. 14:1</a>",
+      "comment": "God’s power causes formidable armies to disperse in panic. This demonstrates His sovereignty and the futility of human strength apart from Him—a recurring biblical theme."
     },
     {
       "pk": 18014019,
@@ -232,32 +256,10 @@
       "bookAbbreviation": "Jdt",
       "chapter": 14,
       "verse": 19,
-      "text": "When they came to her, they all blessed her with one voice and said, 'You are the exaltation of Jerusalem, the great glory of Israel, and the great pride of our nation. You have done all this with your own hand. May the Almighty bless you forever!' And all the people said, 'Amen.'",
-      "links": "<a href='/AIV/18/15/10'>Jdt. 15:10</a>; <a href='/AIV/19/115/1'>Ps. 115:1</a>",
-      "comment": "The language of blessing and veneration for Judith foreshadows honor given to holy men and women throughout salvation history. Intercession and communal response indicate the value of united prayer and recognition of God’s marvels through chosen vessels, a pattern continued in New Testament worship and devotion."
+      "text": "The Israelites pursued them down the mountain until they reached the borders of their own country.",
+      "links": "<a href='/AIV/6/10/32-42'>Josh. 10:32-42</a>",
+      "comment": "Israel’s complete victory, pursued persistently, is reminiscent of the thorough victories blessed by God under Moses and Joshua. This persistent and divinely mandated pursuit foreshadows the Church’s mission to proclaim victory over sin and death through steadfast faith."
     }
   ],
-  "translatedAt": "2025-12-24T05:07:05.680Z",
-  "sections": [
-    {
-      "title": "Judith's Plan for Victory",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "The Conversion of Achior",
-      "startVerse": 6,
-      "endVerse": 8
-    },
-    {
-      "title": "The Panic and Rout of the Assyrians",
-      "startVerse": 9,
-      "endVerse": 17
-    },
-    {
-      "title": "Joakim and the Elders Praise Judith",
-      "startVerse": 18,
-      "endVerse": 19
-    }
-  ]
+  "translatedAt": "2025-12-25T16:09:34.886Z"
 }

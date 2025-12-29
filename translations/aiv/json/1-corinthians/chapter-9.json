@@ -38,7 +38,11 @@
       "chapter": 9,
       "verse": 3,
       "text": "This is my defense to those who examine me:",
-      "links": "",
+      "links": [
+        "1 Cor 4:3-4",
+        "Acts 22:1",
+        "2 Cor 13:3"
+      ],
       "comment": "Paul anticipates criticism, reinforcing the ordered nature of church leadership and discipline."
     },
     {

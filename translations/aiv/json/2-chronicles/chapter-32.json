@@ -3,6 +3,23 @@
   "bookName": "2 Chronicles",
   "bookAbbreviation": "2Chr",
   "chapter": 32,
+  "sections": [
+    {
+      "title": "Sennacherib Invades Judah",
+      "startVerse": 1,
+      "endVerse": 19
+    },
+    {
+      "title": "Hezekiah and Isaiah Seek God",
+      "startVerse": 20,
+      "endVerse": 23
+    },
+    {
+      "title": "Hezekiah’s Illness and Recovery",
+      "startVerse": 24,
+      "endVerse": 33
+    }
+  ],
   "verses": [
     {
       "pk": 14032001,
@@ -12,9 +29,9 @@
       "bookAbbreviation": "2Chr",
       "chapter": 32,
       "verse": 1,
-      "text": "After these deeds of faithfulness, Sennacherib king of Assyria came and invaded Judah. He set up camp against the fortified cities, intending to break through and conquer them.",
-      "links": "<a href='/AIV/12/18/13'>2 Kings 18:13</a>; <a href='/AIV/23/36/1'>Isaiah 36:1</a>",
-      "comment": "The author highlights Sennacherib’s attack as a test that follows Hezekiah’s faithfulness, showing how faithfulness does not prevent trials. This introduces the pattern that God’s people are often tested in their faith (cf. James 1:2-3).",
+      "text": "After these acts of faithfulness, Sennacherib, king of Assyria, came and invaded Judah, and encamped against the fortified cities, intending to conquer them for himself.",
+      "links": "<a href='/AIV/12/18/13'>2 Kings 18:13</a>; <a href='/AIV/23/36/1'>Isa. 36:1</a>",
+      "comment": "The invasion occurs after Hezekiah's faithfulness, demonstrating that obedience to God does not exempt believers from trials.",
       "sectionHeader": "Sennacherib Invades Judah"
     },
     {
@@ -25,10 +42,9 @@
       "bookAbbreviation": "2Chr",
       "chapter": 32,
       "verse": 2,
-      "text": "When Hezekiah saw that Sennacherib had come and intended to make war against Jerusalem,",
-      "links": "<a href='/AIV/12/18/17'>2 Kings 18:17</a>",
-      "comment": "Hezekiah’s recognition of the threat sets up his response as a model for leadership under pressure, anticipating both practical and spiritual measures.",
-      "sectionHeader": "Hezekiah Prepares Jerusalem for Siege"
+      "text": "When Hezekiah saw that Sennacherib had come and intended to fight against Jerusalem,",
+      "links": "<a href='/AIV/23/36/2'>Isa. 36:2</a>",
+      "comment": "Hezekiah’s recognition of the threat prompts the narrative towards his preparations and trust in God."
     },
     {
       "pk": 14032003,
@@ -38,9 +54,9 @@
       "bookAbbreviation": "2Chr",
       "chapter": 32,
       "verse": 3,
-      "text": "he consulted with his officials and his warriors about stopping the water of the springs outside the city, and they agreed with him.",
-      "links": "<a href='/AIV/12/20/20'>2 Chronicles 20:20</a>; <a href='/AIV/23/22/9-11'>Isaiah 22:9-11</a>",
-      "comment": "Hezekiah’s consultation models wise governance, acting in harmony with the counsel of the community. Compare to the wisdom of many counselors (Prov. 15:22)."
+      "text": "he consulted with his officials and his warriors about stopping the waters of the springs that were outside the city, and they helped him.",
+      "links": "<a href='/AIV/12/20/20'>2 Chr. 20:20</a>",
+      "comment": "Hezekiah’s wisdom and collaboration with his leaders shows faithful stewardship, balancing prayer with prudent action."
     },
     {
       "pk": 14032004,
@@ -50,9 +66,9 @@
       "bookAbbreviation": "2Chr",
       "chapter": 32,
       "verse": 4,
-      "text": "A large crowd gathered, and they stopped all the springs and the brook that flowed through the land, saying, 'Why should the kings of Assyria come and find plenty of water?'",
-      "links": "<a href='/AIV/12/20/20'>2 Chronicles 20:20</a>; <a href='/AIV/23/22/9-11'>Isaiah 22:9-11</a>",
-      "comment": "Blocking the water supply is both practical defense and a sign of communal action. This united effort reflects the strength found in the visible faith community."
+      "text": "A great many people gathered, and they stopped all the springs and the stream that flowed through the land, saying, 'Why should the kings of Assyria come and find much water?'",
+      "links": "<a href='/AIV/23/22/9-11'>Isa. 22:9-11</a>",
+      "comment": "Denying the attackers access to water was a practical defensive measure; see also Isaiah’s account of these preparations."
     },
     {
       "pk": 14032005,
@@ -62,9 +78,9 @@
       "bookAbbreviation": "2Chr",
       "chapter": 32,
       "verse": 5,
-      "text": "He strengthened himself, built up the entire wall that was broken, raised it higher, built towers, and built another wall outside. He also reinforced the Millo in the city of David and made plentiful weapons and shields.",
-      "links": "<a href='/AIV/16/3/15'>Nehemiah 3:15</a>; <a href='/AIV/10/5/9'>2 Samuel 5:9</a>",
-      "comment": "Hezekiah’s preparation was thorough, not only spiritually but materially. This integration of faith and works prefigures the call to combine prayer and action (cf. James 2:17)."
+      "text": "He took courage, rebuilt all the broken wall sections, raised towers on it, and built another wall outside. He strengthened the Millo in the city of David, and made weapons and shields in abundance.",
+      "links": "<a href='/AIV/14/11/8-9'>2 Chr. 11:8-9</a>",
+      "comment": "Rebuilding broken defenses illustrates the theme that divine promises do not negate the believer’s responsibility to act."
     },
     {
       "pk": 14032006,
@@ -74,10 +90,9 @@
       "bookAbbreviation": "2Chr",
       "chapter": 32,
       "verse": 6,
-      "text": "He appointed military commanders over the people, assembled them in the square at the city gate, and encouraged them, saying,",
-      "links": "<a href='/AIV/05/20/3-4'>Deut. 20:3-4</a>",
-      "comment": "Hezekiah’s public address echoes the tradition of Israel’s leaders encouraging the people before battle, reminding them of God’s faithfulness in history.",
-      "sectionHeader": "Hezekiah’s Encouragement to the People"
+      "text": "He set commanders of war over the people, gathered them to him in the open square at the city gate, and encouraged them with these words:",
+      "links": "<a href='/AIV/05/20/1-4'>Deut. 20:1-4</a>",
+      "comment": "Hezekiah emerges here as both a spiritual and civic leader, providing encouragement modeled after Israel’s past leaders."
     },
     {
       "pk": 14032007,
@@ -87,9 +102,9 @@
       "bookAbbreviation": "2Chr",
       "chapter": 32,
       "verse": 7,
-      "text": "'Be strong and courageous! Do not be afraid or terrified because of the king of Assyria or the vast army that is with him, for there is One greater with us than with him.'",
-      "links": "<a href='/AIV/06/1/9'>Joshua 1:9</a>; <a href='/AIV/12/6/16'>2 Kings 6:16</a>",
-      "comment": "The call to courage recalls God’s words to Joshua. ‘One greater with us’ looks forward to God-with-us (Emmanuel), a theme fulfilled in Christ (cf. Matthew 1:23)."
+      "text": "'Be strong and courageous. Do not be afraid or dismayed because of the king of Assyria and all the multitude with him, for there are more with us than with him.'",
+      "links": "<a href='/AIV/06/01/9'>Josh. 1:9</a>; <a href='/AIV/12/06/16'>2 Kings 6:16</a>",
+      "comment": "Hezekiah’s words echo the encouragement God gave Joshua and Elijah, pointing to the invisible reality of God’s aid."
     },
     {
       "pk": 14032008,
@@ -99,9 +114,9 @@
       "bookAbbreviation": "2Chr",
       "chapter": 32,
       "verse": 8,
-      "text": "‘With him is only an arm of flesh, but with us is the LORD our God to help us and fight our battles.’ The people gained confidence from the words of Hezekiah king of Judah.",
-      "links": "<a href='/AIV/10/8/47'>2 Samuel 8:47</a>; <a href='/AIV/05/20/4'>Deut. 20:4</a>",
-      "comment": "The sharp distinction between human strength and relying on God is a recurring biblical theme. Hezekiah’s assurance echoes spiritual warfare, relying on the power of God rather than human ability (cf. 2 Corinthians 10:4)."
+      "text": "'With him is only the arm of flesh, but with us is the LORD our God to help us and to fight our battles.' And the people were encouraged by the words of Hezekiah king of Judah.",
+      "links": "<a href='/AIV/19/20/7'>Ps. 20:7</a>; <a href='/AIV/13/28/20'>1 Chr. 28:20</a>",
+      "comment": "Trusting in God’s power above human strength is a consistent biblical theme, related to spiritual battle and faith."
     },
     {
       "pk": 14032009,
@@ -111,10 +126,9 @@
       "bookAbbreviation": "2Chr",
       "chapter": 32,
       "verse": 9,
-      "text": "After this, Sennacherib king of Assyria, while he was laying siege to Lachish with all his forces, sent his servants to Jerusalem, to Hezekiah king of Judah and to all the people there, saying,",
-      "links": "<a href='/AIV/12/18/17'>2 Kings 18:17-35</a>; <a href='/AIV/23/36/2-20'>Isaiah 36:2-20</a>",
-      "comment": "Here begins the psychological warfare intended to instill fear. The chronicler shifts the focus from the military threat to the spiritual trial.",
-      "sectionHeader": "Sennacherib’s Threatening Messages"
+      "text": "After this, Sennacherib king of Assyria, who was besieging Lachish with all his forces, sent his servants to Jerusalem, to Hezekiah king of Judah and to all the people of Judah who were in Jerusalem, saying:",
+      "links": "<a href='/AIV/12/18/17'>2 Kings 18:17</a>",
+      "comment": "Sennacherib’s psychological warfare includes a direct message to all Jerusalem, involving the whole community of believers."
     },
     {
       "pk": 14032010,
@@ -124,9 +138,9 @@
       "bookAbbreviation": "2Chr",
       "chapter": 32,
       "verse": 10,
-      "text": "'This is what Sennacherib king of Assyria says: “On what are you basing your confidence that you remain in Jerusalem under siege?”'",
-      "links": "<a href='/AIV/12/18/19'>2 Kings 18:19</a>;",
-      "comment": "The enemy questions the foundation of Judah’s faith, echoing the ancient temptation to doubt God’s promises (Genesis 3:1)."
+      "text": "'Thus says Sennacherib king of Assyria: “On what do you rest this confidence of yours while you remain under siege in Jerusalem?'",
+      "links": "<a href='/AIV/23/36/4-5'>Isa. 36:4-5</a>",
+      "comment": "The enemy seeks to undermine faith by questioning where the people’s confidence truly rests—paralleling the serpent’s doubts in Genesis 3."
     },
     {
       "pk": 14032011,
@@ -136,30 +150,276 @@
       "bookAbbreviation": "2Chr",
       "chapter": 32,
       "verse": 11,
-      "text": "'Isn’t Hezekiah misleading you, to let you die by famine and thirst, when he says, "
+      "text": "'Is not Hezekiah misleading you, to give you over to die by famine and thirst, when he tells you, ‘The LORD our God will deliver us from the hand of the king of Assyria’?'",
+      "links": "<a href='/AIV/14/32/15'>2 Chr. 32:15</a>",
+      "comment": "A direct assault is made against the people’s trust in their spiritual leader and in God’s promises."
+    },
+    {
+      "pk": 14032012,
+      "translation": "AIV",
+      "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
+      "chapter": 32,
+      "verse": 12,
+      "text": "'Has not this same Hezekiah removed his high places and his altars, saying to Judah and Jerusalem, “You shall worship before one altar, and on it you shall burn incense”?'",
+      "links": "<a href='/AIV/12/18/22'>2 Kings 18:22</a>",
+      "comment": "Sennacherib misunderstands true worship, seeing Hezekiah’s removal of foreign altars as a weakening of religious power, missing the scriptural mandate for unified worship at one altar (Deut. 12:5-14)."
+    },
+    {
+      "pk": 14032013,
+      "translation": "AIV",
+      "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
+      "chapter": 32,
+      "verse": 13,
+      "text": "'Do you not know what I and my fathers have done to all the peoples of other lands? Were the gods of the nations of those lands able to deliver their lands out of my hand?'",
+      "links": "<a href='/AIV/23/10/10-11'>Isa. 10:10-11</a>",
+      "comment": "Here the Assyrian king arrogantly equates the God of Israel with pagan idols, anticipating the New Testament’s contrast between the one true God and false gods (see 1 Cor. 8:4-6)."
+    },
+    {
+      "pk": 14032014,
+      "translation": "AIV",
+      "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
+      "chapter": 32,
+      "verse": 14,
+      "text": "'Who among all the gods of those nations that my fathers utterly destroyed was able to deliver his people from my hand, that your God should be able to deliver you from my hand?'",
+      "links": "<a href='/AIV/19/115/3-8'>Ps. 115:3-8</a>",
+      "comment": "The king’s challenge highlights the uniqueness of Israel’s faith, prefiguring the ultimate defense of God’s people through divine intervention."
+    },
+    {
+      "pk": 14032015,
+      "translation": "AIV",
+      "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
+      "chapter": 32,
+      "verse": 15,
+      "text": "'Now therefore, do not let Hezekiah deceive you or mislead you in this way, and do not believe him; for no god of any nation or kingdom has been able to deliver his people from my hand or from the hand of my fathers. How much less will your God deliver you from my hand!'",
+      "links": "<a href='/AIV/12/19/10'>2 Chr. 19:10</a>",
+      "comment": "This verse shows a repeated motif—doubt sown about God’s power—contrasted by later miraculous deliverance, pointing toward New Testament lessons about persevering in faith."
+    },
+    {
+      "pk": 14032016,
+      "translation": "AIV",
+      "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
+      "chapter": 32,
+      "verse": 16,
+      "text": "And his servants said still more against the LORD God and against his servant Hezekiah.",
+      "links": "<a href='/AIV/23/37/23'>Isa. 37:23</a>",
+      "comment": "Attacks against God’s anointed often accompany attacks on faith itself, a foreshadow of future opposition to Christ’s appointed leaders."
+    },
+    {
+      "pk": 14032017,
+      "translation": "AIV",
+      "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
+      "chapter": 32,
+      "verse": 17,
+      "text": "He also wrote letters to cast contempt on the LORD, the God of Israel, and to speak against Him, saying, 'As the gods of the nations of the lands have not delivered their people from my hand, so the God of Hezekiah will not deliver His people from my hand.'",
+      "links": "<a href='/AIV/23/37/10'>Isa. 37:10</a>",
+      "comment": "Written blasphemy sets the stage for public vindication of God’s name, much as in the confrontations between Elijah and the prophets of Baal (1 Kings 18)."
+    },
+    {
+      "pk": 14032018,
+      "translation": "AIV",
+      "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
+      "chapter": 32,
+      "verse": 18,
+      "text": "They called out loudly in the language of Judah to the people of Jerusalem who were on the wall, to frighten and terrify them, in order to capture the city.",
+      "links": "<a href='/AIV/23/36/13'>Isa. 36:13</a>",
+      "comment": "Using the people’s own language was a tactic to sow fear, showing the enemy’s cunning. Christ’s faithfulness later conquers such fear (see John 16:33)."
+    },
+    {
+      "pk": 14032019,
+      "translation": "AIV",
+      "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
+      "chapter": 32,
+      "verse": 19,
+      "text": "They spoke of the God of Jerusalem as though He were like the gods of the peoples of the earth, works of men’s hands.",
+      "links": "<a href='/AIV/19/135/15-18'>Ps. 135:15-18</a>",
+      "comment": "The Assyrian envoys, misunderstanding Israel’s faith, equated Yahweh with powerless idols made by humans, displaying both cultural ignorance and arrogance; this sets the stage for God’s unique intervention, as seen in Exodus 15:11 and Psalm 115:3-8, which contrast the living God with man-made gods."
+    },
+    {
+      "pk": 14032020,
+      "translation": "AIV",
+      "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
+      "chapter": 32,
+      "verse": 20,
+      "text": "Then King Hezekiah and the prophet Isaiah son of Amoz prayed about this and cried to heaven.",
+      "links": "<a href='/AIV/12/19/15'>2 Kings 19:15</a>; <a href='/AIV/23/37/15'>Isa. 37:15</a>",
+      "comment": "Here is a model of united intercessory prayer between the king and prophet, symbolizing harmony between spiritual and civil authority in seeking God’s intervention.",
+      "sectionHeader": "Hezekiah and Isaiah Seek God"
+    },
+    {
+      "pk": 14032021,
+      "translation": "AIV",
+      "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
+      "chapter": 32,
+      "verse": 21,
+      "text": "And the LORD sent an angel, who destroyed every mighty warrior, commander, and officer in the camp of the king of Assyria. So he returned in shame to his own land. When he entered the house of his god, his own sons killed him there with the sword.",
+      "links": "<a href='/AIV/12/19/35-37'>2 Kings 19:35-37</a>; <a href='/AIV/23/37/36-38'>Isa. 37:36-38</a>",
+      "comment": "God’s deliverance surpasses any natural explanation, reminiscent of angelic interventions throughout biblical history (e.g., Exod. 12:29; Matt. 28:2)."
+    },
+    {
+      "pk": 14032022,
+      "translation": "AIV",
+      "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
+      "chapter": 32,
+      "verse": 22,
+      "text": "So the LORD saved Hezekiah and the inhabitants of Jerusalem from the hand of Sennacherib king of Assyria and from the hand of all others, and guided them on every side.",
+      "links": "<a href='/AIV/19/34/7'>Ps. 34:7</a>",
+      "comment": "Deliverance and guidance are paired as twin manifestations of God’s saving grace, foreshadowing the fullness of salvation in Christ."
+    },
+    {
+      "pk": 14032023,
+      "translation": "AIV",
+      "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
+      "chapter": 32,
+      "verse": 23,
+      "text": "And many brought gifts to the LORD in Jerusalem and presents to Hezekiah king of Judah, so that he was exalted in the sight of all nations from that time onward.",
+      "links": "<a href='/AIV/19/72/10-11'>Ps. 72:10-11</a>",
+      "comment": "The nations’ homage prefigures messianic prophecies of the nations worshiping God in Jerusalem (Isa. 2:2-3; cf. Matt. 2:11)."
+    },
+    {
+      "pk": 14032024,
+      "translation": "AIV",
+      "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
+      "chapter": 32,
+      "verse": 24,
+      "text": "In those days Hezekiah became mortally ill, and he prayed to the LORD, and He spoke to him and gave him a sign.",
+      "links": "<a href='/AIV/12/20/1-6'>2 Kings 20:1-6</a>; <a href='/AIV/23/38/1-8'>Isa. 38:1-8</a>",
+      "comment": "God’s granting of a miraculous sign in response to prayer echoes New Testament accounts of Christ’s healing power and affirmation of faith (see John 4:48).",
+      "sectionHeader": "Hezekiah’s Illness and Recovery"
+    },
+    {
+      "pk": 14032025,
+      "translation": "AIV",
+      "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
+      "chapter": 32,
+      "verse": 25,
+      "text": "But Hezekiah did not repay the favor shown to him, for his heart was proud. Therefore, wrath came upon him and Judah and Jerusalem.",
+      "links": "<a href='/AIV/05/08/14'>Deut. 8:14</a>; <a href='/AIV/19/106/7'>Ps. 106:7</a>",
+      "comment": "The dangers of pride following great blessings are a recurring scriptural lesson, highlighting the importance of humility for all God’s people."
+    },
+    {
+      "pk": 14032026,
+      "translation": "AIV",
+      "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
+      "chapter": 32,
+      "verse": 26,
+      "text": "But Hezekiah humbled himself for the pride of his heart, he and the inhabitants of Jerusalem, so that the wrath of the LORD did not come upon them during the days of Hezekiah.",
+      "links": "<a href='/AIV/13/07/14'>2 Chr. 7:14</a>; <a href='/AIV/60/05/5-6'>1 Pet. 5:5-6</a>",
+      "comment": "Humility and repentance lead to God’s mercy, a foundational principle throughout Scripture."
+    },
+    {
+      "pk": 14032027,
+      "translation": "AIV",
+      "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
+      "chapter": 32,
+      "verse": 27,
+      "text": "Hezekiah had very great riches and honor. And he made treasuries for his silver, gold, precious stones, spices, shields, and for all kinds of desirable articles;",
+      "links": "<a href='/AIV/14/01/15'>2 Chr. 1:15</a>",
+      "comment": "Riches are presented as blessings from God when received with gratitude and humility (cf. Prov. 3:9-10)."
+    },
+    {
+      "pk": 14032028,
+      "translation": "AIV",
+      "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
+      "chapter": 32,
+      "verse": 28,
+      "text": "storehouses also for the produce of grain, wine, and oil, and stalls for all kinds of livestock and folds for the flocks.",
+      "links": "<a href='/AIV/01/41/48-49'>Gen. 41:48-49</a>",
+      "comment": "Prudent stewardship and preparation echo Joseph’s example in Egypt."
+    },
+    {
+      "pk": 14032029,
+      "translation": "AIV",
+      "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
+      "chapter": 32,
+      "verse": 29,
+      "text": "He built cities for himself and acquired flocks and herds in abundance, for God had given him great possessions.",
+      "links": "<a href='/AIV/18/01/3'>Job 1:3</a>",
+      "comment": "Material prosperity is attributed to the Lord’s provision, not merely human effort."
+    },
+    {
+      "pk": 14032030,
+      "translation": "AIV",
+      "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
+      "chapter": 32,
+      "verse": 30,
+      "text": "This same Hezekiah stopped the upper outlet of the waters of Gihon, and directed them straight down to the west side of the city of David. Hezekiah prospered in all his works.",
+      "links": "<a href='/AIV/14/32/3-4'>2 Chr. 32:3-4</a>",
+      "comment": "Engineering feats such as the Siloam tunnel are seen as God-blessed achievements for the good of God’s people."
+    },
+    {
+      "pk": 14032031,
+      "translation": "AIV",
+      "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
+      "chapter": 32,
+      "verse": 31,
+      "text": "But when ambassadors came from Babylon to inquire about the sign that had happened in the land, God left Hezekiah to test him, that He might know all that was in his heart.",
+      "links": "<a href='/AIV/12/20/12-19'>2 Kings 20:12-19</a>",
+      "comment": "God testing the hearts of leaders is a recurring motif, and can be seen as a spiritual examination relevant to all believers."
+    },
+    {
+      "pk": 14032032,
+      "translation": "AIV",
+      "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
+      "chapter": 32,
+      "verse": 32,
+      "text": "The rest of the acts of Hezekiah, and his good deeds, are written in the vision of Isaiah the prophet, the son of Amoz, and in the Book of the Kings of Judah and Israel.",
+      "links": "<a href='/AIV/23/36/1'>Isa. 36:1</a>; <a href='/AIV/12/18/13'>2 Kings 18:13</a>",
+      "comment": "Chronicles reference a broader canonical tradition, affirming the importance of sacred history and its preservation by inspired writers."
+    },
+    {
+      "pk": 14032033,
+      "translation": "AIV",
+      "book": 14,
+      "bookName": "2 Chronicles",
+      "bookAbbreviation": "2Chr",
+      "chapter": 32,
+      "verse": 33,
+      "text": "So Hezekiah slept with his fathers, and they buried him on the ascent to the tombs of the sons of David; and all Judah and the inhabitants of Jerusalem honored him at his death. And Manasseh his son became king in his place.",
+      "links": "<a href='/AIV/12/20/21'>2 Kings 20:21</a>",
+      "comment": "Hezekiah’s honored burial recalls the tradition of veneration for righteous ancestors, a practice fulfilled in the ultimate honor given to the saints in Christ."
     }
   ],
-  "translatedAt": "2025-12-24T04:37:45.895Z",
-  "sections": [
-    {
-      "title": "Sennacherib Invades Judah",
-      "startVerse": 1,
-      "endVerse": 1
-    },
-    {
-      "title": "Hezekiah Prepares Jerusalem for Siege",
-      "startVerse": 2,
-      "endVerse": 5
-    },
-    {
-      "title": "Hezekiah’s Encouragement to the People",
-      "startVerse": 6,
-      "endVerse": 8
-    },
-    {
-      "title": "Sennacherib’s Threatening Messages",
-      "startVerse": 9,
-      "endVerse": 11
-    }
-  ]
+  "translatedAt": "2025-12-28T01:50:09.442Z"
 }

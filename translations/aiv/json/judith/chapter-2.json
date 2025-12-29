@@ -37,9 +37,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 2,
       "verse": 3,
-      "text": "\"You have heard what the people of Judea have spoken against me; they have refused to join with me in waging war against the people of Media.\"",
-      "links": "<a href='/AIV/16/02/19'>Neh. 2:19</a>; <a href='/AIV/16/04/1-2'>Neh. 4:1-2</a>",
-      "comment": "Here Judah’s distinctiveness and refusal to submit highlight their faithfulness to their identity and God’s law, despite living among foreign powers."
+      "text": "He said to his nobles and to all his subjects, 'You have all heard my orders; every one who has not obeyed my command shall be destroyed.'",
+      "links": [
+        "Dan 3:6",
+        "Esth 3:13",
+        "Dan 6:7"
+      ],
+      "comment": "Nebuchadnezzar's harsh ultimatum underscores his claim to unchecked authority and divine-like power, reflecting the absolutist rule attributed to monarchs in ancient Near Eastern contexts (cf. Daniel 3:6)."
     },
     {
       "pk": 18002004,
@@ -49,9 +53,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 2,
       "verse": 4,
-      "text": "\"Therefore, I swear by my kingdom and by my throne that I will take vengeance upon them all. I will do what I have said: every region belonging to my government shall be destroyed.\"",
-      "links": "<a href='/AIV/07/11/30-31'>Judg. 11:30-31</a>; <a href='/AIV/10/19/12'>2 Sam. 19:12</a>",
-      "comment": "Earthly oaths sworn by king and throne find a contrast with oaths made before God (see Matt. 5:33-37), underscoring the fleeting power of earthly rulers."
+      "text": "Then Nebuchadnezzar called Holofernes, the chief general of his army, who was second only to himself in command, and said to him:",
+      "links": [
+        "Gen 41:40",
+        "Esth 3:1",
+        "Dan 2:48"
+      ],
+      "comment": "Holofernes, as Nebuchadnezzar's chief general, embodies the king’s delegated might; his role anticipates the coming narrative of military conquest and serves as foreshadowing for Judith’s later confrontation (cf. 1 Maccabees 3:32-34)."
     },
     {
       "pk": 18002005,
@@ -329,7 +337,7 @@
       "verse": 27,
       "text": "The fear of him fell upon all the people who lived by the coast, in Sidon and Tyre, in Sur and Ocina, and all the inhabitants of Jamnia. Those living in Azotus and Ascalon were terrified.",
       "links": "<a href='/AIV/06/13/3'>Josh. 13:3</a>; <a href='/AIV/09/05/1'>1 Sam. 5:1</a>",
-      "comment": "The focus on coastal cities recalls Philistine strongholds and old adversaries, suggesting the universal reach of Holofernes’s terror, but also setting the stage for God’s intervention."
+      "comment": "The widespread fear among coastal cities signals the magnitude of Nebuchadnezzar’s campaign and echoes the biblical motif of foreign powers intimidating Israel and her neighbors (cf. Joshua 2:9-11)."
     },
     {
       "pk": 18002028,
@@ -339,12 +347,16 @@
       "bookAbbreviation": "Jdt",
       "chapter": 2,
       "verse": 28,
-      "text": "They were so afraid of him that they begged for peace with one voice, saying,",
-      "links": "<a href='/AIV/07/08/28'>Judg. 8:28</a>",
-      "comment": "As in earlier times, fear and the desire for peace pervade those facing oppression, a motif later reversed when God's people place their trust in Him and receive deliverance."
+      "text": "And the people were greatly afraid of him.",
+      "links": [
+        "Ex 15:16",
+        "Josh 2:9",
+        "Rev 13:4"
+      ],
+      "comment": "This verse encapsulates the atmosphere of dread evoked by Holofernes, Nebuchadnezzar’s general; his reputation for ruthless conquest instilled fear, echoing motifs of intimidating foreign powers seen in texts like Exodus 15:14 and Daniel 3:4-7, while setting the stage for themes of deliverance versus oppression central to Judith."
     }
   ],
-  "translatedAt": "2025-12-24T05:00:59.048Z",
+  "translatedAt": "2025-12-25T14:38:21.929Z",
   "sections": [
     {
       "title": "Nebuchadnezzar Plans Vengeance Against the West",

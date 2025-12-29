@@ -74,7 +74,11 @@
       "chapter": 21,
       "verse": 6,
       "text": "He answered her, 'Because I spoke to Naboth the Jezreelite and said, ",
-      "links": "",
+      "links": [
+        "Lev 25:23",
+        "Num 36:7",
+        "Ezek 46:18"
+      ],
       "comment": "Ahab’s whining reveals his inability to accept Naboth’s lawful and righteous refusal."
     },
     {
@@ -171,7 +175,11 @@
       "chapter": 21,
       "verse": 14,
       "text": "Then they sent word to Jezebel, saying, 'Naboth has been stoned and is dead.'",
-      "links": "",
+      "links": [
+        "Matt 23:35",
+        "2 Kgs 9:26",
+        "Acts 6:13"
+      ],
       "comment": "The plot reaches its conclusion with Naboth’s execution, paving the way for Jezebel’s next move."
     },
     {
@@ -221,7 +229,11 @@
       "chapter": 21,
       "verse": 18,
       "text": "'Arise, go down to meet Ahab king of Israel, who is in Samaria. Behold, he is in the vineyard of Naboth, where he has gone to possess it.'",
-      "links": "",
+      "links": [
+        "2 Kgs 9:21",
+        "Mic 2:1-2",
+        "1 Kgs 20:42"
+      ],
       "comment": "The command to confront Ahab is reminiscent of the confrontations between prophets and kings, a recurring theme in salvation history."
     },
     {

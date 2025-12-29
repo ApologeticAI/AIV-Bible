@@ -145,9 +145,13 @@
       "bookAbbreviation": "2Sam",
       "chapter": 8,
       "verse": 12,
-      "text": "from Aram, Moab, the Ammonites, the Philistines, Amalek, and from the spoils of Hadadezer son of Rehob, king of Zobah.",
-      "links": "<a href='/AIV/9/30/26-28'>1 Sam 30:26-28</a>",
-      "comment": "This summary shows David’s faithfulness to dedicate his victories to God. Such dedication models total surrender and stewardship, pivotal in the life and mission of God’s people."
+      "text": "from Edom, Moab, the Ammonites, the Philistines, Amalek, and from the spoil of King Hadadezer son of Rehob of Zobah.",
+      "links": [
+        "1 Chr 18:11",
+        "Ps 60:8",
+        "2 Sam 8:2"
+      ],
+      "comment": "This verse lists the nations whose wealth David dedicated to the Lord, highlighting both his military prowess and his commitment to honoring God with the spoils of conquest (cf. 1 Chronicles 18:11); the mention of diverse enemies underscores the breadth of David's victories and depicts the fulfillment of God's promise to subdue surrounding nations (2 Samuel 7:9)."
     },
     {
       "pk": 10008013,
@@ -223,7 +227,7 @@
       "comment": "David’s sons serving as priests suggests a royal priesthood, linking kingship and priesthood, later echoed in Christ as both King and High Priest. The presence of trusted guardians (Cherethites and Pelethites) points to the enduring protection and leadership within God’s people."
     }
   ],
-  "translatedAt": "2025-12-24T03:15:20.667Z",
+  "translatedAt": "2025-12-28T06:56:15.300Z",
   "sections": [
     {
       "title": "David’s Victories over His Enemies",

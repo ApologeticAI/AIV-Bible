@@ -13,7 +13,11 @@
       "chapter": 14,
       "verse": 1,
       "text": "This is the word of the LORD that came to Jeremiah concerning the drought:",
-      "links": "",
+      "links": [
+        "Deut 28:23-24",
+        "1 Kgs 17:1",
+        "Amos 4:7-8"
+      ],
       "comment": "The context is a devastating drought sent by God as a judgment. This sets the stage for the dialogue between God and His prophet. Compare the prophetic motif of signs in <a href='/AIV/11/17/1'>1 Kings 17:1</a> and <a href='/AIV/12/8/1-2'>2 Kings 8:1-2</a>.",
       "sectionHeader": "The Drought and Judah’s Lamentation"
     },

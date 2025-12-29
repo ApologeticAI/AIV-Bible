@@ -353,7 +353,7 @@
       "verse": 29,
       "text": "When his disciples heard of it, they came and took his body and laid it in a tomb.",
       "links": "<a href='/AIV/40/14/12'>Matt. 14:12</a>",
-      "comment": "John's disciples give his body honorable burial, foreshadowing the care given to Jesus’ body after His crucifixion (cf. Mark 15:46)."
+      "comment": "John the Baptist’s disciples’ action in burying his body demonstrates their loyalty and respect, echoing Jewish burial customs; their honoring of John underscores his prophetic role and anticipates later scenes of Jesus’ followers caring for his body (cf. Mark 15:45-47)."
     },
     {
       "pk": 48006030,
@@ -425,7 +425,11 @@
       "chapter": 6,
       "verse": 35,
       "text": "When it grew late, His disciples came to Him and said, 'This is a remote place, and it is already very late.'",
-      "links": "",
+      "links": [
+        "Matt 14:15",
+        "Luke 9:12",
+        "John 6:5"
+      ],
       "comment": "The setting anticipates a miraculous provision, reminiscent of Israel in the wilderness."
     },
     {
@@ -570,7 +574,10 @@
       "chapter": 6,
       "verse": 47,
       "text": "When evening came, the boat was in the middle of the sea, and He was alone on the land.",
-      "links": "",
+      "links": [
+        "Matt 14:23-24",
+        "John 6:16-17"
+      ],
       "comment": "The separation sets the stage for the following revelation of Jesus' divine power."
     },
     {

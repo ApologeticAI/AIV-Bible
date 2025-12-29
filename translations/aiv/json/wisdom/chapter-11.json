@@ -12,9 +12,13 @@
       "bookAbbreviation": "Wis",
       "chapter": 11,
       "verse": 1,
-      "text": "She guided them through holy paths, and showed them the kingdom of God.",
-      "links": "<a href='/AIV/02/13/21-22'>Ex. 13:21-22</a>; <a href='/AIV/19/78/14'>Ps. 78:14</a>",
-      "comment": "The 'she' here refers to divine Wisdom, personified as God’s active guidance of Israel. This anticipates the understanding of divine guidance through the Spirit and sets a foundation for the role of divine wisdom in salvation history.",
+      "text": "Wisdom caused their works to prosper through the hand of a holy prophet.",
+      "links": [
+        "Ex 14:21",
+        "Ps 105:26-27",
+        "Wis 10:16"
+      ],
+      "comment": "This verse highlights the role of divine Wisdom working through Moses (the holy prophet), emphasizing that it was God’s wisdom—not merely human effort—that enabled Israel’s deliverance (cf. Exodus 3:10; Wisdom 10:16).",
       "sectionHeader": "God's Care for Israel in the Wilderness"
     },
     {
@@ -49,9 +53,13 @@
       "bookAbbreviation": "Wis",
       "chapter": 11,
       "verse": 4,
-      "text": "When they were thirsty, they called out to you, and you gave them clear water from a rock, quenching their thirst and punishing their adversaries.",
-      "links": "<a href='/AIV/02/17/6'>Ex. 17:6</a>; <a href='/AIV/04/20/11'>Num. 20:11</a>; <a href='/AIV/19/105/41'>Ps. 105:41</a>",
-      "comment": "Water from the rock prefigures Christ as the source of living water (John 4:10). It also alludes to God's miraculous provision and judgement."
+      "text": "When they were thirsty, they called upon you, and water was given to them from flinty rock; from hard stone, you provided a remedy for their thirst.",
+      "links": [
+        "Ex 17:6",
+        "Num 20:11",
+        "Ps 78:15-16"
+      ],
+      "comment": "Alluding to Exodus 17:6 and Numbers 20:11, the verse underscores God's miraculous provision for Israel in the wilderness, symbolizing God's power to bring life-giving sustenance out of barrenness and hardship."
     },
     {
       "pk": 27011005,
@@ -109,9 +117,13 @@
       "bookAbbreviation": "Wis",
       "chapter": 11,
       "verse": 9,
-      "text": "For our forefathers, when threatened, cried out to you and were delivered; but for the Egyptians, you sent punishment for their arrogance.",
-      "links": "<a href='/AIV/19/106/44-46'>Ps. 106:44-46</a>; <a href='/AIV/02/8/15'>Ex. 8:15</a>",
-      "comment": "The motif of deliverance linked to prayer is echoed in many Psalms (Ps. 34:17-19), also suggesting a participatory role in salvation.",
+      "text": "For when they were tested, though disciplined with mercy, they learned how the ungodly are tormented when judged in wrath.",
+      "links": [
+        "Heb 12:6",
+        "Ps 94:12",
+        "Rom 1:18"
+      ],
+      "comment": "This verse draws a contrast between God's merciful discipline of Israel during their trials and the severe judgment received by the Egyptians; it highlights divine pedagogy—using mild correction for the righteous and wrath for the ungodly, echoing themes found in Psalm 94:12 and Hebrews 12:6.",
       "sectionHeader": "Punishment of Egypt and Deliverance of Israel"
     },
     {
@@ -231,9 +243,13 @@
       "bookAbbreviation": "Wis",
       "chapter": 11,
       "verse": 19,
-      "text": "Such things could have destroyed them all at a word, but you did not spare for their sins.",
-      "links": "<a href='/AIV/19/33/9'>Ps. 33:9</a>; <a href='/AIV/01/19/24'>Gen. 19:24</a>",
-      "comment": "Emphasizes God’s sovereignty, restraint, and justice. Implicitly referencing how God can judge or spare at His will."
+      "text": "Not only could the harm they inflicted destroy people, but even the mere sight of them could kill with fright.",
+      "links": [
+        "Ex 8:17-19",
+        "Wis 16:9-10",
+        "Deut 7:19"
+      ],
+      "comment": "Describing the terrifying and deadly nature of the plagues sent upon Egypt, this verse reflects the broader theme of divine retribution and the fearsome power of God’s agents in judgment (cf. Exodus 10:4-6; Revelation 9:6)."
     },
     {
       "pk": 27011020,
@@ -321,7 +337,7 @@
       "comment": "The closing verse highlights God’s universal love and care for creation, setting up the understanding that God is both just and merciful. The phrase 'lover of life' anticipates Christ's promise of abundant life."
     }
   ],
-  "translatedAt": "2025-12-24T07:19:19.148Z",
+  "translatedAt": "2025-12-28T02:58:21.330Z",
   "sections": [
     {
       "title": "God's Care for Israel in the Wilderness",

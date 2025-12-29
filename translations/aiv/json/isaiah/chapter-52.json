@@ -172,9 +172,13 @@
       "bookAbbreviation": "Isa",
       "chapter": 52,
       "verse": 14,
-      "text": "Just as many were astonished at you—his appearance was so disfigured beyond human likeness, and his form marred beyond that of the sons of men—",
-      "links": "<a href='/AIV/23/53/2-3'>Isa. 53:2-3</a>; <a href='/AIV/40/27/29-30'>Matt. 27:29-30</a>",
-      "comment": "This describes the suffering and humiliation endured by the Servant, fulfilled in Christ’s Passion, displaying both His deep sacrificial love and the profound mystery of redemption."
+      "text": "Just as many were astonished at him—so marred was his appearance, beyond human semblance, and his form beyond that of mortals—",
+      "links": [
+        "Isa 53:2-3",
+        "Ps 22:6-7",
+        "Matt 26:67"
+      ],
+      "comment": "This verse vividly depicts the suffering servant's shocking disfigurement, suggesting profound humiliation and abuse; it anticipates the theme of suffering as redemptive (cf. Isaiah 53:3-5), later echoed in the New Testament portrayal of Christ's passion (e.g. Mark 15:15-20)."
     },
     {
       "pk": 29052015,
@@ -189,7 +193,7 @@
       "comment": "‘Sprinkle’ alludes to priestly purification (see Lev. 16:14), fulfilled in Christ’s atoning blood which cleanses and makes holy. The astonishment of kings points to the conversion of nations and the universal scope of Christ’s redemptive work (Rom. 15:21)."
     }
   ],
-  "translatedAt": "2025-12-24T08:15:11.630Z",
+  "translatedAt": "2025-12-28T06:57:16.804Z",
   "sections": [
     {
       "title": "Jerusalem Awakened and Redeemed",

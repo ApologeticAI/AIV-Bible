@@ -158,7 +158,11 @@
       "chapter": 1,
       "verse": 13,
       "text": "Zerubbabel fathered Abiud, and Abiud fathered Eliakim, and Eliakim fathered Azor.",
-      "links": "",
+      "links": [
+        "1 Chr 3:19",
+        "Ezra 3:2",
+        "Luke 3:27"
+      ],
       "comment": "These names, not found directly in the Old Testament, show how tradition preserved certain key links to Christ. The precision of the genealogy upholds continuity and authority."
     },
     {
@@ -170,7 +174,11 @@
       "chapter": 1,
       "verse": 14,
       "text": "Azor fathered Zadok, and Zadok fathered Achim, and Achim fathered Eliud.",
-      "links": "",
+      "links": [
+        "Luke 3:28",
+        "Matt 1:1",
+        "Ruth 4:18"
+      ],
       "comment": "The genealogy moves quietly through the centuries, demonstrating God’s silent, providential guidance of history."
     },
     {
@@ -182,7 +190,10 @@
       "chapter": 1,
       "verse": 15,
       "text": "Eliud fathered Eleazar, and Eleazar fathered Matthan, and Matthan fathered Jacob.",
-      "links": "",
+      "links": [
+        "Luke 3:24",
+        "Matt 1:16"
+      ],
       "comment": "Each generation paves the way for Christ. This unseen succession hints at how the Lord prepares His people in silence as well as in action."
     },
     {

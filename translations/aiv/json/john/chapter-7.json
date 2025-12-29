@@ -570,7 +570,7 @@
       "verse": 47,
       "text": "Then the Pharisees answered, 'Are you led astray also?'",
       "links": "<a href='/AIV/41/12/24'>Mark 12:24</a>",
-      "comment": "Religious leaders accuse their own agents of error, foreshadowing deeper division and authority struggles."
+      "comment": "The Pharisees respond with scorn to the temple officers' amazement at Jesus, revealing their pride and presumption of theological superiority; this echoes the contrast between spiritual blindness and openness in John 9:39-41."
     },
     {
       "pk": 50007048,
@@ -641,7 +641,11 @@
       "chapter": 7,
       "verse": 53,
       "text": "Then each of them went to his own house.",
-      "links": "",
+      "links": [
+        "Luke 24:52",
+        "John 20:10",
+        "Acts 1:12"
+      ],
       "comment": "The chapter closes with unresolved tension, setting the stage for deeper revelation and division. This moment invites reflection on collective responsibility and individual response to Christ."
     }
   ],

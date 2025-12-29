@@ -3,6 +3,18 @@
   "bookName": "1 Chronicles",
   "bookAbbreviation": "1Chr",
   "chapter": 1,
+  "sections": [
+    {
+      "title": "The Genealogy from Adam to Abraham",
+      "startVerse": 1,
+      "endVerse": 33
+    },
+    {
+      "title": "The Descendants of Esau",
+      "startVerse": 34,
+      "endVerse": 54
+    }
+  ],
   "verses": [
     {
       "pk": 13001001,
@@ -12,10 +24,10 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 1,
-      "text": "Adam, Seth, Enosh,",
-      "links": "<a href='/AIV/1/5/1-32'>Gen. 5:1-32</a>; <a href='/AIV/42/3/38'>Luke 3:38</a>",
-      "comment": "The genealogy begins with Adam, designating him as the first man created. This emphasizes the continuity of God's salvation history through a real historical lineage.",
-      "sectionHeader": "The Descendants of Adam to Noah"
+      "text": "Adam, Seth, Enosh.",
+      "links": "<a href='/AIV/1/5/1-3'>Genesis 5:1-3</a>",
+      "comment": "The genealogy opens with Adam, emphasizing the beginning of humanity. This establishes a foundation for the continuity of divine election, which is fulfilled in Christ. Compare with <a href='/AIV/1/5/1-3'>Genesis 5:1-3</a> and <a href='/AIV/42/3/38'>Luke 3:38</a>.",
+      "sectionHeader": "The Genealogy from Adam to Abraham"
     },
     {
       "pk": 13001002,
@@ -25,9 +37,9 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 2,
-      "text": "Kenan, Mahalalel, Jared,",
-      "links": "<a href='/AIV/1/5/9-16'>Gen. 5:9-16</a>",
-      "comment": "This list follows the Genesis genealogies, showing careful preservation of tradition. It highlights the importance of roots and identity through ancestors."
+      "text": "Kenan, Mahalalel, Jared.",
+      "links": "<a href='/AIV/1/5/9-15'>Genesis 5:9-15</a>",
+      "comment": "Genealogy continues tracing the line towards Noah—each name highlights the passing down of the biblical promises."
     },
     {
       "pk": 13001003,
@@ -37,9 +49,9 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 3,
-      "text": "Enoch, Methuselah, Lamech,",
-      "links": "<a href='/AIV/1/5/18-28'>Gen. 5:18-28</a>; <a href='/AIV/58/11/5'>Heb. 11:5</a>",
-      "comment": "Enoch is specially noted elsewhere as a man who walked with God and was taken up, a foreshadowing of later teachings on sanctity and heavenly reward."
+      "text": "Enoch, Methuselah, Lamech.",
+      "links": "<a href='/AIV/1/5/18-28'>Genesis 5:18-28</a>",
+      "comment": "Enoch is notable for 'walking with God' and being taken—see <a href='/AIV/58/11/5'>Hebrews 11:5</a> for spiritual implications of faithful living and divine reward."
     },
     {
       "pk": 13001004,
@@ -49,9 +61,9 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 4,
-      "text": "Noah, Shem, Ham, and Japheth.",
-      "links": "<a href='/AIV/1/5/29-32'>Gen. 5:29-32</a>; <a href='/AIV/1/10/1'>Gen. 10:1</a>",
-      "comment": "Noah’s sons represent the origin of the nations after the flood. The preservation of humanity through the Ark is pointed to as an early image of salvation and covenant."
+      "text": "Noah; Shem, Ham, and Japheth.",
+      "links": "<a href='/AIV/1/5/32'>Genesis 5:32</a>, <a href='/AIV/1/9/18-19'>Genesis 9:18-19</a>",
+      "comment": "Noah’s sons mark key divisions of nations and the future direction of salvation history. Shem's descendants link to Abraham and ultimately the Messiah."
     },
     {
       "pk": 13001005,
@@ -62,9 +74,8 @@
       "chapter": 1,
       "verse": 5,
       "text": "The sons of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.",
-      "links": "<a href='/AIV/1/10/2'>Gen. 10:2</a>",
-      "comment": "Japheth’s descendants populated many regions, showing God’s concern for all peoples, not only for Israel.",
-      "sectionHeader": "The Descendants of Noah’s Sons"
+      "links": "<a href='/AIV/1/10/2'>Genesis 10:2</a>",
+      "comment": "Japheth and his sons represent many Gentile nations, paving the way for future inclusion of all peoples—see <a href='/AIV/44/10/34-35'>Acts 10:34-35</a>."
     },
     {
       "pk": 13001006,
@@ -75,8 +86,8 @@
       "chapter": 1,
       "verse": 6,
       "text": "The sons of Gomer: Ashkenaz, Diphath, and Togarmah.",
-      "links": "<a href='/AIV/1/10/3'>Gen. 10:3</a>",
-      "comment": "These names later became associated with various peoples. The genealogy also serves to demonstrate divine providence over human history."
+      "links": "<a href='/AIV/1/10/3'>Genesis 10:3</a>",
+      "comment": "These names define further branches of the peoples descended from Japheth. They are obscure but point to the spread of humanity after the flood."
     },
     {
       "pk": 13001007,
@@ -87,8 +98,8 @@
       "chapter": 1,
       "verse": 7,
       "text": "The sons of Javan: Elishah, Tarshish, Kittim, and Rodanim.",
-      "links": "<a href='/AIV/1/10/4'>Gen. 10:4</a>",
-      "comment": "Javan’s descendants are connected to maritime peoples and trade—Tarshish often appears in prophetic imagery (see <a href='/AIV/23/2/16'>Isa. 2:16</a>)."
+      "links": "<a href='/AIV/1/10/4'>Genesis 10:4</a>",
+      "comment": "These peoples are typically linked to regions around the Mediterranean, foreshadowing the widespread reach of future salvation."
     },
     {
       "pk": 13001008,
@@ -99,8 +110,8 @@
       "chapter": 1,
       "verse": 8,
       "text": "The sons of Ham: Cush, Mizraim, Put, and Canaan.",
-      "links": "<a href='/AIV/1/10/6'>Gen. 10:6</a>",
-      "comment": "Ham’s descendants fill much of Africa and Canaan, highlighting the wide reach of the ancient world."
+      "links": "<a href='/AIV/1/10/6'>Genesis 10:6</a>",
+      "comment": "Ham’s lineage includes major ancient civilizations (Cush—Ethiopia, Mizraim—Egypt, Canaan). These would play significant roles in biblical history."
     },
     {
       "pk": 13001009,
@@ -110,9 +121,9 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 9,
-      "text": "The sons of Cush: Seba, Havilah, Sabta, Raamah, and Sabteca. The sons of Raamah: Sheba and Dedan.",
-      "links": "<a href='/AIV/1/10/7'>Gen. 10:7</a>",
-      "comment": "The double branching signifies growth and expansion. The names Sheba and Dedan later become symbols of trade and wealth."
+      "text": "The sons of Cush: Seba, Havilah, Sabta, Raama, and Sabteca. The sons of Raama: Sheba and Dedan.",
+      "links": "<a href='/AIV/1/10/7'>Genesis 10:7</a>",
+      "comment": "The genealogies continue, and figures like Sheba and Dedan become notable in later prophecies (see <a href='/AIV/26/38/13'>Ezekiel 38:13</a>)."
     },
     {
       "pk": 13001010,
@@ -122,9 +133,9 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 10,
-      "text": "Cush fathered Nimrod. He began to be a mighty one on the earth.",
-      "links": "<a href='/AIV/1/10/8-9'>Gen. 10:8-9</a>",
-      "comment": "Nimrod is recognized as an early king and hunter, representing both human ambition and the start of organized civilization."
+      "text": "Cush fathered Nimrod. He was the first on earth to be a mighty man.",
+      "links": "<a href='/AIV/1/10/8-9'>Genesis 10:8-9</a>",
+      "comment": "Nimrod, legendary for ‘being mighty’, is traditionally associated with the founding of Babylon. Typologically, his kingdom prefigures the necessity of God's intervention."
     },
     {
       "pk": 13001011,
@@ -135,8 +146,8 @@
       "chapter": 1,
       "verse": 11,
       "text": "Mizraim fathered the Ludim, the Anamim, the Lehabim, the Naphtuhim,",
-      "links": "<a href='/AIV/1/10/13'>Gen. 10:13</a>",
-      "comment": "These groups comprise ancient peoples in the region of Egypt and North Africa, connecting biblical history to wider ancient cultures."
+      "links": "<a href='/AIV/1/10/13'>Genesis 10:13</a>",
+      "comment": "These nations are linked to Egypt, highlighting the diversity and spread of Ham’s descendants."
     },
     {
       "pk": 13001012,
@@ -146,9 +157,9 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 12,
-      "text": "the Pathrusim, the Casluhim (from whom the Philistines came), and the Caphtorim.",
-      "links": "<a href='/AIV/1/10/14'>Gen. 10:14</a>",
-      "comment": "The link to the Philistines points to significant later enemies of Israel and shows the depth of ancient rivalries."
+      "text": "the Pathrusim, the Casluhim, from whom the Philistines came, and the Caphtorim.",
+      "links": "<a href='/AIV/1/10/14'>Genesis 10:14</a>",
+      "comment": "The genealogies explain the origins of the Philistines, later opponents of Israel and key part of the biblical historical drama."
     },
     {
       "pk": 13001013,
@@ -158,9 +169,9 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 13,
-      "text": "Canaan fathered Sidon, his firstborn, then Heth,",
-      "links": "<a href='/AIV/1/10/15'>Gen. 10:15</a>",
-      "comment": "Sidon became a major city, later known for its interaction with Israel. Early nations often become symbols of sin or wisdom depending on later biblical context."
+      "text": "Canaan fathered Sidon, his firstborn, and Heth,",
+      "links": "<a href='/AIV/1/10/15'>Genesis 10:15</a>",
+      "comment": "Sidon and Heth are ancestors to major nations—Sidon in Phoenicia, and Heth to the Hittites, which are prominent in biblical history."
     },
     {
       "pk": 13001014,
@@ -171,8 +182,8 @@
       "chapter": 1,
       "verse": 14,
       "text": "and the Jebusites, the Amorites, the Girgashites,",
-      "links": "<a href='/AIV/1/10/16'>Gen. 10:16</a>",
-      "comment": "These tribes would oppose God’s chosen people, and their inclusion sets up the narrative tension in Israel’s story."
+      "links": "<a href='/AIV/1/10/16'>Genesis 10:16</a>",
+      "comment": "These are among the Canaanite peoples who would later inhabit the land promised to Israel."
     },
     {
       "pk": 13001015,
@@ -183,8 +194,8 @@
       "chapter": 1,
       "verse": 15,
       "text": "the Hivites, the Arkites, the Sinites,",
-      "links": "<a href='/AIV/1/10/17'>Gen. 10:17</a>",
-      "comment": "The wide range of groups further highlights the spread and complexity of ancient populations."
+      "links": "<a href='/AIV/1/10/17'>Genesis 10:17</a>",
+      "comment": "More descendants of Canaan, all groups with whom Israel would interact in its history."
     },
     {
       "pk": 13001016,
@@ -195,8 +206,8 @@
       "chapter": 1,
       "verse": 16,
       "text": "the Arvadites, the Zemarites, and the Hamathites.",
-      "links": "<a href='/AIV/1/10/18'>Gen. 10:18</a>",
-      "comment": "The genealogies serve as a reminder of God’s universal creativity, laying a foundation for both judgment and redemption."
+      "links": "<a href='/AIV/1/10/18'>Genesis 10:18</a>",
+      "comment": "Marks the completion of the descendants of Canaan, emphasizing the scope and diversity of the nations."
     },
     {
       "pk": 13001017,
@@ -206,9 +217,13 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 17,
-      "text": "The sons of Shem: Elam, Asshur, Arphaxad, Lud, and Aram.",
-      "links": "<a href='/AIV/1/10/22'>Gen. 10:22</a>",
-      "comment": "From Shem would come Abraham and eventually Israel, showing how God’s plan works through specific historical people."
+      "text": "The descendants of Shem: Elam, Asshur, Arpachshad, Lud, Aram, Uz, Hul, Gether, and Meshech.",
+      "links": [
+        "Gen 10:22-23",
+        "Gen 11:10-27",
+        "Luke 3:36"
+      ],
+      "comment": "This verse lists Shem’s sons, who became progenitors of ancient Near Eastern peoples; their names represent the nations descending from Shem, including Assyria, Elam, and Aram (see Genesis 10:22-23)."
     },
     {
       "pk": 13001018,
@@ -218,9 +233,13 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 18,
-      "text": "The sons of Aram: Uz, Hul, Gether, and Meshech.",
-      "links": "<a href='/AIV/1/10/23'>Gen. 10:23</a>",
-      "comment": "Uz becomes significant as Job’s homeland (<a href='/AIV/18/1/1'>Job 1:1</a>), linking wisdom literature to this genealogy."
+      "text": "Arpachshad became the father of Shelah; and Shelah became the father of Eber.",
+      "links": [
+        "Gen 10:24",
+        "Gen 11:12-14",
+        "Luke 3:35"
+      ],
+      "comment": "The genealogy narrows to Arpachshad, Shelah, and Eber, highlighting the lineage through which the Hebrew people emerge, as Eber is considered the ancestor of the 'Hebrews' (cf. Genesis 10:24; 11:14-16)."
     },
     {
       "pk": 13001019,
@@ -230,9 +249,9 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 19,
-      "text": "Arphaxad fathered Shelah, Shelah fathered Eber.",
-      "links": "<a href='/AIV/1/10/24'>Gen. 10:24</a>; <a href='/AIV/42/3/35'>Luke 3:35</a>",
-      "comment": "Eber is considered the ancestor of the Hebrews—later on, this connection brings us closer to Abraham, and ultimately to the Messiah."
+      "text": "To Eber were born two sons: the name of the one was Peleg, for in his days the earth was divided, and his brother’s name was Joktan.",
+      "links": "<a href='/AIV/1/10/25'>Genesis 10:25</a>, <a href='/AIV/1/11/16-19'>Genesis 11:16-19</a>",
+      "comment": "Peleg’s name recalls the 'division' of languages at Babel—a pivotal event in the story of humanity’s dispersion and eventual restoration."
     },
     {
       "pk": 13001020,
@@ -242,9 +261,9 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 20,
-      "text": "To Eber were born two sons: Peleg, for in his days the earth was divided, and Joktan.",
-      "links": "<a href='/AIV/1/10/25'>Gen. 10:25</a>",
-      "comment": "The division of the earth may refer to the scattering after Babel. The genealogies serve as testimony to God’s sovereignty over creation."
+      "text": "Joktan fathered Almodad, Sheleph, Hazarmaveth, Jerah,",
+      "links": "<a href='/AIV/1/10/26'>Genesis 10:26</a>",
+      "comment": "Names surrounding Joktan indicate diverse tribes scattered over Arabia, a sign of humanity's reach and the universality of redemption."
     },
     {
       "pk": 13001021,
@@ -254,9 +273,9 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 21,
-      "text": "Joktan fathered Almodad, Sheleph, Hazarmaveth, Jerah,",
-      "links": "<a href='/AIV/1/10/26'>Gen. 10:26</a>",
-      "comment": "The line of Joktan connects to Arabian tribes, expanding the map of biblical peoples."
+      "text": "Hadoram, Uzal, Diklah,",
+      "links": "<a href='/AIV/1/10/27'>Genesis 10:27</a>",
+      "comment": "Genealogy repeats, showing the unity of Scripture. These lines reinforce the historicity and continuity of God’s work."
     },
     {
       "pk": 13001022,
@@ -266,9 +285,9 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 22,
-      "text": "Hadoram, Uzal, Diklah,",
-      "links": "<a href='/AIV/1/10/27'>Gen. 10:27</a>",
-      "comment": "The descendants continue, showing the fruitfulness and spread of humanity."
+      "text": "Obal, Abimael, Sheba,",
+      "links": "<a href='/AIV/1/10/28'>Genesis 10:28</a>",
+      "comment": "Sheba is important for later prophecies (see <a href='/AIV/19/72/10'>Psalm 72:10</a>), spiritually fulfilled in the coming of the Magi (Matthew 2)."
     },
     {
       "pk": 13001023,
@@ -278,9 +297,9 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 23,
-      "text": "Obal, Abimael, Sheba,",
-      "links": "<a href='/AIV/1/10/28'>Gen. 10:28</a>",
-      "comment": "Sheba is a notable name, later visited by the queen in Solomon’s time (<a href='/AIV/11/10/1'>1 Kings 10:1</a>)."
+      "text": "Ophir, Havilah, and Jobab. All these were the sons of Joktan.",
+      "links": "<a href='/AIV/1/10/29'>Genesis 10:29</a>",
+      "comment": "Ophir is noted for riches, linking to wisdom traditions and the glory of Solomon, a type of Christ's kingship."
     },
     {
       "pk": 13001024,
@@ -290,9 +309,12 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 24,
-      "text": "Ophir, Havilah, and Jobab. All these were the sons of Joktan.",
-      "links": "<a href='/AIV/1/10/29'>Gen. 10:29</a>",
-      "comment": "Ophir’s riches are symbolic of divine favor and provision. Jobab's name is associated with wisdom traditions."
+      "text": "Shem, Arpachshad, Shelah;",
+      "links": [
+        "Gen 11:10-12",
+        "Luke 3:35-36"
+      ],
+      "comment": "This condensed genealogy emphasizes the chosen line from Shem to Shelah, preparing for the introduction of Abraham’s ancestry, underscoring God’s purpose through particular generations."
     },
     {
       "pk": 13001025,
@@ -302,9 +324,12 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 25,
-      "text": "Shem, Arphaxad, Shelah,",
-      "links": "<a href='/AIV/1/11/10-12'>Gen. 11:10-12</a>",
-      "comment": "Returning to the line of Shem sets the focus on the story that leads to Abraham, the covenant, and eventually Christ."
+      "text": "Eber, Peleg, Reu;",
+      "links": [
+        "Gen 11:16-18",
+        "Luke 3:35"
+      ],
+      "comment": "Eber’s descendants Peleg and Reu continue the line leading to Abraham, with Peleg notably linked to the division of peoples (Genesis 10:25), situating the genealogical list within the framework of early post-Flood history."
     },
     {
       "pk": 13001026,
@@ -314,9 +339,12 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 26,
-      "text": "Eber, Peleg, Reu,",
-      "links": "<a href='/AIV/1/11/16-18'>Gen. 11:16-18</a>",
-      "comment": "The genealogical repetition highlights the sacred transmission of generational blessing, a theme found throughout Scripture."
+      "text": "Serug, Nahor, Terah;",
+      "links": [
+        "Gen 11:20-24",
+        "Luke 3:34"
+      ],
+      "comment": "Serug, Nahor, and Terah are listed as patriarchs bridging the antediluvian world and the Abrahamic covenant, underscoring continuity in salvation history (cf. Genesis 11:20-26)."
     },
     {
       "pk": 13001027,
@@ -326,9 +354,13 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 27,
-      "text": "Serug, Nahor, Terah,",
-      "links": "<a href='/AIV/1/11/20-24'>Gen. 11:20-24</a>",
-      "comment": "Terah is the father of Abraham, signifying the transition toward God’s chosen people."
+      "text": "Abram, that is, Abraham.",
+      "links": [
+        "Gen 11:26-27",
+        "Gen 17:5",
+        "Luke 3:34"
+      ],
+      "comment": "Abram, renamed Abraham, marks a major transition—the beginning of God’s covenant with a chosen people; the Chronicler highlights him as a foundational figure (Genesis 17:5)."
     },
     {
       "pk": 13001028,
@@ -338,10 +370,13 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 28,
-      "text": "Abram, that is, Abraham.",
-      "links": "<a href='/AIV/1/11/26-29'>Gen. 11:26-29</a>; <a href='/AIV/1/17/5'>Gen. 17:5</a>",
-      "comment": "The change from Abram to Abraham reflects God's covenant and promise. Abraham becomes a type of faith for both Jews and Christians (<a href='/AIV/45/4/1-3'>Rom. 4:1-3</a>).",
-      "sectionHeader": "The Descendants of Abraham"
+      "text": "The sons of Abraham: Isaac and Ishmael.",
+      "links": [
+        "Gen 16:15",
+        "Gen 21:3",
+        "Rom 9:7"
+      ],
+      "comment": "Isaac and Ishmael indicate the two main branches of Abraham’s descendants, reflecting the formation of Israel and many surrounding nations (cf. Genesis 21-25)."
     },
     {
       "pk": 13001029,
@@ -351,9 +386,12 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 29,
-      "text": "The sons of Abraham: Isaac and Ishmael.",
-      "links": "<a href='/AIV/1/16/15'>Gen. 16:15</a>; <a href='/AIV/1/21/3'>Gen. 21:3</a>",
-      "comment": "The two sons mark the distinction between the nations and the line of promise. Isaac’s line is crucial for God’s redemptive plan."
+      "text": "These are their genealogies: the firstborn of Ishmael, Nebaioth; and Kedar, Adbeel, Mibsam,",
+      "links": [
+        "Gen 25:13",
+        "Isa 60:7"
+      ],
+      "comment": "Ishmael’s sons, starting with Nebaioth and Kedar, illustrate the fulfillment of God’s promise that Ishmael would be a father of twelve princes (Genesis 17:20)."
     },
     {
       "pk": 13001030,
@@ -363,9 +401,12 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 30,
-      "text": "These are their descendants: The firstborn of Ishmael, Nebaioth, then Kedar, Adbeel, Mibsam,",
-      "links": "<a href='/AIV/1/25/13'>Gen. 25:13</a>",
-      "comment": "The descendants of Ishmael become Arab tribes, illustrating the vastness of God’s creation and care for all nations."
+      "text": "Mishma, Dumah, Massa, Hadad, Tema,",
+      "links": [
+        "Gen 25:14",
+        "Isa 21:13-17"
+      ],
+      "comment": "This list continues Ishmael’s princes, many of whom became tribal leaders across Arabia, highlighting the broad scope of Abraham’s legacy (Genesis 25:13-15)."
     },
     {
       "pk": 13001031,
@@ -375,9 +416,11 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 31,
-      "text": "Mishma, Dumah, Massa, Hadad, Tema,",
-      "links": "<a href='/AIV/1/25/14'>Gen. 25:14</a>",
-      "comment": "Many of these names are later associated with regions or towns mentioned by prophets, showing continuity of history."
+      "text": "Jetur, Naphish, and Kedemah. These are the sons of Ishmael.",
+      "links": [
+        "Gen 25:15-16"
+      ],
+      "comment": "The enumeration of Ishmael's sons completes his genealogy, emphasizing the proliferation of Abraham’s seed beyond Israel, consistent with God's blessing to Hagar (Genesis 25:16)."
     },
     {
       "pk": 13001032,
@@ -387,9 +430,12 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 32,
-      "text": "Jetur, Naphish, and Kedemah. These are the sons of Ishmael.",
-      "links": "<a href='/AIV/1/25/15'>Gen. 25:15</a>",
-      "comment": "The completeness of the list demonstrates the inclusivity of divine providence—the Lord doesn’t forget any tribe."
+      "text": "The sons of Keturah, Abraham’s concubine: she bore Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah. The sons of Jokshan: Sheba and Dedan.",
+      "links": [
+        "Gen 25:1-3",
+        "Gen 10:7"
+      ],
+      "comment": "Keturah’s sons, including Jokshan (whose sons Sheba and Dedan are named), represent additional descendants of Abraham, many of whom are associated with Arabian tribes (Genesis 25:1-4)."
     },
     {
       "pk": 13001033,
@@ -399,9 +445,13 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 33,
-      "text": "The sons of Keturah, Abraham's concubine: she bore Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah. The sons of Jokshan: Sheba and Dedan.",
-      "links": "<a href='/AIV/1/25/1-4'>Gen. 25:1-4</a>",
-      "comment": "Keturah’s sons broaden the scope of Abraham’s legacy. Midian’s descendants become significant later in the Exodus story."
+      "text": "The sons of Midian: Ephah, Epher, Hanoch, Abida, and Eldaah. All these were the descendants of Keturah.",
+      "links": [
+        "Gen 25:4",
+        "Judg 6:1",
+        "Isa 60:6"
+      ],
+      "comment": "Midian’s sons are listed, Midian being a significant group in biblical history (e.g., Moses' sojourn in Midian), showing that Abraham's offspring influenced various peoples and events (Exodus 2:15; Judges 6:1-5)."
     },
     {
       "pk": 13001034,
@@ -411,9 +461,14 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 34,
-      "text": "The sons of Midian: Ephah, Epher, Hanoch, Abida, and Eldaah. All these were the descendants of Keturah.",
-      "links": "<a href='/AIV/1/25/4'>Gen. 25:4</a>",
-      "comment": "This genealogy is a testament to the fruitfulness connected with faithfulness to God."
+      "text": "Abraham became the father of Isaac. The sons of Isaac: Esau and Israel.",
+      "links": [
+        "Gen 21:3",
+        "Gen 25:25-26",
+        "Rom 9:6-13"
+      ],
+      "comment": "The genealogy returns to the chosen line through Isaac, differentiating Esau (the ancestor of Edom) and Israel (Jacob), affirming the unique role of Jacob in covenant history (Genesis 25:19-26).",
+      "sectionHeader": "The Descendants of Esau"
     },
     {
       "pk": 13001035,
@@ -423,10 +478,12 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 35,
-      "text": "Abraham fathered Isaac. The sons of Isaac: Esau and Israel.",
-      "links": "<a href='/AIV/1/25/19-26'>Gen. 25:19-26</a>; <a href='/AIV/1/32/28'>Gen. 32:28</a>",
-      "comment": "Jacob (Israel) becomes the father of the twelve tribes, the chosen people. The narrative moves closer to the formation of God’s priestly nation.",
-      "sectionHeader": "The Descendants of Esau and Seir"
+      "text": "The sons of Esau: Eliphaz, Reuel, Jeush, Jalam, and Korah.",
+      "links": [
+        "Gen 36:4-5",
+        "Gen 36:10-11"
+      ],
+      "comment": "Esau’s sons are identified, representing tribal leaders of Edom, whose ongoing relationship and rivalry with Israel shaped much of the Old Testament narrative (Genesis 36:10-11)."
     },
     {
       "pk": 13001036,
@@ -436,9 +493,9 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 36,
-      "text": "The sons of Esau: Eliphaz, Reuel, Jeush, Jalam, and Korah.",
-      "links": "<a href='/AIV/1/36/4-5'>Gen. 36:4-5</a>",
-      "comment": "Esau’s descendants form the Edomites, perennial neighbors and adversaries of Israel."
+      "text": "The sons of Eliphaz: Teman, Omar, Zepho, Gatam, Kenaz, and by Timna, Amalek.",
+      "links": "<a href='/AIV/1/36/11-12'>Genesis 36:11-12</a>",
+      "comment": "Amalek is significant as a later enemy of Israel. Many names here become tribal leaders."
     },
     {
       "pk": 13001037,
@@ -448,9 +505,9 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 37,
-      "text": "The sons of Eliphaz: Teman, Omar, Zephi, Gatam, Kenaz, and by Timna, Amalek.",
-      "links": "<a href='/AIV/1/36/11-12'>Gen. 36:11-12</a>",
-      "comment": "Amalek becomes a major adversary of Israel in the desert, reflecting ongoing spiritual conflict."
+      "text": "The sons of Reuel: Nahath, Zerah, Shammah, and Mizzah.",
+      "links": "<a href='/AIV/1/36/13'>Genesis 36:13</a>",
+      "comment": "The specificity in genealogy demonstrates the thoroughness and reliability of the Bible as historical record."
     },
     {
       "pk": 13001038,
@@ -460,9 +517,9 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 38,
-      "text": "The sons of Reuel: Nahath, Zerah, Shammah, and Mizzah.",
-      "links": "<a href='/AIV/1/36/13'>Gen. 36:13</a>",
-      "comment": "The repetition of names highlights historical continuity, preparing for national rivalries in later narratives."
+      "text": "The sons of Seir: Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, and Dishan.",
+      "links": "<a href='/AIV/1/36/20-21'>Genesis 36:20-21</a>",
+      "comment": "Seir’s descendants become the Horite chiefs. These details ground later narratives in the shared land and history."
     },
     {
       "pk": 13001039,
@@ -472,9 +529,9 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 39,
-      "text": "The sons of Seir: Lotan, Shobal, Zibeon, Anah,",
-      "links": "<a href='/AIV/1/36/20'>Gen. 36:20</a>",
-      "comment": "These tribal chiefs formed the inhabitants of the land before Israel, with Lotan and others often cited as 'dukes.'"
+      "text": "The sons of Lotan: Hori and Hemam; and Lotan’s sister was Timna.",
+      "links": "<a href='/AIV/1/36/22'>Genesis 36:22</a>",
+      "comment": "Timna is unusual, included by name, showing the inclusive detail of biblical genealogy which anticipates the spiritual equality of all in God’s plan."
     },
     {
       "pk": 13001040,
@@ -484,9 +541,9 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 40,
-      "text": "Dishon, Ezer, and Dishan.",
-      "links": "<a href='/AIV/1/36/21'>Gen. 36:21</a>",
-      "comment": "These sons represent important tribal figures in Edomite history."
+      "text": "The sons of Shobal: Alvan, Manahath, Ebal, Shepho, and Onam. The sons of Zibeon: Aiah and Anah.",
+      "links": "<a href='/AIV/1/36/23-24'>Genesis 36:23-24</a>",
+      "comment": "Shobal and Zibeon’s descendants are listed as tribal leaders. These records display the fullness of God’s providence, which orders all families for a purpose."
     },
     {
       "pk": 13001041,
@@ -496,9 +553,9 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 41,
-      "text": "The sons of Lotan: Hori and Homam. The sister of Lotan was Timna.",
-      "links": "<a href='/AIV/1/36/22'>Gen. 36:22</a>",
-      "comment": "Highlighting Timna’s name, the text credits significant women in the formation of foreign tribes."
+      "text": "The sons of Anah: Dishon. The sons of Dishon: Hemdan, Eshban, Ithran, and Keran.",
+      "links": "<a href='/AIV/1/36/26'>Genesis 36:26</a>",
+      "comment": "This genealogy matches Genesis 36:26, showing the close connection between Chronicles and Genesis genealogies. These details underscore God's providential ordering of the nations, a recurrent biblical theme."
     },
     {
       "pk": 13001042,
@@ -508,9 +565,9 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 42,
-      "text": "The sons of Shobal: Alian, Manahath, Ebal, Shephi, and Onam. The sons of Zibeon: Aiah and Anah.",
-      "links": "<a href='/AIV/1/36/23-24'>Gen. 36:23-24</a>",
-      "comment": "The detailed lineages connect major regional tribes to specific ancestors, strengthening the biblical record's reliability."
+      "text": "The sons of Ezer: Bilhan, Zaavan, and Akan. The sons of Dishan: Uz and Aran.",
+      "links": "<a href='/AIV/1/36/27-28'>Genesis 36:27-28</a>",
+      "comment": "Uz is notably mentioned as the land where Job dwelled (<a href='/AIV/18/1/1'>Job 1:1</a>), connecting this genealogy to later wisdom literature. This hints at the unity of the Scriptures and the broad sweep of salvation history."
     },
     {
       "pk": 13001043,
@@ -520,10 +577,9 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 43,
-      "text": "The sons of Anah: Dishon. The sons of Dishon: Hemdan, Eshban, Ithran, and Cheran.",
-      "links": "<a href='/AIV/1/36/25-26'>Gen. 36:25-26</a>",
-      "comment": "Names reflect the complexity of Edomite tribal leadership and offer historical context for later conflicts.",
-      "sectionHeader": "The Kings and Chiefs of Edom"
+      "text": "These are the kings who reigned in the land of Edom before any king reigned over the Israelites: Bela the son of Beor, and the name of his city was Dinhabah.",
+      "links": "<a href='/AIV/1/36/31'>Genesis 36:31</a>",
+      "comment": "The chronicler highlights the pre-Israelite governance in Edom. This anticipates Israel's later monarchy, seen as part of God’s greater plan for a unified kingdom."
     },
     {
       "pk": 13001044,
@@ -533,9 +589,9 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 44,
-      "text": "The sons of Ezer: Bilhan, Zaavan, and Akan. The sons of Dishan: Uz and Aran.",
-      "links": "<a href='/AIV/1/36/27-28'>Gen. 36:27-28</a>",
-      "comment": "The close attention to genealogy underpins the importance of heritage and the passing of leadership."
+      "text": "Bela died, and Jobab the son of Zerah from Bozrah reigned in his place.",
+      "links": "<a href='/AIV/1/36/33'>Genesis 36:33</a>",
+      "comment": "‘Bozrah’ is later prophetically referenced as a place of judgment (<a href='/AIV/23/34/6'>Isaiah 34:6</a>), which alludes to future theological themes of kingship and Messianic expectation."
     },
     {
       "pk": 13001045,
@@ -545,9 +601,9 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 45,
-      "text": "These are the kings who reigned in the land of Edom before any king reigned over the Israelites: Bela son of Beor; his city was Dinhabah.",
-      "links": "<a href='/AIV/1/36/31-32'>Gen. 36:31-32</a>",
-      "comment": "Chronicles emphasizes God’s timing—that the Edomites had kings before Israel, foreshadowing Israel’s future monarchy and a divinely ordained order."
+      "text": "Jobab died, and Husham of the land of the Temanites reigned in his place.",
+      "links": "<a href='/AIV/1/36/34'>Genesis 36:34</a>",
+      "comment": "Teman is noted elsewhere as a region of wisdom (<a href='/AIV/24/49/7'>Jeremiah 49:7</a>), reinforcing theological connections between Edom and Israel’s story."
     },
     {
       "pk": 13001046,
@@ -557,9 +613,9 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 46,
-      "text": "When Bela died, Jobab son of Zerah from Bozrah became king.",
-      "links": "<a href='/AIV/1/36/33'>Gen. 36:33</a>",
-      "comment": "Each king’s succession underlines order and governance, themes picked up in later descriptions of Israel’s kings."
+      "text": "Husham died, and Hadad the son of Bedad, who struck down Midian in the field of Moab, reigned in his place. The name of his city was Avith.",
+      "links": "<a href='/AIV/1/36/35'>Genesis 36:35</a>",
+      "comment": "The reference to Hadad’s military victory shows God’s sovereignty in national events. These accounts of Edomite kings prefigure the significance of anointed kingship in Israel."
     },
     {
       "pk": 13001047,
@@ -569,9 +625,9 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 47,
-      "text": "When Jobab died, Husham from the land of the Temanites became king.",
-      "links": "<a href='/AIV/1/36/34'>Gen. 36:34</a>",
-      "comment": "Teman is later referenced by prophets as a place of wisdom (<a href='/AIV/24/49/7'>Jer. 49:7</a>)."
+      "text": "Hadad died, and Samlah of Masrekah reigned in his place.",
+      "links": "<a href='/AIV/1/36/36'>Genesis 36:36</a>",
+      "comment": "The sequential listing of kings builds a sense of historical continuity, seen later in Israel's own royal line ending ultimately in Christ, the true King (<a href='/AIV/40/1/1'>Matthew 1:1</a>)."
     },
     {
       "pk": 13001048,
@@ -581,9 +637,9 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 48,
-      "text": "When Husham died, Hadad son of Bedad, who defeated Midian in the fields of Moab, became king; his city was Avith.",
-      "links": "<a href='/AIV/1/36/35'>Gen. 36:35</a>",
-      "comment": "Hadad’s military victory connects Edom to the greater regional conflicts that affect Israel’s history."
+      "text": "Samlah died, and Shaul of Rehoboth by the River reigned in his place.",
+      "links": "<a href='/AIV/1/36/37'>Genesis 36:37</a>",
+      "comment": "‘Rehoboth by the River’ remains a somewhat mysterious location. The chronicling of foreign kings provides historical context demonstrating God’s providence over even the nations beyond Israel."
     },
     {
       "pk": 13001049,
@@ -593,9 +649,9 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 49,
-      "text": "When Hadad died, Samlah from Masrekah became king.",
-      "links": "<a href='/AIV/1/36/36'>Gen. 36:36</a>",
-      "comment": "The orderly succession underscores the importance of legitimate rule."
+      "text": "Shaul died, and Baal-hanan the son of Achbor reigned in his place.",
+      "links": "<a href='/AIV/1/36/38'>Genesis 36:38</a>",
+      "comment": "The recurring kingly succession hints at the persistence of authority and structure, which later comes to fullness in God's establishment of the House of David (<a href='/AIV/10/7/16'>2 Samuel 7:16</a>)."
     },
     {
       "pk": 13001050,
@@ -605,9 +661,9 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 50,
-      "text": "When Samlah died, Shaul from Rehoboth on the river became king.",
-      "links": "<a href='/AIV/1/36/37'>Gen. 36:37</a>",
-      "comment": "The mention of rivers often symbolizes prosperity and blessing throughout Scripture."
+      "text": "Baal-hanan died, and Hadad reigned in his place. The name of his city was Pai; and his wife’s name was Mehetabel, the daughter of Matred, the daughter of Mezahab.",
+      "links": "<a href='/AIV/1/36/39'>Genesis 36:39</a>",
+      "comment": "Mehetabel is unique among these lists as a woman’s name is preserved, underscoring the importance of genealogy for both legal and theological reasons in biblical history."
     },
     {
       "pk": 13001051,
@@ -617,9 +673,9 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 51,
-      "text": "When Shaul died, Baal-Hanan son of Akbor became king.",
-      "links": "<a href='/AIV/1/36/38'>Gen. 36:38</a>",
-      "comment": "Baal-Hanan’s name reflects the interaction between Yahweh’s people and their neighbors."
+      "text": "Hadad died. Chiefs of Edom were: Timna, Alvah, Jetheth,",
+      "links": "<a href='/AIV/1/36/40'>Genesis 36:40</a>",
+      "comment": "With Hadad’s death, the list transitions from individual kings to chiefs, marking a new stage in Edomite society. Leadership structures are a recurring pattern in Scripture, reflecting order instituted by God."
     },
     {
       "pk": 13001052,
@@ -629,9 +685,9 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 52,
-      "text": "When Baal-Hanan died, Hadad became king; his city was Pai. His wife’s name was Mehetabel, daughter of Matred, daughter of Mezahab.",
-      "links": "<a href='/AIV/1/36/39'>Gen. 36:39</a>",
-      "comment": "References to queens show women’s importance in ancient dynastic continuity."
+      "text": "Oholibamah, Elah, Pinon,",
+      "links": "<a href='/AIV/1/36/41'>Genesis 36:41</a>",
+      "comment": "Oholibamah is another example of a woman whose name is featured, signifying the comprehensive nature of biblical genealogies and possibly hinting at spiritual allegories found later in prophetic books."
     },
     {
       "pk": 13001053,
@@ -641,9 +697,9 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 53,
-      "text": "Then Hadad died. These were the chiefs of Edom: chief Timna, chief Aliah, chief Jetheth,",
-      "links": "<a href='/AIV/1/36/40'>Gen. 36:40</a>",
-      "comment": "The tribal chiefs listed here reflect the structured governance, mirrored in the twelve tribes of Israel."
+      "text": "Kenaz, Teman, Mibzar,",
+      "links": "<a href='/AIV/1/36/42'>Genesis 36:42</a>",
+      "comment": "Kenaz and Teman represent lineages connected with wisdom and strength (<a href='/AIV/18/2/11'>Job 2:11</a>). Such genealogical listings are critical for understanding the structure and continuity of God’s people."
     },
     {
       "pk": 13001054,
@@ -653,37 +709,10 @@
       "bookAbbreviation": "1Chr",
       "chapter": 1,
       "verse": 54,
-      "text": "chief Oholibamah, chief Elah, chief Pinon, chief Kenaz, chief Teman, chief Mibzar, chief Magdiel, and chief Iram. These were the chiefs of Edom.",
-      "links": "<a href='/AIV/1/36/41-43'>Gen. 36:41-43</a>",
-      "comment": "The enumeration finishes with a completeness that points to God’s wisdom in order and governance. It also sets up the conflict and distinction between Israel and neighboring peoples, paving the way for fulfillment in God’s chosen line which ultimately leads to Christ."
+      "text": "Magdiel, and Iram—these are the chiefs of Edom.",
+      "links": "<a href='/AIV/1/36/43'>Genesis 36:43</a>",
+      "comment": "The chronicler’s record ends here for the Edomite chiefs, setting the stage for Israel’s distinctive calling among the nations and the eventual fulfillment of God’s promises in Christ (<a href='/AIV/42/4/17'>Luke 4:17-21</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T04:03:42.088Z",
-  "sections": [
-    {
-      "title": "The Descendants of Adam to Noah",
-      "startVerse": 1,
-      "endVerse": 4
-    },
-    {
-      "title": "The Descendants of Noah’s Sons",
-      "startVerse": 5,
-      "endVerse": 27
-    },
-    {
-      "title": "The Descendants of Abraham",
-      "startVerse": 28,
-      "endVerse": 34
-    },
-    {
-      "title": "The Descendants of Esau and Seir",
-      "startVerse": 35,
-      "endVerse": 42
-    },
-    {
-      "title": "The Kings and Chiefs of Edom",
-      "startVerse": 43,
-      "endVerse": 54
-    }
-  ]
+  "translatedAt": "2025-12-28T05:03:32.665Z"
 }

@@ -38,7 +38,11 @@
       "chapter": 2,
       "verse": 3,
       "text": "When King Herod heard this, he was deeply troubled, and all Jerusalem with him.",
-      "links": "",
+      "links": [
+        "Ex 1:8-10",
+        "Matt 21:10",
+        "Luke 23:5"
+      ],
       "comment": "Herod's anxiety is due to the threat to his reign, but Jerusalem's disturbance shows that the news of the Messiah had deep social implications, revealing political and spiritual expectations."
     },
     {
@@ -86,7 +90,11 @@
       "chapter": 2,
       "verse": 7,
       "text": "Then Herod secretly called the wise men and learned from them the exact time the star had appeared.",
-      "links": "",
+      "links": [
+        "Num 24:17",
+        "Matt 2:16",
+        "Luke 2:15"
+      ],
       "comment": "Herod’s secrecy exposes his intent to manipulate God’s plan. The time of the star’s appearance helps date Jesus’ birth, showing God’s intervention in history."
     },
     {
@@ -98,7 +106,11 @@
       "chapter": 2,
       "verse": 8,
       "text": "He sent them to Bethlehem and said, \"Go and search carefully for the child. When you have found him, report to me, so that I may also go and worship him.\"",
-      "links": "",
+      "links": [
+        "Matt 2:13",
+        "Ps 55:21",
+        "Mark 14:1"
+      ],
       "comment": "Herod’s claim to want to worship is deceptive, contrasting authentic worship offered by the wise men. True worship involves sincere submission to Christ."
     },
     {
@@ -122,7 +134,11 @@
       "chapter": 2,
       "verse": 10,
       "text": "When they saw the star, they rejoiced with great joy.",
-      "links": "",
+      "links": [
+        "Luke 2:10",
+        "John 16:22",
+        "Ps 119:162"
+      ],
       "comment": "The Magi’s joy indicates the inner response to a genuine encounter with God's revelation (see Ps. 118:24), suggesting the need for a joyful and obedient approach to revelation."
     },
     {
@@ -257,7 +273,11 @@
       "chapter": 2,
       "verse": 21,
       "text": "So he got up, took the child and his mother, and entered the land of Israel.",
-      "links": "",
+      "links": [
+        "Ex 4:19",
+        "Matt 2:14",
+        "Luke 2:39"
+      ],
       "comment": "Joseph's careful guardianship underlines the need for listening to divine guidance and the responsible use of authority within the family, reminiscent of biblical headship."
     },
     {
@@ -269,7 +289,11 @@
       "chapter": 2,
       "verse": 22,
       "text": "But when he heard that Archelaus was ruling over Judea in place of his father Herod, he was afraid to go there. Having been warned in a dream, he withdrew to the region of Galilee.",
-      "links": "",
+      "links": [
+        "Matt 2:12",
+        "Luke 3:1",
+        "John 7:1"
+      ],
       "comment": "Again, divine direction through dreams protects the holy family and brings them to Galilee, which will be pivotal in Jesus’ ministry and fulfillment of prophecy (see Isa. 9:1-2)."
     },
     {

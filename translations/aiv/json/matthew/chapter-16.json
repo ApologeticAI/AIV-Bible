@@ -26,7 +26,10 @@
       "chapter": 16,
       "verse": 2,
       "text": "He answered them, \"When it is evening, you say, ‘It will be fair weather, for the sky is red.’",
-      "links": "",
+      "links": [
+        "Luke 12:54-56",
+        "Matt 16:3"
+      ],
       "comment": "Jesus relates their ability to interpret natural signs but implies their spiritual blindness regarding heavenly signs."
     },
     {
@@ -87,7 +90,10 @@
       "chapter": 16,
       "verse": 7,
       "text": "And they began discussing among themselves, saying, \"It is because we did not bring any bread.\"",
-      "links": "",
+      "links": [
+        "Mark 8:16",
+        "Luke 24:17"
+      ],
       "comment": "The disciples misunderstand Jesus’ warning, focusing on literal bread instead of the spiritual meaning."
     },
     {
@@ -135,7 +141,10 @@
       "chapter": 16,
       "verse": 11,
       "text": "How is it you don’t understand that I was not talking to you about bread? But beware of the yeast of the Pharisees and Sadducees.\"",
-      "links": "",
+      "links": [
+        "Mark 8:15",
+        "Luke 12:1"
+      ],
       "comment": "Jesus clarifies that his teaching is spiritual, warning against false and divisive doctrines."
     },
     {
@@ -147,7 +156,11 @@
       "chapter": 16,
       "verse": 12,
       "text": "Then they understood that He was not telling them to be on guard against yeast in bread, but against the teaching of the Pharisees and Sadducees.",
-      "links": "",
+      "links": [
+        "Mark 8:15",
+        "Luke 12:1",
+        "Matt 23:15"
+      ],
       "comment": "Jesus instructs the apostles to discern doctrine carefully, which is foundational for the future unity and authority of the Church."
     },
     {
@@ -282,7 +295,7 @@
       "verse": 23,
       "text": "But He turned and said to Peter, \"Get behind Me, Satan! You are a stumbling block to Me; for you are not setting your mind on the things of God, but on the things of man.\"",
       "links": "<a href='/AIV/40/4/10'>Matt. 4:10</a>; <a href='/AIV/19/119/165'>Ps. 119:165</a>",
-      "comment": "Peter is rebuked for misunderstanding the will of God; Christ’s authority here is absolute, correcting even the head apostle. The term ‘Satan’ here means ‘adversary’."
+      "comment": "Jesus rebukes Peter sharply, equating his worldly mindset with satanic opposition—highlighting that insisting Jesus avoid suffering contradicts God's redemptive purpose; this echoes Jesus' earlier wilderness temptation (Matthew 4:10) and underscores the tension between human expectations of the Messiah and God's plan (Isaiah 53)."
     },
     {
       "pk": 47016024,

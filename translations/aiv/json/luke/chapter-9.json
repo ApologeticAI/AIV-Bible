@@ -682,7 +682,11 @@
       "chapter": 9,
       "verse": 56,
       "text": "And they went on to another village.",
-      "links": "",
+      "links": [
+        "Matt 10:14",
+        "Mark 6:11",
+        "Acts 13:51"
+      ],
       "comment": "The mission moves forward in peace, even in the face of rejection. The Church’s advance does not depend on compulsion or violence."
     },
     {

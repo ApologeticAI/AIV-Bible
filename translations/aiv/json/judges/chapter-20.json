@@ -172,7 +172,7 @@
       "verse": 14,
       "text": "But the Benjaminites gathered together out of the cities to Gibeah, to go out to battle against the people of Israel.",
       "links": "<a href='/AIV/7/20/20'>Judg. 20:20</a>",
-      "comment": "Benjamin’s stubbornness leads to division and conflict; this warns against prideful defense of evil, rather than submitting to communal correction.",
+      "comment": "The Benjaminites’ decision to defend Gibeah reveals strong tribal loyalty overriding national unity, a recurring theme in Judges (cf. Judges 19:29–20:13), and foreshadows devastating civil conflict within Israel.",
       "sectionHeader": "Civil War with Benjamin"
     },
     {
@@ -280,9 +280,13 @@
       "bookAbbreviation": "Judg",
       "chapter": 20,
       "verse": 23,
-      "text": "Then the children of Israel went up and wept before the LORD until evening, and inquired of the LORD, saying, 'Shall we again draw near to battle against our brothers, the Benjaminites?' And the LORD said, 'Go up against them.'",
-      "links": "<a href='/AIV/7/20/28'>Judg. 20:28</a>",
-      "comment": "Their appeal to God through prayer and tears suggests that even rightful zeal must be refined by humility and submission to God."
+      "text": "And the people of Israel went up and wept before the LORD until evening. And they inquired of the LORD, saying, \"Shall we again draw near to battle against our brethren the Benjaminites?\" And the LORD said, \"Go up against them.\"",
+      "links": [
+        "Judg 20:18",
+        "Num 14:39-45",
+        "1 Sam 8:6"
+      ],
+      "comment": "Israel’s lament and inquiry before the LORD underscores their spiritual struggle with fighting fellow Israelites; God’s command to 'go up' highlights both divine justice against evil (cf. Judges 20:13) and the complexities of intra-tribal warfare."
     },
     {
       "pk": 7020024,
@@ -293,7 +297,10 @@
       "chapter": 20,
       "verse": 24,
       "text": "So the children of Israel drew near against the children of Benjamin on the second day.",
-      "links": "",
+      "links": [
+        "Judg 20:19",
+        "Judg 20:30"
+      ],
       "comment": "Persistence in just action, even after suffering loss, conveys trust in God's justice."
     },
     {
@@ -379,7 +386,7 @@
       "verse": 31,
       "text": "The Benjaminites went out against the people, and were drawn away from the city; and, as at other times, they began to strike and kill some of the people in the highways, one of which goes up to Bethel and the other to Gibeah, and in the field about thirty men of Israel.",
       "links": "<a href='/AIV/7/20/39'>Judg. 20:39</a>",
-      "comment": "Benjamin’s overconfidence repeats prior errors; God's judgment can allow initial success for the purpose of exposing pride."
+      "comment": "Benjamin successfully repeats earlier tactics to ambush Israel (cf. v.21, Josh. 8:6), momentarily gaining confidence and hinting at the cycle of violence and overconfidence seen throughout Israel's history."
     },
     {
       "pk": 7020032,
@@ -390,7 +397,10 @@
       "chapter": 20,
       "verse": 32,
       "text": "The Benjaminites said, 'They are defeated before us, as at the first.' But the children of Israel said, 'Let us flee, and draw them away from the city to the highways.'",
-      "links": "",
+      "links": [
+        "Josh 8:15-16",
+        "Judg 20:39"
+      ],
       "comment": "The wise retreat is part of the ambush plan; the narrative shows that discernment and strategy cooperate with faith."
     },
     {
@@ -402,7 +412,10 @@
       "chapter": 20,
       "verse": 33,
       "text": "And all the men of Israel rose up out of their place, and put themselves in battle order at Baal-tamar; and the men of Israel who were in ambush broke out of their place, even out of Maareh-geba.",
-      "links": "",
+      "links": [
+        "Josh 8:18",
+        "Judg 20:37"
+      ],
       "comment": "The ambush at Baal-tamar underlines the value of unity in obeying a common plan, suggesting the importance of collaboration among God's people."
     },
     {
@@ -426,7 +439,11 @@
       "chapter": 20,
       "verse": 35,
       "text": "And the LORD struck Benjamin before Israel, and the children of Israel destroyed that day twenty-five thousand one hundred men of Benjamin, all of whom drew the sword.",
-      "links": "",
+      "links": [
+        "Ps 44:3",
+        "Judg 20:46",
+        "Deut 32:30"
+      ],
       "comment": "The victory belongs to the LORD, not merely human might—highlighting the principle that ultimate justice rests with God."
     },
     {
@@ -462,7 +479,10 @@
       "chapter": 20,
       "verse": 38,
       "text": "Now the prearranged signal between the men of Israel and the ambush was that when they made a great cloud of smoke rise up from the city,",
-      "links": "",
+      "links": [
+        "Josh 8:20",
+        "Judg 20:40"
+      ],
       "comment": "The coordinated signal mirrors ritual actions with symbolic meaning; visible markers help unite the people in purpose."
     },
     {
@@ -473,9 +493,12 @@
       "bookAbbreviation": "Judg",
       "chapter": 20,
       "verse": 39,
-      "text": "Then the men of Israel turned back, and the men of Benjamin were terrified, for they saw that disaster had come upon them.",
-      "links": "",
-      "comment": "Anxiety at the foe’s success demonstrates how overreliance on human strength fails in the face of God’s justice."
+      "text": "The main body of Israel turned in battle, and Benjamin had begun to strike and kill about thirty men of Israel. They said, \"Surely they are defeated before us, as in the first battle.\"",
+      "links": [
+        "Judg 20:32",
+        "Josh 8:15-16"
+      ],
+      "comment": "Israel’s feigned retreat mirrors earlier battle strategy (Josh. 8:15-16), leading Benjamin to believe victory is secure, thus exposing themes of divine reversal and the dangers of presumption."
     },
     {
       "pk": 7020040,
@@ -498,7 +521,10 @@
       "chapter": 20,
       "verse": 41,
       "text": "And when the men of Israel turned back, the men of Benjamin were dismayed, for they saw that disaster had come upon them.",
-      "links": "",
+      "links": [
+        "Josh 8:20-22",
+        "Judg 7:22"
+      ],
       "comment": "God’s justice brings clarity; the Benjaminites could not escape the consequences of failing to repent."
     },
     {
@@ -510,7 +536,10 @@
       "chapter": 20,
       "verse": 42,
       "text": "Therefore they turned before the men of Israel into the way of the wilderness, but the battle overtook them; and those who came out of the cities destroyed them in the midst of them.",
-      "links": "",
+      "links": [
+        "Deut 28:25",
+        "Judg 20:15"
+      ],
       "comment": "There is no escaping the consequences of moral rebellion; just as in the wilderness, those who rebel sometimes face divine judgment."
     },
     {
@@ -522,7 +551,10 @@
       "chapter": 20,
       "verse": 43,
       "text": "They surrounded the Benjaminites, pursued them, trampled them down as far as Gidreh opposite Gibeah toward the east.",
-      "links": "",
+      "links": [
+        "Ps 118:10-12",
+        "Judg 20:48"
+      ],
       "comment": "Total defeat shows the result of persistent unrepentance within the community of God's people."
     },
     {
@@ -534,8 +566,11 @@
       "chapter": 20,
       "verse": 44,
       "text": "And eighteen thousand men of Benjamin fell, all these were men of valor.",
-      "links": "",
-      "comment": "The mention of the fallen men as 'men of valor' is a tragic note, showing even the brave are lost when they persist in error."
+      "links": [
+        "Judg 20:15",
+        "Judg 20:46"
+      ],
+      "comment": "The immense loss of eighteen thousand valiant Benjaminites illustrates the tragic cost of civil strife, echoing the warning that persistent sin and unrepentance can bring devastation even upon the faithful (cf. Lev. 26:17)."
     },
     {
       "pk": 7020045,
@@ -558,7 +593,11 @@
       "chapter": 20,
       "verse": 46,
       "text": "So all who fell that day of Benjamin were twenty-five thousand men who drew the sword, all of them men of valor.",
-      "links": "",
+      "links": [
+        "Judg 20:35",
+        "Judg 20:44",
+        "1 Sam 4:10"
+      ],
       "comment": "Restates the completeness of the loss—a record of how sin’s destructive power threatens even the strong."
     },
     {
@@ -586,7 +625,7 @@
       "comment": "The utter destruction fulfills command for the removal of evil from the land—later interpreted spiritually as cutting off sin completely (cf. Matt. 5:29-30). Nevertheless, the earlier preservation of a remnant maintains the hope for restoration."
     }
   ],
-  "translatedAt": "2025-12-24T02:42:50.625Z",
+  "translatedAt": "2025-12-28T06:57:33.574Z",
   "sections": [
     {
       "title": "The Israelites Assemble Against Benjamin",

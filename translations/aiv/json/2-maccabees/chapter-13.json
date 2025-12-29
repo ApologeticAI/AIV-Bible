@@ -73,9 +73,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 13,
       "verse": 6,
-      "text": "So Menelaus died by a fate he deserved, and no one mourned his passing.",
-      "links": "<a href='/AIV/9/10/6'>2 Sam. 10:6</a>",
-      "comment": "His death is shown as God’s judgment—a consistent theme, as unfaithful shepherds receive just penalties (see Zechariah 11:17)."
+      "text": "In such a tower, the rim on all sides slopes sharply down into the ashes; so men guilty of sacrilege are pushed to destruction from every side and suffocate there.",
+      "links": [
+        "Lev 10:1-2",
+        "Num 16:35",
+        "Heb 10:29"
+      ],
+      "comment": "This refers to the Hellenistic punishment of 'ashpits,' where sacrilegious offenders were executed by being thrown into a tower-shaped pit filled with ashes, symbolizing the gravity of violating holy things (cf. Lev 10:1-2)."
     },
     {
       "pk": 21013007,
@@ -85,9 +89,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 13,
       "verse": 7,
-      "text": "The land, then, was relieved of this man who had caused so much trouble, and the sacred altar was cleansed.",
-      "links": "<a href='/AIV/2/10/5-8'>2 Macc. 10:5-8</a>",
-      "comment": "Purification of the altar foreshadows the New Covenant’s emphasis on the restoration and sanctity of worship (Hebrews 9:13-14)."
+      "text": "Menelaus died without even a burial in the earth, most justly; for because he had been guilty of many sins against the altar, whose fire and ashes were holy, he met his death in ashes. He was notorious as a lawbreaker.",
+      "links": [
+        "1 Kgs 13:34",
+        "Ps 79:3",
+        "Wis 3:16"
+      ],
+      "comment": "Menelaus's ignoble death and lack of burial reflect both his unfaithfulness as high priest and retributive justice for his defilement of the altar, reminding readers of the sanctity of God’s house (cf. Deut 21:23)."
     },
     {
       "pk": 21013008,
@@ -97,9 +105,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 13,
       "verse": 8,
-      "text": "Antiochus, meanwhile, continued his campaign with his heart full of hatred, determined to inflict greater suffering on the Jews than his father had.",
-      "links": "<a href='/AIV/2/7/26'>2 Macc. 7:26</a>",
-      "comment": "Hatred against God’s chosen foreshadows the persecution faced by the faithful throughout Scripture (John 15:18)."
+      "text": "It was a fitting end for such a man, for he had committed many sins against the altar and its fire. His punishment in ashes suited his acts against the holy things.",
+      "links": [
+        "Lev 6:9-13",
+        "1 Sam 2:30",
+        "Heb 12:29"
+      ],
+      "comment": "The punishment fittingly suits the crime against sacred objects, emphasizing the principle of divine justice—those who profane holy things meet an end that mirrors their transgressions (cf. Ps 9:16)."
     },
     {
       "pk": 21013009,
@@ -109,9 +121,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 13,
       "verse": 9,
-      "text": "With threats and wild words, he ordered his charioteer to drive without stopping until he reached Jerusalem—while the army followed him.",
-      "links": "<a href='/AIV/18/21/7'>Job 21:7</a>",
-      "comment": "The king’s rashness reveals pride, a recurring cause of downfall in Scripture (Proverbs 16:18)."
+      "text": "With barbarous arrogance, the king was coming to show the Jews things far worse than those that had been done in his father’s time.",
+      "links": [
+        "Esth 3:8-9",
+        "Ps 74:4",
+        "Dan 11:31-35"
+      ],
+      "comment": "The king’s excessive pride and intent to surpass his father’s atrocities foreshadow further conflict, highlighting the arrogance of Israel’s oppressors throughout the Maccabean period."
     },
     {
       "pk": 21013010,
@@ -134,9 +150,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 13,
       "verse": 11,
-      "text": "They also remembered how God had helped their ancestors, how he had destroyed 185,000 men under Sennacherib, the king of Assyria.",
-      "links": "<a href='/AIV/12/19/35'>2 Kgs. 19:35</a>; <a href='/AIV/23/37/36'>Isa. 37:36</a>",
-      "comment": "The people recall God's past deliverance, an encouragement to trust Him amid trial (cf. 2 Kings 19:35; Hebrews 13:8, 'Jesus Christ is the same yesterday and today and forever')."
+      "text": "They also called to mind the help that God had given their ancestors, especially how he had overwhelmed Sennacherib, the king of Assyria, when he boasted in his pride and was destroyed with his mighty army.",
+      "links": [
+        "2 Kgs 19:35-37",
+        "Isa 37:36-38",
+        "Ps 124:2-3"
+      ],
+      "comment": "Israel’s remembrance of God’s past deliverance, specifically the defeat of Sennacherib (cf. 2 Kings 19:35-37), reflects the pattern of invoking God’s faithfulness in the face of overwhelming odds."
     },
     {
       "pk": 21013012,
@@ -146,9 +166,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 13,
       "verse": 12,
-      "text": "With hands raised, they cried out: 'Lord of all, you need nothing, but it has pleased you to give us our inheritance.'",
-      "links": "<a href='/AIV/19/16/2'>Ps. 16:2</a>",
-      "comment": "The acknowledgment that God ‘needs nothing’ mirrors Acts 17:25 and stresses his self-sufficiency—a trait carried forward in New Testament theology."
+      "text": "After gathering for three days with fasting, prostration, and weeping, Judas urged them to stand ready. Then, stretching out their hands toward heaven, they prayed: 'O Lord, you need nothing, but it has pleased you to give us our inheritance; protect your chosen people and deliver Israel!'",
+      "links": [
+        "Joel 2:12-13",
+        "Esth 4:16",
+        "Ps 44:4"
+      ],
+      "comment": "Communal fasting, weeping, and prayer signify deep dependence on God, with their petition affirming both God’s sovereignty and the covenant promise of the land (cf. Exod 33:13; Neh 9:32-36)."
     },
     {
       "pk": 21013013,
@@ -182,9 +206,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 13,
       "verse": 15,
-      "text": "He set apart the night before the battle for fervent prayer, together with the elders, seeking God’s help.",
-      "links": "<a href='/AIV/2/8/23-24'>2 Macc. 8:23-24</a>",
-      "comment": "Communal prayer for deliverance foreshadows Christ praying before his Passion, with the apostles supporting him (Matthew 26:36-46; Acts 1:14)."
+      "text": "Judas and his men, after praying to the Lord for help, attacked the king’s camp at night, killing about two thousand men, and they also struck down the leading elephant and its rider.",
+      "links": [
+        "Judg 7:19-22",
+        "2 Macc 8:23",
+        "Ps 18:39"
+      ],
+      "comment": "Judas’s night attack, preceded by prayer, illustrates the fusion of strategic action with spiritual reliance, as God grants victory against seemingly insurmountable enemies (cf. Judg 7:19-22)."
     },
     {
       "pk": 21013016,
@@ -194,9 +222,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 13,
       "verse": 16,
-      "text": "Trusting in the Lord, and armed with courage more than weapons, they advanced upon the enemy, striking down six hundred soldiers.",
-      "links": "<a href='/AIV/7/7/19-20'>Judges 7:19-20</a>",
-      "comment": "God’s people prevail through faith, not merely human strength—a theme fulfilled in salvation by grace (Ephesians 2:8-9)."
+      "text": "Having caused great terror and confusion in the camp, they departed in triumph, being protected by the Lord as dawn was breaking.",
+      "links": [
+        "Ex 14:24-25",
+        "Ps 44:6-7",
+        "Wis 10:20"
+      ],
+      "comment": "This verse highlights the divine protection experienced by Judas Maccabeus and his men after their surprise night attack, emphasizing God's sovereignty in granting victory against the odds (cf. Psalm 44:3); the dawn motif symbolizes both literal deliverance and spiritual renewal."
     },
     {
       "pk": 21013017,
@@ -206,9 +238,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 13,
       "verse": 17,
-      "text": "When Lysias saw that the Jews were prepared to fight, he tried to use strategy, attacking their strongholds.",
-      "links": "<a href='/AIV/2/11/3'>2 Macc. 11:3</a>",
-      "comment": "Human efforts to circumvent God’s people can never prevail against his ultimate will (Matthew 16:18).",
+      "text": "This was accomplished by the Lord’s protection, for their victory was not due to weapons, but to the power of the Almighty.",
+      "links": [
+        "Zech 4:6",
+        "Ps 33:16-18",
+        "2 Macc 8:18"
+      ],
+      "comment": "Emphasizing divine agency, the victory is credited not to military strength but to the sovereign power of God—a recurring theme in the Deuteronomic history (cf. 1 Sam 17:47; Zech 4:6).",
       "sectionHeader": "The Siege of Beth-zur and Peace Negotiations"
     },
     {
@@ -219,9 +255,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 13,
       "verse": 18,
-      "text": "He besieged the fortress of Beth-zur by blockade, while Judas’s men harassed the enemy with secret attacks.",
-      "links": "<a href='/AIV/1/6/26'>1 Macc. 6:26</a>",
-      "comment": "The siege at Beth-zur highlights the strategic importance of certain places for Israel, a theme also seen in the battles over Jerusalem across salvation history."
+      "text": "When the king saw the boldness of the Jews and the defeat of his plans, he tried to take Beth-zur by strategy, attacked, was repulsed, tried again, and was beaten back.",
+      "links": [
+        "Josh 8:14-22",
+        "2 Macc 11:5-7",
+        "Ps 118:10-12"
+      ],
+      "comment": "The repeated failure of the king’s strategies at Beth-zur underscores the resolve of the Jewish defenders and the futility of opposing God’s chosen (cf. Ps 127:1)."
     },
     {
       "pk": 21013019,
@@ -243,9 +283,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 13,
       "verse": 20,
-      "text": "At the same time, the army of the king encountered resistance—Philip, who had been left to govern Antioch, rebelled.",
-      "links": "<a href='/AIV/2/9/29'>2 Macc. 9:29</a>",
-      "comment": "The mention of rebellion highlights the instability of human kingdoms compared to God’s unfailing kingdom (Daniel 2:44)."
+      "text": "But Judas sent in provisions to aid those at Beth-zur.",
+      "links": [
+        "Neh 4:16-23",
+        "Prov 25:21",
+        "Matt 25:35"
+      ],
+      "comment": "Judas's resupply of Beth-zur shows pragmatic leadership and concern for the community, reinforcing the Maccabean ethos of solidarity and support under siege."
     },
     {
       "pk": 21013021,
@@ -255,9 +299,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 13,
       "verse": 21,
-      "text": "Alarmed by this, Lysias quickly persuaded the king and the commanders to withdraw, saying, 'We are at risk here; let us make peace.'",
-      "links": "<a href='/AIV/2/11/13'>2 Macc. 11:13</a>",
-      "comment": "God often frustrates the designs of the wicked through unexpected means (Psalm 33:10)."
+      "text": "There was a certain Rhodocus, a Jew, who betrayed secrets to the enemy; he was found out, arrested, and imprisoned.",
+      "links": [
+        "Josh 7:1",
+        "Jdt 10:10",
+        "Ps 41:9"
+      ],
+      "comment": "The betrayal of Rhodocus and his subsequent imprisonment reflect the internal dangers faced by the community and underscore the necessity of vigilance against internal subversion (cf. Josh 7:16-26)."
     },
     {
       "pk": 21013022,
@@ -267,9 +315,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 13,
       "verse": 22,
-      "text": "So there was a parley, and the king and Lysias granted just terms to the Jews, swearing to honor them and to respect their laws.",
-      "links": "<a href='/AIV/16/6/15-16'>Neh. 6:15-16</a>",
-      "comment": "The granting of justice and recognition of Jewish law hints at the enduring value of God’s law and his guidance for nations."
+      "text": "The king then negotiated with the people of Beth-zur, gave and received pledges, withdrew, and attacked Judas. He was defeated.",
+      "links": [
+        "1 Macc 6:61",
+        "Prov 29:8",
+        "Wis 1:12"
+      ],
+      "comment": "Repeated negotiation and conflict illustrate the ebb and flow of the struggle, with the king’s concessions and ultimate military defeat further attesting to God’s favor for Judas and his followers."
     },
     {
       "pk": 21013023,
@@ -279,9 +331,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 13,
       "verse": 23,
-      "text": "They returned to Antioch. That was how the attack and withdrawal of the king happened.",
-      "links": "<a href='/AIV/1/6/63'>1 Macc. 6:63</a>",
-      "comment": "This outcome is another testament to God’s sovereignty in the affairs of the world (Romans 8:28)."
+      "text": "When the king learned that Philip, who had been left in charge at Antioch, had rebelled, he was alarmed. He called for the Jews, yielded to them, swore to observe all their rights, settled with them, offered sacrifice, honored the sanctuary, and treated the place generously.",
+      "links": [
+        "Esth 8:11",
+        "Dan 6:26",
+        "Ps 51:17"
+      ],
+      "comment": "Political instability forced the king to accommodate the Jews, leading to public acts of goodwill such as sacrifices and honoring the sanctuary, demonstrating how God can turn political situations for his people’s benefit (cf. Ezra 6:10)."
     },
     {
       "pk": 21013024,
@@ -291,9 +347,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 13,
       "verse": 24,
-      "text": "King Antiochus then appointed governors for the region from Ptolemais to Gerar.",
-      "links": "<a href='/AIV/1/1/10'>1 Macc. 1:10</a>",
-      "comment": "Administrative reorganization shows attempts to strengthen control, but lasting peace comes only by God’s hand."
+      "text": "The king received Maccabeus, left Hegemonides as governor from Ptolemais to Gerar, and then departed to Ptolemais.",
+      "links": [
+        "1 Macc 5:23",
+        "2 Macc 4:29",
+        "1 Kgs 3:7"
+      ],
+      "comment": "Maccabeus’s reception by the king and the appointment of governors indicate a brief period of peace and administrative transition, reflecting ongoing Hellenistic influence in the region."
     },
     {
       "pk": 21013025,
@@ -315,12 +375,16 @@
       "bookAbbreviation": "2Macc",
       "chapter": 13,
       "verse": 26,
-      "text": "So Lysias went up to the tribunal to speak publicly in defense of the agreement. The king heard him, ratified the treaty, and departed.",
-      "links": "<a href='/AIV/16/6/16'>Neh. 6:16</a>",
-      "comment": "The ratification of peace, following prayer and perseverance, is a reminder of God’s faithfulness and the efficacy of communal intercession—a principle emphasized in Christian worship when the church prays as one (Acts 12:5, Matthew 18:19-20)."
+      "text": "Lysias succeeded in calming the populace, gained their goodwill, and returned with the king to Antioch. Such was the outcome of the king’s campaign and his withdrawal.",
+      "links": [
+        "Prov 16:7",
+        "Esth 9:27-28",
+        "Sir 1:18"
+      ],
+      "comment": "Lysias’s efforts to calm and gain the goodwill of the populace before returning to Antioch suggest a pragmatic end to the conflict, securing temporary stability and highlighting the complex political dynamics of the Seleucid empire."
     }
   ],
-  "translatedAt": "2025-12-24T05:37:51.819Z",
+  "translatedAt": "2025-12-25T13:52:52.558Z",
   "sections": [
     {
       "title": "The Campaign of Antiochus and the Death of Menelaus",

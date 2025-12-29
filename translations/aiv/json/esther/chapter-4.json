@@ -124,7 +124,11 @@
       "chapter": 4,
       "verse": 10,
       "text": "Then Esther spoke to Hathach and ordered him to take a message back to Mordecai:",
-      "links": "",
+      "links": [
+        "Num 12:7",
+        "Neh 2:6",
+        "Dan 2:14"
+      ],
       "comment": "Esther’s continued use of an intermediary highlights the need for humble mediation—an important aspect in many spiritual traditions."
     },
     {
@@ -148,7 +152,11 @@
       "chapter": 4,
       "verse": 12,
       "text": "When Esther’s message was reported to Mordecai,",
-      "links": "",
+      "links": [
+        "Gen 41:16",
+        "2 Kgs 5:4",
+        "Prov 25:2"
+      ],
       "comment": "This brief report sets up Mordecai’s pivotal response, emphasizing how guidance may come through wise counsel in times of crisis."
     },
     {
@@ -184,7 +192,11 @@
       "chapter": 4,
       "verse": 15,
       "text": "Then Esther sent this reply to Mordecai:",
-      "links": "",
+      "links": [
+        "Ex 4:13",
+        "Dan 2:16",
+        "Acts 9:6"
+      ],
       "comment": "Esther’s response leads into action based on communal discernment, mirroring the way decisions in the community of faith are guided by mutual counsel.",
       "sectionHeader": "Esther’s Decision and Request for Fasting"
     },

@@ -255,9 +255,13 @@
       "bookAbbreviation": "1Chr",
       "chapter": 3,
       "verse": 21,
-      "text": "The descendants of Hananiah: Pelatiah and Jeshaiah, and the sons of Rephaiah, the sons of Arnan, the sons of Obadiah, the sons of Shecaniah.",
-      "links": "<a href='/AIV/15/2/2'>Ezra 2:2</a>",
-      "comment": "The genealogy document helps tie community leaders in post-exilic Jerusalem into the Covenant line."
+      "text": "The sons of Hananiah: Pelatiah and Jeshaiah; and the sons of Rephaiah, his son; Arnan, his son; Obadiah, his son; Shecaniah, his son.",
+      "links": [
+        "Ezra 8:3",
+        "1 Chr 3:17",
+        "Neh 12:3"
+      ],
+      "comment": "This verse continues the post-exilic genealogies, tracing the Davidic line and emphasizing the preservation of family identity crucial for Israel’s hope in messianic promises (cf. 2 Samuel 7:16); each name represents a link of faithfulness amid exile and return."
     },
     {
       "pk": 13003022,
@@ -267,9 +271,13 @@
       "bookAbbreviation": "1Chr",
       "chapter": 3,
       "verse": 22,
-      "text": "The sons of Shecaniah: Shemaiah. The sons of Shemaiah: Hattush, Igal, Bariah, Neariah, and Shaphat—five.",
-      "links": "<a href='/AIV/15/8/2'>Ezra 8:2</a>",
-      "comment": "Shemaiah’s lineage continues the post-exilic Davidic legacy. Names have spiritual meanings—e.g., Hattush means 'renewed,' reflecting hope and restoration."
+      "text": "The sons of Shecaniah: Shemaiah. The sons of Shemaiah: Hattush, Igal, Bariah, Neariah, and Shaphat, six.",
+      "links": [
+        "Ezra 8:2",
+        "1 Chr 3:17",
+        "1 Chr 26:7"
+      ],
+      "comment": "The listing of Shecaniah's descendants highlights the continuity of David's lineage, reinforcing the importance of ancestry in covenantal theology and leadership roles within the restored community (cf. Ezra 8:2, Nehemiah 6:18)."
     },
     {
       "pk": 13003023,
@@ -280,7 +288,11 @@
       "chapter": 3,
       "verse": 23,
       "text": "The sons of Neariah: Elioenai, Hizkiah, and Azrikam—three.",
-      "links": "",
+      "links": [
+        "1 Chr 3:24",
+        "Ezra 8:12",
+        "1 Chr 5:24"
+      ],
       "comment": "Detailed recordings show the care with which God preserves the royal line, even through exile."
     },
     {
@@ -292,11 +304,15 @@
       "chapter": 3,
       "verse": 24,
       "text": "The sons of Elioenai: Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Dalaiah, and Anani—seven.",
-      "links": "",
+      "links": [
+        "Ezra 8:13",
+        "1 Chr 3:23",
+        "Neh 12:41"
+      ],
       "comment": "The genealogy ends in the post-exilic period, with the number seven (a symbol of completeness), emphasizing God’s faithfulness regardless of circumstances. God’s providential hand guides the messianic line through history, establishing authority and unity in the lineage leading to Christ (see Matt. 1:11-16, Luke 3:23-38 for its fulfillment)."
     }
   ],
-  "translatedAt": "2025-12-24T04:05:16.986Z",
+  "translatedAt": "2025-12-26T05:25:53.293Z",
   "sections": [
     {
       "title": "The Sons of David",

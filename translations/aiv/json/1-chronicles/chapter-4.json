@@ -38,7 +38,10 @@
       "chapter": 4,
       "verse": 3,
       "text": "These were the sons of Etam: Jezreel, Ishma, and Idbash; and the name of their sister was Hazzelelponi.",
-      "links": "",
+      "links": [
+        "Ruth 4:18-22",
+        "1 Chr 2:54"
+      ],
       "comment": "The inclusion of Hazzelelponi, a woman, highlights the integral but often subtle roles women played in salvation history."
     },
     {
@@ -74,7 +77,10 @@
       "chapter": 4,
       "verse": 6,
       "text": "Naarah bore him Ahuzzam, Hepher, Temeni, and Haahashtari. These were the sons of Naarah.",
-      "links": "",
+      "links": [
+        "1 Chr 2:53",
+        "Num 26:23"
+      ],
       "comment": "Records of multiple children in tribes reinforce God's blessing of fruitfulness and multiply the chosen people."
     },
     {
@@ -86,7 +92,9 @@
       "chapter": 4,
       "verse": 7,
       "text": "The sons of Helah: Zereth, Izhar, and Ethnan.",
-      "links": "",
+      "links": [
+        "1 Chr 2:31"
+      ],
       "comment": "Genealogies such as these preserve vital links between the generations, an important theme echoed throughout Scripture."
     },
     {
@@ -98,7 +106,9 @@
       "chapter": 4,
       "verse": 8,
       "text": "Koz fathered Anub, Zobebah, and the families of Aharhel the son of Harum.",
-      "links": "",
+      "links": [
+        "1 Chr 2:55"
+      ],
       "comment": "While some names are obscure, their recorded inclusion shows the value given to every member within the family of faith."
     },
     {
@@ -110,7 +120,11 @@
       "chapter": 4,
       "verse": 9,
       "text": "Jabez was more honorable than his brothers. His mother named him Jabez, saying, 'Because I bore him in pain.'",
-      "links": "",
+      "links": [
+        "Gen 35:18",
+        "1 Chr 2:55",
+        "James 5:16"
+      ],
       "comment": "Jabez stands out not only for his birth, but for his character and relationship with God, which the next verse highlights. His story shows the importance of personal holiness.",
       "sectionHeader": "The Prayer of Jabez"
     },
@@ -147,7 +161,10 @@
       "chapter": 4,
       "verse": 12,
       "text": "Eshton fathered Beth-rapha, Paseah, and Tehinnah, the father of Ir-nahash. These are the men of Recah.",
-      "links": "",
+      "links": [
+        "Neh 3:6",
+        "Josh 15:34"
+      ],
       "comment": "These details show the extension of families into various towns and settlements, helping establish the ongoing inheritance and order in Israel."
     },
     {
@@ -171,7 +188,11 @@
       "chapter": 4,
       "verse": 14,
       "text": "Meonothai fathered Ophrah. Seraiah fathered Joab, the father of Ge-harashim (so-called because they were craftsmen).",
-      "links": "",
+      "links": [
+        "Judg 6:11",
+        "Neh 11:35",
+        "1 Chr 2:55"
+      ],
       "comment": "The mention of craftsmen indicates the importance of skilled work and the practical gifts used in building up Israel, just as all Christian gifts serve a larger purpose in the body of believers (<a href='/AIV/46/12/4-7'>1 Cor. 12:4-7</a>)."
     },
     {
@@ -195,7 +216,10 @@
       "chapter": 4,
       "verse": 16,
       "text": "The sons of Jehallelel: Ziph, Ziphah, Tiria, and Asarel.",
-      "links": "",
+      "links": [
+        "1 Chr 2:42",
+        "Josh 15:24"
+      ],
       "comment": "Many genealogies are simply listed, but they document the entire people of God; every individual contributes to His larger plan."
     },
     {
@@ -207,7 +231,10 @@
       "chapter": 4,
       "verse": 17,
       "text": "The sons of Ezrah: Jether, Mered, Epher, and Jalon. Mered married Bithiah, the daughter of Pharaoh, and she bore him Miriam, Shammai, and Ishbah the father of Eshtemoa.",
-      "links": "",
+      "links": [
+        "Exod 2:21",
+        "1 Kgs 3:1"
+      ],
       "comment": "A Hebrew man marrying an Egyptian princess is unusual and shows God's providence reaching beyond ethnic lines, reminiscent of Moses’ own family circumstance (<a href='/AIV/02/2/21'>Ex. 2:21</a>)."
     },
     {
@@ -219,7 +246,10 @@
       "chapter": 4,
       "verse": 18,
       "text": "And his (Jewish) wife bore Jered the father of Gedor, Heber the father of Soco, and Jekuthiel the father of Zanoah.",
-      "links": "",
+      "links": [
+        "Josh 15:39",
+        "Josh 15:33"
+      ],
       "comment": "Noting his (Jewish) wife, in contrast with his Egyptian wife, highlights the importance of covenant identity."
     },
     {
@@ -231,7 +261,10 @@
       "chapter": 4,
       "verse": 19,
       "text": "The sons of the wife of Hodiah, the sister of Naham: the father of Keilah the Garmite, and Eshtemoa the Maacathite.",
-      "links": "",
+      "links": [
+        "Josh 15:44",
+        "Josh 15:50"
+      ],
       "comment": "Further records confirm the thorough care God’s people took to maintain knowledge of their lineage and land ownership—as promised in the covenant (<a href='/AIV/01/17/8'>Gen. 17:8</a>)."
     },
     {
@@ -243,7 +276,9 @@
       "chapter": 4,
       "verse": 20,
       "text": "The sons of Shimon: Amnon, Rinnah, Ben-hanan, and Tilon. The sons of Ishi: Zoheth and Ben-zoheth.",
-      "links": "",
+      "links": [
+        "1 Chr 2:31-32"
+      ],
       "comment": "These names demonstrate the expansion and population of Israel, in line with God's original command to be fruitful and multiply (<a href='/AIV/01/1/28'>Gen. 1:28</a>)."
     },
     {
@@ -267,7 +302,10 @@
       "chapter": 4,
       "verse": 22,
       "text": "And Jokim, men of Cozeba, and Joash and Saraph who ruled in Moab and Jashubi-lehem. (But these are ancient records.)",
-      "links": "",
+      "links": [
+        "Ruth 1:1-4",
+        "1 Chr 2:53"
+      ],
       "comment": "‘Ruled in Moab’ records how Israelites came to influence other lands, showing God's promise extends beyond their immediate borders."
     },
     {
@@ -279,7 +317,10 @@
       "chapter": 4,
       "verse": 23,
       "text": "These were the potters and inhabitants of Netaim and Gederah; they lived there with the king for his work.",
-      "links": "",
+      "links": [
+        "1 Chr 9:2",
+        "Neh 11:35"
+      ],
       "comment": "The service to the king highlights both practical trades and religious life as sacred callings, reminiscent of service in God’s true kingdom."
     },
     {
@@ -304,7 +345,9 @@
       "chapter": 4,
       "verse": 25,
       "text": "Shallum was his son, Mibsam his son, and Mishma his son.",
-      "links": "",
+      "links": [
+        "1 Chr 5:11"
+      ],
       "comment": "The repetition of 'his son' maintains clarity of lineage and succession, important in showing God’s faithfulness through each generation."
     },
     {
@@ -316,7 +359,10 @@
       "chapter": 4,
       "verse": 26,
       "text": "The sons of Mishma: Hammuel his son, Zaccur his son, Shimei his son.",
-      "links": "",
+      "links": [
+        "1 Chr 2:43",
+        "1 Chr 5:14"
+      ],
       "comment": "Names like these affirm individual place and worth—echoing Paul’s later teaching that all are one in Christ Jesus (<a href='/AIV/48/3/28'>Gal. 3:28</a>)."
     },
     {
@@ -328,7 +374,10 @@
       "chapter": 4,
       "verse": 27,
       "text": "Shimei had sixteen sons and six daughters, but his brothers did not have many children, nor did all their family multiply as the people of Judah.",
-      "links": "",
+      "links": [
+        "Gen 46:10",
+        "Exod 1:7"
+      ],
       "comment": "The distinction in blessing and growth echoes God’s sovereign choice and purpose—some tribes grew larger, others smaller, by God’s hidden wisdom."
     },
     {
@@ -352,7 +401,9 @@
       "chapter": 4,
       "verse": 29,
       "text": "Bilhah, Ezem, Tolad,",
-      "links": "",
+      "links": [
+        "Josh 19:3-8"
+      ],
       "comment": "More towns are listed to record the fullness and reach of the tribe’s settlement."
     },
     {
@@ -376,7 +427,10 @@
       "chapter": 4,
       "verse": 31,
       "text": "Beth-marcaboth, Hazar-susim, Beth-biri, and Shaaraim—these were their cities until David reigned.",
-      "links": "",
+      "links": [
+        "Josh 19:6",
+        "1 Sam 30:27-31"
+      ],
       "comment": "David’s reign is a key moment when Israel’s unity is realized, prefiguring Christ’s reign as the true and ultimate King."
     },
     {
@@ -388,7 +442,10 @@
       "chapter": 4,
       "verse": 32,
       "text": "And their villages were Etam, Ain, Rimmon, Tochen, and Ashan—five cities—",
-      "links": "",
+      "links": [
+        "Josh 19:7",
+        "1 Sam 30:27"
+      ],
       "comment": "The record of villages preserves full knowledge of their territory and participation in the nation’s covenant."
     },
     {
@@ -400,7 +457,10 @@
       "chapter": 4,
       "verse": 33,
       "text": "along with all their surrounding villages as far as Baal. These were their settlements, and they kept their genealogical records.",
-      "links": "",
+      "links": [
+        "Num 1:18",
+        "Ezra 2:59"
+      ],
       "comment": "Continuous records ensured the integrity and unity of God’s people, just as the church maintains continuity with the ancient faith."
     },
     {
@@ -412,7 +472,10 @@
       "chapter": 4,
       "verse": 34,
       "text": "Meshobab, Jamlech, Joshah the son of Amaziah,",
-      "links": "",
+      "links": [
+        "1 Chr 5:13",
+        "1 Chr 9:6"
+      ],
       "comment": "As individual names are recalled, we’re reminded that God knows each member of His family."
     },
     {
@@ -424,7 +487,10 @@
       "chapter": 4,
       "verse": 35,
       "text": "Joel, Jehu the son of Joshibiah, son of Seraiah, son of Asiel,",
-      "links": "",
+      "links": [
+        "1 Chr 5:8",
+        "1 Chr 12:7"
+      ],
       "comment": "The careful mention of multiple generations highlights unbroken succession—something later leaders and apostles would model."
     },
     {
@@ -436,7 +502,10 @@
       "chapter": 4,
       "verse": 36,
       "text": "Elioenai, Jaakobah, Jeshohaiah, Asaiah, Adiel, Jesimiel, Benaiah,",
-      "links": "",
+      "links": [
+        "1 Chr 12:20",
+        "Ezra 8:13"
+      ],
       "comment": "Long lists testify to Israel’s faithfulness in recording their history and the names of those who serve in various ways."
     },
     {
@@ -448,7 +517,9 @@
       "chapter": 4,
       "verse": 37,
       "text": "Ziza the son of Shiphi, son of Allon, son of Jedaiah, son of Shimri, son of Shemaiah—",
-      "links": "",
+      "links": [
+        "1 Chr 5:24"
+      ],
       "comment": "Notable men may be remembered for a line of faithful service across generations."
     },
     {
@@ -460,7 +531,10 @@
       "chapter": 4,
       "verse": 38,
       "text": "these, mentioned by name, were leaders in their clans. Their families increased greatly.",
-      "links": "",
+      "links": [
+        "Exod 1:7",
+        "Gen 28:3"
+      ],
       "comment": "Leadership is recognized and remembered, foreshadowing the later role of elders, bishops, and deacons in the orderly government of God’s people (<a href='/AIV/54/3/1-13'>1 Tim 3:1-13</a>)."
     },
     {
@@ -472,7 +546,10 @@
       "chapter": 4,
       "verse": 39,
       "text": "And they went to the entrance of Gedor, to the east side of the valley, to seek pasture for their flocks.",
-      "links": "",
+      "links": [
+        "Josh 15:58",
+        "1 Chr 6:81"
+      ],
       "comment": "Seeking pasture shows Israel as a shepherding people, a theme of God as Shepherd pointing ultimately to Christ the Good Shepherd (<a href='/AIV/43/10/11'>John 10:11</a>).",
       "sectionHeader": "Simeonites Settle New Lands"
     },

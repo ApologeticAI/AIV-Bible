@@ -49,9 +49,13 @@
       "bookAbbreviation": "John",
       "chapter": 5,
       "verse": 4,
-      "text": "[For an angel came down at certain times into the pool and stirred up the water. Whoever then stepped in after the stirring of the water was made well from whatever disease he had.]",
-      "links": "",
-      "comment": "Verse 4 is absent in many ancient manuscripts, likely a later scribal note explaining the people's hope. This tradition shows belief in supernatural mediation for healing."
+      "text": "",
+      "links": [
+        "John 5:7",
+        "2 Kgs 5:10",
+        "Acts 19:12"
+      ],
+      "comment": "This verse reflects a popular belief in the healing powers of the Pool of Bethesda, attributing miraculous activity to an angel agitating the waters (cf. 2 Kings 5:1-14); it highlights themes of divine intervention and human longing for healing within the Jewish context of the time."
     },
     {
       "pk": 50005005,
@@ -74,7 +78,11 @@
       "chapter": 5,
       "verse": 6,
       "text": "When Jesus saw him lying there and knew that he had already been there a long time, He said to him, \"Do you want to be made well?\"",
-      "links": "",
+      "links": [
+        "Mark 2:5",
+        "Matt 9:28",
+        "John 9:6"
+      ],
       "comment": "Jesus initiates the healing, showing His divine knowledge and compassion. The question invites a personal response, paralleling how grace calls for our cooperation."
     },
     {
@@ -86,7 +94,11 @@
       "chapter": 5,
       "verse": 7,
       "text": "The sick man answered Him, \"Sir, I have no one to put me into the pool when the water is stirred, but while I am coming, another steps down before me.\"",
-      "links": "",
+      "links": [
+        "John 5:4",
+        "Luke 5:18-19",
+        "Mark 2:4"
+      ],
       "comment": "The man expresses helplessness and isolation, representing humanity's inability to save itself apart from divine intervention. Faith often begins with an admission of need."
     },
     {
@@ -135,7 +147,11 @@
       "chapter": 5,
       "verse": 11,
       "text": "But he answered them, \"The one who made me well said to me, 'Take up your mat and walk.'\"",
-      "links": "",
+      "links": [
+        "Matt 9:6",
+        "Mark 2:11",
+        "John 5:8"
+      ],
       "comment": "Obedience to the words of Christ takes precedence over human tradition, suggesting the authority of Jesus over religious customs."
     },
     {
@@ -147,7 +163,11 @@
       "chapter": 5,
       "verse": 12,
       "text": "They asked him, \"Who is the man who said to you, 'Take up your mat and walk'?\"",
-      "links": "",
+      "links": [
+        "John 9:12",
+        "Mark 2:11",
+        "John 5:8"
+      ],
       "comment": "The leaders are more concerned about the breaking of custom than the miracle itself, showing a hardening of heart towards God's works."
     },
     {
@@ -183,7 +203,11 @@
       "chapter": 5,
       "verse": 15,
       "text": "The man went away and told the Jews that it was Jesus who had made him well.",
-      "links": "",
+      "links": [
+        "John 9:11",
+        "Luke 17:15-16",
+        "Matt 9:22"
+      ],
       "comment": "Now he testifies to Jesus' identity, pointing others to Christ as the source of healing."
     },
     {
@@ -413,7 +437,11 @@
       "chapter": 5,
       "verse": 34,
       "text": "\"Yet the testimony which I receive is not from man, but I say these things so that you may be saved.\"",
-      "links": "",
+      "links": [
+        "John 8:17-18",
+        "1 John 5:9",
+        "John 20:31"
+      ],
       "comment": "Ultimate validation of Jesus is divine, not human. God uses human testimony to lead to salvation, demonstrating both spiritual and visible means."
     },
     {
@@ -485,7 +513,11 @@
       "chapter": 5,
       "verse": 40,
       "text": "\"and yet you are unwilling to come to Me to have life.\"",
-      "links": "",
+      "links": [
+        "John 1:11",
+        "Matt 23:37",
+        "John 6:37"
+      ],
       "comment": "Full participation in divine life means coming to Jesus Himself, not merely studying Scripture alone—the importance of personal encounter and ongoing commitment."
     },
     {
@@ -497,7 +529,11 @@
       "chapter": 5,
       "verse": 41,
       "text": "\"I do not accept glory from men;\"",
-      "links": "",
+      "links": [
+        "John 7:18",
+        "Matt 6:1",
+        "Gal 1:10"
+      ],
       "comment": "Jesus seeks honor from God alone, not from worldly status—an example for humility and divine approval above human praise."
     },
     {
@@ -509,7 +545,11 @@
       "chapter": 5,
       "verse": 42,
       "text": "\"but I know you, that you do not have the love of God within you.\"",
-      "links": "",
+      "links": [
+        "Rom 5:5",
+        "1 John 2:5",
+        "Matt 23:27-28"
+      ],
       "comment": "The love of God is essential for true understanding; head knowledge without hearts open to grace is insufficient."
     },
     {
@@ -573,7 +613,7 @@
       "comment": "Faith in Scripture and faith in Christ go together. Disbelief in God’s revelation blocks all further understanding, underlining the necessity of faith and Tradition as living interpretation."
     }
   ],
-  "translatedAt": "2025-12-24T11:04:51.688Z",
+  "translatedAt": "2025-12-29T00:33:54.846Z",
   "sections": [
     {
       "title": "The Healing at the Pool of Bethesda",

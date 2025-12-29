@@ -50,7 +50,11 @@
       "chapter": 7,
       "verse": 4,
       "text": "I was swaddled in cloths and cared for with every attention.",
-      "links": "",
+      "links": [
+        "Job 10:18-19",
+        "Ps 22:9-10",
+        "Luke 2:7"
+      ],
       "comment": "Reflects the humble beginnings of everyone, even rulers. This foreshadows the humble birth of Jesus, whose infancy narratives stress both humility and dignity (see <a href='/AIV/42/2/12'>Luke 2:12</a>)."
     },
     {
@@ -293,7 +297,11 @@
       "chapter": 7,
       "verse": 24,
       "text": "For wisdom is more mobile than any motion; because of her purity, she penetrates and pervades all things.",
-      "links": "",
+      "links": [
+        "Prov 8:11",
+        "Wis 8:1",
+        "Heb 4:12"
+      ],
       "comment": "Implying an active presence of divine wisdom in all aspects of existence, this sets the stage for the theology of grace permeating every part of life."
     },
     {

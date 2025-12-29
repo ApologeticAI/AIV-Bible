@@ -12,9 +12,13 @@
       "bookAbbreviation": "1Sam",
       "chapter": 13,
       "verse": 1,
-      "text": "Saul was thirty years old when he began to reign, and he reigned over Israel for forty-two years.",
-      "links": "",
-      "comment": "Some Hebrew manuscripts are missing the exact numbers for Saul's age and the length of his reign. The numbers supplied here follow common textual reconstructions (cf. Acts 13:21).",
+      "text": "Saul was... years old when he began to reign; and he reigned... and two years over Israel.",
+      "links": [
+        "Acts 13:21",
+        "1 Sam 10:1",
+        "2 Sam 5:4"
+      ],
+      "comment": "Ellipses reflect uncertainty in the Hebrew text, in accordance with RSVCE and scholarly consensus.",
       "sectionHeader": "Saul’s Early Reign and Jonathan Attacks the Philistines"
     },
     {
@@ -123,7 +127,11 @@
       "chapter": 13,
       "verse": 10,
       "text": "Just as he finished offering the burnt offering, Samuel arrived. Saul went out to meet him and to greet him.",
-      "links": "",
+      "links": [
+        "1 Kgs 13:1",
+        "1 Sam 15:13",
+        "Lev 10:1-2"
+      ],
       "comment": "The timing emphasizes Saul’s lack of faith. Samuel represents God’s authority and legitimate mediation."
     },
     {
@@ -208,8 +216,12 @@
       "chapter": 13,
       "verse": 17,
       "text": "Raiding the camp, the Philistines sent three units: one turned toward Ophrah in the land of Shual,",
-      "links": "",
-      "comment": "The Philistines’ strategic raids aimed to control and terrorize Israel, revealing their advantage and Israel’s vulnerability without God’s aid."
+      "links": [
+        "Judg 6:4",
+        "1 Sam 14:15",
+        "1 Sam 30:14"
+      ],
+      "comment": "The Philistines' division into three raiding parties demonstrates their military strategy to disrupt Israelite supplies and weaken Saul's forces; the mention of Ophrah in Shual evidences geographically targeted attacks, highlighting the threat Israel faced (cf. Judges 6:11 for another Ophrah)."
     },
     {
       "pk": 9013018,
@@ -220,7 +232,11 @@
       "chapter": 13,
       "verse": 18,
       "text": "another unit turned toward Beth-horon, and another toward the border overlooking the Valley of Zeboim, facing the wilderness.",
-      "links": "",
+      "links": [
+        "Josh 10:10",
+        "1 Chron 7:24",
+        "Neh 3:16"
+      ],
       "comment": "The raiding strategy describes the sweeping extent of the Philistine incursion. Israel is surrounded and pressed."
     },
     {
@@ -256,7 +272,11 @@
       "chapter": 13,
       "verse": 21,
       "text": "The charge was two-thirds of a shekel for sharpening plowshares and mattocks, and a third of a shekel for sharpening forks and axes, and for fixing the ox-goads.",
-      "links": "",
+      "links": [
+        "Judg 5:8",
+        "2 Kgs 24:14",
+        "Eccl 10:10"
+      ],
       "comment": "Such prices for even agricultural tools show economic oppression, part of the occupational strategy of the Philistines."
     },
     {
@@ -284,7 +304,7 @@
       "comment": "This sets the scene for Jonathan’s bold act of faith in the next chapter. God’s advances often arise in desperate moments."
     }
   ],
-  "translatedAt": "2025-12-24T02:55:27.684Z",
+  "translatedAt": "2025-12-25T13:46:29.704Z",
   "sections": [
     {
       "title": "Saul’s Early Reign and Jonathan Attacks the Philistines",

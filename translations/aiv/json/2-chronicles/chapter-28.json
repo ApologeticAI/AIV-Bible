@@ -148,7 +148,11 @@
       "chapter": 28,
       "verse": 12,
       "text": "Then some leaders of Ephraim—Azariah son of Johanan, Berechiah son of Meshillemoth, Jehizkiah son of Shallum, and Amasa son of Hadlai—stood up against those returning from the war.",
-      "links": "",
+      "links": [
+        "2 Chr 28:9",
+        "Isa 1:17",
+        "Matt 5:9"
+      ],
       "comment": "Lay and clan leaders intervene, showing the importance of communal conscience to correct leaders’ mistakes."
     },
     {
@@ -160,7 +164,11 @@
       "chapter": 28,
       "verse": 13,
       "text": "They said to them, 'You shall not bring the captives here, for you intend to add to our sins and guilt before the LORD. Our guilt is already great, and there is fierce wrath against Israel.'",
-      "links": "",
+      "links": [
+        "Lev 19:18",
+        "Num 32:23",
+        "Ezra 9:13"
+      ],
       "comment": "Recognition of communal guilt foreshadows the idea of corporate responsibility, and points toward the importance of collective repentance, as later seen in New Testament gatherings (<a href='/AIV/44/2/37-41'>Acts 2:37-41</a>)."
     },
     {
@@ -172,7 +180,11 @@
       "chapter": 28,
       "verse": 14,
       "text": "So the armed men left the prisoners and the spoils before the officials and all the congregation.",
-      "links": "",
+      "links": [
+        "2 Kgs 6:22",
+        "2 Chr 25:12",
+        "Isa 58:6"
+      ],
       "comment": "The people respond obediently to godly leadership, setting an example of humility before God's commands."
     },
     {
@@ -197,7 +209,7 @@
       "verse": 16,
       "text": "At that time King Ahaz sent to the kings of Assyria for help.",
       "links": "<a href='/AIV/12/16/7'>2 Kgs. 16:7</a>",
-      "comment": "Ahaz trusts foreign powers instead of God, a recurring error in biblical history illustrating misplaced faith.",
+      "comment": "Facing threats from Aram and Israel, Ahaz’s appeal to Assyria—rather than to God—demonstrates a misplaced trust in human alliances, a pattern warned against elsewhere (cf. Isaiah 7:1-13), highlighting the theological theme of reliance on God over political power.",
       "sectionHeader": "Further Attacks and Ahaz Seeks Help from Assyria"
     },
     {
@@ -258,7 +270,7 @@
       "verse": 21,
       "text": "Though Ahaz took some things from the house of the LORD and from the palace and officials, and gave them to the king of Assyria, it did not help him.",
       "links": "<a href='/AIV/12/16/8'>2 Kgs. 16:8</a>",
-      "comment": "Plundering God’s house to purchase security is fruitless—a sharp lesson. Temporal solutions never suffice for spiritual problems."
+      "comment": "Despite stripping the temple and royal treasury to bribe Assyria, Ahaz receives no deliverance, illustrating the futility of abandoning spiritual fidelity for worldly solutions—a motif echoed in 2 Kings 16:8-9 and Psalm 146:3."
     },
     {
       "pk": 14028022,

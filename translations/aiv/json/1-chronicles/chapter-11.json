@@ -510,7 +510,11 @@
       "chapter": 11,
       "verse": 42,
       "text": "Adina son of Shiza the Reubenite, chief of the Reubenites, and thirty with him,",
-      "links": "",
+      "links": [
+        "1 Chr 12:20",
+        "Num 32:37",
+        "2 Sam 23:36"
+      ],
       "comment": "Tribal distinctions remain significant—David’s reign draws unity from diversity, mirroring the spiritual unity of God’s people."
     },
     {
@@ -522,7 +526,10 @@
       "chapter": 11,
       "verse": 43,
       "text": "Hanan son of Maacah, Joshaphat the Mithnite,",
-      "links": "",
+      "links": [
+        "2 Sam 23:24",
+        "1 Chr 27:10"
+      ],
       "comment": "Such detailed lists preserve the memory of those whose faithfulness formed the foundation for the coming Messianic hope."
     },
     {
@@ -534,7 +541,11 @@
       "chapter": 11,
       "verse": 44,
       "text": "Uzzia the Ashterathite, Shama and Jeiel the sons of Hotham the Aroerite,",
-      "links": "",
+      "links": [
+        "Josh 13:31",
+        "1 Chr 5:23",
+        "2 Sam 23:32"
+      ],
       "comment": "Through the record of these individuals, we see the principle that all who belong to God’s kingdom have value and purpose."
     },
     {
@@ -546,7 +557,10 @@
       "chapter": 11,
       "verse": 45,
       "text": "Jediael son of Shimri, Joha his brother the Tizite,",
-      "links": "",
+      "links": [
+        "1 Chr 27:22",
+        "2 Sam 23:26"
+      ],
       "comment": "Family relationships are highlighted, pointing to the inheritance of faith handed down generation to generation."
     },
     {
@@ -558,7 +572,11 @@
       "chapter": 11,
       "verse": 46,
       "text": "Eliel the Mahavite, Jeribai and Joshaviah sons of Elnaam, Ithmah the Moabite,",
-      "links": "",
+      "links": [
+        "1 Chr 4:35",
+        "2 Sam 23:27",
+        "Ruth 1:4"
+      ],
       "comment": "The presence of Moabites and other non-Israelites in the list reinforces the idea of God’s grace opening salvation to peoples outside initial covenant boundaries."
     },
     {
@@ -570,7 +588,10 @@
       "chapter": 11,
       "verse": 47,
       "text": "Eliel, Obed, and Jaasiel the Mezobaite.",
-      "links": "",
+      "links": [
+        "2 Sam 23:37",
+        "1 Chr 26:7"
+      ],
       "comment": "The enumeration concludes, a witness that the kingdom is composed of many, united under one anointed king, prefiguring the unity of the faithful under the Messiah."
     }
   ],

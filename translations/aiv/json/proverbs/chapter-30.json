@@ -221,7 +221,11 @@
       "chapter": 30,
       "verse": 18,
       "text": "Three things are too wonderful for me; four I do not understand:",
-      "links": "",
+      "links": [
+        "Job 42:3",
+        "Ps 139:6",
+        "Prov 6:16"
+      ],
       "comment": "Agur expresses awe at the mysteries of creation, reminding readers that human wisdom is incomplete before the greatness of God’s work.",
       "sectionHeader": "Things Too Wonderful and Too Troublesome"
     },
@@ -234,7 +238,11 @@
       "chapter": 30,
       "verse": 19,
       "text": "The way of an eagle in the sky, the way of a serpent on a rock, the way of a ship in the heart of the sea, and the way of a man with a woman.",
-      "links": "",
+      "links": [
+        "Ps 104:25",
+        "Eccl 11:5",
+        "Prov 5:18-19"
+      ],
       "comment": "Each image points to mysteries that cannot be fully explained, including human love—a sign of how profound and sacramental relationships can be, reflecting deeper spiritual realities."
     },
     {
@@ -258,7 +266,11 @@
       "chapter": 30,
       "verse": 21,
       "text": "Under three things the earth trembles; under four it cannot bear up:",
-      "links": "",
+      "links": [
+        "Amos 2:13",
+        "Prov 6:16",
+        "Eccl 7:21"
+      ],
       "comment": "Repetition of the numerical proverb formula, highlighting conditions that disrupt natural order—wisdom observes both created and moral order."
     },
     {
@@ -270,7 +282,11 @@
       "chapter": 30,
       "verse": 22,
       "text": "A slave who becomes king, a fool who is filled with food,",
-      "links": "",
+      "links": [
+        "Eccl 10:7",
+        "Prov 19:10",
+        "Prov 28:12"
+      ],
       "comment": "Focuses on disorder when positions are reversed and wisdom denied, suggesting that virtue and order are intimately connected in biblical thinking."
     },
     {
@@ -282,7 +298,11 @@
       "chapter": 30,
       "verse": 23,
       "text": "an unloved woman when she is married, and a servant girl who displaces her mistress.",
-      "links": "",
+      "links": [
+        "Gen 29:31",
+        "Gen 16:4",
+        "1 Sam 1:6"
+      ],
       "comment": "Continues the list, highlighting challenges in relationships and households, emphasizing harmony and right order."
     },
     {
@@ -294,7 +314,11 @@
       "chapter": 30,
       "verse": 24,
       "text": "Four things on earth are small, yet they are exceedingly wise:",
-      "links": "",
+      "links": [
+        "Prov 6:6",
+        "Job 12:7-10",
+        "Ps 104:24"
+      ],
       "comment": "Shifts to examples from nature, teaching lessons about humility and wisdom from lowly creatures.",
       "sectionHeader": "Wisdom in Small Creatures"
     },
@@ -319,7 +343,11 @@
       "chapter": 30,
       "verse": 26,
       "text": "The rock badgers are a people not mighty, yet they make their home in the cliffs;",
-      "links": "",
+      "links": [
+        "Ps 104:18",
+        "Prov 30:24",
+        "Job 39:4-8"
+      ],
       "comment": "Rock badgers embrace safety despite vulnerability. This reflects a spiritual principle: safety is found in seeking firm foundations for faith."
     },
     {
@@ -331,7 +359,11 @@
       "chapter": 30,
       "verse": 27,
       "text": "The locusts have no king, yet they march in formation;",
-      "links": "",
+      "links": [
+        "Joel 2:7-8",
+        "Prov 6:6-7",
+        "Prov 30:24"
+      ],
       "comment": "Locusts symbolize unity and cooperation, which can be seen as reflecting the desired harmony and unity among believers."
     },
     {
@@ -343,7 +375,11 @@
       "chapter": 30,
       "verse": 28,
       "text": "The lizard can be caught with the hand, yet it is found in kings’ palaces.",
-      "links": "",
+      "links": [
+        "Lev 11:30",
+        "Isa 33:14",
+        "Prov 30:24"
+      ],
       "comment": "Lizards show how lowly creatures may dwell in the presence of kings, hinting at the mystery of grace whereby the humble are exalted."
     },
     {
@@ -355,7 +391,11 @@
       "chapter": 30,
       "verse": 29,
       "text": "Three things have a stately stride; four are stately in their walk:",
-      "links": "",
+      "links": [
+        "Prov 6:16",
+        "Judg 5:22",
+        "Job 39:19-25"
+      ],
       "comment": "Introduces another numerical proverb to illustrate traits worth emulating in character and dignity.",
       "sectionHeader": "Stateliness in Creatures and Self-Control"
     },
@@ -380,7 +420,11 @@
       "chapter": 30,
       "verse": 31,
       "text": "the strutting rooster, the male goat, and a king with his army around him.",
-      "links": "",
+      "links": [
+        "Prov 30:29",
+        "Judg 14:5-6",
+        "Prov 20:2"
+      ],
       "comment": "Images of leadership, order, and authority, showing the virtue of discipline and proper governance within the community."
     },
     {
@@ -404,7 +448,11 @@
       "chapter": 30,
       "verse": 33,
       "text": "For pressing milk produces curds, pressing the nose brings blood, so pressing anger produces strife.",
-      "links": "",
+      "links": [
+        "Jas 1:20",
+        "Prov 15:18",
+        "Prov 29:22"
+      ],
       "comment": "Ends with a vivid proverb showing the consequences of our actions. Sows the idea that peace is a fruit of virtue, widely espoused in biblical tradition and spiritual communities."
     }
   ],

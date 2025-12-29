@@ -13,7 +13,10 @@
       "chapter": 13,
       "verse": 1,
       "text": "That same day, Jesus left the house and sat beside the sea.",
-      "links": "",
+      "links": [
+        "Mark 4:1",
+        "Luke 8:4"
+      ],
       "comment": "Matthew's narrative sets the scene for a series of parables. Jesus teaching by the sea recalls imagery of wisdom dispensed to the people, with echoes of prophetic gatherings in 1 Kings 18:43 and Isaiah 9:1.",
       "sectionHeader": "The Parable of the Sower"
     },
@@ -26,7 +29,10 @@
       "chapter": 13,
       "verse": 2,
       "text": "Great crowds gathered around Him, so He got into a boat and sat down, while the whole crowd stood on the shore.",
-      "links": "",
+      "links": [
+        "Mark 4:1-2",
+        "Luke 5:1-3"
+      ],
       "comment": "The separation of Jesus from the crowd in the boat symbolizes His unique authority as teacher and mediator, echoing Moses teaching from the mountain (Exodus 19:3)."
     },
     {
@@ -50,7 +56,11 @@
       "chapter": 13,
       "verse": 4,
       "text": "And as he sowed, some seeds fell along the path, and the birds came and ate them up.",
-      "links": "",
+      "links": [
+        "Luke 8:5",
+        "Mark 4:4",
+        "Jer 5:27"
+      ],
       "comment": "The path represents hardened hearts. Birds symbolize the evil one snatching away truth (v.19), showing the real spiritual opposition."
     },
     {
@@ -62,7 +72,10 @@
       "chapter": 13,
       "verse": 5,
       "text": "Other seeds fell on rocky ground where they did not have much soil. They sprang up quickly because the soil was shallow.",
-      "links": "",
+      "links": [
+        "Mark 4:5",
+        "Luke 8:6"
+      ],
       "comment": "Quick growth without roots points to initial enthusiasm that cannot sustain hardship (see v.20-21). Spiritual depth is necessary for perseverance."
     },
     {
@@ -74,7 +87,11 @@
       "chapter": 13,
       "verse": 6,
       "text": "But when the sun rose, they were scorched; and since they had no root, they withered away.",
-      "links": "",
+      "links": [
+        "Mark 4:6",
+        "Luke 8:6",
+        "Jas 1:11"
+      ],
       "comment": "Suffering and trials test genuine faith. The sun is a metaphor for persecution (v.21), foreshadowing the early church’s tribulations."
     },
     {
@@ -86,7 +103,11 @@
       "chapter": 13,
       "verse": 7,
       "text": "Other seeds fell among thorns, and the thorns grew up and choked them.",
-      "links": "",
+      "links": [
+        "Mark 4:7",
+        "Luke 8:7",
+        "Jer 4:3"
+      ],
       "comment": "Thorns represent the cares of this world and deceitfulness of riches. Old Testament uses thorns similarly—see Hosea 10:8 and Genesis 3:18. Spiritual fruitfulness is hindered by distractions."
     },
     {
@@ -122,7 +143,10 @@
       "chapter": 13,
       "verse": 10,
       "text": "The disciples came to Him and asked, 'Why do You speak to them in parables?'",
-      "links": "",
+      "links": [
+        "Mark 4:10-11",
+        "Luke 8:9-10"
+      ],
       "comment": "The disciples seek revelation, indicating their close relationship and deeper formation—a principle of growing into spiritual understanding through guidance of tradition.",
       "sectionHeader": "The Purpose of Parables"
     },
@@ -219,7 +243,10 @@
       "chapter": 13,
       "verse": 18,
       "text": "So hear the parable of the sower:",
-      "links": "",
+      "links": [
+        "Mark 4:13",
+        "Luke 8:11"
+      ],
       "comment": "Jesus moves to explain the parable, showing care for inner circle understanding—reinforcing the idea of received tradition.",
       "sectionHeader": "The Parable of the Sower Explained"
     },
@@ -244,7 +271,11 @@
       "chapter": 13,
       "verse": 20,
       "text": "What was sown on rocky ground—this is the one who hears the word and immediately receives it with joy.",
-      "links": "",
+      "links": [
+        "Mark 4:16",
+        "Luke 8:13",
+        "Heb 6:4-6"
+      ],
       "comment": "Joyful initial response, but lacking enduring commitment. Faith requires both initial response and ongoing endurance, as echoed in Hebrews 3:14."
     },
     {
@@ -292,7 +323,11 @@
       "chapter": 13,
       "verse": 24,
       "text": "Jesus presented another parable to them, saying: 'The kingdom of heaven may be compared to a man who sowed good seed in his field.'",
-      "links": "",
+      "links": [
+        "Mark 4:26",
+        "Matt 20:1",
+        "Luke 13:18-19"
+      ],
       "comment": "The topic shifts to the nature of the kingdom. The ‘field’ is the world; sowing is a divine act. Early church interpretations often see this as insight into God’s universal plan.",
       "sectionHeader": "The Parable of the Weeds"
     },
@@ -305,7 +340,11 @@
       "chapter": 13,
       "verse": 25,
       "text": "But while everyone was sleeping, his enemy came, sowed weeds among the wheat, and went away.",
-      "links": "",
+      "links": [
+        "Matt 13:38-39",
+        "Mark 4:27",
+        "Job 31:7"
+      ],
       "comment": "The enemy is spiritual evil acting in secret. The theme of wheat and weeds growing together foreshadows both present realities and ultimate separation at the final judgment."
     },
     {
@@ -317,7 +356,10 @@
       "chapter": 13,
       "verse": 26,
       "text": "When the wheat sprouted and formed heads, then the weeds also appeared.",
-      "links": "",
+      "links": [
+        "Matt 13:30",
+        "Mark 4:28-29"
+      ],
       "comment": "Evil becomes apparent as faith matures. Early church interpretation often understood this as referring to visible and invisible members in the church community."
     },
     {
@@ -329,7 +371,10 @@
       "chapter": 13,
       "verse": 27,
       "text": "The owner's servants came and said to him, 'Sir, didn't you sow good seed in your field? Where did these weeds come from?'",
-      "links": "",
+      "links": [
+        "Matt 13:36",
+        "Matt 13:24"
+      ],
       "comment": "Questioning the origin of evil points to human struggle with the reality of sin and imperfection, echoing Genesis 3 and Job 1-2."
     },
     {
@@ -341,7 +386,10 @@
       "chapter": 13,
       "verse": 28,
       "text": "'An enemy has done this,' he replied. The servants asked, 'Do you want us to go and pull them up?'",
-      "links": "",
+      "links": [
+        "Matt 13:39",
+        "Matt 13:30"
+      ],
       "comment": "Divine patience is highlighted. Immediate judgment is withheld until the final harvest—an important theological insight into divine mercy and the process of salvation."
     },
     {
@@ -353,7 +401,11 @@
       "chapter": 13,
       "verse": 29,
       "text": "'No,' he answered, 'lest while you gather up the weeds you root up the wheat with them.'",
-      "links": "",
+      "links": [
+        "Matt 13:30",
+        "Rom 14:13",
+        "1 Cor 4:5"
+      ],
       "comment": "God allows both good and evil to persist together to protect the faithful. The separation comes at the final judgment, not prematurely."
     },
     {
@@ -438,7 +490,11 @@
       "chapter": 13,
       "verse": 36,
       "text": "Then He left the crowds and went into the house. His disciples came to Him and said, 'Explain to us the parable of the weeds in the field.'",
-      "links": "",
+      "links": [
+        "Mark 4:10",
+        "Matt 13:10",
+        "Luke 8:9"
+      ],
       "comment": "The shift to private teaching for disciples points to the authority and tradition handed down through leaders, a sign of the value of the church’s interpretive heritage.",
       "sectionHeader": "The Parable of the Weeds Explained"
     },
@@ -548,7 +604,11 @@
       "chapter": 13,
       "verse": 45,
       "text": "'Again, the kingdom of heaven is like a merchant seeking fine pearls.'",
-      "links": "",
+      "links": [
+        "Matt 13:46",
+        "Ps 19:10",
+        "Prov 3:15"
+      ],
       "comment": "Pearls were symbols of wisdom and the kingdom, alluding to Proverbs 3:15. The imagery suggests the relentless pursuit of holiness."
     },
     {
@@ -572,7 +632,11 @@
       "chapter": 13,
       "verse": 47,
       "text": "'Again, the kingdom of heaven is like a net cast into the sea, gathering fish of every kind.'",
-      "links": "",
+      "links": [
+        "Matt 13:48",
+        "Hab 1:14",
+        "Ezek 47:10"
+      ],
       "comment": "The universal invitation echoes the expansion of the church and the gathering of all nations. The net includes both righteous and unrighteous, until final separation."
     },
     {
@@ -584,7 +648,11 @@
       "chapter": 13,
       "verse": 48,
       "text": "When it was full, they dragged it ashore, sat down, and gathered the good fish into containers but threw the bad away.",
-      "links": "",
+      "links": [
+        "Matt 13:49",
+        "Matt 25:32",
+        "Ezek 34:17"
+      ],
       "comment": "Judgment imagery: the gathered fish symbolize souls. Sorting out the good and bad reflects the future separation of the righteous and sinners."
     },
     {
@@ -620,7 +688,11 @@
       "chapter": 13,
       "verse": 51,
       "text": "Jesus asked them, 'Have you understood all these things?' They said to Him, 'Yes.'",
-      "links": "",
+      "links": [
+        "Matt 9:28",
+        "Mark 4:13",
+        "Luke 24:45"
+      ],
       "comment": "The disciples claim understanding, a sign of their growing spiritual formation—readers are encouraged to seek deeper, authentic comprehension through tradition and community."
     },
     {
@@ -632,7 +704,11 @@
       "chapter": 13,
       "verse": 52,
       "text": "He said to them, 'Therefore every scribe who has been trained for the kingdom of heaven is like the master of a house who brings out of his treasure things new and old.'",
-      "links": "",
+      "links": [
+        "Matt 23:34",
+        "Luke 12:42",
+        "2 Tim 2:15"
+      ],
       "comment": "Jesus affirms the value of both the old and new—upholding spiritual heritage and embracing new revelation. Tradition is emphasized as foundational to full understanding."
     },
     {
@@ -644,7 +720,11 @@
       "chapter": 13,
       "verse": 53,
       "text": "When Jesus had finished these parables, He departed from there.",
-      "links": "",
+      "links": [
+        "Matt 19:1",
+        "Matt 7:28",
+        "Mark 1:21"
+      ],
       "comment": "Shift in locale signifies a transition in ministry focus. Teaching through parables completed, Jesus moves toward direct confrontation and miracles.",
       "sectionHeader": "The Rejection at Nazareth"
     },
@@ -657,7 +737,11 @@
       "chapter": 13,
       "verse": 54,
       "text": "Coming to His hometown, He began to teach in their synagogue, and they were astonished, saying, 'Where did this man get this wisdom and these miraculous powers?'",
-      "links": "",
+      "links": [
+        "Mark 6:1-2",
+        "Luke 4:16",
+        "Luke 2:47"
+      ],
       "comment": "The synagogue setting shows the importance of liturgical assembly and teaching authority. Jesus’s wisdom and miracles confirm His divinity and fulfillment of prophecy."
     },
     {
@@ -681,7 +765,10 @@
       "chapter": 13,
       "verse": 56,
       "text": "'And are not all His sisters with us? Where then did this man get all these things?'",
-      "links": "",
+      "links": [
+        "Mark 6:3",
+        "Matt 12:46"
+      ],
       "comment": "The crowd’s familiarity breeds disbelief, foreshadowing Jesus’s rejection by His own. The mention of sisters illustrates Jesus’s integration into real human family and history."
     },
     {
@@ -705,7 +792,11 @@
       "chapter": 13,
       "verse": 58,
       "text": "And He did not do many mighty works there because of their unbelief.",
-      "links": "",
+      "links": [
+        "Mark 6:5-6",
+        "Luke 4:24",
+        "John 4:44"
+      ],
       "comment": "Faith enables miracles. Unbelief limits spiritual fruit and divine intervention—pointing to the necessity of trusting and belonging to the household of faith."
     }
   ],

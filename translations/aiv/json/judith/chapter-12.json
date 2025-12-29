@@ -3,6 +3,13 @@
   "bookName": "Judith",
   "bookAbbreviation": "Jdt",
   "chapter": 12,
+  "sections": [
+    {
+      "title": "Judith’s Preparation in Holofernes’ Camp",
+      "startVerse": 1,
+      "endVerse": 20
+    }
+  ],
   "verses": [
     {
       "pk": 18012001,
@@ -12,10 +19,10 @@
       "bookAbbreviation": "Jdt",
       "chapter": 12,
       "verse": 1,
-      "text": "Then he commanded her to be brought in where the silverware was kept, and ordered that they set a table for her with his own delicacies. But Judith said, she would not eat those.",
-      "links": "<a href='/AIV/18/10/5'>Jdt 10:5</a>; <a href='/AIV/18/12/2'>Jdt 12:2</a>",
-      "comment": "Judith insists on keeping her own customs and food. This shows her fidelity to the law of her fathers, which points to the importance of tradition in spiritual life (see Daniel 1:8-16).",
-      "sectionHeader": "Judith Refuses the Food of the Assyrians"
+      "text": "Then he commanded her to be led into the place where his silverware was set, and ordered her food from his table to be brought to her.",
+      "links": "<a href='/AIV/18/10/18'>Jdt 10:18</a>; <a href='/AIV/18/13/1'>Jdt 13:1</a>",
+      "comment": "The commander, Holofernes, offers Judith hospitality, which sets the stage for her plan. Hospitality to strangers echoes Abraham in Genesis 18:1-8.",
+      "sectionHeader": "Judith’s Preparation in Holofernes’ Camp"
     },
     {
       "pk": 18012002,
@@ -25,9 +32,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 12,
       "verse": 2,
-      "text": "But Judith said, 'I will not eat these things, lest there be an offense, but provisions are given to me by my maid.'",
-      "links": "<a href='/AIV/17/4/14'>Est. 4:14</a>; <a href='/AIV/27/1/8'>Dan. 1:8</a>",
-      "comment": "Judith's refusal prefigures those who keep themselves set apart for God. The idea of set-apartness reflects later New Testament themes of holiness (cf. 1 Peter 1:16)."
+      "text": "But Judith said, 'I will not eat of it, lest there be an offense; instead, I will be provided from what I have brought with me.'",
+      "links": "<a href='/AIV/18/10/5'>Jdt 10:5</a>; <a href='/AIV/27/1/8'>Dan. 1:8</a>",
+      "comment": "Judith’s refusal to eat unclean food mirrors Daniel in Babylon (Daniel 1:8). This displays faithfulness to sacred laws regarding purity and food."
     },
     {
       "pk": 18012003,
@@ -37,9 +44,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 12,
       "verse": 3,
-      "text": "Holofernes said to her, 'But if your stores run out, where will we get more for you? We have none of your people with us.'",
-      "links": "<a href='/AIV/18/13/12'>Jdt 13:12</a>",
-      "comment": "The concern over food highlights the theme of hospitality and divine provision, anticipated also in the feeding miracles of Jesus (see Mark 6:41-44)."
+      "text": "Holofernes asked her, 'But if your provisions run out, where will we get more like them for you?'",
+      "links": "<a href='/AIV/18/13/2'>Jdt 13:2</a>",
+      "comment": "Holofernes shows continued concern for Judith’s needs, reflecting the royal practice of giving favor to honored guests (Esther 2:9)."
     },
     {
       "pk": 18012004,
@@ -49,9 +56,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 12,
       "verse": 4,
-      "text": "Judith answered, 'As surely as you live, my lord, your servant will not use up her supplies until the Lord accomplishes by my hand what he has determined.'",
+      "text": "Judith answered, 'As surely as you live, my lord, what your servant has will be enough until the LORD accomplishes by my hand what he has determined.'",
       "links": "<a href='/AIV/18/8/33'>Jdt 8:33</a>; <a href='/AIV/07/4/9'>Judg. 4:9</a>",
-      "comment": "Judith speaks with faith that God will use her, recalling OT judges like Deborah. Her reliance on God, not on the comforts of the world, foreshadows Mary's fiat (Luke 1:38)."
+      "comment": "Judith hints at her divine mission. Her language recalls stories like Deborah in Judges 4:9, showing God using women as instruments for His purpose."
     },
     {
       "pk": 18012005,
@@ -61,10 +68,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 12,
       "verse": 5,
-      "text": "So Holofernes' servants brought her to the tent where she stayed until she went out in the middle of the night to pray.",
-      "links": "<a href='/AIV/18/9/1'>Jdt 9:1</a>; <a href='/AIV/19/55/17'>Ps. 55:17</a>",
-      "comment": "Judith praying at night shows devotion to constant prayer, echoing Daniel's prayer habits. Such prayerful discipline is echoed in New Testament passages (1 Thess. 5:17).",
-      "sectionHeader": "Judith's Prayers and Purity"
+      "text": "Then the attendants of Holofernes led her to the tent, and she slept until midnight. Just before the morning watch she got up.",
+      "links": "<a href='/AIV/02/14/24'>Ex. 14:24</a>; <a href='/AIV/18/13/1'>Jdt 13:1</a>",
+      "comment": "Judith’s movement during the watches of night points to God's deliverance happening at such times (Exodus 14:24)."
     },
     {
       "pk": 18012006,
@@ -74,9 +80,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 12,
       "verse": 6,
-      "text": "Every evening and morning she would go out into the valley of Bethulia and pray to the Lord God of Israel.",
-      "links": "<a href='/AIV/19/55/17'>Ps. 55:17</a>; <a href='/AIV/27/6/10'>Dan. 6:10</a>",
-      "comment": "Judith's daily prayer rhythm reflects Old Testament piety and anticipates the pattern of morning and evening prayer, connecting to Christian liturgical practices."
+      "text": "She sent word to Holofernes, saying, 'Let my lord now give orders to allow your servant to go out for prayer.'",
+      "links": "<a href='/AIV/18/8/6'>Jdt 8:6</a>; <a href='/AIV/41/1/35'>Mark 1:35</a>",
+      "comment": "Judith prioritizes prayer, like Jesus rising early to pray (Mark 1:35). She models reliance on God before decisive action."
     },
     {
       "pk": 18012007,
@@ -86,9 +92,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 12,
       "verse": 7,
-      "text": "She remained clean, and after her prayer, she returned and stayed pure in the tent until she ate her food at evening.",
-      "links": "<a href='/AIV/03/11/44'>Lev. 11:44</a>",
-      "comment": "Judith's emphasis on purity and dietary laws is a sign of obedience to God's commands. Purity as a theme foreshadows the New Testament call to holiness (Matthew 5:8)."
+      "text": "So Holofernes commanded his guards not to hinder her. She remained in the camp three days, going out at night to the valley of Bethulia to wash herself, and she prayed to the LORD, the God of Israel.",
+      "links": "<a href='/AIV/18/8/6'>Jdt 8:6</a>; <a href='/AIV/03/14/8'>Lev. 14:8</a>",
+      "comment": "Judith’s ritual washing and prayer show deep reverence for purity—echoes of rites in Leviticus. Three days is a biblically significant period (cf. Hosea 6:2; Luke 24:46)."
     },
     {
       "pk": 18012008,
@@ -98,10 +104,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 12,
       "verse": 8,
-      "text": "On the fourth day, Holofernes held a banquet for his servants and said to Bagoas, the eunuch who was in charge over all he had, 'Go and persuade the Hebrew woman who is with you to come and eat and drink with us.'",
-      "links": "<a href='/AIV/18/5/3'>Jdt 5:3</a>",
-      "comment": "The fourth day motif recalls times of testing in Scripture (cf. John 11:39). The invitation signifies the mixing of the sacred with the profane, a common theme in biblical narratives.",
-      "sectionHeader": "Judith Invited to Holofernes' Banquet"
+      "text": "After cleansing herself, she returned and remained pure in the tent until she ate her food in the evening.",
+      "links": "<a href='/AIV/03/11/46-47'>Lev. 11:46-47</a>; <a href='/AIV/18/10/5'>Jdt 10:5</a>",
+      "comment": "Judith maintains holiness and purity—image of faithful obedience. This level of personal discipline foreshadows New Testament calls to be 'set apart' (Romans 12:1)."
     },
     {
       "pk": 18012009,
@@ -111,9 +116,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 12,
       "verse": 9,
-      "text": "Bagoas went to Judith and said, 'Let this beautiful servant not hesitate to come to my lord, to be honored in his presence, and to drink wine with us, as you did before.'",
-      "links": "<a href='/AIV/18/10/23'>Jdt 10:23</a>",
-      "comment": "The flattery here is reminiscent of temptations faced by figures like Daniel and Esther in the courts of foreign kings. Judith's steadfastness becomes a model for living in the world but not being of it (John 17:14-16)."
+      "text": "Then she returned purified and stayed in the tent until she ate her food toward evening.",
+      "links": [
+        "Lev 11:44",
+        "Dan 1:8",
+        "Jdt 8:6"
+      ],
+      "comment": "Judith's purification ritual reflects Jewish laws of ceremonial cleanness (cf. Lev. 15), highlighting her piety and separation from pagan influences before her impending act."
     },
     {
       "pk": 18012010,
@@ -123,9 +132,12 @@
       "bookAbbreviation": "Jdt",
       "chapter": 12,
       "verse": 10,
-      "text": "Judith replied, 'Who am I to refuse my lord? I will do all he wants, and I will gladly eat and drink what pleases him.'",
-      "links": "<a href='/AIV/18/11/20'>Jdt 11:20</a>",
-      "comment": "Judith speaks diplomatically, masking her true purpose. This recalls Jesus' wisdom in answering hostile opponents (Matthew 22:15-22), and shows prudence as a virtue."
+      "text": "On the fourth day Holofernes held a banquet for his personal attendants only, and did not invite any of his officers.",
+      "links": [
+        "Esth 1:10-12",
+        "Dan 5:1-2"
+      ],
+      "comment": "Holofernes' exclusive banquet suggests increasing intimacy and vulnerability, setting the stage for Judith's decisive encounter and highlighting his isolation from his own commanders."
     },
     {
       "pk": 18012011,
@@ -135,9 +147,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 12,
       "verse": 11,
-      "text": "So Judith got up, and she adorned herself with splendid clothing and all her woman's attire. Her maid went ahead and spread sheep fleece on the ground for her in front of Holofernes.",
-      "links": "<a href='/AIV/18/10/3-4'>Jdt 10:3-4</a>",
-      "comment": "Judith's adornment recalls Esther's preparation before the king (Esther 5:1). The use of sheep fleece can be seen as symbolizing innocence or sacrifice, themes fulfilled in Christ (John 1:29)."
+      "text": "He said to Bagoas, the eunuch who had charge of his personal affairs, 'Go and persuade the Hebrew woman who is in your care to join us and to eat and drink with us.'",
+      "links": [
+        "Gen 39:7",
+        "Esth 2:8-9",
+        "Dan 1:9"
+      ],
+      "comment": "Bagoas, a court eunuch, often functions as an intermediary in ancient Near Eastern courts (cf. Esther 2:3), here facilitating Judith’s presence and emphasizing the role of palace officials in royal schemes."
     },
     {
       "pk": 18012012,
@@ -147,10 +163,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 12,
       "verse": 12,
-      "text": "Judith came in and lay down, but Holofernes' heart was inflamed with desire for her. He was deeply moved and had been waiting for the time to seduce her ever since the first day he saw her.",
-      "links": "<a href='/AIV/18/16/21'>Jdt 16:21</a>; <a href='/AIV/07/16/4-21'>Judg. 16:4-21</a>",
-      "comment": "The text reveals the lustful intent of Holofernes, paralleling Delilah and Samson. Judith's virtue triumphs where others have fallen, alluding to Mary's purity amid a corrupt world.",
-      "sectionHeader": "Holofernes Overcome with Desire for Judith"
+      "text": "For it would be a disgrace if we let such a woman go without having intercourse with her. If we do not seduce her, she will laugh at us.",
+      "links": [
+        "Gen 39:12",
+        "2 Sam 13:11-14",
+        "Jas 1:14-15"
+      ],
+      "comment": "The emphasis on seduction exposes the predatory intentions of Holofernes and contrasts sharply with Judith's virtue, presenting a conflict between pagan lust and Hebrew faithfulness."
     },
     {
       "pk": 18012013,
@@ -160,9 +179,12 @@
       "bookAbbreviation": "Jdt",
       "chapter": 12,
       "verse": 13,
-      "text": "Holofernes said to her, 'Drink now with us and be joyful with us!'",
-      "links": "<a href='/AIV/19/104/15'>Ps. 104:15</a>",
-      "comment": "This invitation echoes the recurring biblical motif of banquet invitations, with choices for faithfulness or compromise (Luke 14:15-24)."
+      "text": "So Bagoas left the presence of Holofernes, and approached her and said, 'Let this pretty girl not hesitate to come to my lord to be honored in his presence, and to enjoy drinking wine with us, and to become today like one of the Assyrian women who serve in the palace of Nebuchadnezzar.'",
+      "links": [
+        "Esth 2:16-17",
+        "Dan 1:5"
+      ],
+      "comment": "Bagoas delivers an invitation laced with flattery and assimilation, urging Judith to accept foreign customs and further testing her resolve to maintain her Jewish identity."
     },
     {
       "pk": 18012014,
@@ -172,9 +194,12 @@
       "bookAbbreviation": "Jdt",
       "chapter": 12,
       "verse": 14,
-      "text": "Judith said, 'Yes, my lord, I will gladly eat of what you give me, for from this day on I will honor you all the days of my life.'",
-      "links": "<a href='/AIV/18/11/5'>Jdt 11:5</a>",
-      "comment": "Judith's response is shrewd and ambiguous. Such wisdom in speech has precedent with Jesus before Pilate (John 18:37), and Daniel before Nebuchadnezzar."
+      "text": "Judith replied, 'Who am I to refuse my lord? Whatever pleases him I will do at once, and it will be a joy to me until the day of my death.'",
+      "links": [
+        "Dan 3:16-18",
+        "Esth 4:16"
+      ],
+      "comment": "Judith responds with diplomatic submission, concealing her true motives behind words that echo the humility and wisdom seen in Esther (Esther 5:4), setting up her strategic action."
     },
     {
       "pk": 18012015,
@@ -184,9 +209,12 @@
       "bookAbbreviation": "Jdt",
       "chapter": 12,
       "verse": 15,
-      "text": "She got up, put on her festive garments, and all her woman's adornments. Her maid went before her and laid her sheep fleece on the ground for her. Judith came in and lay down.",
-      "links": "<a href='/AIV/18/10/3'>Jdt 10:3</a>",
-      "comment": "Repetition underscores the importance of Judith's preparation and her purposeful use of beauty. In the spiritual sense, the Church is described as a bride prepared for Christ (Rev. 21:2)."
+      "text": "So she proceeded to dress herself in all her woman’s finery. Her maid went ahead and spread for her on the ground before Holofernes the lambskins she had received from Bagoas for her daily use in reclining.",
+      "links": [
+        "Esth 5:1",
+        "Jdt 10:3-4"
+      ],
+      "comment": "Judith adorns herself with finery, echoing biblical motifs of beauty wielded for a greater cause (cf. Esther 5:1), while the lambskins suggest both luxury and perhaps a subtle metaphor for sacrifice."
     },
     {
       "pk": 18012016,
@@ -196,9 +224,12 @@
       "bookAbbreviation": "Jdt",
       "chapter": 12,
       "verse": 16,
-      "text": "Holofernes was overwhelmed with desire for her, and drank more wine than he had ever drunk in his life.",
-      "links": "<a href='/AIV/20/23/31-32'>Prov. 23:31-32</a>; <a href='/AIV/18/13/2'>Jdt 13:2</a>",
-      "comment": "Wine often symbolizes both blessing and judgment in biblical literature. Here, it is linked with Holofernes' downfall, reminiscent of warnings against drunkenness (Eph. 5:18)."
+      "text": "Then Judith came in and lay down. Holofernes’ heart was ravished with her and his passion was aroused, for he had been waiting for an opportunity to seduce her from the day he first saw her.",
+      "links": [
+        "Judg 16:4-6",
+        "Dan 13:31"
+      ],
+      "comment": "Holofernes' overwhelming desire fulfills Judith’s plan, demonstrating how pride and passion make powerful men vulnerable, reinforcing the biblical theme of God using the weak to shame the strong (cf. 1 Cor. 1:27)."
     },
     {
       "pk": 18012017,
@@ -208,9 +239,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 12,
       "verse": 17,
-      "text": "When it was late, the servants withdrew, and Bagoas closed the tent from the outside and sent away the guests.",
-      "links": "<a href='/AIV/18/13/1'>Jdt 13:1</a>",
-      "comment": "The privacy sets the stage for the coming deliverance. Such scenes often prelude an act of God using weak instruments as instruments of deliverance (cf. 1 Cor. 1:27)."
+      "text": "So Holofernes said to her, 'Have a drink and be merry with us!'",
+      "links": [
+        "Prov 23:31",
+        "Dan 5:4",
+        "Esth 1:8"
+      ],
+      "comment": "Holofernes’ invitation to drink and make merry situates Judith in a position of deeper trust and possible danger, marking a pivotal moment before her act of deliverance, as seen in other stories of banquet intrigue (cf. Esther 7:2)."
     },
     {
       "pk": 18012018,
@@ -220,9 +255,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 12,
       "verse": 18,
-      "text": "All went to their beds for they were weary from the long banquet.",
-      "links": "<a href='/AIV/18/13/1'>Jdt 13:1</a>",
-      "comment": "The weariness of the banqueters further sets Judith in contrast as vigilant and sober, recalling Jesus’ call to spiritual watchfulness (Mark 13:33-37)."
+      "text": "Judith said, “I will gladly drink, my lord, because today is the greatest day in my whole life.”",
+      "links": "<a href='/AIV/18/13/4'>Jdt 13:4</a>",
+      "comment": "The scene is now set for Judith’s action, with all witnesses gone. Darkness and secrecy recall moments of divine intervention throughout Scripture."
     },
     {
       "pk": 18012019,
@@ -232,9 +267,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 12,
       "verse": 19,
-      "text": "Judith was left alone in the tent, with Holofernes stretched out, drunk on his bed.",
-      "links": "<a href='/AIV/18/13/2'>Jdt 13:2</a>; <a href='/AIV/07/4/21'>Judg. 4:21</a>",
-      "comment": "Judith’s courage alone before the enemy mirrors Jael’s bravery, and foreshadows the trust in God demonstrated by Christ before his Passion."
+      "text": "Then she took what her maid had prepared and ate and drank before him.",
+      "links": "<a href='/AIV/20/23/33-34'>Prov. 23:33–34</a>",
+      "comment": "Drunkenness brings vulnerability, a repeated biblical theme. Moments of human weakness are often occasions for God’s power to be revealed."
     },
     {
       "pk": 18012020,
@@ -244,32 +279,10 @@
       "bookAbbreviation": "Jdt",
       "chapter": 12,
       "verse": 20,
-      "text": "Now Judith had told her maid to stand outside the bedchamber, and to watch for her coming out just as every day; for she said she would be going out to pray, and would speak with her servant about it afterwards; and she spoke the same words to Bagoas.",
-      "links": "<a href='/AIV/18/13/3'>Jdt 13:3</a>; <a href='/AIV/18/9/1'>Jdt 9:1</a>",
-      "comment": "Judith’s careful planning shows prudence and reliance on her faith practice. God sometimes works through human preparation as well as supernatural intervention."
+      "text": "Judith was left alone in the tent, with Holofernes lying prostrate on his bed, overcome with wine.",
+      "links": "<a href='/AIV/18/13/2-4'>Jdt 13:2–4</a>; <a href='/AIV/07/4/21'>Judg. 4:21</a>",
+      "comment": "This verse leads directly into the climactic act of Judith’s mission. The pattern echoes Jael and Sisera (Judges 4:21). Judith as a typological figure points to the honor and spiritual authority God bestows even on the humble and those considered 'outsiders' by the world."
     }
   ],
-  "translatedAt": "2025-12-24T05:06:03.791Z",
-  "sections": [
-    {
-      "title": "Judith Refuses the Food of the Assyrians",
-      "startVerse": 1,
-      "endVerse": 4
-    },
-    {
-      "title": "Judith's Prayers and Purity",
-      "startVerse": 5,
-      "endVerse": 7
-    },
-    {
-      "title": "Judith Invited to Holofernes' Banquet",
-      "startVerse": 8,
-      "endVerse": 11
-    },
-    {
-      "title": "Holofernes Overcome with Desire for Judith",
-      "startVerse": 12,
-      "endVerse": 20
-    }
-  ]
+  "translatedAt": "2025-12-28T23:43:46.739Z"
 }

@@ -1,0 +1,603 @@
+{
+  "book": 34,
+  "bookName": "Daniel",
+  "bookAbbreviation": "Dan",
+  "chapter": 14,
+  "sections": [
+    {
+      "title": "Bel and the Dragon",
+      "startVerse": 1,
+      "endVerse": 20
+    },
+    {
+      "title": "The Slaying of the Dragon",
+      "startVerse": 21,
+      "endVerse": 42
+    }
+  ],
+  "verses": [
+    {
+      "pk": 34014001,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 1,
+      "text": "After King Astyages died, Cyrus of Persia succeeded him as king.",
+      "links": "<a href='/AIV/15/1/1'>Ezra 1:1</a>",
+      "comment": "Daniel 14 is found in the Greek additions to Daniel, known from the Septuagint. This verse sets the historical context, linking events in Daniel to the rule of Cyrus.",
+      "sectionHeader": "Bel and the Dragon"
+    },
+    {
+      "pk": 34014002,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 2,
+      "text": "Daniel was a close companion of the king, and he was honored above all the friends of the king.",
+      "links": "<a href='/AIV/27/1/19-20'>Daniel 1:19-20</a>",
+      "comment": "Daniel’s favor with the king prefigures the role of righteous individuals serving in royal courts. Daniel’s faithfulness throughout the book models service rooted in faith."
+    },
+    {
+      "pk": 34014003,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 3,
+      "text": "The Babylonians had an idol called Bel, and every day they provided for it twelve bushels of fine flour, forty sheep, and six measures of wine.",
+      "links": "<a href='/AIV/27/3/12-18'>Daniel 3:12-18</a>",
+      "comment": "Bel worship was part of Babylonian religion. Compare this with Israel’s daily offerings in <a href='/AIV/4/28/3-8'>Numbers 28:3-8</a>."
+    },
+    {
+      "pk": 34014004,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 4,
+      "text": "The king honored Bel and went every day to worship him. But Daniel worshiped his own God.",
+      "links": "<a href='/AIV/20/18/1'>Proverbs 18:1</a>",
+      "comment": "Daniel’s exclusive worship illustrates true faith amid pluralism, a recurring biblical theme."
+    },
+    {
+      "pk": 34014005,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 5,
+      "text": "So the king asked him, 'Why do you not worship Bel?' Daniel answered, 'Because I do not worship idols made with hands, but the living God who created heaven and earth and has power over all flesh.'",
+      "links": "<a href='/AIV/19/115/4-7'>Psalm 115:4-7</a>",
+      "comment": "Daniel’s answer is foundational to biblical theism. The living God vs. idols is a major theme—see <a href='/AIV/23/44/9-20'>Isaiah 44:9-20</a>."
+    },
+    {
+      "pk": 34014006,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 6,
+      "text": "The king said to him, 'Do you not think Bel is a living god? Do you not see how much he eats and drinks every day?'",
+      "links": "<a href='/AIV/19/135/15-17'>Psalm 135:15-17</a>",
+      "comment": "This highlights the king’s misunderstanding of divinity—contrasting the true God with manmade images."
+    },
+    {
+      "pk": 34014007,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 7,
+      "text": "Daniel laughed and said, 'Do not be deceived, O king. This idol is made of clay inside and bronze outside, and never ate or drank anything.'",
+      "links": "<a href='/AIV/23/46/5-7'>Isaiah 46:5-7</a>",
+      "comment": "Daniel exposes the folly of idol worship, echoing themes found in the prophets."
+    },
+    {
+      "pk": 34014008,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 8,
+      "text": "Then the king was angry and called for the priests of Bel, and he said to them, 'If you cannot show me that Bel eats these provisions, you shall die. But if you prove that Bel eats them, Daniel shall die for blaspheming against Bel.'",
+      "links": "<a href='/AIV/27/3/8-18'>Daniel 3:8-18</a>",
+      "comment": "Religious disputes often lead to conflicts in the biblical narrative—faith is tested by worldly powers."
+    },
+    {
+      "pk": 34014009,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 9,
+      "text": "Daniel said to the king, 'Let it be as you have said.' Now there were seventy priests of Bel, besides their wives and children.",
+      "links": "<a href='/AIV/4/11/16-17'>Numbers 11:16-17</a>",
+      "comment": "The large number of priests demonstrates how deeply ingrained idol worship was in this society."
+    },
+    {
+      "pk": 34014010,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 10,
+      "text": "So the king and Daniel entered the temple of Bel, and the priests of Bel said, 'We will go out, but you, O king, set out the food and prepare the wine, then shut the door and seal it with your ring. When you come in tomorrow, if you do not find that Bel has eaten it all, we shall die; but if he has, Daniel shall die for lying against us.'",
+      "links": "<a href='/AIV/27/6/17'>Daniel 6:17</a>",
+      "comment": "The sealing of the door is reminiscent of other biblical passages where seals are used to guarantee authenticity or prevent tampering."
+    },
+    {
+      "pk": 34014011,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 11,
+      "text": "They were not concerned, for they had made a hidden entrance under the table, through which they always came in and consumed the supplies.",
+      "links": "<a href='/AIV/19/64/6'>Psalm 64:6</a>",
+      "comment": "The priests’ deception points to the corruptibility of human religious institutions when not rooted in truth."
+    },
+    {
+      "pk": 34014012,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 12,
+      "text": "When they had gone out, the king set the food before Bel. Daniel ordered his servants to bring ashes, and they spread them throughout the temple in the king’s presence; then they went out, shut the door, and sealed it with the king’s ring, and then departed.",
+      "links": "<a href='/AIV/2/12/22'>Exodus 12:22</a>",
+      "comment": "Daniel’s wisdom reflects the biblical tradition of using practical means to reveal truth."
+    },
+    {
+      "pk": 34014013,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 13,
+      "text": "During the night, as usual, the priests came with their wives and children, and they ate and drank everything.",
+      "links": "<a href='/AIV/19/14/2-4'>Psalm 14:2-4</a>",
+      "comment": "Their families' involvement shows the generational corruption in false religion."
+    },
+    {
+      "pk": 34014014,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 14,
+      "text": "In the morning, the king arose and Daniel with him.",
+      "links": [
+        "Dan 6:19",
+        "Ps 30:5",
+        "Luke 24:1"
+      ],
+      "comment": "The scene is set for the exposure of the priests’ deceit."
+    },
+    {
+      "pk": 34014015,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 15,
+      "text": "And the king said, 'Are the seals still unbroken, Daniel?' Daniel answered, 'They are unbroken, O king.'",
+      "links": "<a href='/AIV/27/6/17'>Daniel 6:17</a>",
+      "comment": "Sealed doors were believed to be tamper-proof—analogous to Christ’s tomb in <a href='/AIV/40/27/66'>Matthew 27:66</a>."
+    },
+    {
+      "pk": 34014016,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 16,
+      "text": "When they opened the door, the king looked at the table and cried out in a loud voice, 'Great are you, O Bel, and with you there is no deceit at all!'",
+      "links": [
+        "Dan 3:28",
+        "Rom 1:25",
+        "Isa 44:17"
+      ],
+      "comment": "The king expresses faith based on appearances rather than objective truth, a familiar biblical motif."
+    },
+    {
+      "pk": 34014017,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 17,
+      "text": "But Daniel laughed and stopped the king from entering, saying, 'Look at the floor and see whose footprints these are.'",
+      "links": [
+        "Job 12:17",
+        "Dan 6:24",
+        "Ps 64:8"
+      ],
+      "comment": "Daniel’s insight leads the king to deeper discernment beyond outward appearances."
+    },
+    {
+      "pk": 34014018,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 18,
+      "text": "The king said, 'I see the footprints of men, women, and children.'",
+      "links": [
+        "Job 34:21",
+        "Prov 15:3",
+        "Isa 29:15"
+      ],
+      "comment": "The evidence is undeniable, showing the wisdom of Daniel—echoing the biblical tradition of truth prevailing over falsehood."
+    },
+    {
+      "pk": 34014019,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 19,
+      "text": "Then the king was enraged, and he arrested the priests, their wives, and their children. They showed the king the hidden door by which they entered and consumed what was on the table.",
+      "links": [
+        "Dan 6:24",
+        "Dan 2:13",
+        "2 Kgs 10:25"
+      ],
+      "comment": "The exposure of these religious impostors anticipates Christ’s cleansing of the Temple—see <a href='/AIV/43/2/13-16'>John 2:13-16</a>."
+    },
+    {
+      "pk": 34014020,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 20,
+      "text": "So the king put them to death, and handed Bel over to Daniel, who destroyed both it and its temple.",
+      "links": "<a href='/AIV/7/6/25'>Judges 6:25</a>",
+      "comment": "This is a parallel to instances where the people of God purify worship by destroying idols."
+    },
+    {
+      "pk": 34014021,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 21,
+      "text": "There was another great dragon revered by the Babylonians.",
+      "links": [
+        "Rev 12:3",
+        "Jer 51:34",
+        "Dan 7:23"
+      ],
+      "comment": "A new episode begins, showing another challenge of idolatry.",
+      "sectionHeader": "The Slaying of the Dragon"
+    },
+    {
+      "pk": 34014022,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 22,
+      "text": "The king said to Daniel, 'You cannot deny that this is a living god. Therefore, worship him.'",
+      "links": [
+        "Dan 3:12",
+        "Ex 20:3",
+        "Acts 14:11"
+      ],
+      "comment": "The king’s challenge reflects persistent pagan temptations throughout biblical history."
+    },
+    {
+      "pk": 34014023,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 23,
+      "text": "Daniel answered, 'I worship the Lord my God, for He is the living God.'",
+      "links": "<a href='/AIV/24/10/10'>Jeremiah 10:10</a>",
+      "comment": "Daniel’s confession is consistent with Israel’s monotheism (<a href='/AIV/5/6/4'>Deuteronomy 6:4</a>)."
+    },
+    {
+      "pk": 34014024,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 24,
+      "text": "The king said to him, 'Will you not worship him? Otherwise you shall die.'",
+      "links": "<a href='/AIV/27/3/15'>Daniel 3:15</a>",
+      "comment": "The threat mirrors that given to the three youths in the fiery furnace (Daniel 3)."
+    },
+    {
+      "pk": 34014025,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 25,
+      "text": "Daniel responded, 'Give me permission, O king, and I will slay this dragon without sword or club.'",
+      "links": [
+        "Dan 2:24",
+        "1 Sam 17:32",
+        "Dan 6:16"
+      ],
+      "comment": "Daniel’s reliance on God, not human means, prefigures miracle stories in both Old and New Testament."
+    },
+    {
+      "pk": 34014026,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 26,
+      "text": "The king said, 'I give you permission.'",
+      "links": [
+        "Dan 6:16",
+        "Esth 5:6",
+        "Matt 8:8"
+      ],
+      "comment": "The king’s openness permits Daniel to act, displaying trust uncommon among pagan rulers."
+    },
+    {
+      "pk": 34014027,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 27,
+      "text": "Then Daniel took pitch, fat, and hair, and boiled them together, made cakes, and fed them to the dragon. The dragon ate them and burst open. So Daniel said, 'Look at what you have been worshiping!'",
+      "links": [
+        "Dan 6:22",
+        "Jer 10:11",
+        "Ps 115:4-8"
+      ],
+      "comment": "This creative sign recalls other divine signs in the Bible—such as plagues in Exodus or Jesus’ miracles that expose false worship (<a href='/AIV/43/8/12'>John 8:12</a>)."
+    },
+    {
+      "pk": 34014028,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 28,
+      "text": "When the Babylonians heard this, they were enraged and conspired against the king. They said, 'The king has become a Jew! He has destroyed Bel, slain the dragon, and put the priests to death.'",
+      "links": [
+        "Dan 3:29",
+        "Acts 17:6",
+        "Matt 27:20"
+      ],
+      "comment": "The anger against Daniel (and the king) mirrors opposition faced by God’s faithful in every era."
+    },
+    {
+      "pk": 34014029,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 29,
+      "text": "So they went to the king, saying, 'Give Daniel to us, or else we will kill you and your household.'",
+      "links": [
+        "Dan 6:16",
+        "Esth 3:6",
+        "Acts 12:4"
+      ],
+      "comment": "The dramatic climax parallels threats against the prophets and Christ himself."
+    },
+    {
+      "pk": 34014030,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 30,
+      "text": "When the king saw that he was being harshly pressed, he was forced to hand Daniel over to them.",
+      "links": [
+        "Dan 6:17",
+        "1 Sam 24:10",
+        "Esth 7:6"
+      ],
+      "comment": "Like Pilate with Jesus, sometimes rulers cave to popular pressure (<a href='/AIV/43/19/16'>John 19:16</a>)."
+    },
+    {
+      "pk": 34014031,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 31,
+      "text": "They threw Daniel into the lions' den, and he remained there for six days.",
+      "links": "<a href='/AIV/27/6/16'>Daniel 6:16</a>",
+      "comment": "This echoes the earlier lions’ den episode, showing Daniel’s repeated faithfulness."
+    },
+    {
+      "pk": 34014032,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 32,
+      "text": "There were seven lions in the den, and every day they had been given two bodies and two sheep; but now they were given nothing, so that they would devour Daniel.",
+      "links": [
+        "Dan 6:7",
+        "Dan 6:16",
+        "Ps 22:13"
+      ],
+      "comment": "Provides detail meant to increase the dramatic tension and highlight the danger Daniel faces."
+    },
+    {
+      "pk": 34014033,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 33,
+      "text": "Now there was a prophet named Habakkuk in Judea. He made stew and had broken bread in a bowl, and he was going into the field to take it to the reapers.",
+      "links": "<a href='/AIV/35/1/1'>Habakkuk 1:1</a>",
+      "comment": "This is an allusion to the prophet Habakkuk, whose mentioned ministry connects Daniel’s narrative with the wider prophetic tradition."
+    },
+    {
+      "pk": 34014034,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 34,
+      "text": "But the angel of the Lord said to Habakkuk, 'Take the food you have to Babylon, to Daniel, who is in the lions’ den.'",
+      "links": "<a href='/AIV/11/19/5-7'>1 Kings 19:5-7</a>",
+      "comment": "God’s angelic intervention hints at the supernatural care provided for God’s faithful—see <a href='/AIV/40/4/11'>Matthew 4:11</a>."
+    },
+    {
+      "pk": 34014035,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 35,
+      "text": "Habakkuk said, 'Lord, I have never seen Babylon, and I do not know the den.'",
+      "links": [
+        "Jer 1:6",
+        "Acts 8:31",
+        "Dan 1:7"
+      ],
+      "comment": "Habakkuk’s response demonstrates human limitation contrasted with God’s omniscience."
+    },
+    {
+      "pk": 34014036,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 36,
+      "text": "Then the angel of the Lord took hold of him by the crown of his head, and by the hair, carried him by the power of the Spirit, and set him in Babylon above the den, in a quick moment.",
+      "links": "<a href='/AIV/26/8/3'>Ezekiel 8:3</a>",
+      "comment": "Miraculous transport by the Spirit mirrors visions and experiences seen elsewhere among the prophets."
+    },
+    {
+      "pk": 34014037,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 37,
+      "text": "Habakkuk cried out, 'Daniel, Daniel, take the food which God has sent you.'",
+      "links": [
+        "Dan 6:22",
+        "1 Kgs 19:5",
+        "Matt 4:11"
+      ],
+      "comment": "This act prefigures angelic ministrations and God providing for His chosen ones—see <a href='/AIV/19/91/11'>Psalm 91:11</a>."
+    },
+    {
+      "pk": 34014038,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 38,
+      "text": "Then Daniel said, 'You have remembered me, O God, and have not forsaken those who love You.'",
+      "links": "<a href='/AIV/19/9/10'>Psalm 9:10</a>",
+      "comment": "Daniel’s gratitude highlights God’s faithfulness—echoed in God caring for His saints throughout Scripture."
+    },
+    {
+      "pk": 34014039,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 39,
+      "text": "So Daniel got up and ate, and the angel of God immediately returned Habakkuk to his own place.",
+      "links": [
+        "Dan 6:22",
+        "Acts 8:39",
+        "1 Kgs 18:12"
+      ],
+      "comment": "Echoes stories of miraculous feeding and divine intervention for those obedient to God."
+    },
+    {
+      "pk": 34014040,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 40,
+      "text": "On the seventh day, the king came to mourn for Daniel; when he reached the den and looked in, there Daniel was, sitting there.",
+      "links": "<a href='/AIV/27/6/19-23'>Daniel 6:19-23</a>",
+      "comment": "Like Christ’s resurrection after three days, Daniel’s survival on the seventh day points to divine deliverance and restoration. The 'seventh day' is a biblical motif of completion and new beginning."
+    },
+    {
+      "pk": 34014041,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 41,
+      "text": "The king shouted with a loud voice, \"You are great, O Lord, the God of Daniel, and there is no other besides you!\"",
+      "links": [
+        "Dan 2:47",
+        "Dan 3:28",
+        "Ps 86:8"
+      ],
+      "comment": "The king's declaration mirrors themes from earlier in Daniel (cf. Dan 2:47; 6:26-27), underscoring the supremacy of Israel's God over all others—a recurring motif when pagan rulers witness God's deliverance."
+    },
+    {
+      "pk": 34014042,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 14,
+      "verse": 42,
+      "text": "Then he pulled Daniel out, and threw into the den those who had attempted his destruction, and they were instantly eaten before his eyes.",
+      "links": [
+        "Dan 6:24",
+        "Esth 7:10",
+        "Ps 37:15"
+      ],
+      "comment": "The reversal of fortune, where Daniel's accusers face the fate intended for him, reflects both divine justice and the protection of the righteous found elsewhere in Biblical literature (cf. Esther 7:10; Ps 7:15-16)."
+    }
+  ],
+  "translatedAt": "2025-12-28T02:08:38.235Z"
+}

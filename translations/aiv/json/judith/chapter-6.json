@@ -3,6 +3,13 @@
   "bookName": "Judith",
   "bookAbbreviation": "Jdt",
   "chapter": 6,
+  "sections": [
+    {
+      "title": "Holofernes' Anger at Achior",
+      "startVerse": 1,
+      "endVerse": 21
+    }
+  ],
   "verses": [
     {
       "pk": 18006001,
@@ -12,10 +19,10 @@
       "bookAbbreviation": "Jdt",
       "chapter": 6,
       "verse": 1,
-      "text": "When the commotion among the people gathered around the chief men of the Assyrians had died down, Holofernes, the commander of the army, said in the presence of all the foreign people and of all the sons of Moab,",
-      "links": "<a href='/AIV/07/7/23'>Judg. 7:23</a>; <a href='/AIV/04/31/8'>Num. 31:8</a>",
-      "comment": "This verse introduces Holofernes, the Assyrian commander, and shows his authority over both foreigners and the Moabites. The setting echoes Old Testament gatherings of leaders before important pronouncements.",
-      "sectionHeader": "Holofernes Threatens Israel"
+      "text": "When the clamor of the men around the council had quieted, Holofernes, the commander of the Assyrian army, spoke to Achior before all the foreign chiefs and to all the sons of Moab.",
+      "links": "<a href='/AIV/15/1/7'>Ezra 1:7</a>; <a href='/AIV/23/10/5'>Isa. 10:5</a>",
+      "comment": "The narrative shifts to the direct confrontation between Holofernes and Achior, highlighting themes of trust in God's providence.",
+      "sectionHeader": "Holofernes' Anger at Achior"
     },
     {
       "pk": 18006002,
@@ -25,9 +32,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 6,
       "verse": 2,
-      "text": "\"Listen to me, you men of Moab, and to the leaders of the people of Canaan. Why do you think Israel can withstand me?",
-      "links": "<a href='/AIV/09/1/1'>1 Sam. 17:10</a>; <a href='/AIV/19/2/1'>Ps. 2:1</a>",
-      "comment": "This challenge echoes Goliath's taunt to Israel (1 Sam. 17:10). There is a contrast between human pride and God's hidden plan, seen throughout salvation history."
+      "text": "He said to Achior the people of Ammon, \"Because you have prophesied to us, saying the Israelites are protected by their God to inflict harm on us, I will show you that there is no God but Nebuchadnezzar, and when we attack them, they will not stand against my power.\"",
+      "links": "<a href='/AIV/27/3/15-18'>Dan 3:15-18</a>; <a href='/AIV/9/17/45-47'>1 Sam 17:45-47</a>",
+      "comment": "Holofernes denies the existence of Israel's God, echoing pagan arrogance. This sets up a comparison with biblical figures like Goliath, who challenged the God of Israel."
     },
     {
       "pk": 18006003,
@@ -37,9 +44,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 6,
       "verse": 3,
-      "text": "No one among their ranks can stand against the might of my army. I will march throughout all their land, and the mountains filled with them will become drunk with their blood, and the valleys will be filled, and every footstep will be wiped out.",
-      "links": "<a href='/AIV/23/34/3'>Isa. 34:3</a>; <a href='/AIV/19/79/3'>Ps. 79:3</a>",
-      "comment": "The imagery of blood and devastation recalls prophetic warnings against Israel's enemies. Holofernes' arrogance foreshadows his downfall, highlighting the biblical theme of divine justice."
+      "text": "\"We, the servants of Nebuchadnezzar, will destroy them as one man. They will not withstand the force of our cavalry.\"",
+      "links": "<a href='/AIV/10/2/11'>Judg 2:11</a>; <a href='/AIV/19/20/7-8'>Ps 20:7-8</a>",
+      "comment": "The faith of God's people is about to be tested by overwhelming worldly power, often depicted in the Psalms and prophetic writings as a call to trust in God's deliverance."
     },
     {
       "pk": 18006004,
@@ -49,9 +56,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 6,
       "verse": 4,
-      "text": "Their mountains will be leveled, their young men struck down by the sword, their infants dashed, their youth destroyed, and their entire army wiped out in a single day.",
-      "links": "<a href='/AIV/23/13/16'>Isa. 13:16</a>; <a href='/AIV/19/137/9'>Ps. 137:9</a>",
-      "comment": "Holofernes claims total victory, echoing prophetic oracles against nations hostile to Israel (compare Isa. 13:16). Yet biblical history often shows God using the weak to confound the strong."
+      "text": "\"I will pass through them like a burning torch, and their mountains will be drunk with their blood, and their plains will be filled with their slain.\"",
+      "links": "<a href='/AIV/23/10/16'>Isa 10:16</a>; <a href='/AIV/19/79/6-7'>Ps 79:6-7</a>",
+      "comment": "Holofernes' violent imagery evokes ancient Near Eastern war rhetoric, emphasizing total conquest; the blood-drenched mountains and plains allude to utter devastation, paralleling prophetic oracles such as Isaiah 34:2-3 and Joel 3:13, highlighting God's sovereignty over historical events."
     },
     {
       "pk": 18006005,
@@ -61,9 +68,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 6,
       "verse": 5,
-      "text": "\"For has their god truly delivered them before? Has any god delivered any nation from the hand of Nebuchadnezzar, my lord?",
-      "links": "<a href='/AIV/27/3/15'>Dan. 3:15</a>; <a href='/AIV/24/37/10'>Jer. 37:10</a>",
-      "comment": "Holofernes blasphemes God, suggesting Israel is defenseless. This challenge directly sets up the demonstration of God's power—an important motif fulfilled in Christ's victory over sin and death."
+      "text": "\"For not even their mountains or hills or their foundations will bear their bodies when they fall before us.\"",
+      "links": "<a href='/AIV/24/4/24-26'>Jer 4:24-26</a>",
+      "comment": "This is language of total destruction, echoing prophetic proclamations—but the passage prepares for God’s intervention."
     },
     {
       "pk": 18006006,
@@ -73,9 +80,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 6,
       "verse": 6,
-      "text": "All their gods are powerless, and they have not saved their people from my hands or the hands of my ancestors. How much less will God save these people from me now?",
-      "links": "<a href='/AIV/23/36/18'>Isa. 36:18-20</a>; <a href='/AIV/19/115/4-8'>Ps. 115:4-8</a>",
-      "comment": "Holofernes repeats the mistake of other conquerors who underestimated the one true God. By exalting himself, he sets the stage for God's intervention, a theme closely connected with the resurrection and vindication of the righteous."
+      "text": "\"They will fall by the sword of my men and be carried off as prisoners to all the provinces of my kingdom.\"",
+      "links": "<a href='/AIV/23/37/36'>Isa 37:36</a>; <a href='/AIV/19/44/11-12'>Ps 44:11-12</a>",
+      "comment": "The fate threatened is exile, a recurring punishment in Israel's history, notably in Assyrian and Babylonian periods."
     },
     {
       "pk": 18006007,
@@ -85,9 +92,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 6,
       "verse": 7,
-      "text": "Therefore, do not be afraid. Their defeat is certain, just as none of my lord's words have failed. Let us press on, and they shall be wiped out with their mountains filled with their dead.",
-      "links": "<a href='/AIV/23/14/23'>Isa. 14:23</a>; <a href='/AIV/06/10/11'>Josh. 10:11</a>",
-      "comment": "Holofernes’s confidence in worldly power sets up the biblical theme that God alone is Judge, often working through unexpected means and humble instruments."
+      "text": "\"You, Achior, will share their fate, and you will fall along with them when they are overthrown.\"",
+      "links": "<a href='/AIV/1/12/3'>Gen 12:3</a>; <a href='/AIV/16/4/3'>Neh 4:3</a>",
+      "comment": "The curse on Achior for aligning with Israel ironically sets the stage for God's vindication of the faithful."
     },
     {
       "pk": 18006008,
@@ -97,10 +104,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 6,
       "verse": 8,
-      "text": "Then Achior, leader of all the Ammonites, said to him, 'Let my lord please listen to what your servant will say, and allow me to speak, since what I have said previously is true.'",
-      "links": "<a href='/AIV/18/5/5'>Jdt. 5:5</a>; <a href='/AIV/09/25/24'>1 Sam. 25:24</a>",
-      "comment": "Achior’s plea to speak truth reflects the importance of wisdom and openness to counsel, themes echoed throughout the Wisdom literature (e.g., Proverbs) and the apostolic tradition.",
-      "sectionHeader": "Achior Testifies to Israel's God"
+      "text": "\"You will not see my face again from this day, until I have taken vengeance on this people coming from Egypt.\"",
+      "links": "<a href='/AIV/2/10/28'>Exod 10:28</a>",
+      "comment": "Holofernes' vow of vengeance draws on the motif of divine retribution against rebellious peoples, with 'coming from Egypt' reflecting Israel’s Exodus heritage and casting them as perennial outsiders; it foreshadows God's deliverance when the situation appears most dire, as seen in Exodus narratives."
     },
     {
       "pk": 18006009,
@@ -110,9 +116,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 6,
       "verse": 9,
-      "text": "'Why, O lord, would you treat your people as criminals? For what you are planning will not succeed against the house of Israel.'",
-      "links": "<a href='/AIV/02/1/12'>Ex. 1:12</a>; <a href='/AIV/19/33/10'>Ps. 33:10</a>",
-      "comment": "Achior’s warning points out the futility of human pride against God's chosen. God's providence for Israel anticipates that protection later offered through the new covenant."
+      "text": "Then Holofernes ordered his servants, who stood in his tent, to seize Achior and take him to Bethulia, to deliver him into the hands of the Israelites.",
+      "links": "<a href='/AIV/18/7/6'>Jdt 7:6</a>",
+      "comment": "God uses even the plans of enemies to position the righteous for deliverance—Achior is placed among those he defended."
     },
     {
       "pk": 18006010,
@@ -122,9 +128,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 6,
       "verse": 10,
-      "text": "'Rather, the sword may be lifted against them if they sin against their God, but even their God punishes them for their iniquity—then they are not to be feared. But if they are obedient to their God, then no one can defeat them.'",
-      "links": "<a href='/AIV/03/26/17'>Lev. 26:17</a>; <a href='/AIV/05/28/1'>Deut. 28:1</a>",
-      "comment": "Achior understands the biblical truth: fidelity brings blessing, and rebellion brings discipline. This mirrors the call to ongoing faithfulness not just to the Law, but to God’s established community and sacramental life."
+      "text": "The servants took him and led him out of the camp into the plain, and from there into the hill country, arriving by the springs below Bethulia.",
+      "links": "<a href='/AIV/18/7/17'>Jdt 7:17</a>; <a href='/AIV/7/15/18-19'>Jos 15:18-19</a>",
+      "comment": "The springs of Bethulia foreshadow the coming siege and the importance of water, a biblical symbol of life and blessing."
     },
     {
       "pk": 18006011,
@@ -134,9 +140,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 6,
       "verse": 11,
-      "text": "'Now then, my lord, let us consider whether there is any offense among this people. If there is, let us go up and attack them. But if not, let my lord leave them alone, for their Lord and God will defend them, and we would become a disgrace to all the earth.'",
-      "links": "<a href='/AIV/04/23/8'>Num. 23:8</a>; <a href='/AIV/09/12/23'>1 Sam. 12:23</a>",
-      "comment": "God's unique protective relationship with Israel serves as a foreshadowing of the Church, called to holiness, receiving divine protection when faithful."
+      "text": "When the men of Israel in Bethulia saw them, they took up their weapons and ran out of the city to the top of the hill. But from a distance, they stopped the captors, slinging stones and keeping them from coming up.",
+      "links": "<a href='/AIV/9/17/49'>1 Sam 17:49</a>; <a href='/AIV/7/16/3'>Jos 16:3</a>",
+      "comment": "The defensive response echoes David's victory by sling; trusting in God’s providential protection."
     },
     {
       "pk": 18006012,
@@ -146,9 +152,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 6,
       "verse": 12,
-      "text": "When Achior finished speaking, all the people surrounding the tent began to grumble. The chief men of Holofernes’s army, all those from Moab, and all the other foreigners, threatened to kill him.",
-      "links": "<a href='/AIV/07/6/29'>Judg. 6:29</a>; <a href='/AIV/24/26/11'>Jer. 26:11</a>",
-      "comment": "Achior's peril due to speaking truth recalls the persecution faced by prophets. This foreshadows the hostility often experienced by those sent to speak God's word—fulfilled perfectly in Christ, who suffered for truth."
+      "text": "But they called out from the mountain to their captors, questioning, ‘Who are you? What business do you have with us? Who sent you here?’",
+      "links": "<a href='/AIV/9/20/18'>1 Sam 20:18</a>",
+      "comment": "Israel’s vigilance is consistently lauded throughout Scripture, highlighting discernment and readiness."
     },
     {
       "pk": 18006013,
@@ -158,9 +164,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 6,
       "verse": 13,
-      "text": "They said, 'We will not be afraid of the Israelites! If you think so, you are deluding yourself. We will go up, and they will be swallowed up by your death, Achior.'",
-      "links": "<a href='/AIV/19/14/1'>Ps. 14:1</a>",
-      "comment": "This dismissal and threat again illustrate the folly of ignoring God's voice and concerning oneself only with worldly might."
+      "text": "The men tied Achior and left him at the foot of the hill, returning to their lord.",
+      "links": "<a href='/AIV/18/8/1'>Jdt 8:1</a>",
+      "comment": "The action fulfills Holofernes’ threat, but Achior’s fate will bear witness to the power and mercy of God."
     },
     {
       "pk": 18006014,
@@ -170,9 +176,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 6,
       "verse": 14,
-      "text": "Then Holofernes, filled with anger against Achior, said, 'Because you have spoken these words, you shall not see my face from this day until I take vengeance on this people coming from Egypt.'",
-      "links": "<a href='/AIV/17/4/11'>Esth. 4:11</a>; <a href='/AIV/19/83/4'>Ps. 83:4</a>",
-      "comment": "Refusing to see Achior foreshadows the divide between truth and power. Holofernes' reference to 'this people coming from Egypt' reinforces Israel's identity as an Exodus people—a theological marker later seen in the Church's pilgrim journey."
+      "text": "The Israelites came down from their city, approached Achior, untied him, and brought him into Bethulia.",
+      "links": "<a href='/AIV/15/2/7'>Ezra 2:7</a>",
+      "comment": "The hospitality and care shown to Achior prefigure the call to welcome the stranger, echoing themes found throughout salvation history."
     },
     {
       "pk": 18006015,
@@ -182,10 +188,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 6,
       "verse": 15,
-      "text": "Then Holofernes ordered his guards who were standing around his tent, 'Take Achior and lead him to Bethulia. Hand him over to the Israelites, and when you seize them, kill him along with them.'",
-      "links": "<a href='/AIV/17/7/9-10'>Esth. 7:9-10</a>; <a href='/AIV/18/7/18'>Jdt. 7:18</a>",
-      "comment": "Achior becomes a scapegoat, similar to how the prophets and Christ Himself bore the consequences of standing for truth (cf. Isa. 53:7-12).",
-      "sectionHeader": "Achior Delivered to the Israelites"
+      "text": "They set him before the rulers of their city, who were in those days Uzziah the son of Micah, of the tribe of Simeon, Chabris the son of Gothoniel, and Charmis the son of Melchiel.",
+      "links": "<a href='/AIV/4/4/24'>Num 4:24</a>",
+      "comment": "The formal introduction to the city's elders underscores the importance of ordered leadership and communal discernment—an emphasis visible in the structure of the early Church."
     },
     {
       "pk": 18006016,
@@ -195,9 +200,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 6,
       "verse": 16,
-      "text": "So the men led Achior out from the tents into the plain, and from the plain into the valleys. They made Achior leave near the springs below Bethulia,",
-      "links": "<a href='/AIV/01/21/19'>Gen. 21:19</a>",
-      "comment": "Achior is left at a place of water—a symbol throughout Scripture of life and purification (Gen. 21:19; John 4:10). This imagery anticipates both baptism and deliverance through faith."
+      "text": "They gathered all the elders, and Achior was brought before all the people and questioned about what had happened.",
+      "links": "<a href='/AIV/6/27/1'>Acts 27:1</a>",
+      "comment": "Achior’s testimony before the assembly mirrors the apostolic tradition of giving witness before the whole community."
     },
     {
       "pk": 18006017,
@@ -207,9 +212,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 6,
       "verse": 17,
-      "text": "Then the men returned to their master, but the people of Israel came down from Bethulia, found Achior, untied him, and brought him into the city.",
-      "links": "<a href='/AIV/42/10/33-34'>Luke 10:33-34</a>; <a href='/AIV/01/40/13'>Gen. 40:13</a>",
-      "comment": "Israel's rescuing of Achior hints at the motif of charity and welcoming the stranger, paralleling the Good Samaritan parable (Luke 10:33-34) and Christ’s command to love even outsiders."
+      "text": "He explained to them all Holofernes had said in his council and his arrogant threats against the house of Israel.",
+      "links": "<a href='/AIV/18/5/5-21'>Jdt 5:5-21</a>",
+      "comment": "Achior recounts Holofernes' words, showing the challenge to God’s sovereignty, a recurring biblical test where God intervenes for His people."
     },
     {
       "pk": 18006018,
@@ -219,9 +224,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 6,
       "verse": 18,
-      "text": "They set him in the midst of the people and asked him what had happened, and he reported to them the words of Holofernes and all that he had said in the assembly of the Assyrians.",
-      "links": "<a href='/AIV/09/17/27'>1 Sam. 17:27</a>",
-      "comment": "The community discerning and listening to Achior models the importance of receiving testimony, a principle foundational to the apostolic faith."
+      "text": "Then the people fell down and worshiped God, and cried out, 'O Lord, God of heaven, see their arrogance, and have mercy on our people, and look with favor on those who are sanctified to You.'",
+      "links": "<a href='/AIV/19/123/3-4'>Ps 123:3-4</a>; <a href='/AIV/2/32/11-13'>Exod 32:11-13</a>",
+      "comment": "This act of communal prayer demonstrates the importance of faith—in both early Israel and the Church—turning to God in distress with repentance and hope."
     },
     {
       "pk": 18006019,
@@ -231,10 +236,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 6,
       "verse": 19,
-      "text": "Then the people fell down and worshiped God. They cried out, 'O Lord God of heaven, look upon their arrogance, and have mercy on the humble of your people, and look favorably this day upon those who are set apart to you.'",
-      "links": "<a href='/AIV/14/7/14'>2 Chr. 7:14</a>; <a href='/AIV/23/66/2'>Isa. 66:2</a>",
-      "comment": "True worship and humble prayer are the proper response to danger and pride. God exalts the humble and brings down the proud—a theme fulfilled in the Beatitudes (Matt. 5:3-12).",
-      "sectionHeader": "Israel Prays for Deliverance"
+      "text": "They consoled Achior, commending him highly, and Uzziah brought him from the assembly into his own house and held a gathering for the elders. That night, they called on the God of Israel for help.",
+      "links": "<a href='/AIV/19/34/18'>Ps 34:18</a>",
+      "comment": "The caring treatment of Achior hints at the embrace of converts and the role of prayer among the leaders before important actions in salvation history."
     },
     {
       "pk": 18006020,
@@ -244,9 +248,9 @@
       "bookAbbreviation": "Jdt",
       "chapter": 6,
       "verse": 20,
-      "text": "Then they comforted Achior and praised him greatly. Uzziah took him from the assembly to his own house and held a banquet for the elders, and they invoked the God of Israel throughout the whole night for help.",
-      "links": "<a href='/AIV/01/18/3-5'>Gen. 18:3-5</a>; <a href='/AIV/44/12/12'>Acts 12:12</a>",
-      "comment": "This hospitality and prayerful vigil echoes the pattern of communal intercession and the enduring value of gathering together to seek God’s will—fundamental in the life of the Church."
+      "text": "Then all the people, with one accord, continued to pray earnestly throughout the night in Bethulia.",
+      "links": "<a href='/AIV/44/1/14'>Acts 1:14</a>; <a href='/AIV/19/134/1'>Ps 134:1</a>",
+      "comment": "The unity and perseverance in prayer of God's people is highlighted: a model for Christian communities, especially in preparing for decisive spiritual battles."
     },
     {
       "pk": 18006021,
@@ -256,32 +260,10 @@
       "bookAbbreviation": "Jdt",
       "chapter": 6,
       "verse": 21,
-      "text": "And everyone remained fervent in prayer before the God of Israel, waiting for the dawn to come.",
-      "links": "<a href='/AIV/19/130/6'>Ps. 130:6</a>; <a href='/AIV/42/6/12'>Luke 6:12</a>",
-      "comment": "Waiting through the night in prayer signifies perseverance and hope, a pattern mirrored by Christ’s own nights of prayer (Luke 6:12) and reflected in the tradition of vigil and watchfulness before great acts of God."
+      "text": "And they waited for morning to see what the Lord would do for them.",
+      "links": "<a href='/AIV/2/14/13-14'>Exod 14:13-14</a>; <a href='/AIV/19/46/10'>Ps 46:10</a>",
+      "comment": "The waiting for God’s deliverance recalls the Exodus and testifies to a living hope rooted in God’s steadfast faithfulness."
     }
   ],
-  "translatedAt": "2025-12-24T05:02:33.031Z",
-  "sections": [
-    {
-      "title": "Holofernes Threatens Israel",
-      "startVerse": 1,
-      "endVerse": 7
-    },
-    {
-      "title": "Achior Testifies to Israel's God",
-      "startVerse": 8,
-      "endVerse": 14
-    },
-    {
-      "title": "Achior Delivered to the Israelites",
-      "startVerse": 15,
-      "endVerse": 18
-    },
-    {
-      "title": "Israel Prays for Deliverance",
-      "startVerse": 19,
-      "endVerse": 21
-    }
-  ]
+  "translatedAt": "2025-12-28T02:19:15.406Z"
 }

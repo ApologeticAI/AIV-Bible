@@ -3,6 +3,18 @@
   "bookName": "1 Maccabees",
   "bookAbbreviation": "1Macc",
   "chapter": 6,
+  "sections": [
+    {
+      "title": "Death of King Antiochus",
+      "startVerse": 1,
+      "endVerse": 62
+    },
+    {
+      "title": "Death of Antiochus and Accession of Eupator",
+      "startVerse": 63,
+      "endVerse": 63
+    }
+  ],
   "verses": [
     {
       "pk": 20006001,
@@ -12,10 +24,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 1,
-      "text": "King Antiochus was traveling through the upper provinces when he heard that the city of Elymais in Persia was renowned for its riches, silver, and gold.",
-      "links": "<a href='/AIV/17/1/2'>Esther 1:2</a>",
-      "comment": "Elymais was famous for its wealth. This sets the stage for Antiochus' ambition and foreshadows his downfall, a common biblical theme (see <a href='/AIV/20/16/18'>Prov. 16:18</a>).",
-      "sectionHeader": "Death of Antiochus IV"
+      "text": "King Antiochus was traveling through the eastern provinces when he heard that there was a city in Persia called Elymais, celebrated for its wealth, silver and gold.",
+      "links": "<a href='/AIV/24/49/34'>Jeremiah 49:34</a>",
+      "comment": "Elymais was known historically for its treasures, underscoring the great lure of wealth to ancient monarchs.",
+      "sectionHeader": "Death of King Antiochus"
     },
     {
       "pk": 20006002,
@@ -25,9 +37,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 2,
-      "text": "It was also reported that the temple there was filled with very rich offerings, and that golden shields, armor, and weapons had been left there by Alexander, the son of Philip, who reigned first over the Greeks.",
-      "links": "<a href='/AIV/27/8/21'>Dan. 8:21</a>",
-      "comment": "Reference to Alexander the Great gives historical context (Dan. 8:21). The temple’s wealth recalls the motif of sacred treasures, seen as signs of favor from God in other Hebrews scriptures."
+      "text": "This city had a very rich temple, where armor and weapons left by Alexander, son of Philip, king of Macedonia, who first reigned over the Greeks, had been deposited.",
+      "links": "<a href='/AIV/27/8/20-21'>Daniel 8:20-21</a>",
+      "comment": "Alexander the Great’s legacy and historic conquests echo in this reference, showing how secular power, for all its glory, is fleeting compared to the eternal.",
+      "sectionHeader": null
     },
     {
       "pk": 20006003,
@@ -37,9 +50,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 3,
-      "text": "So Antiochus came and tried to take the city and plunder it, but he was not able, because his plan became known to those living in the city.",
-      "links": "",
-      "comment": "Repeated biblical theme: God often frustrates the plans of the proud (Ps. 33:10, <a href='/AIV/19/33/10'>Ps. 33:10</a>)."
+      "text": "Antiochus tried to enter the city and take it, planning to plunder it. But he could not, because his plan was known to the people of the city.",
+      "links": "<a href='/AIV/19/21/11'>Psalm 21:11</a>",
+      "comment": "Despite his intentions, God’s providence prevents Antiochus from success, a theme recurring throughout scripture.",
+      "sectionHeader": null
     },
     {
       "pk": 20006004,
@@ -49,9 +63,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 4,
-      "text": "They rose up against him in battle, and he fled and returned in great sorrow to Babylon.",
-      "links": "<a href='/AIV/23/13/19'>Isa. 13:19</a>",
-      "comment": "Babylon, once a seat of power and pride, becomes a place of retreat and defeat for kings—see the fate of Babylon in Isa. 13:19."
+      "text": "They rose up against him in battle, and he fled and withdrew from there with great grief, returning to Babylon.",
+      "links": "<a href='/AIV/23/13/14'>Isaiah 13:14</a>",
+      "comment": "The king’s defeat and sorrow are reminiscent of the consequences visited upon prideful rulers throughout the Old Testament.",
+      "sectionHeader": null
     },
     {
       "pk": 20006005,
@@ -61,9 +76,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 5,
-      "text": "While in Persia, news reached him that the armies sent into the land of Judah had been put to flight:",
-      "links": "",
-      "comment": "Antiochus' declining fortunes are marked by further bad news, underscoring the divine reversal of arrogant powers (see <a href='/AIV/10/8/14'>2 Sam. 8:14</a> for military reversals)."
+      "text": "While he was in Persia, messengers came and reported to him that the armies sent against the land of Judea had been put to flight;",
+      "links": "<a href='/AIV/20/8/10'>Proverbs 8:10</a>",
+      "comment": "News of defeat serves as a humbling moment, reinforcing the importance of humility and dependence not on military might but on deeper foundations.",
+      "sectionHeader": null
     },
     {
       "pk": 20006006,
@@ -73,9 +89,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 6,
-      "text": "Lysias had gone at the head of a strong army and was forced to flee before the Jews. They had grown stronger by their arms, supplies, and great spoils they took from defeated armies.",
-      "links": "<a href='/AIV/7/8/10'>Judg. 8:10</a>",
-      "comment": "Victory over a stronger army recalls themes throughout salvation history: faithfulness leads to divine victory (<a href='/AIV/6/6/20'>Joshua 6:20</a>)."
+      "text": "that Lysias, who had gone first with a strong force, was driven back by the people of Judea who grew in strength by means of arms, troops, and much spoil captured from the defeated armies.",
+      "links": "<a href='/AIV/7/7/13'>Judges 7:13</a>",
+      "comment": "The people’s victory echoes the recurring scriptural theme where a smaller, faithful group overcomes larger foes. Spiritual application: faithfulness is more crucial than numbers.",
+      "sectionHeader": null
     },
     {
       "pk": 20006007,
@@ -85,9 +102,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 7,
-      "text": "They had torn down the abomination he had built on the altar in Jerusalem and surrounded the sanctuary with high walls as before, and even Beth-zur, his city.",
-      "links": "<a href='/AIV/27/11/31'>Dan. 11:31</a>; <a href='/AIV/40/24/15'>Matt. 24:15</a>",
-      "comment": "The 'abomination' refers to the desecration of the temple (Dan. 11:31, Matt. 24:15). The restoration of worship prefigures the cleansing power of Christ, who restores and sanctifies the temple of God's people."
+      "text": "They had torn down the abomination he had built on the altar in Jerusalem, and surrounded the sanctuary with high walls as it had been before, and also fortified his city Beth-zur.",
+      "links": "<a href='/AIV/27/9/27'>Daniel 9:27</a>",
+      "comment": "Restoration of the altar and sanctuary highlights the importance of safeguarding sacred space and right worship. This aligns with the principle that true worship is central to the people’s identity and relationship with God.",
+      "sectionHeader": null
     },
     {
       "pk": 20006008,
@@ -97,9 +115,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 8,
-      "text": "When the king heard this news, he was deeply shaken, fell sick with grief, and was overwhelmed, because things had not turned out as he had planned.",
-      "links": "",
-      "comment": "The king's sorrow comes from pride and not recognizing the hand of God in history. Compare Pharaoh's heart in Exodus (<a href='/AIV/2/7/13'>Ex. 7:13</a>)."
+      "text": "When the king heard these things, he was astonished and profoundly shaken. He lay down on his bed, and fell into deep grief from his disappointment.",
+      "links": "<a href='/AIV/19/107/10'>Psalm 107:10</a>",
+      "comment": "Antiochus’s deep sorrow reflects the spiritual agony of estrangement from God, and the futility of prideful rebellion.",
+      "sectionHeader": null
     },
     {
       "pk": 20006009,
@@ -109,9 +128,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 9,
-      "text": "He remained there for many days, growing weaker by the day, until he realized he was dying.",
-      "links": "",
-      "comment": "Again, the motif of inevitable decline of proud rulers (see <a href='/AIV/19/49/12'>Ps. 49:12</a>)."
+      "text": "He remained sick for many days, and grew more and more depressed, thinking he was going to die.",
+      "links": "<a href='/AIV/18/30/23'>Job 30:23</a>",
+      "comment": "Physical and spiritual sickness often go hand in hand in biblical literature, emphasizing the need for repentance and restoration.",
+      "sectionHeader": null
     },
     {
       "pk": 20006010,
@@ -121,9 +141,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 10,
-      "text": "He called for all his friends and said to them, 'Sleep has left my eyes, and my heart is burdened with worry.'",
-      "links": "",
-      "comment": "Contrast the sleep of the righteous (Ps. 4:8) with the restlessness of the wicked."
+      "text": "He called all his friends together and said, 'Sleep has left my eyes, and my heart is burdened with anxiety.'",
+      "links": "<a href='/AIV/19/38/10'>Psalm 38:10</a>",
+      "comment": "The image of insomnia caused by guilt aligns with numerous Psalms describing the conscience wrestling with the consequences of sin.",
+      "sectionHeader": null
     },
     {
       "pk": 20006011,
@@ -133,9 +154,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 11,
-      "text": "'I said in my heart: To what distress I have come, into what a great storm I am in, now that I am mercifully hated and overwhelmed by sorrow.'",
-      "links": "",
-      "comment": "The king's confession of his emotional state echoes many lament psalms."
+      "text": "'I said to myself: To what trouble have I come, and how great is the storm that now surrounds me, for I was loved and respected in my power.'",
+      "links": "<a href='/AIV/21/2/11'>Ecclesiastes 2:11</a>",
+      "comment": "A reminder of the fleeting nature of worldly power—only God’s kingdom endures.",
+      "sectionHeader": null
     },
     {
       "pk": 20006012,
@@ -145,9 +167,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 12,
-      "text": "'I kept nice in my rule, but now I remember the evils I did in Jerusalem. I took all the gold and silver artifacts from its temple and sent men to destroy Judah without reason.'",
-      "links": "<a href='/AIV/19/51/3-4'>Ps. 51:3-4</a>",
-      "comment": "The king's admission of guilt echoes penitential statements in Psalms (Ps. 51). This moment reveals the possibility of repentance, a central motif throughout salvation history."
+      "text": "'But now I remember the evils I did in Jerusalem: seizing all the silver and gold, sending men to destroy the inhabitants of Judea without cause.'",
+      "links": "<a href='/AIV/19/51/3-5'>Psalm 51:3-5</a>",
+      "comment": "Antiochus’s confession mirrors the penitential prayers throughout scripture, demonstrating repentance is possible even for powerful sinners.",
+      "sectionHeader": null
     },
     {
       "pk": 20006013,
@@ -157,9 +180,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 13,
-      "text": "'Because of this, I am suffering these misfortunes, and now I am perishing with deep sorrow in a foreign land.'",
-      "links": "<a href='/AIV/23/14/18-20'>Isaiah 14:18-20</a>",
-      "comment": "Dying in exile is portrayed in scripture as a sign of judgment—compare fall of Babylonian/Assyrian rulers (Isa 14:18-20)."
+      "text": "'I realize that it is because of this I am suffering these misfortunes, and I am dying in deep grief in a foreign land.'",
+      "links": "<a href='/AIV/19/137/1'>Psalm 137:1</a>",
+      "comment": "Death in exile is a symbol of spiritual separation from God and true worship.",
+      "sectionHeader": null
     },
     {
       "pk": 20006014,
@@ -169,9 +193,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 14,
-      "text": "He called for Philip, one of his closest friends, and appointed him over his entire kingdom.",
-      "links": "",
-      "comment": "Trusting loyal subjects with succession is a major ancient practice—see Solomon and David (<a href='/AIV/11/1/35'>1 Kings 1:35</a>)."
+      "text": "He then called for Philip, one of his trusted friends, and made him regent over his entire kingdom.",
+      "links": "<a href='/AIV/11/19/15'>1 Kings 19:15</a>",
+      "comment": "Antiochus’s appointment of a regent echoes biblical precedents of succession and stewardship.",
+      "sectionHeader": null
     },
     {
       "pk": 20006015,
@@ -181,9 +206,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 15,
-      "text": "He gave him his crown, his robe, and his ring, instructing Philip to care for his son Antiochus and to bring him up to be king.",
-      "links": "<a href='/AIV/17/3/10'>Esther 3:10</a>; <a href='/AIV/42/15/22'>Luke 15:22</a>",
-      "comment": "The giving of crown and ring signals the bestowal of authority (Esther 3:10). The gesture also anticipates symbolic adoption, a precursor to New Testament realities (Luke 15:22)."
+      "text": "He gave him the diadem, his robe, and his signet so that Philip could educate Antiochus’s son and prepare him to reign.",
+      "links": "<a href='/AIV/1/41/42'>Genesis 41:42</a>",
+      "comment": "Passing on royalty and authority recalls Joseph’s investiture in Egypt, underlying the importance of tradition and orderly transition.",
+      "sectionHeader": null
     },
     {
       "pk": 20006016,
@@ -193,9 +219,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 16,
-      "text": "Then King Antiochus died there in the year one hundred and forty-nine.",
-      "links": "",
-      "comment": "The narrative marks his death by date, signifying a break in history. Biblical tradition often marks the death of a ruler at turning points (see <a href='/AIV/5/34/5'>Deut. 34:5</a> for Moses)."
+      "text": "King Antiochus died in that place in the year one hundred forty-nine.",
+      "links": "<a href='/AIV/15/6/16'>Ezra 6:16</a>",
+      "comment": "The year marks a pivotal change; historical context is key to understanding God’s faithfulness through periods of crisis.",
+      "sectionHeader": null
     },
     {
       "pk": 20006017,
@@ -205,10 +232,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 17,
-      "text": "When Lysias learned the king had died, he set up the king’s son Antiochus in his place, whom he had brought up as a child, and named him Eupator.",
-      "links": "",
-      "comment": "The transition of power is a reminder of unstable earthly kingdoms. Compare to biblical succession narratives.",
-      "sectionHeader": "Succession of Antiochus V Eupator"
+      "text": "But when Lysias learned that the king was dead, he appointed his son Antiochus, whom he raised as a child, to be king in his father’s place. He called him Eupator.",
+      "links": "<a href='/AIV/11/1/32'>1 Kings 1:32</a>",
+      "comment": "Succession of leadership is a recurring motif emphasizing continuity and the enduring nature of legitimate stewardship.",
+      "sectionHeader": null
     },
     {
       "pk": 20006018,
@@ -218,10 +245,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 18,
-      "text": "Now those who were in the citadel at Jerusalem were preventing the Israelites from coming and going in the surrounding area. They sided with the Gentiles so as to inflict as much harm as possible on the Jews.",
-      "links": "",
-      "comment": "Citadel = the fortress; its occupation recalls enemy strongholds opposing God’s people (see <a href='/AIV/7/6/5'>Judg. 6:5</a>).",
-      "sectionHeader": "Siege of the Jerusalem Citadel and Beth-zur"
+      "text": "Meanwhile, the enemies in the stronghold were harassing the Israelites around the sanctuary, always seeking harm.",
+      "links": "<a href='/AIV/19/22/16'>Psalm 22:16</a>",
+      "comment": "Opposition to true worship and God's people is a constant challenge, foreshadowing persecution and the need for perseverance.",
+      "sectionHeader": null
     },
     {
       "pk": 20006019,
@@ -231,9 +258,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 19,
-      "text": "Judas planned to eliminate them and called the entire people to lay siege to the citadel.",
-      "links": "<a href='/AIV/7/20/15'>Judg. 20:15</a>",
-      "comment": "The act of gathering for a siege echoes previous Israelite battles—unity against foreign oppressors is key to biblical victory."
+      "text": "Judas planned to destroy them and assembled all the people to lay siege to the stronghold.",
+      "links": "<a href='/AIV/7/20/15'>Judges 20:15</a>",
+      "comment": "The righteous stand against evil echoes the call for spiritual warfare and steadfastness in faith.",
+      "sectionHeader": null
     },
     {
       "pk": 20006020,
@@ -243,9 +271,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 20,
-      "text": "So together they assembled and besieged the citadel in the one hundred and fiftieth year, building siege towers and war machines.",
-      "links": "<a href='/AIV/12/25/1'>2 Kings 25:1</a>",
-      "comment": "The specific year again marks providential history. Building siege engines shows Israel’s growing military skill, reminiscent of past besieged cities."
+      "text": "They gathered together and attacked the stronghold in the year one hundred fifty, building siege platforms and engines.",
+      "links": "<a href='/AIV/10/20/15'>2 Samuel 20:15</a>",
+      "comment": "The use of technology and preparation in spiritual battles invites reflection on the need for diligence, discipline, and intentional action in faith.",
+      "sectionHeader": null
     },
     {
       "pk": 20006021,
@@ -255,9 +284,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 21,
-      "text": "Some of the defenders escaped from the siege and joined with the king, saying, 'How long will you wait before giving judgment and avenging our brothers?'",
-      "links": "<a href='/AIV/19/94/1'>Ps. 94:1</a>",
-      "comment": "Cry for vengeance is a repeated motif—see pleas for vindication in the Psalms."
+      "text": "But some of Israel’s enemies escaped from the siege and reported to the king that the people of Judea had laid siege to the stronghold.",
+      "links": "<a href='/AIV/7/2/16'>Judges 2:16</a>",
+      "comment": "Internal division and betrayal often undermine God’s people—unity and obedience are key themes in both Old and New Testament teaching.",
+      "sectionHeader": null
     },
     {
       "pk": 20006022,
@@ -267,9 +297,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 22,
-      "text": "'We held your royal family in honor and followed your commands. We fought fiercely for you.'",
-      "links": "",
-      "comment": "Demonstrates the complicated loyalties and the consequences of divided allegiances—a theme addressed by Jesus: 'No one can serve two masters' (<a href='/AIV/40/6/24'>Matt. 6:24</a>)."
+      "text": "Some of the ungodly Israelites went to the king and said, “How long will you fail to do justice and to avenge our kindred?”",
+      "comment": "Some Hellenizing Jews, labeled 'ungodly,' seek the Seleucid king's intervention against their own people, illustrating internal conflict and the motif of collaboration with foreign oppressors (cf. 1 Macc. 1:11; John 11:48).",
+      "links": [
+        "Esth 3:8",
+        "Dan 3:8",
+        "Acts 24:1"
+      ]
     },
     {
       "pk": 20006023,
@@ -279,9 +313,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 23,
-      "text": "'Yet now our fellow citizens have besieged us and are opposed to us. More than any, they have done us harm.'",
-      "links": "",
-      "comment": "Strife and betrayal among kin are common in biblical narratives, reinforcing the need for unity within God's people."
+      "text": "We were happy to serve your father, to live by what he said, and to follow his commands.",
+      "comment": "Their appeal to loyalty under the previous king shows how some Jews had accommodated Hellenistic rule, contrasting with the Maccabean emphasis on faithfulness to the Law.",
+      "links": [
+        "Esth 3:2",
+        "Jer 27:12",
+        "2 Macc 4:11"
+      ]
     },
     {
       "pk": 20006024,
@@ -291,9 +329,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 24,
-      "text": "'They have looted all we had, and not only us, but those who supported us as well.'",
-      "links": "",
-      "comment": "Betrayal and plundering within Israel foreshadow later divisions that would be healed in the fullness of God’s unity (<a href='/AIV/43/17/21'>John 17:21</a>)."
+      "text": "For this reason our own people have besieged the citadel and turned against us; they have put to death as many of us as they have found, and have seized our inheritances.",
+      "comment": "The Hellenists lament loss of status and property due to the Jewish revolt, revealing how civil strife turned personal and intensified divisions (cf. Neh 4:1-3).",
+      "links": [
+        "Neh 4:1-2",
+        "Esth 8:11",
+        "Ps 79:7"
+      ]
     },
     {
       "pk": 20006025,
@@ -303,9 +345,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 25,
-      "text": "'Now come and give us justice against them.'",
-      "links": "",
-      "comment": "The desire for justice echoes cries for rescue and deliverance in the Psalms and Prophets."
+      "text": "It is not against us alone that they have stretched out their hands; they have also attacked all the neighboring lands.",
+      "comment": "The claim that the rebels attacked neighboring lands shows the widespread impact of the revolt, and is likely an exaggeration to prompt the king’s intervention.",
+      "links": [
+        "Josh 10:1",
+        "Judg 1:9",
+        "2 Macc 8:9"
+      ]
     },
     {
       "pk": 20006026,
@@ -315,9 +361,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 26,
-      "text": "The king was angered when he heard this, and he assembled all his friends, the commanders of his army, and those in charge of the cavalry.",
-      "links": "",
-      "comment": "The king’s resort to his close circle is a mirror to many Old Testament rulers, often shown as acting on council—see <a href='/AIV/11/12/6'>1 Kings 12:6</a>."
+      "text": "And now they have encamped against the citadel in Jerusalem to take it; they have fortified both the sanctuary and Beth-zur.",
+      "comment": "The citadel (Akra) in Jerusalem and Beth-zur were strategic locations; the rebels' fortifications signal their military strength and resolve (cf. 1 Macc. 4:28-29).",
+      "links": [
+        "1 Macc 4:61",
+        "2 Chr 11:5",
+        "Neh 4:7"
+      ]
     },
     {
       "pk": 20006027,
@@ -327,9 +377,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 27,
-      "text": "Mercenaries and other allied forces also joined, and they formed a vast army, outnumbering Israel, determined to win back Judea.",
-      "links": "",
-      "comment": "The outnumbered faithful is a common theme; God’s deliverance is magnified in the weakness of his people (see <a href='/AIV/7/7/2-7'>Judg. 7:2-7</a>)."
+      "text": "Unless you quickly prevent them, they will do even greater things, and you will not be able to stop them.”",
+      "comment": "The urgency and warning of unstoppable revolt aim to press the king into swift military action, emphasizing the perceived threat to Seleucid authority.",
+      "links": [
+        "Ps 83:4",
+        "Acts 5:38-39",
+        "Isa 8:9-10"
+      ]
     },
     {
       "pk": 20006028,
@@ -339,9 +393,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 28,
-      "text": "He made his way with all his army to Idumea and besieged Beth-zur for many days, attacking it with siege engines.",
-      "links": "",
-      "comment": "Beth-zur was a key defensive outpost for Judah. Attacks on fortified cities are a recurring conflict type in biblical narrative."
+      "text": "The king was enraged when he heard this. He assembled all his Friends, the commanders of his forces, and those in authority.",
+      "comment": "The king's anger and gathering of his advisers and army depict an imperial response to rebellion and foreshadow the coming large-scale conflict.",
+      "links": [
+        "Esth 3:15",
+        "Dan 6:6",
+        "Matt 2:16"
+      ]
     },
     {
       "pk": 20006029,
@@ -351,9 +409,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 29,
-      "text": "But the defenders came out, counterattacked, and burned the siege engines.",
-      "links": "",
-      "comment": "The resilience of the defenders is reminiscent of miraculous deliverances (see <a href='/AIV/7/15/15'>Judg. 15:15</a>)."
+      "text": "Mercenary forces also came to him from other kingdoms and from islands of the seas.",
+      "comment": "Recruitment of mercenaries—including from distant islands—reflects the cosmopolitan makeup of Seleucid forces and the gravity of the campaign.",
+      "links": [
+        "Jer 46:21",
+        "1 Chr 19:6",
+        "2 Macc 11:4"
+      ]
     },
     {
       "pk": 20006030,
@@ -363,10 +425,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 30,
-      "text": "Then Judas pulled back from the citadel and set up camp at Beth-zechariah, opposite the royal camp.",
-      "links": "",
-      "comment": "Strategic retreats are not uncommon among biblical leaders (see David in 1 Sam. 23:13).",
-      "sectionHeader": "Battle of Beth-zechariah and Death of Eleazar"
+      "text": "His forces numbered one hundred thousand foot soldiers, twenty thousand horsemen, and thirty-two elephants accustomed to war.",
+      "comment": "The listing of massive forces, including war elephants, emphasizes both the intimidation factor and the advanced military resources of the Seleucid army (cf. 2 Macc. 11:4, warfare practices from India).",
+      "links": [
+        "1 Chr 21:5",
+        "Dan 11:13",
+        "2 Macc 13:2"
+      ]
     },
     {
       "pk": 20006031,
@@ -376,9 +441,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 31,
-      "text": "The king rose early in the morning and moved his army hard and fast toward Beth-zechariah. His troops deployed for battle and blew the trumpets.",
-      "links": "<a href='/AIV/4/10/9'>Num. 10:9</a>",
-      "comment": "Trumpets signaled battle and are frequently used in Israel’s history. See the use of trumpets in driving out the enemy (Num. 10:9, Joshua 6)."
+      "text": "They advanced through Idumea and encamped against Beth-zur, and for many days they fought and built engines of war; but the Jews sallied out and burned them with fire, and fought bravely.",
+      "comment": "Marching through Idumea and the besieging of Beth-zur highlight both the geographical scope of the conflict and the Jews’ resourcefulness in countering advanced siege engines.",
+      "links": [
+        "Neh 4:17",
+        "Judg 7:22",
+        "2 Macc 11:7"
+      ]
     },
     {
       "pk": 20006032,
@@ -388,9 +457,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 32,
-      "text": "They showed the elephants the juice of grapes and mulberries, to prepare them for battle.",
-      "links": "",
-      "comment": "Historical detail: Elephants were war machines in Greek and Asian armies, not mentioned in the Old Testament, highlighting changing eras."
+      "text": "Then Judas marched away from the citadel and encamped at Beth-zechariah, opposite the camp of the king.",
+      "comment": "Judas's strategic move to Beth-zechariah shifts the theater of battle, setting the stage for direct confrontation with the king’s forces.",
+      "links": [
+        "1 Macc 4:29",
+        "1 Sam 17:2",
+        "2 Macc 13:23"
+      ]
     },
     {
       "pk": 20006033,
@@ -400,9 +473,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 33,
-      "text": "These beasts were divided among the army, standing by each cohort, with armored soldiers and riders to defend them.",
-      "links": "",
-      "comment": "Organized military structure is emphasized, the enemy appears formidable."
+      "text": "Early in the morning the king set out and took his army by a forced march along the road to Beth-zechariah, and his troops made ready for battle and sounded their trumpets.",
+      "comment": "The early morning march and battle preparation reflect standard ancient military tactics and the seriousness of the impending conflict.",
+      "links": [
+        "Josh 6:5",
+        "Joel 2:1",
+        "Num 10:9"
+      ]
     },
     {
       "pk": 20006034,
@@ -412,9 +489,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 34,
-      "text": "They put shields and armor around the elephants, and over each was a special wooden tower, fastened by strong straps, with four mighty men and an Indian driver on each beast.",
-      "links": "",
-      "comment": "The passage gives a detailed account of ancient warfare, showing the overwhelming force facing the Israelites."
+      "text": "They offered the elephants the juice of grapes and mulberries, to arouse them for battle.",
+      "comment": "Feeding elephants intoxicants to excite them for battle is an attested ancient practice, showing the lengths to which the Seleucids went to weaponize animals.",
+      "links": [
+        "Job 39:21-25",
+        "Joel 3:9",
+        "2 Macc 15:20"
+      ]
     },
     {
       "pk": 20006035,
@@ -424,9 +505,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 35,
-      "text": "They made the animals maddened by the sight of grape juice and shields, so that their noise and presence filled the camp with terror.",
-      "links": "",
-      "comment": "The psychological warfare deployed emphasizes the intensity of the enemy—yet all will be subject to God’s providence."
+      "text": "They distributed the animals among the phalanxes; with each elephant they stationed a thousand men armed with coats of mail and brass helmets on their heads; and five hundred picked horsemen were assigned to each beast.",
+      "comment": "The elaborate arrangement of infantry and cavalry around each elephant underlines the formidable, organized nature of the Seleucid military machine.",
+      "links": [
+        "1 Kgs 10:22",
+        "Dan 11:31",
+        "2 Macc 13:15"
+      ]
     },
     {
       "pk": 20006036,
@@ -436,9 +521,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 36,
-      "text": "The king arranged the rest of his army in two wings, so as to hurl their overwhelming numbers at the enemy, with the cavalry deployed on the two flanks.",
-      "links": "",
-      "comment": "The enemy’s power reaches its height—biblical battles often turn at such moments, as with Pharaoh at the Red Sea."
+      "text": "These took their position wherever each animal was; wherever it went, they went with it, and they never left it.",
+      "comment": "The close coordination of troops with elephants illustrates the tactical sophistication and reliance on war animals in Hellenistic warfare.",
+      "links": [
+        "Num 10:14",
+        "1 Chr 12:33",
+        "2 Chr 17:17"
+      ]
     },
     {
       "pk": 20006037,
@@ -448,9 +537,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 37,
-      "text": "Each elephant had around it a thousand men armed with shields and spears, five hundred horsemen on each flank.",
-      "links": "",
-      "comment": ""
+      "text": "On the elephants were wooden towers, strong and covered, fastened on each animal by special harness, and on each were four armed men who fought from there, along with its Indian driver.",
+      "comment": "Wooden towers on elephants with armed men and Indian drivers reveal international influences and the impressive, if terrifying, spectacle of such armies.",
+      "links": [
+        "2 Chr 9:21",
+        "Dan 8:4",
+        "2 Macc 13:15"
+      ]
     },
     {
       "pk": 20006038,
@@ -460,9 +553,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 38,
-      "text": "These were deployed wherever the beast was, to protect it on every side, never leaving it alone.",
-      "links": "",
-      "comment": "Vivid description reflects the challenge posed to Israel by the world's armies."
+      "text": "The rest of the cavalry were stationed on either side, on the two flanks of the army, to harass the enemy while being themselves protected by the phalanxes.",
+      "comment": "Cavalry on the flanks provided protection and offensive power, highlighting elite Hellenistic battle formations.",
+      "links": [
+        "Judg 7:16",
+        "2 Chr 13:13",
+        "2 Macc 13:14"
+      ]
     },
     {
       "pk": 20006039,
@@ -472,9 +569,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 39,
-      "text": "Thunder rolled through the army when the sun shone on the shields of gold and bronze, making the hills blaze with reflected light, like fiery torches.",
-      "links": "<a href='/AIV/2/34/29'>Ex. 34:29</a>",
-      "comment": "Light imagery often signals the presence or glory of God, but here is used for the opposite army—implying that only God's true light can bring lasting victory (<a href='/AIV/40/17/2'>Matt. 17:2</a>)."
+      "text": "When the sun shone on the shields of gold and brass, the hills gleamed and blazed like flaming torches.",
+      "comment": "The dazzling reflection from shields creates an awe-inspiring and intimidating sight, reinforcing the overwhelming presence of the Seleucid army.",
+      "links": [
+        "Ezek 1:4",
+        "Rev 4:5",
+        "Matt 17:2"
+      ]
     },
     {
       "pk": 20006040,
@@ -484,9 +585,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 40,
-      "text": "A part of the king's army extended to the high hills, and some went low into the valleys, moving in tight formations to intimidate the enemy.",
-      "links": "",
-      "comment": "The scale and organization of the enemy echo the forces aligned against God's people throughout history."
+      "text": "A division of the king’s army was spread out on the high hills, and some troops were on the plain; they advanced steadily and in good order.",
+      "comment": "The deployment on hills and plains illustrates careful, disciplined military strategy and the advantage of elevated terrain.",
+      "links": [
+        "Num 2:3",
+        "2 Chr 20:21",
+        "Joel 2:7"
+      ]
     },
     {
       "pk": 20006041,
@@ -496,9 +601,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 41,
-      "text": "Everyone trembled at the noise of their vast army and the clanking of arms; even the ground shook with the sound.",
-      "links": "<a href='/AIV/2/19/16'>Ex. 19:16</a>",
-      "comment": "Earthquake language recalls God's presence at Sinai (Ex. 19:16). Here, it shows the terror brought by man, but God's presence overshadows all earthly fear."
+      "text": "All who heard the sound of the multitude, the marching, and the clanking of their arms trembled, for the army was very large and strong.",
+      "comment": "The size, sound, and strength of the Seleucid army instilled fear—an intentional motif, contrasting with the faith and courage of the Maccabean resistance (cf. Deut 20:1, psychological warfare).",
+      "links": [
+        "Josh 2:9",
+        "Ex 15:15-16",
+        "Jer 6:24"
+      ]
     },
     {
       "pk": 20006042,
@@ -508,9 +617,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 42,
-      "text": "Judas and his army drew near and went out to meet the enemy in battle, numbering six hundred men.",
-      "links": "",
-      "comment": "A meager force versus overwhelming odds—God’s preference for the weak to conquer the strong (see <a href='/AIV/7/7/7'>Judg. 7:7</a>)."
+      "text": "But Judas and his army advanced to the battle, and six hundred of the king’s army fell.",
+      "comment": "Despite being heavily outnumbered, Judas’s forces inflict significant casualties, exemplifying zeal and military prowess.",
+      "links": [
+        "1 Macc 3:13-24",
+        "Judg 15:15",
+        "2 Macc 8:23"
+      ]
     },
     {
       "pk": 20006043,
@@ -520,9 +633,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 43,
-      "text": "A man named Eleazar, called Avaran, saw that one of the elephants was larger and had royal armor; he thought the king was on it.",
-      "links": "",
-      "comment": ""
+      "text": "Now Eleazar, called Avaran, saw that one of the animals was equipped with royal armor. It was taller than all the others, and he supposed that the king was riding on it.",
+      "comment": "Eleazar identifies the largest, most ornate elephant as carrying the king, a calculation based on status symbols, leading to his heroic but ultimately tragic action.",
+      "links": [
+        "2 Sam 21:20",
+        "1 Sam 17:4",
+        "2 Macc 14:19"
+      ]
     },
     {
       "pk": 20006044,
@@ -532,9 +649,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 44,
-      "text": "He gave his life to save his people and win lasting renown, so he rushed boldly toward the beast, charging into the center of the formation, killing men to the left and to the right.",
-      "links": "<a href='/AIV/9/17/50'>1 Sam. 17:50</a>",
-      "comment": "Eleazar's sacrifice anticipates stories of self-giving for others (compare David vs. Goliath; ultimately fulfilled in Christ’s own sacrifice). See also <a href='/AIV/43/15/13'>John 15:13</a>."
+      "text": "He gave his life to save his people and to win for himself an everlasting name.",
+      "comment": "Eleazar's self-sacrificial attack is celebrated as martyrdom, seeking lasting honor through devotion to the nation (cf. 2 Macc. 6:18-31; John 15:13).",
+      "links": [
+        "John 15:13",
+        "2 Sam 23:16-17",
+        "Heb 11:32-34"
+      ]
     },
     {
       "pk": 20006045,
@@ -544,9 +665,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 45,
-      "text": "He ran beneath the elephant, trusting to God to deliver him, and thrust his sword into its belly, killing it. The beast collapsed and Eleazar died beneath it.",
-      "links": "<a href='/AIV/7/16/30'>Judg. 16:30</a>",
-      "comment": "Parallels Samson's last act, sacrificing himself for his people (Judg. 16:30). Prophetic foreshadow of ultimate self-offering."
+      "text": "He courageously ran into the midst of the phalanx to reach it; he killed men right and left, and they parted before him on both sides.",
+      "comment": "His assault through the phalanx displays extraordinary bravery, with the enemy parting before his determined charge.",
+      "links": [
+        "2 Sam 23:20",
+        "1 Chr 11:22",
+        "2 Macc 6:19"
+      ]
     },
     {
       "pk": 20006046,
@@ -556,9 +681,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 46,
-      "text": "When the Jews saw the strength of the king and his army, they retreated from them.",
-      "links": "",
-      "comment": "Despite bravery, sometimes the outcome isn't immediate victory; the narrative gives a realistic picture of faith under trial."
+      "text": "He got under the elephant, stabbed it from beneath, and killed it; but it fell to the ground upon him, and he died there.",
+      "comment": "His lethal blow kills the elephant but costs him his life, a poignant reminder of both the high stakes of the conflict and the ambiguous outcome of even heroic acts.",
+      "links": [
+        "Judg 16:30",
+        "John 12:24",
+        "Phil 1:20"
+      ]
     },
     {
       "pk": 20006047,
@@ -568,10 +697,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 47,
-      "text": "The king’s army marched up to Jerusalem and pitched camp against Judea and Mount Zion.",
-      "links": "<a href='/AIV/19/2/6'>Ps. 2:6</a>",
-      "comment": "Mount Zion, symbol of God’s dwelling, is again the focal point of attack, echoing the Psalms' assurance of God's chosen place.",
-      "sectionHeader": "Siege of the Sanctuary and Peace with Lysias"
+      "text": "When the Jews saw the royal might and the fierce attack of the enemy forces, they turned away in flight.",
+      "comment": "The sight of overwhelming royal power demoralizes the Jewish forces, leading to a necessary retreat and underscoring human limitations.",
+      "links": [
+        "Josh 7:5",
+        "Deut 1:42",
+        "2 Chr 13:14"
+      ]
     },
     {
       "pk": 20006048,
@@ -581,9 +713,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 48,
-      "text": "He made peace with those in Beth-zur, who departed from the city, since they had no provisions for a siege—they observed the sabbath and left.",
-      "links": "",
-      "comment": "The observance of the sabbath affecting battle—a powerful testament to law-keeping even under duress; see Dan. 6 and early Christian martyrdom."
+      "text": "The soldiers of the king’s army went up to Jerusalem, and the king encamped in Judea and at Mount Zion.",
+      "comment": "The king’s army advances on Jerusalem, besieging key locations and further tightening Seleucid control of Judea.",
+      "links": [
+        "Dan 9:26",
+        "Luke 21:20",
+        "Neh 2:10"
+      ]
     },
     {
       "pk": 20006049,
@@ -593,9 +729,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 49,
-      "text": "The king occupied Beth-zur and left a garrison there to hold it.",
-      "links": "",
-      "comment": ""
+      "text": "He made peace with the people of Beth-zur, who evacuated the town because they had no provisions there to withstand a siege, since it was a sabbatical year for the land.",
+      "comment": "The sabbatical year, in which the land lay fallow (Lev 25:1-7), creates food shortages, forcing Beth-zur’s surrender despite a negotiated peace.",
+      "links": [
+        "Lev 25:4",
+        "2 Kgs 25:3",
+        "Neh 5:2"
+      ]
     },
     {
       "pk": 20006050,
@@ -605,9 +745,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 50,
-      "text": "He besieged the sanctuary for many days, erecting siege towers and catapults, fire machines, and stone-throwers on every side.",
-      "links": "",
-      "comment": "Persistence of assault on the temple prefigures repeated attacks on God’s holy church through history."
+      "text": "So the king took Beth-zur and stationed a guard there to hold it.",
+      "comment": "Beth-zur’s occupation secures a strategic stronghold for the Seleucids and minimises further Jewish resistance in the region.",
+      "links": [
+        "1 Kgs 15:17",
+        "2 Chr 11:11",
+        "Dan 9:27"
+      ]
     },
     {
       "pk": 20006051,
@@ -617,9 +761,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 51,
-      "text": "But the defenders held out, knocking down the enemy’s war machines and fighting bravely.",
-      "links": "",
-      "comment": "Endurance under relentless attack, a constant theme for God’s people."
+      "text": "Then he encamped before the sanctuary for many days. He set up siege towers, engines of war to throw fire and stones, machines to shoot arrows, and catapults.",
+      "comment": "The protracted siege of the Temple reflects the centrality of the sanctuary and highlights the escalation in military technology used by both sides.",
+      "links": [
+        "2 Kgs 25:4",
+        "Neh 4:17",
+        "1 Macc 11:20"
+      ]
     },
     {
       "pk": 20006052,
@@ -629,9 +777,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 52,
-      "text": "However, food supplies in the sanctuary ran short, and they were running out of all essentials, as it was the seventh year and those who had fled to Judea from the Gentiles had devoured the small reserves.",
-      "links": "",
-      "comment": "The seventh year refers to the sabbatical year (Lev. 25:4), limiting crops and creating hardship—a reminder of living by faith, even in material want."
+      "text": "The Jews also made engines of war to match theirs, and they fought for many days.",
+      "comment": "The Jews’ capacity to build comparable siege engines demonstrates their resilience and ingenuity, though ultimately resource limitations prevail.",
+      "links": [
+        "2 Chr 26:15",
+        "Neh 4:18",
+        "1 Macc 9:44"
+      ]
     },
     {
       "pk": 20006053,
@@ -641,9 +793,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 53,
-      "text": "Few men remained in the sanctuary, for hunger prevailed; most had scattered in search of food.",
-      "links": "",
-      "comment": "Similar depictions appear during Jerusalem’s sieges throughout history; spiritual endurance is tested in times of want."
+      "text": "But they had no food in storage, because it was the seventh year; those who had found safety in Judea from the Gentiles had consumed the last of the stores.",
+      "comment": "The compounded effects of war and the sabbatical year result in famine, dramatically weakening the defenders and underscoring the intersection of faith and practical hardship.",
+      "links": [
+        "Lev 25:5",
+        "Gen 41:54",
+        "Lam 2:19"
+      ]
     },
     {
       "pk": 20006054,
@@ -653,9 +809,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 54,
-      "text": "At that time, Lysias heard that Philip, whom King Antiochus had appointed while still alive to raise his son to rule, had returned from Persia and Media with the intention of assuming control.",
-      "links": "",
-      "comment": "The intervention of another claimant shows the instability of worldly power structures. This would contrast with the stability of the Kingdom established by Christ (<a href='/AIV/27/2/44'>Dan. 2:44</a>)."
+      "text": "Only a few men were left in the sanctuary; the rest scattered to their own homes, for the famine was very severe.",
+      "comment": "Severe famine causes the defenders to disperse, further weakening the Jewish position at a critical moment.",
+      "links": [
+        "Judg 7:3",
+        "2 Kgs 25:3",
+        "Jer 52:6"
+      ]
     },
     {
       "pk": 20006055,
@@ -665,9 +825,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 55,
-      "text": "Lysias hurried to settle matters and proposed a truce with the Jews, offering terms of peace and reasonable concessions.",
-      "links": "",
-      "comment": "Seeking peace as a pragmatic solution foreshadows later biblical calls for reconciliation (see Rom. 12:18)."
+      "text": "Then Lysias heard that Philip, whom King Antiochus, while still living, had appointed to bring up his son Antiochus to be king,",
+      "comment": "Lysias hears of Philip, whom the late Antiochus appointed as regent, returning—an event threatening Lysias’s own power and forcing a reevaluation of priorities.",
+      "links": [
+        "1 Macc 3:32",
+        "2 Macc 9:29",
+        "Acts 23:18"
+      ]
     },
     {
       "pk": 20006056,
@@ -677,9 +841,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 56,
-      "text": "He agreed with their demands, and upon their promises, pledged on oath to allow them to keep their laws.",
-      "links": "",
-      "comment": "Oaths have deep significance; see parallels in covenant language and the assurance of promises in Christ (Heb. 6:17-18)."
+      "text": "had returned from Persia and Media with the forces that had gone with the king, and that he was trying to seize control of the government.",
+      "comment": "The movement of forces and political instability in the empire (Philip’s return from Persia and Media) disrupts the focus on the Judean campaign.",
+      "links": [
+        "Esth 8:15",
+        "1 Macc 6:14",
+        "Dan 6:28"
+      ]
     },
     {
       "pk": 20006057,
@@ -689,9 +857,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 57,
-      "text": "The king and Lysias then released the garrison from the citadel, and withdrew their forces.",
-      "links": "",
-      "comment": "Release of the garrison signals a period of relative peace and restored autonomy for the people of God."
+      "text": "So Lysias quickly gave orders to withdraw, and said to the king, the commanders of the forces, and the troops, “Daily we grow weaker, our food supply is scant, the place against which we are fighting is strong, and the affairs of the kingdom are urgent.",
+      "comment": "Lysias pragmatically recognizes the untenable situation—weakening troops, insufficient supplies, and pressing political concerns—prompting moves toward negotiation.",
+      "links": [
+        "Prov 21:30",
+        "Ps 127:1",
+        "Luke 14:31-32"
+      ]
     },
     {
       "pk": 20006058,
@@ -701,9 +873,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 58,
-      "text": "They returned to the king and redressed in solemn assembly before the Gentile rulers, affirming the peace agreement.",
-      "links": "",
-      "comment": "Affirmation before Gentiles highlights the public recognition of Israel’s right to their worship—a step forward in salvation history."
+      "text": "Now then let us come to terms with these people, and make peace with them and with all their nation.",
+      "comment": "A shift occurs as Lysias advocates peace, preferring stability and compromise over prolonged conflict with the Jews.",
+      "links": [
+        "2 Kgs 6:22-23",
+        "Rom 12:18",
+        "Ps 34:14"
+      ]
     },
     {
       "pk": 20006059,
@@ -713,9 +889,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 59,
-      "text": "The king and his officials pronounced the Jews granted the rights they had requested, and agreed on good terms with them.",
-      "links": "",
-      "comment": "The restoration of legal religious practice prefigures the fulfillment in the era of Christ, when the law is written in the hearts (Jer. 31:33)."
+      "text": "Let us agree to let them live by their laws as they did before; for it was on account of their laws, which we abolished, that they became angry and did all these things.”",
+      "comment": "Restoring the Jews’ right to their ancestral laws is framed as a remedy for rebellion, echoing the Deuteronomic principle of blessing upon faithfulness and the futility of forced apostasy.",
+      "links": [
+        "Ezra 7:25-26",
+        "Acts 18:15",
+        "Dan 6:5"
+      ]
     },
     {
       "pk": 20006060,
@@ -725,9 +905,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 60,
-      "text": "The king and his army then departed, going back to Antioch, and thus ended the fighting in the land of Judah.",
-      "links": "",
-      "comment": "A reprieve from war echoes sabbath themes and the hope for deliverance."
+      "text": "The speech pleased the king and the commanders, and he sent to the Jews an offer of peace, which they accepted.",
+      "comment": "A fragile peace agreement is reached, mirroring earlier episodes where oaths and negotiation provide temporary respite (cf. 2 Kings 25:27–30).",
+      "links": [
+        "1 Sam 11:15",
+        "Rom 12:18",
+        "2 Macc 13:23-24"
+      ]
     },
     {
       "pk": 20006061,
@@ -737,9 +921,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 61,
-      "text": "King Antiochus kept young Antiochus with him, establishing his rule over the kingdom.",
-      "links": "",
-      "comment": ""
+      "text": "So the king and the commanders gave them their oath. On these conditions the Jews evacuated the stronghold.",
+      "comment": "Oaths and guarantees of peace underscore the seriousness of the accord, though the narrative soon shows how such agreements can be broken by cynical power.",
+      "links": [
+        "Josh 9:15",
+        "Ps 15:4",
+        "Heb 6:16-18"
+      ]
     },
     {
       "pk": 20006062,
@@ -749,9 +937,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 62,
-      "text": "Lysias made Philip governor of the province, who then ruled over many regions.",
-      "links": "",
-      "comment": ""
+      "text": "But when the king entered Mount Zion and saw what a strong fortress the place was, he broke the oath he had sworn and gave orders to tear down the wall all around.",
+      "comment": "The king’s breach of his oath by dismantling Zion’s wall reflects both the unreliability of imperial promises and the vulnerability of the Jewish state (cf. Ps 15:4; Zech 2:5).",
+      "links": [
+        "Josh 2:14",
+        "Ps 89:34",
+        "2 Macc 13:22"
+      ]
     },
     {
       "pk": 20006063,
@@ -761,37 +953,15 @@
       "bookAbbreviation": "1Macc",
       "chapter": 6,
       "verse": 63,
-      "text": "Thus Lysias and the king resolved the conflict and established peace, and the Jews lived in their land in relative security for a time.",
-      "links": "",
-      "comment": "Temporary peace after conflict foreshadows the promise of greater, lasting peace found in the coming of Christ, whose kingdom brings true and eternal security (<a href='/AIV/23/9/6'>Isa. 9:6</a>; <a href='/AIV/42/2/14'>Luke 2:14</a>)."
+      "text": "Then he set off in haste and returned to Antioch. He found Philip in control of the city, but he fought against him and took the city by force.",
+      "sectionHeader": "Death of Antiochus and Accession of Eupator",
+      "comment": "The king’s hurried withdrawal to Antioch to contest Philip’s coup highlights ongoing turmoil within the Seleucid Empire and demonstrates how external threats often shape policy toward Judea.",
+      "links": [
+        "Dan 11:27",
+        "1 Kgs 15:20",
+        "2 Macc 13:23"
+      ]
     }
   ],
-  "translatedAt": "2025-12-24T05:18:22.440Z",
-  "sections": [
-    {
-      "title": "Death of Antiochus IV",
-      "startVerse": 1,
-      "endVerse": 16
-    },
-    {
-      "title": "Succession of Antiochus V Eupator",
-      "startVerse": 17,
-      "endVerse": 17
-    },
-    {
-      "title": "Siege of the Jerusalem Citadel and Beth-zur",
-      "startVerse": 18,
-      "endVerse": 29
-    },
-    {
-      "title": "Battle of Beth-zechariah and Death of Eleazar",
-      "startVerse": 30,
-      "endVerse": 46
-    },
-    {
-      "title": "Siege of the Sanctuary and Peace with Lysias",
-      "startVerse": 47,
-      "endVerse": 63
-    }
-  ]
+  "translatedAt": "2025-12-28T06:53:03.241Z"
 }

@@ -3,6 +3,18 @@
   "bookName": "2 Maccabees",
   "bookAbbreviation": "2Macc",
   "chapter": 15,
+  "sections": [
+    {
+      "title": "Nicanor's Plot Against Judas and the Sabbath",
+      "startVerse": 1,
+      "endVerse": 35
+    },
+    {
+      "title": "The Epilogue and Conclusion",
+      "startVerse": 36,
+      "endVerse": 39
+    }
+  ],
   "verses": [
     {
       "pk": 21015001,
@@ -12,10 +24,10 @@
       "bookAbbreviation": "2Macc",
       "chapter": 15,
       "verse": 1,
-      "text": "When Nicanor heard that Judas and his companions were gathered in the regions of Samaria, he decided to attack them with all his might on the day of rest.",
-      "links": "<a href='/AIV/21/8/36'>2Macc. 8:36</a>; <a href='/AIV/2/20/8-10'>Ex. 20:8-10</a>",
-      "comment": "Nicanor plans his attack on the Sabbath, showing contempt for the holiness of the day (see Exodus 20:8-10).",
-      "sectionHeader": "Nicanor Plans to Attack on the Sabbath"
+      "text": "When Nicanor learned that Judas and his followers were in the region of Samaria, he decided to attack them on the day of rest.",
+      "links": "<a href='/AIV/03/23/3'>Lev. 23:3</a>; <a href='/AIV/02/20/8-10'>Ex. 20:8-10</a>",
+      "comment": "Nicanor's choice to attack on the Sabbath highlights the ongoing conflict between pagan rulers and the Jewish people's faithfulness to the Lord's commandments. The Sabbath represented a covenant sign between God and His people (cf. <a href='/AIV/02/31/12-17'>Ex. 31:12-17</a>).",
+      "sectionHeader": "Nicanor's Plot Against Judas and the Sabbath"
     },
     {
       "pk": 21015002,
@@ -25,9 +37,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 15,
       "verse": 2,
-      "text": "The Jews in his company pleaded with him not to do so and not to violate the laws of their ancestors by slaughtering them on such a sacred day.",
-      "links": "<a href='/AIV/3/15/32'>Lev. 15:32</a>; <a href='/AIV/2/31/14'>Ex. 31:14</a>",
-      "comment": "The people appeal to the ancient law, emphasizing faithfulness to divine worship even under threat (Ex. 31:14)."
+      "text": "Those Jews who were compelled to follow him said, 'Do not slaughter them in such a cruel and savage way; show respect for the day that has been honored and sanctified above all others.'",
+      "links": "<a href='/AIV/02/20/8-11'>Ex. 20:8-11</a>; <a href='/AIV/23/58/13'>Isa. 58:13</a>",
+      "comment": "The Jewish people here appeal to the sanctity of the Sabbath, a concept foundational for understanding the gravity of God’s law and its binding nature."
     },
     {
       "pk": 21015003,
@@ -37,9 +49,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 15,
       "verse": 3,
-      "text": "But Nicanor rejected their requests and arrogantly declared he would fight and trample their traditions, as long as there was a ruler from the kingdom.",
-      "links": "<a href='/AIV/21/7/34'>2Macc. 7:34</a>; <a href='/AIV/20/1/18'>Wis. 1:18</a>",
-      "comment": "Nicanor's pride mirrors the rebellious opposition to divine authority (cf. Wisdom 1:18)."
+      "text": "But he asked, 'Is there a Lord in the heavens who commanded the keeping of the seventh day?'",
+      "links": "<a href='/AIV/19/14/1'>Ps. 14:1</a>; <a href='/AIV/02/20/8'>Ex. 20:8</a>",
+      "comment": "Nicanor's question betrays pagan ignorance of Israel’s faith in the living God and the revealed Law, echoing the attitude of scoffers in the Psalms."
     },
     {
       "pk": 21015004,
@@ -49,9 +61,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 15,
       "verse": 4,
-      "text": "When he had made this decision, Judas’s troops, though facing imminent danger, prayed to God, asking the Lord to help them, since they cherished the holiness of the Sabbath.",
-      "links": "<a href='/AIV/19/22/4-5'>Ps. 22:4-5</a>; <a href='/AIV/21/8/27'>2Macc. 8:27</a>",
-      "comment": "Their prayer acknowledges dependence upon God, highlighting the sacredness of Sabbath observance."
+      "text": "They replied, 'The Lord Himself, living in heaven, commanded us to observe the seventh day.'",
+      "links": "<a href='/AIV/02/31/13'>Ex. 31:13</a>",
+      "comment": "The Jews ground their obedience directly in the command of the living God, not mere human tradition. This underscores the divine authority of the commandments."
     },
     {
       "pk": 21015005,
@@ -61,9 +73,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 15,
       "verse": 5,
-      "text": "They cried out, 'You, Lord, who through your prophets commanded that the Sabbath should be kept sacred, now protect us from this desecration, and do not let us fall before those who dishonor you.'",
-      "links": "<a href='/AIV/23/58/13'>Isa. 58:13</a>; <a href='/AIV/24/17/21-22'>Jer. 17:21-22</a>",
-      "comment": "Their prayer ties obedience to the law directly to God’s glory and protection (Isa. 58:13)."
+      "text": "At this, Nicanor responded, 'I am ruler upon the earth, and I command you to take up arms and carry out the king’s orders.' Yet he could not accomplish his plan.",
+      "links": [
+        "Ex 5:2",
+        "Dan 3:15",
+        "Ps 2:2"
+      ],
+      "comment": "Earthly rulers may command, but God's will remains ultimate. Compare with how God often frustrates the plans of the wicked (<a href='/AIV/20/21/30'>Prov. 21:30</a>)."
     },
     {
       "pk": 21015006,
@@ -73,9 +89,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 15,
       "verse": 6,
-      "text": "Nicanor, full of arrogance, decided to display the trophies from his victory over Judas and his troops for all to see in Jerusalem.",
-      "links": "<a href='/AIV/21/7/36'>2Macc. 7:36</a>",
-      "comment": "Nicanor’s planned show of triumph in Jerusalem heightens the drama and illustrates pride opposing the people of God."
+      "text": "Nicanor, in his arrogance, vowed to set up a public monument from the spoils of Judas and his followers after he had captured them.",
+      "links": "<a href='/AIV/19/52/1-7'>Ps. 52:1-7</a>",
+      "comment": "Nicanor’s intention to boast in victory recalls the folly of the wicked who place trust in their own strength instead of God, as often depicted in the Psalms."
     },
     {
       "pk": 21015007,
@@ -85,9 +101,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 15,
       "verse": 7,
-      "text": "But Maccabeus trusted completely in the help of the Lord, and exhorted his troops not to fear the attack of pagans, but to remember past divine assistance and now expect victory from Heaven.",
-      "links": "<a href='/AIV/21/8/18'>2Macc. 8:18</a>; <a href='/AIV/9/4/14-23'>Judges 4:14-23</a>",
-      "comment": "Judas’s reliance on God alone reflects faith found throughout salvation history (<a href='/AIV/9/4/14-23'>Judges 4:14-23</a>)."
+      "text": "But Maccabeus trusted absolutely that the Lord would provide him with help.",
+      "links": "<a href='/AIV/19/118/6-7'>Ps. 118:6-7</a>; <a href='/AIV/23/12/2'>Isa. 12:2</a>",
+      "comment": "Judas Maccabeus exemplifies complete reliance on God, a profound Old Testament model of faith that resonates also in Christian confidence in divine providence."
     },
     {
       "pk": 21015008,
@@ -97,9 +113,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 15,
       "verse": 8,
-      "text": "He encouraged them with words from the Law and the Prophets, reminding them of God’s past aid and stirring them to bravery, until he filled them with courage and readiness to lay down their lives for the law and their homeland.",
-      "links": "<a href='/AIV/21/6/17-31'>2Macc. 6:17-31</a>; <a href='/AIV/2/14/13'>Ex. 14:13</a>",
-      "comment": "Judas cites Scripture as both moral and spiritual encouragement, foreshadowing Christ’s own appeals to the Law and Prophets (Matt. 5:17)."
+      "text": "He encouraged his followers not to fear the attack of hostile nations, but to remember the help that had come before from Heaven, and to expect now as well the victory from the Almighty.",
+      "links": "<a href='/AIV/06/10/8-14'>Josh. 10:8-14</a>; <a href='/AIV/19/124/1-8'>Ps. 124:1-8</a>",
+      "comment": "Judas points to God's past faithfulness as grounds for trusting in new deliverance, a theme repeated throughout salvation history."
     },
     {
       "pk": 21015009,
@@ -109,9 +125,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 15,
       "verse": 9,
-      "text": "He raised their spirits by recounting dreams and visions which confirmed that all who perished for the sake of their faith received glorious rewards.",
-      "links": "<a href='/AIV/21/7/11'>2Macc. 7:11</a>; <a href='/AIV/40/5/10-12'>Matt. 5:10-12</a>",
-      "comment": "The belief that martyrdom is rewarded echoes Jesus’ teaching in the Beatitudes (Matt. 5:10-12) and the early Church’s theology on suffering and glory."
+      "text": "Encouraging them from the law and the prophets, and reminding them also of the struggles they had won, he made them the more eager.",
+      "links": "<a href='/AIV/14/32/21'>2 Chr. 32:21</a>; <a href='/AIV/12/19/35-37'>2 Kgs. 19:35-37</a>",
+      "comment": "The mention of Sennacherib refers to God miraculously saving Jerusalem; Judas encourages trust by recalling these historic acts of salvation."
     },
     {
       "pk": 21015010,
@@ -121,9 +137,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 15,
       "verse": 10,
-      "text": "When he finished speaking, their hearts burned with zeal, ready to die boldly, and they formed ranks for battle, with youth at the front and elders supporting them from behind.",
-      "links": "<a href='/AIV/21/8/23'>2Macc. 8:23</a>; <a href='/AIV/13/12/18'>1Chr. 12:18</a>",
-      "comment": "The unity and courage of all generations reflect the ideal of community in God’s people and the value of tradition."
+      "text": "When he had aroused their courage, he issued his orders, at the same time pointing out the perfidy of the Gentiles and their violation of oaths.",
+      "links": "<a href='/AIV/45/8/36'>Rom. 8:36</a>; <a href='/AIV/19/44/22'>Ps. 44:22</a>",
+      "comment": "The connection between suffering for faith and ultimate victory is taken up later by Christian martyrs (see Rom. 8:36)."
     },
     {
       "pk": 21015011,
@@ -133,10 +149,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 15,
       "verse": 11,
-      "text": "Judas armed them not just with shields and spears, but inspired them with encouraging words. He told them about a trustworthy dream, a vision worthy of belief.",
-      "links": "<a href='/AIV/21/15/14'>2Macc. 15:14</a>; <a href='/AIV/1/37/5'>Gen. 37:5</a>",
-      "comment": "Inspired visions strengthen their resolve, reminiscent of God’s guidance through dreams (as in Gen. 37:5).",
-      "sectionHeader": "Judas Encourages the Troops with Divine Visions"
+      "text": "He ended his speech with encouragement, reminding them even of dreams that were worthy of trust, which could lift up the spirits of all.",
+      "links": "<a href='/AIV/01/41/1-8'>Gen. 41:1-8</a>; <a href='/AIV/27/2/19'>Dan. 2:19</a>",
+      "comment": "Dreams in the Old Testament sometimes served as divine messages—Judas’s trust in such a dream implies openness to supernatural guidance."
     },
     {
       "pk": 21015012,
@@ -146,9 +161,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 15,
       "verse": 12,
-      "text": "He saw Onias, the former high priest, a virtuous man, humble in appearance, gentle in manner, kind in speech, and dedicated from youth to every virtue, with hands stretched in prayer for the whole body of God’s people.",
-      "links": "<a href='/AIV/21/3/1'>2Macc. 3:1</a>; <a href='/AIV/21/10/16-17'>2Macc. 10:16-17</a>",
-      "comment": "Onias intercedes for God’s people, demonstrating the enduring importance of priestly mediation and prayer."
+      "text": "What he saw was this: Onias, the former high priest, a noble and good man, of modest bearing and gentle in speech, and trained from childhood in all that belongs to virtue, was praying with outstretched hands for the whole body of the Jews.",
+      "links": "<a href='/AIV/07/13/5-7'>Judg. 13:5-7</a>",
+      "comment": "Onias, known for his holiness, is depicted as interceding for the people—even after death. This points to belief in the effectiveness of the prayers of the righteous who have gone before us (<a href='/AIV/59/5/16'>Jas. 5:16</a>)."
     },
     {
       "pk": 21015013,
@@ -158,9 +173,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 15,
       "verse": 13,
-      "text": "Then in the same vision appeared another man, distinguished by his gray hair and dignity, and marvelous splendor surrounded him.",
-      "links": "<a href='/AIV/21/15/14'>2Macc. 15:14</a>; <a href='/AIV/13/17/8'>1Chr. 17:8</a>",
-      "comment": "The description suggests someone of great spiritual stature and honor."
+      "text": "Then there appeared to him a man distinguished by white hair and dignity, and remarkable for greatness and majesty.",
+      "links": "<a href='/AIV/27/7/9'>Dan. 7:9</a>",
+      "comment": "The man’s appearance fits the Old Testament symbol of wisdom and authority, sometimes associated with heavenly beings or ancestors."
     },
     {
       "pk": 21015014,
@@ -170,9 +185,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 15,
       "verse": 14,
-      "text": "Onias explained, 'This is Jeremiah, prophet of God, who loves his people and prays much for them and for the holy city.'",
-      "links": "<a href='/AIV/24/15/1'>Jer. 15:1</a>; <a href='/AIV/24/17/16'>Jer. 17:16</a>",
-      "comment": "Jeremiah’s ongoing intercession reveals that saints continue to care for God’s people even after death, hinting at the communion of saints."
+      "text": "Onias said, 'This is Jeremiah, the prophet of God, who loves his brothers and prays much for the people and the holy city.'",
+      "links": "<a href='/AIV/24/29/7'>Jer. 29:7</a>; <a href='/AIV/24/7/16'>Jer. 7:16</a>",
+      "comment": "Jeremiah is depicted as interceding for Israel, showing a belief that the saints remain active in prayer for God's people—a biblical root for understanding the communion of saints."
     },
     {
       "pk": 21015015,
@@ -183,8 +198,12 @@
       "chapter": 15,
       "verse": 15,
       "text": "Jeremiah stretched out his right hand and gave Judas a golden sword, saying:",
-      "links": "<a href='/AIV/21/15/16'>2Macc. 15:16</a>",
-      "comment": "The golden sword is a symbolic gift from the heavenly realms, suggesting divine favor and empowerment."
+      "links": [
+        "Zech 9:13",
+        "Isa 49:2",
+        "Wis 5:17"
+      ],
+      "comment": "The sword is a symbol of divine aid and victory, which God gives to His faithful servants. It echoes angelic help in biblical battles."
     },
     {
       "pk": 21015016,
@@ -194,9 +213,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 15,
       "verse": 16,
-      "text": "'Take this holy sword, a gift from God. With it you shall crush your enemies.'",
-      "links": "<a href='/AIV/10/23/9-10'>2Sam. 23:9-10</a>; <a href='/AIV/58/4/12'>Heb. 4:12</a>",
-      "comment": "The sword represents God’s powerful word and assistance; the symbolism foreshadows spiritual warfare (cf. Heb. 4:12)."
+      "text": "'Take this holy sword, a gift from God; with it you will strike down your adversaries.'",
+      "links": "<a href='/AIV/23/49/2'>Isa. 49:2</a>; <a href='/AIV/49/6/17'>Eph. 6:17</a>",
+      "comment": "The gift of the sword from a prophet, in a vision, embodies the idea that heavenly assistance is granted to those assigned to lead God’s people. The 'sword of the Spirit' in Ephesians draws from such imagery."
     },
     {
       "pk": 21015017,
@@ -206,9 +225,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 15,
       "verse": 17,
-      "text": "Encouraged by Judas’s words, noble in spirit and ready to die courageously, their excitement reached such heights that they could not be swayed by threats, and they determined to fight valiantly.",
-      "links": "<a href='/AIV/13/12/8'>1Chr. 12:8</a>; <a href='/AIV/19/27/3'>Ps. 27:3</a>",
-      "comment": "The people’s noble spirit links martyrs and warriors throughout Scripture."
+      "text": "Encouraged by these words of Judas, so noble and powerful, and strengthened in heart, the best of the young men were resolved not only to stand fast, but to attack courageously and fight bravely for religion, temple, city, country, and citizens.",
+      "links": "<a href='/AIV/14/32/7-8'>2 Chr. 32:7-8</a>",
+      "comment": "This verse highlights the unity of religious, civic, and familial devotion, merging spiritual and earthly commitments as one."
     },
     {
       "pk": 21015018,
@@ -218,9 +237,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 15,
       "verse": 18,
-      "text": "Since the city, the Temple, and the Law were in danger, he feared more for the holiness and glory of the Temple than for his own family.",
-      "links": "<a href='/AIV/21/2/22'>2Macc. 2:22</a>; <a href='/AIV/19/122/1'>Ps. 122:1</a>",
-      "comment": "Judas’s priorities uphold the spiritual values of worship and communal identity above personal interest."
+      "text": "The great fear they had for the desecration of the holy temple was greater than fear for their wives or children, or even for their less holy relatives.",
+      "links": "<a href='/AIV/42/14/26'>Luke 14:26</a>",
+      "comment": "Devotion to God can require choosing Him above even family—a principle Christ later affirms (<a href='/AIV/42/14/26'>Luke 14:26</a>)."
     },
     {
       "pk": 21015019,
@@ -230,9 +249,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 15,
       "verse": 19,
-      "text": "Those left in the city were deeply troubled about the result of the battle at the open field.",
-      "links": "<a href='/AIV/21/4/14'>2Macc. 4:14</a>",
-      "comment": "The people’s anxiety reveals their dependence on divine protection and the importance of prayer for those fighting."
+      "text": "In the city, everyone was deeply anxious about the coming battle.",
+      "links": [
+        "2 Chr 20:3",
+        "Joel 2:1",
+        "Esth 4:3"
+      ],
+      "comment": "The looming battle grips the community, demonstrating the collective concern in spiritual warfare."
     },
     {
       "pk": 21015020,
@@ -242,9 +265,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 15,
       "verse": 20,
-      "text": "While everyone awaited the final outcome, and foreign troops were drawn up in battle formation with their elephants and cavalry in strategic positions and covered with armor,",
-      "links": "<a href='/AIV/14/9/13'>2Chr. 9:13</a>; <a href='/AIV/21/11/11'>2Macc. 11:11</a>",
-      "comment": "The scene recalls many times when God’s people faced overwhelming odds yet prevailed by faith."
+      "text": "And as the enemy was already drawing near, and the army deployed for battle, with the elephants arranged and the cavalry on the flanks, Maccabeus saw all these preparations and the boldness of his soldiers, and decided to rely on the Lord.",
+      "links": "<a href='/AIV/10/8/4'>2 Sam. 8:4</a>",
+      "comment": "Despite the enemy’s military superiority, Judas’s faith looks beyond material resources—a pattern typical of biblical heroes."
     },
     {
       "pk": 21015021,
@@ -254,9 +277,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 15,
       "verse": 21,
-      "text": "Judas, looking up to Heaven, called upon the Lord, who works miracles, knowing victory comes not through arms but by God’s decision, as the Law records about David and Goliath.",
-      "links": "<a href='/AIV/9/17/45-50'>1Sam. 17:45-50</a>; <a href='/AIV/19/44/3'>Ps. 44:3</a>",
-      "comment": "Judas’s prayer aligns with biblical precedent (David vs. Goliath in 1Sam. 17:45-50), connecting victory to faith."
+      "text": "He encouraged his own men as well, not to fear the enemy; remembering the help from Heaven, he urged them to trust in the Lord's protection.",
+      "links": "<a href='/AIV/19/20/7'>Ps. 20:7</a>",
+      "comment": "The reminder to trust God rather than chariots or horses parallels trusting divine power over human strength (cf. Ps. 20:7)."
     },
     {
       "pk": 21015022,
@@ -266,9 +289,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 15,
       "verse": 22,
-      "text": "'O Lord, you sent your angel in the time of Hezekiah, king of Judah, and he destroyed 185,000 from Sennacherib’s army. So now, Sovereign of the heavens, send your good messenger before us to bring us victory and terror to our enemies.'",
-      "links": "<a href='/AIV/12/19/35'>2Kings 19:35</a>; <a href='/AIV/23/37/36'>Isa. 37:36</a>",
-      "comment": "The prayer references angelic deliverance in King Hezekiah’s time (2Kings 19:35); faith in heavenly help remains vital."
+      "text": "With hands raised to heaven, he prayed to the Lord who works wonders, knowing that victory is not gained by weapons but as God chooses.",
+      "links": "<a href='/AIV/09/17/47'>1 Sam. 17:47</a>; <a href='/AIV/06/10/11'>Josh. 10:11</a>",
+      "comment": "Dependence on God rather than weapons is a repeated message throughout the Old Testament; God accomplishes victory for His people."
     },
     {
       "pk": 21015023,
@@ -278,9 +301,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 15,
       "verse": 23,
-      "text": "'Strike down these enemies by your mighty arm and let those who blaspheme your holy people be crushed.'",
-      "links": "<a href='/AIV/21/10/28'>2Macc. 10:28</a>; <a href='/AIV/19/68/30'>Ps. 68:30</a>",
-      "comment": "The call for righteous justice is grounded in biblical prayers for God’s defense of His people."
+      "text": "'O Lord, you sent your angel under Hezekiah, king of Judah, who destroyed 185,000 men in the camp of Sennacherib. So now, O Sovereign of heaven, send a good angel before us to spread terror and dread.'",
+      "links": "<a href='/AIV/12/19/35'>2 Kgs. 19:35</a>; <a href='/AIV/19/34/7'>Ps. 34:7</a>",
+      "comment": "Judas’s prayer draws on the historic angelic intervention, seeking a similar divine deliverance. Angels repeatedly serve as God’s agents."
     },
     {
       "pk": 21015024,
@@ -290,10 +313,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 15,
       "verse": 24,
-      "text": "With these words, Judas courageously engaged Nicanor and his troops, aided from above by the Lord.",
-      "links": "<a href='/AIV/21/11/11'>2Macc. 11:11</a>; <a href='/AIV/19/20/7'>Ps. 20:7</a>",
-      "comment": "Victory is acknowledged as God’s work, not mere human achievement.",
-      "sectionHeader": "The Battle and Death of Nicanor"
+      "text": "'By your mighty arm, destroy with the sword those who come with blasphemy against your holy people.' And with these words he ended his prayer.",
+      "links": "<a href='/AIV/02/15/6'>Ex. 15:6</a>",
+      "comment": "Judas prays for God’s justice against blasphemers. Invoking divine judgment points to the seriousness of defending the Lord's honor."
     },
     {
       "pk": 21015025,
@@ -303,9 +325,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 15,
       "verse": 25,
-      "text": "Nicanor’s troops fell in battle, and he himself was the first to die in the fight.",
-      "links": "<a href='/AIV/21/8/35'>2Macc. 8:35</a>",
-      "comment": "The defeat begins with the downfall of the enemy leader—divine justice enacted."
+      "text": "Nicanor and his army advanced to the sound of trumpets and war songs.",
+      "links": [
+        "Josh 6:5",
+        "Judg 7:20",
+        "1 Macc 5:31"
+      ],
+      "comment": "The enemy’s noisy display contrasts with Judas’s reliance on prayer and God's power."
     },
     {
       "pk": 21015026,
@@ -315,9 +341,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 15,
       "verse": 26,
-      "text": "Seeing their leader dead, Nicanor’s army threw down their arms and fled.",
-      "links": "<a href='/AIV/7/7/21'>Joshua 7:21</a>",
-      "comment": "The enemy rout recalls similar scenes of demoralization and defeat in Israel’s battles, speaking to divine intervention."
+      "text": "But the men of Judas met them, calling on God for help, as they engaged in battle.",
+      "links": "<a href='/AIV/02/17/11'>Ex. 17:11</a>",
+      "comment": "Even in battle, prayer and martial action go together—a unity of faith and works. God responds to faith set in action."
     },
     {
       "pk": 21015027,
@@ -327,9 +353,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 15,
       "verse": 27,
-      "text": "The victors pursued them for a long way, striking down anyone who resisted, until they finally defeated all the adversaries.",
-      "links": "<a href='/AIV/9/18/40-51'>1Sam. 18:40-51</a>",
-      "comment": "The decisive victory connects to historic triumphs by faith and obedience."
+      "text": "Fighting with their hands and praying to God in their hearts, they killed more than 35,000 of the enemy, rejoicing in God’s intervention.",
+      "links": "<a href='/AIV/07/7/22'>Judg. 7:22</a>",
+      "comment": "Victory is attributed first to God, not man’s skill; salvation is the Lord’s work."
     },
     {
       "pk": 21015028,
@@ -339,9 +365,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 15,
       "verse": 28,
-      "text": "After the battle ended, and as they returned joyfully, they discovered Nicanor’s body, along with his weapons.",
-      "links": "<a href='/AIV/21/8/32'>2Macc. 8:32</a>",
-      "comment": "Discovery of the enemy’s body signifies total victory and the end of threat."
+      "text": "When the battle was over and they were joyfully returning, they recognized Nicanor lying dead, clad in his armor.",
+      "links": [
+        "1 Sam 17:51",
+        "2 Chr 32:21",
+        "Ps 92:7"
+      ],
+      "comment": "God’s justice is manifest in the defeat of the blasphemer."
     },
     {
       "pk": 21015029,
@@ -351,9 +381,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 15,
       "verse": 29,
-      "text": "They stripped the spoils from him and cut off his head and right hand, bringing them up to Jerusalem for public display.",
-      "links": "<a href='/AIV/9/17/54'>1Sam. 17:54</a>; <a href='/AIV/21/8/30'>2Macc. 8:30</a>",
-      "comment": "Similar to David’s victory over Goliath, the display is a public sign of God’s deliverance."
+      "text": "Amidst shouts and tumult, they blessed the Lord in the language of their fathers.",
+      "links": "<a href='/AIV/19/117/1'>Ps. 117:1</a>",
+      "comment": "Praise is offered to God in their traditional tongue, showing the importance of worshiping with inherited expressions of faith."
     },
     {
       "pk": 21015030,
@@ -363,9 +393,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 15,
       "verse": 30,
-      "text": "Judas dedicated Nicanor’s head and hand, which he had cut off, facing the Temple, as a sign of the Lord’s help.",
-      "links": "<a href='/AIV/19/118/15-16'>Ps. 118:15-16</a>",
-      "comment": "The dedication at the Temple emphasizes thanksgiving and worship as essential responses to victory."
+      "text": "Then Judas, who was always in body and soul devoted to his countrymen, ordered that Nicanor's head and right hand, which this arrogant man had lifted up against the holy house of God, should be cut off and displayed in Jerusalem.",
+      "links": "<a href='/AIV/09/17/51-54'>1 Sam. 17:51-54</a>",
+      "comment": "Displaying the enemy's head echoes the defeat of Goliath, a sign of God’s faithfulness to defend His sanctuary."
     },
     {
       "pk": 21015031,
@@ -375,9 +405,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 15,
       "verse": 31,
-      "text": "Everyone blessed Heaven, saying, 'Blessed is the One who kept His dwelling pure!'",
-      "links": "<a href='/AIV/19/132/13-14'>Ps. 132:13-14</a>",
-      "comment": "The emphasis on the sanctity of God’s dwelling resonates with the spiritual principle of reverence for God’s holy presence."
+      "text": "When he arrived there and had called his compatriots together and stationed the priests before the altar, he sent for those who were in the citadel.",
+      "links": "<a href='/AIV/19/136/1'>Ps. 136:1</a>",
+      "comment": "Instituting a yearly remembrance shows the biblical foundation of sacred feasts for God’s saving acts. The importance of liturgical memory is highlighted."
     },
     {
       "pk": 21015032,
@@ -387,9 +417,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 15,
       "verse": 32,
-      "text": "Judas hung up Nicanor’s head outside the fortress, in a visible place, as an unmistakable sign of God’s protection.",
-      "links": "<a href='/AIV/9/17/54'>1Sam. 17:54</a>",
-      "comment": "Public display of the enemy’s defeat boldly testifies to the Lord’s power."
+      "text": "He showed them the vile Nicanor’s head and that profane man’s arm, which had been boastfully stretched out against the holy house of the Almighty.",
+      "links": "<a href='/AIV/08/9/1'>Esth. 9:1</a>",
+      "comment": "The specific dating echoes that of Purim, revealing God’s providence through ordered remembrance."
     },
     {
       "pk": 21015033,
@@ -399,10 +429,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 15,
       "verse": 33,
-      "text": "They decreed by public vote never to leave that day without celebration, but to keep the thirteenth day of the twelfth month called Adar as a day of joy.",
-      "links": "<a href='/AIV/17/9/19-22'>Esther 9:19-22</a>",
-      "comment": "The establishment of a perpetual memorial links to the cycle of sacred remembering, as in Purim (Esther 9:19-22).",
-      "sectionHeader": "Instituting the Feast of Nicanor"
+      "text": "He cut out the tongue of the ungodly Nicanor and said that he would feed it piecemeal to the birds and would hang up these rewards of his folly opposite the sanctuary.",
+      "links": [
+        "Ps 68:23",
+        "Deut 32:42",
+        "Isa 66:24"
+      ],
+      "comment": "The public display underscores God’s triumph over blasphemers, testifying to all what God has accomplished."
     },
     {
       "pk": 21015034,
@@ -412,9 +445,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 15,
       "verse": 34,
-      "text": "So they celebrated with rejoicing on that day, and the land of Judah was at peace for a while.",
-      "links": "<a href='/AIV/21/10/38'>2Macc. 10:38</a>; <a href='/AIV/7/11/23'>Joshua 11:23</a>",
-      "comment": "Peace following faithful victory is a recurrent biblical theme."
+      "text": "And they all, together, gave glory to the Lord in heaven, saying, 'Blessed is he who has kept his sacred place undefiled.'",
+      "links": "<a href='/AIV/19/122/1'>Ps. 122:1</a>",
+      "comment": "Glorifying God for protecting His holy place prepares for the New Testament portrayal of Christ as the true Temple (<a href='/AIV/43/2/19-21'>John 2:19-21</a>)."
     },
     {
       "pk": 21015035,
@@ -424,10 +457,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 15,
       "verse": 35,
-      "text": "Regarding Judas’s achievements—his valor, the victories over enemies, and the consecration of the Temple—they are recorded in separate histories.",
-      "links": "<a href='/AIV/21/2/19'>2Macc. 2:19</a>",
-      "comment": "Reference to additional records underscores the importance of historical memory within sacred tradition.",
-      "sectionHeader": "Conclusion of the Second Book of Maccabees"
+      "text": "Judas hung Nicanor’s head from the citadel, a clear and conspicuous sign to everyone of the help of the Lord.",
+      "links": [
+        "1 Sam 17:54",
+        "Esth 8:17",
+        "Ps 44:7"
+      ],
+      "comment": "Judas’s leadership is marked by God’s favor, a biblical example of godly governance."
     },
     {
       "pk": 21015036,
@@ -437,9 +473,10 @@
       "bookAbbreviation": "2Macc",
       "chapter": 15,
       "verse": 36,
-      "text": "Here, the account will end. If it is well-written and accurate, that is what I desired; if it is poorly done, that is all I could do.",
-      "links": "<a href='/AIV/20/9/14'>Wis. 9:14</a>",
-      "comment": "A humble acknowledgment of limitations, as seen in other biblical books (cf. Wisdom 9:14), expresses the writer’s sincerity."
+      "text": "And they all decreed by public vote never to let this day go unobserved, but to celebrate the thirteenth day of the twelfth month — which is called Adar in the Aramaic language — the day before Mordecai’s day.",
+      "links": "<a href='/AIV/08/9/28'>Esth. 9:28</a>",
+      "comment": "Liturgical commemorations reflect the biblical tradition of memorial feasts. Linking it to Purim ties these events into the larger salvation narrative.",
+      "sectionHeader": "The Epilogue and Conclusion"
     },
     {
       "pk": 21015037,
@@ -449,9 +486,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 15,
       "verse": 37,
-      "text": "Just as it is harmful to drink wine alone or water alone, but good to combine wine and water for refreshment, so, too, the arrangement of stories will delight listeners.",
-      "links": "<a href='/AIV/20/7/22'>Wis. 7:22</a>",
-      "comment": "The analogy of mixing wine and water reflects the integration of teaching and encouragement—a subtle nod to a sacramental worldview."
+      "text": "Thus, I will here bring my story to an end. If it has been told well, that is what I desired. If poorly, that was all I could do.",
+      "links": "<a href='/AIV/21/12/10-12'>Eccl. 12:10-12</a>",
+      "comment": "The humility of the narrator recalls other biblical writers who entrust their limited efforts to God’s mercy."
     },
     {
       "pk": 21015038,
@@ -461,9 +498,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 15,
       "verse": 38,
-      "text": "So I will conclude here. If the composition is elegant and pleasing, it is what I hoped for. If it is just average, I have done my best.",
-      "links": "<a href='/AIV/21/15/36'>2Macc. 15:36</a>",
-      "comment": "Modesty in authorship, entrusting any good achieved to divine guidance."
+      "text": "For as wine blends well with water, so too does this story gain approval when it is composed skillfully, but if it is simple and ordinary, it is as I have been able.",
+      "links": [
+        "Eccl 12:10",
+        "Luke 1:3",
+        "Prov 25:11"
+      ],
+      "comment": "The comparison to mixing wine and water reflects the belief that the communication of spiritual truths can take a humanly humble form."
     },
     {
       "pk": 21015039,
@@ -473,37 +514,10 @@
       "bookAbbreviation": "2Macc",
       "chapter": 15,
       "verse": 39,
-      "text": "Just as it is harmful to eat too much of one thing, so is reading too much without variety; so I hope this account gives benefit and joy. Here ends the story.",
-      "links": "<a href='/AIV/20/9/10'>Wis. 9:10</a>",
-      "comment": "Final words reflect wisdom’s call for balance and spiritual nourishment."
+      "text": "For just as it is harmful to drink wine alone, or, again, to drink water alone, while wine mixed with water is sweet and delicious and enhances one’s enjoyment, so also the style of the story delights the ears of those who read the work. And here will be the end.",
+      "links": "<a href='/AIV/46/1/4'>1 Cor. 1:4</a>",
+      "comment": "The final request for gratitude and forgiveness is an invitation to receive this inspired history with humility and charity, opening the reader to its spiritual profit."
     }
   ],
-  "translatedAt": "2025-12-24T05:39:18.897Z",
-  "sections": [
-    {
-      "title": "Nicanor Plans to Attack on the Sabbath",
-      "startVerse": 1,
-      "endVerse": 10
-    },
-    {
-      "title": "Judas Encourages the Troops with Divine Visions",
-      "startVerse": 11,
-      "endVerse": 23
-    },
-    {
-      "title": "The Battle and Death of Nicanor",
-      "startVerse": 24,
-      "endVerse": 32
-    },
-    {
-      "title": "Instituting the Feast of Nicanor",
-      "startVerse": 33,
-      "endVerse": 34
-    },
-    {
-      "title": "Conclusion of the Second Book of Maccabees",
-      "startVerse": 35,
-      "endVerse": 39
-    }
-  ]
+  "translatedAt": "2025-12-29T00:32:54.662Z"
 }

@@ -62,7 +62,11 @@
       "chapter": 18,
       "verse": 5,
       "text": "Then the word of the LORD came to me:",
-      "links": "",
+      "links": [
+        "Jer 1:4",
+        "Jer 15:16",
+        "Ezek 3:16"
+      ],
       "comment": "A recurring phrase marking divine instruction, reinforcing Jeremiah’s authority as a prophet and the immediacy of God's message."
     },
     {
@@ -171,7 +175,11 @@
       "chapter": 18,
       "verse": 14,
       "text": "Does the snow of Lebanon leave the rocky slopes, or do the cool waters, flowing from afar, dry up?",
-      "links": "",
+      "links": [
+        "Job 37:10",
+        "Ps 104:10",
+        "Isa 55:10"
+      ],
       "comment": "The rhetorical question stresses the abnormality of Israel’s behavior. Just as natural phenomena follow predictable patterns, Israel’s rejection of fidelity is a shocking disruption."
     },
     {

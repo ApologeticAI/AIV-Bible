@@ -3,6 +3,13 @@
   "bookName": "Esther",
   "bookAbbreviation": "Esth",
   "chapter": 8,
+  "sections": [
+    {
+      "title": "Mordecai’s Advancement and Esther’s Gift",
+      "startVerse": 1,
+      "endVerse": 17
+    }
+  ],
   "verses": [
     {
       "pk": 19008001,
@@ -12,10 +19,10 @@
       "bookAbbreviation": "Esth",
       "chapter": 8,
       "verse": 1,
-      "text": "On that same day King Xerxes gave Queen Esther the house of Haman, the enemy of the Jews. And Mordecai came before the king, for Esther had told what relation he was to her.",
-      "links": "<a href='/AIV/19/2/22'>Esth. 2:22</a>; <a href='/AIV/19/7/6'>Esth. 7:6</a>",
-      "comment": "By revealing her relationship to Mordecai, Esther places her trust in both the king and God’s providence. This act demonstrates divine guidance at work, a theme seen throughout Scripture, emphasizing faith and obedience (cf. Gen. 45:4; Rom. 8:28).",
-      "sectionHeader": "Esther and Mordecai Honored"
+      "text": "On that same day King Xerxes gave Queen Esther the property of Haman, the enemy of the Jews. And Mordecai came before the king, for Esther had revealed their relationship.",
+      "links": "<a href='/AIV/19/7/10'>Esth. 7:10</a>; <a href='/AIV/19/2/7'>Esth. 2:7</a>",
+      "comment": "Esther’s act of revealing Mordecai's identity brought favor to him, fulfilling the reversal begun earlier (see Esth. 7:10). Haman’s estate symbolizes the transference of power from evil to the righteous.",
+      "sectionHeader": "Mordecai’s Advancement and Esther’s Gift"
     },
     {
       "pk": 19008002,
@@ -25,9 +32,9 @@
       "bookAbbreviation": "Esth",
       "chapter": 8,
       "verse": 2,
-      "text": "The king took off his signet ring, which he had taken from Haman, and gave it to Mordecai. Esther appointed Mordecai over Haman’s house.",
-      "links": "<a href='/AIV/19/3/10'>Esth. 3:10</a>; <a href='/AIV/1/41/41-44'>Gen. 41:41-44</a>",
-      "comment": "The signet ring is a symbol of royal authority, echoing Joseph's rise in Egypt. Esther acts as both intercessor and mediator, elevating Mordecai—a foreshadowing of how those faithful to God are raised up. See also Rom. 8:17, where believers become co-heirs with Christ."
+      "text": "The king took off his signet ring, which he had taken from Haman, and gave it to Mordecai. Esther then appointed Mordecai to manage Haman’s property.",
+      "links": "<a href='/AIV/19/3/10'>Esth. 3:10</a>; <a href='/AIV/1/41/42'>Gen. 41:42</a>",
+      "comment": "The signet ring is a symbol of royal authority and trust (cf. Gen. 41:42). Mordecai’s stewardship prefigures the way God entrusts His faithful servants with responsibility."
     },
     {
       "pk": 19008003,
@@ -37,10 +44,9 @@
       "bookAbbreviation": "Esth",
       "chapter": 8,
       "verse": 3,
-      "text": "Esther spoke again before the king. She fell at his feet, weeping and pleading with him to put an end to the evil scheme Haman the Agagite had planned against the Jews.",
-      "links": "<a href='/AIV/19/4/8'>Esth. 4:8</a>; <a href='/AIV/19/7/3-4'>Esth. 7:3-4</a>",
-      "comment": "Esther’s humility and bold intercession prefigure the Church’s relentless prayer before God for deliverance (cf. Rom. 8:26). Her plea for her people highlights the power of persistent intercession.",
-      "sectionHeader": "Esther Pleads for Her People"
+      "text": "Esther spoke again to the king, falling at his feet and weeping. She pleaded with him to stop the evil scheme that Haman the Agagite had devised against the Jews.",
+      "links": "<a href='/AIV/19/4/8'>Esth. 4:8</a>; <a href='/AIV/19/7/4'>Esth. 7:4</a>",
+      "comment": "Esther’s intercession models the role of the faithful who plead for the salvation of others; her humility is reminiscent of Moses’ and Abraham’s advocacy (cf. Exod. 32:11; Gen. 18:22-33)."
     },
     {
       "pk": 19008004,
@@ -50,9 +56,9 @@
       "bookAbbreviation": "Esth",
       "chapter": 8,
       "verse": 4,
-      "text": "The king held out to Esther the golden scepter, so Esther arose and stood before the king.",
+      "text": "The king held out the golden scepter to Esther, so she rose and stood before him.",
       "links": "<a href='/AIV/19/5/2'>Esth. 5:2</a>",
-      "comment": "The golden scepter represents royal favor and acceptance, foreshadowing the access believers have to God through grace. This act signals the importance of mediation and proper approach to authority."
+      "comment": "The golden scepter is a sign of acceptance and favor (see Esth. 5:2), echoing the access granted to believers through Christ (cf. Heb. 4:16)."
     },
     {
       "pk": 19008005,
@@ -62,9 +68,9 @@
       "bookAbbreviation": "Esth",
       "chapter": 8,
       "verse": 5,
-      "text": "She said, 'If it pleases the king, and if I have found favor in his sight, and if the matter seems right to the king and I am pleasing in his eyes, let an order be written to revoke the letters sent by Haman son of Hammedatha the Agagite, which he wrote to destroy the Jews in all the king’s provinces.'",
-      "links": "<a href='/AIV/19/3/12-13'>Esth. 3:12-13</a>",
-      "comment": "Esther demonstrates wisdom and humility, couching her request with repeated appeals to the king’s judgment. It reminds us of the reverence owed to God in prayer, as seen in Christ's example (Matt. 6:10)."
+      "text": "She said, “If it pleases the king, and if I have found favor before him, and if the matter seems right to the king and I am pleasing in his eyes, let an order be written to revoke the letters contrived by Haman son of Hammedatha the Agagite, which he wrote to destroy the Jews throughout the king’s provinces.”",
+      "links": "<a href='/AIV/19/3/12-13'>Esth. 3:12-13</a>; <a href='/AIV/20/15/31'>Prov. 15:31</a>",
+      "comment": "Esther’s fourfold plea shows her humility and dependence on the king’s mercy. The detail ‘Agagite’ recalls Israel's historic battles against Amalek (see 1 Sam. 15:8)."
     },
     {
       "pk": 19008006,
@@ -74,9 +80,9 @@
       "bookAbbreviation": "Esth",
       "chapter": 8,
       "verse": 6,
-      "text": "For how can I bear to see the calamity that will come upon my people? Or how can I endure to see the destruction of my family?",
-      "links": "<a href='/AIV/19/4/1'>Esth. 4:1</a>",
-      "comment": "Esther’s selfless concern parallels the grief of Moses (Ex. 32:32) and Paul (Rom. 9:2-3) for their people. This echoes the suffering of Christ who bears the burden for His people (Heb. 5:7-9)."
+      "text": "For how can I bear to see the disaster that would fall upon my people? How can I endure the destruction of my relatives?”",
+      "links": "<a href='/AIV/19/4/14'>Esth. 4:14</a>; <a href='/AIV/45/9/3'>Rom. 9:3</a>",
+      "comment": "Esther’s selfless concern mirrors apostolic and prophetic compassion (cf. Rom. 9:3). The willingness to suffer for the sake of others is a foreshadowing of Christ’s sacrificial love."
     },
     {
       "pk": 19008007,
@@ -86,9 +92,9 @@
       "bookAbbreviation": "Esth",
       "chapter": 8,
       "verse": 7,
-      "text": "Then King Xerxes said to Queen Esther and to Mordecai the Jew, 'See, I have given Esther the house of Haman, and they have impaled him on the stake because he tried to lay his hand on the Jews.'",
-      "links": "<a href='/AIV/19/7/10'>Esth. 7:10</a>",
-      "comment": "The king formally acknowledges the justice rendered, showing his favor has shifted. This change reveals how divine providence can overturn evil (Prov. 21:1), and is a reminder that God's justice ultimately prevails."
+      "text": "King Xerxes replied to Queen Esther and Mordecai the Jew, “Behold, I have given Esther the house of Haman, and he has been hanged on the gallows for attacking the Jews.",
+      "links": "<a href='/AIV/19/7/9-10'>Esth. 7:9-10</a>",
+      "comment": "Justice is enacted on Haman, fulfilling poetic justice. The king’s mention of Esther and Mordecai together foreshadows the cooperation of faithful leaders in divine history."
     },
     {
       "pk": 19008008,
@@ -98,9 +104,9 @@
       "bookAbbreviation": "Esth",
       "chapter": 8,
       "verse": 8,
-      "text": "But you may write as you see fit concerning the Jews, in the king’s name, and seal it with the king’s signet ring. For a document written in the king’s name and sealed with the king’s ring cannot be revoked.",
-      "links": "<a href='/AIV/19/1/19'>Esth. 1:19</a>; <a href='/AIV/19/3/12'>Esth. 3:12</a>",
-      "comment": "Once the king's decree is sealed, it is irrevocable—just as God's promises are sure and unbreakable (Num. 23:19; Rom. 11:29). This acts as a reminder of God's unchanging faithfulness."
+      "text": "You yourselves may write a decree about the Jews as it pleases you, in the king’s name, and seal it with the king’s signet ring. For whatever is written in the king’s name and sealed with his ring cannot be revoked.",
+      "links": "<a href='/AIV/19/3/12'>Esth. 3:12</a>; <a href='/AIV/27/6/8'>Dan. 6:8</a>",
+      "comment": "This underscores the irrevocable nature of royal decrees (see Dan. 6:8), highlighting the power of words and authority—a theme echoed in the enduring promises of God."
     },
     {
       "pk": 19008009,
@@ -110,10 +116,9 @@
       "bookAbbreviation": "Esth",
       "chapter": 8,
       "verse": 9,
-      "text": "So the king’s scribes were summoned at that time, in the third month (that is, the month of Sivan), on the twenty-third day. An edict was written, according to all that Mordecai commanded, to the Jews, the satraps, governors, and officials of the provinces from India to Cush—127 provinces—to each province in its own script and to each people in its own language, and to the Jews in their own writing and language.",
-      "links": "<a href='/AIV/19/1/1'>Esth. 1:1</a>; <a href='/AIV/19/3/12'>Esth. 3:12</a>",
-      "comment": "Just as at Pentecost the Holy Spirit spoke to every nation in their own language (Acts 2:6-11), so here the message reaches everyone without distinction, foreshadowing the universal nature of God’s saving plan.",
-      "sectionHeader": "The King's Decree in Favor of the Jews"
+      "text": "So the king’s scribes were summoned at once—on the twenty-third day of the third month, the month of Sivan. The decree was written exactly as Mordecai commanded, for the Jews, and also for the satraps, governors, and officials of every province from India to Cush, for every province in its own script and for every people in their own language, and also for the Jews in their script and language.",
+      "links": "<a href='/AIV/19/1/1'>Esth. 1:1</a>; <a href='/AIV/44/2/6-8'>Acts 2:6-8</a>",
+      "comment": "The attention to languages prefigures Pentecost, where the Spirit brings unity in diversity (see Acts 2:6-8). This theme supports the universality of salvation history."
     },
     {
       "pk": 19008010,
@@ -123,9 +128,9 @@
       "bookAbbreviation": "Esth",
       "chapter": 8,
       "verse": 10,
-      "text": "He wrote in the name of King Xerxes, sealed it with the king’s signet ring, and sent the letters by mounted couriers riding swift horses bred from the royal stables.",
-      "links": "<a href='/AIV/19/3/13-15'>Esth. 3:13-15</a>",
-      "comment": "The speed and authority with which the decree is sent highlights the urgency and reliability of God’s word spreading throughout all lands (cf. Ps. 147:15)."
+      "text": "He wrote in the king’s name and sealed it with the king’s signet ring. Mordecai sent the letters by mounted couriers, who rode fast horses bred for the king’s service.",
+      "links": "<a href='/AIV/19/3/13'>Esth. 3:13</a>; <a href='/AIV/19/8/8'>Esth. 8:8</a>",
+      "comment": "The effective communication here mirrors the swift spreading of the Gospel message, aided by God’s providence."
     },
     {
       "pk": 19008011,
@@ -135,9 +140,9 @@
       "bookAbbreviation": "Esth",
       "chapter": 8,
       "verse": 11,
-      "text": "In these letters the king permitted the Jews in every city to gather and defend their lives, to destroy, kill, and annihilate armed forces of any people or province that might attack them, along with their children and women, and to plunder their goods.",
-      "links": "<a href='/AIV/19/3/13'>Esth. 3:13</a>",
-      "comment": "This is not a call to vengeance, but a divinely sanctioned self-defense. The emphasis on unity in the face of evil recalls the Church’s call to spiritual warfare (Eph. 6:12-18)."
+      "text": "The decree gave the Jews in every city the right to gather and defend themselves, to destroy, kill, and annihilate any armed force or people that would attack them, along with their wives and children, and to plunder their goods, on one day in all the provinces of King Xerxes.",
+      "links": "<a href='/AIV/19/3/13'>Esth. 3:13</a>; <a href='/AIV/07/7/7'>Judg. 7:7</a>",
+      "comment": "This decree reverses the earlier death sentence (Esth. 3:13). The right of self-defense points to divine justice defending God’s people."
     },
     {
       "pk": 19008012,
@@ -147,9 +152,13 @@
       "bookAbbreviation": "Esth",
       "chapter": 8,
       "verse": 12,
-      "text": "This would happen on a single day in all the provinces of King Xerxes—on the thirteenth day of the twelfth month (Adar).",
-      "links": "<a href='/AIV/19/3/13'>Esth. 3:13</a>",
-      "comment": "A set day for deliverance points to God’s providential timing in salvation history, culminating ultimately in Christ’s appointed hour (John 12:23, Gal. 4:4)."
+      "text": "on a single day throughout all the provinces of King Ahasuerus, on the thirteenth day of the twelfth month, which is the month of Adar. \n\nADDITION E\n\nThe Decree of Ahasuerus\n\nThe following is a copy of this letter: \n\"The Great King, Ahasuerus, to the governors of the provinces from India to Ethiopia, one hundred twenty-seven provinces, and to those who are loyal to our government, greetings. \n\nMany people, the more they are honored with the most generous kindness of their benefactors, the more proud they become, and not only seek to harm our subjects, but, in their inability to bear prosperity, they even try to scheme against their own benefactors. They not only fail to show gratitude, but, swept away by the boasting of those ignorant of goodness, they assume they will escape the justice of God, who always sees everything. Often, many set in authority have, by the persuasion of friends entrusted with public affairs, been in part responsible for the shedding of innocent blood and become involved in irreparable calamities, when those persons by false trickery of their evil natures deceive the sincere goodwill of their sovereigns.\n\nWhat has been wickedly accomplished through the corrupt behavior of those who unworthily exercise authority can be seen from considering recent matters, more than from the ancient records. In the future, we will take care to render our kingdom quiet and peaceful for all by changing our methods and always judging what comes before our eyes with greater fairness.\n\nFor Haman son of Hammedatha, a Macedonian (an alien far from Persian blood and devoid of our kindness), having become our guest, enjoyed so fully the goodwill we show to every nation that he was called our father and was continually honored by all as second to the royal throne. But, unable to restrain his pride, he plotted to take away our life and kingdom, and with cunning and deceit sought the destruction of Mordecai, our savior and perpetual benefactor, and Esther, the blameless partner of our kingdom, together with their entire nation. He thought that by these means he would catch us undefended and transfer the kingdom of the Persians to the Macedonians.\n\nBut we find that the Jews, who were doomed to annihilation by this most evil man, are not criminals, but are governed by just laws and are children of the living God, most high, most mighty, who has guided the kingdom for us and for our ancestors in the best order.\n\nTherefore, you will do well not to carry out the letters sent by Haman son of Hammedatha, since he who did these things has been hanged at the gate of Susa with all his household—for God, who rules over all things, quickly repaid him with the punishment he deserved.\n\nTherefore, publicly post a copy of this letter in every place and allow the Jews to live under their own laws. Give them support, so that on the thirteenth day of the twelfth month—Adar—that very day, they may defend themselves against those who attack them at the time of oppression. For God, who rules over all, has turned this day for his chosen people from destruction into joy.\n\nTherefore, keep this day joyfully among your commemorative festivals, so that both now and hereafter it may represent deliverance for you and the loyal Persians, but a reminder of destruction for those who plot against us. Every city and country, without exception, that does not act accordingly shall be destroyed in wrath with spear and fire, and be made not only impassable for humans, but also forever hateful to wild animals and birds.\n\nEND OF ADDITION E",
+      "links": [
+        "Esth 3:13",
+        "Esth 9:1",
+        "Ex 12:14"
+      ],
+      "comment": "The decree set the thirteenth day of Adar as the pivotal date for the Jews’ defense and survival, later celebrated as Purim (Esther 9:26), highlighting divine reversal and the importance of time in God’s deliverance."
     },
     {
       "pk": 19008013,
@@ -159,9 +168,9 @@
       "bookAbbreviation": "Esth",
       "chapter": 8,
       "verse": 13,
-      "text": "A copy of the written decree was issued as a law in every province and proclaimed to all peoples, that the Jews should be ready on that day to take vengeance on their enemies.",
-      "links": "<a href='/AIV/19/8/11'>Esth. 8:11</a>",
-      "comment": "The public proclamation of the decree mirrors the way the Gospel is to be proclaimed to all nations (Matt. 28:19), calling all people to be prepared for deliverance."
+      "text": "A copy of the edict was to be published in every province and made known to all peoples, so that the Jews would be ready for that day to take vengeance on their enemies.",
+      "links": "<a href='/AIV/19/3/14'>Esth. 3:14</a>; <a href='/AIV/19/9/16'>Esth. 9:16</a>",
+      "comment": "Notice the public proclamation—everybody is given warning, alluding to the open invitation to salvation. The justice here serves as a type for final judgment."
     },
     {
       "pk": 19008014,
@@ -171,9 +180,9 @@
       "bookAbbreviation": "Esth",
       "chapter": 8,
       "verse": 14,
-      "text": "Riders mounted on royal horses quickly left, spurred on by the king’s command, and the decree was issued in Susa, the citadel.",
+      "text": "The couriers, riding the king’s swift horses, hurried out, spurred on by the royal command, and the decree was issued in the citadel of Susa.",
       "links": "<a href='/AIV/19/3/15'>Esth. 3:15</a>",
-      "comment": "The rapid transmission of the decree underscores the zeal and care with which God works to save His people. It is reminiscent of how the message of salvation spreads swiftly when empowered by God’s Spirit."
+      "comment": "The urgency parallels God’s timely interventions for His people (cf. Ps. 46:1)."
     },
     {
       "pk": 19008015,
@@ -183,10 +192,9 @@
       "bookAbbreviation": "Esth",
       "chapter": 8,
       "verse": 15,
-      "text": "Mordecai went out from the presence of the king wearing royal robes of blue and white, a large crown of gold, and a purple garment of fine linen. And the city of Susa shouted and rejoiced.",
-      "links": "<a href='/AIV/19/3/10'>Esth. 3:10</a>; <a href='/AIV/19/6/8'>Esth. 6:8</a>",
-      "comment": "Mordecai’s exaltation and royal garments are reminiscent of priestly and kingly roles, reflecting a motif seen later fulfilled perfectly in Christ, the true King and High Priest (Heb. 4:14; Rev. 19:16).",
-      "sectionHeader": "Joy and Celebration among the Jews"
+      "text": "Mordecai went out from the king’s presence wearing royal garments of blue and white, a large crown of gold, and a robe of fine linen and purple. And the city of Susa rejoiced and was glad.",
+      "links": "<a href='/AIV/19/6/8'>Esth. 6:8</a>; <a href='/AIV/66/19/8'>Rev. 19:8</a>",
+      "comment": "Mordecai’s royal attire and honor prefigure the glorification of the saints (cf. Rev. 19:8), suggesting a spiritual elevation through faithful service."
     },
     {
       "pk": 19008016,
@@ -196,9 +204,9 @@
       "bookAbbreviation": "Esth",
       "chapter": 8,
       "verse": 16,
-      "text": "The Jews had light and gladness and joy and honor.",
-      "links": "<a href='/AIV/19/4/3'>Esth. 4:3</a>; <a href='/AIV/19/9/17-19'>Esth. 9:17-19</a>",
-      "comment": "Light and joy in Scripture symbolize salvation and deliverance (Ps. 27:1; Isa. 60:1), anticipating the true Light to come in Christ (John 8:12)."
+      "text": "For the Jews there was light and gladness, joy and honor.",
+      "links": "<a href='/AIV/19/4/1'>Esth. 4:1</a>; <a href='/AIV/43/8/12'>John 8:12</a>",
+      "comment": "The themes of light and joy anticipate the coming of Christ as the Light of the world (John 8:12). The honor given foreshadows the restoration and dignity God grants His chosen people."
     },
     {
       "pk": 19008017,
@@ -208,32 +216,10 @@
       "bookAbbreviation": "Esth",
       "chapter": 8,
       "verse": 17,
-      "text": "In every province and every city, wherever the king’s command and his decree reached, there was joy and gladness among the Jews, with feasting and celebration. And many of the peoples of the land declared themselves Jews, for fear of the Jews had fallen upon them.",
-      "links": "<a href='/AIV/19/9/2'>Esth. 9:2</a>; <a href='/AIV/2/12/38'>Exod. 12:38</a>",
-      "comment": "The spread of joy and conversion hints at the prophetic promise that many nations will join God’s people (Isa. 56:6-8). The outward celebration and public witness recalls the visible, communal aspect of worship central throughout Scripture."
+      "text": "In every province and city to which the king’s command and his decree reached, the Jews celebrated with gladness, feasting, and a holiday. And many among the peoples of the land declared themselves Jews, for fear of the Jews had fallen upon them.",
+      "links": "<a href='/AIV/19/9/22'>Esth. 9:22</a>; <a href='/AIV/02/12/48-49'>Exod. 12:48-49</a>; <a href='/AIV/45/11/11'>Rom. 11:11</a>",
+      "comment": "The joyful celebration, public feasting, and conversion of many reflect the wider call to join God’s people, anticipate a future, visible unity and liturgical celebration (cf. Acts 2:46; Rom. 11:11—Gentiles joining the faith), and subtly echo the importance of sacramental signs and public worship."
     }
   ],
-  "translatedAt": "2025-12-24T05:11:04.845Z",
-  "sections": [
-    {
-      "title": "Esther and Mordecai Honored",
-      "startVerse": 1,
-      "endVerse": 2
-    },
-    {
-      "title": "Esther Pleads for Her People",
-      "startVerse": 3,
-      "endVerse": 8
-    },
-    {
-      "title": "The King's Decree in Favor of the Jews",
-      "startVerse": 9,
-      "endVerse": 14
-    },
-    {
-      "title": "Joy and Celebration among the Jews",
-      "startVerse": 15,
-      "endVerse": 17
-    }
-  ]
+  "translatedAt": "2025-12-28T06:57:02.308Z"
 }

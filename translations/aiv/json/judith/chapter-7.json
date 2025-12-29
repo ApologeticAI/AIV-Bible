@@ -73,9 +73,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 7,
       "verse": 6,
-      "text": "On the second day, Holofernes called together all his officials and said to them, 'Tell me, how we can best subdue these Israelites who keep resisting us without direct combat.'",
-      "links": "<a href='/AIV/18/5/1'>Jdt 5:1</a>",
-      "comment": "Here, the enemy's craftiness echoes Satan’s temptation of Christ (Matthew 4:1-11), preparing for spiritual conquest, not merely physical battle.",
+      "text": "On the second day, Holofernes led out all his cavalry in full view of the Israelites at Bethulia. He inspected the approaches to their city and looked for all the springs supplying water at the base of the hill.",
+      "links": [
+        "2 Kgs 18:17",
+        "Judg 7:24",
+        "Isa 36:2"
+      ],
+      "comment": "Holofernes’ inspection and show of force exploits psychological warfare, and his focus on the water supply reveals ancient siege tactics, recognizing that a city’s survival depended on access to water (cf. 2 Kings 18:31).",
       "sectionHeader": "The Counsel of Achior"
     },
     {
@@ -86,9 +90,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 7,
       "verse": 7,
-      "text": "Achior and the leaders of Ammon replied, 'My lord, if you encircle the spring which flows out at the foot of the mountain, not one of them will hold out. Thirst will destroy them, and they will surrender their city.'",
-      "links": "<a href='/AIV/18/6/7'>Jdt 6:7</a>; <a href='/AIV/02/17/3'>Ex. 17:3</a>",
-      "comment": "Water as a source of life in the biblical narrative often foreshadows spiritual sustenance (John 4:14). Cutting off water parallels spiritual desolation and temptation."
+      "text": "He seized the springs of water and stationed troops there, placing a guard over them. Then, returning to his officers, he gathered together the leaders of the Edomites, the Moabites, and the commanders of the coastland.",
+      "links": [
+        "2 Chr 32:3-4",
+        "Judg 3:12-14",
+        "Num 20:17-18"
+      ],
+      "comment": "By seizing the springs, Holofernes begins strangling Bethulia strategically, while involving local chieftains (Edomites, Moabites, coastlanders) reflects the broad coalition against Israel, reminiscent of Psalm 83:6-8."
     },
     {
       "pk": 18007008,
@@ -98,9 +106,12 @@
       "bookAbbreviation": "Jdt",
       "chapter": 7,
       "verse": 8,
-      "text": "So Holofernes and his army of one hundred and seventy thousand infantry and twelve thousand cavalry deployed around the spring, occupying every entrance and exit to the city.",
-      "links": "<a href='/AIV/18/2/5'>Jdt 2:5</a>",
-      "comment": "The immense numbers stress the impossibility of human rescue—coinciding with God working through apparent hopelessness (see 2 Chronicles 20:15)."
+      "text": "Then all the chieftains of the Edomites and all the leaders of the Moabites and the commanders of the coastland came to him and said,",
+      "links": [
+        "Num 22:4",
+        "Ps 83:6-8"
+      ],
+      "comment": "The gathering of regional leaders demonstrates the political and military alliances arrayed against Israel and sets the stage for their counsel to Holofernes."
     },
     {
       "pk": 18007009,
@@ -110,9 +121,12 @@
       "bookAbbreviation": "Jdt",
       "chapter": 7,
       "verse": 9,
-      "text": "For thirty-four days, the entire army, along with all their chariots and supplies, remained around Bethulia. They allowed no one to come or go.",
-      "links": "<a href='/AIV/18/7/20'>Jdt 7:20</a>; <a href='/AIV/20/21/9'>Prov. 21:9</a>",
-      "comment": "Sustained siege echoes struggles of the saints persevering through trials, recalling James 1:3's blessing of endurance."
+      "text": "\"Listen to what we have to say, my lord, and your army will suffer no losses.",
+      "links": [
+        "Deut 20:10",
+        "Prov 15:22"
+      ],
+      "comment": "Their promise of a strategy that guarantees no losses appeals to Holofernes’ ambitions and underscores the reliance on attrition rather than direct conflict."
     },
     {
       "pk": 18007010,
@@ -122,9 +136,12 @@
       "bookAbbreviation": "Jdt",
       "chapter": 7,
       "verse": 10,
-      "text": "The stores of water ran out in the city. The wells no longer gave enough for the people to drink. Their jars emptied, and their daily ration was strictly limited.",
-      "links": "<a href='/AIV/18/8/21'>Jdt 8:21</a>; <a href='/AIV/02/17/1'>Ex. 17:1</a>",
-      "comment": "Physical deprivation in the text also functions as spiritual allegory. Many church fathers read this scene as symbolic of the need for God’s grace during droughts of faith (cf. Amos 8:11).",
+      "text": "This people, the Israelites, do not rely on their spears but on the height of the mountains where they live, for it is not easy to reach the tops of their mountains.",
+      "links": [
+        "Ps 125:2",
+        "Ps 121:1-2"
+      ],
+      "comment": "The advisers observe that Israel’s strength lies in their mountain stronghold, not in military might—echoing the frequent biblical theme of God’s people relying on positions of perceived weakness (cf. 2 Chronicles 32:7-8).",
       "sectionHeader": "The Suffering of Bethulia"
     },
     {
@@ -135,9 +152,12 @@
       "bookAbbreviation": "Jdt",
       "chapter": 7,
       "verse": 11,
-      "text": "Little children fainted. Women and young men collapsed in the streets from thirst, and the city’s gates were locked to prevent escape.",
-      "links": "<a href='/AIV/25/2/11-12'>Lam. 2:11-12</a>",
-      "comment": "Physical suffering draws a parallel to Lamentations, highlighting that faith communities are not immune to hardship."
+      "text": "Therefore, my lord, do not fight against them in regular formation, and not a man of your army will fall.",
+      "links": [
+        "Josh 6:2-3",
+        "2 Chr 20:15-17"
+      ],
+      "comment": "A recommendation for a siege rather than direct battle illustrates ancient wisdom regarding warfare and foreshadows God’s people being tested by endurance rather than force."
     },
     {
       "pk": 18007012,
@@ -147,9 +167,12 @@
       "bookAbbreviation": "Jdt",
       "chapter": 7,
       "verse": 12,
-      "text": "All the people—young, old, children—gathered around Uzziah and the city leaders, crying out with great lament:",
-      "links": "<a href='/AIV/18/6/14'>Jdt 6:14</a>",
-      "comment": "Assembling before the elders illustrates the proper role of spiritual authority and communal leadership, reminiscent of Acts 15:6.",
+      "text": "Remain in your camp, and keep all the men in your forces with you; let your servants take possession of the spring of water that flows from the foot of the mountain,",
+      "links": [
+        "Judg 9:45",
+        "2 Sam 17:2"
+      ],
+      "comment": "The suggestion to control the spring reinforces the centrality of water and sustenance in ancient warfare, with deprivation as the chosen tactic (cf. Deuteronomy 28:53-57's siege warnings).",
       "sectionHeader": "The People's Lament and Uzziah’s Promise"
     },
     {
@@ -160,9 +183,12 @@
       "bookAbbreviation": "Jdt",
       "chapter": 7,
       "verse": 13,
-      "text": "'May God be judge between us and you! You have done evil by not surrendering the city to the Assyrians. Now we will all die of thirst and starvation.'",
-      "links": "<a href='/AIV/01/31/53'>Gen. 31:53</a>",
-      "comment": "The desperate appeal to divine judgment reflects deep agony, echoing Israel's frequent cry for deliverance (Psalm 43:1)."
+      "text": "for this is where all the people of Bethulia get their water. So thirst will destroy them, and they will surrender their town. Meanwhile, we and our people will go up to the tops of the nearby mountains and camp there to keep watch to see that no one gets out of the town.",
+      "links": [
+        "2 Kgs 6:24-25",
+        "Lam 4:4"
+      ],
+      "comment": "The plan to induce surrender through thirst recalls the grim reality of siege warfare and highlights the vulnerability of a city cut off from its lifelines."
     },
     {
       "pk": 18007014,
@@ -172,9 +198,12 @@
       "bookAbbreviation": "Jdt",
       "chapter": 7,
       "verse": 14,
-      "text": "'Call the Assyrians now! Surrender us to Holofernes’s army before we watch our little ones fall dead before our eyes.'",
-      "links": "<a href='/AIV/18/6/11'>Jdt 6:11</a>; <a href='/AIV/02/14/11-12'>Ex. 14:11-12</a>",
-      "comment": "Such complaints mirror those during the Exodus, when Israel cried for deliverance but doubted God's promise. Spiritual courage is tested most at breaking point."
+      "text": "They and their wives and children will waste away with famine, and before the sword reaches them they will be strewn about in the streets where they live.",
+      "links": [
+        "Lev 26:39",
+        "Lam 2:11-12"
+      ],
+      "comment": "The predicted suffering of women and children emphasizes the communal cost of war and is evocative of the lamentations attached to Jerusalem’s sieges (cf. Lamentations 2:11-12)."
     },
     {
       "pk": 18007015,
@@ -184,9 +213,12 @@
       "bookAbbreviation": "Jdt",
       "chapter": 7,
       "verse": 15,
-      "text": "'It would be better for us to become captives and live than to watch these misfortunes befall our families and see death take over the city.'",
-      "links": "<a href='/AIV/18/7/14'>Jdt 7:14</a>; <a href='/AIV/02/16/3'>Ex. 16:3</a>",
-      "comment": "The people's crisis of faith recalls similar complaints in Exodus; human perspective contrasts with God’s providence, which often works through apparent defeat."
+      "text": "Thus you will pay them back with evil, because they rebelled and did not receive you peaceably.”",
+      "links": [
+        "Deut 32:35",
+        "Obad 1:10"
+      ],
+      "comment": "The rationale for vengeance is presented as just retribution for Israel’s resistance, echoing the pervasive theme of divine and human reckoning in the Old Testament (cf. Deuteronomy 32:35)."
     },
     {
       "pk": 18007016,
@@ -196,9 +228,12 @@
       "bookAbbreviation": "Jdt",
       "chapter": 7,
       "verse": 16,
-      "text": "They spoke bitterly and with strong emotion to the city’s officials. Their voices rose to the heavens in lamentation.",
-      "links": "<a href='/AIV/19/55/17'>Ps. 55:17</a>",
-      "comment": "Prayer and lament before God are fundamental in the Bible. Here, the people's grievances are part of the mystery of suffering as spiritual formation (Romans 8:18-28)."
+      "text": "These words pleased Holofernes and all his attendants, and he gave orders to do as they had said.",
+      "links": [
+        "Prov 21:30",
+        "Esth 3:9-10"
+      ],
+      "comment": "Holofernes readily accepts the counsel, underscoring his calculative cruelty and the pragmatic acceptance of ruthless strategies in ancient military leadership."
     },
     {
       "pk": 18007017,
@@ -208,9 +243,12 @@
       "bookAbbreviation": "Jdt",
       "chapter": 7,
       "verse": 17,
-      "text": "Uzziah and Chabris and Charmis, the city’s elders, tried to calm the people, saying, 'Be patient, brothers! Give us five more days to wait for the Lord’s mercy.'",
-      "links": "<a href='/AIV/18/8/9'>Jdt 8:9</a>; <a href='/AIV/19/130/5'>Ps. 130:5</a>",
-      "comment": "The elders urge patience and faith, reflecting the biblical theme of waiting for divine action and spiritual leadership through adversity."
+      "text": "So the army of the Ammonites moved forward, together with five thousand Assyrians, and they encamped in the valley and seized the water supply and the springs of the Israelites.",
+      "links": [
+        "Judg 7:24",
+        "2 Chr 32:4"
+      ],
+      "comment": "The mobilization of Ammonites and Assyrians demonstrates the unity of Israel’s foes and the tactical sealing off of the city’s water supply marks the intensification of the siege."
     },
     {
       "pk": 18007018,
@@ -220,9 +258,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 7,
       "verse": 18,
-      "text": "'If God does not help us in these days, we will surrender to Holofernes and face our fate. But do not force us to act rashly before God’s time.'",
-      "links": "<a href='/AIV/18/7/17'>Jdt 7:17</a>; <a href='/AIV/19/27/14'>Ps. 27:14</a>",
-      "comment": "Trust in God’s timing is a key biblical lesson. The leaders advocate for discernment, reminiscent of Christ in Gethsemane, awaiting the Father’s will (Luke 22:42)."
+      "text": "And the Edomites and Ammonites went up and encamped in the hill country opposite Dothan; and they sent some of their men toward the south and the east, toward Egrebeh, which is near Chusi beside the Wadi Mochmur. The rest of the Assyrian army encamped in the plain, and covered the whole face of the land. Their tents and supply trains spread out in great number, and they formed a vast multitude.",
+      "links": [
+        "Gen 37:17",
+        "Judg 4:13",
+        "Josh 10:5"
+      ],
+      "comment": "The extensive deployment of enemy troops around Bethulia creates an image of total encirclement and overwhelming odds, emphasizing the isolation and apparent hopelessness of the Israelites (cf. Psalm 3:6)."
     },
     {
       "pk": 18007019,
@@ -232,9 +274,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 7,
       "verse": 19,
-      "text": "They persuaded the people to stay in their positions on the walls through the night. Everyone returned to their homes, and the elders prayed earnestly to the God of Israel.",
-      "links": "<a href='/AIV/16/4/9'>Neh. 4:9</a>; <a href='/AIV/19/34/4'>Ps. 34:4</a>",
-      "comment": "The power of prayer in times of crisis is a recurring theme throughout Scripture, pointing to Christ’s example of persistent prayer (Luke 18:1)."
+      "text": "The Israelites then cried out to the Lord their God, for their courage failed, because all their enemies had surrounded them, and there was no way of escape from them.",
+      "links": [
+        "Ex 14:10",
+        "Judg 6:6",
+        "1 Sam 7:8"
+      ],
+      "comment": "The Israelites’ despair and collective prayer reflect a recurring pattern in Scripture when Israel faces overwhelming crisis (cf. Judges 10:10-16), highlighting prayer as a last refuge."
     },
     {
       "pk": 18007020,
@@ -244,9 +290,12 @@
       "bookAbbreviation": "Jdt",
       "chapter": 7,
       "verse": 20,
-      "text": "But their thirst became more severe, and the city’s defenders lost all strength as water shortages increased.",
-      "links": "<a href='/AIV/18/7/10'>Jdt 7:10</a>; <a href='/AIV/25/4/4'>Lam. 4:4</a>",
-      "comment": "Suffering intensifies before deliverance. Just as Christ endured agony before resurrection, so spiritual life often deepens under adversity."
+      "text": "The whole Assyrian army, their infantry, chariots, and cavalry, surrounded them for thirty-four days, until all the water containers of every inhabitant of Bethulia were empty;",
+      "links": [
+        "2 Kgs 6:25",
+        "Lam 4:9"
+      ],
+      "comment": "Thirty-four days of siege exhausts the city’s resources and symbolizes prolonged divine testing, reminiscent of other periods of trial (e.g., Numbers 14:33’s years of wandering)."
     },
     {
       "pk": 18007021,
@@ -256,9 +305,12 @@
       "bookAbbreviation": "Jdt",
       "chapter": 7,
       "verse": 21,
-      "text": "The children lost their courage. Women and young men collapsed from thirst and fell in the streets of the city.",
-      "links": "<a href='/AIV/25/2/11-12'>Lam. 2:11-12</a>",
-      "comment": "This verse reiterates the suffering seen earlier. The innocent endure hardship, pointing toward greater spiritual lessons about redemptive suffering."
+      "text": "their cisterns were going dry, and on no day did they have enough water to drink, for their drinking water was rationed.",
+      "links": [
+        "Lam 2:11-12",
+        "Jon 4:8"
+      ],
+      "comment": "The rationing and drying up of cisterns illustrate the life-threatening reality of siege, reinforcing the severity of Bethulia’s plight."
     },
     {
       "pk": 18007022,
@@ -268,9 +320,12 @@
       "bookAbbreviation": "Jdt",
       "chapter": 7,
       "verse": 22,
-      "text": "All the people, young and old, gathered together and cried out to God with loud voices, begging for mercy.",
-      "links": "<a href='/AIV/19/34/6'>Ps. 34:6</a>; <a href='/AIV/19/22/1'>Ps. 22:1</a>",
-      "comment": "Communal prayer is a powerful biblical tool, foreshadowing the unity seen among the believers in Acts 2:42."
+      "text": "Their children were listless, and the women and young men fainted from thirst and were collapsing in the streets of the town and in the gateways; they no longer had any strength.",
+      "links": [
+        "Lam 2:19",
+        "Joel 1:20"
+      ],
+      "comment": "The visible suffering of the vulnerable—children, women, and young men—heightens the narrative’s pathos, emphasizing the devastating impact of siege conditions (cf. Lamentations 2:19)."
     },
     {
       "pk": 18007023,
@@ -280,9 +335,12 @@
       "bookAbbreviation": "Jdt",
       "chapter": 7,
       "verse": 23,
-      "text": "Uzziah spoke to them, 'Be strong, my brothers. Hold fast for five more days. By then, the Lord will send us deliverance.'",
-      "links": "<a href='/AIV/19/27/14'>Ps. 27:14</a>; <a href='/AIV/07/7/7'>Judg. 7:7</a>",
-      "comment": "His exhortation to endurance reflects the biblical virtue of steadfast hope (Romans 15:4)."
+      "text": "Then all the people, the young men, the women, and the children, gathered around Uzziah and the rulers of the town and cried out with a loud voice, and said before all the elders,",
+      "links": [
+        "Ex 16:2-3",
+        "Num 14:2"
+      ],
+      "comment": "The people’s appeal to their leaders shows the social strain and desperation a siege brings, and the burden leaders bear in crisis (cf. Exodus 17:2-4)."
     },
     {
       "pk": 18007024,
@@ -292,9 +350,12 @@
       "bookAbbreviation": "Jdt",
       "chapter": 7,
       "verse": 24,
-      "text": "'But if these days pass without help, I will do as you have said.'",
-      "links": "<a href='/AIV/18/7/18'>Jdt 7:18</a>",
-      "comment": "Uzziah’s compromise illustrates the struggle between faith and fear, yet trust in God’s providence is viewed as a virtue throughout Scripture."
+      "text": "\"Let God judge between you and us! You have done us a great injury in not making peace with the Assyrians.",
+      "links": [
+        "Gen 31:53",
+        "Judg 11:27"
+      ],
+      "comment": "Blaming their leaders for refusing terms with the enemy reveals growing internal dissent and a loss of faith, foreshadowing the people’s recurring struggles with leadership and judgment (cf. Numbers 14:2-4)."
     },
     {
       "pk": 18007025,
@@ -304,9 +365,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 7,
       "verse": 25,
-      "text": "He dismissed the crowds, and each returned to their station on the wall and to their homes, still suffering greatly from thirst.",
-      "links": "<a href='/AIV/18/7/19'>Jdt 7:19</a>",
-      "comment": "Their perseverance, even in affliction, echoes themes of Christian endurance found throughout the New Testament (2 Corinthians 1:6)."
+      "text": "For now we have no one to help us; God has sold us into their hands, to be strewn before them in thirst and exhaustion.",
+      "links": [
+        "Deut 32:30",
+        "Josh 7:7",
+        "Judg 4:9"
+      ],
+      "comment": "The sense of divine abandonment reflects Israel’s theology of covenant, where national calamity is perceived as the result of God’s judgment for collective sin (cf. Judges 2:14-15)."
     },
     {
       "pk": 18007026,
@@ -316,9 +381,12 @@
       "bookAbbreviation": "Jdt",
       "chapter": 7,
       "verse": 26,
-      "text": "The women and children collapsed in the streets and at the gates, and there was no longer any strength in them.",
-      "links": "<a href='/AIV/25/2/12'>Lam. 2:12</a>",
-      "comment": "The weakness of the people foreshadows their utter dependence on divine intervention, a recurring spiritual principle (Isaiah 40:29)."
+      "text": "Now summon them and surrender the whole town as booty to the army of Holofernes and to all his forces.",
+      "links": [
+        "Jer 38:17",
+        "Hos 9:17"
+      ],
+      "comment": "The call to surrender—out of fear of death and suffering—highlights the extremity of the situation and the challenge of persevering in faith under duress."
     },
     {
       "pk": 18007027,
@@ -328,9 +396,12 @@
       "bookAbbreviation": "Jdt",
       "chapter": 7,
       "verse": 27,
-      "text": "The whole city groaned in anguish.",
-      "links": "<a href='/AIV/19/102/18-20'>Ps. 102:18-20</a>",
-      "comment": "This collective suffering is a form of redemptive lament, a motif which later invites divine mercy (see Psalm 102)."
+      "text": "For it would be better for us to be captured by them. We shall indeed become slaves, but our lives will be spared, and we shall not witness our little ones dying before our eyes, and our wives and children drawing their last breath.",
+      "links": [
+        "Ex 14:12",
+        "Lam 4:10"
+      ],
+      "comment": "Their willingness to accept enslavement for survival contrasts the dilemma between physical life and liberty, echoing similar crises in Israel’s history (cf. Jeremiah 38:2)."
     },
     {
       "pk": 18007028,
@@ -340,9 +411,12 @@
       "bookAbbreviation": "Jdt",
       "chapter": 7,
       "verse": 28,
-      "text": "Then, all the people, men, women, and children, raised their voices with a loud cry to God.",
-      "links": "<a href='/AIV/19/120/1'>Ps. 120:1</a>; <a href='/AIV/19/34/6'>Ps. 34:6</a>",
-      "comment": "Crying out collectively to God recalls the communal prayers in times of national distress, uniting the faithful in petition (Joel 2:12-17).",
+      "text": "We call to witness against you heaven and earth and our God, the Lord of our ancestors, who punishes us for our sins and the sins of our ancestors; do today the things that we have described!”",
+      "links": [
+        "Deut 30:19",
+        "Isa 1:2"
+      ],
+      "comment": "The people invoke God as witness to their suffering and judge of their leaders, blending lamentation with confession of sin and the theological link between suffering and transgression (cf. Deuteronomy 30:1-3; Daniel 9:5-6).",
       "sectionHeader": "Prayer in Distress"
     },
     {
@@ -353,9 +427,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 7,
       "verse": 29,
-      "text": "They pleaded before the Lord Almighty with hands raised, longing for mercy.",
-      "links": "<a href='/AIV/19/28/2'>Ps. 28:2</a>; <a href='/AIV/54/2/8'>1 Tim. 2:8</a>",
-      "comment": "Uplifted hands in prayer symbolize both worship and supplication. See the tradition of prayer posture in Psalm 28:2, connecting Old and New Testament practice."
+      "text": "Then great and general lamentation arose throughout the assembly, and they cried out to the Lord God with a loud voice.",
+      "links": [
+        "Judg 2:4",
+        "1 Sam 7:6",
+        "Joel 1:14"
+      ],
+      "comment": "The unified, loud lament before God demonstrates the communal nature of prayer and repentance in crisis, intending to prompt divine compassion (cf. Joel 2:17)."
     },
     {
       "pk": 18007030,
@@ -365,9 +443,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 7,
       "verse": 30,
-      "text": "Uzziah led the people in prayer, urging them to trust in God’s deliverance.",
-      "links": "<a href='/AIV/19/34/17'>Ps. 34:17</a>; <a href='/AIV/12/19/20'>2 Kings 19:20</a>",
-      "comment": "Leadership in prayer is key in biblical faith; spiritual authority guides the people toward hope and reliance upon the Lord’s salvation."
+      "text": "But Uzziah said to them, “Courage, my brothers and sisters! Let us hold out for five days more; by that time the Lord our God will turn his mercy to us again, for he will not forsake us utterly.",
+      "links": [
+        "Deut 31:6",
+        "Lam 3:31-32",
+        "Ps 27:14"
+      ],
+      "comment": "Uzziah’s exhortation to hold out and trust in God’s mercy demonstrates leadership under duress and reveals faith in ultimate divine deliverance (cf. Psalm 27:14)."
     },
     {
       "pk": 18007031,
@@ -377,9 +459,12 @@
       "bookAbbreviation": "Jdt",
       "chapter": 7,
       "verse": 31,
-      "text": "Even as all prayed continuously, the siege wore on and water supplies grew worse.",
-      "links": "<a href='/AIV/19/88/18'>Ps. 88:18</a>",
-      "comment": "Persistence in prayer despite worsening circumstances recalls Christ’s teaching on fervent, persistent prayer (Luke 18:1-8)."
+      "text": "But if these days pass by, and no help comes for us, I will do as you say.”",
+      "links": [
+        "Ex 16:28",
+        "Judg 6:13"
+      ],
+      "comment": "Uzziah’s conditional promise offers a compromise, reflecting the tension between faith and pragmatism when divine intervention is not yet manifest."
     },
     {
       "pk": 18007032,
@@ -389,12 +474,15 @@
       "bookAbbreviation": "Jdt",
       "chapter": 7,
       "verse": 32,
-      "text": "Their infants fainted, the women and young men wasted away from thirst, and the people lost all hope.",
-      "links": "<a href='/AIV/25/2/12'>Lam. 2:12</a>; <a href='/AIV/19/37/39'>Ps. 37:39</a>",
-      "comment": "Hopelessness seduces God’s people right before divine intervention. In the fullness of time, God will raise up an unexpected deliverer, foreshadowing Christ’s coming at a time of greatest need."
+      "text": "Then he dismissed the people to their various posts, and they went up on the walls and towers of their town. The women and children he sent home. In the town they were in great misery.",
+      "links": [
+        "Neh 4:13",
+        "1 Sam 30:6"
+      ],
+      "comment": "The return of the people to their desperate posts while suffering persists captures the suspense and imminent need for God’s deliverance, setting the stage for the unfolding of salvation (cf. Exodus 14:13)."
     }
   ],
-  "translatedAt": "2025-12-24T05:03:10.351Z",
+  "translatedAt": "2025-12-28T06:58:02.877Z",
   "sections": [
     {
       "title": "The Siege of Bethulia",

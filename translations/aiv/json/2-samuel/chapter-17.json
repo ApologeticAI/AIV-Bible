@@ -3,6 +3,18 @@
   "bookName": "2 Samuel",
   "bookAbbreviation": "2Sam",
   "chapter": 17,
+  "sections": [
+    {
+      "title": "Ahithophel's Counsel",
+      "startVerse": 1,
+      "endVerse": 26
+    },
+    {
+      "title": "David Provided for in Exile",
+      "startVerse": 27,
+      "endVerse": 29
+    }
+  ],
   "verses": [
     {
       "pk": 10017001,
@@ -13,9 +25,9 @@
       "chapter": 17,
       "verse": 1,
       "text": "Ahithophel said to Absalom, 'Let me choose twelve thousand men, and tonight I will pursue David.'",
-      "links": "<a href='/AIV/10/15/31'>2Sam. 15:31</a>; <a href='/AIV/10/16/23'>2Sam. 16:23</a>",
-      "comment": "Ahithophel’s advice is immediate and strategic, showing his prowess as a counselor. This sets up the tension between human wisdom and divine providence, a recurring theme also suggested in Proverbs 16:9.",
-      "sectionHeader": "Ahithophel’s Counsel to Absalom"
+      "links": "<a href='/AIV/10/15/31'>2Sam 15:31</a>; <a href='/AIV/10/16/20'>2Sam 16:20</a>",
+      "comment": "Ahithophel’s initiative and the specific number chosen reflect a strategic urgency against David. Twelve thousand may have symbolic resonance as a complete military force.",
+      "sectionHeader": "Ahithophel's Counsel"
     },
     {
       "pk": 10017002,
@@ -25,9 +37,9 @@
       "bookAbbreviation": "2Sam",
       "chapter": 17,
       "verse": 2,
-      "text": "'I will attack him while he is weary and discouraged, and I will throw him into a panic. All the people with him will flee, and I will strike down only the king.'",
-      "links": "<a href='/AIV/10/15/30'>2Sam. 15:30</a>",
-      "comment": "Ahithophel aims for a decisive and targeted strike. The notion of sparing the people and focusing on the leader subtly mirrors later teachings on obedience and authority (cf. <a href='/AIV/45/13/1-2'>Rom. 13:1-2</a>)."
+      "text": "I will come upon him while he is weary and weak, and I will terrify him. So all the people with him will flee, and I will strike down the king alone.",
+      "links": "<a href='/AIV/10/15/14'>2Sam 15:14</a>; <a href='/AIV/19/3/1-7'>Ps. 3:1-7</a>",
+      "comment": "Ahithophel plots a swift and targeted attack, intending to isolate David. The king’s vulnerability prefigures Christ’s moments of rejection and apparent weakness (see <a href='/AIV/23/53/3'>Isaiah 53:3</a>)."
     },
     {
       "pk": 10017003,
@@ -37,9 +49,9 @@
       "bookAbbreviation": "2Sam",
       "chapter": 17,
       "verse": 3,
-      "text": "'Then I will bring back all the people to you, as the return of all depends on the man whom you seek. All the people will be at peace.'",
-      "links": "<a href='/AIV/10/19/9'>2Sam. 19:9</a>; <a href='/AIV/10/15/12'>2Sam. 15:12</a>",
-      "comment": "Ahithophel’s plan seeks to restore unity through singular action. The notion of unity echoes concepts of a restored people gathered around a leader, reminiscent of spiritual unity under a faithful shepherd (cf. <a href='/AIV/26/34/23'>Ezek. 34:23</a>)."
+      "text": "Then I will bring all the people back to you, as a bride returns to her husband. If the man you seek is eliminated, all the people will be at peace.",
+      "links": "<a href='/AIV/23/54/5'>Isaiah 54:5</a>; <a href='/AIV/19/45/14'>Ps. 45:14</a>",
+      "comment": "Ahithophel frames the restoration as the return of a bride, subtly alluding to covenant imagery throughout Scripture. Peace is tied to the removal of one man—hinting at later substitutionary themes."
     },
     {
       "pk": 10017004,
@@ -49,9 +61,9 @@
       "bookAbbreviation": "2Sam",
       "chapter": 17,
       "verse": 4,
-      "text": "Absalom and all the elders of Israel agreed; Ahithophel’s advice seemed right to them all.",
-      "links": "<a href='/AIV/10/16/15'>2Sam. 16:15</a>",
-      "comment": "Consensus among the elders highlights how group decisions are sometimes swayed by cunning advice rather than seeking the Lord's will (cf. <a href='/AIV/20/3/5-6'>Prov. 3:5-6</a>)."
+      "text": "Absalom and all the elders of Israel favored Ahithophel’s plan.",
+      "links": "<a href='/AIV/10/16/23'>2Sam 16:23</a>; <a href='/AIV/10/15/12'>2Sam 15:12</a>",
+      "comment": "Consensus among leaders highlights how easily the majority can go astray in crisis, a recurring theme in salvation history."
     },
     {
       "pk": 10017005,
@@ -61,10 +73,9 @@
       "bookAbbreviation": "2Sam",
       "chapter": 17,
       "verse": 5,
-      "text": "But Absalom said, 'Call Hushai the Archite, and let us hear what he has to say also.'",
-      "links": "<a href='/AIV/10/15/32-34'>2Sam. 15:32-34</a>",
-      "comment": "Absalom doubles back for more counsel, allowing God’s hidden plan to unfold—a reminder that earthly wisdom alone is not sufficient (see <a href='/AIV/1/41/38'>Gen. 41:38</a>).",
-      "sectionHeader": "Hushai Opposes Ahithophel’s Advice"
+      "text": "But Absalom said, 'Call Hushai the Archite, and let us hear what he has to say as well.'",
+      "links": "<a href='/AIV/10/15/32-37'>2Sam 15:32-37</a>",
+      "comment": "Absalom’s desire for a second opinion sets the stage for God’s providential intervention, reminding us that human authority is limited before divine wisdom."
     },
     {
       "pk": 10017006,
@@ -74,9 +85,9 @@
       "bookAbbreviation": "2Sam",
       "chapter": 17,
       "verse": 6,
-      "text": "When Hushai came to Absalom, Absalom said to him, 'Ahithophel has said this. Should we follow his advice? If not, speak.'",
-      "links": "<a href='/AIV/10/16/16-19'>2Sam. 16:16-19</a>",
-      "comment": "Hushai is given a chance to offer alternative counsel. The narrative hints at the providence of God working through faithful servants, as seen with Joseph and Daniel (cf. <a href='/AIV/27/2/14'>Dan. 2:14</a>)."
+      "text": "When Hushai arrived, Absalom told him, 'Ahithophel has given this advice. Should we act on it? If not, speak.'",
+      "links": "<a href='/AIV/10/16/15-23'>2Sam 16:15-23</a>",
+      "comment": "Absalom’s openness to counsel echoes later biblical encouragement to seek wise advice but also the peril of unwise leadership."
     },
     {
       "pk": 10017007,
@@ -87,8 +98,8 @@
       "chapter": 17,
       "verse": 7,
       "text": "Hushai replied to Absalom, 'This time, Ahithophel’s advice is not good.'",
-      "links": "",
-      "comment": "Hushai contests the wise counselor, exemplifying prudence and discernment, virtues praised in wisdom literature (cf. <a href='/AIV/20/1/5'>Prov. 1:5</a>)."
+      "links": "<a href='/AIV/10/15/34'>2Sam 15:34</a>",
+      "comment": "Hushai’s direct contradiction fulfills David’s prayer against Ahithophel’s counsel (<a href='/AIV/10/15/31'>2Sam 15:31</a>), showing God’s intervention through human agents."
     },
     {
       "pk": 10017008,
@@ -98,9 +109,9 @@
       "bookAbbreviation": "2Sam",
       "chapter": 17,
       "verse": 8,
-      "text": "'You know your father and his men; they are mighty warriors, and now they are enraged, like a mother bear robbed of her cubs in the field. Your father is experienced in war and will not spend the night with the troops.'",
-      "links": "<a href='/AIV/10/16/14'>2Sam. 16:14</a>; <a href='/AIV/18/16/11'>Job 16:11</a>",
-      "comment": "Vivid imagery underscores David’s military prowess. The protection described here ties into God’s care for His chosen leaders (cf. <a href='/AIV/19/18/2'>Ps. 18:2</a>)."
+      "text": "He continued, 'You know your father and his men—they are mighty warriors, fierce like a wild bear robbed of her cubs in the field. Also, your father is skilled in warfare and won't stay with the people.'",
+      "links": "<a href='/AIV/10/23/8-23'>2Sam 23:8-23</a>; <a href='/AIV/28/13/8'>Hos. 13:8</a>",
+      "comment": "Hushai appeals to David’s legendary prowess and uses graphic animal imagery, which resonates throughout Scripture regarding protective and wrathful figures."
     },
     {
       "pk": 10017009,
@@ -110,20 +121,259 @@
       "bookAbbreviation": "2Sam",
       "chapter": 17,
       "verse": 9,
-      "text": "'Right now, he has probably hidden in one of the caves or another place. If some of our men fall at the beginning, whoever hears will say, "
-    }
-  ],
-  "translatedAt": "2025-12-24T03:21:26.629Z",
-  "sections": [
-    {
-      "title": "Ahithophel’s Counsel to Absalom",
-      "startVerse": 1,
-      "endVerse": 4
+      "text": "Surely by now he is hidden in a cave or somewhere else. If the first attack fails and some of your men fall, everyone will hear of it and say, ‘Absalom’s followers have been defeated!’",
+      "links": "<a href='/AIV/10/23/13'>2Sam 23:13</a>; <a href='/AIV/07/6/2'>Judg. 6:2</a>",
+      "comment": "Hushai uses logic and appeals to potential disaster, showing how news and perception can rapidly turn the tide of events—a theme relevant to later spiritual warfare."
     },
     {
-      "title": "Hushai Opposes Ahithophel’s Advice",
-      "startVerse": 5,
-      "endVerse": 9
+      "pk": 10017010,
+      "translation": "AIV",
+      "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
+      "chapter": 17,
+      "verse": 10,
+      "text": "Then even the bravest, whose hearts are like lions, will utterly melt in fear, for all Israel knows your father is a mighty warrior and those with him are strong.",
+      "links": "<a href='/AIV/19/22/13'>Ps. 22:13</a>; <a href='/AIV/10/16/16'>2Sam 16:16</a>",
+      "comment": "Lion symbolism recalls strength and the Davidic kingship, which foreshadows Christ as the Lion of Judah (<a href='/AIV/66/5/5'>Rev. 5:5</a>)."
+    },
+    {
+      "pk": 10017011,
+      "translation": "AIV",
+      "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
+      "chapter": 17,
+      "verse": 11,
+      "text": "'My advice is that all Israel, from Dan to Beersheba, be gathered to you—innumerable as the sand by the sea—and that you lead them into battle yourself.'",
+      "links": "<a href='/AIV/01/22/17'>Gen. 22:17</a>; <a href='/AIV/07/20/1'>Judg. 20:1</a>",
+      "comment": "The fullness of Israel’s assembly recalls patriarchal promises and the significance of united leadership in God’s plan."
+    },
+    {
+      "pk": 10017012,
+      "translation": "AIV",
+      "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
+      "chapter": 17,
+      "verse": 12,
+      "text": "We will come upon him wherever he is found and fall on him, as dew settles on the ground. No one, not even one, will survive—not he nor any of those with him.",
+      "links": "<a href='/AIV/13/12/15'>1Chr. 12:15</a>; <a href='/AIV/07/6/37'>Judg. 6:37</a>",
+      "comment": "Dew imagery highlights certainty and totality. There is an underlying sense of irresistible judgment, echoing biblical motifs of justice."
+    },
+    {
+      "pk": 10017013,
+      "translation": "AIV",
+      "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
+      "chapter": 17,
+      "verse": 13,
+      "text": "If he retreats into a city, all Israel will bring ropes to that city, and drag it down to the valley, so not even a stone remains there.",
+      "links": "<a href='/AIV/06/8/28'>Josh. 8:28</a>; <a href='/AIV/23/30/14'>Isaiah 30:14</a>",
+      "comment": "This vivid hyperbolic destruction prefigures divine judgment against resistance to God’s anointed."
+    },
+    {
+      "pk": 10017014,
+      "translation": "AIV",
+      "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
+      "chapter": 17,
+      "verse": 14,
+      "text": "Absalom and all the men of Israel said, 'Hushai’s advice is better than Ahithophel’s,' for the Lord had ordained to defeat Ahithophel’s counsel, so He might bring disaster upon Absalom.",
+      "links": "<a href='/AIV/10/15/31'>2Sam 15:31</a>; <a href='/AIV/19/33/10'>Ps. 33:10</a>",
+      "comment": "God’s providence is explicitly acknowledged. Even the wisest plans are subject to divine overruling—a motif central in the development of biblical theology about God’s sovereignty and permissive will."
+    },
+    {
+      "pk": 10017015,
+      "translation": "AIV",
+      "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
+      "chapter": 17,
+      "verse": 15,
+      "text": "Then Hushai said to Zadok and Abiathar the priests, 'Ahithophel advised Absalom and the elders to attack David, but I countered that.'",
+      "links": "<a href='/AIV/10/15/27'>2Sam 15:27</a>; <a href='/AIV/10/8/17'>2Sam 8:17</a>",
+      "comment": "Priests play a key role in relaying strategy, reflecting priestly mediation in divine and political affairs. Such mediation is an enduring concept in the life of the Church."
+    },
+    {
+      "pk": 10017016,
+      "translation": "AIV",
+      "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
+      "chapter": 17,
+      "verse": 16,
+      "text": "'Now, send word quickly to David and warn him: 'Do not spend the night by the shallows in the wilderness, but cross over, or the king and all the people with him will be swallowed up.''",
+      "links": "<a href='/AIV/10/15/28'>2Sam 15:28</a>",
+      "comment": "Urgency in salvation is a recurring biblical theme, and mediation by priestly figures again reflects structured communion and care among God’s people."
+    },
+    {
+      "pk": 10017017,
+      "translation": "AIV",
+      "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
+      "chapter": 17,
+      "verse": 17,
+      "text": "Jonathan and Ahimaaz were staying at En-rogel, and a servant girl would come and bring them information so they could relay it to King David, for they dared not be seen entering the city.",
+      "links": "<a href='/AIV/10/15/36'>2Sam 15:36</a>; <a href='/AIV/06/15/7'>Josh. 15:7</a>",
+      "comment": "The use of covert messengers has echoes in later stories of divine deliverance and the importance of faithful witnesses."
+    },
+    {
+      "pk": 10017018,
+      "translation": "AIV",
+      "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
+      "chapter": 17,
+      "verse": 18,
+      "text": "But a young man saw them and reported it to Absalom. So both left quickly and reached Bahurim, where a man had a well in his courtyard, and they climbed down into it.",
+      "links": "<a href='/AIV/10/16/5'>2Sam 16:5</a>; <a href='/AIV/06/2/15'>Josh. 2:15</a>",
+      "comment": "Their flight and concealment recall other moments of God’s protection for His faithful servants, as observed with Rahab’s concealment of spies."
+    },
+    {
+      "pk": 10017019,
+      "translation": "AIV",
+      "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
+      "chapter": 17,
+      "verse": 19,
+      "text": "The woman took a covering and spread it over the well’s mouth, then scattered grain on it; so nothing was noticed.",
+      "links": "<a href='/AIV/06/2/4'>Josh. 2:4</a>; <a href='/AIV/11/18/4'>1Ki. 18:4</a>",
+      "comment": "The woman’s ingenuity saves lives, illustrating the importance of wisdom and subtle cooperation in salvation history."
+    },
+    {
+      "pk": 10017020,
+      "translation": "AIV",
+      "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
+      "chapter": 17,
+      "verse": 20,
+      "text": "When Absalom's servants came to the woman at the house and asked, 'Where are Ahimaaz and Jonathan?' she answered, 'They crossed the brook of water.' After searching and finding nothing, they returned to Jerusalem.",
+      "links": "<a href='/AIV/06/2/5'>Josh. 2:5</a>",
+      "comment": "Again, the motif of hiddenness and wise responses contributes to God’s ongoing work of rescue."
+    },
+    {
+      "pk": 10017021,
+      "translation": "AIV",
+      "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
+      "chapter": 17,
+      "verse": 21,
+      "text": "After they left, the men emerged from the well and hurried to David. They told him, 'Arise and cross the water quickly!' for Ahithophel has advised swift attack against you.",
+      "links": "<a href='/AIV/10/17/16'>2Sam 17:16</a>",
+      "comment": "The urgency to escape highlights obedience and prompt response to danger in cooperation with God’s servant messengers."
+    },
+    {
+      "pk": 10017022,
+      "translation": "AIV",
+      "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
+      "chapter": 17,
+      "verse": 22,
+      "text": "So David and all the people with him arose and crossed the Jordan River. By dawn, not one person remained who had not crossed.",
+      "links": "<a href='/AIV/06/3/14-17'>Josh. 3:14-17</a>",
+      "comment": "The Jordan crossing recalls Israel’s entry into the Promised Land and symbolizes decisive acts of faith under divine guidance."
+    },
+    {
+      "pk": 10017023,
+      "translation": "AIV",
+      "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
+      "chapter": 17,
+      "verse": 23,
+      "text": "Now when Ahithophel saw his advice had not been followed, he saddled his donkey, went home to his city, put his household in order, and hanged himself; thus he died and was buried in his father’s tomb.",
+      "links": "<a href='/AIV/40/27/5'>Matt. 27:5</a>; <a href='/AIV/19/41/9'>Ps. 41:9</a>",
+      "comment": "Ahithophel’s suicide is seen as a foreshadowing of Judas Iscariot’s fate; both betray the anointed and die in despair. The spiritual consequences of rejecting God’s plan are underscored."
+    },
+    {
+      "pk": 10017024,
+      "translation": "AIV",
+      "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
+      "chapter": 17,
+      "verse": 24,
+      "text": "David arrived at Mahanaim, while Absalom, with all the men of Israel, crossed the Jordan.",
+      "links": "<a href='/AIV/01/32/2'>Gen. 32:2</a>",
+      "comment": "Mahanaim, a place of previous divine encounters, becomes a refuge for David. The narrative of crossing highlights a split in the people—reflecting themes of fidelity and apostasy."
+    },
+    {
+      "pk": 10017025,
+      "translation": "AIV",
+      "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
+      "chapter": 17,
+      "verse": 25,
+      "text": "Absalom appointed Amasa over the army instead of Joab. (Amasa was the son of a man named Ithra the Ishmaelite, who had married Abigail, daughter of Nahash and sister of Zeruiah, Joab’s mother.)",
+      "links": [
+        "1 Chr 2:16-17",
+        "2 Sam 19:13",
+        "1 Kgs 2:5"
+      ],
+      "comment": "Absalom's appointment of Amasa, a relative of Joab but of different paternal lineage, signals a strategic move to solidify his claim by distancing himself from David’s loyal general; the detailed genealogy underscores the complex family ties within David’s circle (cf. 1 Chron. 2:16-17), highlighting themes of loyalty, rivalry, and legitimacy in Israel’s leadership."
+    },
+    {
+      "pk": 10017026,
+      "translation": "AIV",
+      "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
+      "chapter": 17,
+      "verse": 26,
+      "text": "So Israel and Absalom camped in the land of Gilead.",
+      "links": "<a href='/AIV/01/31/21'>Gen. 31:21</a>",
+      "comment": "The battleground of Gilead is historically significant for Israel, a place of both conflict and restoration."
+    },
+    {
+      "pk": 10017027,
+      "translation": "AIV",
+      "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
+      "chapter": 17,
+      "verse": 27,
+      "text": "When David came to Mahanaim, Shobi son of Nahash from Rabbah of the Ammonites, Machir son of Ammiel from Lo-debar, and Barzillai the Gileadite from Rogelim,",
+      "links": "<a href='/AIV/10/9/4'>2Sam 9:4</a>; <a href='/AIV/11/2/7'>1Ki 2:7</a>",
+      "comment": "David’s supporters gather from unlikely places and backgrounds, pointing to the hidden strength God provides through many members.",
+      "sectionHeader": "David Provided for in Exile"
+    },
+    {
+      "pk": 10017028,
+      "translation": "AIV",
+      "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
+      "chapter": 17,
+      "verse": 28,
+      "text": "brought beds, bowls, pottery, wheat, barley, flour, roasted grain, beans, lentils,",
+      "links": [
+        "2 Sam 16:1",
+        "1 Sam 25:18",
+        "Matt 25:35"
+      ],
+      "comment": "This extensive list of provisions symbolizes communal care and the tangible work of practical charity, reminiscent of later themes of service to Christ’s body."
+    },
+    {
+      "pk": 10017029,
+      "translation": "AIV",
+      "book": 10,
+      "bookName": "2 Samuel",
+      "bookAbbreviation": "2Sam",
+      "chapter": 17,
+      "verse": 29,
+      "text": "honey, curds, sheep, cheese from cows, for David and his people to eat; for they said, 'The people are hungry, exhausted, and thirsty in the wilderness.'",
+      "links": "<a href='/AIV/40/25/35'>Matt. 25:35</a>; <a href='/AIV/19/23/1-2'>Ps. 23:1-2</a>",
+      "comment": "Their generous care prefigures themes of hospitality and the corporal works of mercy; Christ Himself would later affirm the paramount importance of caring for those in need."
     }
-  ]
+  ],
+  "translatedAt": "2025-12-28T06:56:18.006Z"
 }

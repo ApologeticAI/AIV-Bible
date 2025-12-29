@@ -3,6 +3,13 @@
   "bookName": "1 Maccabees",
   "bookAbbreviation": "1Macc",
   "chapter": 15,
+  "sections": [
+    {
+      "title": "Antiochus VII Writes to Simon",
+      "startVerse": 1,
+      "endVerse": 41
+    }
+  ],
   "verses": [
     {
       "pk": 20015001,
@@ -12,10 +19,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 1,
-      "text": "Antiochus, son of Demetrius the king, sent a letter from the islands of the sea to Simon, the leader of the Jews, and to all the people.",
-      "links": "",
-      "comment": "This begins the episode with the new king Antiochus VII sending correspondence from his place of exile or retreat, emphasizing the political instability of the period. The reference to 'the islands of the sea' shows his international reach (cf. <a href='/AIV/27/7/8'>Daniel 7:8</a>).",
-      "sectionHeader": "Antiochus VII Confirms Simon’s Authority"
+      "text": "Antiochus, son of King Demetrius, sent a letter from the islands of the sea to Simon, the priest and leader of the Jews, and to all the nation.",
+      "links": "<a href='/AIV/20/14/3'>1 Maccabees 14:3</a>",
+      "comment": "Antiochus VII begins correspondence with the Jewish leader, Simon. His outreach demonstrates continued foreign interest and interference in Jewish affairs.",
+      "sectionHeader": "Antiochus VII Writes to Simon"
     },
     {
       "pk": 20015002,
@@ -25,9 +32,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 2,
-      "text": "This letter read: 'King Antiochus greets Simon, the high priest and leader, and all the Jewish people.'",
-      "links": "<a href='/AIV/1/14/47'>1 Macc 14:47</a>",
-      "comment": "Antiochus gives official recognition of Simon's roles as high priest and leader, acknowledging his religious and political authority in Israel. This dual leadership points towards the importance and unity of spiritual and temporal power."
+      "text": "The contents of the letter were as follows: 'King Antiochus to Simon, the high priest and friend of kings, and to the nation of the Jews, greeting.'",
+      "links": "<a href='/AIV/20/13/36-42'>1 Maccabees 13:36-42</a>",
+      "comment": "The formal greeting uses honorific titles, indicating Simon's elevated political and religious status. The relationship between foreign and Jewish leaders foreshadows later developments in judicial and religious authority."
     },
     {
       "pk": 20015003,
@@ -37,9 +44,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 3,
-      "text": "'Since certain scoundrels have taken control of our kingdom and harmed it, I now plan to restore it to its former glory, and I have chosen to gather a strong army and navy to pursue those who have destroyed our nation.'",
-      "links": "<a href='/AIV/1/11/39'>1 Macc 11:39</a>",
-      "comment": "Antiochus references the usurpation of his throne by 'scoundrels,' likely referring to Trypho and others. The intent to restore order foreshadows future conflicts and interventions."
+      "text": "'Because certain scoundrels have taken control of the kingdom of our ancestors, I wish to assert my rights and claim the throne, so that I may restore it, as it was before. I have therefore called back my armies and have decided to enter my own country.'",
+      "links": "<a href='/AIV/20/10/67-89'>1 Maccabees 10:67-89</a>",
+      "comment": "Antiochus frames his claim as rightful, highlighting the recurring motif of contested legitimacy in leadership—a theme echoed in salvation history."
     },
     {
       "pk": 20015004,
@@ -49,9 +56,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 4,
-      "text": "'As for you, Simon, I have heard that you remain loyal and keep good relations with my predecessors, and continue to maintain their agreements with you.'",
-      "links": "<a href='/AIV/1/13/34'>1 Macc 13:34</a>",
-      "comment": "Simon is commended for loyalty, which is a theme echoed throughout biblical history, seen as covenant faithfulness (cf. <a href='/AIV/6/14/20'>Joshua 14:20</a>)."
+      "text": "and intend to make a landing in the country so that I may proceed against those who have destroyed our country and those who have devastated many cities in my kingdom,",
+      "links": [
+        "Judg 2:14",
+        "2 Chr 36:17",
+        "Dan 9:12"
+      ],
+      "comment": "Antiochus VII (Sidetes) claims to act against those who harmed his kingdom, seeking to legitimize his military intervention in the region by blaming previous devastation, a common ancient political justification."
     },
     {
       "pk": 20015005,
@@ -61,9 +72,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 5,
-      "text": "'I now confirm your authority in all matters, and forgive any outstanding obligations you may have with my predecessors.'",
-      "links": "<a href='/AIV/1/13/42'>1 Macc 13:42</a>",
-      "comment": "By forgiving past debts, Antiochus extends grace to Simon and the nation, which echoes the biblical tradition of Jubilee (cf. <a href='/AIV/3/25/10'>Leviticus 25:10</a>)."
+      "text": "now therefore I confirm to you all the tax remissions that the kings before me have granted you, and a release from all the other payments from which they have released you.",
+      "links": [
+        "Ezra 7:24",
+        "Neh 2:7-8",
+        "Esth 9:22"
+      ],
+      "comment": "The confirmation of tax remissions continues a precedent of Hellenistic rulers seeking Jewish loyalty through religious and fiscal privileges, echoing similar grants by Antiochus III and Demetrius II (see 1 Macc 10:29-36)."
     },
     {
       "pk": 20015006,
@@ -73,9 +88,12 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 6,
-      "text": "'I grant you the right to mint your own coins as your nation desires.'",
-      "links": "<a href='/AIV/1/15/7'>1 Macc 15:7</a>",
-      "comment": "The ability to mint coins signified sovereignty and independence. This echoes how spiritual authority comes with tangible signs (cf. <a href='/AIV/40/16/19'>Matthew 16:19</a>, keys of authority)."
+      "text": "I permit you to mint your own coinage as money for your country,",
+      "links": [
+        "Ezra 4:13",
+        "Luke 20:22-25"
+      ],
+      "comment": "Granting the right to mint coinage signifies recognition of Jewish autonomy under Simon, a significant step in self-governance and national identity."
     },
     {
       "pk": 20015007,
@@ -85,9 +103,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 7,
-      "text": "'Jerusalem and the temple will remain free. I give you the right to be governor over your own region.'",
-      "links": "<a href='/AIV/1/13/42'>1 Macc 13:42</a>",
-      "comment": "An affirmation of local religious and civil autonomy, echoing earlier proclamations. The freedom of Jerusalem and the temple developed the understanding of a central, sacred space (cf. <a href='/AIV/11/2/6'>2 Chronicles 2:6</a>)."
+      "text": "and I grant freedom to Jerusalem and the sanctuary. All the weapons that you have prepared and the strongholds that you have built and now hold shall remain yours.",
+      "links": [
+        "Ezra 7:24",
+        "1 Macc 13:41-42",
+        "2 Chr 36:23"
+      ],
+      "comment": "This statement acknowledges Jerusalem's religious and political freedom, as well as Jewish retention of military resources, highlighting a new status among the Hellenistic powers."
     },
     {
       "pk": 20015008,
@@ -97,9 +119,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 8,
-      "text": "'Any debts owed to the kingdom, either now or in the future, are forgiven for you and your people.'",
-      "links": "<a href='/AIV/1/10/29'>1 Macc 10:29</a>",
-      "comment": "Debt cancellation echoes the themes of mercy and forgiveness—core principles in biblical law and the teachings of Jesus (<a href='/AIV/40/6/12'>Matthew 6:12</a>)."
+      "text": "Every debt you owe to the royal treasury and any such future debts shall be canceled for you from henceforth and for all time.",
+      "links": [
+        "Deut 15:1-2",
+        "Isa 61:1",
+        "Ezra 7:24"
+      ],
+      "comment": "Cancellation of past and future debts further strengthens Jewish economic independence and ingratiates Simon as a valuable ally."
     },
     {
       "pk": 20015009,
@@ -109,9 +135,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 9,
-      "text": "'If any of you are fit to join my court, let them be registered, for our kingdom remains at peace.'",
-      "links": "<a href='/AIV/1/10/37'>1 Macc 10:37</a>",
-      "comment": "Offering the people access to royal positions integrates them into broader imperial society, reflective of God’s inclusion of His people into His kingdom (<a href='/AIV/66/5/10'>Revelation 5:10</a>)."
+      "text": "When we gain control of our kingdom, we will bestow great honor on you and your nation and the temple, so that your glory will become manifest in all the earth.”",
+      "links": [
+        "Ps 67:2",
+        "Isa 49:6",
+        "Mal 1:11"
+      ],
+      "comment": "Antiochus promises additional honor if victorious, illustrating how Hellenistic rulers incentivized local elites and affirming the Jewish community’s growing international reputation."
     },
     {
       "pk": 20015010,
@@ -121,9 +151,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 10,
-      "text": "Simon sent men chosen from his people, who traveled to Antiochus, to confirm these rights and privileges.",
-      "links": "",
-      "comment": "Diplomatic action on Simon’s part shows political wisdom and desire for security, aligning with prudence as a virtue (cf. <a href='/AIV/20/2/11'>Proverbs 2:11</a>)."
+      "text": "In the one hundred seventy-fourth year Antiochus set out and invaded the land of his ancestors. All the troops rallied to him, so that there were only a few with Trypho.",
+      "links": [
+        "1 Macc 13:31-32",
+        "2 Macc 12:2",
+        "1 Kgs 12:20"
+      ],
+      "comment": "The dating to the 174th year of the Seleucid era (138/137 BCE) situates Antiochus’ campaign against Trypho in a precise historical context, showing shifting allegiances and power struggles in the region."
     },
     {
       "pk": 20015011,
@@ -133,9 +167,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 11,
-      "text": "King Antiochus replied and confirmed all that he had promised.",
-      "links": "",
-      "comment": "A simple but crucial confirmation—fulfillment of promises is valued in biblical narrative (cf. <a href='/AIV/56/1/2'>Titus 1:2</a>)."
+      "text": "Antiochus pursued him, and Trypho came in his flight to Dor, which is by the sea;",
+      "links": [
+        "Josh 11:2",
+        "Judg 1:27",
+        "Acts 20:6"
+      ],
+      "comment": "Trypho's flight to Dor, a coastal stronghold, marks a desperate effort to evade capture after losing support—demonstrating the volatility of post-Antiochian succession."
     },
     {
       "pk": 20015012,
@@ -145,10 +183,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 12,
-      "text": "But Trypho, who had held the citadel in Jerusalem, kept mounting attacks against the Jews, though he had not been able to defeat them.",
-      "links": "<a href='/AIV/1/13/34'>1 Macc 13:34</a>",
-      "comment": "Trypho remains a persistent enemy. The citadel represents worldly powers resisting the people of God, similar to the spiritual struggles discussed by Paul (<a href='/AIV/49/6/12'>Ephesians 6:12</a>).",
-      "sectionHeader": "Conflict with Trypho and Cendebeus"
+      "text": "for he knew that troubles had converged on him, and his troops had deserted him.",
+      "links": [
+        "1 Sam 14:21",
+        "Ps 60:10",
+        "Isa 13:14"
+      ],
+      "comment": "Trypho’s isolation and loss of troops reflect rapid reversals of fortune in Hellenistic politics, emphasizing the importance of military loyalty."
     },
     {
       "pk": 20015013,
@@ -158,9 +199,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 13,
-      "text": "Antiochus marched with a large army into the region of Dor, on the coast, intending to drive out Trypho.",
-      "links": "",
-      "comment": "Dor was a strategic city by the sea. Antiochus’s campaign is part of the ongoing conflict for control in the land of Israel."
+      "text": "So Antiochus encamped against Dor, and with him were one hundred twenty thousand warriors and eight thousand cavalry.",
+      "links": [
+        "2 Chr 32:1",
+        "2 Macc 5:24",
+        "Luke 21:20"
+      ],
+      "comment": "The immense forces Antiochus brought against Dor illustrate the scale and seriousness of Seleucid civil wars and their destabilizing impact on the region."
     },
     {
       "pk": 20015014,
@@ -170,9 +215,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 14,
-      "text": "Trypho, realizing the threat, took refuge in Dor with him, and kept his troops outside the city.",
-      "links": "",
-      "comment": "Trypho’s defensive position reflects the continuing ebb and flow of military fortunes in the era."
+      "text": "He surrounded the town, and the ships joined battle from the sea; he pressed the town hard from land and sea, and permitted no one to leave or enter it.",
+      "links": [
+        "Josh 11:4",
+        "Judg 4:13",
+        "1 Macc 5:54"
+      ],
+      "comment": "Simultaneous land and naval blockade presents a comprehensive siege, underscoring the strategic importance of Dor and the military capabilities of Antiochus."
     },
     {
       "pk": 20015015,
@@ -182,9 +231,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 15,
-      "text": "Simon sent two thousand chosen men to aid Antiochus, along with silver, gold, and many provisions.",
-      "links": "<a href='/AIV/1/14/33'>1 Macc 14:33</a>",
-      "comment": "Generosity in giving and strategic alliances is a sign of wise leadership. The sharing of material goods alludes to stewardship and sacrifice."
+      "text": "Then Numenius and his companions arrived from Rome, with letters to the kings and countries, in which the following was written:",
+      "links": [
+        "1 Macc 14:24",
+        "Acts 25:16",
+        "Esth 8:9"
+      ],
+      "comment": "The arrival of Jewish envoys from Rome signals the Maccabees’ diplomatic skill in cultivating foreign alliances to strengthen their autonomy."
     },
     {
       "pk": 20015016,
@@ -194,9 +247,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 16,
-      "text": "But Antiochus was suspicious; he refused to accept the men and supplies, instead ordering the removal of Simon's envoys.",
-      "links": "",
-      "comment": "Political intrigue builds, showing alliances are often fragile and subject to suspicion, much like the tension seen in Israel’s earlier history (<a href='/AIV/9/8/15'>1 Samuel 8:15</a>)."
+      "text": "“Lucius, consul of the Romans, to King Ptolemy, greetings.",
+      "links": [
+        "Acts 18:12",
+        "Acts 13:7",
+        "1 Macc 12:16"
+      ],
+      "comment": "A letter from Lucius, a Roman consul, to Ptolemy, reflects Roman interest in eastern Mediterranean affairs and potential Jewish integration into Rome’s sphere of influence."
     },
     {
       "pk": 20015017,
@@ -206,9 +263,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 17,
-      "text": "Cendebeus, who had been appointed commander at Jamnia, sent word to Simon, saying:",
-      "links": "",
-      "comment": "Here the narrative shifts to a new antagonist; Cendebeus acts under royal authority."
+      "text": "The envoys of the Jews have come to us as our friends and allies to renew our ancient friendship and alliance. They had been sent by the high priest Simon and by the Jewish people",
+      "links": [
+        "1 Macc 12:1",
+        "Acts 28:21",
+        "Phil 4:18"
+      ],
+      "comment": "The high priest Simon uses diplomacy to solidify Jewish-Roman relations, seeking external support against regional threats, a recurring theme in Jewish history (see 1 Macc 8)."
     },
     {
       "pk": 20015018,
@@ -218,9 +279,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 18,
-      "text": "'The envoys of your people came to us demanding justice for what had been done to them by Trypho.'",
-      "links": "",
-      "comment": "Diplomatic channels continue, reflecting ongoing struggle for justice and security."
+      "text": "and have brought a gold shield weighing one thousand minas.",
+      "links": [
+        "1 Macc 14:24",
+        "1 Kgs 10:25",
+        "Ps 72:10"
+      ],
+      "comment": "Presentation of a gold shield as a diplomatic gift echoes ancient gift-exchange customs, symbolizing both respect and alliance."
     },
     {
       "pk": 20015019,
@@ -230,9 +295,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 19,
-      "text": "'We replied that neither we nor the kingdom owe anything to you or your predecessors.'",
-      "links": "",
-      "comment": "Diplomatic rejection underpins the tension and lack of trust between parties."
+      "text": "We therefore have decided to write to the kings and countries that they should not seek their harm or make war against them and their cities and their country, or make alliance with those who war against them.",
+      "links": [
+        "Esth 8:11",
+        "Ezra 4:21",
+        "Josh 10:6"
+      ],
+      "comment": "Rome’s prohibition against hostilities or alliances targeting Jews demonstrates their emerging protective policy, possibly for their own strategic interests in the region."
     },
     {
       "pk": 20015020,
@@ -242,9 +311,12 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 20,
-      "text": "Now Trypho was fleeing from Antiochus; he crossed the sea to avoid him.",
-      "links": "",
-      "comment": "Trypho’s flight hints at the instability and vulnerability of ungodly rulers, paralleling other biblical examples (cf. <a href='/AIV/9/19/10'>1 Samuel 19:10</a>)."
+      "text": "And it has seemed good to us to accept the shield from them.",
+      "links": [
+        "1 Macc 14:24",
+        "2 Macc 8:10"
+      ],
+      "comment": "The acceptance of the shield indicates Roman favor, suggesting political acknowledgment of the Jewish state’s significance."
     },
     {
       "pk": 20015021,
@@ -254,9 +326,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 21,
-      "text": "King Antiochus appointed Cendebeus commander in charge of the coastal region.",
-      "links": "",
-      "comment": "The appointment indicates shifting authorities. Coastal areas were always a zone of contention in Israel’s history."
+      "text": "Therefore if any scoundrels have fled to you from their country, hand them over to the high priest Simon, so that he may punish them according to their law.”",
+      "links": [
+        "Deut 17:12",
+        "Ezra 7:26",
+        "Acts 25:16"
+      ],
+      "comment": "The extradition clause affirms Jewish legal jurisdiction, strengthening Simon’s authority and the autonomy of the high priesthood."
     },
     {
       "pk": 20015022,
@@ -266,9 +342,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 22,
-      "text": "He gave him an army of infantry and cavalry, and ordered him to deploy near Judea and fortify Kedron, build up its walls, and seize control.",
-      "links": "",
-      "comment": "Kedron’s fortification shows strategic military planning; physical fortifications symbolize spiritual preparedness (<a href='/AIV/19/27/1'>Psalm 27:1</a>)."
+      "text": "The consul wrote the same thing to King Demetrius and to Attalus and Ariarathes and Arsaces,",
+      "links": [
+        "1 Macc 12:19-23",
+        "Rom 13:1",
+        "Acts 23:26"
+      ],
+      "comment": "Identical letters sent throughout the Mediterranean display Rome’s diplomatic reach and intention to safeguard Jewish interests broadly."
     },
     {
       "pk": 20015023,
@@ -278,9 +358,12 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 23,
-      "text": "Cendebeus advanced to Jamnia, attacked the Jewish people, took several captives, and built up Kedron.",
-      "links": "",
-      "comment": "The continuing cycle of attack and defense highlights the need for steadfast faithfulness in adversity (<a href='/AIV/19/27/3'>Psalm 27:3</a>)."
+      "text": "and to all the countries, and to Sampsames, and to the Spartans, and to Delos, and to Myndos, and to Sicyon, and to Caria, and to Samos, and to Pamphylia, and to Lycia, and to Halicarnassus, and to Rhodes, and to Phaselis, and to Cos, and to Side, and to Aradus and Gortyna and Cnidus and Cyprus and Cyrene.",
+      "links": [
+        "1 Macc 12:19-23",
+        "Acts 2:9-11"
+      ],
+      "comment": "The widespread distribution underscores the international recognition of Jewish claims and Rome’s intent to influence affairs across many polities."
     },
     {
       "pk": 20015024,
@@ -290,9 +373,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 24,
-      "text": "He stationed soldiers there to harass and raid the roads of Judea as he was ordered by the king.",
-      "links": "",
-      "comment": "Cendebeus’ campaign is meant to destabilize and control; such tactics echo how oppression often targets daily life."
+      "text": "They also sent a copy of these things to the high priest Simon.",
+      "links": [
+        "1 Macc 14:24",
+        "Acts 15:23",
+        "2 Cor 3:2"
+      ],
+      "comment": "A copy sent to Simon emphasizes transparent communication and the high priest's central administrative role in the nascent Jewish polity."
     },
     {
       "pk": 20015025,
@@ -302,9 +389,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 25,
-      "text": "When John, son of Simon, saw the evil deeds Cendebeus was doing to the people, he reported to his father Simon.",
-      "links": "",
-      "comment": "John’s vigilance and reporting exemplify faithful stewardship and care for the community (<a href='/AIV/22/33/6'>Ezekiel 33:6</a>)."
+      "text": "King Antiochus besieged Dor for the second time, continually throwing his forces against it and making engines of war; and he shut Trypho up and kept him from going out or in.",
+      "links": [
+        "1 Macc 15:11",
+        "2 Sam 11:1",
+        "1 Macc 13:43"
+      ],
+      "comment": "Antiochus’s renewed siege of Dor and the use of war machines foreground ongoing warfare, while Trypho’s entrapment signals his waning power."
     },
     {
       "pk": 20015026,
@@ -314,9 +405,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 26,
-      "text": "Simon called together his two oldest sons, John and Judas, and told them, 'My brothers, our people are under attack. The enemy is closing in from Jamnia.'",
-      "links": "",
-      "comment": "Simon’s call to his sons shows the importance of family leadership and continuity. The leadership within the family points to generational transmission of faith (cf. <a href='/AIV/5/6/6-9'>Deuteronomy 6:6-9</a>)."
+      "text": "And Simon sent to Antiochus two thousand picked troops, to fight for him, and silver and gold and a large amount of military equipment.",
+      "links": [
+        "1 Macc 13:43",
+        "1 Kgs 5:1",
+        "2 Sam 8:10"
+      ],
+      "comment": "Simon’s offer of troops and resources shows his willingness to ally with powerful neighbors for Jewish security, though the alliance proves precarious."
     },
     {
       "pk": 20015027,
@@ -326,9 +421,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 27,
-      "text": "'Come, gather our men and rise to the challenge. We must defend our people.'",
-      "links": "",
-      "comment": "Simon’s motivation for defense is rooted in care for the people, a theme central to the shepherding imagery later found throughout the Bible (<a href='/AIV/19/23/1'>Psalm 23:1</a> featuring the Lord as shepherd)."
+      "text": "But he refused to receive them, and broke all the agreements he formerly had made with Simon, and became estranged from him.",
+      "links": [
+        "Ps 55:20",
+        "Dan 11:23",
+        "1 Macc 14:31"
+      ],
+      "comment": "Antiochus’s rejection and broken promises reveal the fluidity and unreliability of Hellenistic diplomacy, leaving the Jews vulnerable despite prior agreements."
     },
     {
       "pk": 20015028,
@@ -338,10 +437,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 28,
-      "text": "John and his men marched from Jerusalem and engaged Cendebeus in battle.",
-      "links": "",
-      "comment": "Active resistance is often used to signify righteous action and holy war against oppression (cf. <a href='/AIV/7/6/12'>Judges 6:12</a>).",
-      "sectionHeader": "John Defeats Cendebeus"
+      "text": "He sent to him Athenobius, one of his Friends, to confer with him, saying, \"You hold control of Joppa and Gazara and the citadel in Jerusalem; they are cities of my kingdom.\"",
+      "links": [
+        "Neh 13:28",
+        "Ezra 4:12",
+        "1 Macc 13:43"
+      ],
+      "comment": "Antiochus, through Athenobius, accused the Jews of occupying royal Seleucid cities, highlighting ongoing disputes over legitimate boundaries and sovereignty."
     },
     {
       "pk": 20015029,
@@ -351,9 +453,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 29,
-      "text": "John defeated the enemy at Kedron, drove them back, and overran their outposts.",
-      "links": "",
-      "comment": "The defeat of the enemy at Kedron recalls many biblical victories won by faith and obedience (cf. <a href='/AIV/7/7/22'>Judges 7:22</a>)."
+      "text": "You have devastated their territory, you have done great damage in the land, and you have taken possession of many places in my kingdom.",
+      "links": [
+        "Jer 12:10",
+        "Amos 3:9",
+        "Mic 3:12"
+      ],
+      "comment": "The charge of devastation and conquest reflects Seleucid attempts to reassert control and delegitimize Jewish territorial gains."
     },
     {
       "pk": 20015030,
@@ -363,9 +469,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 30,
-      "text": "The enemy fled to the towers by the sea, abandoning Kedron which John then burned.",
-      "links": "",
-      "comment": "Burning the city or outpost is symbolic of purging evil—sometimes seen in biblical accounts of judgment (<a href='/AIV/1/11/4'>Judges 11:4</a>)."
+      "text": "Now then, hand over the cities that you have seized and the tribute money of the places that you have conquered outside the borders of Judea;",
+      "links": [
+        "1 Kgs 20:34",
+        "2 Kgs 23:33",
+        "1 Macc 13:43"
+      ],
+      "comment": "Antiochus’ ultimatum—surrender or pay punitive tribute—demonstrates the economic and military pressures faced by the Jewish state amid regional power struggles."
     },
     {
       "pk": 20015031,
@@ -375,9 +485,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 31,
-      "text": "John then returned safely to Judea.",
-      "links": "",
-      "comment": "The motif of returning safely after battle is found throughout scripture as God’s protection over His people (<a href='/AIV/19/121/8'>Psalm 121:8</a>)."
+      "text": "or else pay me five hundred talents of silver for the destruction that you have caused and five hundred talents more for the tribute money of the cities. Otherwise we will come and make war on you.”",
+      "links": [
+        "2 Kgs 15:19-20",
+        "2 Chr 36:3",
+        "Matt 17:24-27"
+      ],
+      "comment": "The demands for indemnities and tribute emphasize the transactional nature of Hellenistic rule and regional dominance."
     },
     {
       "pk": 20015032,
@@ -387,10 +501,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 32,
-      "text": "Now, Numenius and his companions returned from Rome, carrying letters to the kings and provinces.",
-      "links": "",
-      "comment": "Roman diplomacy is highlighted, indicative of the changing world powers and Judea’s attempts at establishing legitimacy outside the Hellenistic empires.",
-      "sectionHeader": "Numenius Returns from Rome; Dispute over Cities"
+      "text": "So Athenobius, the king’s Friend, came to Jerusalem, and when he saw the splendor of Simon, and the sideboard with its gold and silver plate, and his great magnificence, he was amazed. When he reported to him the king’s message,",
+      "links": [
+        "1 Kgs 10:5",
+        "Matt 6:29",
+        "Esth 1:4"
+      ],
+      "comment": "Athenobius’s awe at Simon’s wealth signals the Jewish leader’s status and the nation’s prosperity, while the delivery of the king’s terms reflects formal diplomatic engagement."
     },
     {
       "pk": 20015033,
@@ -400,9 +517,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 33,
-      "text": "King Antiochus also wrote to Simon, saying:",
-      "links": "",
-      "comment": "This initiates a new phase in their diplomatic exchanges, revealing lingering disputes."
+      "text": "Simon said to him in reply: \"We have neither taken foreign land nor seized foreign property, but only the inheritance of our ancestors, which at one time had been unjustly taken by our enemies.\"",
+      "links": [
+        "Num 36:7",
+        "Deut 1:8",
+        "Ezek 36:24"
+      ],
+      "comment": "Simon’s reply asserts ancestral rights to the land, aligning the Maccabean struggle with the biblical inheritance motif (cf. Num 33:53; Deut 1:8), and reframing their actions as justified restoration."
     },
     {
       "pk": 20015034,
@@ -412,9 +533,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 34,
-      "text": "'You have taken Joppa, Gazara, and the citadel of Jerusalem which are my territories.'",
-      "links": "",
-      "comment": "Antiochus asserts his claim on these cities, underscoring the continued dispute over sovereignty."
+      "text": "Now that we have the opportunity, we are firmly holding the inheritance of our ancestors.",
+      "links": [
+        "Gen 28:4",
+        "Neh 9:8",
+        "Obad 1:17"
+      ],
+      "comment": "Simon reinforces the legitimacy of Jewish possession, making a case for indigenous claims over foreign-imposed sovereignty."
     },
     {
       "pk": 20015035,
@@ -424,9 +549,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 35,
-      "text": "'Return these cities and the tribute from these places.'",
-      "links": "",
-      "comment": "The call to restore tribute links to obligations and taxation systems which caused social unrest throughout history, paralleling Jesus’ approach to tribute in <a href='/AIV/40/22/21'>Matthew 22:21</a>."
+      "text": "As for Joppa and Gazara, which you demand, they were causing great damage among the people and to our land; for them we will give you one hundred talents.” Athenobius did not answer him a word,",
+      "links": [
+        "2 Kgs 23:33",
+        "Dan 2:22",
+        "1 Macc 10:33"
+      ],
+      "comment": "By offering a lesser tribute for Joppa and Gazara, Simon tries negotiation while refusing full Seleucid demands, reflecting his political pragmatism."
     },
     {
       "pk": 20015036,
@@ -436,9 +565,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 36,
-      "text": "Simon answered him, 'We have not taken foreign lands but only recovered the inheritance of our ancestors, which had been unjustly confiscated by your predecessors.'",
-      "links": "",
-      "comment": "Simon’s claim rests on ancestral rights, linking inheritance with fidelity to God’s covenant, a major biblical theme (<a href='/AIV/1/21/1-3'>Genesis 21:1-3</a>)."
+      "text": "but returned in wrath to the king and reported to him these words, and also the splendor of Simon and all that he had seen. And the king was very angry.",
+      "links": [
+        "1 Macc 14:31",
+        "Esth 3:5",
+        "Dan 3:13"
+      ],
+      "comment": "Athenobius’s silence and anger, together with the reported splendor, further inflame Antiochus, escalating tension and foreshadowing conflict."
     },
     {
       "pk": 20015037,
@@ -448,9 +581,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 37,
-      "text": "We have merely restored what had belonged to us, and have not taken anything from yours.",
-      "links": "",
-      "comment": "The concept of restoration of what was lost connects to the biblical principle of redemption and restoration (cf. <a href='/AIV/18/42/10'>Job 42:10</a>)."
+      "text": "Meanwhile Trypho embarked on a ship and escaped to Orthosia.",
+      "links": [
+        "Acts 27:42-43",
+        "Jon 1:3",
+        "1 Macc 13:12"
+      ],
+      "comment": "Trypho’s maritime escape to Orthosia marks ongoing upheaval and the elusive fortunes of rival claimants in the region."
     },
     {
       "pk": 20015038,
@@ -460,9 +597,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 38,
-      "text": "King Antiochus had Cendebeus sent into battle and he attacked once again.",
-      "links": "",
-      "comment": "Military campaigns and retaliation remain constant, showing the perpetual struggle for peace."
+      "text": "Then the king made Cendebeus commander-in-chief of the coastal country, and gave him troops of infantry and cavalry.",
+      "links": [
+        "1 Macc 11:60",
+        "2 Chr 8:5",
+        "1 Sam 15:18"
+      ],
+      "comment": "Antiochus’s appointment of Cendebeus as a military leader highlights continued attempts to exert control over coastal and Jewish territories."
     },
     {
       "pk": 20015039,
@@ -472,9 +613,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 39,
-      "text": "Simon sent his sons to confront Cendebeus, who led his army into Judea.",
-      "links": "",
-      "comment": "Faithful leadership and direct engagement reflect the high value placed on courageous defenders within biblical history."
+      "text": "He commanded him to encamp against Judea, to build up Kedron and fortify its gates, and to make war on the people; but the king pursued Trypho.",
+      "links": [
+        "1 Macc 13:53",
+        "Neh 3:14",
+        "Isa 1:7"
+      ],
+      "comment": "Orders to fortify Kedron and attack Judea underscore strategic efforts to contain and undermine Jewish strength amid Antiochus’s broader campaigns."
     },
     {
       "pk": 20015040,
@@ -484,9 +629,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 40,
-      "text": "John attacked Cendebeus at the pass, crushed his forces, and pursued them as far as the towers by the sea.",
-      "links": "",
-      "comment": "John’s victory is attributed to both military skill and divine favor, echoing God’s promise of victory to the faithful (<a href='/AIV/19/118/14'>Psalm 118:14</a>)."
+      "text": "So Cendebeus came to Jamnia and began to provoke the people and invade Judea and take the people captive and kill them.",
+      "links": [
+        "Judg 10:7",
+        "1 Sam 30:1-2",
+        "1 Macc 4:22"
+      ],
+      "comment": "Cendebeus’s invasion brings renewed harassment, captivity, and violence to Judean territory, reflecting persistent insecurity despite Simon’s leadership."
     },
     {
       "pk": 20015041,
@@ -496,32 +645,14 @@
       "bookAbbreviation": "1Macc",
       "chapter": 15,
       "verse": 41,
-      "text": "The enemy lost many soldiers, and the rest escaped to the towers by the sea, and so John returned in peace to Jerusalem.",
-      "links": "",
-      "comment": "Peace is restored, for now. The theme of returning in peace ties into the larger story of the restoration of Israel and ultimate peace realized in the New Covenant (<a href='/AIV/43/14/27'>John 14:27</a>)."
+      "text": "He built up Kedron and stationed horsemen and troops there, so that they might go out and make raids along the highways of Judea, as the king had ordered him.",
+      "links": [
+        "1 Sam 13:17",
+        "2 Chr 21:17",
+        "1 Macc 5:3"
+      ],
+      "comment": "The fortification of Kedron and its use as a base for raids reveals ongoing threats to Jewish autonomy from entrenched Seleucid garrisons."
     }
   ],
-  "translatedAt": "2025-12-24T05:27:57.780Z",
-  "sections": [
-    {
-      "title": "Antiochus VII Confirms Simon’s Authority",
-      "startVerse": 1,
-      "endVerse": 11
-    },
-    {
-      "title": "Conflict with Trypho and Cendebeus",
-      "startVerse": 12,
-      "endVerse": 27
-    },
-    {
-      "title": "John Defeats Cendebeus",
-      "startVerse": 28,
-      "endVerse": 31
-    },
-    {
-      "title": "Numenius Returns from Rome; Dispute over Cities",
-      "startVerse": 32,
-      "endVerse": 41
-    }
-  ]
+  "translatedAt": "2025-12-28T06:55:01.684Z"
 }

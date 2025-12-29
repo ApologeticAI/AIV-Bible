@@ -64,7 +64,7 @@
       "verse": 5,
       "text": "If brothers dwell together, and one of them dies without having a son, the wife of the dead man shall not marry outside of the family to a stranger. Her husband's brother shall take her as his wife and perform the duty of a brother-in-law to her.",
       "links": "<a href='/AIV/1/38/8'>Gen. 38:8</a>; <a href='/AIV/40/22/24'>Matt. 22:24</a>",
-      "comment": "This law supports the preservation of family lineage—a vital issue in salvation history. It prepares the way for the genealogy of Jesus (as in <a href='/AIV/40/1/5'>Matt. 1:5</a>), and hints at deeper spiritual realities of kinship within the People of God.",
+      "comment": "This verse describes the practice of levirate marriage, a custom ensuring the deceased brother's lineage and inheritance by obligating the surviving brother to marry the widow (see Genesis 38; Ruth 4:1-10), reflecting concerns for family continuity and provision within Israelite society.",
       "sectionHeader": "The Law of Levirate Marriage"
     },
     {
@@ -136,7 +136,11 @@
       "chapter": 25,
       "verse": 11,
       "text": "If two men are fighting with each other, and the wife of one comes near to rescue her husband from the hand of him who is beating him, and puts out her hand and seizes him by the private parts,",
-      "links": "",
+      "links": [
+        "Lev 18:6",
+        "Lev 20:11",
+        "Deut 23:1"
+      ],
       "comment": "This specific law is about personal boundaries and protecting human dignity, which has deeper implications for sexual purity and respecting the order established by God.",
       "sectionHeader": "Penalty for Improper Intervention in a Fight"
     },

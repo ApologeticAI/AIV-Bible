@@ -121,7 +121,7 @@
       "bookAbbreviation": "Sir",
       "chapter": 44,
       "verse": 10,
-      "text": "Yet these men were compassionate, whose righteous deeds have not been forgotten.",
+      "text": "But these also were godly men, whose righteous deeds have not been forgotten;",
       "links": "<a href='/AIV/19/112/9'>Ps. 112:9</a>",
       "comment": "The deeds of the righteous have eternal significance. This underlines the scriptural theme of merit and reward for charity and goodness.",
       "sectionHeader": "Notable Men of Righteousness"
@@ -134,9 +134,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 44,
       "verse": 11,
-      "text": "Their offspring will remain forever, and their glory will not be blotted out.",
-      "links": "<a href='/AIV/01/12/2-3'>Gen. 12:2-3</a>; <a href='/AIV/19/102/28'>Ps. 102:28</a>",
-      "comment": "This verse affirms the biblical promise of legacy and family—a theme which prefigures spiritual adoption and inheritance in Christ."
+      "text": "Their wealth remains with their descendants, and their inheritance with their children's children.",
+      "links": [
+        "Gen 17:7",
+        "Ps 112:2",
+        "Prov 13:22"
+      ],
+      "comment": "This verse highlights the ancient Jewish understanding of blessings as communal and generational, where the deeds of the righteous secure lasting inheritance for their descendants (cf. Genesis 17:7)."
     },
     {
       "pk": 28044012,
@@ -146,9 +150,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 44,
       "verse": 12,
-      "text": "Their bodies are buried in peace, but their name lives on generation after generation.",
-      "links": "<a href='/AIV/23/57/2'>Isa. 57:2</a>",
-      "comment": "Burial in peace points to hope beyond death. The continuing name reflects a spiritual principle: the communion of the faithful, living and departed."
+      "text": "Their descendants stand by the covenants; their children also, for their sake.",
+      "links": [
+        "Gen 17:9",
+        "Deut 7:9",
+        "Ps 103:17-18"
+      ],
+      "comment": "Honoring the enduring faithfulness to God's covenants, the text connects ancestral obedience with the continued religious fidelity of their children, reflecting Deuteronomy 7:9."
     },
     {
       "pk": 28044013,
@@ -158,9 +166,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 44,
       "verse": 13,
-      "text": "People will declare their wisdom, and the assembly will proclaim their praise.",
-      "links": "<a href='/AIV/19/22/22'>Ps. 22:22</a>",
-      "comment": "The assembly’s praise points to the worshipping community’s role in honoring the righteous—an early vision of what later develops into liturgical commemoration."
+      "text": "Their offspring will continue forever, and their glory will never be blotted out.",
+      "links": [
+        "Ps 89:29",
+        "Ps 102:28",
+        "Isa 59:21"
+      ],
+      "comment": "Perpetuity of faithful lineage is emphasized, expressing the hope that righteousness leads to unending legacy and undying renown (cf. Psalm 112:6)."
     },
     {
       "pk": 28044014,
@@ -170,9 +182,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 44,
       "verse": 14,
-      "text": "Enoch pleased the Lord and was taken up, an example of repentance to all generations.",
-      "links": "<a href='/AIV/01/5/24'>Gen. 5:24</a>; <a href='/AIV/58/11/5'>Heb. 11:5</a>",
-      "comment": "Enoch’s taken up prefigures bodily assumption and demonstrates both the value of repentance and the extraordinary favor God bestows on the righteous. His example anticipates participation in heavenly glory, a theme developed in Christian theology.",
+      "text": "Their bodies are buried in peace, but their name lives on generation after generation.",
+      "links": [
+        "Ps 112:6",
+        "Phil 4:7",
+        "Matt 26:13"
+      ],
+      "comment": "Burial in peace illustrates an honorable end, yet true immortality is found in a lasting, respected reputation remembered by future generations.",
       "sectionHeader": "Praise of the Patriarchs: Enoch, Noah, Abraham, Isaac, and Jacob"
     },
     {
@@ -183,9 +199,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 44,
       "verse": 15,
-      "text": "Noah was found perfect and righteous; in the time of wrath, he was taken as a remnant; through him, a covenant was established for generations.",
-      "links": "<a href='/AIV/01/6/9'>Gen. 6:9</a>; <a href='/AIV/01/9/9-17'>Gen. 9:9-17</a>",
-      "comment": "The covenant with Noah as a sign of God’s faithfulness and mercy anticipates later, greater covenants that come to fullness in Christ."
+      "text": "The assembly declares their wisdom, and the congregation proclaims their praise.",
+      "links": [
+        "Ps 78:4",
+        "Prov 31:31",
+        "Sir 39:10"
+      ],
+      "comment": "Public recognition in the assembly underscores the communal nature of wisdom and praise in Israelite society, where wise lives form models for the whole congregation (cf. Proverbs 31:31)."
     },
     {
       "pk": 28044016,
@@ -195,9 +215,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 44,
       "verse": 16,
-      "text": "Abraham was the great father of a multitude of nations, honored in the abundance of his glory.",
-      "links": "<a href='/AIV/01/17/4-5'>Gen. 17:4-5</a>; <a href='/AIV/48/3/7-9'>Gal. 3:7-9</a>",
-      "comment": "Abraham’s fatherhood is both physical and spiritual (cf. Gal. 3), which points to the inclusion of all believers into the people of God."
+      "text": "Enoch pleased the Lord and was taken up, an example of repentance to all generations.",
+      "links": [
+        "Gen 5:24",
+        "Heb 11:5",
+        "Wis 4:10"
+      ],
+      "comment": "Enoch's exemplary life (cf. Genesis 5:22–24) is recounted as a paradigm of repentance and divine approval, underscoring the importance of turning to God."
     },
     {
       "pk": 28044017,
@@ -207,9 +231,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 44,
       "verse": 17,
-      "text": "He was the one in whom the covenant was established; God made a covenant with him that he would be blessed among all nations.",
-      "links": "<a href='/AIV/01/12/2-3'>Gen. 12:2-3</a>",
-      "comment": "The covenant with Abraham is a foundational pillar for salvation history. His faith and obedience prefigure faith in Christ and the blessings extended to all nations."
+      "text": "Noah was found perfect and righteous; in the time of wrath he kept the race alive; therefore a remnant was left on the earth when the flood came.",
+      "links": [
+        "Gen 6:9",
+        "Gen 7:23",
+        "2 Pet 2:5"
+      ],
+      "comment": "Noah's righteousness preserved humanity (Genesis 6-9), illustrating God’s judgment and mercy, and the concept of a faithful remnant."
     },
     {
       "pk": 28044018,
@@ -219,9 +247,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 44,
       "verse": 18,
-      "text": "He was told that his descendants would multiply like the dust of the earth, and his offspring would be as numerous as the stars.",
-      "links": "<a href='/AIV/01/13/16'>Gen. 13:16</a>; <a href='/AIV/01/15/5'>Gen. 15:5</a>",
-      "comment": "The promise of numerous descendants is fulfilled both physically in Israel and spiritually in the universal Church inherited through faith."
+      "text": "Everlasting covenants were made with him that all flesh should never again be blotted out by a flood.",
+      "links": [
+        "Gen 9:8-11",
+        "Isa 54:9",
+        "Wis 10:4"
+      ],
+      "comment": "God's everlasting covenant with Noah (Genesis 9:8–17) promised that the world would not again be destroyed by flood, reinforcing divine reliability and mercy."
     },
     {
       "pk": 28044019,
@@ -231,9 +263,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 44,
       "verse": 19,
-      "text": "Isaac also stood firm through Abraham, his father; for his sake, the blessing of all humanity and the covenant was confirmed.",
-      "links": "<a href='/AIV/01/26/3-5'>Gen. 26:3-5</a>",
-      "comment": "Isaac’s blessing flows from Abraham’s faith, showing God’s plan to work through family lines and spiritual inheritance—a sign of the unity of the faithful through spiritual lineage."
+      "text": "Abraham was the great father of a multitude of nations, and no one has been found like him in glory.",
+      "links": [
+        "Gen 17:4-5",
+        "Rom 4:17-18",
+        "Gal 3:7"
+      ],
+      "comment": "Abraham’s status as the father of many nations (Genesis 17:4–5) highlights the universal scope of God’s promises and the singular honor attributed to him."
     },
     {
       "pk": 28044020,
@@ -243,9 +279,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 44,
       "verse": 20,
-      "text": "To Jacob, He gave the promise of peace, and assigned him a portion from the land, establishing the inheritance.",
-      "links": "<a href='/AIV/01/28/13-14'>Gen. 28:13-14</a>",
-      "comment": "The promise to Jacob points to the fulfillment of the inheritance of the people of God, foreshadowing the spiritual inheritance enjoyed by the baptized."
+      "text": "He kept the law of the Most High, and entered into a covenant with him; he certified the covenant in his flesh, and when he was tested he proved faithful.",
+      "links": [
+        "Gen 26:5",
+        "Gen 17:10",
+        "Jas 2:21"
+      ],
+      "comment": "Abraham’s observance of God’s law and faithfulness under testing (Genesis 22) established him as the model covenant partner, with circumcision as the visible sign (Genesis 17:10–14)."
     },
     {
       "pk": 28044021,
@@ -255,9 +295,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 44,
       "verse": 21,
-      "text": "He preserved him and blessed him, granting him the inheritance of the twelve tribes.",
-      "links": "<a href='/AIV/01/35/10-12'>Gen. 35:10-12</a>; <a href='/AIV/02/1/1-7'>Exod. 1:1-7</a>",
-      "comment": "The division into twelve tribes foreshadows the twelve apostles, both showing the pattern of God’s chosen assembly."
+      "text": "Therefore the Lord assured him with an oath that the nations would be blessed through his offspring; that he would make him as numerous as the dust of the earth, and exalt his offspring like the stars, and give them an inheritance from sea to sea and from the Euphrates to the ends of the earth.",
+      "links": [
+        "Gen 22:16-18",
+        "Gen 15:5",
+        "Gal 3:16"
+      ],
+      "comment": "The oath to Abraham assured the multiplication of his descendants and their inheritance (Genesis 22:16–18), underscoring God’s sovereign blessing through Abraham’s line."
     },
     {
       "pk": 28044022,
@@ -267,9 +311,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 44,
       "verse": 22,
-      "text": "Out of him came a man of mercy who found favor in the sight of all living—Moses, beloved of God and men.",
-      "links": "<a href='/AIV/02/2/2'>Exod. 2:2</a>; <a href='/AIV/58/3/1-6'>Heb. 3:1-6</a>",
-      "comment": "Moses as a mediator between God and His people is a type of Christ, who is the ultimate mediator and priest (cf. Heb. 3).",
+      "text": "To Isaac also he gave the same assurance for the sake of his father Abraham. The blessing of all people and the covenant",
+      "links": [
+        "Gen 26:3-4",
+        "Gen 28:13-14",
+        "Ps 105:9"
+      ],
+      "comment": "Isaac, as Abraham’s son, inherits the same blessing, demonstrating God's faithfulness across generations (Genesis 26:2–5).",
       "sectionHeader": "The Election of Moses"
     },
     {
@@ -280,12 +328,16 @@
       "bookAbbreviation": "Sir",
       "chapter": 44,
       "verse": 23,
-      "text": "He made a covenant with him, granting commandments, and showed Him His glory upon the mountain, and exalted him with great honor.",
-      "links": "<a href='/AIV/02/24/12-18'>Exod. 24:12-18</a>; <a href='/AIV/02/34/29-35'>Exod. 34:29-35</a>; <a href='/AIV/40/17/1-5'>Matt. 17:1-5</a>",
-      "comment": "The giving of the Law and Moses’ vision of God’s glory prefigure Christ’s Transfiguration, where the full glory of God is revealed in Christ. Moses’ honor points to the reality of continued divine revelation, handed down through a divinely appointed order."
+      "text": "he made to rest on the head of Jacob; he acknowledged him with his blessings, and gave him his inheritance; he divided his portions, and distributed them among twelve tribes. Moses: From his descendants the Lord brought forth a godly man, who found favor in the sight of all.",
+      "links": [
+        "Gen 49:28",
+        "Deut 33:1",
+        "Ex 3:10"
+      ],
+      "comment": "Jacob receives the covenant promises and passes them to the twelve tribes, culminating in the rise of Moses, through whom God fulfills His purposes for Israel."
     }
   ],
-  "translatedAt": "2025-12-24T07:47:32.698Z",
+  "translatedAt": "2025-12-28T23:45:00.026Z",
   "sections": [
     {
       "title": "Praise of the Ancestors",

@@ -134,9 +134,13 @@
       "bookAbbreviation": "Matt",
       "chapter": 18,
       "verse": 11,
-      "text": "[For the Son of Man came to save what was lost.]",
-      "links": "<a href='/AIV/42/19/10'>Luke 19:10</a>; <a href='/AIV/26/34/16'>Ezek. 34:16</a>",
-      "comment": "Some manuscripts do not include this verse. Where it occurs, it emphasizes Jesus’ mission to seek the lost. Echoes prophecies about the Shepherd rescuing lost sheep in the Old Testament."
+      "text": "",
+      "links": [
+        "Luke 19:10",
+        "Matt 9:13",
+        "Ezek 34:16"
+      ],
+      "comment": "This verse is omitted in accordance with the RSVCE, as it does not appear in the oldest manuscripts."
     },
     {
       "pk": 47018012,
@@ -185,7 +189,7 @@
       "verse": 15,
       "text": "If your brother sins against you, go and show him his fault, just between the two of you. If he listens to you, you have won your brother over.",
       "links": "<a href='/AIV/03/19/17'>Lev. 19:17</a>; <a href='/AIV/48/6/1'>Gal. 6:1</a>",
-      "comment": "The process for reconciliation within the community begins with private correction first, emphasizing humility and restoration.",
+      "comment": "Jesus emphasizes reconciliation and direct, private confrontation within the community, reflecting Jewish traditions of settling disputes amicably; restoring relationship is the goal, echoing Proverbs 25:9 and anticipating the broader process detailed in verses 16-17.",
       "sectionHeader": "A Brother Who Sins"
     },
     {
@@ -366,7 +370,11 @@
       "chapter": 18,
       "verse": 30,
       "text": "But he refused and went and put him in prison until he should pay the debt.",
-      "links": "",
+      "links": [
+        "Matt 18:34",
+        "Jas 2:13",
+        "Luke 6:36"
+      ],
       "comment": "Jesus draws a stark contrast to God's mercy; the unmerciful servant exercises justice only, not mercy."
     },
     {
@@ -390,7 +398,11 @@
       "chapter": 18,
       "verse": 32,
       "text": "Then his master summoned him and said, 'You wicked servant! I forgave you all that debt because you pleaded with me.'",
-      "links": "",
+      "links": [
+        "Matt 6:14",
+        "Luke 7:42",
+        "Eph 4:32"
+      ],
       "comment": "A reminder that God’s forgiveness is contingent upon our willingness to forgive others."
     },
     {
@@ -430,7 +442,7 @@
       "comment": "Jesus concludes by restating the necessity of wholehearted forgiveness, which is foundational for life in the community of the faithful. Note: the spiritual principle here points to the seriousness of our cooperation with God's mercy towards ourselves and others."
     }
   ],
-  "translatedAt": "2025-12-24T10:12:30.534Z",
+  "translatedAt": "2025-12-29T00:34:46.865Z",
   "sections": [
     {
       "title": "Who Is the Greatest?",

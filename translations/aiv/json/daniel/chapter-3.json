@@ -256,7 +256,11 @@
       "chapter": 3,
       "verse": 21,
       "text": "So they were bound in their cloaks, tunics, head coverings, and other garments, and were thrown into the burning fiery furnace.",
-      "links": "",
+      "links": [
+        "Dan 3:15",
+        "Acts 7:58",
+        "Ps 66:12"
+      ],
       "comment": "Meticulous listing emphasizes the completeness and immediacy of the action and would have made their survival more conspicuous."
     },
     {
@@ -280,7 +284,11 @@
       "chapter": 3,
       "verse": 23,
       "text": "But these three men, Shadrach, Meshach, and Abednego, fell bound into the midst of the burning fiery furnace.",
-      "links": "",
+      "links": [
+        "Dan 3:6",
+        "Isa 43:2",
+        "Heb 11:34"
+      ],
       "comment": "The scene sets up the miracle by emphasizing that they fell in fully bound and clothed."
     },
     {
@@ -291,9 +299,13 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 24,
-      "text": "Then King Nebuchadnezzar was astonished and rose up in haste. He said to his counselors, 'Did we not throw three men bound into the fire?' They answered and said to the king, 'True, O king.'",
-      "links": "",
-      "comment": "The king’s shock begins the revelation of a supernatural presence in their deliverance."
+      "text": "They walked about in the midst of the flames, singing hymns to God and blessing the Lord.",
+      "links": [
+        "Acts 16:25",
+        "Ps 34:1",
+        "Ps 148:1-2"
+      ],
+      "comment": "The faithfulness of the three in the fire leads them to worship despite persecution, recalling the Psalms' association of praise amid suffering (cf. Ps 34:1; Acts 16:25)."
     },
     {
       "pk": 34003025,
@@ -303,9 +315,13 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 25,
-      "text": "He answered, 'But I see four men loose, walking in the midst of the fire, and they are unharmed; and the appearance of the fourth is like a son of the gods.'",
-      "links": "<a href='/AIV/27/6/22'>Dan. 6:22</a>; <a href='/AIV/1/18/10'>Gen. 18:10</a>",
-      "comment": "The fourth figure is traditionally interpreted as an angel, but there is also a strong tradition of seeing here a prefiguration of Christ’s presence even in the fire—a sign that God accompanies the faithful in their trials."
+      "text": "Then Azariah stood still in the fire and prayed aloud:",
+      "links": [
+        "Jon 2:1",
+        "Ps 50:15",
+        "Dan 6:10"
+      ],
+      "comment": "Azariah’s prayer from the midst of flames models intercessory prayer under duress, emphasizing dependence on God even in mortal danger."
     },
     {
       "pk": 34003026,
@@ -315,9 +331,13 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 26,
-      "text": "Then Nebuchadnezzar went near the opening of the burning fiery furnace and said, 'Shadrach, Meshach, and Abednego, servants of the Most High God, come out, and come here!' So Shadrach, Meshach, and Abednego came out from the midst of the fire.",
-      "links": "<a href='/AIV/27/4/2'>Dan. 4:2</a>",
-      "comment": "Nebuchadnezzar’s title for God, 'Most High God', acknowledges God’s supremacy above all pagan gods."
+      "text": "Blessed are you, O Lord, God of our ancestors, and worthy of praise; and glorious is your name forever!",
+      "links": [
+        "1 Chr 29:10-13",
+        "Ps 113:2-3",
+        "Rev 15:3-4"
+      ],
+      "comment": "This doxology reflects Jewish patterns of blessing God’s name, affirming God’s eternal glory—key themes also seen in Psalms and Jewish liturgy (cf. Ps 103:1, Neh 9:5)."
     },
     {
       "pk": 34003027,
@@ -327,8 +347,12 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 27,
-      "text": "And the satraps, prefects, governors, and the king’s counselors gathered together and saw that the fire had no power over the bodies of those men; their hair was not singed, their cloaks were not harmed, and there was no smell of fire on them.",
-      "links": "",
+      "text": "For you are just in all you have done; all your works are true and your ways right, and all your judgments are true.",
+      "links": [
+        "Deut 32:4",
+        "Ps 145:17",
+        "Rom 3:4"
+      ],
       "comment": "A complete deliverance. Similar miracles prefigure Christian resurrection, when the faithful will be protected and glorified beyond natural expectation (cf. 1 Cor. 15:42-44)."
     },
     {
@@ -339,7 +363,7 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 28,
-      "text": "Nebuchadnezzar spoke and said, 'Blessed be the God of Shadrach, Meshach, and Abednego, who has sent his angel and delivered his servants who trusted in him, and have defied the king’s command and yielded up their bodies, rather than serve or worship any god except their own God.'",
+      "text": "You have executed true judgments in all you have brought upon us and upon Jerusalem, the holy city of our ancestors; by a true judgment you have brought all this upon us because of our sins.",
       "links": "<a href='/AIV/27/6/22'>Dan. 6:22</a>; <a href='/AIV/45/12/1'>Rom. 12:1</a>",
       "comment": "Offering one’s body for faith, as these men did, is echoed in the New Testament as a living sacrifice (Rom. 12:1)."
     },
@@ -351,8 +375,12 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 29,
-      "text": "'Therefore I make a decree: Any people, nation, or language that speaks anything against the God of Shadrach, Meshach, and Abednego shall be cut in pieces, and their houses laid in ruins; for there is no other god who is able to save in this way.'",
-      "links": "",
+      "text": "For we have sinned and broken your law in turning away from you; in all matters we have sinned grievously.",
+      "links": [
+        "Ps 106:6",
+        "1 Kgs 8:47",
+        "Dan 9:5"
+      ],
       "comment": "Nebuchadnezzar’s decree, though harsh by modern standards, underscores the uniqueness and power of Israel’s God."
     },
     {
@@ -363,7 +391,7 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 30,
-      "text": "Then the king promoted Shadrach, Meshach, and Abednego in the province of Babylon.",
+      "text": "We have not obeyed your commandments, we have not kept them or done what you have commanded us for our own good.",
       "links": "<a href='/AIV/27/2/48-49'>Dan. 2:48-49</a>",
       "comment": "Through faithfulness under trial comes exaltation, a foreshadowing of the Christian teaching that those who humble themselves for God will be exalted (Matt. 23:12; Phil. 2:8-9)."
     },
@@ -375,7 +403,7 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 31,
-      "text": "And they walked about in the flames, singing to God and blessing the Lord.",
+      "text": "So all that you have brought upon us, and all that you have done to us, you have done by a true judgment.",
       "links": "<a href='/AIV/27/3/23-25'>Dan. 3:23-25 (Hebrew text)</a>; <a href='/AIV/19/22/3'>Ps. 22:3</a>",
       "comment": "This verse and the following ‘Song of the Three’ are found in the Septuagint and Latin Bible traditions, emphasizing the spiritual response of prayer and praise in adversity."
     },
@@ -387,8 +415,12 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 32,
-      "text": "Then Azariah stood and prayed this prayer; he opened his mouth in the midst of the fire and said:",
-      "links": "",
+      "text": "You have handed us over to our enemies, lawless and hateful rebels, and to an unjust king, the most wicked in all the world.",
+      "links": [
+        "Ps 44:12",
+        "Jer 21:7",
+        "Ezra 9:7"
+      ],
       "comment": "Azariah is the Hebrew name for Abednego, reflecting the continuity with his Jewish identity in prayer.",
       "sectionHeader": "The Prayer of Azariah"
     },
@@ -400,7 +432,7 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 33,
-      "text": "'Blessed are you, O Lord, God of our fathers, and worthy of praise; and your name is glorified forever.'",
+      "text": "And now we cannot open our mouths; we, your servants who worship you, have become a shame and a reproach.",
       "links": "<a href='/AIV/19/113/2'>Ps. 113:2</a>",
       "comment": "Commences a liturgical prayer, reflecting the pattern of confession, praise, and trust in divine mercy—models for Christian worship."
     },
@@ -412,7 +444,7 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 34,
-      "text": "'For you are just in all that you have done; all your works are true and your ways right, and all your judgments are truth.'",
+      "text": "For your name’s sake do not give us up forever, and do not annul your covenant.",
       "links": "<a href='/AIV/19/145/17'>Ps. 145:17</a>",
       "comment": "Proclaims God’s perfect justice—a foundational theme in Scripture."
     },
@@ -424,7 +456,7 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 35,
-      "text": "'You have judged us according to truth, in all you have brought upon us and upon Jerusalem, the holy city of our fathers; for in truth and justice you have done all these things on account of our sins.'",
+      "text": "Do not withdraw your mercy from us, for the sake of Abraham your beloved and for the sake of your servant Isaac and Israel your holy one,",
       "links": "<a href='/AIV/19/51/4'>Ps. 51:4</a>",
       "comment": "Acknowledges sin and the justice of exile—significant for understanding both the Old Covenant curses (Deut. 28) and God’s mercy."
     },
@@ -436,7 +468,7 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 36,
-      "text": "'For we have sinned and acted wickedly, departing from you.'",
+      "text": "to whom you promised to multiply their descendants like the stars of heaven and like the sand on the shore of the sea.",
       "links": "<a href='/AIV/19/106/6'>Ps. 106:6</a>",
       "comment": "Evokes the biblical tradition of corporate confession, anticipating elements of the penitential rites in Christian worship."
     },
@@ -448,7 +480,7 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 37,
-      "text": "'In everything you have done to us and to your holy city Jerusalem, you have dealt with true judgment, as you have brought all these things upon us for our sins.'",
+      "text": "For we, O Lord, have become fewer than any other nation, and are brought low this day in all the world because of our sins.",
       "links": "<a href='/AIV/16/9/33'>Neh. 9:33</a>",
       "comment": "Recognition that God’s chastisements are just foreshadows the New Testament call to self-examination and repentance (1 Cor. 11:31)."
     },
@@ -460,7 +492,7 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 38,
-      "text": "'For we have sinned and broken your law, turning away from you. We have sinned in every circumstance, and have not obeyed your commandments or done as you commanded us, for our own good.'",
+      "text": "In our day we have no ruler, or prophet, or leader, no burnt offering, or sacrifice, or oblation, or incense, no place to make an offering before you and to find mercy.",
       "links": "<a href='/AIV/5/30/2'>Deut. 30:2</a>",
       "comment": "Sin is identified with disobedience, and the commands of God are revealed as given for humankind’s own benefit."
     },
@@ -472,8 +504,12 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 39,
-      "text": "'Now, O Lord, our God, you have handed us over to our enemies, lawless and unjust, and to an unjust, rebellious king, the most evil in all the earth.'",
-      "links": "",
+      "text": "Yet with a contrite heart and a humble spirit may we be accepted,",
+      "links": [
+        "Ps 51:17",
+        "Is 57:15",
+        "Lk 18:13-14"
+      ],
       "comment": "The exile to Babylon is seen as both just discipline and a cry for Divine deliverance."
     },
     {
@@ -484,8 +520,12 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 40,
-      "text": "'Now we cannot open our mouths, disgrace and shame have come over your servants and your worshipers.'",
-      "links": "",
+      "text": "as though it were with burnt offerings of rams and bulls, or with tens of thousands of fat lambs; such may our sacrifice be in your sight today, and may we unreservedly follow you, for no shame will come to those who trust in you.",
+      "links": [
+        "Ps 51:16-17",
+        "Hos 6:6",
+        "Heb 13:15"
+      ],
       "comment": "A classic posture of humility and repentance before God, preparing for restoration."
     },
     {
@@ -496,7 +536,7 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 41,
-      "text": "'For your name’s sake, do not utterly forsake us, and do not break your covenant with us.'",
+      "text": "And now with all our heart we follow you; we fear you and seek your presence.",
       "links": "<a href='/AIV/3/26/44'>Lev. 26:44-45</a>",
       "comment": "Appeal to God’s faithfulness to His covenant, a motif that underlies Christian trust in the new and everlasting covenant."
     },
@@ -508,7 +548,7 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 42,
-      "text": "'Do not withdraw your mercy from us, for the sake of Abraham your beloved, Isaac your servant, and Israel your holy one,'",
+      "text": "Do not put us to shame, but deal with us in your patience and in your abundant mercy.",
       "links": "<a href='/AIV/1/13/15'>Gen. 13:15</a>",
       "comment": "Confirms the power of intercessory prayer and the continuity of God’s promises through the patriarchs—a major biblical theme."
     },
@@ -520,7 +560,7 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 43,
-      "text": "'to whom you promised to multiply their offspring as the stars of heaven, and as the sand that is beside the seashore.'",
+      "text": "Deliver us in accordance with your marvelous works, and bring glory to your name, O Lord.",
       "links": "<a href='/AIV/1/22/17'>Gen. 22:17</a>",
       "comment": "Restates Abrahamic covenant with metaphors used by both Old and New Testaments."
     },
@@ -532,7 +572,7 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 44,
-      "text": "'We, O Lord, are reduced to the least among all nations, scattered and brought low because of our sins at this time.'",
+      "text": "Let all who do harm to your servants be put to shame; let them be disgraced and deprived of all power, and let their strength be broken.",
       "links": "<a href='/AIV/19/44/11'>Ps. 44:11</a>",
       "comment": "The litany of humility is reminiscent of Israel’s repeated exile and a pattern of spiritual exile and restoration."
     },
@@ -544,7 +584,7 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 45,
-      "text": "'And there is at this time no prince, or prophet, or leader, or burnt offering, or sacrifice, or oblation, or incense, or place to offer before you and to find mercy.'",
+      "text": "Let them know that you alone are the Lord God, glorious over the whole world.",
       "links": "<a href='/AIV/28/3/4'>Hos. 3:4</a>",
       "comment": "Absence of sacrificial worship is keenly felt. This verse foreshadows hope for a new and spiritual offering, as fulfilled in the Christian age (Heb. 10:14)."
     },
@@ -556,9 +596,13 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 46,
-      "text": "'But with a contrite heart and humble spirit may we be accepted, as though it were with burnt offerings of rams and bulls, and with tens of thousands of fat lambs; such may our sacrifice be in your presence today and may we wholly follow you, for there will be no shame for those who trust in you.'",
-      "links": "<a href='/AIV/19/51/17'>Ps. 51:17</a>",
-      "comment": "Spiritual sacrifice of the heart comes to the forefront; this resonates with the New Testament understanding of true worship (John 4:24; Rom. 12:1)."
+      "text": "So the king's servants who cast them in did not cease kindling the furnace with naphtha, pitch, tow, and brushwood.",
+      "links": [
+        "Dan 3:22",
+        "Judg 16:29-30",
+        "Ps 7:16"
+      ],
+      "comment": "The relentless stoking of the furnace demonstrates the king’s intent to ensure total destruction, highlighting the intensity of opposition to the young men’s faith."
     },
     {
       "pk": 34003047,
@@ -568,9 +612,13 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 47,
-      "text": "'And now we follow you with our whole heart, we fear you and seek your face.'",
-      "links": "<a href='/AIV/5/4/29'>Deut. 4:29</a>",
-      "comment": "Echoes the primacy of love and interior devotion—Jesus would later teach that the greatest commandment is love of God with heart, soul, and strength (Mark 12:30)."
+      "text": "And the flame streamed out above the furnace forty-nine cubits,",
+      "links": [
+        "Dan 3:19",
+        "Ps 124:2-3",
+        "Isa 5:24"
+      ],
+      "comment": "The exaggerated height of the flames (forty-nine cubits) underscores the miraculous nature of the deliverance, a literary device common in biblical storytelling."
     },
     {
       "pk": 34003048,
@@ -580,9 +628,13 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 48,
-      "text": "'Do not let us be put to shame but deal with us in your forbearance and in your abundant mercy.'",
-      "links": "",
-      "comment": "The prayer requests God’s compassion in light of human frailty, consistent with prophetic themes (Hos. 14:2-4)."
+      "text": "and it broke through and burned those of the Chaldeans whom it caught about the furnace.",
+      "links": [
+        "Dan 3:22",
+        "Ps 37:20",
+        "Esth 7:10"
+      ],
+      "comment": "The fire miraculously reverses targets, consuming the Chaldeans instead and echoing the biblical motif of divine retribution (cf. Esther 7:10)."
     },
     {
       "pk": 34003049,
@@ -592,9 +644,13 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 49,
-      "text": "'Deliver us in accordance with your wondrous works, and give glory to your name, O Lord.'",
-      "links": "<a href='/AIV/19/79/9'>Ps. 79:9</a>",
-      "comment": "Deliverance is petitioned not for personal merit but for the hallowing of God’s name, as paralleled in the Lord’s Prayer (Matt. 6:9)."
+      "text": "But the angel of the Lord came down into the furnace to be with Azariah and his companions, and drove the fiery flame out of the furnace,",
+      "links": [
+        "Dan 6:22",
+        "Ps 91:11-12",
+        "Acts 12:7"
+      ],
+      "comment": "The angel of the Lord’s presence signifies God’s immediate intervention, aligning with appearances of divine deliverance elsewhere (cf. Exod 14:19; Dan 6:22)."
     },
     {
       "pk": 34003050,
@@ -604,9 +660,13 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 50,
-      "text": "Then the angel of the Lord descended into the furnace to be with Azariah and his companions and drove the fiery flame out of the furnace,",
-      "links": "<a href='/AIV/2/3/2'>Ex. 3:2</a>",
-      "comment": "The angel’s protective presence prefigures Christ’s constant presence with the Church in tribulation (Matt. 28:20)."
+      "text": "and made the inside of the furnace as though a moist wind were whistling through it. The fire did not touch them at all and caused them no pain or distress.",
+      "links": [
+        "Isa 43:2",
+        "Heb 11:34",
+        "Ps 91:4"
+      ],
+      "comment": "A moist wind replaces destructive fire, signifying God’s complete power over nature and recalling His protection of His people (cf. Isa 43:2)."
     },
     {
       "pk": 34003051,
@@ -616,8 +676,12 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 51,
-      "text": "and made the midst of the furnace like a moist, whistling wind so that the fire did not touch them at all or cause them pain or harm.",
-      "links": "",
+      "text": "Then the three, as with one voice, praised, glorified, and blessed God within the furnace:",
+      "links": [
+        "Ps 34:1",
+        "Acts 16:25",
+        "Ps 148:1-2"
+      ],
       "comment": "This utterly miraculous rescinding of natural law is a strong biblical sign of God’s authority over creation."
     },
     {
@@ -629,7 +693,11 @@
       "chapter": 3,
       "verse": 52,
       "text": "Then the three, as with one mouth, praised and glorified and blessed God in the furnace, saying:",
-      "links": "",
+      "links": [
+        "Ps 103:1",
+        "Ps 33:1",
+        "Rev 19:6"
+      ],
       "comment": "Corporate, united praise in adversity demonstrates the biblical model for communal worship.",
       "sectionHeader": "The Song of the Three Young Men"
     },
@@ -702,7 +770,11 @@
       "chapter": 3,
       "verse": 58,
       "text": "'Bless the Lord, all you works of the Lord, sing praise to him and highly exalt him forever.'",
-      "links": "",
+      "links": [
+        "Ps 104:1-2",
+        "Ps 148:1-6",
+        "Rev 5:13"
+      ],
       "comment": "All of creation is called to bless God, anticipating the cosmic worship in the New Testament (Rev. 5:13)."
     },
     {
@@ -714,7 +786,11 @@
       "chapter": 3,
       "verse": 59,
       "text": "'Bless the Lord, you heavens, sing praise to him and highly exalt him forever.'",
-      "links": "",
+      "links": [
+        "Ps 19:1",
+        "Ps 148:4",
+        "Rev 21:23"
+      ],
       "comment": "The litany continues to summon all creation to praise, showing an all-encompassing vision of worship."
     },
     {
@@ -739,7 +815,7 @@
       "verse": 61,
       "text": "'Bless the Lord, all you waters above the sky, sing praise to him and highly exalt him forever.'",
       "links": "<a href='/AIV/1/1/7'>Gen. 1:7</a>",
-      "comment": ""
+      "comment": "This call for the waters above the heavens to bless God reflects ancient Hebrew cosmology (Gen 1:6–7) and the unity of all creation in praise."
     },
     {
       "pk": 34003062,
@@ -750,8 +826,12 @@
       "chapter": 3,
       "verse": 62,
       "text": "'Bless the Lord, all you powers of the Lord, sing praise to him and highly exalt him forever.'",
-      "links": "",
-      "comment": ""
+      "links": [
+        "Ps 103:20-21",
+        "Ps 148:2",
+        "Rev 5:11"
+      ],
+      "comment": "Addressing the 'powers' (heavenly hosts), the hymn recognizes that even spiritual beings are summoned to worship the Lord (cf. Ps 103:20–21)."
     },
     {
       "pk": 34003063,
@@ -763,7 +843,7 @@
       "verse": 63,
       "text": "'Bless the Lord, sun and moon, sing praise to him and highly exalt him forever.'",
       "links": "<a href='/AIV/1/1/16'>Gen. 1:16</a>",
-      "comment": ""
+      "comment": "The sun and moon, prominent symbols of pagan worship, are called to direct their praise to the true God, asserting monotheistic supremacy."
     },
     {
       "pk": 34003064,
@@ -774,8 +854,12 @@
       "chapter": 3,
       "verse": 64,
       "text": "'Bless the Lord, stars of heaven, sing praise to him and highly exalt him forever.'",
-      "links": "",
-      "comment": ""
+      "links": [
+        "Ps 148:3",
+        "Gen 1:16",
+        "Job 38:7"
+      ],
+      "comment": "The stars, often worshiped in Babylonian religion, are depicted as praising the Lord, subverting idolatry through their true purpose."
     },
     {
       "pk": 34003065,
@@ -786,8 +870,12 @@
       "chapter": 3,
       "verse": 65,
       "text": "'Bless the Lord, every shower and dew, sing praise to him and highly exalt him forever.'",
-      "links": "",
-      "comment": ""
+      "links": [
+        "Ps 147:8",
+        "Deut 32:2",
+        "Job 38:28"
+      ],
+      "comment": "Natural phenomena like showers and dew bless God, reflecting the comprehensive praise of all creation found in Psalms (cf. Ps 148:8)."
     },
     {
       "pk": 34003066,
@@ -798,8 +886,12 @@
       "chapter": 3,
       "verse": 66,
       "text": "'Bless the Lord, all winds, sing praise to him and highly exalt him forever.'",
-      "links": "",
-      "comment": ""
+      "links": [
+        "Ps 148:8",
+        "John 3:8",
+        "Eccl 1:6"
+      ],
+      "comment": "Even the winds—commonly perceived as powerful but unpredictable—submit to and glorify their Creator."
     },
     {
       "pk": 34003067,
@@ -810,8 +902,12 @@
       "chapter": 3,
       "verse": 67,
       "text": "'Bless the Lord, fire and heat, sing praise to him and highly exalt him forever.'",
-      "links": "",
-      "comment": ""
+      "links": [
+        "Ex 3:2",
+        "Deut 4:24",
+        "Ps 148:8"
+      ],
+      "comment": "Fire and heat, the instruments of attempted destruction, themselves praise the Lord, highlighting God’s sovereignty over elements."
     },
     {
       "pk": 34003068,
@@ -822,8 +918,12 @@
       "chapter": 3,
       "verse": 68,
       "text": "'Bless the Lord, cold and chill, sing praise to him and highly exalt him forever.'",
-      "links": "",
-      "comment": ""
+      "links": [
+        "Ps 147:16-17",
+        "Job 37:10",
+        "Ps 148:8"
+      ],
+      "comment": "Cold and chill serve as further witnesses to God's greatness, emphasizing the breadth of creation’s call to worship."
     },
     {
       "pk": 34003069,
@@ -834,8 +934,12 @@
       "chapter": 3,
       "verse": 69,
       "text": "'Bless the Lord, dew and snow, sing praise to him and highly exalt him forever.'",
-      "links": "",
-      "comment": ""
+      "links": [
+        "Job 38:22-23",
+        "Ps 147:16",
+        "Ps 148:8"
+      ],
+      "comment": "Even dew and snow, familiar elements in the ancient Near East, are summoned to participate in the cosmic praise."
     },
     {
       "pk": 34003070,
@@ -846,8 +950,12 @@
       "chapter": 3,
       "verse": 70,
       "text": "'Bless the Lord, nights and days, sing praise to him and highly exalt him forever.'",
-      "links": "",
-      "comment": ""
+      "links": [
+        "Gen 1:5",
+        "Ps 74:16",
+        "Ps 104:19-20"
+      ],
+      "comment": "Nights and days, fundamental markers of time, are personified in giving continuous praise to God."
     },
     {
       "pk": 34003071,
@@ -858,8 +966,12 @@
       "chapter": 3,
       "verse": 71,
       "text": "'Bless the Lord, light and darkness, sing praise to him and highly exalt him forever.'",
-      "links": "",
-      "comment": ""
+      "links": [
+        "Gen 1:4",
+        "Isa 45:7",
+        "Ps 74:16"
+      ],
+      "comment": "Light and darkness, often symbolic of good and evil, together acknowledge God’s lordship over all reality (cf. Isa 45:7)."
     },
     {
       "pk": 34003072,
@@ -870,8 +982,12 @@
       "chapter": 3,
       "verse": 72,
       "text": "'Bless the Lord, ice and frost, sing praise to him and highly exalt him forever.'",
-      "links": "",
-      "comment": ""
+      "links": [
+        "Ps 147:17",
+        "Job 38:29",
+        "Ps 148:8"
+      ],
+      "comment": "Ice and frost, adverse and sometimes dangerous phenomena, are included, indicating nothing in creation is outside God’s dominion."
     },
     {
       "pk": 34003073,
@@ -882,8 +998,12 @@
       "chapter": 3,
       "verse": 73,
       "text": "'Bless the Lord, frost and cold, sing praise to him and highly exalt him forever.'",
-      "links": "",
-      "comment": ""
+      "links": [
+        "Ps 147:17",
+        "Job 38:29",
+        "Ps 148:8"
+      ],
+      "comment": "Again, frost and cold are called to bless, reinforcing the totality of creation’s response to God."
     },
     {
       "pk": 34003074,
@@ -894,8 +1014,12 @@
       "chapter": 3,
       "verse": 74,
       "text": "'Bless the Lord, hoarfrost and snow, sing praise to him and highly exalt him forever.'",
-      "links": "",
-      "comment": ""
+      "links": [
+        "Ps 147:16",
+        "Job 38:29",
+        "Ps 148:8"
+      ],
+      "comment": "Hoarfrost and snow’s inclusion further illustrates how every aspect of the natural world testifies to and glorifies its Maker."
     },
     {
       "pk": 34003075,
@@ -906,8 +1030,12 @@
       "chapter": 3,
       "verse": 75,
       "text": "'Bless the Lord, nights and days, sing praise to him and highly exalt him forever.'",
-      "links": "",
-      "comment": ""
+      "links": [
+        "Ps 74:16",
+        "Gen 1:5",
+        "Ps 148:8"
+      ],
+      "comment": "Repeating nights and days stresses perpetual praise—creation's worship is unceasing and cyclical."
     },
     {
       "pk": 34003076,
@@ -918,8 +1046,12 @@
       "chapter": 3,
       "verse": 76,
       "text": "'Bless the Lord, light and darkness, sing praise to him and highly exalt him forever.'",
-      "links": "",
-      "comment": ""
+      "links": [
+        "Gen 1:4",
+        "Is 45:7",
+        "Ps 148:8"
+      ],
+      "comment": "Repetition of light and darkness underscores the point that every condition of existence glorifies God."
     },
     {
       "pk": 34003077,
@@ -930,8 +1062,12 @@
       "chapter": 3,
       "verse": 77,
       "text": "'Bless the Lord, lightning and clouds, sing praise to him and highly exalt him forever.'",
-      "links": "",
-      "comment": ""
+      "links": [
+        "Ps 148:8",
+        "Ex 19:16",
+        "Ezek 1:13-14"
+      ],
+      "comment": "Lightning and clouds, visible signs of divine power, are recognized as subjects of God and instruments of His praise."
     },
     {
       "pk": 34003078,
@@ -943,7 +1079,7 @@
       "verse": 78,
       "text": "'Let the earth bless the Lord, sing praise to him and highly exalt him forever.'",
       "links": "<a href='/AIV/19/24/1'>Ps. 24:1</a>",
-      "comment": ""
+      "comment": "The earth itself is called to bless the Lord, uniting all creation in recognition of His sovereignty (cf. Ps 148:7)."
     },
     {
       "pk": 34003079,
@@ -954,8 +1090,12 @@
       "chapter": 3,
       "verse": 79,
       "text": "'Bless the Lord, mountains and hills, sing praise to him and highly exalt him forever.'",
-      "links": "",
-      "comment": ""
+      "links": [
+        "Ps 148:9",
+        "Ps 65:6",
+        "Ps 104:32"
+      ],
+      "comment": "Mountains and hills, longstanding symbols of stability and grandeur, join the chorus of cosmic praise."
     },
     {
       "pk": 34003080,
@@ -966,8 +1106,12 @@
       "chapter": 3,
       "verse": 80,
       "text": "'Bless the Lord, all things growing on the earth, sing praise to him and highly exalt him forever.'",
-      "links": "",
-      "comment": ""
+      "links": [
+        "Gen 1:11-12",
+        "Ps 104:14",
+        "Ps 148:9"
+      ],
+      "comment": "All vegetation—sources of life and sustenance—are included, underscoring God’s provision and creativity."
     },
     {
       "pk": 34003081,
@@ -978,8 +1122,12 @@
       "chapter": 3,
       "verse": 81,
       "text": "'Bless the Lord, springs of water, sing praise to him and highly exalt him forever.'",
-      "links": "",
-      "comment": ""
+      "links": [
+        "Ps 104:10",
+        "Ps 147:18",
+        "Ps 148:8"
+      ],
+      "comment": "Springs, vital in arid climates, highlight God’s sustenance and ongoing provision for life."
     },
     {
       "pk": 34003082,
@@ -990,8 +1138,12 @@
       "chapter": 3,
       "verse": 82,
       "text": "'Bless the Lord, seas and rivers, sing praise to him and highly exalt him forever.'",
-      "links": "",
-      "comment": ""
+      "links": [
+        "Ps 104:25",
+        "Job 38:16",
+        "Ps 148:7"
+      ],
+      "comment": "Seas and rivers, powerful and mysterious in ancient thought, are directed to praise the Creator, not to be feared or worshiped themselves."
     },
     {
       "pk": 34003083,
@@ -1002,8 +1154,12 @@
       "chapter": 3,
       "verse": 83,
       "text": "'Bless the Lord, you whales and all that move in the waters, sing praise to him and highly exalt him forever.'",
-      "links": "",
-      "comment": ""
+      "links": [
+        "Ps 148:7",
+        "Gen 1:20-21",
+        "Ps 104:26"
+      ],
+      "comment": "Sea creatures, including great whales (monsters of the deep in ancient myth), yield to and praise the sovereign God (cf. Ps 148:7)."
     },
     {
       "pk": 34003084,
@@ -1014,8 +1170,12 @@
       "chapter": 3,
       "verse": 84,
       "text": "'Bless the Lord, all birds of the air, sing praise to him and highly exalt him forever.'",
-      "links": "",
-      "comment": ""
+      "links": [
+        "Gen 1:20",
+        "Ps 104:12",
+        "Ps 148:10"
+      ],
+      "comment": "Birds of the air, symbols of liberty and diversity, are included in creation’s doxology."
     },
     {
       "pk": 34003085,
@@ -1026,8 +1186,12 @@
       "chapter": 3,
       "verse": 85,
       "text": "'Bless the Lord, all beasts and cattle, sing praise to him and highly exalt him forever.'",
-      "links": "",
-      "comment": ""
+      "links": [
+        "Gen 1:24",
+        "Ps 104:14",
+        "Ps 148:10"
+      ],
+      "comment": "All beasts and cattle—domesticated and wild—testify to the Lord’s creative power."
     },
     {
       "pk": 34003086,
@@ -1038,7 +1202,11 @@
       "chapter": 3,
       "verse": 86,
       "text": "'Bless the Lord, sons of men, sing praise to him and highly exalt him forever.'",
-      "links": "",
+      "links": [
+        "Gen 1:26",
+        "Ps 148:11-12",
+        "Ps 8:4-6"
+      ],
       "comment": "Humanity is called to join creation in praising God—a foretaste of the fulfillment of man’s calling in Christ."
     },
     {
@@ -1050,8 +1218,12 @@
       "chapter": 3,
       "verse": 87,
       "text": "'Bless the Lord, Israel, sing praise to him and highly exalt him forever.'",
-      "links": "",
-      "comment": ""
+      "links": [
+        "Isa 44:1",
+        "Ps 148:14",
+        "Rom 9:4"
+      ],
+      "comment": "Israel is called as God's covenant people to lead in and model praise, reflecting their unique relationship with God."
     },
     {
       "pk": 34003088,
@@ -1074,8 +1246,12 @@
       "chapter": 3,
       "verse": 89,
       "text": "'Bless the Lord, you servants of the Lord, sing praise to him and highly exalt him forever.'",
-      "links": "",
-      "comment": ""
+      "links": [
+        "Ps 134:1",
+        "Ps 135:1-2",
+        "Rev 7:15"
+      ],
+      "comment": "The servants of the Lord—likely priests and worshippers—are summoned as leaders of communal worship."
     },
     {
       "pk": 34003090,
@@ -1097,9 +1273,13 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 91,
-      "text": "'Bless the Lord, you holy and humble of heart, sing praise to him and highly exalt him forever.'",
-      "links": "<a href='/AIV/19/34/18'>Ps. 34:18</a>",
-      "comment": "Humility and holiness are always linked as prerequisites for true worship."
+      "text": "Hearing them singing, and amazed at seeing them alive, King Nebuchadnezzar quickly rose up. He said to his counselors, \"Was it not three men that we threw bound into the fire?\" They answered the king, \"True, O king.\"",
+      "links": [
+        "Dan 3:24",
+        "Acts 26:8",
+        "Mark 16:6"
+      ],
+      "comment": "Nebuchadnezzar’s astonishment affirms the miraculous deliverance and sets the stage for recognition of God’s supremacy."
     },
     {
       "pk": 34003092,
@@ -1109,9 +1289,13 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 92,
-      "text": "'Bless the Lord, Hananiah, Azariah, and Mishael, sing praise to him and highly exalt him forever. For he has rescued us from Hades and saved us from the power of death, and he delivered us from the midst of the burning, flaming furnace; from the midst of the fire he rescued us.'",
-      "links": "<a href='/AIV/27/6/22'>Dan. 6:22</a>; <a href='/AIV/40/16/18'>Matt. 16:18</a>",
-      "comment": "God’s rescue ‘from the power of death’ is a clear prototype for Christian salvation in Christ, who saves from the ultimate death."
+      "text": "He replied, \"But I see four men, unbound, walking in the middle of the fire, and they are not hurt; and the fourth has the appearance of a god.\"",
+      "links": [
+        "Gen 18:2",
+        "Dan 6:22",
+        "Rev 1:13-15"
+      ],
+      "comment": "The presence of a fourth figure 'like a god' (angelic or divine) reveals God’s intimate protection—paralleling angelic deliverances elsewhere (cf. Dan 6:22)."
     },
     {
       "pk": 34003093,
@@ -1121,9 +1305,13 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 93,
-      "text": "'Give thanks to the Lord, for he is good, for his mercy endures forever.'",
-      "links": "<a href='/AIV/19/136/1'>Ps. 136:1</a>",
-      "comment": "This refrain recurs throughout the Old Testament and in Christian liturgy, emphasizing God’s steadfast love."
+      "text": "Nebuchadnezzar then approached the door of the furnace of blazing fire and said, \"Shadrach, Meshach, and Abednego, servants of the Most High God, come out! Come here!\" So Shadrach, Meshach, and Abednego came out from the fire.",
+      "links": [
+        "Dan 6:20",
+        "Acts 16:39",
+        "Matt 8:28-32"
+      ],
+      "comment": "The king’s acknowledgment and command reflects a transformative moment, recognizing the unique authority of Israel’s God."
     },
     {
       "pk": 34003094,
@@ -1133,9 +1321,13 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 94,
-      "text": "'All you who worship the Lord, bless the God of gods, praise him and give him thanks, for his mercy endures forever.'",
-      "links": "",
-      "comment": "The song concludes with a universal call to worship the one true God."
+      "text": "And the satraps, the prefects, the governors, and the king’s counselors gathered together and saw that the fire had no power over the bodies of those men; the hair of their heads was not singed, their garments were not harmed, and no smell of fire had come upon them.",
+      "links": [
+        "Dan 6:23",
+        "Isa 43:2",
+        "Heb 11:34"
+      ],
+      "comment": "The officials witness the total preservation of the Hebrews—an unmistakable sign by which God’s power is made visible to all."
     },
     {
       "pk": 34003095,
@@ -1145,9 +1337,13 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 95,
-      "text": "Then King Nebuchadnezzar was astonished and rose up in haste. He said to his counselors, 'Did we not throw three men bound into the fire?' They answered and said, 'True, O king.'",
-      "links": "<a href='/AIV/27/3/24'>Dan. 3:24</a>",
-      "comment": "Text returns to the Aramaic. Repetition emphasizes the miraculous nature of what has just been witnessed.",
+      "text": "Nebuchadnezzar said, \"Blessed be the God of Shadrach, Meshach, and Abednego, who has sent his angel and delivered his servants who trusted in him. They disobeyed the king's command and yielded up their bodies rather than serve and worship any god except their own God.\"",
+      "links": [
+        "Ps 34:7",
+        "Heb 11:34",
+        "Acts 5:29"
+      ],
+      "comment": "Nebuchadnezzar blesses the God of the three, declaring their loyalty and God’s deliverance—a powerful testimony against idolatry.",
       "sectionHeader": "The Deliverance from the Furnace"
     },
     {
@@ -1158,9 +1354,13 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 96,
-      "text": "He answered and said, 'But I see four men unbound, walking in the midst of the fire, and they are unhurt; and the appearance of the fourth is like a son of the gods.'",
-      "links": "<a href='/AIV/27/3/25'>Dan. 3:25</a>",
-      "comment": ""
+      "text": "Therefore I make a decree: Any people, nation, or language that speaks against the God of Shadrach, Meshach, and Abednego shall be torn limb from limb, and their houses laid in ruins; for there is no other god who is able to deliver in this way.\"",
+      "links": [
+        "Isa 43:11",
+        "Acts 4:12",
+        "Dan 6:26"
+      ],
+      "comment": "Nebuchadnezzar's decree, following the miraculous deliverance of Shadrach, Meshach, and Abednego (cf. Dan 3:28-29), recognizes the unique power of their God; his violent language reflects ancient Near Eastern customs of enforcing royal authority, highlighting the theme that God’s sovereignty surpasses all earthly rulers (cf. Daniel 6:26-27)."
     },
     {
       "pk": 34003097,
@@ -1170,9 +1370,13 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 97,
-      "text": "Then Nebuchadnezzar approached the opening of the fiery furnace and said, 'Shadrach, Meshach, and Abednego, servants of the Most High God, come out and come here.' So Shadrach, Meshach, and Abednego came out from the fire.",
-      "links": "<a href='/AIV/27/3/26'>Dan. 3:26</a>",
-      "comment": ""
+      "text": "Then the king promoted Shadrach, Meshach, and Abednego in the province of Babylon.",
+      "links": [
+        "Dan 2:48-49",
+        "Gen 41:41-43",
+        "Esth 6:10-11"
+      ],
+      "comment": "The promotion is both a reward for faithfulness and evidence of God’s ability to elevate His servants even in exile."
     },
     {
       "pk": 34003098,
@@ -1184,7 +1388,7 @@
       "verse": 98,
       "text": "The satraps, prefects, governors, and the king’s counselors gathered together and saw that the fire had not touched the bodies of those men, nor was the hair of their heads singed, their cloaks unchanged, and no smell of fire on them.",
       "links": "<a href='/AIV/27/3/27'>Dan. 3:27</a>",
-      "comment": ""
+      "comment": "A repetition for emphasis, highlighting the thoroughness of God’s deliverance and the collective awe it inspired among Babylon’s officials."
     },
     {
       "pk": 34003099,
@@ -1211,7 +1415,7 @@
       "comment": "The story closes with broad recognition of God’s saving power. The witness of the faithful is vindicated before the world."
     }
   ],
-  "translatedAt": "2025-12-24T09:29:42.290Z",
+  "translatedAt": "2025-12-29T00:33:28.318Z",
   "sections": [
     {
       "title": "The Golden Image and the King's Decree",

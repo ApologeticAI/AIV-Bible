@@ -13,7 +13,11 @@
       "chapter": 11,
       "verse": 1,
       "text": "I wish you would bear with me in a little foolishness. Yes, please bear with me.",
-      "links": "",
+      "links": [
+        "2 Cor 11:16",
+        "1 Cor 4:10",
+        "2 Cor 12:6"
+      ],
       "comment": "Here, Paul admits his words may sound boastful but asks for patience from his readers. His humility reflects how true apostles sometimes must defend their ministry for the good of the Church (cf. 1 Cor. 4:10).",
       "sectionHeader": "Paul Warns Against False Apostles"
     },
@@ -122,7 +126,11 @@
       "chapter": 11,
       "verse": 10,
       "text": "As the truth of Christ is in me, no one in the regions of Achaia will stop this boast of mine.",
-      "links": "",
+      "links": [
+        "Rom 9:1",
+        "2 Cor 1:23",
+        "Gal 1:20"
+      ],
       "comment": "Paul asserts genuine motives in his ministry, grounded in Christ's truth. His actions reflect how apostles are called to imitate Christ’s truthfulness (see Rom. 9:1)."
     },
     {
@@ -146,7 +154,11 @@
       "chapter": 11,
       "verse": 12,
       "text": "But what I am doing I will continue to do, to cut off the opportunity from those who want an opportunity to be regarded as our equals in the things they boast about.",
-      "links": "",
+      "links": [
+        "2 Cor 11:19",
+        "2 Cor 11:22-23",
+        "Gal 2:4"
+      ],
       "comment": "Paul is intentional about exposing false teachers by refusing their methods. The apostles had a special commission from Christ, and not everyone who claims leadership truly has Christ’s authority."
     },
     {
@@ -194,7 +206,11 @@
       "chapter": 11,
       "verse": 16,
       "text": "I repeat, let no one think me foolish. But even if you do, accept me as a fool, so that I too may boast a little.",
-      "links": "",
+      "links": [
+        "2 Cor 11:1",
+        "2 Cor 12:6",
+        "1 Cor 4:10"
+      ],
       "comment": "Paul engages in ‘foolish’ boasting to contrast spiritual humility with the pride of false teachers. True leaders sometimes defend their ministry for the sake of their flock.",
       "sectionHeader": "Paul's Boasting as a Fool"
     },
@@ -207,7 +223,11 @@
       "chapter": 11,
       "verse": 17,
       "text": "What I am saying with this boastful confidence, I say not according to the Lord, but as foolishness, in this confidence of boasting.",
-      "links": "",
+      "links": [
+        "2 Cor 10:8",
+        "2 Cor 11:21",
+        "2 Cor 12:11"
+      ],
       "comment": "Paul differentiates his method here from Christ’s usual pattern. He stoops to irony to protect his congregation in the context of spiritual danger."
     },
     {
@@ -219,7 +239,11 @@
       "chapter": 11,
       "verse": 18,
       "text": "Since many boast according to the flesh, I too will boast.",
-      "links": "",
+      "links": [
+        "2 Cor 5:16",
+        "Phil 3:4-6",
+        "2 Cor 10:8"
+      ],
       "comment": "Paul matches the rhetorical tactics of the false teachers but will point to the worth of his suffering for Christ, not worldly achievement."
     },
     {
@@ -231,7 +255,11 @@
       "chapter": 11,
       "verse": 19,
       "text": "For you gladly put up with fools, since you are wise yourselves!",
-      "links": "",
+      "links": [
+        "1 Cor 4:10",
+        "2 Cor 11:1",
+        "Gal 6:3"
+      ],
       "comment": "Paul’s sarcasm exposes the Corinthians’ openness to being misled, warning believers not to abandon sound doctrine in favor of novel teachings."
     },
     {
@@ -243,7 +271,11 @@
       "chapter": 11,
       "verse": 20,
       "text": "For you bear it if someone enslaves you, devours you, takes advantage of you, exalts himself, or strikes you in the face.",
-      "links": "",
+      "links": [
+        "Gal 2:4",
+        "2 Cor 1:24",
+        "2 Cor 12:13"
+      ],
       "comment": "Paul lists abuses tolerated under false teachers. By contrast, the true ministry involves loving service and humility (see Matt. 20:26-28)."
     },
     {
@@ -255,7 +287,11 @@
       "chapter": 11,
       "verse": 21,
       "text": "To my shame, I must say, we were too weak for that! But whatever anyone else dares to boast of — I am speaking as a fool — I also dare to boast of that.",
-      "links": "",
+      "links": [
+        "2 Cor 10:10",
+        "2 Cor 12:11",
+        "1 Cor 4:10"
+      ],
       "comment": "Paul uses irony to show strength is found in Christian humility and weakness, not in abusive dominance (cf. 2 Cor. 12:9-10)."
     },
     {
@@ -328,7 +364,11 @@
       "chapter": 11,
       "verse": 27,
       "text": "in toil and hardship, through many sleepless nights, in hunger and thirst, often without food, in cold and exposure.",
-      "links": "",
+      "links": [
+        "1 Cor 4:11",
+        "2 Cor 6:5",
+        "Phil 4:12"
+      ],
       "comment": "Paul’s hardships mirror Christ’s own life on earth, emphasizing the cost of obedience and self-emptying in true Christian service."
     },
     {
@@ -340,7 +380,11 @@
       "chapter": 11,
       "verse": 28,
       "text": "And, besides these external things, there is the daily pressure on me of my anxiety for all the churches.",
-      "links": "",
+      "links": [
+        "Acts 20:18-20",
+        "1 Thess 3:10",
+        "Rom 9:2-3"
+      ],
       "comment": "Here, Paul speaks of spiritual concern for all the scattered Christian communities. Leadership in the universal Church carries a grave burden of care for unity and orthodoxy."
     },
     {
@@ -352,7 +396,11 @@
       "chapter": 11,
       "verse": 29,
       "text": "Who is weak, and I am not weak? Who is made to fall, and I do not burn with indignation?",
-      "links": "",
+      "links": [
+        "1 Cor 8:13",
+        "1 Cor 9:22",
+        "Gal 4:19"
+      ],
       "comment": "Paul’s empathetic suffering reveals the true pastoral heart. Authentic leaders share the struggles and weaknesses of the flock."
     },
     {

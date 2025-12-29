@@ -267,7 +267,11 @@
       "chapter": 1,
       "verse": 22,
       "text": "So they said to him, 'Who are you? We must give an answer to those who sent us. What do you say about yourself?'",
-      "links": "",
+      "links": [
+        "Matt 11:2-3",
+        "Luke 3:15",
+        "John 1:19"
+      ],
       "comment": "The religious authorities seek clarification for John’s ministry and identity. John’s response will clarify the role of prophecy and preparation for Christ."
     },
     {
@@ -291,7 +295,11 @@
       "chapter": 1,
       "verse": 24,
       "text": "Now they had been sent from the Pharisees.",
-      "links": "",
+      "links": [
+        "Matt 23:13",
+        "Luke 7:30",
+        "Acts 23:6"
+      ],
       "comment": "The Pharisees question John because of their role as religious guardians. Their leadership will come into frequent conflict with Jesus."
     },
     {
@@ -303,7 +311,11 @@
       "chapter": 1,
       "verse": 25,
       "text": "They asked him, 'Why then are you baptizing, if you are not the Messiah, nor Elijah, nor the Prophet?'",
-      "links": "",
+      "links": [
+        "Matt 3:11",
+        "Mark 1:7-8",
+        "Deut 18:15"
+      ],
       "comment": "Jewish leaders saw John's baptism as unusual apart from messianic authority. His answer points beyond himself to the one who is greater."
     },
     {
@@ -424,7 +436,11 @@
       "chapter": 1,
       "verse": 35,
       "text": "The next day, John was standing there again with two of his disciples.",
-      "links": "",
+      "links": [
+        "John 1:29",
+        "Matt 4:18-22",
+        "Luke 5:1-11"
+      ],
       "comment": "John's disciples will now be directed toward Jesus. This shows John’s humility and the new direction for God’s people.",
       "sectionHeader": "The First Disciples"
     },

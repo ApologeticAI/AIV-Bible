@@ -110,9 +110,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 1,
       "verse": 9,
-      "text": "And to all those in Samaria and its surrounding cities, and beyond Jordan as far as Jerusalem, Batane, Chelous, Kadesh, and the river of Egypt.",
-      "links": "<a href='/AIV/06/13/5-6'>Josh. 13:5-6</a>",
-      "comment": "The inclusion of Jerusalem region foreshadows the later importance of God’s people in the narrative, recalling God’s covenant promises (Gen. 17:7)."
+      "text": "and all who were in Samaria and its towns, and beyond the Jordan as far as Jerusalem and Bethany and Chelous and Kadesh and the river of Egypt, and Tahpanhes and Raamses and the whole land of Goshen,",
+      "links": [
+        "Gen 41:45",
+        "Ex 1:11",
+        "Jer 2:16"
+      ],
+      "comment": "This verse lists a wide swath of territories, signaling the vast reach of Nebuchadnezzar’s demands; these regions—Samaria, Jerusalem, Egypt—represent the historic rivals and neighbors of Israel, evoking memories of the Exodus (cf. Exodus 1:8-14) and setting the stage for a pan-regional crisis."
     },
     {
       "pk": 18001010,
@@ -122,9 +126,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 1,
       "verse": 10,
-      "text": "But all the inhabitants throughout the whole region ignored the call to join him in war, for they were not afraid of Nebuchadnezzar, but considered him only as a man. They sent his messengers back empty-handed and without honor.",
-      "links": "<a href='/AIV/09/8/19'>1 Sam. 8:19</a>; <a href='/AIV/19/2/4'>Ps. 2:4</a>",
-      "comment": "Rejecting earthly might demonstrates the limits of human authority. This echoes Psalm 2, where nations ignore God’s anointed but ultimately answer to His reign."
+      "text": "even beyond Tanis and Memphis, and all who lived in Egypt as far as the borders of Ethiopia.",
+      "links": [
+        "Isa 19:11",
+        "Ezek 30:13",
+        "Acts 8:27"
+      ],
+      "comment": "The reference to Tanis, Memphis, and Ethiopia emphasizes the inclusive scope of Nebuchadnezzar's summons, suggesting a threat that extends beyond the usual biblical boundaries and echoing ancient Near Eastern imperial ambitions (cf. Isaiah 11:11)."
     },
     {
       "pk": 18001011,
@@ -134,9 +142,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 1,
       "verse": 11,
-      "text": "Then Nebuchadnezzar was greatly angered with all those nations, and swore by his throne and kingdom to take revenge on all the territories of Cilicia, Damascus, and Syria, and to kill everyone in Moab, the lands of the Ammonites, and all Judea, and all those in Egypt as far as the borders of the two seas.",
-      "links": "<a href='/AIV/19/83/4'>Ps. 83:4</a>",
-      "comment": "Nebuchadnezzar’s oath by his throne is an act of self-deification, common in ancient rulers, but Scripture repeatedly corrects such pride with God’s true kingship (Dan. 4:34-37)."
+      "text": "But all who lived in the whole region disregarded the summons of Nebuchadnezzar, king of the Assyrians, and refused to join him in the war; for they were not afraid of him, but regarded him as only one man. So they sent back his messengers empty-handed and in disgrace.",
+      "links": [
+        "Ex 5:2",
+        "2 Kgs 18:35",
+        "Jdt 5:21"
+      ],
+      "comment": "The united refusal of these nations underlines their autonomy and collective resistance; their view of Nebuchadnezzar as 'only one man' reveals both political defiance and theological confidence reminiscent of Psalm 2:1-6, where kings resist foreign domination."
     },
     {
       "pk": 18001012,
@@ -146,9 +158,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 1,
       "verse": 12,
-      "text": "In the seventeenth year he marched out with his great army against King Arphaxad, and won the victory in the battle, overthrowing all his forces, the entire army, horses, and chariots.",
-      "links": "<a href='/AIV/02/14/28'>Ex. 14:28</a>",
-      "comment": "The defeat of Arphaxad’s army echoes themes in Exodus, such as the overthrow of Pharaoh’s chariots, illustrating the impermanence of human might compared to God’s providence.",
+      "text": "Then Nebuchadnezzar became very angry with this whole region, and swore by his throne and kingdom that he would take revenge on the whole territory of Cilicia and Damascus and Syria, that he would kill with his sword also all the inhabitants of the land of Moab, and the people of Ammon, and all Judea, and every one in Egypt, as far as the coasts of the two seas.",
+      "links": [
+        "Isa 10:5-14",
+        "Jer 25:15-26",
+        "Dan 4:30"
+      ],
+      "comment": "Nebuchadnezzar’s oath to take revenge depicts the typical ancient Near Eastern royal rage at defiance (cf. Daniel 3:19), while the mention of specific peoples—including Judea and Egypt—foreshadows conflict and highlights the theme of threatened judgment upon the entire region.",
       "sectionHeader": "The Defeat of Arphaxad"
     },
     {
@@ -159,7 +175,7 @@
       "bookAbbreviation": "Jdt",
       "chapter": 1,
       "verse": 13,
-      "text": "He took possession of his cities, came to Ecbatana, captured its towers, plundered its markets, and turned its beauty into shame.",
+      "text": "In the seventeenth year he led his forces against King Arphaxad and defeated him in battle, overthrowing the whole army of Arphaxad and all his cavalry and all his chariots.",
       "links": "<a href='/AIV/35/2/8'>Hab. 2:8</a>",
       "comment": "The plundering of cities serves as a warning against placing trust in wealth or security outside of God, a theme revisited by Jesus when He teaches about storing treasures in heaven (Matt. 6:19-21)."
     },
@@ -171,7 +187,7 @@
       "bookAbbreviation": "Jdt",
       "chapter": 1,
       "verse": 14,
-      "text": "He pursued Arphaxad into the mountains of Ragau, struck him with his spears, and utterly destroyed him that day.",
+      "text": "Thus he took possession of his towns and came to Ecbatana, captured its towers, plundered its markets, and turned its glory into disgrace.",
       "links": "<a href='/AIV/09/17/51'>1 Sam. 17:51</a>",
       "comment": "The total defeat of Arphaxad sets the stage for the display of God’s ability to humble the proud (cf. 1 Sam. 2:7)."
     },
@@ -183,7 +199,7 @@
       "bookAbbreviation": "Jdt",
       "chapter": 1,
       "verse": 15,
-      "text": "Then he returned with all his vast forces, and a great multitude of warriors who had joined him. They ate, drank, and celebrated for one hundred and twenty days.",
+      "text": "He captured Arphaxad in the mountains of Ragau and struck him down with his spears, thus destroying him once and for all.",
       "links": "<a href='/AIV/17/1/4'>Esth. 1:4</a>",
       "comment": "The celebration mirrors feasting seen in royal courts, yet is a fleeting joy, in contrast with the everlasting joy God offers to the faithful (Isa. 25:6)."
     },
@@ -195,13 +211,17 @@
       "bookAbbreviation": "Jdt",
       "chapter": 1,
       "verse": 16,
-      "text": "On the one hundred and twentieth day, the judgment of the Lord was set against all the nations who had rejected Nebuchadnezzar, and he resolved to utterly destroy all the lands spoken of.",
-      "links": "<a href='/AIV/24/25/12-14'>Jer. 25:12-14</a>",
-      "comment": "God’s judgment through Nebuchadnezzar reflects the mysterious ways God uses even pagan rulers to accomplish His purposes (Isa. 45:1). This subtly points to God’s providence working through both visible and hidden means, a theme vital in understanding the unity and universality of divine salvation history.",
+      "text": "Then he returned to Nineveh, he and all his combined forces, a vast body of troops; and there he and his forces rested and feasted for one hundred twenty days.",
+      "links": [
+        "Gen 10:11",
+        "Tob 1:15",
+        "Jon 3:3-4"
+      ],
+      "comment": "The great feast after 120 days signals a transition from preparation to action, recalling other royal banquets before significant events (cf. Esther 1:3-4), and showing Nebuchadnezzar’s assertion of power and readiness to execute his wrath.",
       "sectionHeader": "Nebuchadnezzar’s Vow of Vengeance"
     }
   ],
-  "translatedAt": "2025-12-24T05:00:23.165Z",
+  "translatedAt": "2025-12-29T00:34:05.715Z",
   "sections": [
     {
       "title": "Arphaxad Fortifies Ecbatana",

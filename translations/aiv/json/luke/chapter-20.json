@@ -61,7 +61,13 @@
       "bookAbbreviation": "Luke",
       "chapter": 20,
       "verse": 5,
-      "text": "They discussed it among themselves, saying, 'If we say, "
+      "text": "They discussed it with one another, saying, “If we say, ‘From heaven,’ he will say, ‘Why did you not believe him?’”",
+      "links": [
+        "Matt 21:25",
+        "Mark 11:31",
+        "John 5:36"
+      ],
+      "comment": "The religious leaders’ deliberation reveals their political calculations: admitting John the Baptist’s authority as divine would expose their unbelief and undermine their standing (cf. Matthew 21:25), highlighting their concern for self-preservation over truth."
     },
     {
       "pk": 49020005,
@@ -71,7 +77,13 @@
       "bookAbbreviation": "Luke",
       "chapter": 20,
       "verse": 5,
-      "text": "They reasoned among themselves, saying, 'If we say, "
+      "text": "They discussed it with one another, saying, “If we say, ‘From heaven,’ he will say, ‘Why did you not believe him?’”",
+      "links": [
+        "Matt 21:25",
+        "Mark 11:31",
+        "John 5:36"
+      ],
+      "comment": "The religious leaders’ deliberation reveals their political calculations: admitting John the Baptist’s authority as divine would expose their unbelief and undermine their standing (cf. Matthew 21:25), highlighting their concern for self-preservation over truth."
     },
     {
       "pk": 49020005,
@@ -81,9 +93,13 @@
       "bookAbbreviation": "Luke",
       "chapter": 20,
       "verse": 5,
-      "text": "They discussed it among themselves, saying, 'If we say, \"From heaven,\" he will say, \"Why did you not believe him?\"'",
-      "links": "<a href='/AIV/40/21/25-26'>Matt. 21:25-26</a>",
-      "comment": "The leaders are trapped by their own logic—they cannot publicly deny John's authority without facing the people's disapproval, nor can they accept it without undermining their rejection of Jesus."
+      "text": "They discussed it with one another, saying, “If we say, ‘From heaven,’ he will say, ‘Why did you not believe him?’”",
+      "links": [
+        "Matt 21:25",
+        "Mark 11:31",
+        "John 5:36"
+      ],
+      "comment": "The religious leaders’ deliberation reveals their political calculations: admitting John the Baptist’s authority as divine would expose their unbelief and undermine their standing (cf. Matthew 21:25), highlighting their concern for self-preservation over truth."
     },
     {
       "pk": 49020006,
@@ -106,7 +122,11 @@
       "chapter": 20,
       "verse": 7,
       "text": "So they answered that they did not know where it came from.",
-      "links": "",
+      "links": [
+        "Matt 21:27",
+        "Mark 11:33",
+        "John 9:27"
+      ],
       "comment": "The religious leaders' inability or unwillingness to answer reveals their lack of true spiritual insight. Their position is vulnerable because it’s not rooted in truth."
     },
     {
@@ -167,7 +187,11 @@
       "chapter": 20,
       "verse": 12,
       "text": "He sent a third, but they wounded him and threw him out.",
-      "links": "",
+      "links": [
+        "Matt 21:36",
+        "Mark 12:5",
+        "Heb 11:37"
+      ],
       "comment": "Three servants represent the fullness of prophetic witness. The escalating violence shows the gravity of Israel’s rejection of divine messengers."
     },
     {
@@ -191,8 +215,12 @@
       "chapter": 20,
       "verse": 14,
       "text": "But when the tenants saw him, they discussed among themselves and said, 'This is the heir. Let’s kill him, so the inheritance will be ours.'",
-      "links": "",
-      "comment": "The desire to take the inheritance shows a rebellious grasping of spiritual authority that properly belongs to God’s Son. This anticipates the coming rejection and crucifixion of Christ."
+      "links": [
+        "Matt 21:38",
+        "Mark 12:7",
+        "Gen 37:18"
+      ],
+      "comment": "In the parable of the tenants, the planned murder of the heir (symbolizing Jesus, the Son) reflects Israel’s leaders’ impending rejection of Him, while the rhetoric alludes to common ancient inheritance customs where possession could sometimes transfer to those occupying the land (Genesis 37:20; Hebrews 1:2)."
     },
     {
       "pk": 49020015,
@@ -204,7 +232,7 @@
       "verse": 15,
       "text": "So they threw him out of the vineyard and killed him. What will the owner of the vineyard do to them?",
       "links": "<a href='/AIV/58/13/12'>Heb. 13:12</a>",
-      "comment": "Jesus being cast out and killed outside the vineyard prefigures his crucifixion outside Jerusalem (<a href='/AIV/58/13/12'>Heb. 13:12</a>)."
+      "comment": "Jesus alludes to Israel’s leaders rejecting God’s Son (himself, cf. Psalm 118:22); the vineyard owner’s coming judgment echoes Isaiah 5:1-7, warning that violent refusal of God’s messengers results in severe consequences for the unfaithful."
     },
     {
       "pk": 49020016,
@@ -276,7 +304,11 @@
       "chapter": 20,
       "verse": 21,
       "text": "They questioned him, 'Teacher, we know that you speak and teach rightly, and you do not show partiality, but truly teach the way of God.'",
-      "links": "",
+      "links": [
+        "Matt 22:16",
+        "Mark 12:14",
+        "John 7:18"
+      ],
       "comment": "Though insincere, their words recognize Jesus’ integrity and impartiality—key attributes of a true spiritual teacher."
     },
     {
@@ -336,7 +368,11 @@
       "chapter": 20,
       "verse": 26,
       "text": "They could not catch him in what he said in front of the people; amazed at his answer, they became silent.",
-      "links": "",
+      "links": [
+        "Matt 22:22",
+        "Mark 12:17",
+        "Luke 13:17"
+      ],
       "comment": "Jesus’ wisdom silences his opponents, showing his mastery and the divine inspiration behind his words."
     },
     {
@@ -373,7 +409,11 @@
       "chapter": 20,
       "verse": 29,
       "text": "Now there were seven brothers. The first took a wife, died without children,",
-      "links": "",
+      "links": [
+        "Matt 22:25",
+        "Mark 12:20",
+        "Deut 25:5"
+      ],
       "comment": "The chain of marriages sets up an extreme example meant to question the logic of resurrection."
     },
     {
@@ -385,7 +425,10 @@
       "chapter": 20,
       "verse": 30,
       "text": "and the second,",
-      "links": "",
+      "links": [
+        "Matt 22:26",
+        "Mark 12:21"
+      ],
       "comment": "Their argument continues to the next brother, stretching the scenario for rhetorical effect."
     },
     {
@@ -397,7 +440,10 @@
       "chapter": 20,
       "verse": 31,
       "text": "and the third took her; likewise, the seven all left no children, and died.",
-      "links": "",
+      "links": [
+        "Matt 22:27",
+        "Mark 12:22"
+      ],
       "comment": "The scenario underlines the Sadducees’ rejection of resurrection, while ironically drawing attention to the question of eternal life."
     },
     {
@@ -409,7 +455,11 @@
       "chapter": 20,
       "verse": 32,
       "text": "Afterward, the woman also died.",
-      "links": "",
+      "links": [
+        "Matt 22:27",
+        "Mark 12:22",
+        "Heb 9:27"
+      ],
       "comment": "The end of the hypothetical: all are dead and the question is set to challenge Jesus on resurrection."
     },
     {
@@ -421,7 +471,11 @@
       "chapter": 20,
       "verse": 33,
       "text": "So in the resurrection, whose wife will she be? For all seven had her as wife.\"",
-      "links": "",
+      "links": [
+        "Matt 22:28",
+        "Mark 12:23",
+        "Rom 7:2"
+      ],
       "comment": "The Sadducees intend to make resurrection seem absurd by highlighting conflict over earthly relationships in the afterlife."
     },
     {
@@ -433,7 +487,11 @@
       "chapter": 20,
       "verse": 34,
       "text": "Jesus said to them, 'The children of this age marry and are given in marriage,",
-      "links": "",
+      "links": [
+        "Matt 22:30",
+        "Mark 12:25",
+        "1 Cor 7:29"
+      ],
       "comment": "Jesus clarifies the distinction between temporal life and the resurrection life—earthly customs do not apply in the same way after the resurrection."
     },
     {
@@ -493,7 +551,11 @@
       "chapter": 20,
       "verse": 39,
       "text": "Some of the scribes answered, 'Teacher, you have spoken well.'",
-      "links": "",
+      "links": [
+        "Matt 22:33",
+        "Mark 12:28",
+        "Luke 11:45"
+      ],
       "comment": "Jesus’ wisdom is recognized, even by some among his questioners—showing the compelling force of truth."
     },
     {
@@ -505,7 +567,11 @@
       "chapter": 20,
       "verse": 40,
       "text": "For they no longer dared to ask him any question.",
-      "links": "",
+      "links": [
+        "Matt 22:46",
+        "Mark 12:34",
+        "Luke 13:17"
+      ],
       "comment": "His answers end the debate; Jesus’ authority and knowledge are unparalleled, prefiguring leadership in the Church that cannot be surpassed."
     },
     {
@@ -566,8 +632,12 @@
       "chapter": 20,
       "verse": 45,
       "text": "And while all the people listened, he said to his disciples,",
-      "links": "",
-      "comment": "Jesus shifts focus to teaching his disciples in the hearing of all, modeling public instruction and correction.",
+      "links": [
+        "Matt 23:1",
+        "Mark 12:38",
+        "Luke 19:47"
+      ],
+      "comment": "Jesus addresses His disciples publicly in the hearing of all the people, signifying the importance and universality of His warning against the scribes’ practices (Luke 20:46–47), and marking a transition toward His final prophetic teachings.",
       "sectionHeader": "Warning against the Scribes"
     },
     {
@@ -595,7 +665,7 @@
       "comment": "False righteousness is condemned, especially when it preys upon the vulnerable. Jesus upholds sincere prayer and charity—hallmarks of authentic discipleship and marks of Christ-like leadership."
     }
   ],
-  "translatedAt": "2025-12-24T10:55:51.667Z",
+  "translatedAt": "2025-12-29T00:34:17.775Z",
   "sections": [
     {
       "title": "The Authority of Jesus Questioned",

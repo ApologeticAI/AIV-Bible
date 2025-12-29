@@ -230,9 +230,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 3,
       "verse": 19,
-      "text": "Many are lofty and esteemed, but God reveals his secrets to the humble.",
-      "links": "<a href='/AIV/19/25/14'>Ps. 25:14</a>; <a href='/AIV/40/11/25'>Matt. 11:25</a>",
-      "comment": "God’s ways are hidden from the proud and shown to the lowly, even as Jesus thanks the Father for revealing hidden things to little ones."
+      "text": "The greater you are, the more you must humble yourself; so you will find favor in the sight of the Lord.",
+      "links": [
+        "Prov 15:33",
+        "Matt 23:12",
+        "Jas 4:6"
+      ],
+      "comment": "This verse reflects the biblical tradition that greatness before God is marked by humility (see Proverbs 3:34, Matthew 23:12); in the ancient context, humility maintained social harmony and reminded leaders of their dependence on divine favor rather than self-exaltation."
     },
     {
       "pk": 28003020,
@@ -363,9 +367,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 3,
       "verse": 30,
-      "text": "Whoever returns good for evil will remember the end, and at the hour of death he will find support.",
-      "links": "<a href='/AIV/19/41/1-3'>Ps. 41:1-3</a>; <a href='/AIV/40/5/44'>Matt. 5:44</a>",
-      "comment": "Good works, especially acts of mercy, prepare the soul for a peaceful death, reminding us that we will be judged by how we love."
+      "text": "As water extinguishes a blazing fire,<br>so almsgiving atones for sin.<br>",
+      "links": [
+        "Tob 4:10",
+        "Prov 16:6",
+        "Dan 4:27"
+      ],
+      "comment": "Echoing Proverbs 16:6 and Tobit 4:10, this verse connects practical charity (almsgiving) with atonement, emphasizing the Jewish teaching that mercy toward others can mitigate divine judgment and heal the soul."
     },
     {
       "pk": 28003031,
@@ -375,12 +383,16 @@
       "bookAbbreviation": "Sir",
       "chapter": 3,
       "verse": 31,
-      "text": "Those who give to the poor store up treasure for themselves against the day of trouble.",
-      "links": "<a href='/AIV/40/6/19-20'>Matt. 6:19-20</a>; <a href='/AIV/42/12/33-34'>Luke 12:33-34</a>",
-      "comment": "Direct link to Jesus’ discourse on storing up treasure in heaven by charity towards the poor, teaching the virtue of mercy as central to the Christian life."
+      "text": "Those who repay favors give thought to the future;<br>when they fall they will find support.<br>",
+      "links": [
+        "Prov 19:17",
+        "Matt 5:7",
+        "Luke 6:38"
+      ],
+      "comment": "Repaying kindness is linked with future security, expressing an ethical principle found throughout wisdom literature (e.g., Proverbs 11:25) that generosity establishes a community of mutual support, benefiting the giver in times of need."
     }
   ],
-  "translatedAt": "2025-12-24T07:24:34.745Z",
+  "translatedAt": "2025-12-28T06:59:05.927Z",
   "sections": [
     {
       "title": "Duties Toward Parents",

@@ -291,7 +291,11 @@
       "chapter": 5,
       "verse": 24,
       "text": "So Jesus went with him, and a large crowd followed and pressed around Him.",
-      "links": "",
+      "links": [
+        "Luke 8:42",
+        "Mark 3:9",
+        "Mark 4:1"
+      ],
       "comment": "Crowds thronging Jesus indicate His magnetic pull and earthly ministry, but only personal faith leads to true encounter."
     },
     {
@@ -316,7 +320,11 @@
       "chapter": 5,
       "verse": 26,
       "text": "She had endured much under many doctors and had spent all she had, but instead of getting better, she grew worse.",
-      "links": "",
+      "links": [
+        "Luke 8:43",
+        "2 Chr 16:12",
+        "Job 13:4"
+      ],
       "comment": "Medical remedies failed her; a sign that only Christ offers true healing. Earthly resources are limited, but Christ’s power is limitless."
     },
     {
@@ -375,7 +383,13 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 31,
-      "text": "His disciples said to Him, 'You see the crowd pressing against You, and yet You ask, "
+      "text": "And his disciples said to him, “You see the crowd pressing in on you; how can you say, ‘Who touched me?’”",
+      "links": [
+        "Luke 8:45",
+        "Mark 3:9",
+        "John 11:8"
+      ],
+      "comment": "The disciples' response reflects the chaotic atmosphere surrounding Jesus, highlighting his unique ability to sense genuine faith amid the crowd; Jesus' awareness in this moment (cf. Luke 8:45) underscores his divine knowledge and personal concern for individual faith, a theme contrasting physical proximity with spiritual connection."
     },
     {
       "pk": 48005031,
@@ -385,9 +399,13 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 31,
-      "text": "\"His disciples said to Him, 'You see the crowd pressing against You, and yet You ask, \"Who touched Me?\"'\"",
-      "links": "<a href='/AIV/42/8/45'>Luke 8:45</a>",
-      "comment": "The disciples focus on the external situation, but Jesus seeks the interior movement of faith. Many are near Christ, but not all touch Him in faith."
+      "text": "And his disciples said to him, “You see the crowd pressing in on you; how can you say, ‘Who touched me?’”",
+      "links": [
+        "Luke 8:45",
+        "Mark 3:9",
+        "John 11:8"
+      ],
+      "comment": "The disciples' response reflects the chaotic atmosphere surrounding Jesus, highlighting his unique ability to sense genuine faith amid the crowd; Jesus' awareness in this moment (cf. Luke 8:45) underscores his divine knowledge and personal concern for individual faith, a theme contrasting physical proximity with spiritual connection."
     },
     {
       "pk": 48005032,
@@ -397,7 +415,7 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 32,
-      "text": "But He kept looking around to see who had done it.",
+      "text": "He looked all around to see who had done it.",
       "links": "<a href='/AIV/42/8/47'>Luke 8:47</a>",
       "comment": "Jesus’ persistent search is an image of the Good Shepherd seeking the one in need (John 10:14-15)."
     },
@@ -534,7 +552,7 @@
       "comment": "The command for secrecy is part of the Messianic Secret motif in Mark. Jesus’ provision for the girl’s care shows concern for both body and soul—a holistic, incarnational approach reflected throughout the ministry of the Church."
     }
   ],
-  "translatedAt": "2025-12-24T10:25:09.091Z",
+  "translatedAt": "2025-12-29T00:34:25.351Z",
   "sections": [
     {
       "title": "The Healing of the Gerasene Demoniac",

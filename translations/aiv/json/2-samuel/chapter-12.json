@@ -266,7 +266,13 @@
       "bookAbbreviation": "2Sam",
       "chapter": 12,
       "verse": 22,
-      "text": "He said, 'While the child was still alive, I fasted and wept, for I said, "
+      "text": "He said, 'While the child was still alive, I fasted and wept, for I said, ",
+      "comment": "David's fasting and weeping demonstrate a belief in the possibility of God's mercy (cf. Joel 2:14), reflecting the ancient Near Eastern practice of mourning in hope until God's will is revealed, highlighting human humility before divine judgment.",
+      "links": [
+        "Jon 3:5-9",
+        "Ps 35:13",
+        "Matt 9:15"
+      ]
     },
     {
       "pk": 10012023,
@@ -362,9 +368,13 @@
       "bookAbbreviation": "2Sam",
       "chapter": 12,
       "verse": 30,
-      "text": "He took the crown from David’s head—the crown weighed a talent of gold, and in it was a precious stone—and it was placed on David’s head. He brought out a great amount of spoil from the city.",
-      "links": "<a href='/AIV/13/20/2'>1Chr 20:2</a>",
-      "comment": "The placing of the crown recalls royal and messianic symbolism. The stone evokes priestly and kingly imagery later fulfilled in Christ as king and high priest (see Heb 7:1-3)."
+      "text": "He took the crown of Milcom from his head—the crown weighed a talent of gold, and in it was a precious stone—and it was placed on David’s head. He brought out a great amount of spoil from the city.",
+      "links": [
+        "1 Chr 20:2",
+        "Ps 21:3",
+        "Zech 9:4"
+      ],
+      "comment": "The taking of Milcom's crown signifies David’s military triumph over the Ammonites and the defeat of their idol god, confirming God's promise of victory (2 Sam 8:11) and symbolizing the consolidation of David’s kingship through both material and spiritual conquest."
     },
     {
       "pk": 10012031,
@@ -379,7 +389,7 @@
       "comment": "David's administration of conquered peoples remains a complex topic; his return to Jerusalem ends the chapter, suggesting restoration and return to order after a period of sin and rebellion."
     }
   ],
-  "translatedAt": "2025-12-24T03:17:27.152Z",
+  "translatedAt": "2025-12-28T01:57:05.465Z",
   "sections": [
     {
       "title": "Nathan Rebukes David",

@@ -88,7 +88,7 @@
       "verse": 7,
       "text": "But a man of God came to him, saying, 'O king, do not let the army of Israel go with you, for the LORD is not with Israel, with all these people of Ephraim.'",
       "links": "<a href='/AIV/11/13/12'>1 Kings 13:12</a>",
-      "comment": "Prophets and ‘men of God’ serve as instruments of divine revelation and correction (cf. 2 Sam. 12:1). The warning not to unite with those whom God opposes points to God’s desire for a pure, distinct people."
+      "comment": "The prophet warns Amaziah not to rely on Israel’s troops (Ephraim), highlighting Israel’s apostasy—God’s absence from Israel (see 2 Chron 13:8-9) reminds Judah of the spiritual consequences of alliances with idolatrous nations."
     },
     {
       "pk": 14025008,
@@ -270,7 +270,7 @@
       "verse": 22,
       "text": "Judah was defeated by Israel, and every man fled to his home.",
       "links": "<a href='/AIV/28/8/14'>Hos. 8:14</a>",
-      "comment": "Judah’s defeat fulfills the warnings issued by the prophets for their unfaithfulness. The scattering of the people alludes to exile and foreshadows the need for a future restoration."
+      "comment": "Judah’s defeat by Israel reflects divine judgment for Amaziah’s disobedience (vv. 14-16), and the humbling retreat echoes earlier warnings about misplaced trust; see Deut 28:25 for covenant curses."
     },
     {
       "pk": 14025023,
@@ -341,12 +341,16 @@
       "bookAbbreviation": "2Chr",
       "chapter": 25,
       "verse": 28,
-      "text": "They brought him back on horses and buried him with his fathers in the city of Judah.",
-      "links": "<a href='/AIV/12/14/20'>2 Kings 14:20</a>",
-      "comment": "Despite his failings, Amaziah is given an honorable burial. This points to the biblical balance of justice and mercy seen throughout salvation history, where even flawed leaders receive respect in death, prefiguring grace shown to repentant sinners."
+      "text": "They brought him back on horses; he was buried with his fathers in the city of David.",
+      "links": [
+        "2 Kgs 14:20",
+        "2 Chr 21:20",
+        "1 Kgs 2:10"
+      ],
+      "comment": "Amaziah’s burial in the city of David signifies royal honor despite his failings—a common burial practice for kings (e.g., 2 Chron 21:20), embodying the enduring legacy of the Davidic line."
     }
   ],
-  "translatedAt": "2025-12-24T04:33:53.864Z",
+  "translatedAt": "2025-12-28T01:49:21.390Z",
   "sections": [
     {
       "title": "Reign of Amaziah and Execution of His Father's Murderers",

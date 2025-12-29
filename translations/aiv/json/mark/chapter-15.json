@@ -147,7 +147,7 @@
       "verse": 12,
       "text": "Pilate again said to them, 'Then what shall I do with the one you call the King of the Jews?'",
       "links": "<a href='/AIV/40/27/22'>Matthew 27:22</a>",
-      "comment": "Pilate presses the issue of Jesus’ kingship, showing the question of Jesus’ identity as central."
+      "comment": "Pilate’s question reveals his struggle to address the crowd’s demand and his awareness of Jesus’ unique title; this moment exposes the tension between political expediency and justice, echoing the irony of the ‘King of the Jews’ being rejected by his own people (cf. John 19:15)."
     },
     {
       "pk": 48015013,
@@ -244,7 +244,7 @@
       "verse": 20,
       "text": "After they had mocked him, they took off the purple robe and put his own clothes on him. Then they led him out to crucify him.",
       "links": "<a href='/AIV/40/27/31'>Matthew 27:31</a>",
-      "comment": "Mockery leads directly to crucifixion, showing the world’s rejection of God’s chosen one."
+      "comment": "The removal of the purple robe, signifying royal mockery, and the return to Jesus' own clothes before leading him to crucifixion highlights the humiliation he endured; this fulfills Isaiah 53:3, portraying the Suffering Servant despised and rejected."
     },
     {
       "pk": 48015021,
@@ -293,7 +293,7 @@
       "verse": 24,
       "text": "Then they crucified him and divided his clothes, casting lots for them to decide what each would get.",
       "links": "<a href='/AIV/19/22/18'>Psalm 22:18</a>; <a href='/AIV/40/27/35'>Matthew 27:35</a>",
-      "comment": "The casting of lots fulfills messianic prophecy, and the crucifixion points to the atoning sacrifice of the true High Priest."
+      "comment": "The soldiers casting lots for Jesus’ garments fulfilled Psalm 22:18 and reflects the Roman practice of dividing the possessions of crucified criminals, underscoring Jesus’ total abandonment and the fulfillment of messianic prophecy."
     },
     {
       "pk": 48015025,
@@ -339,9 +339,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 15,
       "verse": 28,
-      "text": "[And the scripture was fulfilled that says, 'He was numbered with the lawless.']",
-      "links": "<a href='/AIV/23/53/12'>Isaiah 53:12</a>",
-      "comment": "Some early manuscripts omit this verse, but it resonates with the messianic expectation of the suffering servant."
+      "text": "",
+      "links": "Isaiah 53:12; Luke 22:37",
+      "comment": "This verse points to Isaiah 53:12, highlighting that Jesus’ death among criminals was a fulfillment of prophetic scripture, affirming his role as the suffering servant who identifies with sinners."
     },
     {
       "pk": 48015029,
@@ -364,7 +364,11 @@
       "chapter": 15,
       "verse": 30,
       "text": "save yourself and come down from the cross!'",
-      "links": "",
+      "links": [
+        "Matt 27:40",
+        "Luke 23:37",
+        "Ps 22:7-8"
+      ],
       "comment": "This temptation echoes the devil’s challenge in the wilderness (Luke 4:9), but Jesus remains obedient to the Father’s will."
     },
     {
@@ -574,7 +578,7 @@
       "comment": "Women serve as the first witnesses to Jesus' burial—key evidence for the Resurrection accounts. Their faithful presence hints at the ongoing importance of witness and tradition in the life of the Church."
     }
   ],
-  "translatedAt": "2025-12-24T10:34:27.967Z",
+  "translatedAt": "2025-12-29T00:34:38.427Z",
   "sections": [
     {
       "title": "Jesus Before Pilate",

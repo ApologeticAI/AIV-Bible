@@ -63,7 +63,7 @@
       "verse": 5,
       "text": "Now the upper chambers were narrower, for the galleries took more space away from them than from the lower and the middle ones in the building.",
       "links": "<a href='/AIV/11/6/6'>1 Kings 6:6</a>",
-      "comment": "The adjustment of size signifies progression and prioritization in God’s house, suggesting the value and order found in spiritual vocations. Compare with spiritual maturity in <a href='/AIV/58/5/12-14'>Heb. 5:12-14</a>."
+      "comment": "This architectural detail highlights the diminishing size of the upper temple chambers due to expanding galleries, reflecting ancient Near Eastern design where support and access structures limited usable upper space (cf. 1 Kings 6:5-8); it symbolizes the layered sacredness and ordered structure of God’s dwelling."
     },
     {
       "pk": 33042006,
@@ -208,7 +208,11 @@
       "chapter": 42,
       "verse": 17,
       "text": "He measured the north side: five hundred cubits with the measuring rod all around.",
-      "links": "",
+      "links": [
+        "Ezek 40:5",
+        "Ezek 45:2",
+        "Rev 21:16"
+      ],
       "comment": "Each side’s identical measurement attests to perfect justice and equality before God. Sacred architecture prefigures the all-encompassing nature of the New Jerusalem (<a href='/AIV/66/21/16'>Rev. 21:16</a>)."
     },
     {
@@ -220,7 +224,11 @@
       "chapter": 42,
       "verse": 18,
       "text": "He measured the south side: five hundred cubits by the measuring rod.",
-      "links": "",
+      "links": [
+        "Ezek 48:30",
+        "Num 35:4",
+        "Rev 21:17"
+      ],
       "comment": "Completing each side illustrates wholeness and inclusiveness, reflecting the fullness of God’s family gathered into perfect unity."
     },
     {
@@ -232,7 +240,11 @@
       "chapter": 42,
       "verse": 19,
       "text": "He turned to the west side and measured five hundred cubits with the measuring rod.",
-      "links": "",
+      "links": [
+        "Ezek 41:13",
+        "Ezek 40:47",
+        "Zech 2:1-2"
+      ],
       "comment": "Every side, east, north, south, and west, being equal, evokes fourfold universality. This imagery finds fulfillment in the spread of the Gospel to all nations (<a href='/AIV/40/28/19'>Matt. 28:19</a>), a vision of worldwide unity."
     },
     {

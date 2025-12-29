@@ -3,6 +3,38 @@
   "bookName": "Luke",
   "bookAbbreviation": "Luke",
   "chapter": 14,
+  "sections": [
+    {
+      "title": "Healing on the Sabbath",
+      "startVerse": 1,
+      "endVerse": 6
+    },
+    {
+      "title": "The Parable of the Guests",
+      "startVerse": 7,
+      "endVerse": 11
+    },
+    {
+      "title": "Advice on Hospitality",
+      "startVerse": 12,
+      "endVerse": 15
+    },
+    {
+      "title": "The Parable of the Great Banquet",
+      "startVerse": 16,
+      "endVerse": 24
+    },
+    {
+      "title": "The Cost of Discipleship",
+      "startVerse": 25,
+      "endVerse": 33
+    },
+    {
+      "title": "The Call to Perseverance",
+      "startVerse": 34,
+      "endVerse": 35
+    }
+  ],
   "verses": [
     {
       "pk": 49014001,
@@ -12,10 +44,10 @@
       "bookAbbreviation": "Luke",
       "chapter": 14,
       "verse": 1,
-      "text": "One Sabbath, as Jesus went to eat at the house of a leader among the Pharisees, they were watching Him closely.",
-      "links": "<a href='/AIV/40/12/10'>Matt. 12:10</a>; <a href='/AIV/42/7/36'>Luke 7:36</a>",
-      "comment": "In this scene, Jesus attends a meal at a Pharisee's house on the Sabbath, setting up a context for revealing His authority over the Law. Note the tension with the religious leaders (see Matt. 12:10), and the reverence for Sabbath traditions.",
-      "sectionHeader": "Healing of the Man with Dropsy"
+      "text": "One Sabbath, when Jesus went to dine in the house of a leader of the Pharisees, they were watching him closely.",
+      "links": "<a href='/AIV/40/12/9-10'>Matt 12:9-10</a>; <a href='/AIV/43/5/15-16'>John 5:15-16</a>",
+      "comment": "The context of a Sabbath meal with religious leadership highlights tension regarding the Sabbath observance, a recurring conflict in the Gospels.",
+      "sectionHeader": "Healing on the Sabbath"
     },
     {
       "pk": 49014002,
@@ -25,9 +57,10 @@
       "bookAbbreviation": "Luke",
       "chapter": 14,
       "verse": 2,
-      "text": "Right in front of Him was a man suffering from dropsy.",
-      "links": "<a href='/AIV/42/13/11'>Luke 13:11</a>",
-      "comment": "Luke notes the presence of someone sick, inviting Jesus' compassion and demonstrating His divine power to heal, even when under scrutiny."
+      "text": "And right in front of him was a man with dropsy.",
+      "links": "<a href='/AIV/40/12/10'>Matt 12:10</a>",
+      "comment": "Dropsy (edema) was considered an untreatable illness at the time, making the healing particularly notable.",
+      "sectionHeader": null
     },
     {
       "pk": 49014003,
@@ -38,8 +71,9 @@
       "chapter": 14,
       "verse": 3,
       "text": "Jesus responded to the lawyers and Pharisees, saying, 'Is it lawful to heal on the Sabbath, or not?'",
-      "links": "<a href='/AIV/40/12/10'>Matt. 12:10</a>; <a href='/AIV/42/6/9'>Luke 6:9</a>",
-      "comment": "Jesus invokes the Law by directly questioning the religious leaders about the Sabbath, highlighting the deeper meaning of mercy over mere ritual (see Hosea 6:6, Matt. 12:7)."
+      "links": "<a href='/AIV/40/12/10-12'>Matt 12:10-12</a>; <a href='/AIV/41/3/2-4'>Mark 3:2-4</a>",
+      "comment": "Jesus’ question forces the religious leaders to confront the heart of the law versus rigid rules. Throughout the Gospels, Jesus demonstrates authority over the Law.",
+      "sectionHeader": null
     },
     {
       "pk": 49014004,
@@ -49,9 +83,10 @@
       "bookAbbreviation": "Luke",
       "chapter": 14,
       "verse": 4,
-      "text": "But they remained silent. Then He took hold of the man, healed him, and sent him away.",
-      "links": "<a href='/AIV/41/3/4'>Mark 3:4</a>",
-      "comment": "Their silence echoes their inability to answer divine wisdom. Jesus openly heals, revealing His authority to act on the Sabbath and foreshadowing His power to forgive and bring restoration (see Mark 3:4)."
+      "text": "But they were silent. So Jesus took the man, healed him, and sent him on his way.",
+      "links": "<a href='/AIV/43/9/34'>John 9:34</a>; <a href='/AIV/41/3/4'>Mark 3:4</a>",
+      "comment": "Their silence exposes their reluctance to support mercy over tradition. Jesus acts with divine authority, signifying his identity and mission.",
+      "sectionHeader": null
     },
     {
       "pk": 49014005,
@@ -61,9 +96,10 @@
       "bookAbbreviation": "Luke",
       "chapter": 14,
       "verse": 5,
-      "text": "He asked them, 'Which of you, if his son or ox falls into a well on the Sabbath day, would not immediately pull him out?'",
-      "links": "<a href='/AIV/40/12/11'>Matt. 12:11</a>",
-      "comment": "Here, Jesus compares the necessity of mercy (rescuing those in need) with keeping ritual law. This teaches that the law is fulfilled by love, a principle that underpins deeper Christian living."
+      "text": "Then he said to them, 'Which of you, if your son or an ox falls into a well on a Sabbath day, will not immediately pull him out?'",
+      "links": "<a href='/AIV/40/12/11'>Matt 12:11</a>; <a href='/AIV/5/22/4'>Deut 22:4</a>",
+      "comment": "The analogy exposes the leaders’ practical choices when moral urgency confronts rules.",
+      "sectionHeader": null
     },
     {
       "pk": 49014006,
@@ -73,9 +109,10 @@
       "bookAbbreviation": "Luke",
       "chapter": 14,
       "verse": 6,
-      "text": "And they could not reply to these things.",
-      "links": "<a href='/AIV/41/3/4'>Mark 3:4</a>",
-      "comment": "The leaders are unable to refute Jesus, revealing His divine wisdom and the limitations of their legalistic perspective."
+      "text": "They could not reply to these things.",
+      "links": "<a href='/AIV/40/22/46'>Matt 22:46</a>",
+      "comment": "Their inability to answer underscores the superior wisdom and authority of Jesus over the teachers of the law.",
+      "sectionHeader": null
     },
     {
       "pk": 49014007,
@@ -85,10 +122,10 @@
       "bookAbbreviation": "Luke",
       "chapter": 14,
       "verse": 7,
-      "text": "When He noticed how the guests chose the places of honor, He told them a parable.",
-      "links": "<a href='/AIV/20/25/6-7'>Prov. 25:6-7</a>",
-      "comment": "Jesus uses the occasion to teach humility, reflecting Old Testament wisdom (Prov. 25:6–7) and preparing the way for spiritual elevation through humility.",
-      "sectionHeader": "A Lesson on Humility"
+      "text": "When he noticed how the guests chose the places of honor, he told them a parable.",
+      "links": "<a href='/AIV/20/25/6-7'>Prov 25:6-7</a>",
+      "comment": "Jesus observes their pride and teaches about true humility—a virtue foundational to Christian life.",
+      "sectionHeader": "The Parable of the Guests"
     },
     {
       "pk": 49014008,
@@ -98,9 +135,10 @@
       "bookAbbreviation": "Luke",
       "chapter": 14,
       "verse": 8,
-      "text": "'When you are invited by someone to a wedding banquet, do not sit in the place of honor, lest someone more distinguished than you be invited by him,'",
-      "links": "<a href='/AIV/20/25/7'>Prov. 25:7</a>",
-      "comment": "His teaching uses everyday life to convey spiritual truths: humility brings true honor, a principle foundational throughout Scripture."
+      "text": "'When you are invited by someone to a wedding feast, do not take the place of honor, lest someone more distinguished than you has been invited by him,",
+      "links": "<a href='/AIV/20/25/7'>Prov 25:7</a>",
+      "comment": "Reference to wisdom literature (Proverbs), reinforcing humility through practical example.",
+      "sectionHeader": null
     },
     {
       "pk": 49014009,
@@ -110,20 +148,349 @@
       "bookAbbreviation": "Luke",
       "chapter": 14,
       "verse": 9,
-      "text": "'and he who invited both you and him will come and say to you, "
-    }
-  ],
-  "translatedAt": "2025-12-24T10:51:33.641Z",
-  "sections": [
-    {
-      "title": "Healing of the Man with Dropsy",
-      "startVerse": 1,
-      "endVerse": 6
+      "text": "and the one who invited both of you will come and say to you, ‘Give your place to this person,’ and then you will go with shame to take the lowest place.",
+      "links": "<a href='/AIV/20/25/6-7'>Prov 25:6-7</a>",
+      "comment": "The shame described here signals the result of pride. The themes of honoring the humble echo throughout Old and New Testaments.",
+      "sectionHeader": null
     },
     {
-      "title": "A Lesson on Humility",
-      "startVerse": 7,
-      "endVerse": 9
+      "pk": 49014010,
+      "translation": "AIV",
+      "book": 49,
+      "bookName": "Luke",
+      "bookAbbreviation": "Luke",
+      "chapter": 14,
+      "verse": 10,
+      "text": "But when you are invited, go and sit in the lowest place, so that when your host comes, he may say to you, ‘Friend, move up higher.’ Then you will be honored in the presence of all who sit at table with you.",
+      "links": "<a href='/AIV/20/25/7'>Prov 25:7</a>; <a href='/AIV/40/23/12'>Matt 23:12</a>",
+      "comment": "This reflects the divine principle of humility preceding exaltation, a major theme in Christ's teachings.",
+      "sectionHeader": null
+    },
+    {
+      "pk": 49014011,
+      "translation": "AIV",
+      "book": 49,
+      "bookName": "Luke",
+      "bookAbbreviation": "Luke",
+      "chapter": 14,
+      "verse": 11,
+      "text": "For everyone who exalts himself will be humbled, and he who humbles himself will be exalted.",
+      "links": "<a href='/AIV/40/23/12'>Matt 23:12</a>; <a href='/AIV/59/4/6'>James 4:6</a>; <a href='/AIV/60/5/6'>1 Pet 5:6</a>",
+      "comment": "A summary statement of the Kingdom’s paradox. This teaching is repeated often, showing Jesus’ priority for humility before God.",
+      "sectionHeader": null
+    },
+    {
+      "pk": 49014012,
+      "translation": "AIV",
+      "book": 49,
+      "bookName": "Luke",
+      "bookAbbreviation": "Luke",
+      "chapter": 14,
+      "verse": 12,
+      "text": "He also said to the man who had invited him, 'When you give a lunch or a dinner, do not invite your friends or your brothers or your relatives or rich neighbors, lest they also invite you in return and you be repaid.'",
+      "links": "<a href='/AIV/40/6/2-4'>Matt 6:2-4</a>",
+      "comment": "Jesus calls for radical generosity, not seeking earthly reward. This reflects the higher ethic expected of his followers.",
+      "sectionHeader": "Advice on Hospitality"
+    },
+    {
+      "pk": 49014013,
+      "translation": "AIV",
+      "book": 49,
+      "bookName": "Luke",
+      "bookAbbreviation": "Luke",
+      "chapter": 14,
+      "verse": 13,
+      "text": "But when you give a feast, invite the poor, the crippled, the lame, the blind,",
+      "links": "<a href='/AIV/3/19/14'>Lev 19:14</a>; <a href='/AIV/40/11/5'>Matt 11:5</a>",
+      "comment": "This teaching reflects God's heart for the marginalized. Serving the least is an act of obedience and worship.",
+      "sectionHeader": null
+    },
+    {
+      "pk": 49014014,
+      "translation": "AIV",
+      "book": 49,
+      "bookName": "Luke",
+      "bookAbbreviation": "Luke",
+      "chapter": 14,
+      "verse": 14,
+      "text": "and you will be blessed, because they cannot repay you. For you will be repaid at the resurrection of the righteous.",
+      "links": "<a href='/AIV/40/25/34-40'>Matt 25:34-40</a>; <a href='/AIV/43/5/28-29'>John 5:28-29</a>",
+      "comment": "Jesus alludes to final judgment and reward, reflecting the doctrine of resurrection and future recompense.",
+      "sectionHeader": null
+    },
+    {
+      "pk": 49014015,
+      "translation": "AIV",
+      "book": 49,
+      "bookName": "Luke",
+      "bookAbbreviation": "Luke",
+      "chapter": 14,
+      "verse": 15,
+      "text": "When one of those who sat at table with him heard these things, he said to him, 'Blessed is the one who will eat bread in the kingdom of God!'",
+      "links": "<a href='/AIV/23/25/6'>Isa 25:6</a>; <a href='/AIV/42/13/29'>Luke 13:29</a>",
+      "comment": "The guest refers to the great Messianic feast, a prophetic hope in Jewish expectation.",
+      "sectionHeader": null
+    },
+    {
+      "pk": 49014016,
+      "translation": "AIV",
+      "book": 49,
+      "bookName": "Luke",
+      "bookAbbreviation": "Luke",
+      "chapter": 14,
+      "verse": 16,
+      "text": "But Jesus said to him, 'A man once gave a great banquet and invited many.'",
+      "links": "<a href='/AIV/23/55/1-2'>Isa 55:1-2</a>; <a href='/AIV/40/22/2-10'>Matt 22:2-10</a>",
+      "comment": "Jesus turns the conversation to a parable foreshadowing the opening of God’s Kingdom to all nations.",
+      "sectionHeader": "The Parable of the Great Banquet"
+    },
+    {
+      "pk": 49014017,
+      "translation": "AIV",
+      "book": 49,
+      "bookName": "Luke",
+      "bookAbbreviation": "Luke",
+      "chapter": 14,
+      "verse": 17,
+      "text": "At the time for the banquet, he sent his servant to say to those who had been invited, ‘Come, for everything is now ready.’",
+      "links": "<a href='/AIV/23/55/6'>Isa 55:6</a>; <a href='/AIV/40/22/3'>Matt 22:3</a>",
+      "comment": "The readiness of the feast signifies the fulfillment of God’s promises through Jesus.",
+      "sectionHeader": null
+    },
+    {
+      "pk": 49014018,
+      "translation": "AIV",
+      "book": 49,
+      "bookName": "Luke",
+      "bookAbbreviation": "Luke",
+      "chapter": 14,
+      "verse": 18,
+      "text": "But they all alike began to make excuses. The first said to him, ‘I have bought a field, and I must go out and see it. Please have me excused.’",
+      "links": "<a href='/AIV/40/22/5'>Matt 22:5</a>",
+      "comment": "The excuses represent hearts distracted by worldly affairs, neglecting God’s invitation.",
+      "sectionHeader": null
+    },
+    {
+      "pk": 49014019,
+      "translation": "AIV",
+      "book": 49,
+      "bookName": "Luke",
+      "bookAbbreviation": "Luke",
+      "chapter": 14,
+      "verse": 19,
+      "text": "Another said, ‘I have bought five yoke of oxen, and I am going to try them out. Please have me excused.’",
+      "links": "<a href='/AIV/40/22/5'>Matt 22:5</a>",
+      "comment": "Earthly possessions and concerns often prevent people from accepting the kingdom’s call.",
+      "sectionHeader": null
+    },
+    {
+      "pk": 49014020,
+      "translation": "AIV",
+      "book": 49,
+      "bookName": "Luke",
+      "bookAbbreviation": "Luke",
+      "chapter": 14,
+      "verse": 20,
+      "text": "Still another said, ‘I have married a wife, so I cannot come.’",
+      "links": "<a href='/AIV/5/24/5'>Deut 24:5</a>",
+      "comment": "Even legitimate responsibilities, when placed above God, can lead to spiritual loss.",
+      "sectionHeader": null
+    },
+    {
+      "pk": 49014021,
+      "translation": "AIV",
+      "book": 49,
+      "bookName": "Luke",
+      "bookAbbreviation": "Luke",
+      "chapter": 14,
+      "verse": 21,
+      "text": "So the servant came and reported these things to his master. Then the master of the house became angry and said to his servant, ‘Go out quickly into the streets and lanes of the city, and bring in the poor, the crippled, the blind, and the lame.’",
+      "links": "<a href='/AIV/40/22/8-9'>Matt 22:8-9</a>; <a href='/AIV/23/61/1'>Isa 61:1</a>",
+      "comment": "The outcast and humble are welcomed when the self-sufficient reject God. God’s invitation is open to all.",
+      "sectionHeader": null
+    },
+    {
+      "pk": 49014022,
+      "translation": "AIV",
+      "book": 49,
+      "bookName": "Luke",
+      "bookAbbreviation": "Luke",
+      "chapter": 14,
+      "verse": 22,
+      "text": "And the servant said, ‘Sir, what you commanded has been done, and there is still room.’",
+      "links": "<a href='/AIV/40/22/10'>Matt 22:10</a>",
+      "comment": "The abundance of God’s mercy ensures that the kingdom always has room for more.",
+      "sectionHeader": null
+    },
+    {
+      "pk": 49014023,
+      "translation": "AIV",
+      "book": 49,
+      "bookName": "Luke",
+      "bookAbbreviation": "Luke",
+      "chapter": 14,
+      "verse": 23,
+      "text": "And the master said to the servant, ‘Go out to the highways and hedges and compel people to come in, so that my house may be filled.’",
+      "links": "<a href='/AIV/23/2/2'>Isa 2:2</a>; <a href='/AIV/45/1/16'>Rom 1:16</a>",
+      "comment": "A prophecy of the broad, missionary call of the Church to all nations. The active seeking of outsiders mirrors God’s desire for the fullness of his kingdom.",
+      "sectionHeader": null
+    },
+    {
+      "pk": 49014024,
+      "translation": "AIV",
+      "book": 49,
+      "bookName": "Luke",
+      "bookAbbreviation": "Luke",
+      "chapter": 14,
+      "verse": 24,
+      "text": "For I tell you, none of those who were invited shall taste my banquet.’",
+      "links": "<a href='/AIV/40/8/11-12'>Matt 8:11-12</a>",
+      "comment": "A warning that rejection of God’s call leads to exclusion from the blessings of the kingdom.",
+      "sectionHeader": null
+    },
+    {
+      "pk": 49014025,
+      "translation": "AIV",
+      "book": 49,
+      "bookName": "Luke",
+      "bookAbbreviation": "Luke",
+      "chapter": 14,
+      "verse": 25,
+      "text": "Now great crowds accompanied him, and he turned and said to them,",
+      "links": "<a href='/AIV/40/4/25'>Matt 4:25</a>",
+      "comment": "Jesus addresses not just the chosen few, but the multitude, bringing his teaching to all.",
+      "sectionHeader": "The Cost of Discipleship"
+    },
+    {
+      "pk": 49014026,
+      "translation": "AIV",
+      "book": 49,
+      "bookName": "Luke",
+      "bookAbbreviation": "Luke",
+      "chapter": 14,
+      "verse": 26,
+      "text": "‘If anyone comes to me and does not hate his own father and mother and wife and children and brothers and sisters, yes, and even his own life, he cannot be my disciple.’",
+      "links": "<a href='/AIV/40/10/37'>Matt 10:37</a>; <a href='/AIV/41/10/29-30'>Mark 10:29-30</a>",
+      "comment": "‘Hate’ here is a Semitic expression meaning ‘to love less’—Jesus demands supreme allegiance, higher than all human attachments.",
+      "sectionHeader": null
+    },
+    {
+      "pk": 49014027,
+      "translation": "AIV",
+      "book": 49,
+      "bookName": "Luke",
+      "bookAbbreviation": "Luke",
+      "chapter": 14,
+      "verse": 27,
+      "text": "Whoever does not carry his own cross and come after me cannot be my disciple.",
+      "links": "<a href='/AIV/40/16/24'>Matt 16:24</a>; <a href='/AIV/41/8/34'>Mark 8:34</a>",
+      "comment": "Following Jesus involves self-denial and willingness to suffer, reflecting the path Christ himself chose. This hints at participation in Christ's suffering.",
+      "sectionHeader": null
+    },
+    {
+      "pk": 49014028,
+      "translation": "AIV",
+      "book": 49,
+      "bookName": "Luke",
+      "bookAbbreviation": "Luke",
+      "chapter": 14,
+      "verse": 28,
+      "text": "For which of you, wishing to build a tower, does not first sit down and estimate the cost, to see if he has enough to finish it?",
+      "links": "<a href='/AIV/20/24/27'>Prov 24:27</a>",
+      "comment": "Jesus warns against entering discipleship lightly; spiritual commitment requires reflection and deliberate choice.",
+      "sectionHeader": null
+    },
+    {
+      "pk": 49014029,
+      "translation": "AIV",
+      "book": 49,
+      "bookName": "Luke",
+      "bookAbbreviation": "Luke",
+      "chapter": 14,
+      "verse": 29,
+      "text": "Otherwise, when he has laid a foundation and is not able to finish, all who see it will mock him,",
+      "links": "<a href='/AIV/16/4/1'>Neh 4:1</a>",
+      "comment": "Unfinished commitments bring dishonor, a warning to take faith seriously.",
+      "sectionHeader": null
+    },
+    {
+      "pk": 49014030,
+      "translation": "AIV",
+      "book": 49,
+      "bookName": "Luke",
+      "bookAbbreviation": "Luke",
+      "chapter": 14,
+      "verse": 30,
+      "text": "saying, ‘This man began to build and was not able to finish.’",
+      "links": "<a href='/AIV/16/4/2'>Neh 4:2</a>",
+      "comment": "The parable underscores the public implications of failing to persevere in faith.",
+      "sectionHeader": null
+    },
+    {
+      "pk": 49014031,
+      "translation": "AIV",
+      "book": 49,
+      "bookName": "Luke",
+      "bookAbbreviation": "Luke",
+      "chapter": 14,
+      "verse": 31,
+      "text": "Or what king, going out to encounter another king in war, will not sit down first and consider whether he is able with ten thousand to meet him who comes against him with twenty thousand?",
+      "links": "<a href='/AIV/20/20/18'>Prov 20:18</a>",
+      "comment": "Planning and discernment are necessary for successful discipleship.",
+      "sectionHeader": null
+    },
+    {
+      "pk": 49014032,
+      "translation": "AIV",
+      "book": 49,
+      "bookName": "Luke",
+      "bookAbbreviation": "Luke",
+      "chapter": 14,
+      "verse": 32,
+      "text": "And if not, while the other is still far away, he sends a delegation and asks for terms of peace.",
+      "links": "<a href='/AIV/20/12/15'>Prov 12:15</a>",
+      "comment": "The cost of following Christ requires prudence and total surrender.",
+      "sectionHeader": null
+    },
+    {
+      "pk": 49014033,
+      "translation": "AIV",
+      "book": 49,
+      "bookName": "Luke",
+      "bookAbbreviation": "Luke",
+      "chapter": 14,
+      "verse": 33,
+      "text": "So therefore, any one of you who does not renounce all that he has cannot be my disciple.",
+      "links": "<a href='/AIV/40/19/21'>Matt 19:21</a>; <a href='/AIV/41/10/21'>Mark 10:21</a>",
+      "comment": "Total detachment from possessions is required. Some are called even to literal poverty for the sake of the kingdom—a theme taken up by many saints as a form of spiritual perfection.",
+      "sectionHeader": null
+    },
+    {
+      "pk": 49014034,
+      "translation": "AIV",
+      "book": 49,
+      "bookName": "Luke",
+      "bookAbbreviation": "Luke",
+      "chapter": 14,
+      "verse": 34,
+      "text": "Salt is good, but if salt loses its flavor, how shall its seasoning be restored?",
+      "links": "<a href='/AIV/40/5/13'>Matt 5:13</a>; <a href='/AIV/41/9/50'>Mark 9:50</a>",
+      "comment": "Faithful disciples are salt—distinct, preserving, and flavorful. Loss of zeal diminishes witness and purpose.",
+      "sectionHeader": "The Call to Perseverance"
+    },
+    {
+      "pk": 49014035,
+      "translation": "AIV",
+      "book": 49,
+      "bookName": "Luke",
+      "bookAbbreviation": "Luke",
+      "chapter": 14,
+      "verse": 35,
+      "text": "It is useless for the soil or for the manure pile; it is thrown away. He who has ears to hear, let him hear.",
+      "links": "<a href='/AIV/40/11/15'>Matt 11:15</a>; <a href='/AIV/41/4/9'>Mark 4:9</a>",
+      "comment": "Jesus' warning follows a pattern in prophetic speech. Hearing means obeying. The call is to serious, ongoing faith, not shallow commitment.",
+      "sectionHeader": null
     }
-  ]
+  ],
+  "translatedAt": "2025-12-28T02:23:52.209Z"
 }

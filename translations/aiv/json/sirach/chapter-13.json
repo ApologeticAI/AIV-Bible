@@ -3,6 +3,13 @@
   "bookName": "Sirach",
   "bookAbbreviation": "Sir",
   "chapter": 13,
+  "sections": [
+    {
+      "title": "On Association with the Powerful",
+      "startVerse": 1,
+      "endVerse": 26
+    }
+  ],
   "verses": [
     {
       "pk": 28013001,
@@ -13,9 +20,9 @@
       "chapter": 13,
       "verse": 1,
       "text": "Whoever touches pitch will be defiled, and whoever associates with the arrogant will become like them.",
-      "links": "<a href='/AIV/20/6/27'>Prov. 6:27</a>; <a href='/AIV/46/15/33'>1 Cor. 15:33</a>",
-      "comment": "The text uses the image of pitch (tar) to warn that contact with the proud and sinful leads easily to corruption. This serves as a reminder to remain vigilant about the company we keep, echoing similar wisdom in Proverbs and Paul’s warning to the Corinthians.",
-      "sectionHeader": "Caution in Dealing with the Rich and Powerful"
+      "links": "<a href='/AIV/20/22/24-25'>Prov. 22:24-25</a>; <a href='/AIV/46/15/33'>1 Cor. 15:33</a>",
+      "comment": "This proverb highlights the spiritual danger of corrupting influences, echoing the broader biblical principle that we are shaped by our companions. See also 1 Cor. 15:33, where Paul warns about bad company.",
+      "sectionHeader": "On Association with the Powerful"
     },
     {
       "pk": 28013002,
@@ -25,9 +32,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 13,
       "verse": 2,
-      "text": "Do not lift a burden too heavy for you, and do not associate with one who is mightier and richer than you.",
-      "links": "<a href='/AIV/19/62/10'>Ps. 62:10</a>; <a href='/AIV/20/23/4'>Prov. 23:4</a>",
-      "comment": "This practical advice can be spiritually applied – bearing burdens too great is analogous to taking on spiritual challenges outside one’s state of grace. The language promotes humility and discernment in relationships with those of wealth and power."
+      "text": "Do not lift a burden too heavy for you, nor associate with one stronger and richer than you. What fellowship can the clay pot have with the iron pot? The clay pot will be struck and broken.",
+      "links": "<a href='/AIV/21/9/15-16'>Eccl. 9:15-16</a>",
+      "comment": "The imagery of clay and iron emphasizes our human need for humility and prudence. Ecclesiastes warns similarly against chasing influence among the powerful."
     },
     {
       "pk": 28013003,
@@ -37,9 +44,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 13,
       "verse": 3,
-      "text": "How can the clay pot share with the iron pot? The clay pot will always be shattered.",
-      "links": "<a href='/AIV/24/19/11'>Jer. 19:11</a>; <a href='/AIV/45/9/21'>Rom. 9:21</a>",
-      "comment": "A metaphor showing the danger of unequal associations. The fragile is destroyed by the strong. Spiritually, this warns about influences that could destabilize faith or community harmony."
+      "text": "The rich man does wrong, and he acts with arrogance; the poor man is wronged, and begs for mercy.",
+      "links": "<a href='/AIV/20/18/23'>Prov. 18:23</a>; <a href='/AIV/23/10/2'>Isa. 10:2</a>",
+      "comment": "A warning about injustice and the behavior of the rich toward the poor, echoed by the prophets' condemnation of oppression. The justice of God will ultimately triumph (cf. Isa. 10:1-4)."
     },
     {
       "pk": 28013004,
@@ -49,9 +56,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 13,
       "verse": 4,
-      "text": "If the rich man wrongs him, his friend will join in blaming him; he will heap abuse on him.",
-      "links": "<a href='/AIV/20/14/20'>Prov. 14:20</a>; <a href='/AIV/59/2/6'>James 2:6</a>",
-      "comment": "This verse demonstrates how power and wealth influence relationships, often at the expense of justice for the poor. James gives similar warnings in the New Testament, highlighting the perennial relevance of economic justice within the faith."
+      "text": "If you are useful to him, he will make use of you; but if you are in need, he will abandon you.",
+      "links": "<a href='/AIV/20/14/20'>Prov. 14:20</a>",
+      "comment": "The conditional nature of worldly relationships contrasts with the faithful love of God. God's covenant never fails, unlike fickle human alliances."
     },
     {
       "pk": 28013005,
@@ -61,9 +68,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 13,
       "verse": 5,
-      "text": "If the rich man is kind, his friends are many; if he speaks, they justify his words.",
-      "links": "<a href='/AIV/20/19/6'>Prov. 19:6</a>; <a href='/AIV/19/12/2'>Ps. 12:2</a>",
-      "comment": "People often flatter the wealthy, regardless of the truth. As disciples of Christ, we are reminded to seek sincerity and integrity, avoiding partiality and hypocrisy."
+      "text": "If you have possessions, he will live with you; he will drain you dry, and he will not feel sorry for you.",
+      "links": "<a href='/AIV/20/19/4'>Prov. 19:4</a>",
+      "comment": "Warnings against exploitative relationships abound in wisdom literature. The call is towards authentic, self-giving love—a recurring biblical ideal."
     },
     {
       "pk": 28013006,
@@ -73,9 +80,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 13,
       "verse": 6,
-      "text": "If he gives you anything, it is with strings attached; he will humble you with his banquets until he has drained you twice or three times.",
-      "links": "<a href='/AIV/20/23/6-8'>Prov. 23:6-8</a>",
-      "comment": "A warning to be cautious about accepting gifts from those with more power. This anticipates Christ’s teaching in Luke 14:12-14, which calls us to generosity without expecting repayment."
+      "text": "If he needs you, he will deceive you; he will smile at you and give you hope. He will speak nicely to you and say, 'What do you need?'",
+      "links": "<a href='/AIV/20/26/25'>Prov. 26:25</a>; <a href='/AIV/19/55/21'>Ps. 55:21</a>",
+      "comment": "The duplicity of worldly people recalls the treachery faced by David (Ps. 55:21). Christ cautioned his followers to be wise as serpents (Matt. 10:16)."
     },
     {
       "pk": 28013007,
@@ -85,9 +92,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 13,
       "verse": 7,
-      "text": "While he says, 'Eat and drink,' his heart is not with you, and his words are false.",
-      "links": "<a href='/AIV/20/23/7'>Prov. 23:7</a>; <a href='/AIV/19/55/21'>Ps. 55:21</a>",
-      "comment": "The duplicity described here recalls Jesus’ criticism of outward shows of righteousness that mask inner corruption (cf. Matt. 23:27). True Christian fellowship is marked by authentic charity."
+      "text": "He will embarrass you with his fine foods, until he has drained you two or three times; and in the end he will ridicule you, and see you abandoned, and shake his head at you.",
+      "links": "<a href='/AIV/20/23/1-3'>Prov. 23:1-3</a>",
+      "comment": "This is a vivid warning about flattery and false hospitality—wisdom counsels discernment, especially among those seeking to use us for gain."
     },
     {
       "pk": 28013008,
@@ -97,9 +104,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 13,
       "verse": 8,
-      "text": "You will be the last to know his thoughts, and when he sees you, he will smile and test you.",
-      "links": "",
-      "comment": "The verse emphasizes prudence and discernment in relationships, a constant theme in biblical wisdom literature."
+      "text": "Take care not to be led astray and humiliated when you are enjoying yourself.",
+      "links": "<a href='/AIV/42/10/30-32'>Luke 10:30-32</a>",
+      "comment": "Evokes the parable of the Good Samaritan, where those who should show mercy do not. The call to charity is ever-present for disciples."
     },
     {
       "pk": 28013009,
@@ -109,9 +116,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 13,
       "verse": 9,
-      "text": "He will humiliate you with his food, until he has stripped you completely dry two or three times. Then in the end he will laugh at you. Afterward, when he sees you, he will leave you.",
-      "links": "",
-      "comment": "A continuation of the warning: acceptance of lavish favors from the wealthy may lead to humiliation and abandonment. Jesus’ counsel on inviting the poor rather than the rich resonates here (Luke 14:13-14)."
+      "text": "When an influential person invites you, be reserved, and he will invite you more insistently.",
+      "links": "<a href='/AIV/20/4/7'>Prov. 4:7</a>",
+      "comment": "Learning wisdom leads to spiritual prudence. Christ urges vigilance and watchfulness—key virtues for all believers (cf. Mark 13:33)."
     },
     {
       "pk": 28013010,
@@ -121,9 +128,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 13,
       "verse": 10,
-      "text": "Guard yourself and be very careful, for you walk with your own downfall. If you hear these things, pay attention!",
-      "links": "<a href='/AIV/20/4/23'>Prov. 4:23</a>",
-      "comment": "A call to vigilance in daily choices, reminiscent of Paul’s exhortation to ‘take heed’ lest one fall (1 Cor. 10:12)."
+      "text": "When you are invited, withdraw, and do not put yourself forward, so that you are not rejected. Do not push yourself, or you may be turned away.",
+      "links": "<a href='/AIV/42/14/8-10'>Luke 14:8-10</a>",
+      "comment": "Jesus echoes this wisdom in Luke 14:8-10, calling his disciples to humility. True greatness comes from self-abasement and waiting for God to exalt us."
     },
     {
       "pk": 28013011,
@@ -133,9 +140,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 13,
       "verse": 11,
-      "text": "When you hear these things, wake up from your sleep, and choose what is right for your life.",
-      "links": "<a href='/AIV/49/5/14'>Eph. 5:14</a>",
-      "comment": "An urgent appeal to spiritual wakefulness, much like Paul’s urging the Ephesians to rise from sleep, seeking the light of Christ."
+      "text": "Do not be assertive lest you be rejected, and do not stand far off lest you be forgotten.",
+      "links": "<a href='/AIV/20/25/6-7'>Prov. 25:6-7</a>",
+      "comment": "Finding the virtuous mean between pride and self-neglect is a hallmark of wisdom. God sees the humble heart."
     },
     {
       "pk": 28013012,
@@ -145,10 +152,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 13,
       "verse": 12,
-      "text": "Give your love to the Lord with all your soul, and be content with those who are humble and wise.",
-      "links": "<a href='/AIV/05/6/5'>Deut. 6:5</a>; <a href='/AIV/20/13/20'>Prov. 13:20</a>",
-      "comment": "This combines the greatest commandment and counsel to seek the company of the humble. True wisdom is rooted in love for God and humility—a spiritual path shared by the great saints.",
-      "sectionHeader": "Companionship with the Wise"
+      "text": "Do not aspire to be seated with rulers; and do not sit at the table with the great, lest you speak much and are reproached, and you are not remembered for your wisdom.",
+      "links": "<a href='/AIV/20/25/7'>Prov. 25:7</a>; <a href='/AIV/42/22/26'>Luke 22:26</a>",
+      "comment": "Humility in social situations is elevated by Jesus as the virtue of true leadership (Luke 22:26). Wisdom acts in silence and service."
     },
     {
       "pk": 28013013,
@@ -158,21 +164,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 13,
       "verse": 13,
-      "text": "Be willing to listen when you are with the wise; all the talk of the arrogant is like thunder in a storm.",
-      "links": "<a href='/AIV/20/9/9'>Prov. 9:9</a>; <a href='/AIV/20/16/18'>Prov. 16:18</a>",
-      "comment": "Humble listening to wisdom marks the path of salvation, while the arrogant’s speech is empty noise. Recall Christ’s teaching on the meek inheriting the earth (Matt. 5:5)."
-    },
-    {
-      "pk": 28013014,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 13,
-      "verse": 14,
-      "text": "Their arguments are like burning fire; they can destroy, but the wise are careful and avoid their company.",
-      "links": "<a href='/AIV/20/22/24-25'>Prov. 22:24-25</a>",
-      "comment": "Associating with the quarrelsome can have destructive spiritual effects. The wise keep holy company and guard their hearts. This is a theme found throughout scriptural wisdom."
+      "text": "Let your words be short, in the presence of those in power; for it is not fitting to repeat yourself, nor to act as if you know more than others.",
+      "links": "<a href='/AIV/20/17/27-28'>Prov. 17:27-28</a>",
+      "comment": "Silence and discretion are marks of wisdom. In the New Testament, James counsels being slow to speak (James 1:19)."
     },
     {
       "pk": 28013015,
@@ -182,9 +176,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 13,
       "verse": 15,
-      "text": "Whoever fears the Lord will stay on the straight path, and those who love him will be faithful to his commandments.",
-      "links": "<a href='/AIV/19/119/1'>Ps. 119:1</a>; <a href='/AIV/43/14/15'>John 14:15</a>",
-      "comment": "This verse connects fearing God with obedience to His commands. Jesus echoes this, equating love with keeping His commandments (John 14:15), highlighting moral responsibility and fidelity."
+      "text": "Every living creature loves its own kind, and every man loves his neighbor.",
+      "links": "<a href='/AIV/43/13/34'>John 13:34</a>",
+      "comment": "Here is a natural law principle, fulfilled and elevated by Jesus in the commandment to love one another (John 13:34)."
     },
     {
       "pk": 28013016,
@@ -194,10 +188,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 13,
       "verse": 16,
-      "text": "Every creature loves its own kind, and every man associates with those like himself.",
-      "links": "<a href='/AIV/01/2/18'>Gen. 2:18</a>; <a href='/AIV/19/119/63'>Ps. 119:63</a>",
-      "comment": "This introduces the theme of natural affinity between like persons. In spiritual matters, shared faith and practice unite the faithful as one body in Christ (cf. 1 Cor. 12:12).",
-      "sectionHeader": "The Incompatibility of Opposites"
+      "text": "All flesh associates with its own kind, and people cling to those like themselves.",
+      "links": "<a href='/AIV/20/27/17'>Prov. 27:17</a>",
+      "comment": "Friendship based on shared values and nature reflects God’s design for communion—pointing to the Church as a place of true unity through Christ."
     },
     {
       "pk": 28013017,
@@ -207,9 +200,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 13,
       "verse": 17,
-      "text": "What fellowship can a wolf have with a lamb? So too does the sinner with the godly.",
-      "links": "<a href='/AIV/19/1/1'>Ps. 1:1</a>; <a href='/AIV/40/7/6'>Matt. 7:6</a>",
-      "comment": "Using the imagery of a wolf and a lamb, the verse underscores the radical difference between the righteous and the sinner. Matthew 7:6 contains similar warnings about discernment."
+      "text": "What fellowship can the wolf have with the lamb? Just so, the sinner with the godly.",
+      "links": "<a href='/AIV/23/11/6'>Isa. 11:6</a>",
+      "comment": "Echoes of the messianic prophecy in Isa. 11:6, where the wolf will dwell with the lamb, showing Christ’s power to reconcile all things."
     },
     {
       "pk": 28013018,
@@ -219,9 +212,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 13,
       "verse": 18,
-      "text": "What peace can there be between the rich and the poor? Wild donkeys are prey for lions in the wilderness.",
-      "links": "",
-      "comment": "A recognition of the social realities that divide humanity, encouraging the faithful to look beyond worldly status and practice true charity and unity."
+      "text": "What peace can there be between the hyena and the dog? So also, what peace between the rich and the poor?",
+      "links": "<a href='/AIV/20/22/2'>Prov. 22:2</a>",
+      "comment": "Earthly distinctions serve to remind us that only in the kingdom of God are these divides truly overcome (cf. Gal. 3:28)."
     },
     {
       "pk": 28013019,
@@ -231,9 +224,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 13,
       "verse": 19,
-      "text": "Just as wild animals prey upon each other, so the wicked prey upon the righteous.",
-      "links": "<a href='/AIV/19/37/12'>Ps. 37:12</a>",
-      "comment": "This realistic description draws a line between two ways—good and evil. Psalm 37 uses similar language concerning the opposition faced by the righteous."
+      "text": "As the wild donkeys are the prey of lions in the wilderness, so the poor are the pasture of the rich.",
+      "links": "<a href='/AIV/19/10/9-10'>Ps. 10:9-10</a>",
+      "comment": "The Psalmist laments the oppression of the poor by the wicked; divine justice is eventual and complete."
     },
     {
       "pk": 28013020,
@@ -243,9 +236,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 13,
       "verse": 20,
-      "text": "The proud despise humility, and the rich hate being ruled by the poor.",
-      "links": "<a href='/AIV/20/29/27'>Prov. 29:27</a>; <a href='/AIV/59/4/6'>James 4:6</a>",
-      "comment": "This highlights the clash between worldly pride and spiritual humility. The wisdom tradition praises humility (James 4:6), which is needed for true discipleship."
+      "text": "Humility is detestable to the proud, just as the poor are detestable to the rich.",
+      "links": "<a href='/AIV/42/16/14'>Luke 16:14</a>",
+      "comment": "Those who are proud cannot bear the humble—Jesus' parable of the rich man and Lazarus (Luke 16) illustrates these spiritual realities."
     },
     {
       "pk": 28013021,
@@ -255,10 +248,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 13,
       "verse": 21,
-      "text": "When a rich man stumbles, many help him up; but if a humble person falls, others push him away.",
+      "text": "When a rich man stumbles, he is supported by friends; but when a poor man falls, even his friends push him away.",
       "links": "<a href='/AIV/20/14/20'>Prov. 14:20</a>",
-      "comment": "A cynical but truthful observation about human nature. The Church calls us to a higher standard: genuine love and concern for all, especially the lowly and poor.",
-      "sectionHeader": "The Unequal Treatment of Rich and Poor"
+      "comment": "Worldly standards often favor the powerful. This calls Christians to practice true charity and not to show partiality (cf. James 2:1-5)."
     },
     {
       "pk": 28013022,
@@ -268,9 +260,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 13,
       "verse": 22,
-      "text": "When the rich speak, all are silent, and their words are praised to the clouds; but if the poor speak, people say, 'Who is this?' And if the poor stumble, they will be tripped up even more.",
-      "links": "<a href='/AIV/19/12/2'>Ps. 12:2</a>; <a href='/AIV/21/4/13'>Eccl. 4:13</a>",
-      "comment": "The tendency to honor wealth and despise poverty is challenged in Christ's teachings, which upend social norms and elevate the value of every person (cf. Luke 6:20)."
+      "text": "If a rich man speaks, everyone listens and praises his words; if the poor man speaks, they say, 'Who is this?' If he stumbles, they push him down even more.",
+      "links": "<a href='/AIV/21/9/16'>Eccl. 9:16</a>",
+      "comment": "Earthly status often overrides truth, but wisdom (like Christ, who was rejected by men) is ultimately vindicated (cf. 1 Cor. 1:27-29)."
     },
     {
       "pk": 28013023,
@@ -280,9 +272,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 13,
       "verse": 23,
-      "text": "Riches are good if they are without sin, and poverty is evil in the opinion of the arrogant.",
-      "links": "<a href='/AIV/20/10/22'>Prov. 10:22</a>; <a href='/AIV/20/30/8-9'>Prov. 30:8-9</a>",
-      "comment": "Surface wealth is not condemned; its use matters. When riches are used virtuously, they are good. The love of money—not money itself—is the root of evil (1 Tim. 6:10)."
+      "text": "Wealth is good if it is free from sin; and poverty is called evil in the mouth of the ungodly.",
+      "links": "<a href='/AIV/20/10/22'>Prov. 10:22</a>; <a href='/AIV/42/6/20'>Luke 6:20</a>",
+      "comment": "Material wealth is neutral, but must be ordered toward righteousness (cf. Matt. 6:19-21). Christ blessed the poor and called his followers to generosity."
     },
     {
       "pk": 28013024,
@@ -292,10 +284,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 13,
       "verse": 24,
-      "text": "The heart of a person changes their face, whether for good or for evil.",
-      "links": "<a href='/AIV/40/6/22-23'>Matt. 6:22-23</a>",
-      "comment": "Jesus teaches ‘the lamp of the body is the eye’—our hearts shape our countenance. Our inner disposition manifests outwardly, a core teaching for spiritual transformation.",
-      "sectionHeader": "The Heart and Its Effects"
+      "text": "A person's heart changes their face, either for good or for evil.",
+      "links": "<a href='/AIV/20/15/13'>Prov. 15:13</a>; <a href='/AIV/40/6/22'>Matt. 6:22</a>",
+      "comment": "The inner disposition affects outward appearances. Jesus teaches about the eye as the lamp of the body, emphasizing purity of heart."
     },
     {
       "pk": 28013025,
@@ -305,9 +296,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 13,
       "verse": 25,
-      "text": "For one's heart reflects deep thought. A cheerful face is a sign of a good heart, but seeking advice is laborious to the wicked.",
-      "links": "<a href='/AIV/20/15/13'>Prov. 15:13</a>",
-      "comment": "The countenance reveals the heart—joy and wisdom shine outwardly. The wise seek counsel humbly, a virtue especially valued in the apostolic tradition."
+      "text": "The heart changes the countenance, either for good or for evil.",
+      "links": "<a href='/AIV/20/17/22'>Prov. 17:22</a>; <a href='/AIV/42/16/14-15'>Luke 16:14-15</a>",
+      "comment": "It is the overflow of the heart that reveals a person’s true self (cf. Luke 6:45). Little actions matter in spiritual growth."
     },
     {
       "pk": 28013026,
@@ -317,37 +308,10 @@
       "bookAbbreviation": "Sir",
       "chapter": 13,
       "verse": 26,
-      "text": "A joyful heart brings health and life, but a gloomy spirit withers the bones.",
-      "links": "<a href='/AIV/20/17/22'>Prov. 17:22</a>",
-      "comment": "Inner joy, arising from trust in God, gives vitality—the theology of the body and soul united. The wise tradition and apostolic faith teach the importance of interior renewal and peace."
+      "text": "The sign of a happy heart is a cheerful face, but to devise proverbs requires painful thinking.",
+      "links": "<a href='/AIV/20/16/17'>Prov. 16:17</a>; <a href='/AIV/48/5/19-21'>Gal. 5:19-21</a>",
+      "comment": "This is wisdom’s call to mortification and self-discipline, echoed throughout both Testaments as foundational for the pursuit of holiness."
     }
   ],
-  "translatedAt": "2025-12-24T07:29:52.030Z",
-  "sections": [
-    {
-      "title": "Caution in Dealing with the Rich and Powerful",
-      "startVerse": 1,
-      "endVerse": 11
-    },
-    {
-      "title": "Companionship with the Wise",
-      "startVerse": 12,
-      "endVerse": 15
-    },
-    {
-      "title": "The Incompatibility of Opposites",
-      "startVerse": 16,
-      "endVerse": 20
-    },
-    {
-      "title": "The Unequal Treatment of Rich and Poor",
-      "startVerse": 21,
-      "endVerse": 23
-    },
-    {
-      "title": "The Heart and Its Effects",
-      "startVerse": 24,
-      "endVerse": 26
-    }
-  ]
+  "translatedAt": "2025-12-29T00:36:18.073Z"
 }

@@ -38,7 +38,11 @@
       "chapter": 12,
       "verse": 3,
       "text": "But they seized him, beat him, and sent him away empty-handed.",
-      "links": "",
+      "links": [
+        "Matt 21:35",
+        "Luke 20:10",
+        "2 Chr 36:16"
+      ],
       "comment": "Israel’s leaders often rejected the prophets, reflecting hardened resistance to God’s message."
     },
     {
@@ -99,7 +103,7 @@
       "verse": 8,
       "text": "So they seized him, killed him, and threw him out of the vineyard.",
       "links": "<a href='/AIV/58/13/12'>Heb. 13:12</a>",
-      "comment": "Jesus’ crucifixion outside Jerusalem is typologically represented here."
+      "comment": "This climactic act in the parable represents the rejection and killing of God's Son by the religious leaders, echoing Israel's pattern of rejecting prophets (cf. Isaiah 5:1–7; Hebrews 11:36–38) and prefiguring Jesus’ crucifixion and exclusion from the city (see Hebrews 13:12)."
     },
     {
       "pk": 48012009,
@@ -244,7 +248,11 @@
       "chapter": 12,
       "verse": 20,
       "text": "There were seven brothers. The first married and died, leaving no offspring.",
-      "links": "",
+      "links": [
+        "Matt 22:25",
+        "Luke 20:29",
+        "Deut 25:5"
+      ],
       "comment": "Setting up an exaggerated scenario to challenge belief in resurrection."
     },
     {
@@ -256,7 +264,10 @@
       "chapter": 12,
       "verse": 21,
       "text": "The second married her and died, leaving no offspring; and the third did the same.",
-      "links": "",
+      "links": [
+        "Matt 22:26",
+        "Luke 20:31"
+      ],
       "comment": "Repetition underscores the intended absurdity of their scenario."
     },
     {
@@ -268,7 +279,10 @@
       "chapter": 12,
       "verse": 22,
       "text": "None of the seven left any children. Last of all, the woman died too.",
-      "links": "",
+      "links": [
+        "Matt 22:27",
+        "Luke 20:32"
+      ],
       "comment": "Completes the scenario, raising the question for the resurrected state."
     },
     {
@@ -280,7 +294,10 @@
       "chapter": 12,
       "verse": 23,
       "text": "In the resurrection, when they rise again, whose wife will she be? For all seven had married her.”",
-      "links": "",
+      "links": [
+        "Matt 22:28",
+        "Luke 20:33"
+      ],
       "comment": "They attempt to show the resurrection as implausible using human marriage practices."
     },
     {
@@ -475,7 +492,11 @@
       "chapter": 12,
       "verse": 39,
       "text": "and the best seats in the synagogues and places of honor at banquets.",
-      "links": "",
+      "links": [
+        "Matt 23:6",
+        "Luke 20:46",
+        "Jas 2:2-3"
+      ],
       "comment": "Preference for status over service contrasts with true leadership, which is humble and sacrificial."
     },
     {

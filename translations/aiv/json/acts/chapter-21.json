@@ -268,7 +268,11 @@
       "chapter": 21,
       "verse": 22,
       "text": "'What then should we do? They will surely hear that you have come.'",
-      "links": "",
+      "links": [
+        "Acts 15:19",
+        "Acts 16:4",
+        "Acts 25:9"
+      ],
       "comment": "The elders recognize the challenge—unity and truth must be preserved amidst controversy within the Church."
     },
     {
@@ -425,7 +429,11 @@
       "chapter": 21,
       "verse": 35,
       "text": "When Paul reached the steps, the soldiers had to carry him because of the violence of the crowd.",
-      "links": "",
+      "links": [
+        "Acts 19:29",
+        "Acts 23:10",
+        "Mark 15:15"
+      ],
       "comment": "The image echoes Psalm passages about being lifted up amidst persecution (<a href='/AIV/19/27/2'>Ps. 27:2</a>). Paul’s suffering is joined to Christ’s."
     },
     {
@@ -449,7 +457,11 @@
       "chapter": 21,
       "verse": 37,
       "text": "As Paul was about to be brought into the barracks, he said to the commander, 'May I speak to you?' He replied, 'Do you know Greek?'",
-      "links": "",
+      "links": [
+        "Acts 22:2",
+        "Acts 26:1",
+        "Matt 10:19"
+      ],
       "comment": "Paul’s use of Greek, the language of the educated world, displays the universality of his mission; he is prepared to testify before all nations."
     },
     {
@@ -461,7 +473,11 @@
       "chapter": 21,
       "verse": 38,
       "text": "'Aren’t you the Egyptian who recently incited a revolt and led four thousand terrorists into the wilderness?'",
-      "links": "",
+      "links": [
+        "Matt 24:24",
+        "John 7:12",
+        "Acts 5:36"
+      ],
       "comment": "The commander’s confusion highlights the misunderstandings and false accusations that often accompany missionary work."
     },
     {

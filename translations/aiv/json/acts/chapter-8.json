@@ -367,7 +367,7 @@
       "verse": 30,
       "text": "So Philip ran to him and heard him reading Isaiah the prophet. He asked, 'Do you understand what you are reading?'",
       "links": "<a href='/AIV/19/119/27'>Ps. 119:27</a>",
-      "comment": "Philip’s question reveals the need for proper interpretation of Scripture—established tradition and authorized teaching guard against error."
+      "comment": "Philip’s approach highlights the importance of guided interpretation of Scripture; the Ethiopian eunuch’s public reading of Isaiah reflects the Jewish practice of reading aloud and acknowledges the need for spiritual insight to comprehend prophetic texts (cf. Luke 24:27, Acts 17:2-3)."
     },
     {
       "pk": 51008031,
@@ -449,9 +449,13 @@
       "bookAbbreviation": "Acts",
       "chapter": 8,
       "verse": 37,
-      "text": "And Philip said, 'If you believe with all your heart, you may.' He answered and said, 'I believe that Jesus Christ is the Son of God.'",
-      "links": "<a href='/AIV/40/16/16'>Matt. 16:16</a>; <a href='/AIV/43/20/31'>John 20:31</a>",
-      "comment": "The confession that Jesus is the Son of God reveals high Christology and affirms personal faith in Christ—the necessary condition for baptism."
+      "text": "",
+      "links": [
+        "Matt 16:16",
+        "Rom 10:9",
+        "1 John 4:15"
+      ],
+      "comment": "This verse does not appear in the RSVCE and is omitted in accordance with the referenced translation."
     },
     {
       "pk": 51008038,
@@ -490,7 +494,7 @@
       "comment": "Philip’s continued missionary journey models enduring evangelism, connecting regions through the spread of the one apostolic faith."
     }
   ],
-  "translatedAt": "2025-12-24T11:22:07.918Z",
+  "translatedAt": "2025-12-29T00:32:59.869Z",
   "sections": [
     {
       "title": "Persecution and Scattering of the Church",

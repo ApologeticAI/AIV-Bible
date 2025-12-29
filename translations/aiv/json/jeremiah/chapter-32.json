@@ -158,7 +158,11 @@
       "chapter": 32,
       "verse": 13,
       "text": "I charged Baruch in their presence, saying,",
-      "links": "",
+      "links": [
+        "Jer 36:4",
+        "Jer 45:1-5",
+        "Isa 8:2"
+      ],
       "comment": "Instructions to Baruch underscore the importance of preserving God’s word and promises for the future."
     },
     {
@@ -315,7 +319,11 @@
       "chapter": 32,
       "verse": 26,
       "text": "Then the word of the LORD came to Jeremiah:",
-      "links": "",
+      "links": [
+        "Jer 1:4",
+        "Jer 29:30",
+        "Ezek 3:16"
+      ],
       "comment": "God responds directly to His prophet in intimate communion, stressed throughout biblical traditions as a model for all believers.",
       "sectionHeader": "God’s Assurance of Restoration"
     },

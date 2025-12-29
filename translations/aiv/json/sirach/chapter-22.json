@@ -73,9 +73,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 22,
       "verse": 6,
-      "text": "Do not instruct a fool, for he will not appreciate your wisdom; avoid speaking to an ignorant person.",
-      "links": "<a href='/AIV/20/23/9'>Prov. 23:9</a>",
-      "comment": "The futility of instructing the hardened heart is repeatedly taught. This foreshadows Jesus' advice about casting pearls before swine (<a href='/AIV/40/7/6'>Matt. 7:6</a>).",
+      "text": "Like music in a time of mourning is ill-timed conversation, but a thrashing and discipline are at all times wisdom.",
+      "links": [
+        "Prov 25:20",
+        "Eccl 3:7",
+        "Prov 13:24"
+      ],
+      "comment": "The verse contrasts inappropriate words during grief—like joyful music at a funeral—with the appropriateness of correction; discipline is always timely and wise, echoing wisdom's value in Proverbs 13:24 and emphasizing sensitivity to context in relationships.",
       "sectionHeader": "The Wretchedness and Danger of Fools"
     },
     {
@@ -86,7 +90,7 @@
       "bookAbbreviation": "Sir",
       "chapter": 22,
       "verse": 7,
-      "text": "If you speak to a foolish person, it is like talking to someone who is drowsy; at the end he will say, 'What was it?'",
+      "text": "",
       "links": "<a href='/AIV/20/26/4'>Prov. 26:4</a>",
       "comment": "Folly is likened to spiritual sleep. The theme of wakefulness is echoed in Christ's admonition to 'keep watch' (<a href='/AIV/41/13/33'>Mark 13:33</a>)."
     },
@@ -98,7 +102,7 @@
       "bookAbbreviation": "Sir",
       "chapter": 22,
       "verse": 8,
-      "text": "Weep less for the dead, for they have found rest; but weep more bitterly for the fool—for his life is worse than death.",
+      "text": "",
       "links": "<a href='/AIV/20/4/18-19'>Prov. 4:18-19</a>; <a href='/AIV/42/16/19-31'>Luke 16:19-31</a>",
       "comment": "The spiritual death of folly surpasses physical death; the concern for the immortal soul is paramount, resonating with later teaching on salvation and damnation."
     },
@@ -110,9 +114,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 22,
       "verse": 9,
-      "text": "Mourning for the dead lasts seven days, but mourning for a fool or ungodly person lasts all his life.",
-      "links": "<a href='/AIV/01/50/10'>Gen. 50:10</a>",
-      "comment": "The seven-day period recalls traditional Jewish mourning, while the permanent grief over spiritual death foreshadows eternal consequences highlighted in New Testament eschatology."
+      "text": "Whoever teaches a fool is like one who glues broken pieces of pottery together, or who rouses a sleeper from deep slumber.",
+      "links": [
+        "Prov 26:4",
+        "Matt 7:6",
+        "Prov 27:22"
+      ],
+      "comment": "Attempting to instruct a fool is portrayed as futile as repairing shattered pottery or waking someone deeply asleep—an image that stresses the folly's stubborn intractability (Proverbs 26:4-5)."
     },
     {
       "pk": 28022010,
@@ -122,9 +130,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 22,
       "verse": 10,
-      "text": "Do not speak much with a foolish person, or you will become defiled; flee from him and you will find rest, and your spirit will not be wearied by his folly.",
-      "links": "<a href='/AIV/19/1/1'>Ps. 1:1</a>; <a href='/AIV/20/13/20'>Prov. 13:20</a>",
-      "comment": "Spiritual purity is maintained by wise association, underscoring both personal holiness and community sanctity, central to Christian life."
+      "text": "Whoever tells a story to a fool tells it to a drowsy man; and at the end he will say, “What was it?”",
+      "links": [
+        "Prov 17:10",
+        "Matt 13:13",
+        "Prov 1:7"
+      ],
+      "comment": "A fool receives teaching with apathy and forgetfulness, likened to a sleepy listener who cannot recall the tale, underscoring the frustration of teaching the unteachable (Matthew 13:13-15)."
     },
     {
       "pk": 28022011,
@@ -134,9 +146,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 22,
       "verse": 11,
-      "text": "A blow hurts the body and mockery wounds the heart, but the damage from a fool is worse than both.",
-      "links": "<a href='/AIV/20/12/18'>Prov. 12:18</a>",
-      "comment": "Emotional and spiritual wounds are presented as more damaging than physical ones, illuminating the depth of harm foolishness can inflict. This notion runs deeper in Christ's teaching about the heart (see <a href='/AIV/40/15/18-19'>Matt. 15:18-19</a>)."
+      "text": "Weep for the dead, for he has left the light behind; and weep for the fool, for he has left intelligence behind. Weep less bitterly for the dead, for he is at rest; but the life of the fool is worse than death.",
+      "links": [
+        "Prov 17:21",
+        "Prov 14:7",
+        "Ps 39:12"
+      ],
+      "comment": "Sirach poignantly notes the tragedy of folly: while the dead merit weeping, the fool's life—bereft of understanding—is more pitiable, reflecting a biblical theme that ignorance is a kind of living death (Proverbs 17:21)."
     },
     {
       "pk": 28022012,
@@ -146,9 +162,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 22,
       "verse": 12,
-      "text": "For mourning over death is like pouring water upon sand, but mourning over a fool or ungodly person is like pouring it into a pit.",
-      "links": "<a href='/AIV/20/27/22'>Prov. 27:22</a>",
-      "comment": "The futility of sorrow over folly and wickedness reminds us of the tragic persistence of sin without repentance, a theme deeply embedded in biblical warnings."
+      "text": "Mourning for the dead lasts seven days, but for the foolish or the ungodly it lasts all the days of their lives.",
+      "links": [
+        "Gen 50:10",
+        "1 Sam 31:13",
+        "Prov 1:22"
+      ],
+      "comment": "While mourning for the dead is brief and finite, the sorrow connected to folly or wickedness is lifelong, demonstrating the social and spiritual consequences of a wasted mind (Psalm 14:1)."
     },
     {
       "pk": 28022013,
@@ -158,9 +178,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 22,
       "verse": 13,
-      "text": "Instruction to a fool is like gluing a broken bowl together, or like waking someone from deep sleep.",
-      "links": "<a href='/AIV/20/23/9'>Prov. 23:9</a>",
-      "comment": "The imagery of hopeless restoration calls to mind the necessity of divine grace for true transformation—foreshadowing the New Covenant work of the Spirit (<a href='/AIV/43/3/5-8'>John 3:5-8</a>)."
+      "text": "Do not talk much with a senseless person or visit an unintelligent person. Stay clear of him, or you may have trouble, and be spattered when he shakes himself off. Avoid him and you will find rest, and you will never be wearied by his lack of sense.",
+      "links": [
+        "Prov 9:6",
+        "Prov 13:20",
+        "2 Thess 3:6"
+      ],
+      "comment": "The sage advises avoiding senseless companions, as their folly brings only distress and contamination by association, echoing warnings like Proverbs 13:20: 'The companion of fools will suffer harm.'"
     },
     {
       "pk": 28022014,
@@ -170,9 +194,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 22,
       "verse": 14,
-      "text": "If you explain something to a fool, he will ask, 'What is it?' but if one is shackled, his chains do not break.",
-      "links": "<a href='/AIV/20/26/7-9'>Prov. 26:7-9</a>",
-      "comment": "Stubborn foolishness is compared to bondage—only divine intervention can unshackle the soul, reflecting the necessity of sacramental grace over mere human effort."
+      "text": "What is heavier than lead? And what is its name except 'Fool'?",
+      "links": [
+        "Prov 27:3",
+        "Matt 23:17",
+        "Jer 10:14"
+      ],
+      "comment": "Nothing is heavier—more burdensome—than a fool, using 'lead' as a metaphor for the oppressive weight of foolishness in community life (cf. Proverbs 27:3)."
     },
     {
       "pk": 28022015,
@@ -182,9 +210,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 22,
       "verse": 15,
-      "text": "Teaching wisdom to a fool is like trying to heal a wound with a sharp instrument, or pouring water into a sieve.",
-      "links": "<a href='/AIV/20/1/7'>Prov. 1:7</a>",
-      "comment": "The texts illustrate the need for humility and openness to wisdom as prerequisites for spiritual growth—a principle echoed in Christ’s parables."
+      "text": "Sand, salt, and a piece of iron are easier to bear than a stupid person.",
+      "links": [
+        "Prov 27:3",
+        "Prov 29:9",
+        "Prov 14:7"
+      ],
+      "comment": "This proverb emphasizes the intolerable burden of a fool by comparing him to heavy yet manageable materials; foolishness is uniquely wearisome (Proverbs 30:21-23)."
     },
     {
       "pk": 28022016,
@@ -194,9 +226,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 22,
       "verse": 16,
-      "text": "A wise person, when he hears wisdom, will praise it and add to it; but a senseless person, when he hears it, dislikes it and casts it behind his back.",
-      "links": "<a href='/AIV/20/9/8-9'>Prov. 9:8-9</a>; <a href='/AIV/43/6/66'>John 6:66</a>",
-      "comment": "Acceptance of wisdom is linked to spiritual growth. Contrast with rejection recalls those who walked away from Jesus, setting up the call to perseverance in faith."
+      "text": "A wooden beam firmly bonded into a building is not loosened by an earthquake; so the mind firmly resolved after due reflection will not be afraid in a crisis.",
+      "links": [
+        "Matt 7:24-25",
+        "Prov 10:25",
+        "Jas 1:8"
+      ],
+      "comment": "Sirach highlights the stability of a well-reflected, resolved mind, which, like a building's firm timber, stands strong amid crisis—a virtue prized in wisdom literature (cf. James 1:6-8)."
     },
     {
       "pk": 28022017,
@@ -206,9 +242,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 22,
       "verse": 17,
-      "text": "Speaking to a fool is like speaking to someone asleep, at the end they will say, 'What is it?'",
-      "links": "<a href='/AIV/20/18/2'>Prov. 18:2</a>",
-      "comment": "Repeating the sleep motif, spiritual drowsiness is a major theme in Jesus’ teachings on being watchful and ready."
+      "text": "A mind settled on an intelligent thought is like stucco decoration that makes a wall smooth.",
+      "links": [
+        "Prov 3:21-22",
+        "Phil 4:8",
+        "Ps 119:99"
+      ],
+      "comment": "A mind occupied with sound, thoughtful plans is compared to beautiful stucco that smooths a wall, a metaphor for the tranquility that wisdom imparts (Proverbs 3:13-18)."
     },
     {
       "pk": 28022018,
@@ -218,9 +258,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 22,
       "verse": 18,
-      "text": "Weep for the dead, because the light has departed; weep for a fool, for understanding has left him.",
-      "links": "<a href='/AIV/20/10/21'>Prov. 10:21</a>; <a href='/AIV/40/13/13-15'>Matt. 13:13-15</a>",
-      "comment": "Spiritual blindness is equated with the loss of life, a precursor to the deeper doctrine of spiritual rebirth through Christ."
+      "text": "Fences set on a high place will not stand firm against the wind; so a timid mind with a fool’s resolve will not stand firm against any fear.",
+      "links": [
+        "Jas 1:6",
+        "Isa 57:20-21",
+        "Matt 13:21"
+      ],
+      "comment": "Just as flimsy fences collapse in wind, so a cowardly person—especially if misguided by a fool's resolve—crumbles under pressure, emphasizing the need for inner fortitude (Matthew 7:26-27)."
     },
     {
       "pk": 28022019,
@@ -230,9 +274,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 22,
       "verse": 19,
-      "text": "Keep your words far from the ignorant and foolish lest they despise your wisdom.",
-      "links": "<a href='/AIV/20/9/7'>Prov. 9:7</a>",
-      "comment": "Guarding speech is wisdom, echoing James’ admonition to tame the tongue (<a href='/AIV/59/3/6'>James 3:6</a>)."
+      "text": "One who pricks the eye brings tears, and one who pricks the heart makes clear its feelings.",
+      "links": [
+        "Ps 39:2-3",
+        "Prov 27:6",
+        "Isa 57:15"
+      ],
+      "comment": "Physical wounds elicit visible reactions—tears from the eye, emotions from the heart—reminding that penetrating another's core brings real consequences (Proverbs 15:13)."
     },
     {
       "pk": 28022020,
@@ -242,9 +290,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 22,
       "verse": 20,
-      "text": "Do not give honor to a fool, lest your ancestors be ashamed.",
-      "links": "<a href='/AIV/20/26/8'>Prov. 26:8</a>",
-      "comment": "Honor is reserved for the wise and virtuous, tying personal conduct to communal heritage—a thread that runs through biblical calls for holiness."
+      "text": "One who throws a stone at birds scares them away, and one who reviles a friend destroys a friendship.",
+      "links": [
+        "Prov 16:28",
+        "Prov 17:9",
+        "Ps 55:12-14"
+      ],
+      "comment": "Insults or betrayals can shatter friendships as easily as a stone startles and disperses birds, stressing the destructive power of words (Proverbs 16:28)."
     },
     {
       "pk": 28022021,
@@ -254,9 +306,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 22,
       "verse": 21,
-      "text": "Do not tell your troubles to someone senseless, since he cannot help you.",
-      "links": "<a href='/AIV/20/27/3'>Prov. 27:3</a>",
-      "comment": "Reliance belongs in wisdom and godly counsel, recalling the scriptural emphasis on seeking guidance from the spiritually mature (cf. <a href='/AIV/59/5/16'>James 5:16</a>)."
+      "text": "Even if you draw your sword against a friend, do not despair, for there is a way back.",
+      "links": [
+        "Prov 18:19",
+        "Matt 18:21-22",
+        "Luke 17:3"
+      ],
+      "comment": "Though conflicts may escalate even to violence, reconciliation remains possible—an ancient reminder of the value of peacemaking among friends (Matthew 18:21-22)."
     },
     {
       "pk": 28022022,
@@ -266,9 +322,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 22,
       "verse": 22,
-      "text": "Do not consult with a coward about war, or with a merchant about trade, or with a buyer about selling, or with a malicious person about gratitude, or with the lazy about any work, or with a worker about the harvest; do not rely on these for advice.",
-      "links": "<a href='/AIV/19/1/1'>Ps. 1:1</a>",
-      "comment": "Practical wisdom aligns with spiritual discernment—seeking counsel from those equipped with virtue and right judgment, prefiguring the role of apostolic leadership.",
+      "text": "If you open your mouth against your friend, do not worry, for reconciliation is possible. But as for reviling, arrogance, disclosure of secrets, or a treacherous blow— in these cases any friend will take to flight.",
+      "links": [
+        "Prov 6:16-19",
+        "Prov 11:13",
+        "Prov 17:9"
+      ],
+      "comment": "Missteps in speech towards a friend can be repaired, but deeper betrayals—reviling, pride, gossip, or treachery—destroy relationships beyond remedy (Proverbs 11:13; Psalm 15:3).",
       "sectionHeader": "Choosing Companions and Giving Counsel"
     },
     {
@@ -279,9 +339,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 22,
       "verse": 23,
-      "text": "But always be with a devout man, whom you know keeps the commandments, who is humble in spirit and wise in fear of the Lord.",
-      "links": "<a href='/AIV/19/119/63'>Ps. 119:63</a>; <a href='/AIV/20/13/20'>Prov. 13:20</a>",
-      "comment": "Devotion, obedience, humility, and holy fear form the character of true friendship. This connects to discipleship and participation in the community of saints."
+      "text": "Gain the trust of your neighbor in his poverty, so that you may rejoice with him in his prosperity. Stand by him in time of distress, so that you may share with him in his inheritance.",
+      "links": [
+        "Prov 17:17",
+        "Rom 12:15",
+        "Jas 2:5"
+      ],
+      "comment": "Loyalty is most meaningful in adversity; sharing burdens now leads to shared blessings later, reinforcing the biblical ethic of steadfast friendship (Proverbs 17:17)."
     },
     {
       "pk": 28022024,
@@ -291,9 +355,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 22,
       "verse": 24,
-      "text": "With such a person, remain steadfast; if you fall, he will raise you up, and if you wander, he will guide you back.",
-      "links": "<a href='/AIV/21/4/9-10'>Eccl. 4:9-10</a>",
-      "comment": "Spiritual companionship is a means of perseverance and restoration, alluding to the church as a family where mutual support is lived out."
+      "text": "The vapor and smoke of the furnace precede the fire; so insults precede bloodshed.",
+      "links": [
+        "Jas 3:5-6",
+        "Prov 16:27",
+        "Matt 5:21-22"
+      ],
+      "comment": "Insults are depicted as a precursor to more serious conflict, just as smoke signals fire, warning that unchecked strife escalates to violence (James 3:5-6)."
     },
     {
       "pk": 28022025,
@@ -303,9 +371,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 22,
       "verse": 25,
-      "text": "Give no power to the foolish, lest they harm you and bring you sorrow; stay away from them, and you will find peace.",
-      "links": "<a href='/AIV/20/29/9'>Prov. 29:9</a>",
-      "comment": "Once more, Sirach urges separation from folly in order to guard personal and communal well-being. This foreshadows the biblical doctrine of spiritual discernment in choosing leaders."
+      "text": "I am not ashamed to shelter a friend, and I will not hide from him.",
+      "links": [
+        "Prov 17:17",
+        "Luke 10:34-35",
+        "Rom 15:1"
+      ],
+      "comment": "There is no shame in offering sanctuary or support to a friend; biblical ethics affirm hospitality and solidarity (cf. Proverbs 27:10)."
     },
     {
       "pk": 28022026,
@@ -315,9 +387,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 22,
       "verse": 26,
-      "text": "What is heavier than lead? What else can have another name than 'fool'?",
-      "links": "<a href='/AIV/20/27/3'>Prov. 27:3</a>",
-      "comment": "Foolishness is depicted as the ultimate burden. This connects metaphorically to sin’s weight, echoing the call to cast off all that hinders spiritual progress (<a href='/AIV/58/12/1'>Heb. 12:1</a>)."
+      "text": "But if harm should come to me because of him, whoever hears of it will beware of him.",
+      "links": [
+        "Prov 22:24-25",
+        "Ps 101:7",
+        "Prov 20:19"
+      ],
+      "comment": "However, the sage cautions that friendship can carry risk; if betrayed, reputational harm follows not just for the betrayer, but as a warning to others about misplaced trust (Psalm 41:9)."
     },
     {
       "pk": 28022027,
@@ -327,12 +403,16 @@
       "bookAbbreviation": "Sir",
       "chapter": 22,
       "verse": 27,
-      "text": "Sand, salt, and a chunk of iron are easier to bear than a foolish person.",
-      "links": "<a href='/AIV/21/10/1'>Eccl. 10:1</a>",
-      "comment": "The final verse underscores the immense suffering folly brings, emphasizing the importance of wisdom and spiritual formation for life in Christ and the fellowship of the holy."
+      "text": "Who will set a guard over my mouth, and an effective seal upon my lips, so that I may not fall because of them, and my tongue may not destroy me?",
+      "links": [
+        "Ps 141:3",
+        "Jas 3:2-8",
+        "Prov 21:23"
+      ],
+      "comment": "Sirach concludes with a prayer for self-control over speech, recognizing the tongue's capacity for destruction—a theme echoed in James 3:2-10."
     }
   ],
-  "translatedAt": "2025-12-24T07:34:43.517Z",
+  "translatedAt": "2025-12-28T23:44:28.363Z",
   "sections": [
     {
       "title": "The Folly of Laziness and Disgraceful Children",

@@ -13,7 +13,11 @@
       "chapter": 5,
       "verse": 1,
       "text": "But a certain man named Ananias, with Sapphira his wife, sold a piece of property,",
-      "links": "",
+      "links": [
+        "Josh 7:1",
+        "Acts 4:36-37",
+        "2 Kgs 5:25-27"
+      ],
       "comment": "This story immediately follows the generosity of Barnabas (Acts 4:36-37), showing a sharp contrast in motives regarding communal charity. This passage introduces the theme of integrity and judgment in the early Christian community.",
       "sectionHeader": "Ananias and Sapphira Lie to the Holy Spirit"
     },
@@ -51,7 +55,7 @@
       "verse": 4,
       "text": "'While it remained unsold, did it not remain your own? And after it was sold, was it not under your control? Why did you plan this thing in your heart? You have not lied to men, but to God.'",
       "links": "<a href='/AIV/19/51/6'>Ps. 51:6</a>",
-      "comment": "Peter clarifies the issue is not about mandatory giving but hypocrisy and deceit. This demonstrates the apostolic role in guarding the spiritual health of the community."
+      "comment": "Peter affirms that generosity in the early church was voluntary, not compulsory, highlighting the serious nature of Ananias's deceit—not merely lying to the community, but to God Himself (see also Joshua 7:1 and Psalm 51:4); this underscores God's concern for integrity within His people."
     },
     {
       "pk": 51005005,
@@ -74,7 +78,11 @@
       "chapter": 5,
       "verse": 6,
       "text": "The young men arose, wrapped him up, and carried him out and buried him.",
-      "links": "",
+      "links": [
+        "Acts 5:10",
+        "Deut 21:22-23",
+        "John 19:38-42"
+      ],
       "comment": "Immediate burial was a sign of serious divine judgment (Deut. 21:22-23). This act also emphasizes order and discipline within the early community."
     },
     {
@@ -86,7 +94,11 @@
       "chapter": 5,
       "verse": 7,
       "text": "After about three hours his wife came in, not knowing what had happened.",
-      "links": "",
+      "links": [
+        "Gen 3:6",
+        "Luke 17:26-27",
+        "Matt 24:39"
+      ],
       "comment": "The time interval demonstrates both the seriousness and impartiality of the judgment."
     },
     {
@@ -98,7 +110,11 @@
       "chapter": 5,
       "verse": 8,
       "text": "Peter said to her, 'Tell me, did you sell the land for this price?' She said, 'Yes, for that much.'",
-      "links": "",
+      "links": [
+        "Acts 5:3-4",
+        "Prov 12:19",
+        "Eph 4:25"
+      ],
       "comment": "Peter, in an act of pastoral authority, invites Sapphira to confess. The unrepentant lie repeats the sin."
     },
     {
@@ -122,7 +138,11 @@
       "chapter": 5,
       "verse": 10,
       "text": "Immediately, she fell down at his feet and died. When the young men came in, they found her dead, and they carried her out and buried her beside her husband.",
-      "links": "",
+      "links": [
+        "Acts 5:6",
+        "Num 16:32-33",
+        "1 Cor 10:10"
+      ],
       "comment": "Both were judged the same way for the same act—emphasizing equal accountability before God within the Church."
     },
     {
@@ -268,7 +288,11 @@
       "chapter": 5,
       "verse": 22,
       "text": "But when the officers came, they did not find them in the prison, and they returned and reported,",
-      "links": "",
+      "links": [
+        "Acts 12:18-19",
+        "Matt 28:11",
+        "Dan 6:19-23"
+      ],
       "comment": "The miraculous escape confuses the authorities, demonstrating God’s sovereignty."
     },
     {
@@ -280,7 +304,11 @@
       "chapter": 5,
       "verse": 23,
       "text": "'We found the prison securely locked and the guards standing at the doors, but when we opened them, we found no one inside.'",
-      "links": "",
+      "links": [
+        "Acts 12:10",
+        "Matt 28:2-6",
+        "Luke 24:2-3"
+      ],
       "comment": "The supernatural nature of the event is undeniable; no ordinary explanation suffices."
     },
     {
@@ -292,7 +320,11 @@
       "chapter": 5,
       "verse": 24,
       "text": "Now when the captain of the temple and the chief priests heard these words, they were greatly perplexed about them, wondering what this could come to.",
-      "links": "",
+      "links": [
+        "Luke 24:4",
+        "Acts 2:12",
+        "John 7:45-46"
+      ],
       "comment": "The authorities’ confusion contrasts with the clarity and mission of the apostles."
     },
     {
@@ -304,7 +336,11 @@
       "chapter": 5,
       "verse": 25,
       "text": "And someone came and told them, 'Look, the men whom you put in prison are standing in the temple and teaching the people!'",
-      "links": "",
+      "links": [
+        "Acts 4:18-20",
+        "Acts 5:21",
+        "Matt 28:18-20"
+      ],
       "comment": "God’s messengers cannot be silenced. The teaching continues in the face of threats."
     },
     {
@@ -401,7 +437,11 @@
       "chapter": 5,
       "verse": 33,
       "text": "When they heard this, they were enraged and wanted to kill them.",
-      "links": "",
+      "links": [
+        "Acts 7:54",
+        "Luke 6:11",
+        "John 16:2"
+      ],
       "comment": "This response echoes the violent opposition Jesus Himself faced; the disciples share in His suffering."
     },
     {
@@ -426,7 +466,11 @@
       "chapter": 5,
       "verse": 35,
       "text": "And he said to them, 'Men of Israel, take care what you are about to do with these men.'",
-      "links": "",
+      "links": [
+        "Matt 27:19",
+        "Acts 23:27-30",
+        "Acts 19:36"
+      ],
       "comment": "Gamaliel’s cautious approach brings a moment of reason."
     },
     {
@@ -438,7 +482,11 @@
       "chapter": 5,
       "verse": 36,
       "text": "'For before these days Theudas rose up, claiming to be somebody, and a number of men, about four hundred, joined him; he was killed, and all those who followed him were dispersed and came to nothing.'",
-      "links": "",
+      "links": [
+        "Acts 21:38",
+        "Acts 8:9",
+        "Deut 18:20"
+      ],
       "comment": "Historical references ground the drama in real events, warning against rash action."
     },
     {
@@ -450,7 +498,11 @@
       "chapter": 5,
       "verse": 37,
       "text": "'After him Judas the Galilean arose in the days of the census and drew away some of the people after him; he also perished, and all who followed him were scattered.'",
-      "links": "",
+      "links": [
+        "Luke 2:2",
+        "Gal 4:4",
+        "Hos 10:2"
+      ],
       "comment": "Gamaliel’s examples serve to show that human inventions will fail, but those from God will endure."
     },
     {
@@ -462,7 +514,11 @@
       "chapter": 5,
       "verse": 38,
       "text": "'So in the present case I tell you, keep away from these men and let them alone, for if this plan or undertaking is of man, it will fail;'",
-      "links": "",
+      "links": [
+        "Prov 19:21",
+        "Isa 8:10",
+        "Ps 33:10"
+      ],
       "comment": "True works of God cannot be overthrown by human means. This principle continues to guide Church history."
     },
     {
@@ -474,7 +530,11 @@
       "chapter": 5,
       "verse": 39,
       "text": "'but if it is from God, you will not be able to overthrow them. You might even be found opposing God!' So they took his advice.",
-      "links": "",
+      "links": [
+        "Prov 21:30",
+        "2 Chr 13:12",
+        "Acts 11:17"
+      ],
       "comment": "Gamaliel’s logic shows God’s sovereignty. The survival and expansion of the Church strongly suggest God’s ongoing work through it."
     },
     {

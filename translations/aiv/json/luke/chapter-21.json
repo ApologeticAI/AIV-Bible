@@ -88,7 +88,7 @@
       "verse": 7,
       "text": "They asked Him, 'Teacher, when will these things be, and what will be the sign when these things are about to take place?'",
       "links": "<a href='/AIV/40/24/3'>Matthew 24:3</a>",
-      "comment": "The disciples seek clarification about the timing and signs of these world-changing events. Such questions connect Jesus' prophecy to both immediate and future fulfillment.",
+      "comment": "The disciples, responding to Jesus’ prophecy of the temple’s destruction (v.6), seek specific signs—reflecting first-century Jewish expectations of apocalyptic events; their questions frame the chapter’s eschatological discourse (cf. Matt 24:3, Mark 13:4).",
       "sectionHeader": "Signs and Persecution Before the End"
     },
     {
@@ -367,7 +367,11 @@
       "chapter": 21,
       "verse": 30,
       "text": "'As soon as they put out leaves, you see for yourselves and know that summer is already near.'",
-      "links": "",
+      "links": [
+        "Matt 24:32",
+        "Mark 13:28",
+        "Song 2:11-13"
+      ],
       "comment": "Just as one recognizes the change of seasons by signs, so also should believers be attentive to spiritual and historical signs of God’s action."
     },
     {
@@ -404,7 +408,7 @@
       "verse": 33,
       "text": "'Heaven and earth will pass away, but My words will never pass away.'",
       "links": "<a href='/AIV/23/40/8'>Isaiah 40:8</a>; <a href='/AIV/19/119/89'>Psalm 119:89</a>",
-      "comment": "A strong claim to divinity—only God’s word is unchanging. Jesus affirms the eternal truth of His teaching. His authority is universal and everlasting, sustaining faith and doctrine throughout history."
+      "comment": "Jesus asserts the enduring authority and reliability of His teaching, emphasizing that while creation is transient, His words are eternally steadfast—a profound claim of divine revelation (cf. Isa 40:8; Matt 24:35)."
     },
     {
       "pk": 49021034,

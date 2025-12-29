@@ -3,6 +3,13 @@
   "bookName": "Sirach",
   "bookAbbreviation": "Sir",
   "chapter": 32,
+  "sections": [
+    {
+      "title": "Conduct at a Banquet",
+      "startVerse": 1,
+      "endVerse": 24
+    }
+  ],
   "verses": [
     {
       "pk": 28032001,
@@ -12,10 +19,10 @@
       "bookAbbreviation": "Sir",
       "chapter": 32,
       "verse": 1,
-      "text": "If you are appointed to preside at a banquet, do not exalt yourself, but act among the guests as one of them. Take care of their needs, then sit down.",
-      "links": "<a href='/AIV/42/14/10'>Luke 14:10</a>; <a href='/AIV/20/25/6-7'>Prov. 25:6-7</a>",
-      "comment": "Here, humility is emphasized for those in positions of honor—echoing Christ’s teaching to take the lowest place (Luke 14:10). True authority is found in humble service.",
-      "sectionHeader": "Conduct at Banquets and Gatherings"
+      "text": "If you are appointed as the master at a banquet, do not exalt yourself, but be among the guests as one of them; take care of their needs and then sit down.",
+      "links": "<a href='/AIV/20/25/6-7'>Prov. 25:6-7</a>; <a href='/AIV/42/14/10'>Luke 14:10</a>",
+      "comment": "The text teaches humility in leadership—a theme echoed by Jesus in Luke 14:10 where He commands His disciples to take the lowest place. Serving others is foundational for spiritual leadership.",
+      "sectionHeader": "Conduct at a Banquet"
     },
     {
       "pk": 28032002,
@@ -25,9 +32,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 32,
       "verse": 2,
-      "text": "When your work is done, take your place, so you may be merry with them; and for your good management, receive a crown.",
-      "links": "<a href='/AIV/40/25/21'>Matt. 25:21</a>",
-      "comment": "Service with diligence leads to joy and reward—paralleling the parable of the talents, where the faithful steward is given a share in his master’s joy."
+      "text": "Once you have fulfilled your duties, take your place, that you may enjoy yourself with them and receive a crown for your hospitality.",
+      "links": "<a href='/AIV/23/58/7'>Isa. 58:7</a>; <a href='/AIV/42/22/27'>Luke 22:27</a>",
+      "comment": "Being a servant among others and then welcomed as an equal anticipates the Christian doctrine of servanthood, as Christ Himself came to serve (Luke 22:27)."
     },
     {
       "pk": 28032003,
@@ -37,9 +44,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 32,
       "verse": 3,
-      "text": "Speak, you elder, for it is fitting for you, but with sound judgment, and do not interrupt the music.",
-      "links": "<a href='/AIV/20/26/4'>Prov. 26:4</a>",
-      "comment": "Wisdom accompanies age, but restraint is necessary. Discerning when (and how) to speak shows spiritual maturity and respect for order."
+      "text": "Speak as one who has authority, but restrain yourself from much talking.",
+      "links": "<a href='/AIV/20/17/27-28'>Prov. 17:27-28</a>",
+      "comment": "Wisdom is shown not only in what is said but also in silence. True authority is evidenced more by prudent restraint than by many words."
     },
     {
       "pk": 28032004,
@@ -49,9 +56,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 32,
       "verse": 4,
-      "text": "Do not pour out words where they are not needed, and do not show yourself unwise by talking too much.",
-      "links": "<a href='/AIV/20/17/27-28'>Prov. 17:27-28</a>; <a href='/AIV/59/1/19'>Jas 1:19</a>",
-      "comment": "Silent wisdom is often more powerful than many words. The call to prudence and self-control anticipates New Testament teachings on taming the tongue (James 1:19)."
+      "text": "When you are among elders, do not be forward, do not interrupt when someone speaks.",
+      "links": "<a href='/AIV/20/20/3'>Prov. 20:3</a>; <a href='/AIV/59/1/19'>Jas. 1:19</a>",
+      "comment": "Deference and listening are hallmarks of humility. Honoring elders sets the tone for receiving wisdom and shows the posture necessary in the Church (see Jas. 1:19)."
     },
     {
       "pk": 28032005,
@@ -61,9 +68,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 32,
       "verse": 5,
-      "text": "As a signet of carbuncle set in gold, so is a melody played at a banquet.",
-      "links": "<a href='/AIV/19/33/3'>Ps. 33:3</a>",
-      "comment": "Just as a jewel is set to enhance its beauty, so fitting music enhances joy in proper context. The appreciation for harmony points to the goodness of creation."
+      "text": "A ruby seal in a setting of gold is a concert of music at a banquet of wine.",
+      "links": [
+        "Ps 33:2-3",
+        "Ps 144:9",
+        "Isa 5:12"
+      ],
+      "comment": "The imagery of precious jewels and luxurious settings reflects the high value placed on music and celebration in ancient banquets, highlighting how beauty and harmony elevate communal joy (cf. Psalm 133:1)."
     },
     {
       "pk": 28032006,
@@ -73,9 +84,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 32,
       "verse": 6,
-      "text": "A ruby seal on a gold mounting is a musical performance at a wine banquet.",
-      "links": "<a href='/AIV/19/150/3-4'>Ps. 150:3-4</a>",
-      "comment": "Repetition emphasizes that fitting beauty and order in celebration reflect God’s order and the goodness of joy when expressed rightly."
+      "text": "A seal of emerald in a rich setting of gold is the melody of music with good wine.",
+      "links": [
+        "Ps 98:5",
+        "Eccl 2:8",
+        "Rev 18:22"
+      ],
+      "comment": "The pairing of emerald and gold signifies refined taste, paralleling how melodious music enhances the pleasure of good wine, suggesting the integration of art and festivity as gifts from God (cf. Isaiah 25:6)."
     },
     {
       "pk": 28032007,
@@ -85,9 +100,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 32,
       "verse": 7,
-      "text": "Speak, young man, if it is required of you, but few words, and only when asked twice.",
-      "links": "<a href='/AIV/20/17/27'>Prov. 17:27</a>",
-      "comment": "Youth are called to humility and readiness to listen, learning wisdom before speaking, reflecting the virtue of obedience to elders."
+      "text": "Speak, you who are young, if you are obliged to, but no more than twice, and only if asked.",
+      "links": [
+        "Job 32:4-7",
+        "Prov 17:27-28",
+        "Jas 1:19"
+      ],
+      "comment": "This advice stresses humility and restraint for youth in social settings, echoing the wisdom tradition's emphasis on listening before speaking (cf. Proverbs 17:27–28; James 1:19)."
     },
     {
       "pk": 28032008,
@@ -97,9 +116,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 32,
       "verse": 8,
-      "text": "Sum up your words, say much in few; be as someone who knows and yet is silent.",
-      "links": "<a href='/AIV/20/10/19'>Prov. 10:19</a>",
-      "comment": "Conciseness in speech models humility and wisdom, qualities often attributed in both Old and New Testament to the righteous."
+      "text": "Be brief; say much in few words; be as one who knows and can still hold his tongue.",
+      "links": [
+        "Prov 10:19",
+        "Eccl 5:2",
+        "Sir 20:5-7"
+      ],
+      "comment": "Encourages eloquence marked by brevity and restraint, a hallmark of wisdom literature, advocating for thoughtful speech that demonstrates self-control (cf. Proverbs 10:19)."
     },
     {
       "pk": 28032009,
@@ -109,9 +132,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 32,
       "verse": 9,
-      "text": "If you are among great men, do not presume; and when the elders are speaking, do not talk too much.",
-      "links": "<a href='/AIV/20/25/6-7'>Prov. 25:6-7</a>",
-      "comment": "Proper reverence for authority and elders is a mark of humility. This is a foundation for order in the community and for rightly ordered worship."
+      "text": "Among the great do not act as their equal; and when another is speaking, do not babble.",
+      "links": "<a href='/AIV/20/10/19'>Prov. 10:19</a>",
+      "comment": "Brevity in wisdom mirrors Jesus' own parables—teaching profound truth with few words (cf. Prov. 10:19)."
     },
     {
       "pk": 28032010,
@@ -121,9 +144,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 32,
       "verse": 10,
-      "text": "Lightning flashes before the thunder sounds, and favor precedes a humble person.",
-      "links": "<a href='/AIV/20/15/33'>Prov. 15:33</a>; <a href='/AIV/42/18/14'>Luke 18:14</a>",
-      "comment": "Just as order is seen in nature, God's favor is drawn to humility, foreshadowing Christ's teaching, 'whoever humbles himself will be exalted' (Luke 18:14)."
+      "text": "Lightning goes before the thunder, and approval precedes one who is modest.",
+      "links": "<a href='/AIV/42/14/10'>Luke 14:10</a>; <a href='/AIV/59/4/6'>James 4:6</a>",
+      "comment": "Again, humility is a mark of true spiritual greatness (James 4:6), while pride divides."
     },
     {
       "pk": 28032011,
@@ -133,10 +156,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 32,
       "verse": 11,
-      "text": "Rise early, and seek instruction, and you will find wisdom.",
-      "links": "<a href='/AIV/20/8/17'>Prov. 8:17</a>",
-      "comment": "Diligence in seeking wisdom is rewarded; this is spiritual as well as practical advice, pointing to the value of study and perseverance.",
-      "sectionHeader": "The Pursuit of Wisdom"
+      "text": "Leave in good time and do not be the last; go home quickly and do not linger.",
+      "links": "<a href='/AIV/59/1/19'>James 1:19</a>",
+      "comment": "Hearing before answering is essential for justice and charity, echoing James’ exhortation for every one to be 'quick to hear, slow to speak'."
     },
     {
       "pk": 28032012,
@@ -146,9 +168,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 32,
       "verse": 12,
-      "text": "The pursuit of wisdom starts with sincere desire; watch at her gates and you will be filled with joy.",
-      "links": "<a href='/AIV/20/8/34'>Prov. 8:34</a>",
-      "comment": "Imagery of waiting at wisdom’s gates resembles longing for intimacy with God—anticipating Jesus’ call to knock and seek (Matt. 7:7)."
+      "text": "Enjoy yourself there to your heart’s content, but do not sin through boastful words.",
+      "links": "<a href='/AIV/40/23/12'>Matt. 23:12</a>",
+      "comment": "Humility in conduct is a key virtue; Jesus warns against exalting oneself in Matthew 23:12."
     },
     {
       "pk": 28032013,
@@ -158,9 +180,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 32,
       "verse": 13,
-      "text": "The seeker of wisdom will find favor, and live in joy.",
-      "links": "<a href='/AIV/20/3/13-18'>Prov. 3:13-18</a>",
-      "comment": "Wisdom is portrayed as a path to happiness, prefiguring the meaning of blessedness found in Christ’s Beatitudes (Matt. 5:3-12)."
+      "text": "But above all, bless your Maker, who fills you with his good gifts.",
+      "links": "<a href='/AIV/20/26/17'>Prov. 26:17</a>",
+      "comment": "Withholding unnecessary advice demonstrates wisdom; meddling leads to conflict (Prov. 26:17)."
     },
     {
       "pk": 28032014,
@@ -170,9 +192,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 32,
       "verse": 14,
-      "text": "Do not neglect a commandment, and in the struggles of life, rely on wisdom; for the Lord's way is sure, and wisdom guards those who love her.",
-      "links": "<a href='/AIV/19/19/8-11'>Ps. 19:8-11</a>; <a href='/AIV/20/2/7-8'>Prov. 2:7-8</a>",
-      "comment": "Obedience and reliance on divine wisdom protect the faithful. Spiritual life includes both external law and interior devotion."
+      "text": "If you heed these instructions, you will not stumble; by living them, you will be honored by all.",
+      "links": "<a href='/AIV/19/119/165'>Ps. 119:165</a>",
+      "comment": "Obedience to wisdom brings peace and public honor, a prophecy fulfilled in Christ, who embodied God's wisdom and was exalted through humility."
     },
     {
       "pk": 28032015,
@@ -182,9 +204,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 32,
       "verse": 15,
-      "text": "He who trusts in her will inherit glory, and where she enters, the Lord will bless.",
-      "links": "<a href='/AIV/20/3/35'>Prov. 3:35</a>",
-      "comment": "Embrace of wisdom leads to honor and divine blessing—a promise of spiritual inheritance."
+      "text": "The one who seeks the law will be filled with it, but the hypocrite will stumble at it.",
+      "links": "<a href='/AIV/19/119/133'>Ps. 119:133</a>",
+      "comment": "Prayer for right conduct unites discernment and action, which are both rooted in trust in the Lord’s guidance."
     },
     {
       "pk": 28032016,
@@ -194,9 +216,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 32,
       "verse": 16,
-      "text": "Those who fear the Lord will judge truthfully, and a faithful heart walks with wisdom.",
-      "links": "<a href='/AIV/20/1/7'>Prov. 1:7</a>; <a href='/AIV/19/111/10'>Ps. 111:10</a>",
-      "comment": "Right judgment comes from proper reverence for God. Fear of the Lord leads to wisdom—a theme that runs from Proverbs through the Gospels."
+      "text": "Those who fear the Lord will form true judgments, and their actions will be righteous like a light.",
+      "links": "<a href='/AIV/19/111/10'>Ps. 111:10</a>; <a href='/AIV/40/5/17-20'>Matt. 5:17-20</a>",
+      "comment": "Obedience to God’s commandments reveals a path to wisdom. Jesus Himself fulfills and upholds the law, lifting faith and works together."
     },
     {
       "pk": 28032017,
@@ -206,10 +228,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 32,
       "verse": 17,
-      "text": "The lawless man will not accept correction, and finds excuses for doing as he pleases.",
-      "links": "<a href='/AIV/20/15/10'>Prov. 15:10</a>; <a href='/AIV/43/3/19-20'>John 3:19-20</a>",
-      "comment": "Resistance to truth and discipline reflects a rebellious heart. Christ rebukes those who prefer darkness to light (John 3:19-20).",
-      "sectionHeader": "Right Judgment and Avoiding Evil"
+      "text": "The sinner will not accept correction and finds reasons for failure according to his own desires.",
+      "links": "<a href='/AIV/20/12/1'>Prov. 12:1</a>",
+      "comment": "This verse highlights a common wisdom theme: the obstinate refusal of the wicked to heed advice, driven by self-serving motives; it echoes Proverbs 13:1 and emphasizes moral responsibility in responding to instruction."
     },
     {
       "pk": 28032018,
@@ -219,9 +240,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 32,
       "verse": 18,
-      "text": "A person of sound judgment reflects in his heart before acting; but one without understanding acts in haste.",
-      "links": "<a href='/AIV/20/14/15'>Prov. 14:15</a>; <a href='/AIV/59/1/19'>Jas. 1:19</a>",
-      "comment": "Careful discernment is a fruit of wisdom and aligns with New Testament admonition to be quick to hear, slow to speak, and slow to anger."
+      "text": "A sensible person never overlooks insight; the proud and imprudent make decisions hastily.",
+      "links": "<a href='/AIV/20/13/16'>Prov. 13:16</a>",
+      "comment": "Prudence is a cardinal virtue, protecting from impulsivity—an essential quality for spiritual leadership and discernment."
     },
     {
       "pk": 28032019,
@@ -231,9 +252,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 32,
       "verse": 19,
-      "text": "Listen to your conscience, for it will warn you. You will not be reproached if you heed it.",
-      "links": "<a href='/AIV/45/2/15'>Rom. 2:15</a>",
-      "comment": "This foreshadows Paul’s teaching about the law written on the heart (Rom. 2:15). An attentive conscience is essential for moral life."
+      "text": "Never act without reflection; then you will have nothing to regret.",
+      "links": "<a href='/AIV/20/19/2'>Prov. 19:2</a>",
+      "comment": "Reflective action guards the soul and the community; it’s foundational for Christian discernment and moral theology."
     },
     {
       "pk": 28032020,
@@ -243,9 +264,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 32,
       "verse": 20,
-      "text": "Do not be reckless in your deeds nor stubborn on a wrong path.",
-      "links": "<a href='/AIV/20/3/6'>Prov. 3:6</a>",
-      "comment": "Prudence and conversion go hand in hand. Turning away from error is a central message of both prophets and Jesus."
+      "text": "Do not walk in dangerous ways, or you may stumble on obstacles not seen.",
+      "links": "<a href='/AIV/19/91/12'>Ps. 91:12</a>",
+      "comment": "Avoiding spiritual and moral danger keeps us from sin. In Psalm 91:12, the angels protect the righteous from stumbling—symbolic for those who fear the Lord."
     },
     {
       "pk": 28032021,
@@ -255,9 +276,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 32,
       "verse": 21,
-      "text": "Do not trust in your own strength as you travel alone, for many are the ways of danger.",
-      "links": "<a href='/AIV/19/121/7-8'>Ps. 121:7-8</a>",
-      "comment": "Reliance on self is limited. In biblical spirituality, security is found in God’s protection and in the supportive community of believers."
+      "text": "Do not trust yourself in uncertain paths.",
+      "links": "<a href='/AIV/20/28/26'>Prov. 28:26</a>",
+      "comment": "Self-reliance apart from faith is dangerous; wisdom comes from trusting in God rather than oneself."
     },
     {
       "pk": 28032022,
@@ -267,9 +288,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 32,
       "verse": 22,
-      "text": "Beware of your own children, watch out for your companions, and in every act be careful to avoid evil.",
-      "links": "<a href='/AIV/20/4/14-15'>Prov. 4:14-15</a>",
-      "comment": "Even those close to us may lead us into temptation unintentionally. Vigilance is needed to avoid sin, recalling Jesus’ command to 'watch and pray' (Matt. 26:41)."
+      "text": "In whatever you do, be on your guard; for those who keep the commandments know what is pleasing to God.",
+      "links": "<a href='/AIV/40/19/17'>Matt. 19:17</a>",
+      "comment": "Christ teaches that keeping the commandments leads to life (Matt. 19:17). Obedience springs from the heart enlightened by God’s will, requiring ongoing vigilance."
     },
     {
       "pk": 28032023,
@@ -279,9 +300,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 32,
       "verse": 23,
-      "text": "Whatever you do, remember your end, and you will never do wrong.",
-      "links": "<a href='/AIV/19/90/12'>Ps. 90:12</a>; <a href='/AIV/46/10/31'>1 Cor. 10:31</a>",
-      "comment": "Mindfulness of death and final judgment ('memento mori') is a path to holiness, fostering sobriety in action, just as Paul reminds believers to do all for God’s glory."
+      "text": "He who trusts in the law gives attention to the commandments; he who puts his trust in the Lord will never suffer loss.",
+      "links": "<a href='/AIV/19/34/10'>Ps. 34:10</a>",
+      "comment": "By aligning trust with obedience to God’s law, we participate in the promises of the Lord, never lacking anything necessary for salvation."
     },
     {
       "pk": 28032024,
@@ -291,33 +312,10 @@
       "bookAbbreviation": "Sir",
       "chapter": 32,
       "verse": 24,
-      "text": "He who keeps the Law multiplies offerings; he who heeds the commandments offers a peace offering.",
-      "links": "<a href='/AIV/19/51/16-17'>Ps. 51:16-17</a>; <a href='/AIV/43/14/21'>John 14:21</a>",
-      "comment": "True devotion is more than outward sacrifice—it comes from obedience of heart. Jesus links love of God to keeping his commandments (John 14:21), showing that grace fulfills the Law.",
-      "sectionHeader": "Observance of the Law"
+      "text": "The one who keeps the law preserves himself, and the one who trusts the Lord will not suffer loss.",
+      "links": "<a href='/AIV/20/1/7'>Prov. 1:7</a>; <a href='/AIV/19/111/10'>Ps. 111:10</a>",
+      "comment": "Fear of the Lord is the source of wisdom. Divine guidance and judgment shape the people of God, which is reflected in Christ’s giving of His Spirit to the Church—fulfilling the promises of true wisdom."
     }
   ],
-  "translatedAt": "2025-12-24T07:40:20.679Z",
-  "sections": [
-    {
-      "title": "Conduct at Banquets and Gatherings",
-      "startVerse": 1,
-      "endVerse": 10
-    },
-    {
-      "title": "The Pursuit of Wisdom",
-      "startVerse": 11,
-      "endVerse": 16
-    },
-    {
-      "title": "Right Judgment and Avoiding Evil",
-      "startVerse": 17,
-      "endVerse": 23
-    },
-    {
-      "title": "Observance of the Law",
-      "startVerse": 24,
-      "endVerse": 24
-    }
-  ]
+  "translatedAt": "2025-12-28T23:44:37.996Z"
 }

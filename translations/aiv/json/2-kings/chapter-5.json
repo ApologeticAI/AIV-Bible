@@ -50,7 +50,11 @@
       "chapter": 5,
       "verse": 4,
       "text": "So Naaman went in and told his master, 'This is what the girl from the land of Israel said.'",
-      "links": "",
+      "links": [
+        "Gen 41:9-13",
+        "Dan 2:25",
+        "2 Kgs 5:2-3"
+      ],
       "comment": "The general’s willingness to listen to a foreign servant suggests humility and openness—dispositions favorable for receiving God’s grace."
     },
     {
@@ -110,7 +114,11 @@
       "chapter": 5,
       "verse": 9,
       "text": "So Naaman came with his horses and chariots and stood at the door of Elisha’s house.",
-      "links": "",
+      "links": [
+        "Exod 14:25",
+        "2 Kgs 6:17",
+        "Luke 7:6-7"
+      ],
       "comment": "Naaman’s impressive display contrasts with the humble location, showing God’s choice to work through the apparently insignificant.",
       "sectionHeader": "Naaman Is Cleansed of Leprosy"
     },
@@ -160,7 +168,11 @@
       "verse": 13,
       "text": "But his servants approached and spoke to him, saying, 'My father, if the prophet had told you to do something great, would you not have done it? How much more, then, when he says to you, ",
       "and be clean": "text you only, wash, and be clean?",
-      "links": "",
+      "links": [
+        "Matt 19:16-22",
+        "John 2:5",
+        "Mic 6:6-8"
+      ],
       "comment": "Sometimes obedience to God’s simple instruction is more effective than grand actions. The role of community in encouraging faith is important."
     },
     {
@@ -221,7 +233,7 @@
       "verse": 18,
       "text": "But may the LORD pardon your servant in this: when my master enters the house of Rimmon to worship there, leaning on my arm, and I bow myself in the house of Rimmon—when I bow myself in the house of Rimmon, may the LORD pardon your servant in this matter.'",
       "links": "<a href='/AIV/09/16/7'>1 Sam. 16:7</a>",
-      "comment": "Naaman requests pardon for necessary outward actions not reflecting his changed heart—a situation prompting reflection on the tension between obedience, conscience, and social duty."
+      "comment": "Naaman recognizes the tension between his new loyalty to Yahweh and his political duty to accompany the king of Aram into the pagan temple of Rimmon (cf. Daniel 3:12), revealing the complexities faced by believers living in idolatrous contexts and highlighting God's grace for those navigating imperfect circumstances."
     },
     {
       "pk": 12005019,
@@ -257,7 +269,11 @@
       "chapter": 5,
       "verse": 21,
       "text": "So Gehazi pursued Naaman. And when Naaman saw someone running after him, he got down from the chariot to meet him and said, 'Is all well?'",
-      "links": "",
+      "links": [
+        "Gen 14:17",
+        "2 Kgs 4:26",
+        "Luke 17:16"
+      ],
       "comment": "Naaman’s humility continues—he honors Gehazi by dismounting. This narrative’s focus moves to the consequences of deception."
     },
     {
@@ -270,7 +286,11 @@
       "verse": 22,
       "text": "And he said, 'All is well. My master has sent me, saying, ",
       "'Behold, just now two young men of the sons of the prophets have come to me from the hill country of Ephraim. Please give them a talent of silver and two changes of clothes.'": "text you only, 'All is well. My master has sent me, saying, 'Behold, just now two young men of the sons of the prophets have come to me from the hill country of Ephraim. Please give them a talent of silver and two changes of clothes.''",
-      "links": "",
+      "links": [
+        "Josh 7:19-21",
+        "Acts 5:3-4",
+        "2 Cor 11:13-15"
+      ],
       "comment": "Gehazi invents a story using the pretext of charity—a warning against twisting good causes for personal gain."
     },
     {
@@ -282,7 +302,11 @@
       "chapter": 5,
       "verse": 23,
       "text": "Naaman said, 'Please, take two talents.' He urged him and bound two talents of silver in two bags, with two changes of clothes, and gave them to two of his servants, and they carried them before Gehazi.",
-      "links": "",
+      "links": [
+        "Judg 17:10",
+        "2 Kgs 5:5",
+        "Matt 6:2-4"
+      ],
       "comment": "Naaman gives generously, unwittingly participating in Gehazi's deceit. True generosity is contrasted with corrupt receipt."
     },
     {
@@ -294,7 +318,11 @@
       "chapter": 5,
       "verse": 24,
       "text": "When he came to the hill, he took them from their hand, and put them away in the house, and sent the men away, and they departed.",
-      "links": "",
+      "links": [
+        "Josh 7:20-21",
+        "Prov 28:13",
+        "Acts 5:1-2"
+      ],
       "comment": "Gehazi acts secretly, showing the concealed nature of sin. The narrative builds toward judgment for mishandling God’s gifts."
     },
     {

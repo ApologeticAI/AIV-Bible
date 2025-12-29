@@ -109,9 +109,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 4,
       "verse": 9,
-      "text": "In your distress, your own actions will be remembered; as you have done, so will it be done to you.",
-      "links": "<a href='/AIV/40/7/2'>Matt. 7:2</a>; <a href='/AIV/48/6/7'>Gal. 6:7</a>",
-      "comment": "Suggests a principle of divine reciprocity found in Christ’s teaching—the measure you use will be used for you."
+      "text": "Rescue the oppressed from the oppressor, and do not be hesitant in giving a verdict.",
+      "links": [
+        "Isa 1:17",
+        "Prov 24:11",
+        "Jer 22:3"
+      ],
+      "comment": "This exhortation reflects ancient Israel’s judicial ideals (see Deut 24:17), urging just action and courage in defending the oppressed, a theme echoed throughout biblical wisdom literature."
     },
     {
       "pk": 28004010,
@@ -243,9 +247,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 4,
       "verse": 20,
-      "text": "Observe the right time, and be cautious of evil; do not be ashamed to confess your sins.",
-      "links": "<a href='/AIV/19/32/5'>Ps. 32:5</a>; <a href='/AIV/62/1/9'>1 John 1:9</a>",
-      "comment": "Admits the need for confession, pointing to a spiritual practice of reconciliation and self-awareness central to Christian life.",
+      "text": "Watch for the opportune time, and beware of evil, and do not be ashamed to be yourself.",
+      "links": [
+        "Eccl 3:1",
+        "Matt 10:16",
+        "Rom 12:9"
+      ],
+      "comment": "Sirach commends prudence and integrity, warning not to compromise one’s character even when facing evil, paralleling the advice in Prov 4:23 on guarding one’s heart.",
       "sectionHeader": "Counsel on Prudence and Shame"
     },
     {
@@ -256,9 +264,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 4,
       "verse": 21,
-      "text": "Do not hold back from speaking when your words can save, nor hide your wisdom for fear of being judged.",
-      "links": "<a href='/AIV/20/31/8'>Prov. 31:8</a>; <a href='/AIV/41/8/38'>Mark 8:38</a>",
-      "comment": "Coins the virtue of holy boldness—omitting truth out of fear is a spiritual failure; cf. the martyr’s witness."
+      "text": "For there is a shame that leads to sin, and there is a shame that is glory and favor.",
+      "links": [
+        "2 Cor 7:10",
+        "Luke 9:26",
+        "Rom 1:16"
+      ],
+      "comment": "Not all shame is destructive; virtuous shame deters sin while false shame leads away from God—Paul’s letters distinguish between worldly sorrow and godly humility (2 Cor 7:10-11)."
     },
     {
       "pk": 28004022,
@@ -268,9 +280,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 4,
       "verse": 22,
-      "text": "Do not be ashamed to confess your sins, nor strive against the current of a rushing stream.",
-      "links": "<a href='/AIV/19/51/3'>Ps. 51:3</a>; <a href='/AIV/19/94/12'>Ps. 94:12</a>",
-      "comment": "Confession is not a weakness but a path to mercy; humanity is invited to humility rather than stubborn pride."
+      "text": "Do not show partiality, to your own harm, or deference, to your downfall.",
+      "links": [
+        "Lev 19:15",
+        "Deut 1:17",
+        "Jas 2:1"
+      ],
+      "comment": "Impartiality in judgment echoes the Torah’s command for fair treatment (Lev 19:15), warning that favoritism undermines justice and harms both others and oneself."
     },
     {
       "pk": 28004023,
@@ -280,9 +296,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 4,
       "verse": 23,
-      "text": "Do not submit to foolish people, nor accept respect purchased by sin.",
-      "links": "<a href='/AIV/20/1/10'>Prov. 1:10</a>; <a href='/AIV/19/26/4'>Ps. 26:4</a>",
-      "comment": "Rejecting the world’s favor bought by wrongdoing separates the just from those corrupted by compromise."
+      "text": "Do not refrain from speaking at the proper moment, and do not hide your wisdom.",
+      "links": [
+        "Prov 15:23",
+        "Matt 10:19-20",
+        "1 Pet 3:15"
+      ],
+      "comment": "Wisdom must be spoken timely; silence in the face of truth or need is negligence, recalling Ecclesiastes 3:7, 'a time to keep silence and a time to speak.'"
     },
     {
       "pk": 28004024,
@@ -292,9 +312,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 4,
       "verse": 24,
-      "text": "Do not be ashamed to speak the truth, but do not commit sin for the sake of pleasing anyone.",
-      "links": "<a href='/AIV/20/29/25'>Prov. 29:25</a>; <a href='/AIV/45/1/16'>Rom. 1:16</a>",
-      "comment": "This verse directs us to prioritize truth and integrity in speech, reminiscent of apostolic encouragement to be bold for the gospel."
+      "text": "For wisdom becomes known through speech, and education through the words of the tongue.",
+      "links": [
+        "Prov 18:4",
+        "Matt 12:34",
+        "Col 4:6"
+      ],
+      "comment": "Speech reveals wisdom, with education imparted through dialogue—this wisdom tradition is affirmed in Proverbs 18:21, 'Death and life are in the power of the tongue.'"
     },
     {
       "pk": 28004025,
@@ -304,9 +328,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 4,
       "verse": 25,
-      "text": "Do not be shy in matter of the law or justice, for shame can lead to sin.",
-      "links": "<a href='/AIV/03/19/15'>Lev. 19:15</a>; <a href='/AIV/20/28/5'>Prov. 28:5</a>",
-      "comment": "Upholding justice without fear is a biblical command; shame is exposed as a source of moral compromise."
+      "text": "Never speak against the truth, but be ashamed of your ignorance.",
+      "links": [
+        "Eph 4:25",
+        "Prov 12:17",
+        "2 Tim 2:15"
+      ],
+      "comment": "Upholding truth is essential; ignorance ought to humble us, aligning with John 8:32’s focus on truth’s liberating power."
     },
     {
       "pk": 28004026,
@@ -376,12 +404,16 @@
       "bookAbbreviation": "Sir",
       "chapter": 4,
       "verse": 31,
-      "text": "Let not your hand be open to receive, but closed to give.",
-      "links": "<a href='/AIV/40/10/8'>Matt. 10:8</a>; <a href='/AIV/20/11/25'>Prov. 11:25</a>",
-      "comment": "The last verse calls for generosity, with a warning against selfishness—a recurring biblical theme inviting sacrificial giving."
+      "text": "Do not let your hand be stretched out to receive and closed when it is time to give.",
+      "links": [
+        "Deut 15:7-8",
+        "Prov 3:27",
+        "Matt 5:42"
+      ],
+      "comment": "Generosity is a mark of righteousness; the verse warns against selfishness, harmonizing with Proverbs 11:25, 'A generous person will prosper.'"
     }
   ],
-  "translatedAt": "2025-12-24T07:25:07.389Z",
+  "translatedAt": "2025-12-28T06:59:08.417Z",
   "sections": [
     {
       "title": "Compassion for the Poor and Oppressed",

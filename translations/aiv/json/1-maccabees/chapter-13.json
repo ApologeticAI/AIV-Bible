@@ -3,6 +3,13 @@
   "bookName": "1 Maccabees",
   "bookAbbreviation": "1Macc",
   "chapter": 13,
+  "sections": [
+    {
+      "title": "Simon Succeeds Jonathan As Leader of Israel",
+      "startVerse": 1,
+      "endVerse": 53
+    }
+  ],
   "verses": [
     {
       "pk": 20013001,
@@ -12,10 +19,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 1,
-      "text": "When Simon heard that Trypho was gathering a large army to invade the land of Judah and destroy it,",
-      "links": "<a href='/AIV/20/12/39'>1Macc 12:39</a>; <a href='/AIV/20/13/31'>1Macc 13:31</a>",
-      "comment": "This opening verse sets the political scene, with the ruler Trypho threatening Judah. This historical context underscores the repeated persecution faced by the people of God, reminiscent of earlier Old Testament experiences (<a href='/AIV/2/1/8-14'>Exod. 1:8-14</a>).",
-      "sectionHeader": "Simon Chosen Leader of Israel"
+      "text": "Now Simon heard that Trypho was gathering a large army to invade the land of Judea and devastate it.",
+      "links": "<a href='/AIV/13/11/39'>1Macc 11:39</a>",
+      "comment": "This verse introduces the threat of Trypho against Judea. The text’s focus on the land anticipates God's protection over His chosen people.",
+      "sectionHeader": "Simon Succeeds Jonathan As Leader of Israel"
     },
     {
       "pk": 20013002,
@@ -25,9 +32,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 2,
-      "text": "he saw that the people were trembling with fear and went up to Jerusalem. He gathered the people together,",
-      "links": "<a href='/AIV/20/4/30'>1Macc 4:30</a>; <a href='/AIV/20/14/27'>1Macc 14:27</a>",
-      "comment": "Simon responds as a leader, gathering and encouraging the people. This evokes the image of a shepherd caring for his flock, a theme taken up in the messianic prophecies (<a href='/AIV/23/40/11'>Isa. 40:11</a>)."
+      "text": "He saw that the people were trembling in fear, so he went up to Jerusalem and called the people together.",
+      "links": "<a href='/AIV/19/46/1-3'>Psalm 46:1-3</a>",
+      "comment": "Simon’s response demonstrates servant-leadership—prefiguring Christ’s concern for his flock in times of distress (<a href='/AIV/42/22/31-32'>Luke 22:31-32</a>)."
     },
     {
       "pk": 20013003,
@@ -37,9 +44,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 3,
-      "text": "encouraged them and said to them, “You yourselves know all that I and my brothers and the house of my father have done for the laws and the sanctuary;",
-      "links": "<a href='/AIV/20/2/50-61'>1Macc 2:50-61</a>",
-      "comment": "Simon's words recall Israel's tradition of remembrance and faithfulness. This mirrors the call to 'remember' in salvation history (<a href='/AIV/5/8/2'>Deut. 8:2</a>). Simon's focus on the laws and the sanctuary foreshadows the importance of faithfulness to sacred tradition and holy places."
+      "text": "He encouraged them, saying, 'You all know everything my brothers, Jonathan and Judas, have done, what they have fought for and accomplished for the nation, and how they have died because of their loyalty.'",
+      "links": "<a href='/AIV/58/11/32-40'>Hebrews 11:32-40</a>",
+      "comment": "Simon's speech echoes the biblical theme of remembrance and faithfulness among leaders—mirroring the 'great cloud of witnesses' celebrated in Hebrews."
     },
     {
       "pk": 20013004,
@@ -49,9 +56,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 4,
-      "text": "the wars and the troubles that we have seen.",
-      "links": "<a href='/AIV/19/44/1-26'>Ps. 44:1-26</a>",
-      "comment": "Simon's reference to tribulation aligns with the Old Testament tradition, reminding God's people that suffering and persecution are part of the journey toward redemption."
+      "text": "Because of this, all my brothers have perished for the sake of Israel, and I alone am left.",
+      "links": [
+        "Gen 45:7",
+        "Ex 32:32",
+        "Judg 7:1"
+      ],
+      "comment": "Simon, the last surviving son of Mattathias, poignantly recalls the cost of the Maccabean revolt, emphasizing personal sacrifice for the nation's freedom, resonant with themes of faithful remnant (cf. Romans 11:5)."
     },
     {
       "pk": 20013005,
@@ -61,9 +72,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 5,
-      "text": "For this reason all my brothers have perished for the sake of Israel, and I alone am left.",
-      "links": "<a href='/AIV/20/2/70'>1Macc 2:70</a>; <a href='/AIV/20/9/18'>1Macc 9:18</a>",
-      "comment": "Here Simon stands as a solitary leader, reminiscent of Moses and Elijah, each of whom stood alone for God in times of crisis (<a href='/AIV/2/32/32'>Exod. 32:32</a>; <a href='/AIV/11/19/10'>1 Kings 19:10</a>)."
+      "text": "And now, far be it from me to spare my life in any time of distress, for I am not better than my brothers.",
+      "links": "<a href='/AIV/45/9/3-5'>Romans 9:3-5</a>",
+      "comment": "Simon’s willingness to risk himself for Israel echoes Paul's self-sacrificing love for Israel in Romans."
     },
     {
       "pk": 20013006,
@@ -73,9 +84,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 6,
-      "text": "But now, far be it from me to spare my own life in any time of distress, for I am not better than my brothers.",
-      "links": "<a href='/AIV/11/19/4'>1 Kings 19:4</a>",
-      "comment": "Simon's humility and willingness to die for his people anticipates later Christian ideals of self-sacrifice, fulfilled perfectly in Christ (<a href='/AIV/40/20/28'>Matt. 20:28</a>)."
+      "text": "But I will avenge my nation and the sanctuary and your wives and children, for all the nations have gathered together out of hatred to destroy us.”",
+      "links": "<a href='/AIV/16/5/6'>Nehemiah 5:6</a>",
+      "comment": "Simon invokes self-denial, a virtue highlighted by Christ’s teachings on humble leadership."
     },
     {
       "pk": 20013007,
@@ -85,9 +96,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 7,
-      "text": "But I will avenge my people and the sanctuary and your wives and children, for all the nations have gathered out of hatred to destroy us.",
-      "links": "<a href='/AIV/20/2/67-68'>1Macc 2:67-68</a>",
-      "comment": "The defense of the people, temple, and families alludes to their duty to protect God's heritage and sacred institutions."
+      "text": "The spirit of the people was rekindled when they heard these words,",
+      "links": [
+        "Neh 2:18",
+        "2 Chr 15:8",
+        "Ezra 10:4"
+      ],
+      "comment": "Simon's words inspire hope and national unity among the people, highlighting the role of strong leadership in sustaining Israel during crisis."
     },
     {
       "pk": 20013008,
@@ -97,9 +112,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 8,
-      "text": "The spirit of the people was rekindled as they heard these words,",
-      "links": "<a href='/AIV/7/6/34'>Judg. 6:34</a>",
-      "comment": "The true leader inspires hope, a principle seen throughout salvation history. This idea resonates with those commissioning leaders to guide the people in faith (<a href='/AIV/6/1/9'>Josh. 1:9</a>)."
+      "text": "and they answered in a loud voice, “You are our leader in place of Judas and your brother Jonathan.",
+      "links": "<a href='/AIV/23/40/1'>Isaiah 40:1</a>",
+      "comment": "This gesture of comfort recalls God's own soothing words in prophecy—Simon as a shepherd for the people."
     },
     {
       "pk": 20013009,
@@ -109,9 +124,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 9,
-      "text": "and they answered with a loud voice, saying, “You are our leader in place of Judas and Jonathan your brother.",
-      "links": "<a href='/AIV/20/9/31'>1Macc 9:31</a>",
-      "comment": "The succession of leadership foreshadows the importance of orderly transmission of authority among God's people, a theme echoed in both Old and New Testaments (<a href='/AIV/4/27/18-23'>Num. 27:18-23</a>; <a href='/AIV/44/1/24-26'>Acts 1:24-26</a>)."
+      "text": "Fight our battles, and all that you say to us we will do.”",
+      "links": "<a href='/AIV/16/4/6-23'>Nehemiah 4:6-23</a>",
+      "comment": "The fortification effort links to Nehemiah’s rebuilding—protection of the holy city is a repeated biblical motif, underscoring the safeguarding of God's dwelling."
     },
     {
       "pk": 20013010,
@@ -121,9 +136,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 10,
-      "text": "Conduct our wars, and whatever you command us we will do.”",
-      "links": "<a href='/AIV/4/27/20'>Num. 27:20</a>",
-      "comment": "The people's obedience to their divinely appointed leader reflects the call to submit to God's chosen representatives."
+      "text": "So he assembled all the warriors and hurried to complete the walls of Jerusalem, and he fortified it on every side.",
+      "links": [
+        "Neh 4:16-18",
+        "1 Macc 10:10-11",
+        "2 Chr 32:5"
+      ],
+      "comment": "Rebuilding Jerusalem’s walls was both a defensive necessity and a symbolic act of restoring Israel’s independence, echoing Nehemiah’s earlier efforts (Nehemiah 2:17)."
     },
     {
       "pk": 20013011,
@@ -133,9 +152,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 11,
-      "text": "So he gathered together all the warriors and hurried to complete the walls of Jerusalem, and he fortified it on every side.",
-      "links": "<a href='/AIV/16/3/15'>Neh. 3:15</a>",
-      "comment": "The construction and defense of Jerusalem is reminiscent of Nehemiah's rebuilding. Fortifying the city and sanctuary reflects a concern for sacred space, later fulfilled by Jesus (see <a href='/AIV/40/21/12-13'>Matt. 21:12-13</a>)."
+      "text": "He sent Jonathan son of Absalom to Joppa, and with him a considerable army; he drove out its occupants and remained there.",
+      "links": "<a href='/AIV/13/12/39'>1Macc 12:39</a>",
+      "comment": "Trypho’s aggression recalls earlier threats against Israel—paralleling the enemy’s pursuit of God’s people throughout salvation history."
     },
     {
       "pk": 20013012,
@@ -145,9 +164,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 12,
-      "text": "He sent Jonathan, son of Absalom, with a large army to Joppa, who drove out those who were in it and remained there.",
-      "links": "<a href='/AIV/6/19/28'>Josh. 19:28</a>",
-      "comment": "Capturing Joppa was important for strategic trade and communication. This conquest highlights the ongoing need to secure the land given by God."
+      "text": "Then Trypho left Ptolemais with a large army to invade the land of Judah, and Jonathan was with him under guard.",
+      "links": "<a href='/AIV/13/12/38'>1Macc 12:38</a>",
+      "comment": "Simon positions himself opposite Trypho—preparing for a confrontation reminiscent of ancient Israel’s battlefield stand in faith."
     },
     {
       "pk": 20013013,
@@ -157,10 +176,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 13,
-      "text": "Trypho left Ptolemais with a large army to enter the land of Judah, and Simon with his army faced him everywhere he went.",
-      "links": "<a href='/AIV/20/12/48'>1Macc 12:48</a>",
-      "comment": "Trypho's movements typify the continual external threats against God's people, a theme prevalent in Israel's history.",
-      "sectionHeader": "Trypho’s Deception and Jonathan’s Death"
+      "text": "Simon encamped in Adida, facing the plain.",
+      "links": [
+        "1 Sam 17:3",
+        "1 Macc 12:38",
+        "1 Macc 16:1"
+      ],
+      "comment": "Communication between rival leaders sets the stage for negotiation—a common theme in biblical history."
     },
     {
       "pk": 20013014,
@@ -170,9 +192,12 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 14,
-      "text": "Those who were in the fortress kept sending messengers to Trypho, urging him to come to them by way of the hill country, but he sent a detachment of horsemen.",
-      "links": "<a href='/AIV/20/12/36'>1Macc 12:36</a>",
-      "comment": "Divided loyalties among the people often lead to further conflict. The fortress represents remaining strongholds of foreign influence within the land."
+      "text": "Trypho learned that Simon had risen up in place of his brother Jonathan, and that he was about to join battle with him, so he sent envoys to him and said,",
+      "links": [
+        "1 Macc 12:50-52",
+        "Matt 2:7-8"
+      ],
+      "comment": "Trypho frames Jonathan’s captivity as financial, not political, highlighting the earthly concerns often entwined with spiritual leadership."
     },
     {
       "pk": 20013015,
@@ -182,9 +207,12 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 15,
-      "text": "But Simon knew that they planned to take him by deceit and attacked them. He suffered defeat, and his army fled to the fortress.",
-      "links": "",
-      "comment": "The struggle here shows the reality of loss and setback in God's providential plan. Yet, Simon's discernment of deceit is an example of wise leadership (<a href='/AIV/20/12/40'>1Macc 12:40</a>)."
+      "text": "\"It is for the money that your brother Jonathan owed the royal treasury, in connection with the offices he held, that we are detaining him.",
+      "links": [
+        "2 Kgs 18:14-16",
+        "Dan 6:4"
+      ],
+      "comment": "Trypho’s demand for ransom under the pretense of Jonathan’s alleged debt illustrates the treachery and political manipulation common in Hellenistic rulers’ dealings with the Jews."
     },
     {
       "pk": 20013016,
@@ -194,9 +222,12 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 16,
-      "text": "Trypho mounted his cavalry to enter the land, but Simon blocked every road and passage in the hill country.",
-      "links": "",
-      "comment": "Simon's effective strategies in defense exemplify prudent stewardship, reminiscent of biblical exhortations to be wise like serpents (<a href='/AIV/40/10/16'>Matt. 10:16</a>)."
+      "text": "Send now one hundred talents of silver and two of his sons as hostages, so that when released he will not revolt against us, and we will release him.”",
+      "links": [
+        "Gen 42:16-20",
+        "2 Kgs 23:34-35"
+      ],
+      "comment": "Trypho’s deceptive words show the world’s unreliable promises, a contrast with God’s steadfastness."
     },
     {
       "pk": 20013017,
@@ -206,9 +237,12 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 17,
-      "text": "The fortress sent messengers to Trypho with supplies,",
-      "links": "",
-      "comment": "The effort to resupply the fortress highlights the importance of material support and unity in difficult times."
+      "text": "Simon knew that they were speaking deceitfully to him, but he sent to get the money and the sons, so that he would not arouse great hostility among the people, who might say,",
+      "links": [
+        "Jer 42:20-21",
+        "Matt 10:16"
+      ],
+      "comment": "Though aware of Trypho's deceit, Simon’s actions show his prudence and concern for maintaining public order, placing community unity above personal grievance."
     },
     {
       "pk": 20013018,
@@ -218,9 +252,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 18,
-      "text": "but Simon took all of them and all that they had, and Trypho and his cavalry could not get into the country.",
-      "links": "",
-      "comment": "Through God's providence, the enemy is cut off. God uses human leaders to frustrate the schemes of the unrighteous."
+      "text": "“It was because Simon did not send him the money and the sons, that Jonathan perished.”",
+      "links": "<a href='/AIV/13/12/39-40'>1Macc 12:39-40</a>",
+      "comment": "The threat to the land recapitulates archetypal attacks on Israel, continually affirming the people’s call to trust in God’s deliverance."
     },
     {
       "pk": 20013019,
@@ -230,9 +264,12 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 19,
-      "text": "Trypho sent envoys to Simon, saying, “You are holding Jonathan, your brother, as a prisoner.",
-      "links": "<a href='/AIV/20/12/48'>1Macc 12:48</a>",
-      "comment": "This is a deceitful move, intending to manipulate Simon. The theme of betrayal and capture is significant throughout Scripture (see Joseph: <a href='/AIV/1/39/20'>Gen. 39:20</a>)."
+      "text": "So he sent the sons and the hundred talents, but Trypho broke his word and did not release Jonathan.",
+      "links": [
+        "Ps 55:20-21",
+        "Judg 16:17-21"
+      ],
+      "comment": "Beth-shan is a historic location (cf. <a href='/AIV/9/31/10'>1 Samuel 31:10</a>), reminding readers of Israel’s ancient struggles."
     },
     {
       "pk": 20013020,
@@ -242,9 +279,12 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 20,
-      "text": "If you will send us one hundred talents of silver and two of his sons as hostages, so that he will not escape when released, we will release him.”",
-      "links": "",
-      "comment": "Trypho's demands are a form of extortion, leveraging family ties and money, calling to mind similar situations in the Old Testament (<a href='/AIV/1/42/37'>Gen. 42:37</a>)."
+      "text": "After this Trypho came to invade the country and destroy it, and he circled around by the way to Adora. But Simon and his army kept marching along opposite him to every place he went.",
+      "links": [
+        "1 Sam 23:25-26",
+        "Ex 14:24"
+      ],
+      "comment": "Simon's vigilance prefigures the perseverance called for from the faithful in spiritual warfare."
     },
     {
       "pk": 20013021,
@@ -254,9 +294,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 21,
-      "text": "Although Simon knew they were speaking deceitfully, he sent the money and the boys, lest he incur great hostility from the people.",
-      "links": "",
-      "comment": "Simon's actions demonstrate prudence and concern for the people's welfare, balancing justice and mercy."
+      "text": "The men in the citadel kept sending messengers to Trypho, urging him to come quickly by way of the wilderness and send them supplies.",
+      "links": "<a href='/AIV/13/12/36'>1Macc 12:36</a>",
+      "comment": "Those within the citadel, likely foreign sympathizers, reveal internal threats—paralleling spiritual battles within the Church."
     },
     {
       "pk": 20013022,
@@ -266,9 +306,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 22,
-      "text": "But Trypho deceived him and did not release Jonathan.",
-      "links": "<a href='/AIV/20/12/48'>1Macc 12:48</a>",
-      "comment": "Once again, the motif of betrayal is strong, a theme culminating in the betrayal of Christ by Judas Iscariot (<a href='/AIV/40/26/48-50'>Matt. 26:48-50</a>)."
+      "text": "Trypho sent his whole cavalry on that night, but there was a heavy snowfall, and he could not advance.",
+      "links": [
+        "Josh 10:11",
+        "Job 37:6",
+        "Ps 147:16-18"
+      ],
+      "comment": "Divine providence intervenes through nature, recalling God's frequent use of creation to frustrate evil plans (e.g., <a href='/AIV/6/10/11'>Joshua 10:11</a>)."
     },
     {
       "pk": 20013023,
@@ -278,9 +322,12 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 23,
-      "text": "After these events, Trypho invaded the land to destroy it, and he made a circuit along the road to Adora. But Simon and his army followed him everywhere he went.",
-      "links": "",
-      "comment": "The ongoing struggle reflects the spiritual warfare present in every age, calling for perseverance and constant vigilance (<a href='/AIV/49/6/12-13'>Eph. 6:12-13</a>)."
+      "text": "When he approached Baskama, he killed Jonathan, and he was buried there.",
+      "links": [
+        "1 Macc 12:52",
+        "2 Sam 3:27"
+      ],
+      "comment": "Trypho’s withdrawal signals both strategic and providential redirecting, allowing Simon greater agency as leader."
     },
     {
       "pk": 20013024,
@@ -290,9 +337,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 24,
-      "text": "Those in the fortress kept sending envoys to Trypho, urging him to bring them supplies,",
-      "links": "",
-      "comment": "Persistent attempts to aid the enemy suggest the danger of divided allegiances among the people of God."
+      "text": "Then Trypho turned and went back to his own land.",
+      "links": "<a href='/AIV/13/12/40'>1Macc 12:40</a>",
+      "comment": "Jonathan’s tragic death is fulfilled—his martyrdom parallels the theme of sacrificial leadership, foreshadowing even greater redemptive sacrifices."
     },
     {
       "pk": 20013025,
@@ -302,9 +349,12 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 25,
-      "text": "but Simon gave orders that they be opposed and that he not give them supplies.",
-      "links": "",
-      "comment": "Simon's instruction emphasizes the need for uncompromising fidelity in times of conflict."
+      "text": "Trypho departed and returned to his own land.",
+      "links": [
+        "2 Sam 20:22",
+        "2 Kgs 19:36"
+      ],
+      "comment": "Trypho’s withdrawal marks the end of a crisis—an echo of adversaries retreating before God's chosen."
     },
     {
       "pk": 20013026,
@@ -314,9 +364,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 26,
-      "text": "He trusted in God, and he captured all their horses and weaponry.",
-      "links": "",
-      "comment": "Trust in divine providence brings victory. This is a recurring lesson throughout salvation history (<a href='/AIV/7/7/15'>Judg. 7:15</a>)."
+      "text": "Simon sent for the bones of his brother Jonathan, and buried him in Modein, their ancestor’s city.",
+      "links": "<a href='/AIV/13/2/70'>1Macc 2:70</a>",
+      "comment": "This act of reverent burial reveals the enduring respect for the bodies of the righteous, a biblical point underscoring beliefs about resurrection and sacred tradition."
     },
     {
       "pk": 20013027,
@@ -326,9 +376,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 27,
-      "text": "He destroyed Trypho’s entire force and seized all his possessions.",
-      "links": "",
-      "comment": "The complete victory is attributed to God's blessing on his chosen leader, echoing the defeat of Israel's foes in earlier Scriptures."
+      "text": "And Simon built a monument over the tomb of his father and his brothers; he made it high so that it might be seen, with polished stone at the front and back.",
+      "links": "<a href='/AIV/9/31/12-13'>1 Samuel 31:12-13</a>",
+      "comment": "National mourning for a leader reinforces the communal nature of Israel’s faith—a precursor to the Church’s tradition of commemorating saints and martyrs."
     },
     {
       "pk": 20013028,
@@ -338,9 +388,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 28,
-      "text": "He freed Jonathan from the city of Adora, and brought him back to Jerusalem with honor.",
-      "links": "<a href='/AIV/20/12/39'>1Macc 12:39</a>",
-      "comment": "The restoration and honor of Jonathan is a foretaste of resurrection and vindication, ultimately fulfilled in Christ (<a href='/AIV/40/28/6'>Matt. 28:6</a>)."
+      "text": "Simon built a great monument over his father's and his brothers' grave, made of polished stone, both front and back.",
+      "links": [
+        "Gen 35:20",
+        "Josh 24:30",
+        "1 Macc 2:70"
+      ],
+      "comment": "Building memorials for the righteous reflects ancient Jewish reverence and sets a precedent for Christian veneration."
     },
     {
       "pk": 20013029,
@@ -350,10 +404,12 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 29,
-      "text": "He buried him in his family tomb in Modein, and the whole of Israel mourned him with great lamentation.",
-      "links": "<a href='/AIV/20/2/70'>1Macc 2:70</a>",
-      "comment": "Proper burial is an important act of piety, foreshadowing respect for the body and the hope of resurrection (<a href='/AIV/43/19/41-42'>John 19:41-42</a>).",
-      "sectionHeader": "The Tomb of the Maccabees"
+      "text": "For the pyramids he devised an elaborate setting, erecting about them great columns, and on the columns he put suits of armor for a permanent memorial, and beside the suits of armor he carved ships, so that they could be seen by all who sail the sea.",
+      "links": [
+        "2 Sam 18:18",
+        "1 Macc 10:86"
+      ],
+      "comment": "This sevenfold tribute hints at completion and perfection, a motif often associated with God's work."
     },
     {
       "pk": 20013030,
@@ -363,9 +419,12 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 30,
-      "text": "Simon built a monument over the grave of his father and brothers, making it high so that it could be seen, polished stone both inside and out.",
-      "links": "",
-      "comment": "The act of building monuments in honor of faithful ancestors signifies the abiding importance of tradition and continuity among God's people."
+      "text": "This is the tomb that he built in Modein; it remains to this day.",
+      "links": [
+        "1 Macc 2:70",
+        "Acts 7:16"
+      ],
+      "comment": "Monumental imagery evokes lasting memory—the 'armor forever' recalls the spiritual armor Paul later exhorts believers to wear (<a href='/AIV/49/6/11-17'>Ephesians 6:11-17</a>)."
     },
     {
       "pk": 20013031,
@@ -375,9 +434,12 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 31,
-      "text": "He set up seven pyramids, one opposite another, for his father and his mother and his four brothers.",
-      "links": "",
-      "comment": "Memorials for the departed serve to remind all generations of the sacrifices made for faith."
+      "text": "Such was the memorial he made in Modein, and it stands to this day.",
+      "links": [
+        "Josh 4:7",
+        "1 Sam 7:12"
+      ],
+      "comment": "The continued presence of the memorial enshrines the notion of historical continuity and visible signs within the community."
     },
     {
       "pk": 20013032,
@@ -387,9 +449,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 32,
-      "text": "He surrounded the pyramids with great columns, and on the columns he set up suits of armor for a lasting memorial, and beside the armor, carved ships, for all who sail the sea to see.",
-      "links": "",
-      "comment": "Armament and ships as memorials unite military and maritime images, signifying the universality of God's victories and their impact on all nations."
+      "text": "Trypho treated the young King Antiochus very deceitfully. He killed him",
+      "links": "<a href='/AIV/13/12/39'>1Macc 12:39</a>",
+      "comment": "The death of Antiochus underscores the instability of earthly kings—pointing indirectly to the eternal kingship of Christ."
     },
     {
       "pk": 20013033,
@@ -399,9 +461,12 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 33,
-      "text": "This tomb which he made at Modein is there to this day.",
-      "links": "",
-      "comment": "The enduring tomb shows the importance of memory and concrete signs in passing on the faith."
+      "text": "and took hold of his kingdom, putting on the crown of Asia and ruling in his own name.",
+      "links": [
+        "Dan 11:21",
+        "1 Macc 14:3"
+      ],
+      "comment": "Usurpation of power stands in contrast with the true legitimacy and divine appointment found throughout biblical leadership."
     },
     {
       "pk": 20013034,
@@ -411,9 +476,12 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 34,
-      "text": "Trypho dealt treacherously with young King Antiochus and killed him.",
-      "links": "<a href='/AIV/20/12/54'>1Macc 12:54</a>",
-      "comment": "The betrayal and murder of Antiochus reflects the instability of worldly power compared to God's enduring rule."
+      "text": "Simon, meanwhile, fortified the strongholds of Judea and continued to defend them.",
+      "links": [
+        "2 Chr 14:6-7",
+        "Neh 3:1-32"
+      ],
+      "comment": "Simon’s strengthening of the land speaks to his responsible stewardship—a model echoed in the Office of Peter held by later leaders (<a href='/AIV/40/16/18-19'>Matthew 16:18-19</a>)."
     },
     {
       "pk": 20013035,
@@ -423,9 +491,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 35,
-      "text": "He reigned in his place and put on the crown of Asia; he brought great calamity on the land.",
-      "links": "",
-      "comment": "The usurpation of authority often brings suffering, teaching the importance of rightful leadership, a theme fulfilled in the eternal kingship of Christ (<a href='/AIV/42/1/32-33'>Luke 1:32-33</a>)."
+      "text": "He sent a message to King Demetrius to renew the alliance with him, as it had been before.",
+      "links": "<a href='/AIV/13/12/1'>1Macc 12:1</a>",
+      "comment": "Diplomatic efforts highlight the necessity of wise engagement with worldly powers, but always under God’s guidance."
     },
     {
       "pk": 20013036,
@@ -435,10 +503,12 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 36,
-      "text": "But Simon built the forts of Judea, increased their defenses with high towers, great walls, gates, and bars, and stored supplies within them.",
-      "links": "<a href='/AIV/14/14/7'>2 Chr. 14:7</a>",
-      "comment": "Strengthening the land is not just about physical defense, but also about spiritual and communal security.",
-      "sectionHeader": "Simon Granted Independence by Demetrius"
+      "text": "Demetrius responded favorably, and wrote to Simon as follows:",
+      "links": [
+        "1 Macc 11:37",
+        "Esth 8:8"
+      ],
+      "comment": "A letter of favor recalls many biblical treaties and letters, establishing lasting relations for God's people."
     },
     {
       "pk": 20013037,
@@ -448,9 +518,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 37,
-      "text": "Simon sent envoys to King Demetrius to ask for the remission of taxes, since all the hardships Trypho had caused had left the land devastated.",
-      "links": "",
-      "comment": "Diplomatic efforts point to the necessity of seeking both peace and justice for the well-being of God's people."
+      "text": "'King Demetrius to Simon, the high priest and friend of kings, and to the elders and nation of the Jews: Greetings.'",
+      "links": [
+        "Ezra 7:12",
+        "Neh 1:1",
+        "1 Macc 12:20"
+      ],
+      "comment": "The formal greeting recognizes Simon’s dual office—spiritual and civic. Notice the phrase 'friend of kings', reminiscent of Abraham, Moses, and David’s honorable standing before nations."
     },
     {
       "pk": 20013038,
@@ -460,9 +534,12 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 38,
-      "text": "King Demetrius granted his request and wrote a letter saying,",
-      "links": "<a href='/AIV/20/11/34'>1Macc 11:34</a>",
-      "comment": "The king's letter is an official recognition, reminiscent of pagan kings who benefited God's people (see <a href='/AIV/15/1/2-4'>Ezra 1:2-4</a>)."
+      "text": "'We have received the golden crown and the palm you sent to us.'",
+      "links": [
+        "1 Macc 10:20",
+        "1 Macc 13:37"
+      ],
+      "comment": "Golden crown and palm are symbolic gestures of peace and victory, echoing New Testament images of crowns given to the saints (<a href='/AIV/66/2/10'>Revelation 2:10</a>)."
     },
     {
       "pk": 20013039,
@@ -472,9 +549,12 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 39,
-      "text": "“King Demetrius to Simon, the high priest and friend of kings, and to the elders and the nation of the Jews, greetings.",
-      "links": "",
-      "comment": "Simon is now recognized as high priest and leader, demonstrating God's faithfulness in raising up faithful mediators for His people."
+      "text": "'We are always ready to make peace with you and to write to our officials to release you from tributes.'",
+      "links": [
+        "1 Macc 10:33",
+        "Ezra 7:24"
+      ],
+      "comment": "A promise of relief from tribute ties into scriptural themes of freedom from oppression for the righteous."
     },
     {
       "pk": 20013040,
@@ -484,9 +564,12 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 40,
-      "text": "We have received the golden crown and the palm which you sent us, and we are ready to grant you a great peace and write to our officials to remit the payments you owe us.",
-      "links": "",
-      "comment": "The receiving of gifts and promises of peace echoes biblical traditions of tribute and covenant between nations (<a href='/AIV/11/5/1'>1 Kings 5:1</a>)."
+      "text": "'All that we promised you has been confirmed. Fortresses you have built shall be yours.'",
+      "links": [
+        "1 Macc 10:41-42",
+        "1 Macc 13:34"
+      ],
+      "comment": "The assurance of peace and possession references covenant blessings and security, closely aligning the protection and inheritance themes found throughout salvation history."
     },
     {
       "pk": 20013041,
@@ -496,9 +579,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 41,
-      "text": "Every obligation that we have released from you, stretching back from this day and for the future as well.",
-      "links": "",
-      "comment": "Remission of debt symbolizes Jubilee themes of freedom and restoration (<a href='/AIV/3/25/10'>Lev. 25:10</a>; <a href='/AIV/42/4/18-19'>Luke 4:18-19</a>)."
+      "text": "In the one hundred seventieth year, the yoke of the Gentiles was removed from Israel,",
+      "links": "<a href='/AIV/2/3/7'>Exodus 3:7</a> <a href='/AIV/19/126/1'>Psalm 126:1</a>",
+      "comment": "This verse marks a significant redemptive turning point for Israel, reflecting how God delivers His people from oppression. Note also the connection to God's earlier acts of deliverance in Exodus. The numbering references Seleucid years (beginning in 312 BC), and thus the 170th year is about 142 BC."
     },
     {
       "pk": 20013042,
@@ -508,9 +591,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 42,
-      "text": "Let it be known to all that Jews are now free and that their part among us stands canceled, as well as any crown tax that was due.",
-      "links": "",
-      "comment": "True freedom for the people of God is always a divine work, often accomplished through faithful leaders."
+      "text": "and the people began to write in their documents and contracts, 'In the first year of Simon, great high priest, leader and governor of the Jews.'",
+      "links": "<a href='/AIV/3/16/32'>Leviticus 16:32</a> <a href='/AIV/19/110/4'>Psalm 110:4</a>",
+      "comment": "Simon is acknowledged as high priest, leader, and governor—a unique position showing both sacred and civil authority unified. This foreshadows a concept of divinely instituted leadership, linking prophet, priest, and king roles. See Melchizedek typology in <a href='/AIV/19/110/4'>Psalm 110:4</a>."
     },
     {
       "pk": 20013043,
@@ -520,9 +603,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 43,
-      "text": "If any of you chooses to enroll in our army, let them do so. Let peace exist between us and you.”",
-      "links": "",
-      "comment": "The possibility of Jews serving in foreign military forces highlights themes of dual citizenship—earthly and heavenly (see <a href='/AIV/50/3/20'>Phil. 3:20</a>)."
+      "text": "In those days Simon encamped at Gazara, and surrounded it with soldiers. He made a machine of war, and attacked the city.",
+      "links": "<a href='/AIV/6/10/33'>Joshua 10:33</a>",
+      "comment": "The conquest of Gazara echoes the earlier conquests in Joshua's time, showing a continuity of God’s promises to Israel, suggesting God's ongoing faithfulness to His covenant people."
     },
     {
       "pk": 20013044,
@@ -532,9 +615,12 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 44,
-      "text": "In the one hundred and seventieth year, the yoke of foreign nations was removed from Israel.",
-      "links": "",
-      "comment": "The breaking of oppression alludes to divine deliverance and foreshadows the ultimate liberation in Christ."
+      "text": "The men in the siege engine leaped out into the city, and a great tumult arose in the city.",
+      "links": [
+        "2 Sam 20:15",
+        "Judg 9:46-49"
+      ],
+      "comment": "The description of men leaping from the siege engine conveys the chaos and desperation of urban warfare in the Hellenistic era, underscoring the intensity of the struggle to control cities in this period."
     },
     {
       "pk": 20013045,
@@ -544,9 +630,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 45,
-      "text": "The people began to write in their documents and official records, ‘In the first year of Simon, the great high priest, general, and leader of the Jews.’",
-      "links": "",
-      "comment": "Simon is formally acknowledged; such offices point to the typological fulfillment in the one true High Priest (see <a href='/AIV/58/4/14'>Heb. 4:14</a>)."
+      "text": "The men in the city, with their wives and children, went up on the wall with their clothes torn, and they cried out with a loud voice, asking Simon to make peace with them;",
+      "links": "<a href='/AIV/3/11/44-45'>Leviticus 11:44-45</a>",
+      "comment": "Setting apart a purified city for Law-abiding Jews illustrates the importance of separation from sin, like the call to be holy as God is holy. The concept of purification also points forward to the ideas of spiritual cleansing found throughout the New Testament."
     },
     {
       "pk": 20013046,
@@ -556,10 +642,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 46,
-      "text": "In those days Simon camped against Gazara and surrounded it with his army. He made a siege engine and brought it up against the city.",
-      "links": "",
-      "comment": "The use of siege engines demonstrates tactical development and resourcefulness in Israel's leaders.",
-      "sectionHeader": "The Capture and Purification of Gazara"
+      "text": "they said, “Do not treat us according to our wicked acts but according to your mercy.”",
+      "links": "<a href='/AIV/10/5/9-10'>2 Samuel 5:9-10</a>",
+      "comment": "Building and making a stronghold mirrors David's establishment in Jerusalem, showing the connection between kingly authority and spiritual leadership."
     },
     {
       "pk": 20013047,
@@ -569,9 +654,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 47,
-      "text": "He struck one tower and took it; those who were in the siege engine rushed into the city, causing great confusion.",
-      "links": "",
-      "comment": "This victory shows God's providential aid in battles, as Israel turns the tide against their enemies."
+      "text": "So Simon reached an agreement with them and stopped fighting against them. But he expelled them from the city and cleansed the houses in which the idols were located, and then entered it with hymns and praise.",
+      "links": "<a href='/AIV/19/137/7'>Psalm 137:7</a> <a href='/AIV/25/4/10'>Lamentations 4:10</a>",
+      "comment": "The siege led to dire consequences, paralleling previous Jerusalem sieges, as recorded in Lamentations. Hunger and difficulty remind us of the gravity of judgment when God's house is corrupted."
     },
     {
       "pk": 20013048,
@@ -581,9 +666,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 48,
-      "text": "The people of the city, with their wives and children, went up on the wall with their clothes torn, crying out to Simon for mercy.",
-      "links": "",
-      "comment": "The plea for mercy points to God's mercy in salvation history. Torn clothes are signs of repentance (<a href='/AIV/32/3/6'>Jon. 3:6</a>)."
+      "text": "He removed all uncleanness from it, and settled in it those who observed the law. He also strengthened its fortifications and built in it a house for himself.",
+      "links": "<a href='/AIV/16/13/30'>Nehemiah 13:30</a> <a href='/AIV/19/24/3-4'>Psalm 24:3-4</a>",
+      "comment": "Again purification is prioritized before God’s people can dwell there, emphasizing ritual and spiritual purity in the place of God’s presence, which relates to the importance of keeping worship sacred."
     },
     {
       "pk": 20013049,
@@ -593,9 +678,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 49,
-      "text": "They said, 'Treat us not as our wickedness deserves, but show us mercy.'",
-      "links": "",
-      "comment": "The explicit appeal to mercy transcends justice, echoing God's dealings with humanity (<a href='/AIV/19/103/10'>Ps. 103:10</a>)."
+      "text": "Those who were in the citadel at Jerusalem were prevented from going in and out to buy and sell in the country. So they were very hungry, and many of them perished from famine.",
+      "links": "<a href='/AIV/3/23/40'>Leviticus 23:40</a> <a href='/AIV/19/118/27'>Psalm 118:27</a> <a href='/AIV/40/21/8-9'>Matthew 21:8-9</a>",
+      "comment": "The joyful entry with palm branches echoes the processions of the Feast of Tabernacles and foreshadows Christ’s triumphal entry. This celebration with music and palms points to the ultimate victory over sin and death, fulfilled in Christ (<a href='/AIV/40/21/8-9'>Matthew 21:8-9</a>)."
     },
     {
       "pk": 20013050,
@@ -605,9 +690,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 50,
-      "text": "So Simon reached an agreement with them and ceased his attack, but he expelled them from the city and cleansed the houses in which there had been idols, purifying them.",
-      "links": "",
-      "comment": "Simon’s cleansing mirrors the necessity of purifying the community from idolatry, paving the way for true worship (<a href='/AIV/4/33/52'>Num. 33:52</a>), a theme fulfilled in the new covenant community."
+      "text": "Then they cried to Simon to make peace with them, and he did so. But he expelled them from there and cleansed the citadel from its pollutions.",
+      "links": "<a href='/AIV/2/12/14'>Exodus 12:14</a>",
+      "comment": "Establishing an annual celebration for deliverance is rooted in the biblical tradition, connecting with major feasts like Passover. Regular commemorations foster unity, remembrance, and deep collective identity tied to God’s saving acts."
     },
     {
       "pk": 20013051,
@@ -617,9 +702,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 51,
-      "text": "He entered it with singing and praise, blessing the Lord with harps, cymbals, and lyres. He appointed that day as a day of great rejoicing and celebration.",
-      "links": "<a href='/AIV/19/30/11'>Ps. 30:11</a>",
-      "comment": "Worship with music and thanksgiving points to the integral role of liturgy in the worship of God."
+      "text": "On the twenty-third day of the second month, in the one hundred seventy-first year, the Jews entered it with praise and palm branches, and with harps and cymbals and stringed instruments, and with hymns and songs, because a great enemy had been crushed and removed from Israel.",
+      "links": "<a href='/AIV/16/3/3'>Nehemiah 3:3</a>",
+      "comment": "Simon’s occupation and fortification of the temple area further links him with the tradition of temple restoration and the safeguarding of right worship. The leader’s close association with the temple points to the importance of spiritual and institutional continuity."
     },
     {
       "pk": 20013052,
@@ -629,9 +714,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 52,
-      "text": "He fortified the city of Gazara, appointed its governor, and placed men there to keep it.",
-      "links": "",
-      "comment": "The assigning of governance reflects order and stewardship within the community, foreshadowing the order of the apostolic community in the Church."
+      "text": "Simon decreed that every year they should celebrate this day with rejoicing. He strengthened the fortifications of the temple hill alongside the citadel, and he and his men lived there.",
+      "links": "<a href='/AIV/9/1/5'>1 Samuel 1:5</a> <a href='/AIV/12/2/15'>2 Kings 2:15</a>",
+      "comment": "This foreshadows dynastic continuity, handing spiritual and temporal authority to the next generation, paralleling how authority in God’s people is not left scattered or leaderless, but established in orderly succession."
     },
     {
       "pk": 20013053,
@@ -641,37 +726,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 13,
       "verse": 53,
-      "text": "Simon and his men returned to Jerusalem with joy and praise, because the Lord had made them prosper.",
-      "links": "<a href='/AIV/19/98/1-3'>Ps. 98:1-3</a>",
-      "comment": "The return to Jerusalem with rejoicing highlights the theme of restoration and the importance of worshiping God with gratitude. This story prefigures the triumphant entry of Christ into Jerusalem."
+      "text": "Simon saw that his son John had reached manhood, and so he made him commander of all the forces; and he lived at Gazara.",
+      "links": "<a href='/AIV/19/78/70-72'>Psalm 78:70-72</a>",
+      "comment": "This concluding summary recalls how faithful shepherds lead with wisdom and sacrificial concern. Similar language is used of David, showing the ideal leader as one who cares for God’s flock. This theme finds ultimate fulfillment in Christ, the Good Shepherd (<a href='/AIV/43/10/11'>John 10:11</a>), and it points to the legitimacy of an honored, visible, and unified authority among God's people."
     }
   ],
-  "translatedAt": "2025-12-24T05:26:34.219Z",
-  "sections": [
-    {
-      "title": "Simon Chosen Leader of Israel",
-      "startVerse": 1,
-      "endVerse": 12
-    },
-    {
-      "title": "Trypho’s Deception and Jonathan’s Death",
-      "startVerse": 13,
-      "endVerse": 28
-    },
-    {
-      "title": "The Tomb of the Maccabees",
-      "startVerse": 29,
-      "endVerse": 35
-    },
-    {
-      "title": "Simon Granted Independence by Demetrius",
-      "startVerse": 36,
-      "endVerse": 45
-    },
-    {
-      "title": "The Capture and Purification of Gazara",
-      "startVerse": 46,
-      "endVerse": 53
-    }
-  ]
+  "translatedAt": "2025-12-29T00:38:31.617Z"
 }

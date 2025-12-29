@@ -99,7 +99,7 @@
       "verse": 8,
       "text": "It is from the moon that the month takes its name; it increases marvelously as it changes, a wonderful instrument set on high, shining in the firmament of heaven.",
       "links": "<a href='/AIV/01/01/14'>Gen. 1:14</a>",
-      "comment": "The changing moon as a sign is a reminder of God's faithful care and attention to rhythms of time. The regularity keeps both worship and daily life in order."
+      "comment": "This verse recognizes the lunar cycle as foundational to the ancient Hebrew calendar (cf. Genesis 1:14); the moon's waxing and waning is celebrated as divine craftsmanship, reflecting God's order and beauty in creation."
     },
     {
       "pk": 28043009,
@@ -194,7 +194,7 @@
       "bookAbbreviation": "Sir",
       "chapter": 43,
       "verse": 16,
-      "text": "At his appearance the mountains quake; at his will the south wind blows.",
+      "text": "The voice of his thunder rebukes the earth; when he appears, the mountains shake. At his will the south wind blows; so do the storm from the north and the whirlwind. He scatters the snow like birds flying down, and its descent is like locusts alighting.",
       "links": "<a href='/AIV/19/114/7'>Ps. 114:7</a>; <a href='/AIV/19/29/6'>Ps. 29:6</a>",
       "comment": "The physical world responds to God’s presence, symbolizing how all creation acknowledges the divine."
     },
@@ -206,9 +206,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 43,
       "verse": 17,
-      "text": "The voice of his thunder makes the earth tremble, and by his power he makes the north stormy and the whirlwind swift.",
-      "links": "<a href='/AIV/18/37/2'>Job 37:2</a>; <a href='/AIV/19/29/3'>Ps. 29:3</a>",
-      "comment": "Thunder and storm are poetic images for God’s majestic might, but also indicate His direct action in the world."
+      "text": "By his command he makes the snow fall, and sends swiftly the lightning of his judgment.",
+      "links": [
+        "Job 37:6",
+        "Ps 147:16-18",
+        "Jer 10:13"
+      ],
+      "comment": "The imagery of snow and lightning exemplifies God's sovereignty over nature (cf. Job 37:6, Psalm 148:8), with weather phenomena serving as instruments of His will and, at times, judgment."
     },
     {
       "pk": 28043018,
@@ -268,7 +272,7 @@
       "verse": 22,
       "text": "He devours the mountains and burns up the wilderness, and extinguishes the green, like a blazing fire.",
       "links": "<a href='/AIV/19/83/14'>Ps. 83:14</a>",
-      "comment": "God’s power can bring both life and judgment, a theme that points ultimately to divine mercy and correction."
+      "comment": "Drawing on the traditional motif of God's power over destructive forces like fire (cf. Deuteronomy 32:22), this verse highlights His ability to reshape the earth, underscoring both God's might and the awe He inspires."
     },
     {
       "pk": 28043023,
@@ -405,7 +409,7 @@
       "comment": "God’s ways and mysteries are deeper than anything we can imagine. This verse encourages humility and trust, opening the way for understanding truths revealed in sacred tradition and worshiping with reverence at the mystery of faith."
     }
   ],
-  "translatedAt": "2025-12-24T07:47:09.307Z",
+  "translatedAt": "2025-12-29T00:36:57.628Z",
   "sections": [
     {
       "title": "The Glory of the Heavens",

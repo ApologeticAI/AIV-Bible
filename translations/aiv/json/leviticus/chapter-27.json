@@ -62,7 +62,11 @@
       "chapter": 27,
       "verse": 5,
       "text": "If the person is from five years old up to twenty years old, your assessment shall be for a male twenty shekels, and for a female ten shekels.",
-      "links": "",
+      "links": [
+        "Num 18:16",
+        "Lev 27:3",
+        "Lev 27:4"
+      ],
       "comment": "This assessment system brings order and consistency to offerings, pointing toward the principle of giving according to one’s means (see <a href='/AIV/2/30/14-15'>Ex. 30:14-15</a>)."
     },
     {
@@ -74,7 +78,11 @@
       "chapter": 27,
       "verse": 6,
       "text": "If from a month old up to five years old, your assessment shall be five shekels of silver for a male, and three shekels of silver for a female.",
-      "links": "",
+      "links": [
+        "Num 18:16",
+        "Ex 13:2",
+        "Lev 27:4"
+      ],
       "comment": "All ages could be promised to the LORD, highlighting the dedication of the whole life and family to God."
     },
     {
@@ -86,7 +94,11 @@
       "chapter": 27,
       "verse": 7,
       "text": "If from sixty years old and above, for a male, your assessment shall be fifteen shekels, and for a female ten shekels.",
-      "links": "",
+      "links": [
+        "Lev 19:32",
+        "Lev 27:3",
+        "Lev 27:4"
+      ],
       "comment": "Elderly also have value in service to God, though their redemption price is lower, reflecting their possible role in the community."
     },
     {
@@ -99,7 +111,7 @@
       "verse": 8,
       "text": "But if someone is too poor to pay the assessment, then they shall present the person before the priest, and the priest shall set a value; according to what the person who vowed can afford, so the priest shall value him.",
       "links": "<a href='/AIV/3/5/7'>Lev. 5:7</a>; <a href='/AIV/3/14/21-22'>Lev. 14:21-22</a>",
-      "comment": "Mercy is central: worship is not denied to the poor, and the priest has authority to make adjustments for the needy. See the Lord’s mercy in <a href='/AIV/40/12/7'>Matt. 12:7</a>."
+      "comment": "This verse highlights God’s compassion in the law, allowing the poor to make vows and dedicate persons according to their means—a principle mirrored in Exodus 30:15, emphasizing equity and accessibility in worship."
     },
     {
       "pk": 3027009,
@@ -124,7 +136,7 @@
       "verse": 10,
       "text": "He shall not exchange it or substitute it, either a good for a bad or a bad for a good. But if he does substitute one animal for another, then both that animal and its substitute shall be holy.",
       "links": "<a href='/AIV/3/27/33'>Lev. 27:33</a>",
-      "comment": "Holy offerings cannot be lightly changed—once given, the vow is binding."
+      "comment": "This verse stresses the irrevocability of offerings dedicated to God, preventing manipulation or devaluation; substituting animals causes both to become holy, emphasizing the seriousness of consecration (see Numbers 18:14, Malachi 1:14)."
     },
     {
       "pk": 3027011,
@@ -135,7 +147,11 @@
       "chapter": 27,
       "verse": 11,
       "text": "If it is any unclean animal, of which they do not offer as a sacrifice to the LORD, then he shall present the animal before the priest.",
-      "links": "",
+      "links": [
+        "Lev 11:2",
+        "Lev 27:27",
+        "Num 18:15"
+      ],
       "comment": "Even animals unsuitable for sacrifice can be given to the LORD’s service through their value."
     },
     {
@@ -147,7 +163,11 @@
       "chapter": 27,
       "verse": 12,
       "text": "The priest shall value it, whether it is good or bad. As the priest values it, so it shall be.",
-      "links": "",
+      "links": [
+        "Lev 27:14",
+        "Lev 27:27",
+        "Lev 25:14"
+      ],
       "comment": "Priest’s role as judge in these matters prefigures a New Testament understanding of ordained ministry and apostolic authority."
     },
     {
@@ -171,7 +191,11 @@
       "chapter": 27,
       "verse": 14,
       "text": "When a man dedicates his house to be holy to the LORD, the priest shall value it, whether it is good or bad; as the priest values it, so it shall stand.",
-      "links": "",
+      "links": [
+        "Lev 27:12",
+        "Lev 27:25",
+        "Josh 6:19"
+      ],
       "comment": "Dedicating one’s home to God demonstrates that all aspects of life can be made holy. The priest’s role again is emphasized."
     },
     {
@@ -195,7 +219,11 @@
       "chapter": 27,
       "verse": 16,
       "text": "If a man dedicates a portion of the field of his possession to the LORD, your valuation shall be according to the seed needed; a homer of barley seed shall be valued at fifty shekels of silver.",
-      "links": "",
+      "links": [
+        "Lev 25:15",
+        "Lev 27:18",
+        "Num 18:16"
+      ],
       "comment": "The field, a source of sustenance, is assignable to God, connecting worship to daily life and labor."
     },
     {
@@ -243,7 +271,11 @@
       "chapter": 27,
       "verse": 20,
       "text": "But if he does not redeem the field, or if he has sold the field to another man, it shall not be redeemed anymore.",
-      "links": "",
+      "links": [
+        "Lev 25:28",
+        "Lev 27:21",
+        "Lev 25:30"
+      ],
       "comment": "Once a vow is transferred, it cannot easily be reversed. The seriousness of promises to God is highlighted."
     },
     {
@@ -267,7 +299,11 @@
       "chapter": 27,
       "verse": 22,
       "text": "If a man dedicates to the LORD a field which he has bought, which is not of the field of his own possession,",
-      "links": "",
+      "links": [
+        "Lev 25:23",
+        "Lev 27:18",
+        "Lev 25:15"
+      ],
       "comment": "Purchased land is treated differently, since it is not held as an eternal inheritance."
     },
     {
@@ -279,7 +315,11 @@
       "chapter": 27,
       "verse": 23,
       "text": "then the priest shall calculate for him the amount of your valuation up to the Year of Jubilee, and he shall give your valuation on that day as a holy thing to the LORD.",
-      "links": "",
+      "links": [
+        "Lev 25:10",
+        "Lev 25:27",
+        "Lev 27:18"
+      ],
       "comment": "The focus is on fairness, not only permanent inheritance. God’s holiness extends also to acquired goods."
     },
     {
@@ -327,7 +367,11 @@
       "chapter": 27,
       "verse": 27,
       "text": "But if it is an unclean animal, then he shall redeem it according to your valuation, and shall add one-fifth to it; or if it is not redeemed, it shall be sold according to your valuation.",
-      "links": "",
+      "links": [
+        "Lev 5:15",
+        "Lev 27:11",
+        "Lev 27:13"
+      ],
       "comment": "Redemption makes allowance for unclean animals, keeping the principle of substitution and compensation."
     },
     {
@@ -377,7 +421,11 @@
       "chapter": 27,
       "verse": 31,
       "text": "If a man wishes to redeem any of his tithe, he shall add one-fifth to it.",
-      "links": "",
+      "links": [
+        "Lev 5:16",
+        "Lev 22:14",
+        "Num 18:26"
+      ],
       "comment": "A redemption penalty ensures tithing is neither neglected nor treated lightly, highlighting the need for sincere stewardship."
     },
     {

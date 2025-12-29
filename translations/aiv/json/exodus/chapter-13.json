@@ -13,7 +13,11 @@
       "chapter": 13,
       "verse": 1,
       "text": "The LORD spoke to Moses, saying:",
-      "links": "",
+      "links": [
+        "Ex 6:10",
+        "Lev 1:1",
+        "Num 1:1"
+      ],
       "comment": "God directly addresses Moses. The style is consistent with previous places where God gives commands to His chosen leader. Compare with Lev. 27:26 and Num. 3:13, showing God's authority to claim what is first and most precious.",
       "sectionHeader": "The Consecration of the Firstborn"
     },

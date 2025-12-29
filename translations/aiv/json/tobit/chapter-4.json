@@ -134,9 +134,13 @@
       "bookAbbreviation": "Tob",
       "chapter": 4,
       "verse": 11,
-      "text": "For all who practice it are offered up to life, but those who sin are enemies to their own souls.",
-      "links": "<a href='/AIV/19/34/21-22'>Ps. 34:21-22</a>; <a href='/AIV/19/25/10'>Ps. 25:10</a>",
-      "comment": "There is a strong connection between virtue (especially charity) and eternal life. The language of offering suggests that acts of love can have sacrificial value."
+      "text": "Indeed, almsgiving, for all who practice it, is an excellent offering in the presence of the Most High.",
+      "links": [
+        "Prov 19:17",
+        "Sir 3:30",
+        "Matt 6:1-4"
+      ],
+      "comment": "Almsgiving is commended as a sacrificial act pleasing to God, reflecting wisdom literature’s emphasis on charity (see Sirach 3:30); it connects material generosity with spiritual reward before the Most High."
     },
     {
       "pk": 17004012,
@@ -146,9 +150,13 @@
       "bookAbbreviation": "Tob",
       "chapter": 4,
       "verse": 12,
-      "text": "Do not pursue any unlawful marriage. Do not let arrogance rule over your thoughts or words, for pride brings ruin and much confusion.",
-      "links": "<a href='/AIV/3/2/24'>Gen. 2:24</a>; <a href='/AIV/20/16/18'>Prov. 16:18</a>",
-      "comment": "A call to chastity and humility, warning against pride, which is often cited as the root of all sin."
+      "text": "Beware, my son, of every kind of fornication. First of all, marry a woman from among the descendants of your ancestors; do not marry a foreign woman, who is not of your father’s tribe; for we are the descendants of the prophets. Remember, my son, that Noah, Abraham, Isaac, and Jacob, our ancestors of old, all took wives from among their kindred. They were blessed in their children, and their posterity will inherit the land.",
+      "links": [
+        "Gen 24:3-4",
+        "Gen 28:1-2",
+        "Ezra 9:1-2"
+      ],
+      "comment": "Tobit urges endogamy to preserve faith and covenant identity, recalling Genesis patriarchs’ marriages within their kin; such warnings reflect concerns over assimilation and fidelity, seen also in Ezra-Nehemiah."
     },
     {
       "pk": 17004013,
@@ -158,9 +166,13 @@
       "bookAbbreviation": "Tob",
       "chapter": 4,
       "verse": 13,
-      "text": "All those who act in pride will be uprooted and thrown down. Do not keep back wages from anyone who has worked for you, but pay them immediately.",
-      "links": "<a href='/AIV/3/18/21'>Lev. 18:21</a>; <a href='/AIV/59/5/4'>James 5:4</a>",
-      "comment": "The emphases here are both ethical (justice to workers) and moral (humility). James 5:4 calls attention to the spiritual dangers of oppressing laborers."
+      "text": "So now, my son, love your kindred, and in your heart do not disdain your kindred, the sons and daughters of your people, by refusing to take a wife for yourself from among them. For in pride there is ruin and great confusion. And in idleness there is loss and dire poverty, because idleness is the mother of famine.",
+      "links": [
+        "Prov 13:10",
+        "Prov 19:15",
+        "Sir 10:13"
+      ],
+      "comment": "This verse critiques pride and idleness, associating them with social disorder and poverty; the linkage between diligence and blessing echoes Proverbs (e.g., Proverbs 6:6-11) and underscores community solidarity."
     },
     {
       "pk": 17004014,
@@ -242,9 +254,13 @@
       "bookAbbreviation": "Tob",
       "chapter": 4,
       "verse": 20,
-      "text": "Now, my son, remember my commandments, and do not let them be erased from your heart.",
-      "links": "<a href='/AIV/5/6/6'>Deut. 6:6</a>; <a href='/AIV/19/119/11'>Ps. 119:11</a>",
-      "comment": "The importance of memorizing and cherishing God’s law is emphasized, similar to Moses’ instruction in Deuteronomy."
+      "text": "And now, my son, let me explain to you that I left ten talents of silver in trust with Gabael son of Gabrias, at Rages in Media.",
+      "links": [
+        "Tob 1:14",
+        "Tob 4:1",
+        "Tob 5:3"
+      ],
+      "comment": "Tobit entrusts valuable silver with a fellow Israelite in exile, demonstrating communal bonds and prudent stewardship vital for diaspora survival (compare Joseph’s management in Genesis 41:39-44)."
     },
     {
       "pk": 17004021,
@@ -259,7 +275,7 @@
       "comment": "True riches are found in devotion to God and upright living, echoing Christ’s teaching that godliness surpasses material wealth. The notion also hints at spiritual inheritance, pointing toward a more sacramental understanding of God’s gracious provision."
     }
   ],
-  "translatedAt": "2025-12-24T04:55:39.008Z",
+  "translatedAt": "2025-12-28T07:01:29.748Z",
   "sections": [
     {
       "title": "Tobit Prepares for Death",

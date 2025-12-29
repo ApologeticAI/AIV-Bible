@@ -184,7 +184,7 @@
       "verse": 15,
       "text": "Holon with its pasturelands, Debir with its pasturelands,",
       "links": "<a href='/AIV/6/15/49-50'>Josh. 15:49-50</a>",
-      "comment": ""
+      "comment": "Holon and Debir, cities of Judah, were given to the Levites, symbolizing how sacred service permeated throughout Israel’s geography (cf. Joshua 21:9–13)."
     },
     {
       "pk": 60210016,
@@ -208,7 +208,7 @@
       "verse": 17,
       "text": "From the tribe of Benjamin, Gibeon with its pasturelands, Geba with its pasturelands,",
       "links": "<a href='/AIV/6/18/25-28'>Josh. 18:25-28</a>",
-      "comment": ""
+      "comment": "Gibeon and Geba, Benjaminite cities, highlight the inclusion of the Levites in Israel’s central region, facilitating worship and instruction among all tribes."
     },
     {
       "pk": 60210018,
@@ -244,7 +244,7 @@
       "verse": 20,
       "text": "The other families of the Kohathites, the Levites, received cities by lot from the tribe of Ephraim.",
       "links": "<a href='/AIV/4/35/5'>Num. 35:5</a>",
-      "comment": ""
+      "comment": "The ‘other families of the Kohathites’ refers to Levites not descended directly from Aaron, ensuring that priestly support services were distributed among Ephraim's territory."
     },
     {
       "pk": 60210021,
@@ -268,7 +268,7 @@
       "verse": 22,
       "text": "Kibzaim with its pasturelands, and Beth Horon with its pasturelands—four cities.",
       "links": "<a href='/AIV/6/16/3-5'>Josh. 16:3-5</a>",
-      "comment": ""
+      "comment": "Kibzaim and Beth Horon, cities in Ephraim, extend the Kohathite Levites’ reach, and Beth Horon is later notable for Israelite victories (Joshua 10:10–14)."
     },
     {
       "pk": 60210023,
@@ -280,7 +280,7 @@
       "verse": 23,
       "text": "From the tribe of Dan, Elteke with its pasturelands, Gibbethon with its pasturelands,",
       "links": "<a href='/AIV/6/19/44'>Josh. 19:44</a>",
-      "comment": ""
+      "comment": "Elteke and Gibbethon, Danite cities, allowed the Levites access to southwestern Israel, reinforcing the pattern of Levitical presence throughout the land."
     },
     {
       "pk": 60210024,
@@ -292,7 +292,7 @@
       "verse": 24,
       "text": "Aijalon with its pasturelands, and Gath Rimmon with its pasturelands—four cities.",
       "links": "<a href='/AIV/6/19/42-45'>Josh. 19:42-45</a>",
-      "comment": ""
+      "comment": "Aijalon and Gath Rimmon, also in Dan, complete the Kohathite allocation in Dan; Aijalon appears as a site of God’s intervention (Joshua 10:12)."
     },
     {
       "pk": 60210025,
@@ -304,7 +304,7 @@
       "verse": 25,
       "text": "From the half-tribe of Manasseh, Taanach with its pasturelands and Gath Rimmon with its pasturelands—two cities.",
       "links": "<a href='/AIV/6/17/11'>Josh. 17:11</a>",
-      "comment": ""
+      "comment": "Taanach and Gath Rimmon in Manasseh’s territory stress the broad geographic span of Levitical cities, supporting the priesthood’s role across tribal boundaries."
     },
     {
       "pk": 60210026,
@@ -315,8 +315,12 @@
       "chapter": 21,
       "verse": 26,
       "text": "All ten cities and their pasturelands were for the families of the rest of the Kohathite Levites.",
-      "links": "",
-      "comment": ""
+      "links": [
+        "Num 35:2-5",
+        "Josh 21:5",
+        "1 Chr 6:61"
+      ],
+      "comment": "The total of ten cities for the Kohathite Levites, aside from Aaron’s line, demonstrates a systemic approach to supporting worship and instruction in Israel (cf. Numbers 35:1–8)."
     },
     {
       "pk": 60210027,
@@ -341,7 +345,7 @@
       "verse": 28,
       "text": "From the tribe of Issachar: Kishion with its pasturelands, Daberath with its pasturelands,",
       "links": "<a href='/AIV/6/19/20'>Josh. 19:20</a>",
-      "comment": ""
+      "comment": "Kishion and Daberath, Issacharite cities, were allotted to the Gershonites, showing ongoing fulfillment of God’s command regarding Levitical cities (cf. Numbers 35:7)."
     },
     {
       "pk": 60210029,
@@ -353,7 +357,7 @@
       "verse": 29,
       "text": "Jarmuth with its pasturelands, and En Gannim with its pasturelands—four cities.",
       "links": "<a href='/AIV/6/19/21'>Josh. 19:21</a>",
-      "comment": ""
+      "comment": "Jarmuth and En Gannim expand the Gershonite holdings in Issachar, ensuring their pastoral needs and religious functions were met."
     },
     {
       "pk": 60210030,
@@ -365,7 +369,7 @@
       "verse": 30,
       "text": "From the tribe of Asher: Mishal with its pasturelands, Abdon with its pasturelands,",
       "links": "<a href='/AIV/6/19/25-28'>Josh. 19:25-28</a>",
-      "comment": ""
+      "comment": "Mishal and Abdon, cities in Asher, continue the pattern of Levitical distribution, fostering spiritual care and Torah teaching in the northern reaches of Israel."
     },
     {
       "pk": 60210031,
@@ -377,7 +381,7 @@
       "verse": 31,
       "text": "Helkath with its pasturelands, and Rehob with its pasturelands—four cities.",
       "links": "<a href='/AIV/6/19/28-30'>Josh. 19:28-30</a>",
-      "comment": ""
+      "comment": "Helkath and Rehob round out the Gershonite cities in Asher, reinforcing the comprehensive placement of Levites among the tribes."
     },
     {
       "pk": 60210032,
@@ -389,7 +393,7 @@
       "verse": 32,
       "text": "From the tribe of Naphtali: Kedesh in Galilee, the city of refuge for the slayer, with its pasturelands, Hammoth Dor with its pasturelands, and Kartan with its pasturelands—three cities.",
       "links": "<a href='/AIV/6/20/7'>Josh. 20:7</a>; <a href='/AIV/6/19/32-36'>Josh. 19:32-36</a>",
-      "comment": "Kedesh’s repeated mention as a city of refuge reminds us of God’s unchanging justice and mercy—fulfilled ultimately in Christ’s saving work."
+      "comment": "Kedesh in Galilee is notable as a city of refuge (cf. Joshua 20:7), illustrating God’s provision for both sanctuary and priestly service; Hammoth Dor and Kartan are further Gershonite cities in Naphtali."
     },
     {
       "pk": 60210033,
@@ -400,8 +404,12 @@
       "chapter": 21,
       "verse": 33,
       "text": "All the cities of the Gershonites according to their families were thirteen cities with their pasturelands.",
-      "links": "",
-      "comment": ""
+      "links": [
+        "Num 35:7",
+        "Josh 21:27",
+        "1 Chr 6:62"
+      ],
+      "comment": "The total of thirteen Gershonite cities underscores the equitable distribution of Levites for spiritual oversight and instruction throughout Israel."
     },
     {
       "pk": 60210034,
@@ -413,7 +421,7 @@
       "verse": 34,
       "text": "To the families of the Merarite Levites, the rest of the Levites, from the tribe of Zebulun: Jokneam with its pasturelands, Kartah with its pasturelands,",
       "links": "<a href='/AIV/6/19/10-16'>Josh. 19:10-16</a>",
-      "comment": "",
+      "comment": "Jokneam and Kartah were allotted to the Merarite Levites in Zebulun, ensuring their integration into the northern tribal lands.",
       "sectionHeader": "Cities Given to the Merarites"
     },
     {
@@ -425,8 +433,12 @@
       "chapter": 21,
       "verse": 35,
       "text": "Dimnah with its pasturelands, Nahalal with its pasturelands—four cities.",
-      "links": "",
-      "comment": ""
+      "links": [
+        "Josh 19:21",
+        "1 Chr 6:77",
+        "Num 35:2"
+      ],
+      "comment": "Dimnah and Nahalal, joining Jokneam and Kartah, complete the Merarite allocation in Zebulun, highlighting thorough Levitical presence."
     },
     {
       "pk": 60210036,
@@ -449,8 +461,12 @@
       "chapter": 21,
       "verse": 37,
       "text": "Kedemoth with its pasturelands, and Mephaath with its pasturelands—four cities.",
-      "links": "",
-      "comment": ""
+      "links": [
+        "Deut 2:26",
+        "Josh 13:18",
+        "1 Chr 6:79"
+      ],
+      "comment": "Kedemoth and Mephaath, with two others in Reuben, indicate the Merarite Levites’ reach east of the Jordan, showing the unity of worship across geographic divides (cf. Numbers 35:7)."
     },
     {
       "pk": 60210038,
@@ -474,7 +490,7 @@
       "verse": 39,
       "text": "Heshbon with its pasturelands, and Jazer with its pasturelands—four cities in all.",
       "links": "<a href='/AIV/6/13/25'>Josh. 13:25</a>",
-      "comment": ""
+      "comment": "Heshbon and Jazer, cities of Gad allotted to Merarites, further cement priestly presence among those living beyond the Jordan, demonstrating God’s inclusivity."
     },
     {
       "pk": 60210040,
@@ -485,8 +501,12 @@
       "chapter": 21,
       "verse": 40,
       "text": "All these were the cities allotted to the families of the Merarite Levites, the rest of the Levites. According to their lot, their total was twelve cities.",
-      "links": "",
-      "comment": ""
+      "links": [
+        "Num 35:7-8",
+        "Josh 21:7",
+        "1 Chr 6:63"
+      ],
+      "comment": "The twelve Merarite cities, derived by lot, reinforce God’s sovereign provision and the centrality of worship for all regions of Israel."
     },
     {
       "pk": 60210041,
@@ -510,7 +530,11 @@
       "chapter": 21,
       "verse": 42,
       "text": "Each of these cities had its own pasturelands around it; so it was with all these cities.",
-      "links": "",
+      "links": [
+        "Num 35:2-3",
+        "Lev 25:34",
+        "Josh 21:3"
+      ],
       "comment": "This detail points to both practical sufficiency and the orderly way God’s worship was provided for."
     },
     {

@@ -148,7 +148,7 @@
       "verse": 12,
       "text": "Now I urge those who read this book not to let these tragedies discourage them, but to consider that these punishments are for the correction, not the destruction, of our people.",
       "links": "<a href='/AIV/20/3/11-12'>Proverbs 3:11-12</a>; <a href='/AIV/58/12/6-7'>Hebrews 12:6-7</a>",
-      "comment": "Divine discipline is presented here as fatherly correction, not wrathful condemnation—a theme picked up in Hebrews to encourage perseverance.",
+      "comment": "The author encourages perseverance in faith, interpreting suffering under Seleucid persecution as God's corrective discipline—echoing wisdom traditions like Proverbs 3:11-12 and Hebrews 12:5-11, which frame chastisement as an act of divine love rather than solely judgment.",
       "sectionHeader": "Divine Discipline of Israel"
     },
     {
@@ -185,7 +185,7 @@
       "verse": 15,
       "text": "But with us He does not delay, so that He may not have to punish us afterward when our sins have come to their fullness.",
       "links": "<a href='/AIV/19/103/10'>Psalm 103:10</a>",
-      "comment": "Prompt discipline is an act of mercy to prevent greater destruction. The principle of being corrected now for eternal good ties into the sacramental economy of ongoing conversion."
+      "comment": "This verse highlights the notion of God's mercy in dealing quickly with Israel's sins to prevent greater future punishment, contrasting with how God sometimes delays judgment for other nations until their sins reach a climax (cf. Genesis 15:16)."
     },
     {
       "pk": 21006016,
@@ -208,7 +208,11 @@
       "chapter": 6,
       "verse": 17,
       "text": "Let this now be said as a reminder. We will return to the story.",
-      "links": "",
+      "links": [
+        "Deut 8:2",
+        "Ps 78:7",
+        "Rom 15:4"
+      ],
       "comment": "The author’s reminder reorients readers to interpret what follows as the fulfillment of God’s chastising love."
     },
     {
@@ -305,7 +309,11 @@
       "chapter": 6,
       "verse": 25,
       "text": "Therefore, by courageously giving up my life now, I will show myself worthy of my old age,",
-      "links": "",
+      "links": [
+        "Phil 1:20-21",
+        "2 Tim 4:7-8",
+        "Acts 21:13"
+      ],
       "comment": "Martyrdom is seen as a crowning act of faith, and the text implies the concept of redemptive suffering and merit."
     },
     {
@@ -329,7 +337,11 @@
       "chapter": 6,
       "verse": 27,
       "text": "Having said this, he went straight to the instrument of torture.",
-      "links": "",
+      "links": [
+        "Acts 7:59",
+        "Dan 3:16-18",
+        "Matt 27:31"
+      ],
       "comment": "Eleazar’s willingness prefigures Christ and the martyrs. There is a literal and spiritual dimension: to suffer and die for God is glorifying to Him."
     },
     {
@@ -341,7 +353,11 @@
       "chapter": 6,
       "verse": 28,
       "text": "Those conducting the unlawful ritual, who just moments before had been friendly, now turned against him, thinking his remarks were insane.",
-      "links": "",
+      "links": [
+        "Ps 41:9",
+        "Luke 23:35",
+        "John 15:18-19"
+      ],
       "comment": "Worldly perspectives often misunderstand the wisdom of God’s saints (cf. 1 Corinthians 1:18-25)."
     },
     {

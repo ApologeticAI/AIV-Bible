@@ -159,9 +159,13 @@
       "bookAbbreviation": "Hos",
       "chapter": 9,
       "verse": 13,
-      "text": "I have seen Ephraim, like Tyre, planted in a pleasant place. But Ephraim will bring out his children to the executioner.",
-      "links": "<a href='/AIV/26/27/3'>Ezek. 27:3</a>; <a href='/AIV/19/137/8-9'>Ps. 137:8-9</a>",
-      "comment": "God planted Ephraim in prosperity, yet now the effects of sin lead to destruction of the next generation. The reference to 'executioner' points to violent judgment, but also foreshadows the need for a faithful remnant—one continued lineage—which finds ultimate fulfillment in the Messiah (see Matt. 2:16-18)."
+      "text": "Once I saw Ephraim as a young palm planted in a lovely meadow, but now Ephraim must lead out his children for slaughter.",
+      "links": [
+        "Hos 9:16",
+        "Isa 5:7",
+        "Deut 28:41"
+      ],
+      "comment": "Ephraim, once flourishing like a young palm in a fertile land (symbolic of God's favor), now faces the devastating consequence of sending its children to destruction—a stark portrayal of judgment for covenant unfaithfulness, echoing warnings found in Deuteronomy 28:32 and the broader theme of exile."
     },
     {
       "pk": 35009014,
@@ -212,7 +216,7 @@
       "comment": "Rejection comes from disobedience, resulting in exile among the nations. This anticipates Israel’s dispersion, but also foreshadows the ingathering of God’s people into the one flock under Christ (John 10:16). Spiritual unity requires attentive listening to God’s voice, mediated through those He appoints."
     }
   ],
-  "translatedAt": "2025-12-24T09:38:11.781Z",
+  "translatedAt": "2025-12-28T06:57:14.035Z",
   "sections": [
     {
       "title": "Israel’s Punishment for Unfaithfulness",

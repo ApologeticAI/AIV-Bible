@@ -85,9 +85,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 1,
       "verse": 7,
-      "text": "During the rule of Demetrius, in the year one hundred sixty-nine, we Jews wrote to you in the midst of oppression. We wrote to you at the time when Jason and his followers had revolted against the holy land and the holy people.",
-      "links": "<a href='/AIV/27/11/20'>Dan 11:20</a>",
-      "comment": "The historical setting is provided here. Jason's revolt led to a major crisis for faithful Jews. The reference to the holy land and people underscores God's special relationship with his chosen nation."
+      "text": "In the reign of Demetrius, in the one hundred sixty-ninth year, we Jews wrote to you, in the critical distress that came upon us in those years after Jason and his company revolted from the holy land and the kingdom",
+      "links": "See also 2 Macc 4:7-17",
+      "comment": "This verse recalls a past plea for help during the reign of Demetrius (c. 143 BC), referencing the turmoil instigated by Jason's revolt and highlighting the Jewish community's turning back to proper worship, including sacrifices and rituals."
     },
     {
       "pk": 21001008,
@@ -97,9 +97,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 1,
       "verse": 8,
-      "text": "The fire was set to the sanctuary, and the altar was profaned. As a result, we found it necessary to pray to the Lord and were answered.",
-      "links": "<a href='/AIV/27/11/31'>Dan 11:31</a>; <a href='/AIV/40/24/15'>Matt 24:15</a>",
-      "comment": "Destruction of the sanctuary is a foreshadow of the necessity of both corporal and spiritual renewal and restoration. The pollution of the altar is linked with the 'abomination of desolation' prophecy."
+      "text": "and burned the gate and shed innocent blood. We prayed to the Lord and were heard, and we offered sacrifice and grain offering, and we lit the lamps and set out the loaves.",
+      "links": [
+        "2 Chr 7:6",
+        "Lev 24:5-9",
+        "Ex 40:25"
+      ],
+      "comment": "By reiterating the violence of Jason’s betrayal—burning the gate and shedding innocent blood—the text underscores both the gravity of apostasy and the restoration of worship through prayer, sacrifice, and temple rites reminiscent of Levitical law (Lev 24:5-9)."
     },
     {
       "pk": 21001009,
@@ -109,9 +113,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 1,
       "verse": 9,
-      "text": "We offered sacrifices and fine flour, lit the lamps, and set out the loaves of bread.",
-      "links": "<a href='/AIV/03/24/5-7'>Lev 24:5-7</a>",
-      "comment": "Resumption of worship and sacrifice signifies spiritual restoration. The use of bread in the sanctuary has typological connections with the Bread of Life discourse in the New Testament (John 6)."
+      "text": "And now see that you keep the festival of booths in the month of Chislev, in the one hundred eighty-eighth year.",
+      "links": [
+        "Lev 23:34",
+        "Ezra 6:16",
+        "John 7:2"
+      ],
+      "comment": "The instruction to celebrate the festival of booths (Sukkot) in Chislev rather than its typical Tishrei calendar date reflects Judaism's adaptation amid persecution and the retroactive sanctification of Hanukkah in connection with Sukkot (cf. 2 Macc 10:6-8)."
     },
     {
       "pk": 21001010,
@@ -121,9 +129,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 1,
       "verse": 10,
-      "text": "We now urge you to celebrate the festival of Booths in the month of Chislev.",
-      "links": "<a href='/AIV/03/23/34-43'>Lev 23:34-43</a>; <a href='/AIV/43/07/2-14'>John 7:2-14</a>",
-      "comment": "Celebrating the festival of Booths (or Sukkot) during Chislev is unusual, yet mirrors the dedication of the altar after its profanation. This re-dedication is linked historically to the Feast of Dedication (Hanukkah in John 10:22)."
+      "text": "The people of Jerusalem and of Judea and the senate and Judas, To Aristobulus, who is of the family of the anointed priests, teacher of King Ptolemy, and to the Jews in Egypt, Greetings and good health.",
+      "links": [
+        "Ezra 5:1",
+        "Acts 18:24",
+        "Phil 1:2"
+      ],
+      "comment": "This greeting introduces the epistolary section, naming Aristobulus—a respected Jewish scholar and priestly descendant—thus indicating an appeal for unity and shared commemoration among Jews in Jerusalem and the diaspora."
     },
     {
       "pk": 21001011,
@@ -133,9 +145,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 1,
       "verse": 11,
-      "text": "Written in the year one hundred eighty-eight of the Greek kingdom.",
-      "links": "<a href='/AIV/27/08/21'>Dan 8:21</a>",
-      "comment": "The dating uses the Seleucid era, pointing to the Hellenistic context. Chronicling such dates provides historical reliability."
+      "text": "To Aristobulus, who is of the family of the anointed priests and teacher of King Ptolemy, as well as to the Jews in Egypt, greetings and good health.",
+      "links": [
+        "Acts 15:23",
+        "2 Macc 1:1",
+        "Rom 1:7"
+      ],
+      "comment": "The repetition of Aristobulus’ credentials highlights Jewish intellectual and spiritual leadership in the Egyptian diaspora and underscores the intent to maintain religious ties across geographic boundaries."
     },
     {
       "pk": 21001012,
@@ -145,9 +161,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 1,
       "verse": 12,
-      "text": "Those in Jerusalem and in Judea, the council of elders, and Judas, send greetings to Aristobulus, the teacher of King Ptolemy, and to the Jews in Egypt.",
-      "links": "<a href='/AIV/44/18/24'>Acts 18:24</a>",
-      "comment": "This shows the unity beyond borders among the Jewish diaspora and solidarity in faith, which is significant for understanding the wider reach of God's people."
+      "text": "Having been saved by God out of great dangers, we thank him greatly for taking our side against the king; for he drove out those who fought against the holy city.",
+      "links": [
+        "Ps 124:7",
+        "Dan 6:27",
+        "2 Macc 8:31"
+      ],
+      "comment": "The community's thanksgiving for God’s decisive intervention against enemies recalls the recurring biblical theme of divine deliverance (e.g., Exod 14:30) and reinforces the Maccabean conviction of God's sovereignty over Israel’s fate."
     },
     {
       "pk": 21001013,
@@ -157,9 +177,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 1,
       "verse": 13,
-      "text": "We wish you health and prosperity!",
-      "links": "<a href='/AIV/45/01/7'>Rom 1:7</a>",
-      "comment": "A standard greeting, emphasizing the wholeness and well-being that comes from being united to God's people."
+      "text": "For when the leader arrived in Persia with his seemingly invincible army, he was cut down in the temple of Nanea by a ruse made by the priests of Nanea.",
+      "links": [
+        "Dan 8:25",
+        "Esth 7:10",
+        "1 Macc 6:1-16"
+      ],
+      "comment": "Referencing Antiochus IV’s defeat in the temple of Nanea (a Persian goddess), the narrative attributes his downfall not to human might but to divine retribution, paralleling stories like Haman’s demise in Esther."
     },
     {
       "pk": 21001014,
@@ -169,9 +193,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 1,
       "verse": 14,
-      "text": "We thank God for having thrown down our enemies.",
-      "links": "<a href='/AIV/02/15/1-21'>Ex 15:1-21</a>; <a href='/AIV/02/23/27'>Ex 23:27</a>",
-      "comment": "Giving thanks for deliverance is common throughout the Old Testament, echoing the psalms where salvation from danger is attributed always to God's power.",
+      "text": "For under the pretext of marrying her, Antiochus came with his friends to the place to receive money as a dowry; but when the priests of Nanea had set it out, and he had come with a few men inside the sacred precinct, they closed the temple as soon as he entered.",
+      "links": [
+        "Ps 37:12-13",
+        "Esth 3:10",
+        "Dan 5:30"
+      ],
+      "comment": "Antiochus’s deceitful intent to plunder the temple under the guise of marriage is met with poetic justice, echoing Old Testament narratives where pride leads to downfall (Prov 16:18).",
       "sectionHeader": "Deliverance and Dedication of the Temple"
     },
     {
@@ -182,9 +210,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 1,
       "verse": 15,
-      "text": "It was he who led our people out of Egypt and caused great wonders.",
-      "links": "<a href='/AIV/02/12/42'>Ex 12:42</a>; <a href='/AIV/05/07/19'>Deut 7:19</a>",
-      "comment": "Connecting God's deliverance in the Exodus with the current experience reminds the faithful of God's unchanging power and faithfulness."
+      "text": "Then opening a secret door in the ceiling, they threw stones and struck down the leader and his men. They cut them in pieces and threw their heads to those outside.",
+      "links": [
+        "Ps 2:4-5",
+        "Judg 9:53-54",
+        "Dan 2:34"
+      ],
+      "comment": "The grisly fate of Antiochus and his men, orchestrated by the priests, serves as both narrative climax and theological assertion: God vindicates His sanctuary and punishes impiety."
     },
     {
       "pk": 21001016,
@@ -194,9 +226,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 1,
       "verse": 16,
-      "text": "He led our ancestors through the sea when Pharaoh and his army pursued them, drowning them in the Red Sea.",
-      "links": "<a href='/AIV/02/14/27-31'>Ex 14:27-31</a>",
-      "comment": "A clear reminder of the mighty act of redemption in the Exodus, foreshadowing greater acts of salvation for the whole world."
+      "text": "Blessed be our God in all things, who has delivered up the impious.",
+      "links": [
+        "Ps 18:46",
+        "Ex 15:2",
+        "Isa 25:9"
+      ],
+      "comment": "A doxology concludes this episode, driving home the message that the true God actively judges and delivers His people throughout history (cf. Dan 3:28-29)."
     },
     {
       "pk": 21001017,
@@ -206,9 +242,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 1,
       "verse": 17,
-      "text": "He brought our people into his holy land and into a land flowing with milk and honey.",
-      "links": "<a href='/AIV/02/03/8'>Ex 3:8</a>",
-      "comment": "Entering the promised land not only fulfills God's promises but symbolizes the inheritance of eternal blessing."
+      "text": "Since we shall be celebrating the purification of the temple on the twenty-fifth of Chislev, we thought it right to notify you, so that you also may celebrate it, as the feast of the tabernacles and of the fire which was given when Nehemiah offered sacrifices after rebuilding the temple and the altar.",
+      "links": [
+        "1 Macc 4:36",
+        "Ezra 6:16",
+        "2 Chr 7:9"
+      ],
+      "comment": "The reference to the purification of the temple on the twenty-fifth of Chislev links the origins of Hanukkah to Sukkot traditions and Nehemiah’s post-exilic restoration (Neh 12:27, 43), emphasizing continuity in worship and divine faithfulness."
     },
     {
       "pk": 21001018,
@@ -218,7 +258,7 @@
       "bookAbbreviation": "2Macc",
       "chapter": 1,
       "verse": 18,
-      "text": "After being delivered from great dangers, we purified the House and celebrated the dedication with sacrifices and thanksgivings.",
+      "text": "Since on the twenty-fifth day of Chislev we shall celebrate the purification of the temple, we thought it necessary to notify you, in order that you also may celebrate the festival of booths and the festival of the fire given when Nehemiah, who built the temple and the altar, offered sacrifices.",
       "links": "<a href='/AIV/16/12/27'>Neh 12:27</a>; <a href='/AIV/03/07/12'>Lev 7:12</a>",
       "comment": "The process of purification and re-dedication of the Temple foreshadows the continual need for communal renewal and gratitude for redemption."
     },
@@ -230,7 +270,7 @@
       "bookAbbreviation": "2Macc",
       "chapter": 1,
       "verse": 19,
-      "text": "We celebrated this, and our ancestors and all the people decided to observe the dedication each year.",
+      "text": "For when our ancestors were being led captive to Persia, the pious priests of that time took some of the fire of the altar and secretly hid it in the hollow of a dry cistern, where they took such precautions that the place was unknown to anyone.",
       "links": "<a href='/AIV/43/10/22'>John 10:22</a>",
       "comment": "The annual celebration points to the institution of Hanukkah. Jesus himself attended this festival in John 10:22, linking Old Testament tradition with the New Testament context."
     },
@@ -242,7 +282,7 @@
       "bookAbbreviation": "2Macc",
       "chapter": 1,
       "verse": 20,
-      "text": "At the time of Nehemiah, our ancestors carried the sacred fire from the altar secretly into a hollow place, a dry well, where they kept it hidden.",
+      "text": "As things happened, the priests who were then at the time of the exile sought to take the sacred fire from the altar and, having hidden it secretly in a hollow of a dry cistern, kept it safe in that place, so that the place was unknown to anyone.",
       "links": "<a href='/AIV/16/02/1'>Neh 2:1</a>",
       "comment": "The secret preservation of the altar fire shows reverence for God's commandments and the importance placed on continuity in the worship of God, mirroring later preservations of faith in times of persecution.",
       "sectionHeader": "The Miracle of the Sacred Fire"
@@ -255,7 +295,7 @@
       "bookAbbreviation": "2Macc",
       "chapter": 1,
       "verse": 21,
-      "text": "They kept it so well concealed that when many years had passed, both our people and the Persian king forgot about it.",
+      "text": "After many years had passed, when it pleased God, Nehemiah, having been commissioned by the king of Persia, sent the descendants of the priests who had hidden the fire to get it. But when they reported that they had not found fire, but only a thick liquid, he ordered them to dip it out and bring it.",
       "links": "<a href='/AIV/16/01/1-11'>Neh 1:1-11</a>",
       "comment": "This highlights the perseverance and safeguarding of the sacred, even when hope and memory have faded among the people."
     },
@@ -267,7 +307,7 @@
       "bookAbbreviation": "2Macc",
       "chapter": 1,
       "verse": 22,
-      "text": "After Nehemiah returned from Persia, he asked the descendants of the priests who had hidden the fire to retrieve it, but they reported that they found only thick liquid, like water.",
+      "text": "When the materials for the sacrifices were presented, Nehemiah ordered the priests to sprinkle the liquid on the wood and on the things laid upon it.",
       "links": "<a href='/AIV/16/02/3-7'>Neh 2:3-7</a>",
       "comment": "A miraculous transformation, suggesting that God's providence can work through ordinary means, a theme mirrored in the miracles of the New Testament (cf. John 2:1-11)."
     },
@@ -328,7 +368,11 @@
       "chapter": 1,
       "verse": 27,
       "text": "Nehemiah ordered that the remainder of the liquid be poured over large stones.",
-      "links": "",
+      "links": [
+        "Lev 8:10-11",
+        "Ex 40:9",
+        "Neh 13:9"
+      ],
       "comment": "Continuing the ceremonial acts connects the physical with the sacred, highlighting how ordinary material things can become instruments of God’s power and grace."
     },
     {
@@ -340,7 +384,11 @@
       "chapter": 1,
       "verse": 28,
       "text": "As soon as this was done, a flame flared up, which was consumed by the light from the altar.",
-      "links": "",
+      "links": [
+        "Lev 9:24",
+        "1 Kgs 18:38",
+        "2 Chr 7:1"
+      ],
       "comment": "God’s action through fire is a recurring sign of his presence and approval (cf. Exodus 3:2; Acts 2:3)."
     },
     {
@@ -388,7 +436,11 @@
       "chapter": 1,
       "verse": 32,
       "text": "Those with Nehemiah called the liquid 'nephthar,' which means purification, but most people called it 'naphta.'",
-      "links": "",
+      "links": [
+        "Num 19:9",
+        "Heb 9:13",
+        "Ezek 36:25"
+      ],
       "comment": "The specific naming of the liquid ties into liturgical traditions. Purification ceremonies point toward the deeper spiritual cleansing the Messiah will later bring (Heb 9:13-14)."
     },
     {
@@ -400,7 +452,11 @@
       "chapter": 1,
       "verse": 33,
       "text": "It is also called 'nephthar,' which means 'purification.'",
-      "links": "",
+      "links": [
+        "Ezek 36:25",
+        "Ps 51:7",
+        "Heb 10:22"
+      ],
       "comment": "The repeated emphasis on purification prefigures the central theme of cleansing from sin, later fulfilled in Christ's ultimate sacrifice."
     },
     {
@@ -412,7 +468,11 @@
       "chapter": 1,
       "verse": 34,
       "text": "Nehemiah and his companions called it 'nephthar,' which is translated as 'purification.'",
-      "links": "",
+      "links": [
+        "Ps 51:7",
+        "Isa 1:25",
+        "Heb 9:14"
+      ],
       "comment": "This final naming further underscores the importance of ongoing purification for God's people and hints at a continuous tradition of visible and material acts linked to spiritual realities."
     },
     {
@@ -423,9 +483,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 1,
       "verse": 35,
-      "text": "Many years later, under a different king, the priests who succeeded Nehemiah were instructed to take some of the purification liquid to give to their descendants.",
-      "links": "",
-      "comment": "The passing down of sacred elements through priestly succession signals the importance of continuity and tradition in spiritual leadership—a principle vital to the faithful passing down of true doctrine (see 2 Tim 2:2)."
+      "text": "And with those persons whom the king favored he exchanged many excellent gifts.",
+      "links": [
+        "Dan 1:9",
+        "Esth 2:17",
+        "Gen 39:4"
+      ],
+      "comment": "Mentioning the exchange of 'excellent gifts' highlights the diplomatic and material connections between the Jewish community and foreign powers, reflecting a common feature of Hellenistic royal courts."
     },
     {
       "pk": 21001036,
@@ -435,12 +499,16 @@
       "bookAbbreviation": "2Macc",
       "chapter": 1,
       "verse": 36,
-      "text": "When those who received it, remembered and recorded what had happened, they called it 'purification.'",
-      "links": "",
-      "comment": "Recording and remembering God’s wonders through tradition ensures that faith is preserved and accessible for future generations, echoing Deut 6:6-9 and the continual unfolding of God's plan through his ordained ministers."
+      "text": "Nehemiah and his associates called this “nephthar,” which means purification, but by most people it is called naphtha.",
+      "links": [
+        "Ezek 36:25",
+        "Ps 51:2",
+        "Heb 1:3"
+      ],
+      "comment": "The identification of 'nephthar' (interpreted as naphtha, a flammable substance) as symbolizing purification connects the miraculous fire of Nehemiah’s era with the Hanukkah celebration, reinforcing themes of sanctity, memory, and divine provision."
     }
   ],
-  "translatedAt": "2025-12-24T05:29:20.883Z",
+  "translatedAt": "2025-12-29T00:38:38.501Z",
   "sections": [
     {
       "title": "Greeting to the Jews in Egypt",

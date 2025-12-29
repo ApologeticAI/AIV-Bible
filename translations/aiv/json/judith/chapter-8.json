@@ -73,9 +73,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 8,
       "verse": 6,
-      "text": "She made herself a tent on the roof of her house, and wore sackcloth around her waist. She fasted all the days of her widowhood except on the sabbaths, the new moons, and the feast days of Israel.",
-      "links": "<a href='/AIV/3/29/33'>Lev. 23:33</a>; <a href='/AIV/19/35/13'>Ps. 35:13</a>",
-      "comment": "Here, Judith exemplifies the spiritual discipline of fasting and prayer, echoing the value placed on ascetic practices. Her observance of sacred times mirrors the rhythm of worship established by God."
+      "text": "She made herself a tent on the roof of her house, and wore sackcloth around her waist. She fasted all the days of her widowhood except on the day before the sabbath and the sabbath itself, the day before the new moon and the day of the new moon, and the feast days of Israel.",
+      "links": [
+        "Luke 2:37",
+        "Dan 6:10",
+        "Esth 4:3"
+      ],
+      "comment": "Judith's fasting and sackcloth signify deep mourning and penitence, her abstention on holy days reflects respect for religious observance (cf. Lev 23), highlighting her piety amidst crisis."
     },
     {
       "pk": 18008007,
@@ -207,9 +211,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 8,
       "verse": 17,
-      "text": "Call to mind what he did to Abraham, and how he tested Isaac, and everything that happened to Jacob in Mesopotamia, Syria, while he was tending the flocks for Laban, his mother’s brother.",
-      "links": "<a href='/AIV/1/22/1-19'>Gen. 22:1-19</a>; <a href='/AIV/1/29/1-30/43'>Gen. 29-30</a>",
-      "comment": "Judith appeals to the key patriarchs and God’s faithfulness to them under trial, invoking deep roots of tradition and the value of steadfastness."
+      "text": "Therefore, while we wait for his deliverance, let us call upon him to help us, and he will hear our voice, if it pleases him.",
+      "links": [
+        "Ps 34:15",
+        "Ps 50:15",
+        "Isa 30:18"
+      ],
+      "comment": "Judith urges trust in God's deliverance, emphasizing prayerful patience, a recurring biblical theme (cf. Psalm 27:14), affirming divine sovereignty in response to supplication."
     },
     {
       "pk": 18008018,
@@ -219,9 +227,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 8,
       "verse": 18,
-      "text": "For he has not punished us for our sins as he did those who rebelled against him, nor has he brought major disasters upon us.",
-      "links": "<a href='/AIV/4/16/41'>Num. 16:41</a>; <a href='/AIV/19/103/10'>Ps. 103:10</a>",
-      "comment": "Acknowledging mercy, Judith reinforces the gratitude owed for divine patience and forgiveness, a recurrent theme in Psalms."
+      "text": "For never in our generation nor in these days has there been any tribe or family or people or town of ours that worships gods made with hands, as was done in days gone by.",
+      "links": [
+        "Ex 20:4",
+        "Josh 24:14-16",
+        "Judg 2:11-13"
+      ],
+      "comment": "She recalls Israel’s consistent monotheism since their reforms, contrasting present faithfulness with former idolatry, an echo of Deuteronomy's warnings against false gods."
     },
     {
       "pk": 18008019,
@@ -231,9 +243,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 8,
       "verse": 19,
-      "text": "Yet do not let us think, in this time of punishment, to seek vengeance against our enemies, but let us turn to the Lord with contrite hearts, and ask his favor.",
-      "links": "<a href='/AIV/1/4/7'>Gen. 4:7</a>; <a href='/AIV/19/51/17'>Ps. 51:17</a>",
-      "comment": "Judith emphasizes contrition, penitential prayer, and seeking God’s mercy, reflecting important biblical values in approaching trials."
+      "text": "That was why our ancestors were handed over to the sword and to pillage, and so they suffered a great catastrophe before our enemies.",
+      "links": [
+        "Judg 2:14",
+        "2 Chr 36:16-19",
+        "Jer 7:20"
+      ],
+      "comment": "Judith links ancestral disasters—sword and pillage—to lapses in faith, referencing prophetic teachings that national suffering results from covenantal unfaithfulness (cf. Judges 2:11-15)."
     },
     {
       "pk": 18008020,
@@ -243,9 +259,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 8,
       "verse": 20,
-      "text": "Let us wait for his deliverance and trust that he will answer us, if it pleases him.",
-      "links": "<a href='/AIV/18/13/4'>Judith 13:4</a>; <a href='/AIV/19/37/7'>Ps. 37:7</a>",
-      "comment": "Trusting in God’s timing for deliverance is a frequent scriptural encouragement, and here Judith models spiritual hope and patience."
+      "text": "But we know no other god but him, and so we hope that he will not disdain us or any of our nation.",
+      "links": [
+        "Deut 6:4",
+        "Ps 73:25",
+        "Jer 14:22"
+      ],
+      "comment": "She anchors Israel’s hope in their exclusive devotion to the one true God, echoing the Shema (Deut 6:4) and expressing confidence God will not reject his faithful people."
     },
     {
       "pk": 18008021,
@@ -255,9 +275,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 8,
       "verse": 21,
-      "text": "For God will not forsake us, nor will he abandon our people; it would be inconsistent with his mercy and faithfulness.",
-      "links": "<a href='/AIV/5/31/6'>Deut. 31:6</a>; <a href='/AIV/58/13/5'>Heb. 13:5</a>",
-      "comment": "God’s enduring presence and mercy is reaffirmed; this is both a promise and a challenge to maintain faith and unity in the face of adversity."
+      "text": "For if we are captured, all Judea will be captured and our sanctuary will be plundered; and he will make us pay for its desecration with our blood.",
+      "links": [
+        "Jer 7:14",
+        "Mic 3:12",
+        "1 Macc 1:21-24"
+      ],
+      "comment": "Judith warns that their defeat would expose Judea and the sanctuary to desecration, showing the understood link between national survival and the honor of God's dwelling place."
     },
     {
       "pk": 18008022,
@@ -267,9 +291,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 8,
       "verse": 22,
-      "text": "For if we do not follow him, all of this land will be ruined, and the sanctuary will be destroyed, and God will hold us accountable for its desecration by the Gentiles.",
-      "links": "<a href='/AIV/24/7/4'>Jer. 7:4</a>; <a href='/AIV/40/24/2'>Matt. 24:2</a>",
-      "comment": "Judith reminds them of covenantal responsibility; faithfulness preserves both the community and the sanctuary, echoing later warnings of Jesus about the Temple’s destruction."
+      "text": "The slaughter of our kindred and the captivity of the land and the desolation of our inheritance—all this he will bring on our heads among the Gentiles, wherever we serve as slaves; and we shall be an offense and a disgrace in the eyes of those who acquire us.",
+      "links": [
+        "Deut 28:37",
+        "Jer 24:9",
+        "Lam 2:15-16"
+      ],
+      "comment": "She anticipates the shame and exile that would result from defeat, echoing covenant curses (Deut 28:36-37) and the loss of inheritance associated with national apostasy."
     },
     {
       "pk": 18008023,
@@ -279,9 +307,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 8,
       "verse": 23,
-      "text": "Our brothers throughout the land, and the sanctuary and the temple, depend on us; all of this must not fall.",
-      "links": "<a href='/AIV/2/25/8'>Ex. 25:8</a>; <a href='/AIV/18/5/19'>Judith 5:19</a>",
-      "comment": "This verse points to the unity of worship and community, which become themes of the one people of God entrusted with preserving both liturgy and moral life."
+      "text": "For our slavery will not bring us into favor, but the Lord our God will turn it to dishonor.",
+      "links": [
+        "Deut 28:20",
+        "Ps 44:13",
+        "Jer 42:18"
+      ],
+      "comment": "Judith insists that subjugation will not earn favor from oppressors, but instead bring further dishonor, reflecting theological conviction that only fidelity to God brings true honor."
     },
     {
       "pk": 18008024,
@@ -291,9 +323,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 8,
       "verse": 24,
-      "text": "Therefore, let us give thanks to the Lord who tests us just as he tested our ancestors.",
-      "links": "<a href='/AIV/5/8/2'>Deut. 8:2</a>; <a href='/AIV/19/26/7'>Ps. 26:7</a>",
-      "comment": "The act of thanksgiving, even in hardship, reflects profound trust that connects to teachings on redemptive suffering and enduring faith."
+      "text": "Therefore, my brothers, let us set an example for our kindred, for their lives depend upon us, and the sanctuary — both the temple and the altar — rests upon us. In spite of everything let us give thanks to the Lord our God, who is putting us to the test as he did our ancestors.",
+      "links": [
+        "Josh 24:15",
+        "1 Chr 29:17",
+        "Dan 3:17-18"
+      ],
+      "comment": "She calls her peers to exemplary faith, noting the community’s survival and the sanctuary’s fate depend on their integrity, paralleling leaders like Moses interceding for Israel."
     },
     {
       "pk": 18008025,
@@ -303,9 +339,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 8,
       "verse": 25,
-      "text": "Remember also how he dealt with Abraham, and how he tested Isaac, and what happened to Jacob in Mesopotamia, living as a shepherd for Laban.",
-      "links": "<a href='/AIV/1/22/1-19'>Gen. 22:1-19</a>; <a href='/AIV/1/29/1'>Gen. 29:1</a>",
-      "comment": "Repetition here highlights the importance of remembering past fidelities of God, feeding hope for present challenges."
+      "text": "In spite of everything let us give thanks to the Lord our God, who is putting us to the test as he did our ancestors.",
+      "links": [
+        "Ps 107:1",
+        "Dan 3:28",
+        "Jas 1:2-3"
+      ],
+      "comment": "Echoing themes of testing from Israel’s history, Judith urges gratitude and perseverance, recognizing trials as opportunities for communal growth and faithfulness."
     },
     {
       "pk": 18008026,
@@ -315,9 +355,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 8,
       "verse": 26,
-      "text": "He has not punished us as our sins deserved, nor as he did with those who provoked him.",
-      "links": "<a href='/AIV/19/103/10'>Ps. 103:10</a>; <a href='/AIV/4/16/35'>Num. 16:35</a>",
-      "comment": "The emphasis on mercy is repeated to anchor the theological foundation of forgiveness and the possibility of renewal for the faithful."
+      "text": "Remember what he did with Abraham, and how he tested Isaac, and what happened to Jacob in Syrian Mesopotamia, while he was tending the sheep of Laban, his mother’s brother.",
+      "links": [
+        "Gen 22:1",
+        "Gen 32:24-28",
+        "Gen 31:38-42"
+      ],
+      "comment": "Judith invokes the patriarchs Abraham, Isaac, and Jacob, recalling their trials as precedents for faith under hardship (cf. Gen 22:1-19; Gen 32:22-32), reinforcing the virtue of endurance."
     },
     {
       "pk": 18008027,
@@ -327,9 +371,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 8,
       "verse": 27,
-      "text": "Now, therefore, let us humble our hearts and seek his favor, and pray that he will remember his covenant with our ancestors and not forsake us in this hour.",
-      "links": "<a href='/AIV/19/51/17'>Ps. 51:17</a>; <a href='/AIV/6/2/17'>Josh. 2:17</a>",
-      "comment": "Prayer for remembrance of God’s covenant reflects a deep sacramental awareness of God’s ongoing fidelity to his promises."
+      "text": "For he has not tried us with fire, as he did them, to search their hearts, nor has he taken vengeance on us; but the Lord scourges those who are close to him in order to admonish them.",
+      "links": [
+        "Prov 3:12",
+        "Heb 12:6",
+        "Ps 94:12"
+      ],
+      "comment": "She notes that God disciplines those he loves without destruction, paralleling Proverbs 3:12 and Hebrews 12:6, viewing suffering as divine admonition for the faithful."
     },
     {
       "pk": 18008028,
@@ -351,9 +399,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 8,
       "verse": 29,
-      "text": "Today, your courage has inspired the people; your words have comforted their hearts.",
-      "links": "<a href='/AIV/7/1/6'>Judges 1:6</a>; <a href='/AIV/19/119/50'>Ps. 119:50</a>",
-      "comment": "Judith’s speech brings encouragement, modeling the gift of exhortation present throughout salvation history."
+      "text": "Today is not the first time your wisdom has been shown, but from the beginning of your life all the people have recognized your understanding, for your heart’s disposition is right.",
+      "links": [
+        "1 Sam 16:7",
+        "Wis 7:27",
+        "Sir 4:14"
+      ],
+      "comment": "Judith’s reputation for wisdom is affirmed by the elders, paralleling biblical themes where righteous leadership is recognized by the community from an early age."
     },
     {
       "pk": 18008030,
@@ -363,9 +415,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 8,
       "verse": 30,
-      "text": "But if the siege continues and we run out of water, we will act as you have said.",
-      "links": "<a href='/AIV/18/7/21'>Judith 7:21</a>; <a href='/AIV/1/42/2'>Gen. 42:2</a>",
-      "comment": "The elders yield to Judith’s wisdom but maintain caution, signifying the need for prudence yet openness to grace amid crisis."
+      "text": "But the people were so thirsty that they compelled us to do for them what we have promised, and made us take an oath that we cannot break.",
+      "links": [
+        "Ex 17:2-3",
+        "Num 20:2-5",
+        "Ps 106:32-33"
+      ],
+      "comment": "The leaders’ oath in response to the people's distress highlights the tension between communal necessity and individual conscience during crisis, a dilemma seen in other biblical narratives."
     },
     {
       "pk": 18008031,
@@ -412,9 +468,12 @@
       "bookAbbreviation": "Jdt",
       "chapter": 8,
       "verse": 34,
-      "text": "I trust God will accomplish deliverance for Israel by my hand.",
-      "links": "<a href='/AIV/7/15/13'>Judges 15:13</a>; <a href='/AIV/18/13/4'>Judith 13:4</a>",
-      "comment": "Judith’s faith anticipates salvation mediated through chosen instruments, echoing cycles of deliverance found with the Judges."
+      "text": "Only, do not try to find out what I am doing; for I will not tell you until I have finished what I am about to do.",
+      "links": [
+        "Esth 4:16",
+        "Luke 2:19"
+      ],
+      "comment": "Judith requests secrecy regarding her plan, demonstrating faith-driven initiative akin to Esther or Deborah, which contrasts communal deliberation with divinely inspired action."
     },
     {
       "pk": 18008035,
@@ -441,7 +500,7 @@
       "comment": "This closing notes the readiness and submission of the elders to Judith’s faith-driven leadership, prefiguring how humble and obedient service can prepare the way for God’s deliverance."
     }
   ],
-  "translatedAt": "2025-12-24T05:03:47.494Z",
+  "translatedAt": "2025-12-28T02:19:43.300Z",
   "sections": [
     {
       "title": "Judith's Family and Widowhood",

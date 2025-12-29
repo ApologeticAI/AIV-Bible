@@ -3,6 +3,18 @@
   "bookName": "Sirach",
   "bookAbbreviation": "Sir",
   "chapter": 29,
+  "sections": [
+    {
+      "title": "Generosity and Lending",
+      "startVerse": 1,
+      "endVerse": 23
+    },
+    {
+      "title": "The Blessing of Hospitality",
+      "startVerse": 24,
+      "endVerse": 28
+    }
+  ],
   "verses": [
     {
       "pk": 28029001,
@@ -12,10 +24,10 @@
       "bookAbbreviation": "Sir",
       "chapter": 29,
       "verse": 1,
-      "text": "He who shows mercy lends to his neighbor, and he who supports him with a helping hand keeps the commandments.",
-      "links": "<a href='/AIV/5/15/7-8'>Deut. 15:7-8</a>; <a href='/AIV/40/25/35-40'>Matt. 25:35-40</a>",
-      "comment": "This verse connects the act of lending and mercy directly to obedience to God’s law, showing practical love. The emphasis on works highlights a holistic approach to faith and charity.",
-      "sectionHeader": "The Virtue of Lending and Repaying Debts"
+      "text": "He who shows mercy by lending to his neighbor keeps the commandments, and supports him with his hand.",
+      "links": "<a href='/AIV/2/22/25'>Ex. 22:25</a>; <a href='/AIV/19/112/5'>Ps. 112:5</a>",
+      "comment": "The practice of lending to those in need is deeply rooted in the law of Moses and seen as an act of mercy—see also Ex. 22:25. This anticipates the Christian ethic of generosity evidenced in Christ’s teachings (cf. Matt. 5:42, Luke 6:34-35).",
+      "sectionHeader": "Generosity and Lending"
     },
     {
       "pk": 28029002,
@@ -25,9 +37,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 29,
       "verse": 2,
-      "text": "Lend to your neighbor when he is in need, and repay your neighbor on time.",
-      "links": "<a href='/AIV/5/24/10-13'>Deut. 24:10-13</a>",
-      "comment": "Both generosity and responsibility are stressed. Lending is encouraged as a work of mercy, yet prompt repayment respects justice."
+      "text": "Lend to your neighbor in his time of need, and pay your debt to your neighbor in due time.",
+      "links": "<a href='/AIV/19/37/21'>Ps. 37:21</a>; <a href='/AIV/40/5/42'>Matt. 5:42</a>",
+      "comment": "This verse underscores both generosity and personal responsibility. The call to pay back debts echoes biblical justice and faithfulness."
     },
     {
       "pk": 28029003,
@@ -37,9 +49,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 29,
       "verse": 3,
-      "text": "Keep your word and be trustworthy, and you will always find what you need.",
-      "links": "<a href='/AIV/20/11/3'>Prov. 11:3</a>",
-      "comment": "Integrity is presented as essential for prosperous relationships and divine blessing."
+      "text": "Keep your promise and be trustworthy, and you will always find what you need.",
+      "links": "<a href='/AIV/19/15/4'>Ps. 15:4</a>",
+      "comment": "Faithfulness in small matters is tied to trust in God for providence. Compare Luke 16:10 for Jesus’ teaching on faithfulness."
     },
     {
       "pk": 28029004,
@@ -49,9 +61,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 29,
       "verse": 4,
-      "text": "Many regard a loan as something to be found, and they put those who help them to trouble.",
-      "links": "<a href='/AIV/19/37/21'>Ps. 37:21</a>",
-      "comment": "This verse warns about the danger of ingratitude and the obligation to honor financial debts, reflecting biblical warnings against carelessness."
+      "text": "Many consider a loan to be a gain, and cause trouble to those who helped them.",
+      "links": "<a href='/AIV/20/22/7'>Prov. 22:7</a>",
+      "comment": "Here Sirach describes the sorrowful reality of some borrowers, echoing Prov. 22:7 about the borrower being a servant to the lender."
     },
     {
       "pk": 28029005,
@@ -61,9 +73,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 29,
       "verse": 5,
-      "text": "Until he receives, he kisses your hand and talks humbly about your wealth. But when it's time to pay, he delays and blames circumstances.",
-      "links": "<a href='/AIV/19/55/21'>Ps. 55:21</a>",
-      "comment": "There is a subtle warning about false humility and unreliability, a vice that disrupts trust within the community."
+      "text": "He kisses his hands, and speaks humbly, but when payment is due, he delays and blames the times.",
+      "links": [
+        "Prov 20:14",
+        "Ps 55:21",
+        "Jas 2:16"
+      ],
+      "comment": "Symbolic language expressing false humility. The challenge of encountering unreliable borrowers transcends time and place."
     },
     {
       "pk": 28029006,
@@ -73,9 +89,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 29,
       "verse": 6,
-      "text": "If he can repay, he might do so, but if not, he takes away your money and makes you his enemy for no reason.",
-      "links": "<a href='/AIV/20/6/1-5'>Prov. 6:1-5</a>",
-      "comment": "This passage reflects on the brokenness of sin when obligations are avoided, underscoring the societal need for justice and charity."
+      "text": "If he can repay, he will barely pay half, and will count it as a gain; if not, he will take advantage and rob you of your money.",
+      "links": [
+        "Ps 37:21",
+        "Prov 22:7",
+        "Deut 24:14"
+      ],
+      "comment": "Sirach realistically warns against imprudence in lending. This teaches discernment within mercy—a wisdom valued by the Church Fathers."
     },
     {
       "pk": 28029007,
@@ -85,9 +105,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 29,
       "verse": 7,
-      "text": "He curses you instead of offering thanks, and repays your good with evil. People will avoid him, so he cannot find a friend.",
-      "links": "<a href='/AIV/20/17/13'>Prov. 17:13</a>",
-      "comment": "Ungratefulness severs bonds and isolates the individual—an implicit call for reconciliation and restoration within the community."
+      "text": "Many refuse to lend, not out of stinginess, but from the fear of being cheated needlessly.",
+      "links": [
+        "Deut 15:9",
+        "Prov 19:17",
+        "Luke 6:34"
+      ],
+      "comment": "Lending unwisely can bring harm to relationships, reminding readers of the human tendency towards ingratitude and injustice."
     },
     {
       "pk": 28029008,
@@ -97,9 +121,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 29,
       "verse": 8,
-      "text": "Lend to the poor, and you will not lose; indeed, you will be repaid with greater blessings.",
-      "links": "<a href='/AIV/19/41/1'>Ps. 41:1</a>; <a href='/AIV/42/6/38'>Luke 6:38</a>",
-      "comment": "The promise of divine recompense for charity, anticipating the teaching of Jesus on giving generously."
+      "text": "Many refuse to lend, not because they are wicked, but because they have been wronged for no reason.",
+      "links": "<a href='/AIV/19/37/21'>Ps. 37:21</a>",
+      "comment": "The wisdom here does not condemn prudent boundaries. Justice and charity must go together."
     },
     {
       "pk": 28029009,
@@ -109,9 +133,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 29,
       "verse": 9,
-      "text": "Defend the rights of the poor and do not leave them in desperate need.",
-      "links": "<a href='/AIV/20/31/8-9'>Prov. 31:8-9</a>",
-      "comment": "Active defense of the poor is commended—a theme closely related to biblical justice and mercy."
+      "text": "Yet be patient with the humble, and do not make them wait for your help.",
+      "links": "<a href='/AIV/19/37/26'>Ps. 37:26</a>",
+      "comment": "Despite caution, generosity is always encouraged toward the poor and needy—an Old Testament theme fulfilled in Christian charity."
     },
     {
       "pk": 28029010,
@@ -121,9 +145,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 29,
       "verse": 10,
-      "text": "Give your money to keep your brother or friend from poverty, and do not hide it under a stone to rust away.",
-      "links": "<a href='/AIV/40/25/25'>Matt. 25:25</a>; <a href='/AIV/19/112/5'>Ps. 112:5</a>",
-      "comment": "Implied rebuke against hoarding wealth, encouraging it be put to use in service of others, echoing parables of stewardship."
+      "text": "For the sake of the commandments, help the poor, and do not turn him away in his need.",
+      "links": "<a href='/AIV/5/15/7-8'>Deut. 15:7-8</a>; <a href='/AIV/19/112/9'>Ps. 112:9</a>",
+      "comment": "This reflects God’s command to care for the poor (Deut. 15:7-8), anticipating Christ’s words in Matthew 25:35-40 about serving ‘the least of these’."
     },
     {
       "pk": 28029011,
@@ -133,9 +157,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 29,
       "verse": 11,
-      "text": "Use your wealth for your brother and your friend, that it may be returned to you someday when you need it.",
-      "links": "<a href='/AIV/42/14/13-14'>Luke 14:13-14</a>",
-      "comment": "Generosity is presented as an investment, not only earthly but with eternal reward—foreshadows Christ's teachings on repayment in the life to come."
+      "text": "Lose your silver for a brother or friend, and do not let it rust under a rock to no use.",
+      "links": "<a href='/AIV/40/6/19'>Matt. 6:19</a>",
+      "comment": "Jesus echoes this, urging us not to store up treasures on earth but invest in heavenly treasure by good works (cf. Matt. 6:19-20)."
     },
     {
       "pk": 28029012,
@@ -145,10 +169,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 29,
       "verse": 12,
-      "text": "Spend your treasure according to the commandments of the Most High, and it will yield you more profit than gold.",
-      "links": "<a href='/AIV/19/19/9-10'>Ps. 19:9-10</a>",
-      "comment": "Faithfully following divine law in the use of resources is blessed with spiritual reward, valuing God’s will over material gain.",
-      "sectionHeader": "Almsgiving and Its Reward"
+      "text": "Lay up your treasure according to the commandments of the Most High, and it will profit you more than gold.",
+      "links": "<a href='/AIV/19/112/9'>Ps. 112:9</a>; <a href='/AIV/40/6/20'>Matt. 6:20</a>",
+      "comment": "True spiritual treasure is found in obeying God. See also Matt. 6:20 and Ps. 112:9 for the reward promised for generous giving."
     },
     {
       "pk": 28029013,
@@ -158,9 +181,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 29,
       "verse": 13,
-      "text": "Store up your almsgiving in the heart of the poor, and it will intercede for you against all evil.",
-      "links": "<a href='/AIV/42/16/9'>Luke 16:9</a>; <a href='/AIV/44/10/4'>Acts 10:4</a>",
-      "comment": "Charitable works are shown to possess spiritual power—almsgiving being a means of intercession and protection."
+      "text": "Store up almsgiving in your treasury, and it will rescue you from every trouble.",
+      "links": "<a href='/AIV/19/41/1'>Ps. 41:1</a>; <a href='/AIV/42/12/33'>Luke 12:33</a>",
+      "comment": "Almsgiving, respected as a means for atonement and help in the day of need, echoes throughout the Old and New Testaments (Tob. 4:10, Luke 12:33)—suggesting a link between mercy and salvation."
     },
     {
       "pk": 28029014,
@@ -170,9 +193,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 29,
       "verse": 14,
-      "text": "Better to give alms than to hoard treasure, for almsgiving delivers from death and purges away every sin.",
-      "links": "<a href='/AIV/17/4/8'>Tobit 4:8-11</a>; <a href='/AIV/59/5/20'>James 5:20</a>",
-      "comment": "Direct statement about the spiritual efficacy of charitable works for salvation and forgiveness, resonating with New Testament teaching on works and faith."
+      "text": "It will fight for you against your enemy better than a strong shield or heavy spear.",
+      "links": "<a href='/AIV/19/18/2'>Ps. 18:2</a>",
+      "comment": "Just as God is pictured as our shield and defender, so generosity acts as our protector against adversity—reminding believers to trust in divine rather than material security."
     },
     {
       "pk": 28029015,
@@ -182,9 +205,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 29,
       "verse": 15,
-      "text": "Whoever gives alms will be satisfied with life, and whoever fails to do so will face judgment.",
-      "links": "<a href='/AIV/40/25/41-46'>Matt. 25:41-46</a>",
-      "comment": "Highlights the eschatological dimension—charity as a factor in the final judgment, in line with Christ’s parable of the sheep and goats."
+      "text": "A good man will be surety for his neighbor, but one who has lost all shame will abandon him.",
+      "links": "<a href='/AIV/20/11/15'>Prov. 11:15</a>",
+      "comment": "The concept of ‘surety’ or guaranteeing another’s debt was well-known (cf. Prov. 11:15). Moral character is founded on sacrificial love, prefiguring Christ’s redemptive sacrifice for all. See John 15:13."
     },
     {
       "pk": 28029016,
@@ -194,9 +217,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 29,
       "verse": 16,
-      "text": "Lend to your neighbor in time of need, and repay your debt in good faith.",
-      "links": "<a href='/AIV/20/3/27-28'>Prov. 3:27-28</a>",
-      "comment": "Reiterates the virtue of meeting others’ needs out of one’s abundance—a foundational principle of Christian community."
+      "text": "Do not forget the kindness of your guarantor, for he has put up his life for you.",
+      "links": "<a href='/AIV/43/15/13'>John 15:13</a>",
+      "comment": "The parallel to Christ’s laying down his life for friends (John 15:13) is vivid here, teaching gratitude and the remembrance of sacrificial love."
     },
     {
       "pk": 28029017,
@@ -206,9 +229,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 29,
       "verse": 17,
-      "text": "Keep your promises and act honestly, and on every occasion you will be respected.",
-      "links": "<a href='/AIV/20/10/9'>Prov. 10:9</a>",
-      "comment": "Honesty forms the basis for good reputation, implicitly instructing believers to be trustworthy stewards."
+      "text": "A sinner neglects the kindness of his guarantor, and the ingrate abandons his rescuer.",
+      "links": [
+        "Ps 109:4-5",
+        "Sir 29:16",
+        "Luke 17:17"
+      ],
+      "comment": "Ingratitude is listed among serious faults here—reflect how the New Testament emphasizes thankfulness (cf. Col. 3:15)—especially toward Christ, our redeemer."
     },
     {
       "pk": 28029018,
@@ -218,9 +245,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 29,
       "verse": 18,
-      "text": "Many treat a loan as found money and cause trouble for those who helped them.",
-      "links": "<a href='/AIV/19/15/4'>Ps. 15:4</a>",
-      "comment": "Warns against abusing a brother’s generosity—promotes the honest handling of what is entrusted to us."
+      "text": "Surety has ruined many who were prosperous, and has shaken them like the waves of the sea; it has driven powerful men from home, and forced them to wander among foreign nations.",
+      "links": "<a href='/AIV/20/20/16'>Prov. 20:16</a>",
+      "comment": "A stark warning about financial indiscretion. The consequences of imprudence in money matters were just as serious then as today."
     },
     {
       "pk": 28029019,
@@ -230,9 +257,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 29,
       "verse": 19,
-      "text": "Until he gets the loan, he will kiss the lender’s hand, speak humbly and offer many promises. But when repayment is due, he delays and blames circumstances.",
-      "links": "<a href='/AIV/19/55/21'>Ps. 55:21</a>",
-      "comment": "Reminds us to be wary of flattery and ensure genuine relationships grounded in transparency."
+      "text": "The sinner who is eager for profit brings trouble upon himself, and neglects his own gain for the sake of others.",
+      "links": [
+        "Prov 15:27",
+        "1 Tim 6:9-10",
+        "Eccl 5:10"
+      ],
+      "comment": "Selfish gain is condemned, and the contrast is drawn with those who act justly and prudently."
     },
     {
       "pk": 28029020,
@@ -242,9 +273,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 29,
       "verse": 20,
-      "text": "He will pay if he can, but if not, he has stolen your money and made you his enemy needlessly.",
-      "links": "<a href='/AIV/19/37/21'>Ps. 37:21</a>",
-      "comment": "This echoes the warning against defaulting on commitments—a matter of social justice and spiritual responsibility."
+      "text": "Help your neighbor according to your means, but take care that you do not fall yourself.",
+      "links": [
+        "Gal 6:2",
+        "2 Cor 8:12-13",
+        "Lev 25:35"
+      ],
+      "comment": "True charity must be free, not coerced or manipulative, teaching the need for right intention in good deeds (cf. Matt. 6:1)."
     },
     {
       "pk": 28029021,
@@ -254,9 +289,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 29,
       "verse": 21,
-      "text": "Repaying evil for good, he curses you instead of thanking you, and people will avoid him and never lend to him again.",
-      "links": "<a href='/AIV/20/17/13'>Prov. 17:13</a>",
-      "comment": "Consistent social consequences of distrust highlight the value of faithfulness and accountability in God’s family."
+      "text": "The essentials of life are water, bread, clothing, and a house to assure your privacy.",
+      "links": [
+        "1 Tim 6:8",
+        "Matt 6:31-33",
+        "Prov 30:8-9"
+      ],
+      "comment": "This repetition for emphasis highlights the deep moral and relational obligation linked to such acts; see again John 15:13."
     },
     {
       "pk": 28029022,
@@ -266,9 +305,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 29,
       "verse": 22,
-      "text": "A good person will continue to lend, but for his own safety will not go beyond what is wise.",
-      "links": "<a href='/AIV/20/22/3'>Prov. 22:3</a>",
-      "comment": "A prudent balance between generosity and discernment is recommended—practical wisdom in Christian stewardship."
+      "text": "A poor person living under his own humble roof is better off than feasting lavishly in the house of another.",
+      "links": [
+        "Prov 17:1",
+        "Ps 84:10",
+        "Luke 15:16"
+      ],
+      "comment": "Negligent behavior is not only a personal fault but endangers the wider community—the idea of mutual responsibility is at the heart of God’s law."
     },
     {
       "pk": 28029023,
@@ -278,9 +321,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 29,
       "verse": 23,
-      "text": "Do not be ashamed to help someone; even when misfortune falls, your kindness will not be forgotten.",
-      "links": "<a href='/AIV/19/112/9'>Ps. 112:9</a>",
-      "comment": "Assures that acts of kindness have lasting value—earthly and spiritual rewards come from faithful generosity."
+      "text": "Be content whether you have little or much, for then you will not be reproached as a guest.",
+      "links": [
+        "Phil 4:11-12",
+        "Heb 13:5",
+        "Prov 15:16"
+      ],
+      "comment": "Wisdom literature encourages careful discernment in lending and relationships—teaching balance between trust and prudence."
     },
     {
       "pk": 28029024,
@@ -290,9 +337,10 @@
       "bookAbbreviation": "Sir",
       "chapter": 29,
       "verse": 24,
-      "text": "Store up your good works for times of trouble, and they will save you from every distress.",
-      "links": "<a href='/AIV/17/12/8-9'>Tobit 12:8-9</a>",
-      "comment": "The concept of ‘treasure in heaven’ shines through, foreshadowing Jesus’ teaching on the prudence of spiritual investments."
+      "text": "It is a wretched life to go from house to house; as a guest, you ought not open your mouth.",
+      "links": "<a href='/AIV/58/13/2'>Heb. 13:2</a>",
+      "comment": "Hospitality is a recurring biblical theme (cf. Heb. 13:2). The spiritual life involves not only faith, but also right relationships and gratitude to those who receive us.",
+      "sectionHeader": "The Blessing of Hospitality"
     },
     {
       "pk": 28029025,
@@ -302,10 +350,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 29,
       "verse": 25,
-      "text": "Better to live with little in peace than to depend on others and wander as a beggar.",
-      "links": "<a href='/AIV/19/37/16'>Ps. 37:16</a>",
-      "comment": "Spiritual contentment prioritizes peace over abundance. A subtle reference to humility and reliance on God’s provision.",
-      "sectionHeader": "The Wisdom of Living Within Your Means"
+      "text": "You will act as host and provide drink but will not be thanked, and you will hear harsh words such as these:",
+      "links": [
+        "Luke 14:12-14",
+        "Prov 19:17",
+        "Sir 20:16"
+      ],
+      "comment": "Christian humility and hospitality are intertwined here—echoed in the life and teaching of Jesus (cf. Luke 14:10, John 13:14)."
     },
     {
       "pk": 28029026,
@@ -315,9 +366,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 29,
       "verse": 26,
-      "text": "Live quietly and enjoy the necessities; do not let another’s table make your soul anxious.",
-      "links": "<a href='/AIV/19/119/165'>Ps. 119:165</a>",
-      "comment": "Peace and interior freedom in one’s own life is extolled—echoes ascetic wisdom found throughout Scripture."
+      "text": "\"Come here, stranger, set the table; let me eat what you have brought.\"",
+      "links": "<a href='/AIV/1/18/3-8'>Gen. 18:3-8</a>",
+      "comment": "Abraham’s hospitality to strangers (Genesis 18) is a model. Generosity toward guests has spiritual rewards (cf. Matt. 10:42)."
     },
     {
       "pk": 28029027,
@@ -327,9 +378,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 29,
       "verse": 27,
-      "text": "If you must depend on another for food, you will have bitter anxiety and lose your self-respect.",
-      "links": "<a href='/AIV/20/18/23'>Prov. 18:23</a>",
-      "comment": "Independence is valued, yet the call throughout is not for selfishness but balanced self-reliance and sacrificial love."
+      "text": "\"Go away, stranger, for a more distinguished guest has arrived; my brother has come, and I need the guest room.\"",
+      "links": [
+        "Prov 25:6-7",
+        "Luke 14:8-10",
+        "Job 19:14-15"
+      ],
+      "comment": "This covers the consequences of ingratitude and disrespect. The biblical virtue of thanksgiving is deeply tied to the spiritual life."
     },
     {
       "pk": 28029028,
@@ -339,27 +394,14 @@
       "bookAbbreviation": "Sir",
       "chapter": 29,
       "verse": 28,
-      "text": "You will hear harsh words and be shamed, and your hope will be uncertain.",
-      "links": "<a href='/AIV/20/22/7'>Prov. 22:7</a>",
-      "comment": "Concludes with a warning about the insecurity of debt—true hope and dignity come from trust in God and practical wisdom."
+      "text": "It is hard for a discerning person to endure insults about lodging and the reproaches of a lender.",
+      "links": [
+        "Jas 2:3",
+        "Sir 29:23",
+        "Prov 14:21"
+      ],
+      "comment": "Foolishness and ungratefulness corrupt the blessing of hospitality, highlighting a larger spiritual lesson: to approach both spiritual and temporal gifts with gratitude and reverence."
     }
   ],
-  "translatedAt": "2025-12-24T07:38:29.901Z",
-  "sections": [
-    {
-      "title": "The Virtue of Lending and Repaying Debts",
-      "startVerse": 1,
-      "endVerse": 11
-    },
-    {
-      "title": "Almsgiving and Its Reward",
-      "startVerse": 12,
-      "endVerse": 24
-    },
-    {
-      "title": "The Wisdom of Living Within Your Means",
-      "startVerse": 25,
-      "endVerse": 28
-    }
-  ]
+  "translatedAt": "2025-12-29T00:36:32.001Z"
 }

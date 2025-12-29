@@ -38,7 +38,11 @@
       "chapter": 7,
       "verse": 3,
       "text": "The king, enraged, commanded that pans and caldrons be heated.",
-      "links": "",
+      "links": [
+        "Dan 3:19",
+        "Wis 2:19",
+        "Heb 11:35"
+      ],
       "comment": "The intensifying torture shows the severity of the persecution endured for the faith, as well as the resolve of those who choose fidelity to God over their own lives."
     },
     {
@@ -50,7 +54,11 @@
       "chapter": 7,
       "verse": 4,
       "text": "As soon as they were heated, he commanded to cut out the tongue of the one who spoke for all, to scalp him, and to cut off his hands and feet, while the rest of his brothers and his mother watched.",
-      "links": "",
+      "links": [
+        "Ps 44:22",
+        "Dan 6:16",
+        "Heb 11:37"
+      ],
       "comment": "The graphic torture amplifies the gravity of their sacrifice. The willingness to suffer such torment for the faith is a testimony that inspired later generations, and echoes Christ's own passion."
     },
     {
@@ -85,9 +93,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 7,
       "verse": 7,
-      "text": "After the first brother died in this way, they brought the second to be mocked. When they tore the skin from his head with the hair, he declared, 'Before you begin to torture me, let me say this:'",
-      "links": "",
-      "comment": "Each brother’s witness becomes increasingly bold, displaying a conviction that suffering for God is of eternal value. This courageous speech echoes the boldness found in early Christian witness (Acts 4:13)."
+      "text": "After the first brother had died in this way, they brought forward the second for their sport. They tore off the skin of his head with the hair, and asked him, \"Will you eat rather than have your body punished limb by limb?\"",
+      "links": [
+        "Heb 11:35",
+        "Dan 1:8",
+        "Matt 10:28"
+      ],
+      "comment": "This verse details the brutal martyrdom faced by the Maccabean brothers for refusing to eat pork, a violation of Jewish Law (cf. Leviticus 11), illustrating steadfast faith under persecution by Antiochus IV’s regime."
     },
     {
       "pk": 21007008,
@@ -97,9 +109,12 @@
       "bookAbbreviation": "2Macc",
       "chapter": 7,
       "verse": 8,
-      "text": "'You may free us from this present life, but the King of the universe will raise us up to everlasting life, because we have died for His laws.'",
-      "links": "<a href='/AIV/27/12/2'>Dan. 12:2</a>; <a href='/AIV/43/11/25'>John 11:25</a>",
-      "comment": "Here, a clear belief in the resurrection is expressed—God’s faithful will be raised to life everlasting. This development of resurrection hope anticipates later Christian doctrine of bodily resurrection (see 1 Cor. 15:42-44)."
+      "text": "He replied in the language of his ancestors and said to them, \"No.\" Therefore he in turn underwent tortures as the first brother had done.",
+      "links": [
+        "Dan 3:16-18",
+        "Acts 5:29"
+      ],
+      "comment": "The second brother’s refusal in his ancestral language signifies loyalty to Jewish identity and law, highlighting the theme of fidelity to God over life itself (cf. Daniel 3)."
     },
     {
       "pk": 21007009,
@@ -110,7 +125,11 @@
       "chapter": 7,
       "verse": 9,
       "text": "After him, the third was subjected to their torture. When it was demanded, he stuck out his tongue immediately, and courageously held out his hands,",
-      "links": "",
+      "links": [
+        "Ex 4:12",
+        "Rom 12:1",
+        "Heb 11:34"
+      ],
       "comment": "The voluntary surrender of tongue and hands highlights their offering of themselves completely to God, reminiscent of Paul’s call to offer one’s body as a living sacrifice (Rom. 12:1)."
     },
     {
@@ -146,7 +165,10 @@
       "chapter": 7,
       "verse": 12,
       "text": "When the third had died, they tortured the fourth with the same cruelty.",
-      "links": "",
+      "links": [
+        "Rom 8:36",
+        "Heb 11:36"
+      ],
       "comment": "The relentless suffering of the brothers provides a model of perseverance in faith, enduring trials for a higher hope—making them forerunners of the martyrs in the early Church."
     },
     {
@@ -170,7 +192,11 @@
       "chapter": 7,
       "verse": 14,
       "text": "Next they brought the fifth brother and brutally tortured him. But looking at the king, he said,",
-      "links": "",
+      "links": [
+        "Ps 27:1",
+        "Matt 10:28",
+        "Heb 10:32-34"
+      ],
       "comment": "The example of boldness in the face of suffering continues. Their confidence rooted in God, not human rulers, exemplifies the biblical call to fear God above men."
     },
     {
@@ -304,7 +330,10 @@
       "chapter": 7,
       "verse": 25,
       "text": "But, as the young man paid no attention at all, the king called the mother and urged her to advise the boy to save himself.",
-      "links": "",
+      "links": [
+        "Dan 1:10-13",
+        "Matt 10:37"
+      ],
       "comment": "The king appeals to maternal affection, attempting to break the resolve of faith through emotional pressure—a common tactic in persecution."
     },
     {
@@ -316,7 +345,11 @@
       "chapter": 7,
       "verse": 26,
       "text": "After much persuasion from the king, she agreed to counsel her son, but leaning in close, she mocked the cruel tyrant in the language of her ancestors:",
-      "links": "",
+      "links": [
+        "Ex 1:17",
+        "Act 7:20",
+        "2 Tim 1:5"
+      ],
       "comment": "The use of their ancestral language is a sign of inner unity and faithfulness to heritage, nurturing faith even under pressure."
     },
     {
@@ -328,7 +361,11 @@
       "chapter": 7,
       "verse": 27,
       "text": "'My son, have pity on me. I carried you nine months in my womb, nursed you for three years, raised you and cared for you until now.'",
-      "links": "",
+      "links": [
+        "Isa 49:15",
+        "1 Thess 2:7",
+        "2 Macc 7:20"
+      ],
       "comment": "The mother appeals tenderly, paralleling parental sacrifice. Her words echo motifs of deep, nurturing love."
     },
     {
@@ -401,7 +438,7 @@
       "verse": 33,
       "text": "'But our living Lord is angry for a little while to discipline us and correct us; again He will be reconciled with His own servants.'",
       "links": "<a href='/AIV/19/103/9'>Ps. 103:9</a>; <a href='/AIV/58/12/6'>Heb. 12:6</a>",
-      "comment": "The interplay of discipline, correction, and reconciliation hints at the mercy of God, a theology fulfilled in Christ as the reconciler and intercessor."
+      "comment": "The suffering is interpreted as divine discipline rather than abandonment, echoing the covenantal belief that God chastens to restore (cf. Deuteronomy 8:5; Hebrews 12:6)."
     },
     {
       "pk": 21007034,
@@ -423,9 +460,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 7,
       "verse": 35,
-      "text": "Having endured extreme torture, the last of the brothers died, completely trusting in the Lord.",
-      "links": "",
-      "comment": "The final brother’s death completes the witness of unwavering faith, trusting God even unto death—a theme realized in the Apostle’s martyrdom."
+      "text": "You have not yet escaped the judgment of the almighty, all-seeing God.",
+      "links": [
+        "Gen 18:25",
+        "Ps 94:7-10",
+        "Heb 10:30"
+      ],
+      "comment": "The brother warns Antiochus that no human power escapes God's ultimate judgment, emphasizing God’s omniscience and universal justice (cf. Psalm 94:7–9)."
     },
     {
       "pk": 21007036,
@@ -435,9 +476,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 7,
       "verse": 36,
-      "text": "Last of all, the mother died after her sons.",
-      "links": "",
-      "comment": "Her death seals her faith and love, reminiscent of women martyrs in Christian tradition."
+      "text": "For our brothers, after enduring a brief suffering, have drunk of ever-flowing life under God's covenant; but you, by the judgment of God, will receive just punishment for your arrogance.",
+      "links": [
+        "Rom 8:18",
+        "Wis 3:1-5",
+        "2 Thess 1:6-7"
+      ],
+      "comment": "A contrast is drawn between the brothers’ temporary suffering and eternal reward under God’s covenant, versus the tyrant’s impending divine punishment, affirming belief in resurrection and retribution (cf. Daniel 12:2)."
     },
     {
       "pk": 21007037,
@@ -447,9 +492,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 7,
       "verse": 37,
-      "text": "Let this be enough, then, about the eating of sacrifices and extraordinary tortures.",
-      "links": "",
-      "comment": "The narrator concludes the account, inviting reflection on the power of faithfulness over the pressure of compromise.",
+      "text": "I, like my brothers, give up body and life for the laws of our ancestors, calling upon God to have mercy soon on our nation, and that, through me and my brothers, the wrath of the Almighty which has justly fallen on our whole nation may cease.",
+      "links": [
+        "Ex 32:32",
+        "Dan 9:16",
+        "Heb 11:25"
+      ],
+      "comment": "The martyr offers his sacrifice in hope that their suffering may atone for the nation’s sins, reflecting intercessory suffering and the hope for divine mercy (cf. Isaiah 53:12).",
       "sectionHeader": "Conclusion and Exhortation to Faith"
     },
     {
@@ -460,9 +509,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 7,
       "verse": 38,
-      "text": "But I urge those who read this book not to be discouraged by such sufferings, but to recognize that God disciplines those whom He loves, as Moses declared in his song.",
-      "links": "<a href='/AIV/05/08/5'>Deut. 8:5</a>; <a href='/AIV/58/12/6'>Heb. 12:6</a>",
-      "comment": "Discipline as love comes from God (see Heb. 12:6). Moses' teaching is echoed—a sign that God’s correction aims to restore, not destroy."
+      "text": "and through me and my brothers to bring to an end the wrath of the Almighty that has justly fallen on our whole nation.\"",
+      "links": [
+        "Lev 26:41-42",
+        "Bar 2:27",
+        "Dan 9:16-19"
+      ],
+      "comment": "This elaborates the theme that the martyrs’ deaths may bring an end to God’s just wrath against Israel, an early example of the theology of redemptive suffering for the community."
     },
     {
       "pk": 21007039,
@@ -472,9 +525,12 @@
       "bookAbbreviation": "2Macc",
       "chapter": 7,
       "verse": 39,
-      "text": "Let these events be a reminder of the power of faith, that after times of affliction there will come joy and divine deliverance.",
-      "links": "<a href='/AIV/19/30/5'>Ps. 30:5</a>; <a href='/AIV/60/05/10'>1 Pet. 5:10</a>",
-      "comment": "The promise of joy after suffering is consistent with both Old and New Testament teaching. Affliction leads to glory through perseverance in faith."
+      "text": "Then the king in rage handled him worse than all the rest, being exasperated at his scorn.",
+      "links": [
+        "Esth 3:5",
+        "Acts 7:54"
+      ],
+      "comment": "The king’s escalating rage shows the powerlessness of tyranny against faithful defiance, revealing how fidelity to God incites the wrath of the unrighteous."
     },
     {
       "pk": 21007040,
@@ -484,9 +540,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 7,
       "verse": 40,
-      "text": "Let us be brave, like these brothers and their mother, willing to suffer for righteousness to inherit life everlasting.",
-      "links": "<a href='/AIV/40/05/10-12'>Matt. 5:10-12</a>",
-      "comment": "This call to emulate these martyrs is mirrored in Jesus’ beatitudes: blessed are those persecuted for righteousness’ sake, for theirs is the kingdom of heaven."
+      "text": "So he died undefiled, putting all his trust in the Lord.",
+      "links": [
+        "Ps 22:9-10",
+        "Sir 4:16",
+        "2 Tim 4:7"
+      ],
+      "comment": "The seventh brother’s death, ‘undefiled,’ encapsulates the virtue of martyrdom—trusting completely in God and preserving faith and purity (cf. Revelation 14:4-5)."
     },
     {
       "pk": 21007041,
@@ -496,9 +556,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 7,
       "verse": 41,
-      "text": "Such examples were recorded to strengthen faith, so that in the midst of trials we may remember the great reward God prepares for those who love Him.",
-      "links": "<a href='/AIV/59/1/12'>Jas. 1:12</a>; <a href='/AIV/46/2/9'>1 Cor. 2:9</a>",
-      "comment": "Instruction by example is a hallmark of biblical teaching. These martyrs’ stories serve as encouragement to persevere in faith."
+      "text": "Last of all, the mother died, after her sons.",
+      "links": [
+        "2 Macc 7:20",
+        "Wis 3:10",
+        "Ps 116:15"
+      ],
+      "comment": "The mother’s death after her sons’ underscores her extraordinary faith and the costliness of devotion, serving as an enduring model of maternal and spiritual courage."
     },
     {
       "pk": 21007042,
@@ -508,12 +572,16 @@
       "bookAbbreviation": "2Macc",
       "chapter": 7,
       "verse": 42,
-      "text": "So ends the account of the extraordinary courage and steadfast faith of the mother and her seven sons.",
-      "links": "",
-      "comment": "The final verse closes this powerful account of martyrdom for obedience to God’s law—a profound precursor to Christian teachings on redemptive suffering, resurrection, and perseverance."
+      "text": "Let this be enough, then, about the eating of sacrifices and the extreme tortures.",
+      "links": [
+        "Dan 6:10",
+        "Acts 5:29",
+        "Heb 11:35-38"
+      ],
+      "comment": "The narrator’s conclusion signals an end to the detailed accounts of torture, shifting focus from suffering to its theological significance—faithfulness amidst extremity."
     }
   ],
-  "translatedAt": "2025-12-24T05:33:40.183Z",
+  "translatedAt": "2025-12-28T06:55:42.529Z",
   "sections": [
     {
       "title": "The Martyrdom of the Seven Brothers",

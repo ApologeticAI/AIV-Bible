@@ -329,12 +329,16 @@
       "bookAbbreviation": "1Sam",
       "chapter": 10,
       "verse": 27,
-      "text": "But some worthless men said, 'How can this man save us?' They despised him and gave him no gift. But Saul kept silent.",
-      "links": "<a href='/AIV/9/17/28-30'>1Sam 17:28-30</a>; <a href='/AIV/40/13/57'>Matt 13:57</a>",
-      "comment": "The rejection Saul experiences foreshadows the rejection faced by God’s chosen leaders, including Christ, who was similarly despised. Saul’s silence here is an example of the patience and forbearance often needed in vocation, urging us to trust God’s timing for vindication."
+      "text": "But some worthless men said, 'How can this man save us?' They despised him and brought him no gift. But Saul held his peace. Now Nahash the king of the Ammonites had grievously oppressed the Gadites and the Reubenites; he would gouge out all their right eyes and would not grant Israel a deliverer. No one was left of the Israelites across the Jordan whose right eye Nahash the king of the Ammonites had not gouged out; but there were seven thousand men who had escaped from the Ammonites and had entered Jabesh-gilead.",
+      "links": [
+        "Judg 11:4-6",
+        "1 Sam 11:1-3",
+        "Luke 19:14"
+      ],
+      "comment": "The contempt of 'worthless men' reflects skepticism toward Saul’s kingship, paralleling Israel’s recurring doubts about God’s chosen leaders (cf. Moses in Exodus 2:14; David in 2 Samuel 16:7); Saul’s silence demonstrates restraint, setting the stage for his later leadership against Nahash, whose brutal oppression (gouging out right eyes) highlights Israel’s dire need for deliverance and foreshadows Saul’s unifying role in chapter 11."
     }
   ],
-  "translatedAt": "2025-12-24T02:53:49.452Z",
+  "translatedAt": "2025-12-25T13:46:23.856Z",
   "sections": [
     {
       "title": "Saul Anointed King",

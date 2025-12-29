@@ -85,7 +85,7 @@
       "bookAbbreviation": "Tob",
       "chapter": 7,
       "verse": 7,
-      "text": "Edna, his wife, and Sarah, his daughter, wept with him. They welcomed them warmly.",
+      "text": "He also spoke to him as follows, “Blessings on you, my child, son of a good and noble father! O most miserable of calamities that such an upright and beneficent man has become blind!” He then embraced his kinsman Tobias and wept.",
       "links": "<a href='/AIV/17/11/19'>Tob. 11:19</a>",
       "comment": "Notice the shared sorrow and joyful welcome by the women of the house. This mirrors New Testament depictions of love and compassion in the community of believers (see John 11:35)."
     },
@@ -97,9 +97,13 @@
       "bookAbbreviation": "Tob",
       "chapter": 7,
       "verse": 8,
-      "text": "Then they slaughtered a ram from the flock and set the table for them. Tobias said to Raphael, 'Brother Azariah, speak about what you told me on the journey regarding the matter.'",
-      "links": "<a href='/AIV/17/6/12'>Tob. 6:12</a>; <a href='/AIV/01/18/7'>Gen. 18:7</a>",
-      "comment": "Sharing a meal after a sacrificial offering reflects the Old Testament model of covenant fellowship (see Exodus 24:11). Food and sacrifice prefigure the deeper sacramental meals that mark faith communities.",
+      "text": "His wife Edna also wept for him, and their daughter Sarah likewise wept.",
+      "links": [
+        "Gen 37:34-35",
+        "John 11:33-35",
+        "Rom 12:15"
+      ],
+      "comment": "The shared weeping of Edna and Sarah emphasizes both the depth of familial grief and the anxiety surrounding Sarah’s repeated tragedies (see Tobit 3:7-9), highlighting the emotional context that frames the marriage proposal.",
       "sectionHeader": "Tobias Seeks Sarah’s Hand in Marriage"
     },
     {
@@ -110,7 +114,7 @@
       "bookAbbreviation": "Tob",
       "chapter": 7,
       "verse": 9,
-      "text": "Raguel said, 'Speak, my child.' So Tobias said, 'Raguel, I wish to marry your daughter Sarah. I will not marry anyone else except her. I am your relative.'",
+      "text": "Then Raguel slaughtered a ram from the flock and received them very warmly. When they had bathed and washed themselves and had reclined to dine, Tobias said to Raphael, “Brother Azariah, ask Raguel to give me my kinswoman Sarah.”",
       "links": "<a href='/AIV/06/27/4'>Josh. 27:4</a>; <a href='/AIV/04/36/6'>Num. 36:6</a>",
       "comment": "Marriage within the broader family ensured the preservation of inheritance and faith. The faithfulness of Tobias in seeking this arrangement underlines both obedience and the sanctity of marriage as a divine ordinance."
     },
@@ -122,7 +126,7 @@
       "bookAbbreviation": "Tob",
       "chapter": 7,
       "verse": 10,
-      "text": "But Raguel replied, 'My child, I must tell you the truth. I have given her to seven men from among our relatives, and all of them died the night they approached her. But for now, rejoice.'",
+      "text": "But Raguel overheard it and said to the lad, “Eat and drink, and be merry tonight. For no one except you, brother, has the right to marry my daughter Sarah. Likewise I am not at liberty to give her to any other man than yourself, because you are my nearest relative. But let me explain to you the true situation more fully, my child.",
       "links": "<a href='/AIV/17/3/8'>Tob. 3:8</a>",
       "comment": "Raguel’s honesty and sorrow point to the mysterious suffering of Sarah. The motif of seven unsuccessful suitors recalls God’s sovereignty even amid repeated tragedy."
     },
@@ -134,7 +138,7 @@
       "bookAbbreviation": "Tob",
       "chapter": 7,
       "verse": 11,
-      "text": "But Tobias said, 'I will marry her despite this. I am not afraid, for she is appointed to me since the beginning. You yourself will see that your daughter will be safe and unharmed.'",
+      "text": "I have given her to seven men of our kinsmen, and all died on the night when they went in to her. But now, my child, eat and drink, and the Lord will act on behalf of you both.” But Tobias said, “I will neither eat nor drink anything until you settle the things that pertain to me.” So Raguel said, “I will do so. She is given to you in accordance with the decree in the book of Moses, and it has been decreed from heaven that she be given to you. Take your kinswoman; from now on you are her brother and she is your sister. She is given to you from today and forever. May the Lord of heaven, my child, guide and prosper you both this night and grant you mercy and peace.”",
       "links": "<a href='/AIV/17/6/17'>Tob. 6:17</a>; <a href='/AIV/23/46/10'>Isa. 46:10</a>",
       "comment": "Tobias’ confidence in divine providence and destiny shows trust in God’s sovereign plan (cf. Ephesians 1:11). The idea of marriage being divinely appointed from the beginning resonates with the Christian view of God’s hand in matrimony."
     },
@@ -146,7 +150,7 @@
       "bookAbbreviation": "Tob",
       "chapter": 7,
       "verse": 12,
-      "text": "Then Raguel said, 'She is yours according to the decree written in the Book of Moses. Heaven itself decrees she will be yours. Accept her, take her, and bring her safely to your father's house. May the God of heaven grant you prosperity.'",
+      "text": "Then Raguel summoned his daughter Sarah. When she came to him, he took her by the hand and gave her to Tobias, saying, 'Take her to be your wife in accordance with the law and decree written in the book of Moses. Take her and bring her safely to your father. And may the God of heaven prosper your journey with his peace.'",
       "links": "<a href='/AIV/05/24/1'>Deut. 24:1</a>; <a href='/AIV/01/2/24'>Gen. 2:24</a>",
       "comment": "Raguel’s reference to the Book of Moses and 'Heaven decrees' highlights marriage as a sacred covenant in accordance with divine law. This line also subtly affirms the authority of written Scripture and tradition in matters of faith."
     },
@@ -158,9 +162,13 @@
       "bookAbbreviation": "Tob",
       "chapter": 7,
       "verse": 13,
-      "text": "He called his daughter Sarah over to him. She came to him, and he took her hand and gave her to Tobias. He said, 'Take her according to the law and judgment written in the Book of Moses, and take her with you to your father’s house.' Then he blessed them.",
-      "links": "<a href='/AIV/01/24/67'>Gen. 24:67</a>; <a href='/AIV/01/2/24'>Gen. 2:24</a>",
-      "comment": "Marriage is enacted with a blessing and the public holding of hands, signifying solemn covenant. The law and blessing structure points to the ceremonial aspects found later in Christian matrimonial practice.",
+      "text": "Then he called her mother and told her to bring writing material; and he wrote out a copy of a marriage contract, to the effect that he gave her to him as wife according to the decree of the law of Moses.",
+      "links": [
+        "Gen 24:61-67",
+        "Tob 6:13",
+        "Mal 2:14"
+      ],
+      "comment": "The writing of a marriage contract reflects Jewish legal practices of the time (cf. Exodus 24:7; Malachi 2:14), demonstrating care to ensure the union follows the Law of Moses—underscoring the theme of faithfulness to God’s covenant.",
       "sectionHeader": "The Marriage of Tobias and Sarah"
     },
     {
@@ -171,9 +179,12 @@
       "bookAbbreviation": "Tob",
       "chapter": 7,
       "verse": 14,
-      "text": "Edna said to Tobias, 'My brother, may the Lord of heaven bring you back in joy and grant me to see your children from Sarah, my daughter, so that before I die, I may rejoice in your company.' Then they all wept together.",
-      "links": "<a href='/AIV/19/128/6'>Psalm 128:6</a>; <a href='/AIV/42/2/36'>Luke 2:36</a>",
-      "comment": "Edna’s prayer joins the hope of generations and family blessing, which is a strong theme in biblical promises (see Psalm 128). The emotional response reveals the seriousness of family unity."
+      "text": "Then they began to eat and drink.",
+      "links": [
+        "Gen 24:54",
+        "John 2:1-2"
+      ],
+      "comment": "The act of eating and drinking together signifies the joyful celebration and social ratification of the marriage alliance, a standard practice in ancient Jewish weddings (cf. Genesis 29:22)."
     },
     {
       "pk": 17007015,
@@ -183,9 +194,12 @@
       "bookAbbreviation": "Tob",
       "chapter": 7,
       "verse": 15,
-      "text": "Afterward, Raguel slaughtered a ram and welcomed them as guests. They feasted.",
-      "links": "<a href='/AIV/01/18/7'>Gen. 18:7</a>; <a href='/AIV/42/15/23'>Luke 15:23</a>",
-      "comment": "Sacrificial feasting at moments of covenant echoes both Abraham’s hospitality and the parable of the prodigal son. Meals are not just physical but spiritual acts of communion."
+      "text": "Raguel called his wife Edna and said to her, \"Sister, get the other room ready, and take her there.\"",
+      "links": [
+        "Gen 24:67",
+        "Judg 14:10-11"
+      ],
+      "comment": "Raguel’s instruction to Edna to prepare a separate room displays the custom of bridal chambers in Jewish weddings (cf. Judges 15:1), emphasizing the solemnity and propriety of the marital union."
     },
     {
       "pk": 17007016,
@@ -195,9 +209,13 @@
       "bookAbbreviation": "Tob",
       "chapter": 7,
       "verse": 16,
-      "text": "Raguel called his wife Edna and said, 'Sister, prepare the other room and take her there.'",
-      "links": "<a href='/AIV/17/8/1'>Tob. 8:1</a>",
-      "comment": "The preparation for the couple’s first night together is described with both tenderness and piety, reflecting the seriousness and sacramental significance of marriage.",
+      "text": "So she went and made the bed in the room as he had told her, and brought Sarah there. She wept for her daughter. Then, wiping away the tears, she said to her, “Take courage, my daughter; the Lord of heaven grant you joy in place of your sorrow. Take courage, my daughter.” Then she went out.",
+      "links": [
+        "Ps 30:5",
+        "John 16:20",
+        "Sir 30:23"
+      ],
+      "comment": "Edna’s maternal compassion and blessing—encouraging Sarah to trust in God—mirrors themes of suffering, hope, and divine intervention seen throughout Tobit (cf. Tobit 3:16-17), highlighting faith in God’s ability to transform sorrow into joy.",
       "sectionHeader": "Sarah Prepared for Her Wedding Night"
     },
     {
@@ -213,7 +231,7 @@
       "comment": "Edna’s motherly comfort points to themes of hope and restoration emphasized throughout the Bible, culminating in the promise that God turns mourning into joy (see Isaiah 61:3, John 16:20)."
     }
   ],
-  "translatedAt": "2025-12-24T04:57:06.586Z",
+  "translatedAt": "2025-12-29T00:37:37.989Z",
   "sections": [
     {
       "title": "Arrival at Raguel’s House",

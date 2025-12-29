@@ -49,9 +49,13 @@
       "bookAbbreviation": "Wis",
       "chapter": 17,
       "verse": 4,
-      "text": "For the darkness that surrounded them was not ordinary, but a heavy night that came from under the earth, covering them as they tried to escape truth.",
-      "links": "<a href='/AIV/02/10/21'>Ex. 10:21</a>; <a href='/AIV/19/139/12'>Ps. 139:12</a>",
-      "comment": "The darkness is described as supernatural and judging, beyond human control. This echoes Old Testament plagues and the persistent motif that God’s light exposes and rescues from darkness."
+      "text": "For not even their inner chambers could shield them from fear; terrifying noises echoed around them and dismal phantoms with gloomy faces appeared.",
+      "links": [
+        "Ex 12:30",
+        "Job 4:14-16",
+        "Rev 6:15-17"
+      ],
+      "comment": "This verse poetically captures the psychological torment of the Egyptians during the plague of darkness (Exodus 10:21-23), showing that no physical barrier could protect them from divine judgment; the motifs of fear, haunting sounds, and apparitions reflect the irresistible power of God's intervention and the inescapability of guilt before Him."
     },
     {
       "pk": 27017005,
@@ -73,7 +77,7 @@
       "bookAbbreviation": "Wis",
       "chapter": 17,
       "verse": 6,
-      "text": "They were terrified by mere sounds, and by the silence they were haunted and imagined evils greater than reality.",
+      "text": "Nothing was shining through to them except a dreadful, self-kindled fire, and in terror they deemed the things that they saw to be worse than that unseen appearance.",
       "links": "<a href='/AIV/02/10/22-23'>Ex. 10:22-23</a>; <a href='/AIV/19/73/19'>Ps. 73:19</a>",
       "comment": "Fear produced by conscience and abandonment by God is often greater than external threats. This illustrates the effect of separation from grace."
     },
@@ -123,7 +127,7 @@
       "verse": 10,
       "text": "The hissing of snakes or beasts roaring echoed in their ears, and they fell into panic, fearing death above all else.",
       "links": "<a href='/AIV/19/91/5-6'>Ps. 91:5-6</a>",
-      "comment": "Echoes Psalm 91, where trust in God dispels fear. Here, lack of faith leads only to terror, highlighting the peace that comes from a righteous relationship with God."
+      "comment": "Echoing the chaos of Psalm 91:5-6 and Exodus plagues, this verse shows that the Egyptians' dread was intensified by imagined threats, symbolizing how estrangement from God leads to crippling fear and spiritual panic."
     },
     {
       "pk": 27017011,
@@ -206,7 +210,7 @@
       "bookAbbreviation": "Wis",
       "chapter": 17,
       "verse": 17,
-      "text": "Even if they fell asleep, troubled dreams terrified them, and they were cast into confusion, fearing things far greater than the reality.",
+      "text": "For whether they were farmers or shepherds or workers who toiled in the wilderness, they were seized, and endured the inescapable fate; for with one chain of darkness they all were bound.",
       "links": "<a href='/AIV/27/4/5'>Dan. 4:5</a>; <a href='/AIV/18/7/14'>Job 7:14</a>",
       "comment": "Dreams and nightmares under judgment recall Daniel and Job, where God uses interior distress to awaken repentance."
     },
@@ -218,7 +222,7 @@
       "bookAbbreviation": "Wis",
       "chapter": 17,
       "verse": 18,
-      "text": "Thus, they could not escape fear, for overshadowed by helplessness, and with breath approaching death, they believed themselves lost.",
+      "text": "Whether there came a whistling wind, or a melodious sound of birds in wide-spreading branches, or the rhythm of violently rushing water,",
       "links": "<a href='/AIV/23/57/20'>Isa. 57:20</a>",
       "comment": "Describes the despair that results from separation from God's grace. This calls to mind the peace given to the righteous (cf. Isaiah 57:21), available through faith and sacramental life."
     },
@@ -242,7 +246,7 @@
       "bookAbbreviation": "Wis",
       "chapter": 17,
       "verse": 20,
-      "text": "For fear is nothing but surrender of the help that comes from reason, and when hope within is taken away, the mind is overcome by the expectation of suffering.",
+      "text": "For the whole world was illumined with brilliant light, and went about its work unhindered,",
       "links": "<a href='/AIV/19/42/11'>Ps. 42:11</a>",
       "comment": "Repeats from verse 12, emphasizing the spiritual consequences of hopelessness. This points toward the value of faith and the peace brought through sacramental grace and prayer."
     },
@@ -254,13 +258,17 @@
       "bookAbbreviation": "Wis",
       "chapter": 17,
       "verse": 21,
-      "text": "Thus, while heaven’s power remained calm, and the stars moved steadily through their paths, the darkness held them captive, showing that faithfulness to the higher order brings peace while rebellion invites chaos.",
-      "links": "<a href='/AIV/01/01/14-18'>Gen. 1:14-18</a>; <a href='/AIV/19/19/1-6'>Ps. 19:1-6</a>",
-      "comment": "Contrasts the order of creation with the confusion wrought by sin. The constancy of the heavens is a symbol of the peace given to those who live within God’s covenant—a subtle reminder of the preservation offered through apostolic continuity and obedience to divine authority.",
+      "text": "Yet over those alone a heavy night was spread, an image of the darkness that was destined to receive them; but they were even more a burden to themselves than the darkness itself.",
+      "links": [
+        "Ex 10:22-23",
+        "Isa 8:22",
+        "Matt 8:12"
+      ],
+      "comment": "The 'heavy night' signifies both literal and spiritual darkness, suggesting divine retribution and alienation from God, while the phrase 'a burden to themselves' underscores the destructive consequences of persistent sin, paralleling Wisdom 17:11 and Isaiah 59:9.",
       "sectionHeader": "The Inescapable Judgment of God"
     }
   ],
-  "translatedAt": "2025-12-24T07:22:06.804Z",
+  "translatedAt": "2025-12-29T00:37:59.506Z",
   "sections": [
     {
       "title": "The Punishment of the Egyptians with Darkness",

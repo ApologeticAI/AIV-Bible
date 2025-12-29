@@ -3,6 +3,33 @@
   "bookName": "2 Maccabees",
   "bookAbbreviation": "2Macc",
   "chapter": 12,
+  "sections": [
+    {
+      "title": "The Return to the Land and Renewed Conflict",
+      "startVerse": 1,
+      "endVerse": 14
+    },
+    {
+      "title": "Judas's Victories in Gilead",
+      "startVerse": 15,
+      "endVerse": 31
+    },
+    {
+      "title": "Prayers for the Dead and the Resurrection",
+      "startVerse": 32,
+      "endVerse": 37
+    },
+    {
+      "title": "Faith in the Resurrection and Sacrificial Atonement",
+      "startVerse": 38,
+      "endVerse": 40
+    },
+    {
+      "title": "Prayer for Forgiveness and Hope for Resurrection",
+      "startVerse": 41,
+      "endVerse": 45
+    }
+  ],
   "verses": [
     {
       "pk": 21012001,
@@ -12,10 +39,10 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 1,
-      "text": "When these agreements had been made, Lysias went back to the king, and the Jews returned to their farming life.",
-      "links": "<a href='/AIV/21/11/34'>2Macc 11:34</a>",
-      "comment": "The peace secured by Judas led to a restoration of ordinary life for the Jewish people. Farming and daily labor are presented as good and godly occupations, reflecting God's original intent for humankind (cf. <a href='/AIV/1/2/15'>Gen 2:15</a>).",
-      "sectionHeader": "Judas Avenges the Massacre at Joppa"
+      "text": "After these agreements were made, Lysias went back to the king, and the Jews resumed farming their lands.",
+      "links": "<a href='/AIV/14/8/21'>2 Chronicles 8:21</a>",
+      "comment": "This verse signals a return to normal life after conflict, echoing post-exile restoration themes.",
+      "sectionHeader": "The Return to the Land and Renewed Conflict"
     },
     {
       "pk": 21012002,
@@ -25,9 +52,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 2,
-      "text": "But some of the local governors, Timothy, Apollonius son of Gennaeus, as well as Hieronymus and Demophon, along with Nicanor, the governor of Cyprus, would not let them be at peace or live quietly.",
-      "links": "",
-      "comment": "Persistent enemies of the Jews continued their opposition. In salvation history, we often see that God's people must remain vigilant against ongoing opposition (<a href='/AIV/19/2/1'>Ps 2:1-2</a>)."
+      "text": "But some local commanders, Timotheus, Apollonius the son of Gennaeus, and also Hieronymus and Demophon, as well as Nicanor, who led the Cypriots, would not let them live in peace or rest.",
+      "links": "<a href='/AIV/14/20/1-2'>2 Chronicles 20:1-2</a>",
+      "comment": "The persistent opposition recalls the enemies of Israel throughout the Old Testament, showing the endurance required of God's people."
     },
     {
       "pk": 21012003,
@@ -37,9 +64,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 3,
-      "text": "Some people of Joppa, also, committed a terrible crime: they invited the Jews who lived among them to embark with their wives and children on boats they had prepared, as though there was nothing to fear.",
-      "links": "",
-      "comment": "Such treachery reveals a violation of trust and hospitality. The suffering of the innocent echoes the afflictions of the righteous in Scripture (<a href='/AIV/19/10/2'>Ps 10:2</a>)."
+      "text": "People from Joppa performed a terrible crime: they invited the Jews living among them to go on boats with their wives and children, as if nothing was wrong.",
+      "links": "<a href='/AIV/19/55/21'>Psalm 55:21</a>",
+      "comment": "Deceptive hospitality here recalls betrayals in the Psalms and the danger of trusting enemies. The reference to families underlines the trauma of persecution."
     },
     {
       "pk": 21012004,
@@ -49,9 +76,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 4,
-      "text": "But when the Jews, trusting in the arrangement the people of Joppa had made, went out to sea, they drowned at least two hundred of them.",
-      "links": "",
-      "comment": "Trust was betrayed through a calculated act of murder at sea. This tragedy recalls other biblical betrayals and emphasizes the need for discernment (<a href='/AIV/19/41/9'>Ps 41:9</a>)."
+      "text": "The people of Joppa did this as a public act in their city, but once the Jews accepted the invitation and went out to sea, the others drowned two hundred of them.",
+      "links": "<a href='/AIV/01/37/31-33'>Genesis 37:31-33</a>",
+      "comment": "This verse demonstrates the brutal consequences of misplaced trust, resonating with accounts of betrayal elsewhere in Scripture."
     },
     {
       "pk": 21012005,
@@ -61,9 +88,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 5,
-      "text": "When Judas heard what had happened to his fellow countrymen, he called his men together, summoned the leaders, and sought justice for the innocent.",
-      "links": "",
-      "comment": "Judas, as a godly leader, acts to bring justice, a theme prominent in biblical history (<a href='/AIV/20/31/8-9'>Prov 31:8-9</a>), showing zeal for the well-being of his people."
+      "text": "When Judas heard about this shocking act, he told his men to call upon God, the righteous Judge. Then he attacked the murderers at night and burned the harbor; he also set fire to the boats, and killed those who had escaped there.",
+      "links": "<a href='/AIV/07/7/19-22'>Judges 7:19-22</a>",
+      "comment": "The nocturnal attack follows a biblical pattern (see also Judges), and Judas's appeal to divine justice emphasizes God's involvement in judgment."
     },
     {
       "pk": 21012006,
@@ -73,9 +100,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 6,
-      "text": "He attacked the people of Joppa at night and set fire to the harbor, burning the ships, and killing those who had fled there.",
-      "links": "",
-      "comment": "Judas’s actions are motivated by a passion for justice rather than vengeance. This reflects God's retributive justice seen elsewhere in Scripture (<a href='/AIV/2/15/7'>Ex 15:7</a>)."
+      "text": "When Judas left, he made a solemn vow to take vengeance on the people of Joppa if he ever returned.",
+      "links": "<a href='/AIV/19/94/1-2'>Psalm 94:1-2</a>",
+      "comment": "Judas’s vow aligns with the biblical principle of justice and righteous retribution."
     },
     {
       "pk": 21012007,
@@ -85,9 +112,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 7,
-      "text": "Then, having left the city, since it was already daytime, Judas marched to Jamnia, where he also attacked the people there.",
-      "links": "",
-      "comment": "Judas responds decisively, continuing to protect his people. This demonstrates strong leadership and the necessity of defending the faith community."
+      "text": "Then, because the city’s gates were closed, Judas withdrew, resolving to return later and destroy the whole community of Joppa.",
+      "links": [
+        "Josh 6:1",
+        "Judg 1:24-25",
+        "1 Macc 5:55-58"
+      ],
+      "comment": "Judas Maccabeus' decision to retreat from Joppa, whose gates were shut against him, reflects both pragmatic military strategy and ongoing resolve to confront hostile Hellenistic cities (see also 1 Macc 5:9-15); it underscores the severity of Jewish-Gentile tensions during the Maccabean revolt."
     },
     {
       "pk": 21012008,
@@ -97,9 +128,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 8,
-      "text": "When the people of Jamnia tried to do the same to the Jews who lived among them, he attacked them by night, set fire to the harbor and fleet, so that the light from the flames was visible in Jerusalem, almost two hundred and fifty miles away.",
-      "links": "",
-      "comment": "The scale of the destruction signals a warning and a sign, recalling previous signs in biblical history (<a href='/AIV/1/19/28'>Gen 19:28</a> fire and smoke of Sodom)."
+      "text": "After marching nine days with his company, Judas headed toward Timotheus, who had gathered a large force of foreign soldiers, even more cavalry than before.",
+      "links": "<a href='/AIV/09/17/1-4'>1 Samuel 17:1-4</a>",
+      "comment": "Judas’s offensive demonstrates courage in facing overwhelming enemies, paralleling the battles of David."
     },
     {
       "pk": 21012009,
@@ -109,10 +140,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 9,
-      "text": "From there, they marched nine days, heading for the region of Gorgias, the governor.",
-      "links": "",
-      "comment": "The narrative continues the theme of perseverance and the need for faithful endurance, which is echoed by Christ's own call to perseverance in the Gospels (<a href='/AIV/42/21/19'>Luke 21:19</a>).",
-      "sectionHeader": "Victories over Gorgias and the Defense of Jewish Communities"
+      "text": "Timotheus's army retreated before Judas’s sudden advance, and many of them were destroyed. Judas captured a well-fortified city called Gazara with ease.",
+      "links": "<a href='/AIV/06/10/33'>Joshua 10:33</a>",
+      "comment": "Victory is attributed to God’s providence and the leader’s bold initiative, a theme echoed throughout salvation history."
     },
     {
       "pk": 21012010,
@@ -122,9 +152,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 10,
-      "text": "But Gorgias came out with three thousand infantry and four hundred cavalry.",
-      "links": "",
-      "comment": "Formidable opposition highlights the odds faced by God's people, reminding us that victory comes not by might but by the Lord's guidance (<a href='/AIV/38/4/6'>Zech 4:6</a>)."
+      "text": "Afterward, Judas removed the idols from Gazara, burned the city’s gates, and purified the area from all idolatry.",
+      "links": "<a href='/AIV/05/7/5-6'>Deuteronomy 7:5-6</a>",
+      "comment": "Judas purifies the land, echoing the Law’s command to remove idols (<a href='/AIV/05/7/5-6'>Deut 7:5-6</a>)."
     },
     {
       "pk": 21012011,
@@ -134,9 +164,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 11,
-      "text": "In the ensuing battle, the Jews called upon the Lord for help, especially since they were risking their lives for the sake of His laws and the holy place. So He gave them courage and they defeated Gorgias’s army.",
-      "links": "<a href='/AIV/19/20/7'>Ps 20:7</a>; <a href='/AIV/11/8/44'>1Kings 8:44</a>",
-      "comment": "Faith in God, and fighting for God's law and the sanctuary, invokes God's favor. Trust in God’s name for victory connects to both Old and New Testament themes."
+      "text": "Then he moved his army to another town, facing a strong garrison protected by walls and people of many nations gathered inside.",
+      "links": "<a href='/AIV/06/6/1'>Joshua 6:1</a>",
+      "comment": "The gathering of nations foreshadows eschatological imagery—God’s people against all nations."
     },
     {
       "pk": 21012012,
@@ -146,9 +176,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 12,
-      "text": "Gorgias fled to a fortress in a village called Marisa, but Judas’s soldiers captured the village, killing over twenty-five hundred men and seizing great spoils.",
-      "links": "",
-      "comment": "The taking of spoils echoes earlier biblical narratives illustrating God’s deliverance and provision (<a href='/AIV/6/8/27'>Josh 8:27</a>)."
+      "text": "But the people inside, trusting in the strength of their walls and resources, blasphemed and spoke horrible things against Judas and his people.",
+      "links": "<a href='/AIV/14/32/16-19'>2 Chronicles 32:16-19</a>",
+      "comment": "Confidence in human strength and blasphemy against God evokes themes of pride and judgment."
     },
     {
       "pk": 21012013,
@@ -158,9 +188,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 13,
-      "text": "After this, Judas and his forces marched against Ephron, a heavily fortified city with a strong wall and people from many nations inside.",
-      "links": "",
-      "comment": "Cities with mixed inhabitants are common as sites of conflict in the Old Testament (<a href='/AIV/6/10/5'>Josh 10:5</a>), reflecting ongoing struggles for holiness and identity amid surrounding nations."
+      "text": "Judas called upon the great sovereign of the world, who had overthrown the walls of Jericho without siege engines, and assaulted the city mightily.",
+      "links": "<a href='/AIV/06/6/20'>Joshua 6:20</a>",
+      "comment": "Explicit allusion to Jericho—God’s miraculous intervention as the foundation of faith and victory."
     },
     {
       "pk": 21012014,
@@ -170,9 +200,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 14,
-      "text": "Strong young men defended the walls vigorously, but the Jews, trusting in God’s aid, took the city, killed twenty-five thousand in all, and captured much of value.",
-      "links": "",
-      "comment": "The people’s confidence in God recalls multiple Old Testament deliverances; victory often comes to those who trust in the Lord rather than human strength."
+      "text": "The city was taken by God’s will, and countless men fell before Judas. The city was wiped out, and a huge spoils was carried off, giving control to Judas and his men.",
+      "links": "<a href='/AIV/06/8/24-27'>Joshua 8:24-27</a>",
+      "comment": "Attributing victory and spoil to God underlines the doctrine of providence."
     },
     {
       "pk": 21012015,
@@ -182,9 +212,10 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 15,
-      "text": "They continued their march, coming to Scythopolis, a city seventy-five miles from Jerusalem.",
-      "links": "",
-      "comment": "The specific geography highlights the historicity of the events, and underlines the widespread scope of the Jewish struggle in the region."
+      "text": "They left that city, headed toward a fortified city called Caspin, which was surrounded by walls nearly half a mile high and full of people from many nations.",
+      "links": "<a href='/AIV/11/20/15-21'>1 Kings 20:15-21</a>",
+      "comment": "The description highlights the formidable challenges facing the faithful remnant.",
+      "sectionHeader": "Judas's Victories in Gilead"
     },
     {
       "pk": 21012016,
@@ -194,9 +225,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 16,
-      "text": "But the Jews who lived there claimed they’d been treated kindly by people of Scythopolis and the city’s authorities, so Judas and his men thanked them and offered prayers for their well-being. Then they left them alone.",
-      "links": "",
-      "comment": "Gratitude and intercessory prayer for benefactors is modeled here, reflecting a principle echoed in the apostolic teaching (<a href='/AIV/54/2/1-2'>1 Tim 2:1-2</a>)."
+      "text": "Still, those inside believed themselves invincible thanks to their fortifications and immense amounts of supplies. Yet Judas and his followers pleaded to the Lord from the ground, with hands raised toward heaven.",
+      "links": "<a href='/AIV/19/28/2'>Psalm 28:2</a>",
+      "comment": "The posture of prayer mirrors the intercession and dependence on God evident throughout Israel’s history."
     },
     {
       "pk": 21012017,
@@ -206,9 +237,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 17,
-      "text": "After the festival called Pentecost, they moved quickly against Gorgias, the governor of Idumea.",
-      "links": "<a href='/AIV/3/23/16'>Lev 23:16</a>; <a href='/AIV/44/2/1'>Acts 2:1</a>",
-      "comment": "The mention of Pentecost situates these events on a key biblical feast that also has spiritual fulfillment in Christian tradition (cf. <a href='/AIV/44/2/1'>Acts 2:1</a>)."
+      "text": "Calling on the mighty Lord to shatter the enemy's power, as God had done in the time of Joshua, they advanced on the wall with violence, bringing about God's will.",
+      "links": "<a href='/AIV/06/10/42'>Joshua 10:42</a>",
+      "comment": "The prayerful, divinely oriented strategy recalls previous victories under God’s guidance."
     },
     {
       "pk": 21012018,
@@ -218,9 +249,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 18,
-      "text": "He came out with three thousand infantry and four hundred cavalry.",
-      "links": "<a href='/AIV/21/12/10'>2Macc 12:10</a>",
-      "comment": "This verse mirrors verse 10, reinforcing the challenges faced by the Jewish army."
+      "text": "They did not find Timothy in that region, for he had already withdrawn without achieving his aim; but in one place he had left behind a very strong garrison.",
+      "links": [
+        "1 Macc 5:37-44",
+        "2 Macc 8:30",
+        "Heb 11:34"
+      ],
+      "comment": "Timothy, a recurring Seleucid adversary (cf. 2 Macc 8:30-33), is depicted fleeing and failing in his campaign, highlighting God's favor toward the Jewish resistance and the formidable nature of their opposition."
     },
     {
       "pk": 21012019,
@@ -230,9 +265,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 19,
-      "text": "In the battle, a few Jews were killed.",
-      "links": "",
-      "comment": "Despite many victories, God’s people still suffer losses, reminding us that faithfulness doesn’t always mean escape from suffering (<a href='/AIV/55/3/12'>2 Tim 3:12</a>)."
+      "text": "Dositheus and Sosipater, who were captains under Judas Maccabeus, marched out and destroyed those whom Timothy had left in the stronghold, more than ten thousand men.",
+      "links": [
+        "1 Macc 5:43-44",
+        "Judg 7:19-22",
+        "2 Macc 8:22"
+      ],
+      "comment": "The destruction of the strong garrison by Dositheus and Sosipater, commanders under Judas, demonstrates both the organized military capability of the Jews and divine aid in their victories (cf. 1 Macc 5:11-13), and it reinforces the motif of faith-driven triumph over stronger enemies."
     },
     {
       "pk": 21012020,
@@ -242,9 +281,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 20,
-      "text": "But Dositheus, one of Bacenor’s captains, fought bravely and captured Gorgias alive. However, because Dositheus was a strong horseman and overpowered by Gorgias’s cavalry, Gorgias escaped to Maresa.",
-      "links": "",
-      "comment": "The escape of Gorgias highlights the unpredictable outcomes of war and a recurring theme that final victories belong to God alone."
+      "text": "Strong youths stationed in front of the city put up a vigorous defense, and inside the walls were large stores of war machines and projectiles. But the Jews called upon the Lord again, who shatters the power of enemies, and they took the city.",
+      "links": "<a href='/AIV/09/17/47'>1 Samuel 17:47</a>",
+      "comment": "Success, attributed to God through prayer, underlines the biblical principle of human effort joined to divine grace."
     },
     {
       "pk": 21012021,
@@ -254,9 +293,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 21,
-      "text": "At that time, Judas and his men turned toward Adullam, since the seventh day was approaching; they purified themselves according to custom and observed the Sabbath there.",
-      "links": "<a href='/AIV/2/20/8-11'>Exod 20:8-11</a>",
-      "comment": "Observance of the Sabbath amid war underscores the centrality of worship and rest in God's law, reflecting obedience even in hardship."
+      "text": "After destroying the city, they moved through the region and arrived at Scythopolis, about seventy-five miles from Jerusalem.",
+      "links": "<a href='/AIV/06/17/11'>Joshua 17:11</a>",
+      "comment": "The advance into more distant regions marks the expansion of Israel’s sphere, reminiscent of the conquest narratives."
     },
     {
       "pk": 21012022,
@@ -266,9 +305,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 22,
-      "text": "After the Sabbath, they took some of their fallen men to bury them with their relatives in the tombs of their ancestors.",
-      "links": "<a href='/AIV/1/50/13'>Gen 50:13</a>",
-      "comment": "Proper burial with ancestors is a sign of respect for the dead, a value deeply rooted in biblical history and closely connected to hope in God's promises."
+      "text": "But the Jews there testified that the Scythopolitans had always treated them well during times of hardship and did not mistreat them.",
+      "links": "<a href='/AIV/01/47/12'>Genesis 47:12</a>",
+      "comment": "The theme of righteous Gentiles echoes elsewhere in Scripture (e.g., Pharaoh's kindness to Jacob and Joseph’s family)."
     },
     {
       "pk": 21012023,
@@ -278,9 +317,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 23,
-      "text": "But when they found on each of the dead men hidden amulets dedicated to idols of Jamnia, which the Law forbids Jews to wear, everyone saw that this was why they had fallen.",
-      "links": "<a href='/AIV/3/19/4'>Lev 19:4</a>, <a href='/AIV/5/5/7-9'>Deut 5:7-9</a>",
-      "comment": "Idolatry is seen as the cause of their defeat, recalling consistent biblical teaching against pagan practices (<a href='/AIV/2/20/3-6'>Exod 20:3-6</a>)."
+      "text": "Judas and his men thanked them, even urging the Jews there to remain on good terms with their neighbors, and returned to Jerusalem as the Feast of Weeks was approaching.",
+      "links": "<a href='/AIV/03/23/15-21'>Leviticus 23:15-21</a>",
+      "comment": "The Feast of Weeks (Pentecost) draws a typological link to the New Testament coming of the Holy Spirit (<a href='/AIV/44/2/1-4'>Acts 2:1-4</a>)."
     },
     {
       "pk": 21012024,
@@ -290,9 +329,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 24,
-      "text": "So everyone praised the ways of the Lord, the righteous Judge who exposes hidden things, and they offered a prayer that the sin just committed might be completely forgiven.",
-      "links": "<a href='/AIV/58/4/13'>Heb 4:13</a>",
-      "comment": "God as a just and omniscient Judge is a key biblical principle. The prayer for forgiveness underscores communal responsibility and intercession for the dead, themes woven throughout Scripture."
+      "text": "After the festival called Pentecost, they marched against Gorgias, the general governor of Idumea.",
+      "links": "<a href='/AIV/44/2/1'>Acts 2:1</a>",
+      "comment": "The marking of sacred festivals highlights the liturgical calendar observed by God's people."
     },
     {
       "pk": 21012025,
@@ -302,9 +341,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 25,
-      "text": "Noble Judas also urged the people to keep themselves free from sin, since they had witnessed with their own eyes what happened because of the sin of those who had died.",
-      "links": "",
-      "comment": "Moral exhortation follows judgment. Moral instruction based on lived experience is a biblical model for teaching (<a href='/AIV/46/10/6-12'>1 Cor 10:6-12</a>)."
+      "text": "Gorgias mobilized troops and cavalry from everywhere, launching an attack on Judas’s men.",
+      "links": "<a href='/AIV/09/13/5'>1 Samuel 13:5</a>",
+      "comment": "Enemy movements parallel the repeated pattern of opposition faced by God’s people in salvation history."
     },
     {
       "pk": 21012026,
@@ -314,9 +353,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 26,
-      "text": "Then he took up a collection from each man, and sent it to Jerusalem to provide for a sin offering. In doing this, he acted very well and honorably, taking account of the resurrection.",
-      "links": "<a href='/AIV/40/5/23-24'>Matt 5:23-24</a>, <a href='/AIV/27/12/2'>Dan 12:2</a>",
-      "comment": "The practice of making offerings for the dead reflects belief in the resurrection of the just—a doctrine supported in later Scriptural revelation. Also, the idea of intercessory acts for others anticipates developments in later Christian worship and sacramental theology."
+      "text": "Judas and his men prayed, asking God to support them. They took courage, marched out, and defeated the enemy's army.",
+      "links": "<a href='/AIV/07/3/9-11'>Judges 3:9-11</a>",
+      "comment": "The combination of prayer and courageous action is suggestive of the virtue of faith expressed in deeds."
     },
     {
       "pk": 21012027,
@@ -326,9 +365,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 27,
-      "text": "If he were not expecting that those who had fallen would rise again, it would have been foolish and useless to pray for the dead.",
-      "links": "",
-      "comment": "This is a direct affirmation of faith in the resurrection, which is a core belief in later Christian theology and is foreshadowed here."
+      "text": "Still, Gorgias withdrew to a fortified city, where he stationed troops as defenders. Judas laid siege to it for four days.",
+      "links": "<a href='/AIV/10/20/15'>2 Samuel 20:15</a>",
+      "comment": "Siege warfare is a longstanding feature of the ancient world. The four-day duration parallels periods of trial and testing."
     },
     {
       "pk": 21012028,
@@ -338,9 +377,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 28,
-      "text": "But since he believed that those who had died with godliness would receive a glorious reward, he acted out of great devotion.",
-      "links": "<a href='/AIV/58/11/35'>Heb 11:35</a>",
-      "comment": "This verse testifies to faith in eternal reward after death. The connection to resurrection hope is a major theme later illuminated in the New Testament."
+      "text": "Those inside, feeling secure because of their strength and abundance of supplies, insulted the Jews, cursed them, making blasphemous statements.",
+      "links": "<a href='/AIV/14/32/17'>2 Chronicles 32:17</a>",
+      "comment": "The repeated motif of pride and blasphemy draws attention to the sin of arrogance and its consequences."
     },
     {
       "pk": 21012029,
@@ -350,9 +389,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 29,
-      "text": "So he made atonement for the dead, so that they might be released from their sins.",
-      "links": "<a href='/AIV/54/1/4'>1 Tim 1:4</a>",
-      "comment": "Offering prayers and sacrifices for the dead presumes that the faithful departed can benefit from the prayers of the living, a teaching that resonates with certain Christian traditions of intercession and atonement for souls beyond this life."
+      "text": "But at dawn of the fifth day, twenty young men from the army, filled with anger at the insults, bravely climbed the walls, stormed in, and killed everyone who fell into their hands.",
+      "links": "<a href='/AIV/07/9/46-49'>Judges 9:46-49</a>",
+      "comment": "Youthful zeal in defense of God’s honor brings to mind other episodes of divine justice carried out through human agency."
     },
     {
       "pk": 21012030,
@@ -362,9 +401,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 30,
-      "text": "Returning from there, they went quickly to attack the stronghold of Charax, where Timothy was.",
-      "links": "",
-      "comment": "The transition returns to the military narrative. Timothy’s opposition reflects the recurring challenges faced by God’s people."
+      "text": "The others, terrified by the attack, decided to beg for mercy through supplication and appealed for peace.",
+      "links": "<a href='/AIV/06/9/3-9'>Joshua 9:3-9</a>",
+      "comment": "Supplication in the face of destruction is a repeated biblical response to impending judgment."
     },
     {
       "pk": 21012031,
@@ -374,9 +413,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 31,
-      "text": "Timothy, however, they found had left the city, but they attacked those who remained, defeated them, and seized much spoil. Then they divided the loot among themselves, the wounded, the widows, and orphans, and distributed the rest among themselves and their families.",
-      "links": "",
-      "comment": "Caring for widows and orphans is a consistent biblical command (<a href='/AIV/19/68/5'>Ps 68:5</a>, <a href='/AIV/59/1/27'>James 1:27</a>)."
+      "text": "They promised to support the Jews in the future, so Judas accepted their pledge and, after seizing the city, stationed troops as guards.",
+      "links": "<a href='/AIV/06/9/15-27'>Joshua 9:15-27</a>",
+      "comment": "Forgiveness and establishing treaties reflects the practice of forming alliances for mutual support—a theme of unity in the people of God."
     },
     {
       "pk": 21012032,
@@ -386,9 +425,10 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 32,
-      "text": "So when they had done all this, they prayed together, asking the merciful Lord to be completely reconciled with His servants.",
-      "links": "<a href='/AIV/19/51/1'>Ps 51:1</a>",
-      "comment": "Communal prayer for mercy and reconciliation indicates a deeply spiritual approach to national adversity, modeling reliance on God’s grace and forgiveness."
+      "text": "After this, Judas and his men returned to Jerusalem with great joy and thanksgiving to God.",
+      "links": "<a href='/AIV/19/126/1-3'>Psalm 126:1-3</a>",
+      "comment": "Victories inspire thanksgiving and celebration, fulfilling the theme of gratitude found in the Psalms.",
+      "sectionHeader": "Prayers for the Dead and the Resurrection"
     },
     {
       "pk": 21012033,
@@ -398,9 +438,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 33,
-      "text": "They attacked the stronghold of Ephron, a fortified city, with Lysias’ governor inside, and all kinds of people. Their forces, both inside and outside the city, resisted bravely.",
-      "links": "",
-      "comment": "Again, perseverance amid strong resistance is a theme through this section."
+      "text": "But during the campaign against Gorgias, the governor of Idumea, they lost some men in battle.",
+      "links": "<a href='/AIV/13/10/13'>1 Chronicles 10:13</a>",
+      "comment": "The reality of suffering and loss even among the faithful mirrors many episodes in Israel’s history."
     },
     {
       "pk": 21012034,
@@ -410,9 +450,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 34,
-      "text": "But the Jews called upon Almighty God, who shatters the power of enemies, conquered the city, killed about twenty-five thousand of those inside, and pursued the rest up to Gazara.",
-      "links": "<a href='/AIV/7/7/10'>Judges 7:10</a>",
-      "comment": "The language of God shattering enemies recalls key moments in Israelite history (see <a href='/AIV/7/7/20-22'>Judg 7:20-22</a>), again attributing victory to divine intervention."
+      "text": "When they went to collect the bodies for burial among their fathers, they found on each of the dead men under their tunics, sacred tokens of the idols from Jamnia, prohibited for Jews by law.",
+      "links": "<a href='/AIV/05/7/25'>Deuteronomy 7:25</a>",
+      "comment": "This violation of the Law leads to the interpretation that idolatry was the reason for these men’s deaths, reinforcing God’s holiness."
     },
     {
       "pk": 21012035,
@@ -422,9 +462,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 35,
-      "text": "After these victories, they marched on to Ephron, a strong city. They besieged and captured it, killing twenty-five thousand who were inside.",
-      "links": "",
-      "comment": "The repetition of this episode emphasizes the completeness of victory as God’s people remain faithful in adversity."
+      "text": "It was clear to everyone that this was why they had fallen in battle.",
+      "links": "<a href='/AIV/06/7/10-12'>Joshua 7:10-12</a>",
+      "comment": "As with Achan in Joshua, hidden sin leads to collective calamity. Holiness and obedience are crucial to blessing."
     },
     {
       "pk": 21012036,
@@ -434,9 +474,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 36,
-      "text": "From there they went to Scythopolis, seventy-five miles from Jerusalem. The Jews who lived there testified that the people of Scythopolis had treated them well.",
-      "links": "",
-      "comment": "Gratitude is shown for justice and kindness received from outsiders, in line with the biblical principle of returning good for good."
+      "text": "So all praised the Lord, the righteous Judge, who makes hidden things obvious,",
+      "links": "<a href='/AIV/18/12/22'>Job 12:22</a>",
+      "comment": "God’s omniscience is highlighted: even hidden things are revealed in judgment."
     },
     {
       "pk": 21012037,
@@ -446,9 +486,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 37,
-      "text": "So Judas and his men thanked the people and exhorted them to continue in goodwill toward the Jews, then returned to Jerusalem as the Feast of Weeks was at hand.",
-      "links": "<a href='/AIV/3/23/15-21'>Lev 23:15-21</a>",
-      "comment": "The Feast of Weeks (Pentecost) is a time of thanksgiving for the harvest and points forward to the fuller outpouring of the Spirit in the New Covenant (<a href='/AIV/44/2/1-4'>Acts 2:1-4</a>)."
+      "text": "and they began to pray, seeking that the sin committed might be completely blotted out. The noble Judas exhorted the people to keep themselves from sin, witnessing with their own eyes the consequences of those who fell because of it.",
+      "links": "<a href='/AIV/19/51/1-9'>Psalm 51:1-9</a>",
+      "comment": "Prayer for forgiveness on behalf of the dead demonstrates a doctrine of intercession and communal responsibility for sin."
     },
     {
       "pk": 21012038,
@@ -458,10 +498,10 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 38,
-      "text": "After the Feast, they marched against Gorgias, the governor of Idumea.",
-      "links": "",
-      "comment": "Persistent opposition is a motif throughout both Old and New Testaments. The cycle of worship and conflict mirrors the Christian rhythm of liturgy and mission.",
-      "sectionHeader": "Judas Makes Atonement for the Fallen"
+      "text": "Then he gathered a collection from each man, sending about two thousand silver drachmas to Jerusalem to provide a sin offering, doing this in a very fine and noble way, since he had the resurrection of the dead in view.",
+      "links": "<a href='/AIV/41/12/26-27'>Mark 12:26-27</a>",
+      "comment": "This verse is extremely important. The offering for the dead is directly linked to belief in resurrection, teaching people about post-mortem purification and the endurance of prayer for the departed.",
+      "sectionHeader": "Faith in the Resurrection and Sacrificial Atonement"
     },
     {
       "pk": 21012039,
@@ -471,9 +511,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 39,
-      "text": "Gorgias came out with three thousand infantry and four hundred cavalry. The Jews engaged them, some fell wounded but they kept fighting with the help of God.",
-      "links": "",
-      "comment": "Divine assistance in battle recalls biblical accounts in which God fights on behalf of His people (see <a href='/AIV/2/14/14'>Exod 14:14</a>)."
+      "text": "If he were not expecting those who had fallen to rise again, it would have been foolish and useless to pray for the dead.",
+      "links": "<a href='/AIV/46/15/12-20'>1 Corinthians 15:12-20</a>",
+      "comment": "This provides a clear, ancient articulation of beliefs in bodily resurrection and the care for souls after death, anticipating New Testament doctrine."
     },
     {
       "pk": 21012040,
@@ -483,9 +523,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 40,
-      "text": "Dositheus, a cavalry leader, attacked and captured Gorgias, but, overpowered by Gorgias’s soldiers, had to let him go.",
-      "links": "<a href='/AIV/21/12/20'>2Macc 12:20</a>",
-      "comment": "Parallels to earlier verses (see v.20). Not all attempts succeed, reminding us that ultimate victory is God’s alone in salvation history."
+      "text": "But since he was convinced that those who die in godliness receive a great reward, his concern was a holy and devout thought. He made atonement for the dead, so that they might be released from their sins.",
+      "links": "<a href='/AIV/60/3/18-20'>1 Peter 3:18-20</a>",
+      "comment": "This verse affirms the practice of making atonement for the dead, showing that prayer for purification after death was regarded as part of a holy life. The passage lays groundwork for intercessory prayer and sacrificial offerings for others, anticipating teachings emphasized by the early church."
     },
     {
       "pk": 21012041,
@@ -495,9 +535,10 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 41,
-      "text": "Then Judas gathered his army and went to Adullam. It was the seventh day, so they purified themselves and kept the Sabbath according to custom.",
-      "links": "<a href='/AIV/2/20/8'>Exod 20:8</a>",
-      "comment": "Observing the Sabbath was central even during battle. Spiritual discipline is prioritized amid conflict; this attitude is foundational for spiritual perseverance."
+      "text": "So then, all together they praised the Lord, who judges everyone justly, and they turned to prayer, begging that the wrong which had been committed would be entirely forgiven.",
+      "links": "<a href='/AIV/19/51/1'>Psalm 51:1</a>, <a href='/AIV/40/6/12'>Matthew 6:12</a>",
+      "comment": "The text emphasizes communal prayer for forgiveness after recognizing sin. This recalls themes of corporate repentance seen throughout the Old and New Testaments. The stress on the 'just Judge' also looks forward to New Testament depictions of Christ's role in judgment (cf. John 5:22).",
+      "sectionHeader": "Prayer for Forgiveness and Hope for Resurrection"
     },
     {
       "pk": 21012042,
@@ -507,9 +548,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 42,
-      "text": "On the next day, when they went to collect the bodies of those who had fallen in battle, they found under the tunic of each of the dead men amulets sacred to the idols of Jamnia, which the Law strictly forbids the Jews to wear.",
-      "links": "<a href='/AIV/3/19/4'>Lev 19:4</a>; <a href='/AIV/5/5/7-8'>Deut 5:7-8</a>",
-      "comment": "The repeated discovery of the idols underscores both the gravity of idolatry and the need for repentance and purity. Religious compromise has real consequences."
+      "text": "Now Judas, the leader, urged his men to keep themselves pure from sin, after seeing with their own eyes how those who had died in battle had suffered because of their transgression.",
+      "links": "<a href='/AIV/3/16/30'>Leviticus 16:30</a>, <a href='/AIV/45/6/23'>Romans 6:23</a>",
+      "comment": "Judas’s encouragement to pursue holiness underscores the biblical principle that sin separates humanity from God and can have grave consequences. This connects to repeated scriptural calls to purification for worship and living (see Leviticus 16, 1 Peter 1:16)."
     },
     {
       "pk": 21012043,
@@ -519,9 +560,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 43,
-      "text": "So everyone understood this was the cause of their defeat. Therefore, they praised the Lord, the righteous Judge who makes hidden things known, and prayed that this sin might be wholly blotted out.",
-      "links": "<a href='/AIV/19/90/8'>Ps 90:8</a>",
-      "comment": "God as the Revealer of secrets and the Just Judge is foundational in biblical theology. Prayer for the forgiveness of others' sins is strikingly significant, anticipating intercessory practices in the Christian tradition."
+      "text": "He gathered a collection from each man, totaling about two thousand silver drachmas, and sent it to Jerusalem so that a sacrifice for sin might be offered for those who had fallen. By doing this, he acted very well and honorably, keeping in mind the resurrection.",
+      "links": "<a href='/AIV/03/4/3-6'>Leviticus 4:3-6</a>, <a href='/AIV/43/5/28-29'>John 5:28-29</a>",
+      "comment": "Contributing for a sin offering reflects belief in both the ongoing spiritual connection and hope for the resurrection. This anticipates New Testament teaching on the resurrection of the dead and interceding for others (cf. 1 Corinthians 15:12-19; also links to prayers offered for the departed)."
     },
     {
       "pk": 21012044,
@@ -531,9 +572,9 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 44,
-      "text": "Noble Judas exhorted the people to avoid sin, observing the consequences suffered by the fallen. Taking up a collection, he sent it to Jerusalem to provide a sin offering for the dead, acting in a very excellent and devout manner, keeping in mind the resurrection.",
-      "links": "<a href='/AIV/27/12/2'>Dan 12:2</a>",
-      "comment": "The explicit reference to prayer and sacrifice for the dead in view of the resurrection is unique and prefigures later Christian understandings about the communion of saints and the ongoing spiritual solidarity among the living and the dead."
+      "text": "For if he were not expecting those who had died to rise again, it would have been pointless and foolish to pray for the dead.",
+      "links": "<a href='/AIV/41/12/26-27'>Mark 12:26-27</a>, <a href='/AIV/46/15/20'>1 Corinthians 15:20</a>",
+      "comment": "The act of prayer for the deceased highlights a belief in the resurrection. Such prayers point to a vision of life after death, a foundation for later Christian doctrines concerning eternal life and intercession."
     },
     {
       "pk": 21012045,
@@ -543,27 +584,10 @@
       "bookAbbreviation": "2Macc",
       "chapter": 12,
       "verse": 45,
-      "text": "For if he were not expecting those who had fallen would rise again, it would have been foolish to pray for the dead. But if he believed that a splendid reward is reserved for those who fall asleep in godliness, it was a holy and devout thought. Therefore he made atonement for the dead, so that they might be delivered from their sin.",
-      "links": "<a href='/AIV/58/11/35'>Heb 11:35</a>; <a href='/AIV/40/12/32'>Matt 12:32</a>",
-      "comment": "This profound conclusion affirms belief in the resurrection and the benefit of prayers and offerings for the dead—a conviction echoed in the Christian tradition regarding remembrance and intercession for the departed."
+      "text": "Yet, since he believed that a wonderful reward was reserved for those who died in godliness, his decision was holy and devout. Therefore, he made atonement for the dead, so that they might be freed from their sin.",
+      "links": "<a href='/AIV/40/25/34'>Matthew 25:34</a>, <a href='/AIV/58/7/25'>Hebrews 7:25</a>",
+      "comment": "Here, the text speaks of making atonement for those who have died, implying hope for their deliverance. This supports the idea that intercessory prayer and sacrificial offerings can benefit the faithful departed, hinting at an ongoing mystery in God’s mercy beyond earthly life. Note also how this aligns with later understandings of Christ's priestly intercession for all believers (see Hebrews 7:25), and the assurance of reward for those who persevered in faith."
     }
   ],
-  "translatedAt": "2025-12-24T05:37:13.289Z",
-  "sections": [
-    {
-      "title": "Judas Avenges the Massacre at Joppa",
-      "startVerse": 1,
-      "endVerse": 8
-    },
-    {
-      "title": "Victories over Gorgias and the Defense of Jewish Communities",
-      "startVerse": 9,
-      "endVerse": 37
-    },
-    {
-      "title": "Judas Makes Atonement for the Fallen",
-      "startVerse": 38,
-      "endVerse": 45
-    }
-  ]
+  "translatedAt": "2025-12-28T06:56:09.193Z"
 }

@@ -74,7 +74,11 @@
       "chapter": 2,
       "verse": 6,
       "text": "But some of the scribes were sitting there, reasoning in their hearts:",
-      "links": "",
+      "links": [
+        "Matt 9:3",
+        "Luke 5:21",
+        "Luke 7:39"
+      ],
       "comment": "The scribes' inner questioning illustrates skepticism toward divine authority exercised among men; their hearts reveal a challenge to Jesus' divine prerogative."
     },
     {

@@ -183,9 +183,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 24,
       "verse": 15,
-      "text": "I am like an olive tree blossoming in the field, and like a plane tree growing by the water.",
-      "links": "<a href='/AIV/19/52/8'>Ps. 52:8</a>; <a href='/AIV/19/1/3'>Ps. 1:3</a>",
-      "comment": "Olive trees signify peace and steadfastness; water evokes the Spirit and baptism."
+      "text": "Like cassia and camel’s thorn I gave forth perfume, and like choice myrrh I spread my fragrance, like galbanum, onycha, and stacte, and like the odor of incense in the tent.",
+      "links": [
+        "Ex 30:34",
+        "Ps 141:2",
+        "Song 1:3"
+      ],
+      "comment": "Wisdom is compared to rare and precious spices and incense, evoking temple worship and the rich aroma of holiness; these images highlight her role in sanctifying and beautifying life (Exodus 30:34-38)."
     },
     {
       "pk": 28024016,
@@ -195,9 +199,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 24,
       "verse": 16,
-      "text": "I gave forth fragrance like cinnamon and aspalathus, and I spread my aroma like choice myrrh.",
-      "links": "<a href='/AIV/22/3/6'>Song 3:6</a>; <a href='/AIV/19/45/8'>Ps. 45:8</a>",
-      "comment": "Fragrant imagery points to spiritual delight and holiness—echoing themes seen in liturgical life and sacramental grace."
+      "text": "Like a terebinth I spread out my branches, and my branches are glorious and graceful.",
+      "links": [
+        "Isa 61:3",
+        "Hos 14:6",
+        "Ps 92:12"
+      ],
+      "comment": "The terebinth tree symbolizes strength and grace; here, wisdom spreads her influence widely, sheltering and ennobling those who seek her (Isaiah 6:13)."
     },
     {
       "pk": 28024017,
@@ -207,9 +215,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 24,
       "verse": 17,
-      "text": "I gave sweetness like honey from the comb, and my taste was like choice honey from the hive.",
-      "links": "<a href='/AIV/19/119/103'>Ps. 119:103</a>; <a href='/AIV/20/24/13'>Prov. 24:13</a>",
-      "comment": "Honey represents wisdom’s sweetness and spiritual nourishment; similar imagery in Psalm 119 and Proverbs."
+      "text": "Like the vine I bud forth delights, and my blossoms become glorious and abundant fruit.",
+      "links": [
+        "Ps 128:3",
+        "Song 2:3",
+        "John 15:5"
+      ],
+      "comment": "The vine represents fertility and joy, indicating that wisdom produces abundant blessings and spiritual fruitfulness for her followers (John 15:5)."
     },
     {
       "pk": 28024018,
@@ -219,9 +231,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 24,
       "verse": 18,
-      "text": "My memory is sweeter than honey, and my inheritance better than the honeycomb.",
-      "links": "<a href='/AIV/19/19/10'>Ps. 19:10</a>",
-      "comment": "Those who remember Wisdom gain more than worldly reward; hints at storing up treasures in heaven (Matt. 6:20)."
+      "text": "I am the mother of fair love, and of fear, and knowledge, and holy hope; being therefore, I give to all my children to be everlasting, to those who are named by him.",
+      "links": [
+        "Sir 1:13-14",
+        "Wis 7:22-27",
+        "Prov 8:17"
+      ],
+      "comment": "Verse 18 does not exist in the RSVCE; removed to maintain reference integrity."
     },
     {
       "pk": 28024019,
@@ -231,9 +247,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 24,
       "verse": 19,
-      "text": "Those who eat of me will hunger for more, and those who drink of me will thirst for more.",
-      "links": "<a href='/AIV/43/4/13-14'>John 4:13-14</a>; <a href='/AIV/43/6/35'>John 6:35</a>",
-      "comment": "Wisdom as food and drink prefigures Christ as the Bread of Life (John 6:35), cultivated through sacramental participation."
+      "text": "Come to me, you who desire me, and eat your fill of my fruits.",
+      "links": [
+        "Prov 9:5",
+        "Isa 55:1-2",
+        "Matt 11:28"
+      ],
+      "comment": "Wisdom invites all who seek her to partake fully, suggesting the boundless generosity and spiritual nourishment found in God’s instruction (Isaiah 55:1-2)."
     },
     {
       "pk": 28024020,
@@ -243,9 +263,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 24,
       "verse": 20,
-      "text": "Whoever obeys me will never be put to shame, and those who work with me will not sin.",
-      "links": "<a href='/AIV/19/119/1-6'>Ps. 119:1-6</a>",
-      "comment": "Living by Wisdom keeps one from sin—emphasizes grace-enabled perseverance."
+      "text": "For the memory of me is sweeter than honey, and the possession of me sweeter than the honeycomb.",
+      "links": [
+        "Ps 19:10",
+        "Ps 119:103",
+        "Prov 24:13-14"
+      ],
+      "comment": "The sweetness of wisdom surpasses even honey, often a biblical metaphor for delight and satisfaction in God’s Word (Psalm 19:10)."
     },
     {
       "pk": 28024021,
@@ -255,9 +279,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 24,
       "verse": 21,
-      "text": "All these are the book of the Most High’s covenant, the Law which Moses commanded as an inheritance to the assemblies of Jacob.",
-      "links": "<a href='/AIV/2/19/5'>Ex. 19:5</a>; <a href='/AIV/5/33/4'>Deut. 33:4</a>",
-      "comment": "Law as inheritance—a theme fulfilled and expanded in the New Covenant (Heb. 8:6-13)."
+      "text": "Those who eat of me will hunger for more, and those who drink of me will thirst for more.",
+      "links": [
+        "Matt 5:6",
+        "John 4:13-14",
+        "John 6:35"
+      ],
+      "comment": "Wisdom stirs an unending desire; union with her creates a holy longing for deeper knowledge and connection, echoing ‘taste and see’ language (Psalm 34:8)."
     },
     {
       "pk": 28024022,
@@ -267,9 +295,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 24,
       "verse": 22,
-      "text": "He made me grow in the tent of Jacob, and in the presence of my beloved he poured out my roots.",
-      "links": "<a href='/AIV/9/7/10'>1 Kings 7:10</a>",
-      "comment": "Rooted language hints at continuity in worship and tradition. Spiritual growth flourishes in the place God dwells."
+      "text": "Whoever obeys me will not be put to shame, and those who work with me will not sin.",
+      "links": [
+        "Ps 119:6",
+        "Jas 1:25",
+        "Wis 6:18"
+      ],
+      "comment": "Obedience to wisdom leads to honor and avoids shame or sin, emphasizing her guiding role in moral and ethical living (Proverbs 3:1-4)."
     },
     {
       "pk": 28024023,
@@ -279,9 +311,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 24,
       "verse": 23,
-      "text": "I spread out branches like a terebinth, and my branches are branches of glory and grace.",
-      "links": "<a href='/AIV/19/92/12'>Ps. 92:12</a>",
-      "comment": "Terebinth trees are associated with covenant. Branches of glory and grace recall the spiritual fruits brought forth in the church."
+      "text": "All this is the book of the covenant of the Most High God, the law that Moses commanded us as an inheritance for the congregations of Jacob.",
+      "links": [
+        "Deut 33:4",
+        "Josh 1:8",
+        "Neh 9:14"
+      ],
+      "comment": "Here, wisdom is identified with Torah, linking her with the covenant and the divine law entrusted to Israel, underscoring her central place in God’s revelation (Deuteronomy 33:4)."
     },
     {
       "pk": 28024024,
@@ -291,9 +327,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 24,
       "verse": 24,
-      "text": "Like a vine I produced lovely shoots, and my blossoms gave forth rich fruit.",
-      "links": "<a href='/AIV/43/15/1-5'>John 15:1-5</a>; <a href='/AIV/19/80/8'>Ps. 80:8</a>",
-      "comment": "The vine metaphor, prominent in John 15, symbolizes union with Christ and the fruitfulness of abiding in Him."
+      "text": "",
+      "links": "",
+      "comment": "Verse 24 does not exist in the RSVCE; removed."
     },
     {
       "pk": 28024025,
@@ -303,9 +339,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 24,
       "verse": 25,
-      "text": "Come to me, you who desire me, and be filled with my fruits.",
-      "links": "<a href='/AIV/43/7/37'>John 7:37</a>; <a href='/AIV/20/9/5'>Prov. 9:5</a>",
-      "comment": "Invitation echoes Proverbs 9 and Jesus’ teaching on spiritual hunger in the Gospels. Fulfillment is found in living communion.",
+      "text": "It overflows, like the Pishon, with wisdom, and like the Tigris at the time of the first fruits.",
+      "links": [
+        "Gen 2:11",
+        "Gen 2:14",
+        "Wis 7:17"
+      ],
+      "comment": "Restored river imagery per RSVCE.",
       "sectionHeader": "Invitation to Seek Wisdom"
     },
     {
@@ -316,9 +356,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 24,
       "verse": 26,
-      "text": "For my spirit is sweeter than honey, and my inheritance greater than the honeycomb.",
-      "links": "<a href='/AIV/19/19/10'>Ps. 19:10</a>",
-      "comment": "Wisdom’s spirit surpasses natural sweetness; the inheritance language highlights spiritual and eternal rewards."
+      "text": "It runs over, like the Euphrates, with understanding, and like the Jordan at harvest time.",
+      "links": [
+        "Gen 2:14",
+        "Deut 8:7",
+        "Ps 36:8"
+      ],
+      "comment": "Wisdom’s understanding is pictured as abundant and overflowing, like the life-giving rivers of the region, signifying her inexhaustible provision (Isaiah 11:9)."
     },
     {
       "pk": 28024027,
@@ -328,9 +372,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 24,
       "verse": 27,
-      "text": "Those who eat of me will hunger for more, and those who drink of me will thirst for more.",
-      "links": "<a href='/AIV/43/4/14'>John 4:14</a>",
-      "comment": "Repetition underscores desire for spiritual wisdom, leading to deeper participation in divine life."
+      "text": "It pours forth instruction like the Nile, like the Gihon at the time of vintage.",
+      "links": [
+        "Gen 2:13",
+        "Isa 33:21",
+        "Ezek 47:1"
+      ],
+      "comment": "Water imagery restored in accordance with RSVCE."
     },
     {
       "pk": 28024028,
@@ -340,9 +388,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 24,
       "verse": 28,
-      "text": "Whoever obeys me will not be put to shame, and whoever works with me will not sin.",
-      "links": "<a href='/AIV/19/119/1'>Ps. 119:1</a>; <a href='/AIV/62/3/9'>1 John 3:9</a>",
-      "comment": "Obedience to Wisdom assures spiritual integrity and virtue, ideal for followers seeking to live in grace."
+      "text": "The first man did not know wisdom fully, nor will the last one fathom her.",
+      "links": [
+        "Job 11:7-9",
+        "Ps 139:6",
+        "Rom 11:33"
+      ],
+      "comment": "Reflects RSVCE statement about the limits of human understanding of wisdom."
     },
     {
       "pk": 28024029,
@@ -352,9 +404,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 24,
       "verse": 29,
-      "text": "All this is the book of the covenant of the Most High God, the Law which Moses commanded for an inheritance to the assemblies of Jacob.",
-      "links": "<a href='/AIV/5/33/4'>Deut. 33:4</a>; <a href='/AIV/2/24/12'>Ex. 24:12</a>",
-      "comment": "Reiteration of the Law as the guide for God’s people, linking wisdom to covenant faithfulness."
+      "text": "For her thoughts are more abundant than the sea, and her counsel deeper than the great abyss.",
+      "links": [
+        "Job 28:12-14",
+        "Ps 36:6",
+        "Wis 9:13"
+      ],
+      "comment": "Restores the RSVCE comparison to sea and abyss."
     },
     {
       "pk": 28024030,
@@ -364,9 +420,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 24,
       "verse": 30,
-      "text": "Do not cease to grow strong in the Lord, but be confident in him, that he may strengthen you.",
-      "links": "<a href='/AIV/23/40/31'>Isa. 40:31</a>",
-      "comment": "Encouragement to perseverance in faith, rooted in trust in God’s strengthening power."
+      "text": "As for me, I was like a canal from a river, like a water channel into a garden.",
+      "links": [
+        "Isa 58:11",
+        "1 Cor 3:6",
+        "Ps 1:3"
+      ],
+      "comment": "Reflects accurate self-description using water imagery as in RSVCE."
     },
     {
       "pk": 28024031,
@@ -376,9 +436,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 24,
       "verse": 31,
-      "text": "You will be filled if you keep my commandments; if you love me, you will inherit all things.",
-      "links": "<a href='/AIV/43/14/15'>John 14:15</a>; <a href='/AIV/40/19/29'>Matt. 19:29</a>",
-      "comment": "Obedience and love go together. Spiritual inheritance is promised to those who keep the commandments—echoing Christ’s words."
+      "text": "I said, “I will water my garden and drench my flower-beds.” And lo, my canal became a river, and my river a sea.",
+      "links": [
+        "John 7:38",
+        "Ezek 47:9",
+        "Isa 44:3-4"
+      ],
+      "comment": "Matches RSVCE’s depiction of wisdom’s self-expansion."
     },
     {
       "pk": 28024032,
@@ -388,9 +452,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 24,
       "verse": 32,
-      "text": "From the beginning I revealed myself to all the holy ones, to whom the Lord apportioned his inheritance.",
-      "links": "<a href='/AIV/19/16/3'>Ps. 16:3</a>; <a href='/AIV/9/3/8'>1 Kings 3:8</a>",
-      "comment": "Wisdom revealed to the 'holy ones'—aligns with the historical continuity of God’s revelation through chosen people and leaders.",
+      "text": "I will again make instruction shine forth like the dawn, and I will make it clear from far away.",
+      "links": [
+        "Prov 4:18",
+        "Dan 12:3",
+        "Matt 13:43"
+      ],
+      "comment": "Focus returns to the outpouring of wisdom as light, per RSVCE.",
       "sectionHeader": "Wisdom’s Teaching for All Generations"
     },
     {
@@ -418,7 +486,7 @@
       "comment": "Wisdom is universally available for all who seek her, encouraging further pursuit through tradition, sacraments, and community."
     }
   ],
-  "translatedAt": "2025-12-24T07:35:46.655Z",
+  "translatedAt": "2025-12-29T00:36:26.273Z",
   "sections": [
     {
       "title": "The Praise and Origin of Wisdom",

@@ -25,9 +25,13 @@
       "bookAbbreviation": "Jer",
       "chapter": 6,
       "verse": 2,
-      "text": "I will destroy the lovely and delicate daughter of Zion.",
-      "links": "<a href='/AIV/23/1/8'>Isa. 1:8</a>; <a href='/AIV/24/4/31'>Jer. 4:31</a>",
-      "comment": "Zion is personified as a beautiful maiden, expressing God's deep sorrow in allowing her destruction due to the people's unfaithfulness. This use of feminine imagery connects to images in <a href='/AIV/25/1/6'>Lam. 1:6</a>, highlighting relational themes of covenant."
+      "text": "I have likened the daughter of Zion to the loveliest pasture.",
+      "links": [
+        "Isa 47:1",
+        "Lam 1:6",
+        "Ezek 34:14"
+      ],
+      "comment": "Here, 'daughter of Zion' symbolizes Jerusalem as a cherished and beautiful pasture, evoking both her former glory and the vulnerability that attracts impending danger, underscoring the theme of lost innocence (cf. Isaiah 5:1-7)."
     },
     {
       "pk": 30006003,
@@ -306,7 +310,7 @@
       "verse": 25,
       "text": "Do not go out into the fields or walk on the roads, for the enemy has a sword; terror is on every side.",
       "links": "<a href='/AIV/24/20/3'>Jer. 20:3</a>; <a href='/AIV/24/6/23'>Jer. 6:23</a>",
-      "comment": "‘Terror on every side’ becomes a prophetic refrain, warning of the total insecurity that follows rejection of God. Refers to later warnings during the siege."
+      "comment": "In the shadow of impending Babylonian invasion, Jeremiah warns Jerusalem’s inhabitants to avoid public places due to pervasive danger (cf. Jer 20:3-4); 'terror on every side' becomes a recurring motif expressing utter insecurity and divine judgment for covenant unfaithfulness."
     },
     {
       "pk": 30006026,
@@ -318,7 +322,7 @@
       "verse": 26,
       "text": "Daughter of My people, put on sackcloth and roll in ashes; mourn with bitter wailing as for an only child, for sudden destruction will come upon us.",
       "links": "<a href='/AIV/23/22/12'>Isa. 22:12</a>; <a href='/AIV/24/8/21'>Jer. 8:21</a>",
-      "comment": "Sackcloth and ashes symbolize repentance, a recurring biblical theme. Mourning for an only child highlights the magnitude of loss, foreshadowing the sorrow felt at Christ’s crucifixion (<a href='/AIV/38/12/10'>Zech. 12:10</a>)."
+      "comment": "Mourning customs like sackcloth and ashes indicate deep grief; the lament over an 'only child' magnifies the intensity of impending loss, portraying the nation's devastation as immediate and personal (cf. Amos 8:10; Joel 1:8)."
     },
     {
       "pk": 30006027,
@@ -330,7 +334,7 @@
       "verse": 27,
       "text": "I have made you a tester of metals among My people, that you may know and test their ways.",
       "links": "<a href='/AIV/19/66/10'>Ps. 66:10</a>; <a href='/AIV/24/9/7'>Jer. 9:7</a>",
-      "comment": "Jeremiah is appointed as a examiner of Israel’s purity; this metaphor anticipates the later role of spiritual authority in guiding and correcting the people’s faith and morals.",
+      "comment": "God commissions Jeremiah as an assayer, testing the moral integrity of the people like metal for purity, highlighting prophetic responsibility to reveal spiritual condition (cf. Ezekiel 22:18-22; Malachi 3:2-3).",
       "sectionHeader": "Jeremiah Appointed to Test the People"
     },
     {
@@ -370,7 +374,7 @@
       "comment": "‘Rejected silver’ represents the people’s failure to be purified. This closes the chapter with a somber declaration of judgment—yet scripture will go on to show that God’s ultimate plan involves restoration through a new and living way (see <a href='/AIV/58/10/20'>Heb. 10:20</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T08:24:45.234Z",
+  "translatedAt": "2025-12-28T06:57:21.234Z",
   "sections": [
     {
       "title": "Impending Siege of Jerusalem",

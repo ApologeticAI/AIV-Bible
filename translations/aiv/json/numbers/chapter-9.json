@@ -111,7 +111,11 @@
       "chapter": 9,
       "verse": 9,
       "text": "The LORD spoke to Moses, saying,",
-      "links": "",
+      "links": [
+        "Ex 12:43",
+        "Lev 24:1",
+        "Num 15:1"
+      ],
       "comment": "God continues to provide precise guidance through His appointed mediator."
     },
     {

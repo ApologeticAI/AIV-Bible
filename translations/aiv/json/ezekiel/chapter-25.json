@@ -13,7 +13,11 @@
       "chapter": 25,
       "verse": 1,
       "text": "The word of the Lord came to me, saying:",
-      "links": "",
+      "links": [
+        "Jer 1:4",
+        "Ezek 1:3",
+        "Hos 1:1"
+      ],
       "comment": "This phrase marks the start of a new prophetic message delivered by Ezekiel. The repetition emphasizes the importance of divine revelation and the authority behind the prophet's words. See also <a href='/AIV/26/24/1'>Ezek. 24:1</a>.",
       "sectionHeader": "Prophecy Against Ammon"
     },

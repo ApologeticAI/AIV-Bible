@@ -49,9 +49,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 11,
       "verse": 4,
-      "text": "But tell me the people’s plan, for no one will harm you if you speak truthfully.",
-      "links": "<a href='/AIV/06/2/14'>Josh 2:14</a>",
-      "comment": "This offer for protection if the truth is given mirrors Old Testament examples of cunning and wise negotiation, echoing the narrative with Rahab."
+      "text": "No one will hurt you. Rather, all will treat you well, as they do the servants of my lord King Nebuchadnezzar.",
+      "links": [
+        "Gen 39:4",
+        "Dan 1:9",
+        "Esth 2:17"
+      ],
+      "comment": "Holofernes assures Judith of her safety by appealing to the benevolence extended to those serving Nebuchadnezzar, highlighting ancient customs of honoring envoys and reflecting the high regard for royal authority (cf. Esther 2:9)."
     },
     {
       "pk": 18011005,
@@ -97,9 +101,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 11,
       "verse": 8,
-      "text": "For by your hand, the house of Israel will not stand again against the power of my lord,",
-      "links": "<a href='/AIV/07/7/3'>Judg 7:3</a>",
-      "comment": "Judith speaks with deliberate ambiguity. She prophesies apparent defeat, but is actually setting the stage for a reversal. The motif of seeming defeat followed by deliverance recurs throughout salvation history."
+      "text": "For we have heard of your wisdom and skill, and it is reported throughout the whole world that you alone are the best in the whole kingdom, the most informed and the most astounding in military strategy.",
+      "links": [
+        "1 Kgs 10:1-9",
+        "Sir 44:3-4",
+        "Dan 2:48"
+      ],
+      "comment": "Judith flatters Holofernes, acknowledging his reputation for unparalleled wisdom and military skill, a common diplomatic strategy in the Ancient Near East to win favor and create rapport (cf. 1 Kings 10:1-9 regarding Solomon)."
     },
     {
       "pk": 18011009,
@@ -109,9 +117,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 11,
       "verse": 9,
-      "text": "nor will sword overcome them, unless they sin against their God.",
-      "links": "<a href='/AIV/14/15/2'>2 Chr 15:2</a>; <a href='/AIV/05/28/15'>Deut 28:15</a>",
-      "comment": "Judith bluntly teaches that sin brings defeat, a firm principle in Deuteronomy 28 and echoed in the prophets. God defends His people unless they break His covenant."
+      "text": "Now as for Achior’s speech in your council, we have heard his words, for the people of Bethulia spared him and he told them all he had said to you.",
+      "links": [
+        "Jdt 6:10-14",
+        "Num 22:31-35",
+        "Josh 2:8-14"
+      ],
+      "comment": "Judith references Achior's earlier speech (Judith 5–6), revealing her knowledge of Assyrian council proceedings and positioning herself as trustworthy and well-informed before Holofernes."
     },
     {
       "pk": 18011010,
@@ -121,9 +133,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 11,
       "verse": 10,
-      "text": "But now, in order that my lord may not be defeated and God may not forsake them, I will explain their fault and how they have sinned.",
-      "links": "<a href='/AIV/07/10/6'>Judg 10:6</a>; <a href='/AIV/02/32/7'>Ex 32:7</a>",
-      "comment": "Judith promises to reveal Israel’s sin, mirroring the prophetic role of calling out transgression and acting as an intercessor.",
+      "text": "Therefore, lord and master, do not disregard what he said, but keep it in your mind, for it is true. Indeed our nation cannot be punished, nor can the sword prevail against them, unless they sin against their God.",
+      "links": [
+        "Deut 28:15",
+        "Josh 7:11-12",
+        "Jdt 5:20-21"
+      ],
+      "comment": "Echoing Achior’s testimony, Judith emphasizes a Deuteronomic theme: Israel’s security depends on covenant faithfulness, as God alone permits or restricts their defeat (cf. Deut 28:1, 15; Josh 7:11-12).",
       "sectionHeader": "Judith Reveals Israel’s Plight and Her Plan"
     },
     {
@@ -134,7 +150,7 @@
       "bookAbbreviation": "Jdt",
       "chapter": 11,
       "verse": 11,
-      "text": "They are running short of food and water and have determined to eat things which the Law forbids them,",
+      "text": "But now, so that you, my lord, may not be defeated or have your purpose thwarted, death will come upon them. For a sin has overtaken them, by which they are about to provoke their God to anger when they do what is wrong.",
       "links": "<a href='/AIV/27/1/8'>Dan 1:8</a>; <a href='/AIV/03/11/47'>Lev 11:47</a>",
       "comment": "Reference to the Law’s dietary rules connects to Daniel refusing defiled food (Dan 1:8), emphasizing the holiness present in obedience to sacred law and tradition."
     },
@@ -146,7 +162,7 @@
       "bookAbbreviation": "Jdt",
       "chapter": 11,
       "verse": 12,
-      "text": "so they plan to consume their first fruits and tithes of wine and oil, which they have set apart and not touched, because priests who serve in Jerusalem were forbidden even to touch them.",
+      "text": "Since their food supply is exhausted and their water is almost gone, they have planned to kill their livestock and have resolved to eat whatever God’s laws have forbidden them.",
       "links": "<a href='/AIV/03/2/12'>Lev 2:12</a>; <a href='/AIV/04/18/28-32'>Num 18:28-32</a>",
       "comment": "Observance of sacred offerings is central in the Old Testament (cf. Num 18:28-32). This hints at the purity and mediating role reserved for consecrated ministers, which continues mystically in the tradition of offering."
     },
@@ -158,7 +174,7 @@
       "bookAbbreviation": "Jdt",
       "chapter": 11,
       "verse": 13,
-      "text": "But they have sent people to Jerusalem—since they live there as strangers—to bring them permission from the elders.",
+      "text": "They have decided to consume the first fruits of the grain and the tithes of the wine and oil, which they had consecrated and set aside for the priests who minister in the presence of our God in Jerusalem—things it is not lawful for any of the people even to touch with their hands.",
       "links": "<a href='/AIV/15/10/8'>Ezra 10:8</a>; <a href='/AIV/16/8/1'>Neh 8:1</a>",
       "comment": "The involvement of elders and Jerusalem as the religious center reflects the unity and authority found within the sacred assembly."
     },
@@ -170,7 +186,7 @@
       "bookAbbreviation": "Jdt",
       "chapter": 11,
       "verse": 14,
-      "text": "If they receive no response soon, they will eat these holy things and be destroyed by your hand.",
+      "text": "Since even the people in Jerusalem have been doing this, they have sent messengers there to bring back permission from the council of the elders.",
       "links": "<a href='/AIV/03/22/9'>Lev 22:9</a>",
       "comment": "Eating what is set apart for the sanctuary was seen as a grave offense (Lev 22:9). Maintaining the holiness of offerings is seen as essential for remaining in God's favor—a practice with enduring spiritual meaning."
     },
@@ -182,7 +198,7 @@
       "bookAbbreviation": "Jdt",
       "chapter": 11,
       "verse": 15,
-      "text": "That is why I, your servant, knowing all this, have fled from them. God has sent me to perform with you things that will astonish the whole earth, as many as hear about them.",
+      "text": "When the response reaches them and they act upon it, on that very day they will be given into your hands to be destroyed.",
       "links": "<a href='/AIV/02/9/16'>Exod 9:16</a>;<a href='/AIV/27/6/26-27'>Dan 6:26-27</a>",
       "comment": "God’s wonders are linked to His universal plan of salvation. Miraculous acts are meant to evoke faith across nations, foreshadowing future revelations."
     },
@@ -242,9 +258,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 11,
       "verse": 20,
-      "text": "Your servant is good-looking, and those who will follow me will not be deceived.",
-      "links": "<a href='/AIV/01/39/6'>Gen 39:6</a>; <a href='/AIV/10/14/25'>2 Sam 14:25</a>",
-      "comment": "Judith’s beauty is highlighted, as is often the case with biblical heroines. Outward beauty accompanies inner faithfulness, reminiscent of figures like Esther."
+      "text": "Her words pleased Holofernes and all his servants. They marveled at her wisdom and said,",
+      "links": [
+        "1 Kgs 10:6-9",
+        "Jdt 8:29",
+        "Dan 2:46-47"
+      ],
+      "comment": "Judith’s rhetoric wins admiration from Holofernes and his servants, setting up the dramatic tension between her outward compliance and her true intentions, and foreshadowing the motif of wisdom overcoming might (cf. Prov 21:22)."
     },
     {
       "pk": 18011021,
@@ -254,9 +274,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 11,
       "verse": 21,
-      "text": "This night, my lord, everything that I have spoken to you will be completed.",
-      "links": "<a href='/AIV/06/21/45'>Josh 21:45</a>",
-      "comment": "God’s actions are always fulfilled without fail (Josh 21:45). Judith’s assurance shows unwavering confidence in the Lord's faithfulness."
+      "text": "No other woman from one end of the earth to the other looks so beautiful or speaks so wisely!",
+      "links": [
+        "Esth 2:7",
+        "1 Sam 25:3",
+        "Sir 36:22"
+      ],
+      "comment": "Judith's beauty and eloquence are seen as exceptional, emphasizing the frequent biblical theme of God using unexpected instruments—especially wise women—to achieve deliverance (cf. Esther 2:17; 2 Sam 14:2–20)."
     },
     {
       "pk": 18011022,
@@ -266,9 +290,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 11,
       "verse": 22,
-      "text": "Then Holofernes’ attendants said to him, \"No other woman from one end of the earth to the other looks so beautiful or speaks so wisely.\"",
-      "links": "<a href='/AIV/11/10/23-24'>1 Kgs 10:23-24</a>",
-      "comment": "This praise echoes the worldwide reputation of Solomon’s wisdom and the Queen of Sheba’s reactions (1 Kgs 10:23-24). Physical beauty and wisdom together are seen as signs of divine favor.",
+      "text": "Then Holofernes said to her, “God has done well to send you ahead of the people, to strengthen our hands and bring destruction on those who have despised my lord.”",
+      "links": [
+        "Gen 50:20",
+        "Josh 2:9-11",
+        "Jdt 13:17"
+      ],
+      "comment": "Holofernes interprets Judith's arrival as divinely ordained to aid his campaign, ironically expressing a theological truth inverted from the narrative's actual outcome, reminiscent of Pharaoh's misunderstanding of God's purposes in Exodus 10:1–2.",
       "sectionHeader": "Judith Wins Favor with Holofernes"
     },
     {
@@ -284,7 +312,7 @@
       "comment": "Holofernes’ declaration parallels Ruth's words of conversion (Ruth 1:16), foreshadowing the universality and outreach of the faith. The idea of becoming renowned among all peoples points to God's desire for His truth to reach all nations through the holy example of His servants."
     }
   ],
-  "translatedAt": "2025-12-24T05:05:36.303Z",
+  "translatedAt": "2025-12-28T23:43:43.810Z",
   "sections": [
     {
       "title": "Judith Before Holofernes",

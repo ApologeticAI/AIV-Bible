@@ -194,9 +194,13 @@
       "bookAbbreviation": "Prov",
       "chapter": 11,
       "verse": 16,
-      "text": "A gracious woman gains honor, and ruthless men take wealth.",
-      "links": "<a href='/AIV/20/31/30'>Prov. 31:30</a>; <a href='/AIV/20/22/1'>Prov. 22:1</a>",
-      "comment": "Honor flows from virtue. Contrary to worldly power, Scripture upholds grace and integrity as true sources of greatness."
+      "text": "A gracious woman gets honor, but she who hates virtue is covered with shame. The timid become destitute, but the aggressive gain riches.",
+      "links": [
+        "Prov 12:4",
+        "1 Pet 3:4",
+        "Matt 5:5"
+      ],
+      "comment": "This proverb contrasts virtue and vice, highlighting how graciousness brings social respect—especially significant in the patriarchal culture of ancient Israel—while a lack of moral commitment leads to disgrace; the parallel between timidity and aggression suggests that while passivity may result in poverty, assertiveness (not unrighteous violence) often yields material success (see Proverbs 3:35, 22:4, and Matthew 5:5 for related themes)."
     },
     {
       "pk": 24011017,
@@ -380,7 +384,7 @@
       "comment": "God’s justice is experienced even in this life, but future judgment exceeds this. Peter refers to this reality in his discussion of suffering for righteousness."
     }
   ],
-  "translatedAt": "2025-12-24T06:55:50.382Z",
+  "translatedAt": "2025-12-28T06:58:56.096Z",
   "sections": [
     {
       "title": "The Way of Righteousness and Wickedness",

@@ -146,9 +146,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 9,
       "verse": 12,
-      "text": "Do not rejoice at the death of anyone; remember that we all must die.",
-      "links": "<a href='/AIV/19/49/10'>Ps. 49:10</a>; <a href='/AIV/45/12/15'>Rom. 12:15</a>",
-      "comment": "Promotes humility and reverence for life, echoing New Testament teaching on mercy and universal mortality."
+      "text": "Do not delight in what pleases the ungodly; remember that they will not go unpunished all their lives.",
+      "links": [
+        "Ps 1:1",
+        "Prov 11:21",
+        "Wis 5:1"
+      ],
+      "comment": "Sirach warns against envying or imitating the ways that bring temporary pleasure to the ungodly, emphasizing that divine justice will ultimately render their apparent successes fleeting (cf. Psalm 37:1-2)."
     },
     {
       "pk": 28009013,
@@ -158,9 +162,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 9,
       "verse": 13,
-      "text": "Do not neglect the discourse of the wise; remain in their company as long as you live.",
-      "links": "<a href='/AIV/20/13/20'>Prov. 13:20</a>; <a href='/AIV/58/13/7'>Heb. 13:7</a>",
-      "comment": "This verse highlights respect for spiritual authority and tradition, affirming the need for oral and lived wisdom within the believing community.",
+      "text": "Keep far from those who have power to kill, and you will not be haunted by the fear of death. But if you approach them, be careful not to make a misstep, or they may rob you of your life. Know that you are walking among snares, and that you tread on the city battlements.",
+      "links": [
+        "Prov 22:3",
+        "Eccl 7:17",
+        "Matt 10:28"
+      ],
+      "comment": "This verse counsels prudence around those with lethal power—likely oppressive rulers—advising caution to avoid entanglement in mortal danger, resonating with the wisdom tradition's concern for navigating perilous social realities (cf. Prov 22:3).",
       "sectionHeader": "Seeking Wisdom and the Company of the Righteous"
     },
     {
@@ -171,9 +179,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 9,
       "verse": 14,
-      "text": "Love to listen to every godly discourse, but do not let the sayings of the foolish escape you.",
-      "links": "<a href='/AIV/59/1/19'>Jas. 1:19</a>; <a href='/AIV/20/18/2'>Prov. 18:2</a>",
-      "comment": "Balances openness to truth with discernment, encouraging the faithful to treasure sound doctrine."
+      "text": "As much as you are able, seek to know your neighbors, and consult with the wise.",
+      "links": [
+        "Prov 13:20",
+        "Phil 2:4",
+        "Heb 13:7"
+      ],
+      "comment": "By encouraging knowledge of one's neighbors and consultation with the wise, Sirach highlights the value of community discernment and the importance of seeking counsel for righteous living (cf. Prov 27:17; 13:20)."
     },
     {
       "pk": 28009015,
@@ -195,9 +207,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 9,
       "verse": 16,
-      "text": "Associate with righteous people, and let your life always be with those who you know keep the commandments.",
-      "links": "<a href='/AIV/20/13/20'>Prov. 13:20</a>; <a href='/AIV/58/10/24-25'>Heb. 10:24-25</a>",
-      "comment": "Faithful companionship strengthens virtue and perseverance, a key spiritual principle for building up the community."
+      "text": "Let the righteous be your dinner companions, and let your glory be in the fear of the Lord.",
+      "links": [
+        "Ps 1:1",
+        "Prov 9:10",
+        "2 Cor 6:14"
+      ],
+      "comment": "Companionship with the righteous reinforces virtue and underscores the centrality of the 'fear of the Lord'—a foundational theme in biblical wisdom—over social or worldly status (cf. Psalm 1:1-2)."
     },
     {
       "pk": 28009017,
@@ -207,9 +223,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 9,
       "verse": 17,
-      "text": "Let your heart consider the fear of the Lord, and always seek counsel from wise people.",
-      "links": "<a href='/AIV/20/1/7'>Prov. 1:7</a>; <a href='/AIV/59/1/5'>Jas. 1:5</a>",
-      "comment": "Echoes the wisdom tradition: fearing God is the beginning of wisdom and the believer should continually seek spiritual direction."
+      "text": "A work is praised for the skill of its artisan; so a people's leader is proved wise by his words.",
+      "links": [
+        "Prov 12:8",
+        "Eccl 10:12",
+        "Matt 7:20"
+      ],
+      "comment": "Just as a craftsman's skill brings honor to his work, so a leader's wisdom and eloquence authenticate his fitness to guide others, reflecting the biblical linkage of speech and leadership (cf. Prov 25:11-12)."
     },
     {
       "pk": 28009018,
@@ -219,12 +239,16 @@
       "bookAbbreviation": "Sir",
       "chapter": 9,
       "verse": 18,
-      "text": "Wisdom is praised more than eloquence, and one who is understanding will gain favor in the Lord’s sight.",
-      "links": "<a href='/AIV/20/3/13-18'>Prov. 3:13-18</a>; <a href='/AIV/59/3/13'>Jas. 3:13</a>",
-      "comment": "Prioritizes virtue over mere words, aligning with Christ’s teaching that wisdom and understanding produce authentic favor before God."
+      "text": "The loud-mouthed are feared in their city, and the one who is reckless in speech is hated.",
+      "links": [
+        "Prov 29:11",
+        "Jas 3:6",
+        "Prov 10:19"
+      ],
+      "comment": "Sirach observes the social danger posed by reckless and provocative speech, warning that such behavior breeds fear and animosity in the community, echoing the biblical critique of foolish talk (cf. Prov 29:11)."
     }
   ],
-  "translatedAt": "2025-12-24T07:27:32.746Z",
+  "translatedAt": "2025-12-28T02:27:32.441Z",
   "sections": [
     {
       "title": "Warnings Against Lust and Women",

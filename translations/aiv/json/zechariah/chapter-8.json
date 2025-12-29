@@ -61,7 +61,7 @@
       "bookAbbreviation": "Zech",
       "chapter": 8,
       "verse": 5,
-      "text": "And the streets of the city will be full of boys and girls playing.",
+      "text": "And the streets of the city shall be full of boys and girls playing in its streets.",
       "links": "<a href='/AIV/23/65/19'>Isa. 65:19</a>",
       "comment": "Youthful joy fills Jerusalem; this marks a dramatic reversal of exile and suffering, indicating the fullness of community life and God’s blessing."
     },
@@ -280,7 +280,13 @@
       "bookAbbreviation": "Zech",
       "chapter": 8,
       "verse": 23,
-      "text": "Thus says the LORD of hosts: 'In those days ten men from every language of the nations will take hold of the cloak of a Jew, saying, "
+      "text": "Thus says the LORD of hosts: In those days ten men from nations of every language shall take hold of a Jew, grasping his garment and saying, “Let us go with you, for we have heard that God is with you.”",
+      "links": [
+        "Isa 2:3",
+        "Isa 60:3",
+        "Mic 4:2"
+      ],
+      "comment": "Zechariah 8:23 envisions a future in which nations seek the God of Israel, symbolized by grasping a Jew’s garment—a sign of respect and desire for spiritual guidance—highlighting the prophetic hope of universal inclusion and echoing messianic themes found in Isaiah 2:2-3 and Micah 4:1-2."
     },
     {
       "pk": 45008023,
@@ -290,7 +296,13 @@
       "bookAbbreviation": "Zech",
       "chapter": 8,
       "verse": 23,
-      "text": "'Thus says the LORD of hosts: In those days ten men from all languages and nations will grasp the cloak of one Jew, saying, "
+      "text": "Thus says the LORD of hosts: In those days ten men from nations of every language shall take hold of a Jew, grasping his garment and saying, “Let us go with you, for we have heard that God is with you.”",
+      "links": [
+        "Isa 2:3",
+        "Isa 60:3",
+        "Mic 4:2"
+      ],
+      "comment": "Zechariah 8:23 envisions a future in which nations seek the God of Israel, symbolized by grasping a Jew’s garment—a sign of respect and desire for spiritual guidance—highlighting the prophetic hope of universal inclusion and echoing messianic themes found in Isaiah 2:2-3 and Micah 4:1-2."
     },
     {
       "pk": 45008023,
@@ -300,11 +312,17 @@
       "bookAbbreviation": "Zech",
       "chapter": 8,
       "verse": 23,
-      "text": "Thus says the LORD of hosts: 'In those days ten men from all languages of the nations will take hold of the hem of a Jew’s robe, saying, "
+      "text": "Thus says the LORD of hosts: In those days ten men from nations of every language shall take hold of a Jew, grasping his garment and saying, “Let us go with you, for we have heard that God is with you.”",
+      "links": [
+        "Isa 2:3",
+        "Isa 60:3",
+        "Mic 4:2"
+      ],
+      "comment": "Zechariah 8:23 envisions a future in which nations seek the God of Israel, symbolized by grasping a Jew’s garment—a sign of respect and desire for spiritual guidance—highlighting the prophetic hope of universal inclusion and echoing messianic themes found in Isaiah 2:2-3 and Micah 4:1-2."
     },
     "links"
   ],
-  "translatedAt": "2025-12-24T09:57:20.924Z",
+  "translatedAt": "2025-12-29T00:38:10.555Z",
   "sections": [
     {
       "title": "The Lord’s Zeal and Promise to Zion",

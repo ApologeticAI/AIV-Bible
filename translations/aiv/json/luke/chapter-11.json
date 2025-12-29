@@ -87,7 +87,11 @@
       "chapter": 11,
       "verse": 7,
       "text": "And that person will answer from inside, ‘Don’t bother me; the door is now shut, and my children are with me in bed. I can’t get up and give you anything.’",
-      "links": "",
+      "links": [
+        "Matt 25:10",
+        "Matt 7:7",
+        "Prov 3:28"
+      ],
       "comment": "Despite the inconvenience, the question persistently comes. The scenario echoes human reluctance, contrasting with God’s generosity in response to persistent prayer."
     },
     {
@@ -256,7 +260,11 @@
       "chapter": 11,
       "verse": 21,
       "text": "When a strong man, fully armed, guards his own house, his possessions are safe.",
-      "links": "",
+      "links": [
+        "Matt 12:29",
+        "Mark 3:27",
+        "Isa 49:24"
+      ],
       "comment": "This image represents the state before Christ’s victory—evil seemed unchallenged, but Jesus is the stronger one who defeats it."
     },
     {
@@ -549,7 +557,11 @@
       "chapter": 11,
       "verse": 45,
       "text": "One of the experts in the law answered Him, 'Teacher, in saying these things, You insult us too.'",
-      "links": "",
+      "links": [
+        "Matt 23:13",
+        "Matt 15:12",
+        "John 8:48"
+      ],
       "comment": "Those who interpret the law feel rebuked, indicating how Christ's teachings challenge all, regardless of position."
     },
     {
@@ -585,7 +597,11 @@
       "chapter": 11,
       "verse": 48,
       "text": "So you testify that you approve of the deeds of your fathers, for they killed them, and you build their tombs.",
-      "links": "",
+      "links": [
+        "Matt 23:29-31",
+        "Acts 7:51-52",
+        "1 Thess 2:15-16"
+      ],
       "comment": "By honoring the prophets outwardly, but not embracing their message, the leaders indicate their ongoing complicity."
     },
     {

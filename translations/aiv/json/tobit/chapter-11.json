@@ -136,7 +136,7 @@
       "verse": 11,
       "text": "For you chastised me, but now you have shown me mercy; see, I behold my son Tobias!\"",
       "links": "<a href='/AIV/19/118/18'>Ps. 118:18</a>; <a href='/AIV/58/12/6'>Heb. 12:6</a>",
-      "comment": "God’s correction is always for the purpose of restoration (Hebrews 12:6). The themes of discipline and mercy foreshadow the New Covenant."
+      "comment": "Tobit recognizes God’s discipline and mercy, echoing a common biblical theme (cf. Deut 8:5, Ps 30:5), as his physical sight is restored and he rejoices in seeing his son again—an act symbolizing both healing and reconciliation with God."
     },
     {
       "pk": 17011012,
@@ -220,12 +220,16 @@
       "bookAbbreviation": "Tob",
       "chapter": 11,
       "verse": 18,
-      "text": "Then Tobit lived to see the day when Sara, the wife of his son Tobias, bore him a grandson. In great joy, he saw his descendants before he died.",
-      "links": "<a href='/AIV/1/50/23'>Gen. 50:23</a>; <a href='/AIV/42/2/36'>Luke 2:36</a>",
-      "comment": "This verse concludes with a note of fulfillment—seeing one's grandchildren is a sign of divine favor (Genesis 50:23). The family line continues, reflecting God’s faithfulness to His promises. In a spiritual sense, this foreshadows believers' hope to see the fruit of faith in future generations."
+      "text": "Ahikar and his nephew Nadab were also present to share Tobit’s joy. With merriment they celebrated Tobias’s wedding feast for seven days, and many gifts were given to him.",
+      "links": [
+        "Gen 29:27",
+        "Judg 14:12",
+        "John 2:1"
+      ],
+      "comment": "The seven-day wedding feast reflects ancient Jewish marriage customs (cf. Gen 29:27, Judg 14:12), and the mention of Ahikar and Nadab highlights family solidarity and communal joy in response to God’s providence and the fulfillment of promises."
     }
   ],
-  "translatedAt": "2025-12-24T04:58:29.869Z",
+  "translatedAt": "2025-12-28T02:53:51.626Z",
   "sections": [
     {
       "title": "The Return to Nineveh",

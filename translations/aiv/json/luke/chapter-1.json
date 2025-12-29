@@ -738,7 +738,11 @@
       "chapter": 1,
       "verse": 61,
       "text": "They said to her, 'None of your relatives is called by this name.'",
-      "links": "",
+      "links": [
+        "Gen 17:5",
+        "Gen 21:3",
+        "Luke 1:13"
+      ],
       "comment": "Naming conventions typically followed family lines, but here God’s choice signals a break and a new work."
     },
     {
@@ -750,7 +754,11 @@
       "chapter": 1,
       "verse": 62,
       "text": "So they made signs to his father, asking what he would like him to be called.",
-      "links": "",
+      "links": [
+        "Luke 1:20",
+        "Luke 1:63",
+        "Luke 1:22"
+      ],
       "comment": "Since Zechariah was mute, the crowd seeks his authoritative decision—emphasizing the role of parental consent in Jewish culture."
     },
     {

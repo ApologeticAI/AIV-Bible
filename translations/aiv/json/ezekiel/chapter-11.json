@@ -170,7 +170,11 @@
       "chapter": 11,
       "verse": 14,
       "text": "Then the word of the LORD came to me, saying:",
-      "links": "",
+      "links": [
+        "Jer 1:4",
+        "Ezek 3:16",
+        "Ezek 24:15"
+      ],
       "comment": "A new oracle begins, signaled by the direct speech formula used by prophets.",
       "sectionHeader": "Promise of Restoration for the Exiles"
     },

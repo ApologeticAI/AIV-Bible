@@ -27,7 +27,7 @@
       "verse": 2,
       "text": "Therefore, you correct little by little those who go astray, and you remind them and warn them of the things through which they sin, so that leaving evil behind they may believe in you, O Lord.",
       "links": "<a href='/AIV/20/3/11-12'>Prov. 3:11-12</a>; <a href='/AIV/43/16/8'>John 16:8</a>",
-      "comment": "God’s patience and gradual correction exemplify divine mercy and desire for repentance rather than destruction. Spiritual interpretation: God’s ongoing call to conversion reflects His continuing concern for the salvation of all (see 2 Peter 3:9)."
+      "comment": "This verse reflects God's patient and gradual discipline, emphasizing mercy to lead sinners to repentance (cf. Romans 2:4), and highlights a pedagogy rooted in hope for conversion rather than immediate judgment."
     },
     {
       "pk": 27012003,
@@ -112,7 +112,7 @@
       "verse": 9,
       "text": "It was not because you could not subdue them with one blow, or deliver the wicked over to the righteous in battle;",
       "links": "<a href='/AIV/19/135/10-12'>Ps. 135:10-12</a>; <a href='/AIV/07/7/2'>Judg. 7:2</a>",
-      "comment": "Expresses God’s sovereignty—He is fully able to act decisively, yet chooses mercy and gradual correction."
+      "comment": "The author underscores God's sovereign power, noting that restraint in judgment is not due to inability but chosen purpose, pointing to divine mercy and patience as seen in Exodus 34:6."
     },
     {
       "pk": 27012010,
@@ -134,9 +134,13 @@
       "bookAbbreviation": "Wis",
       "chapter": 12,
       "verse": 11,
-      "text": "for they were accursed from the beginning, neither to be feared nor pardoned.",
-      "links": "<a href='/AIV/01/9/6'>Gen. 9:6</a>; <a href='/AIV/03/20/23'>Lev. 20:23</a>",
-      "comment": "The curse is a result of entrenched opposition to God’s goodness. It is not arbitrary, but a consequence of persistent rejection of divine mercy."
+      "text": "For they were an accursed race from the beginning, and it was not out of fear of anyone that you left them unpunished for their sins.",
+      "links": [
+        "Gen 15:16",
+        "Deut 7:25-26",
+        "Rom 1:18"
+      ],
+      "comment": "God's delay in punishment for the 'accursed race' (often interpreted as Canaanites) illustrates divine justice unclouded by fear or favoritism, suggesting the judgment was according to God's time and purpose (cf. Genesis 15:16)."
     },
     {
       "pk": 27012012,
@@ -292,9 +296,13 @@
       "bookAbbreviation": "Wis",
       "chapter": 12,
       "verse": 24,
-      "text": "for though they practiced hatred toward outsiders, worshiped strange powers, and performed deeds of impiety, you did not destroy them quickly, but gave them time and place to turn away from their wrongs.",
-      "links": "<a href='/AIV/05/18/9-14'>Deut. 18:9-14</a>; <a href='/AIV/24/18/7-8'>Jer. 18:7-8</a>",
-      "comment": "God’s patience stands in sharp contrast to the harshness of human judgment; His waiting opens the door to repentance. Spiritual interpretation: The mercy shown here presages Jesus’s teachings on forgiveness.",
+      "text": "For they wandered far astray on the paths of error, accepting as gods those animals that even their enemies despised; they were deceived like foolish children.",
+      "links": [
+        "Rom 1:22-23",
+        "Lev 11:13",
+        "Isa 44:9-20"
+      ],
+      "comment": "This passage critiques idolatry, referencing cultures who worshipped animals (possibly Egyptian practices, cf. Exodus 8:26), and portrays idolatrous thinking as childish and foolish, disconnected from true wisdom.",
       "sectionHeader": "Punishment and Mercy for the Wicked"
     },
     {
@@ -319,7 +327,7 @@
       "verse": 26,
       "text": "As you punished them for childish reasoning, you sent terrifying judgment on those who failed to heed correction.",
       "links": "<a href='/AIV/23/66/4'>Isa. 66:4</a>; <a href='/AIV/40/11/21-24'>Matt. 11:21-24</a>",
-      "comment": "There is a cost to rejecting God’s correction. God’s judgment is a last resort after persistent hard-heartedness. Spiritual: Jesus likewise warned about ignoring the calls to repentance."
+      "comment": "This verse highlights God's pedagogical approach, punishing nations for immature, irrational idolatry while reserving more severe judgments for obstinate refusal to repent; it echoes themes found in Romans 1:21-24 and Proverbs 1:22-31, emphasizing divine patience and justice in moral formation."
     },
     {
       "pk": 27012027,
@@ -329,12 +337,16 @@
       "bookAbbreviation": "Wis",
       "chapter": 12,
       "verse": 27,
-      "text": "But if these did not themselves perish in anger, they learned that your people were indeed favored; for after they experienced punishment, they sought the same mercy previously scorned.",
-      "links": "<a href='/AIV/19/106/44-46'>Ps. 106:44-46</a>; <a href='/AIV/42/15/17-24'>Luke 15:17-24</a>",
-      "comment": "God’s merciful discipline caused some to seek the forgiveness they once rejected. The narrative closes affirming divine preference and mercy over the chosen people, yet always with the universal call to repent and return."
+      "text": "For when, in their suffering, they were angered at the creatures they had thought to be gods, being punished by means of them, they saw and recognized as the true God the one whom they had previously refused to know. Therefore, the utmost condemnation came upon them.",
+      "links": [
+        "Ex 12:12",
+        "Deut 32:37-39",
+        "Isa 45:20"
+      ],
+      "comment": "Punishment through their idols exposed the impotence of false gods, leading some to eventually recognize the true God—a motif paralleling narratives like Exodus 12:12 and 1 Kings 18, where God's superiority is revealed through judgment on idolatry."
     }
   ],
-  "translatedAt": "2025-12-24T07:19:48.266Z",
+  "translatedAt": "2025-12-28T03:00:13.920Z",
   "sections": [
     {
       "title": "God’s Mercy and Patient Correction",

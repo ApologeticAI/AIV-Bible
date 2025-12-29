@@ -87,7 +87,11 @@
       "chapter": 5,
       "verse": 7,
       "text": "For one will scarcely die for a righteous person—though perhaps for a good person one would even dare to die—",
-      "links": "",
+      "links": [
+        "John 15:13",
+        "1 John 3:16",
+        "Isa 53:5"
+      ],
       "comment": "Paul contrasts human love with divine love. Rare sacrifices for upright people exist, but what follows shows God's love is greater."
     },
     {
@@ -196,7 +200,11 @@
       "chapter": 5,
       "verse": 16,
       "text": "Nor is the gift like the result of that one man's sin. For the judgment following one trespass brought condemnation, but the free gift following many trespasses brought justification.",
-      "links": "",
+      "links": [
+        "Rom 5:18",
+        "1 Cor 15:22",
+        "Isa 53:11"
+      ],
       "comment": "While Adam’s sin led to widespread condemnation, Christ’s gift extends justification even after countless sins. The effectiveness of Christ’s work far surpasses the effects of Adam's fall."
     },
     {

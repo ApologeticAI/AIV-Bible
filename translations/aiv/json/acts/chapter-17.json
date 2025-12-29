@@ -98,7 +98,11 @@
       "chapter": 17,
       "verse": 8,
       "text": "The city officials and the crowd were disturbed when they heard these things.",
-      "links": "",
+      "links": [
+        "Acts 16:20-22",
+        "Acts 19:28-29",
+        "Acts 21:27-31"
+      ],
       "comment": "The gospel message provokes strong reactions, reflecting how the announcement of Jesus’ kingship challenged both religious and civic authorities."
     },
     {
@@ -110,7 +114,11 @@
       "chapter": 17,
       "verse": 9,
       "text": "And when they had taken security from Jason and the rest, they let them go.",
-      "links": "",
+      "links": [
+        "Acts 16:39",
+        "Acts 17:6",
+        "Acts 18:17"
+      ],
       "comment": "Bail or security was taken; this hints at the risk and cost involved for early Christians, even for those who supported the missionaries."
     },
     {
@@ -147,7 +155,11 @@
       "chapter": 17,
       "verse": 12,
       "text": "Many of them therefore believed, with not a few Greek women of high standing as well as men.",
-      "links": "",
+      "links": [
+        "Acts 13:48",
+        "John 7:48",
+        "Gal 3:28"
+      ],
       "comment": "Both Jews and Greeks respond in faith, including prominent women, illustrating God’s call to all social classes and the growing universality of the new covenant community."
     },
     {
@@ -159,7 +171,11 @@
       "chapter": 17,
       "verse": 13,
       "text": "But when the Jews from Thessalonica learned that the word of God was proclaimed by Paul at Berea also, they came there too, agitating and stirring up the crowds.",
-      "links": "",
+      "links": [
+        "Acts 14:2",
+        "Acts 17:5",
+        "1 Thess 2:14-16"
+      ],
       "comment": "Persistent opposition to the message of Christ followed the apostles from city to city, reflecting the suffering that often marks the journey of proclaiming truth."
     },
     {
@@ -183,7 +199,11 @@
       "chapter": 17,
       "verse": 15,
       "text": "Those who escorted Paul brought him as far as Athens, and after receiving instructions for Silas and Timothy to come to him as soon as possible, they departed.",
-      "links": "",
+      "links": [
+        "Acts 18:5",
+        "Acts 20:4",
+        "1 Thess 3:1-2"
+      ],
       "comment": "Paul’s companions are sent for, revealing the value of team ministry and the bonds of fellowship in early missionary work."
     },
     {
@@ -208,7 +228,11 @@
       "chapter": 17,
       "verse": 17,
       "text": "So he reasoned in the synagogue with the Jews and the devout persons, and in the marketplace every day with those who happened to be there.",
-      "links": "",
+      "links": [
+        "Acts 9:20",
+        "Acts 13:14-16",
+        "Acts 19:8-9"
+      ],
       "comment": "Paul adapts his approach, discussing faith with both Jews and Gentiles in different settings, showing an incarnational mission strategy that meets people where they are."
     },
     {
@@ -219,9 +243,13 @@
       "bookAbbreviation": "Acts",
       "chapter": 17,
       "verse": 18,
-      "text": "Some of camera Epicurean and Stoic philosophers also began to debate with him. Some said, 'What does this babbler wish to say?' Others said, 'He seems to be a preacher of foreign divinities,' because he was preaching Jesus and the resurrection.",
-      "links": "<a href='/AIV/44/4/2'>Acts 4:2</a>",
-      "comment": "Paul’s preaching is misunderstood as introducing new gods, yet focuses on Jesus and the resurrection. High Christology: resurrection affirms Jesus’ divine authority and uniqueness."
+      "text": "Some of the Epicurean and Stoic philosophers also began to debate with him. Some said, 'What does this babbler wish to say?' Others said, 'He seems to be a preacher of foreign divinities,' because he was preaching Jesus and the resurrection.",
+      "links": [
+        "1 Cor 1:23",
+        "Acts 26:24-25",
+        "Acts 4:2"
+      ],
+      "comment": "Paul's encounter with Epicurean and Stoic philosophers in Athens reflects the city's reputation as a center of philosophical thought; his message about Jesus and the resurrection was novel to them, leading to misunderstanding and accusations of preaching foreign gods—similar to charges faced by Socrates (Acts 17:31; 1 Corinthians 1:23)."
     },
     {
       "pk": 51017019,
@@ -244,7 +272,11 @@
       "chapter": 17,
       "verse": 20,
       "text": "For you bring some strange things to our ears. We want to know what these things mean.'",
-      "links": "",
+      "links": [
+        "Isa 52:15",
+        "Acts 25:19-20",
+        "2 Tim 4:3"
+      ],
       "comment": "Curiosity about the gospel opens the door for Paul’s apologetic address. Christianity both challenges and fulfills the deepest philosophies of humankind."
     },
     {
@@ -256,7 +288,11 @@
       "chapter": 17,
       "verse": 21,
       "text": "Now all the Athenians and the foreigners who lived there would spend their time in nothing except telling or hearing something new.",
-      "links": "",
+      "links": [
+        "2 Tim 4:3-4",
+        "Eccl 1:9",
+        "Rom 1:22"
+      ],
       "comment": "Athens was known for its pursuit of new ideas; sets the context for Paul's approach to engage with their philosophical curiosity."
     },
     {
@@ -268,7 +304,11 @@
       "chapter": 17,
       "verse": 22,
       "text": "So Paul, standing in the midst of the Areopagus, said, 'Men of Athens, I see that in every way you are very religious.",
-      "links": "",
+      "links": [
+        "Acts 17:16",
+        "Acts 25:7",
+        "Rom 1:21-23"
+      ],
       "comment": "Paul begins by affirming their religious devotion, building common ground. His rhetoric is respectful yet will move toward challenging idolatry."
     },
     {
@@ -280,7 +320,11 @@
       "chapter": 17,
       "verse": 23,
       "text": "For as I passed along and observed the objects of your worship, I also found an altar with this inscription, ‘To an unknown god.’ What therefore you worship as unknown, this I proclaim to you.",
-      "links": "",
+      "links": [
+        "John 4:22",
+        "Acts 14:15",
+        "1 Cor 8:6"
+      ],
       "comment": "Paul uses the altar ‘to an unknown god’ as a bridge to introduce the true God, fulfilling the philosophical search for the divine. See Rom. 1:19-20."
     },
     {
@@ -340,7 +384,11 @@
       "chapter": 17,
       "verse": 28,
       "text": "For ‘In him we live and move and have our being’; as even some of your poets have said, ‘For we are indeed his offspring.’",
-      "links": "",
+      "links": [
+        "Job 12:10",
+        "Col 1:17",
+        "Titus 1:12"
+      ],
       "comment": "Paul quotes Greek poets to affirm truths consistent with revelation: all life depends on God. In Christ, believers are made children of God. See John 1:12."
     },
     {
@@ -400,7 +448,11 @@
       "chapter": 17,
       "verse": 33,
       "text": "So Paul went out from their midst.",
-      "links": "",
+      "links": [
+        "Matt 10:14",
+        "Acts 18:6",
+        "Acts 28:25"
+      ],
       "comment": "Paul departs, leaving the message for the Spirit to work in the hearts of hearers. Not all conversions are immediate but the seed is sown."
     },
     {
@@ -412,11 +464,15 @@
       "chapter": 17,
       "verse": 34,
       "text": "But some men joined him and believed, among whom also were Dionysius the Areopagite and a woman named Damaris, and others with them.",
-      "links": "",
+      "links": [
+        "John 1:12",
+        "Acts 14:1",
+        "1 Cor 1:26"
+      ],
       "comment": "Even in a city famed for skepticism, the gospel’s power draws converts. Entry into the gathered community through faith is always personal and involves commitment. The role of prominent converts hints at the later importance of orderly succession and unity under apostolic teaching."
     }
   ],
-  "translatedAt": "2025-12-24T11:28:19.231Z",
+  "translatedAt": "2025-12-25T13:53:45.022Z",
   "sections": [
     {
       "title": "Paul and Silas in Thessalonica",

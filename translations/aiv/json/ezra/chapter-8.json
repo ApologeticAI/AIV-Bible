@@ -169,9 +169,13 @@
       "bookAbbreviation": "Ezra",
       "chapter": 8,
       "verse": 14,
-      "text": "from the descendants of Bigvai: Uthai and Zabbud, and 70 men with them.",
-      "links": "<a href='/AIV/15/2/14'>Ezra 2:14</a>",
-      "comment": "These names round out the list, closing the census of those faithfully returning. The accuracy reflects the orderly nature that characterizes the people of God."
+      "text": "from the descendants of Bigvai: Uthai and Zaccur, and seventy men with them.",
+      "links": [
+        "Ezra 2:14",
+        "Neh 7:19",
+        "Ezra 8:3"
+      ],
+      "comment": "This verse records the inclusion of Uthai, Zaccur, and seventy men from the lineage of Bigvai, highlighting the detailed census of returnees and illustrating the importance of genealogical continuity for the restoration of the Jewish community (cf. Ezra 2:14; Nehemiah 7:19)."
     },
     {
       "pk": 15008015,
@@ -442,7 +446,7 @@
       "comment": "The cooperation of civil authorities with temple leadership shows the harmony of sacred and secular spheres, and the necessity of submission to legitimate authority for the welfare of God’s people."
     }
   ],
-  "translatedAt": "2025-12-24T04:44:40.943Z",
+  "translatedAt": "2025-12-28T06:57:07.310Z",
   "sections": [
     {
       "title": "List of Those Returning with Ezra",

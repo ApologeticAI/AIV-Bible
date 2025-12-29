@@ -13,7 +13,11 @@
       "chapter": 12,
       "verse": 1,
       "text": "Then Job responded and said:",
-      "links": "",
+      "links": [
+        "Job 6:1",
+        "Job 8:1",
+        "Job 9:1"
+      ],
       "comment": "Job begins his reply to his friends, shifting from defense to irony and direct critique.",
       "sectionHeader": "Job Rebukes His Friends' Wisdom"
     },

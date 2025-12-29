@@ -63,7 +63,7 @@
       "verse": 5,
       "text": "But they will never follow a stranger; in fact, they will run away from him, because they do not recognize the voice of strangers.",
       "links": "<a href='/AIV/41/13/22'>Mark 13:22</a>",
-      "comment": "True believers are able to discern between truth and error. Spiritual discernment is a recurring biblical theme (see Mark 13:22), emphasizing fidelity to the authentic shepherd."
+      "comment": "In the context of ancient shepherding, sheep instinctively distinguish the voice of their own shepherd from others; spiritually, Jesus illustrates how true believers discern and reject teachings and leaders that do not align with God’s truth (cf. John 10:27, 1 John 4:1-6)."
     },
     {
       "pk": 50010006,
@@ -411,7 +411,13 @@
       "bookAbbreviation": "John",
       "chapter": 10,
       "verse": 34,
-      "text": "Jesus answered them, 'Is it not written in your Law, "
+      "text": "Jesus answered them, 'Is it not written in your Law, ",
+      "comment": "Jesus cites Psalm 82:6, challenging His accusers by showing that even their Law uses the term 'gods' for human judges, underscoring His point that claiming to be God's Son is not blasphemous in light of scriptural precedent (cf. Psalm 82:6, John 10:35-36).",
+      "links": [
+        "Ps 82:6",
+        "Ex 21:6",
+        "John 15:25"
+      ]
     },
     {
       "pk": 50010035,

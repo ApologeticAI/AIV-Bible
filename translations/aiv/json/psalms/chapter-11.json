@@ -74,9 +74,13 @@
       "bookAbbreviation": "Ps",
       "chapter": 11,
       "verse": 6,
-      "text": "On the wicked he will rain snares; fire and sulfur and a scorching wind shall be the portion of their cup.",
-      "links": "<a href='/AIV/19/18/13'>Ps. 18:13</a>; <a href='/AIV/19/75/8'>Ps. 75:8</a>; <a href='/AIV/1/19/24'>Gen. 19:24</a>",
-      "comment": "The imagery recalls God's judgment on Sodom and Gomorrah (<a href='/AIV/1/19/24'>Gen. 19:24</a>). The 'cup' is a biblical symbol for one's destiny or lot, later used by Jesus when referring to His passion (<a href='/AIV/42/22/42'>Luke 22:42</a>). There is a theme here that judgment is a natural consequence for rejecting God's ways, reinforcing the concept of divine justice."
+      "text": "On the wicked he will rain coals of fire and sulfur; a scorching wind shall be the portion of their cup.",
+      "links": [
+        "Gen 19:24",
+        "Ps 75:8",
+        "Rev 14:10"
+      ],
+      "comment": "This imagery recalls the destruction of Sodom and Gomorrah (Genesis 19:24), depicting divine judgment through fire, sulfur, and wind—symbols of total ruin, emphasizing God's justice against the wicked, and paralleling similar judgment motifs in Isaiah 30:33 and Revelation 14:10."
     },
     {
       "pk": 23011007,
@@ -91,7 +95,7 @@
       "comment": "The promise to 'see his face' foreshadows the ultimate hope of direct communion with the LORD, a theme that is fully realized in New Testament revelation (<a href='/AIV/66/22/4'>Rev. 22:4</a>). The connection between righteousness and seeing God points to both faith and works together, reflecting the all-encompassing call to holiness. There is a spiritual sense here that God's grace draws His people into full and lasting fellowship with Him."
     }
   ],
-  "translatedAt": "2025-12-24T06:02:18.064Z",
+  "translatedAt": "2025-12-28T06:58:58.849Z",
   "sections": [
     {
       "title": "Trust in the Lord Amid Persecution",

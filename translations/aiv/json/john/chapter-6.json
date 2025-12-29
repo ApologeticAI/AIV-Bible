@@ -712,7 +712,11 @@
       "chapter": 6,
       "verse": 59,
       "text": "Jesus said these things while teaching in the synagogue in Capernaum.",
-      "links": "",
+      "links": [
+        "Matt 4:13",
+        "Mark 1:21",
+        "Luke 4:31"
+      ],
       "comment": "Publicly teaching in the synagogue adds to the weight of His statements, placing them in a context of worship and communal gathering, subtly alluding to the centrality of worship in the faith."
     },
     {

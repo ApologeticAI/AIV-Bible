@@ -61,9 +61,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 10,
       "verse": 5,
-      "text": "The prosperity of a man is in the hand of the Lord; he covers the face of the scribe with shame, and he will lift up his head.",
-      "links": "<a href='/AIV/19/107/40-41'>Ps. 107:40-41</a>; <a href='/AIV/20/29/23'>Prov. 29:23</a>",
-      "comment": "God alone ordains success and humbles the proud. The scribe, a teacher of the law, is only honored through God’s will—hinting at the sanctity of those who teach right doctrine."
+      "text": "Human success is in the hand of the Lord, and it is he who confers honor upon the lawgiver.",
+      "links": [
+        "1 Sam 2:7",
+        "Dan 2:21",
+        "Rom 13:1"
+      ],
+      "comment": "This verse affirms divine sovereignty over human affairs, stressing that honor and authority—even of judges or lawmakers—ultimately derive from God (cf. Proverbs 21:1)."
     },
     {
       "pk": 28010006,
@@ -73,9 +77,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 10,
       "verse": 6,
-      "text": "Do not be angry with your neighbor for every wrong, and do not act out your anger with violence.",
-      "links": "<a href='/AIV/40/5/22'>Matt. 5:22</a>; <a href='/AIV/20/19/11'>Prov. 19:11</a>",
-      "comment": "The call to slow anger reflects Jesus’ commands against wrath (Matt. 5:22). This virtue is a prerequisite for true reconciliation and peace, essential elements of the Church’s teachings on forgiveness."
+      "text": "Do not get angry with your neighbor for every injury, and do not resort to acts of insolence.",
+      "links": [
+        "Lev 19:18",
+        "Prov 20:22",
+        "Matt 5:39"
+      ],
+      "comment": "Here, wisdom is linked with restraint: harboring anger or returning insults only fuels discord, undermining community harmony (cf. Leviticus 19:18)."
     },
     {
       "pk": 28010007,
@@ -122,9 +130,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 10,
       "verse": 10,
-      "text": "A long illness makes a person forget pride; even a mighty man can die.",
-      "links": "<a href='/AIV/18/14/1-2'>Job 14:1-2</a>; <a href='/AIV/19/39/5-6'>Ps. 39:5-6</a>",
-      "comment": "Suffering and illness teach dependence on God rather than self. The Christian response to suffering is not despair, but trust in divine mercy."
+      "text": "A long illness baffles the physician; the king of today will die tomorrow.",
+      "links": [
+        "Job 14:1-2",
+        "Ps 146:3-4",
+        "Jas 4:14"
+      ],
+      "comment": "Human mortality levels all status; both physician and king are limited and subject to death, underscoring the fleeting nature of earthly power (cf. Psalm 146:3-4)."
     },
     {
       "pk": 28010011,
@@ -134,9 +146,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 10,
       "verse": 11,
-      "text": "When a person has died, he inherits worms and decay, and his pride is forgotten.",
-      "links": "<a href='/AIV/14/21/16'>2Chr. 21:16</a>; <a href='/AIV/20/11/2'>Prov. 11:2</a>",
-      "comment": "Earthly honors fade. This prepares the soul for the sobering reality of judgment, which calls for humility and readiness through works of mercy."
+      "text": "For when one is dead he inherits maggots and vermin and worms.",
+      "links": [
+        "Job 21:26",
+        "Isa 14:11",
+        "Acts 13:36"
+      ],
+      "comment": "Death reduces everyone to the same state, vividly described with references to decay and mortality (cf. Ecclesiastes 12:7; Job 21:26)."
     },
     {
       "pk": 28010012,
@@ -158,7 +174,7 @@
       "bookAbbreviation": "Sir",
       "chapter": 10,
       "verse": 13,
-      "text": "For pride brings disaster, and eventually God brings its destruction.",
+      "text": "For the beginning of pride is sin, and the one who clings to it pours out abominations. Therefore the Lord brings upon them unheard-of calamities, and destroys them completely.",
       "links": "<a href='/AIV/20/16/18'>Prov. 16:18</a>; <a href='/AIV/23/2/11-12'>Isa. 2:11-12</a>",
       "comment": "The repeated biblical warning against pride underscores God’s desire for a contrite heart. Disaster resulting from pride is a motif throughout Scripture, culminating in the need for repentance."
     },
@@ -194,9 +210,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 10,
       "verse": 16,
-      "text": "The Lord has wiped out the memory of proud rulers and established the lowly in perpetuity.",
-      "links": "<a href='/AIV/19/9/6'>Ps. 9:6</a>; <a href='/AIV/20/10/7'>Prov. 10:7</a>",
-      "comment": "History testifies to God’s judgment on arrogance. Being remembered forever is a spiritual promise, alluding to the honor given to saints and those who live humble service."
+      "text": "The Lord lays waste the lands of the nations, and destroys them to the foundations of the earth.",
+      "links": [
+        "Deut 9:5",
+        "Jer 18:7",
+        "Dan 2:21"
+      ],
+      "comment": "God’s judgment over nations reveals His ultimate authority over the rise and fall of empires, a theme common in prophetic literature (cf. Isaiah 40:15; Daniel 2:21)."
     },
     {
       "pk": 28010017,
@@ -206,7 +226,7 @@
       "bookAbbreviation": "Sir",
       "chapter": 10,
       "verse": 17,
-      "text": "Pride was not created for humanity, nor fierce anger for those born of women.",
+      "text": "He removes some of them and destroys them, and erases the memory of them from the earth.",
       "links": "<a href='/AIV/20/8/13'>Prov. 8:13</a>; <a href='/AIV/26/28/13'>Ezek. 28:13</a>",
       "comment": "God’s design for human nature excludes pride and rage. Holiness, humility, and peace reflect the image of Christ."
     },
@@ -218,9 +238,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 10,
       "verse": 18,
-      "text": "What race has honor? The human race. What race has honor among them? Those who fear the Lord. What race has no honor? Those who break the commandments.",
-      "links": "<a href='/AIV/19/25/12'>Ps. 25:12</a>; <a href='/AIV/20/1/7'>Prov. 1:7</a>",
-      "comment": "Honor is found not in ancestry, but in reverence for God and obedience. This teaches the universality of God’s call—every nation invited, but distinguished by obedience and fear of the Lord.",
+      "text": "Pride was not created for human beings, or violent anger for those born of women.",
+      "links": [
+        "Prov 16:18",
+        "Jas 1:20",
+        "Wis 2:23-24"
+      ],
+      "comment": "Pride and violent anger are portrayed as foreign to human purpose; humility and self-control are central virtues God desires (cf. Proverbs 16:18; Galatians 5:20-23).",
       "sectionHeader": "Honor and True Greatness"
     },
     {
@@ -231,7 +255,7 @@
       "bookAbbreviation": "Sir",
       "chapter": 10,
       "verse": 19,
-      "text": "The leader is honored among his brothers, but the Lord’s fear is greater than both.",
+      "text": "Whose offspring are worthy of honor? Human offspring. Whose offspring are worthy of honor? Those who fear the Lord. Whose offspring are unworthy of honor? Human offspring. Whose offspring are unworthy of honor? Those who break the commandments.",
       "links": "<a href='/AIV/20/15/33'>Prov. 15:33</a>; <a href='/AIV/20/22/4'>Prov. 22:4</a>",
       "comment": "Human leadership is valuable, yet fearing the Lord ranks higher. This echoes the spiritual principle of humility and obedience to God above all."
     },
@@ -243,7 +267,7 @@
       "bookAbbreviation": "Sir",
       "chapter": 10,
       "verse": 20,
-      "text": "The rich, the honorable, and the poor—one can glory in fearing the Lord.",
+      "text": "Among family members their leader is worthy of honor, but those who fear the Lord are worthy of honor in his eyes.",
       "links": "<a href='/AIV/20/14/31'>Prov. 14:31</a>; <a href='/AIV/19/34/9'>Ps. 34:9</a>",
       "comment": "Social distinctions are secondary to reverence for God. The spiritual riches found in holy fear surpass all worldly status."
     },
@@ -255,9 +279,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 10,
       "verse": 21,
-      "text": "It is not right to despise the poor or to honor the sinner.",
-      "links": "<a href='/AIV/20/17/5'>Prov. 17:5</a>; <a href='/AIV/59/2/5'>Jas. 2:5</a>",
-      "comment": "Both poverty and sin are to be understood within the context of God’s mercy. The poor are to be respected, and sinners admonished, reflecting the community responsibility found in the Church."
+      "text": "The beginning of human pride is to forsake the Lord; the heart has withdrawn from its Maker.",
+      "links": [
+        "Deut 8:14",
+        "Hos 13:6",
+        "Rom 1:21"
+      ],
+      "comment": "This verse is missing or omitted in some manuscripts, highlighting possible textual variations in ancient wisdom literature."
     },
     {
       "pk": 28010022,
@@ -267,9 +295,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 10,
       "verse": 22,
-      "text": "The noble, the judge, and the ruler are to be honored, but none is greater than the one who fears the Lord.",
-      "links": "<a href='/AIV/19/111/10'>Ps. 111:10</a>; <a href='/AIV/20/19/23'>Prov. 19:23</a>",
-      "comment": "Fear of the Lord surpasses all human rank. Within the community of believers, spiritual virtue takes precedence over worldly title."
+      "text": "The rich, and the eminent, and the poor — their glory is the fear of the Lord.",
+      "links": [
+        "Prov 22:2",
+        "Acts 10:34-35",
+        "Ps 112:1"
+      ],
+      "comment": "Regardless of social status, true 'glory' is found in reverence for God, echoing the idea that the 'fear of the Lord' is the foundation of wisdom (cf. Proverbs 9:10)."
     },
     {
       "pk": 28010023,
@@ -279,9 +311,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 10,
       "verse": 23,
-      "text": "The wise steward among his people guards himself against shame, but the bold and shameless will be hated.",
-      "links": "<a href='/AIV/20/12/16'>Prov. 12:16</a>; <a href='/AIV/20/29/9'>Prov. 29:9</a>",
-      "comment": "True wisdom involves restraint and self-control. Spiritual stewardship is key for those who are entrusted with responsibility in the Church."
+      "text": "It is not right to despise one who is intelligent but poor, and it is not proper to honor one who is sinful.",
+      "links": [
+        "Prov 14:21",
+        "Jas 2:2-4",
+        "1 Sam 2:30"
+      ],
+      "comment": "Human worth is not tied to wealth or status but to integrity and righteousness; it is misguided to honor the sinful and disregard the wise poor (cf. James 2:1-5)."
     },
     {
       "pk": 28010024,
@@ -291,7 +327,7 @@
       "bookAbbreviation": "Sir",
       "chapter": 10,
       "verse": 24,
-      "text": "Honor is due to the rich, the wise, and the diligent worker, but greater honor is reserved for those who fear the Lord.",
+      "text": "The prince and the judge and the ruler are honored, but none of them is greater than the one who fears the Lord.",
       "links": "<a href='/AIV/20/3/35'>Prov. 3:35</a>; <a href='/AIV/19/112/1'>Ps. 112:1</a>",
       "comment": "God rewards both the successful and the spiritual, but those who devote themselves to holiness are given greater dignity—pointing to the special place of saints in the community."
     },
@@ -303,9 +339,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 10,
       "verse": 25,
-      "text": "A poor person who has wisdom lifts his head high and sits among the great.",
-      "links": "<a href='/AIV/20/17/2'>Prov. 17:2</a>; <a href='/AIV/42/14/10'>Luke 14:10</a>",
-      "comment": "Wisdom, not wealth, brings true exaltation. This prefigures Christ’s assertion that the last will be first (Luke 14:10), and the humble raised up."
+      "text": "Free citizens will serve a wise servant, and an intelligent person will not complain.",
+      "links": [
+        "Prov 17:2",
+        "Gen 41:38-41",
+        "Matt 24:45-47"
+      ],
+      "comment": "Wisdom surpasses social position: a wise servant may gain leadership, while the prudent refrain from grumbling, showing virtue transcends status (cf. Proverbs 17:2)."
     },
     {
       "pk": 28010026,
@@ -315,9 +355,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 10,
       "verse": 26,
-      "text": "Do not seek what is above you, nor examine matters beyond your strength.",
-      "links": "<a href='/AIV/45/11/33'>Rom. 11:33</a>; <a href='/AIV/21/7/14'>Eccl. 7:14</a>",
-      "comment": "Humility in knowledge is emphasized, keeping focus on revealed truth rather than speculation. Trusting authority and tradition is a safeguard against error.",
+      "text": "Do not make a display of your wisdom when you do your work, and do not boast when you are in need.",
+      "links": [
+        "Prov 27:2",
+        "Matt 6:1-2",
+        "Luke 18:9-14"
+      ],
+      "comment": "True wisdom is marked by humility; ostentation in work or need undermines character and reputation (cf. Matthew 6:1-4).",
       "sectionHeader": "Humility and Contentment"
     },
     {
@@ -328,9 +372,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 10,
       "verse": 27,
-      "text": "Consider what has been commanded to you, for you have no need of hidden things.",
-      "links": "<a href='/AIV/21/12/13'>Eccl. 12:13</a>; <a href='/AIV/05/29/29'>Deut. 29:29</a>",
-      "comment": "Obedience to known commands rather than seeking secret things is commended. The believer is reminded to focus on what God has revealed through Scripture and tradition."
+      "text": "Better is the worker who has goods in plenty than the boaster who lacks bread.",
+      "links": [
+        "Prov 12:9",
+        "Prov 13:7",
+        "Luke 18:11-12"
+      ],
+      "comment": "Productive labor is valued over empty boasting; substance matters more than talk (cf. Proverbs 14:23)."
     },
     {
       "pk": 28010028,
@@ -340,9 +388,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 10,
       "verse": 28,
-      "text": "Do not involve yourself in unnecessary matters, for more has been revealed to you than men can understand.",
-      "links": "<a href='/AIV/21/3/18'>Eccl. 3:18</a>; <a href='/AIV/43/21/22'>John 21:22</a>",
-      "comment": "Keeping to one’s responsibilities allows deeper understanding of revealed truths, avoiding distraction and division in the community."
+      "text": "My child, honor yourself with humility, and give yourself the esteem you deserve.",
+      "links": [
+        "Prov 15:33",
+        "Luke 14:11",
+        "1 Pet 5:6"
+      ],
+      "comment": "Self-respect and humility are not contradictory; one can honor oneself properly while remaining humble, reflecting a balanced sense of worth."
     },
     {
       "pk": 28010029,
@@ -352,9 +404,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 10,
       "verse": 29,
-      "text": "Many have been misled by their own reasoning, and false opinion has undermined their judgment.",
-      "links": "<a href='/AIV/45/1/21-22'>Rom. 1:21-22</a>; <a href='/AIV/41/7/7'>Mark 7:7</a>",
-      "comment": "Human intellect is not infallible—objective truth is to be received rather than constructed, reinforcing the value of teaching authority."
+      "text": "Who will acquit those who condemn themselves? And who will honor those who dishonor themselves?",
+      "links": [
+        "John 3:18",
+        "1 John 3:20",
+        "Prov 22:1"
+      ],
+      "comment": "Those who demean themselves or others ultimately forfeit both acquittal and honor; self-respect is a precondition for receiving honor from others."
     },
     {
       "pk": 28010030,
@@ -364,9 +420,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 10,
       "verse": 30,
-      "text": "A stubborn heart will fare badly in the end, and the one who loves danger will perish in it.",
-      "links": "<a href='/AIV/20/28/14'>Prov. 28:14</a>; <a href='/AIV/19/81/12'>Ps. 81:12</a>",
-      "comment": "Rebellion and disregard for wisdom leads to ruin. Fidelity is the safeguard for salvation."
+      "text": "The poor are honored for their knowledge, while the rich are honored for their wealth.",
+      "links": [
+        "Prov 22:2",
+        "Eccl 9:16",
+        "Jas 2:5-6"
+      ],
+      "comment": "Society honors the rich for their possessions but should honor the poor for their wisdom, subverting common social values (cf. Proverbs 22:1-2)."
     },
     {
       "pk": 28010031,
@@ -376,12 +436,16 @@
       "bookAbbreviation": "Sir",
       "chapter": 10,
       "verse": 31,
-      "text": "A proud heart brings division; evil plants deep roots, and its end is disaster.",
-      "links": "<a href='/AIV/20/13/10'>Prov. 13:10</a>; <a href='/AIV/19/52/5'>Ps. 52:5</a>",
-      "comment": "Divisiveness is born of pride, threatening the unity of God’s people. The emphasis on unity here prepares believers for embracing the fullness of faith in the one apostolic Church."
+      "text": "One who is honored in poverty, how much more in wealth! And one dishonored in wealth, how much more in poverty!",
+      "links": [
+        "Esth 6:3",
+        "Luke 16:25",
+        "Jas 1:9-10"
+      ],
+      "comment": "True worth is tested by fortune: the honored poor would be even more esteemed in wealth, while the dishonored rich would be scorned all the more in poverty, highlighting character over circumstance."
     }
   ],
-  "translatedAt": "2025-12-24T07:28:05.563Z",
+  "translatedAt": "2025-12-29T00:36:11.848Z",
   "sections": [
     {
       "title": "The Role of Rulers and God's Sovereignty",

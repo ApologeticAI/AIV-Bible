@@ -37,9 +37,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 4,
       "verse": 3,
-      "text": "When the hostility continued, Apollonius, the governor of Coele-Syria and Phoenicia, was provoked and took action against Onias.",
-      "links": "<a href='/AIV/21/3/5'>2Macc 3:5</a>",
-      "comment": "Civil authorities intervene in temple matters, connecting the political with the spiritual. The harmony of Church and state in safeguarding true worship is implied here."
+      "text": "But when Simon’s hostility persisted, murders were committed by one of Simon’s approved agents.",
+      "links": [
+        "Sir 27:22-24",
+        "Ps 10:8",
+        "1 Macc 1:24"
+      ],
+      "comment": "Simon's continuing hostility highlights the deep internal Jewish strife over control of the high priesthood, leading to violence and undermining the community's integrity (cf. Sirach 27:21 on divisiveness)."
     },
     {
       "pk": 21004004,
@@ -49,9 +53,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 4,
       "verse": 4,
-      "text": "Then Onias, seeing the danger to his people and the threats posed by Simon’s conspiracy, withdrew to take sanctuary near the temple.",
-      "links": "<a href='/AIV/19/27/5'>Ps. 27:5</a>",
-      "comment": "Seeking shelter in God’s house reveals a trust in the sacred as a refuge, later mirrored in Christ’s emphasis on the temple (<a href='/AIV/40/21/13'>Matt 21:13</a>)."
+      "text": "Onias became aware of the seriousness of the rivalry and observed that Apollonius, governor of Coele-Syria and Phoenicia, was intensifying Simon's malice.",
+      "links": [
+        "1 Macc 1:10-12",
+        "Dan 8:25",
+        "Sir 14:25-27"
+      ],
+      "comment": "Onias perceives both political and personal animosities escalating, especially with the involvement of Apollonius, a high-ranking Seleucid official, illustrating how internal disputes were manipulated by foreign governors."
     },
     {
       "pk": 21004005,
@@ -61,9 +69,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 4,
       "verse": 5,
-      "text": "But Simon continued in his evil plans, striving to harm Onias even among foreigners, and did not stop in his pursuit.",
-      "links": "<a href='/AIV/20/24/8'>Prov. 24:8</a>",
-      "comment": "Simon’s persistence in evil shows the enduring struggle between worldly ambition and holiness, recalling Jesus warning about persecution of true shepherds (<a href='/AIV/43/15/20'>John 15:20</a>)."
+      "text": "So Onias appealed to the king, not accusing his fellow citizens, but with concern for the welfare of all the people, both public and private.",
+      "links": [
+        "1 Kgs 8:34-36",
+        "Ezra 7:15",
+        "1 Macc 7:6"
+      ],
+      "comment": "Onias appeals to the king not out of self-interest but for the general welfare, modeling intercessory leadership akin to Nehemiah (Neh 2:4-5), striving to safeguard public and private peace."
     },
     {
       "pk": 21004006,
@@ -73,9 +85,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 4,
       "verse": 6,
-      "text": "Onias, recognizing Simon's danger and understanding the threat to the public welfare, viewed the conflict as serious and went to the king, not for his own sake but for the protection of his people.",
-      "links": "<a href='/AIV/17/4/14'>Est. 4:14</a>",
-      "comment": "Selfless intercession for others alludes to Christ's priestly role, foreshadowing the mediation for the people (<a href='/AIV/58/7/25'>Heb 7:25</a>)."
+      "text": "For Onias saw that, without the king's intervention, public affairs could not be restored to peace, and that Simon would not stop his reckless behavior.",
+      "links": [
+        "Esth 3:8-11",
+        "Prov 16:18",
+        "1 Macc 11:23"
+      ],
+      "comment": "Understanding that only the king could restore order, Onias seeks royal intervention against Simon’s unchecked wrongdoing, emphasizing the limits of internal resolution amid Hellenistic political realities."
     },
     {
       "pk": 21004007,
@@ -134,9 +150,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 4,
       "verse": 11,
-      "text": "He abolished the privileges that had been given by previous kings for the practice of their religion, losing the right to self-governance that had been divinely granted.",
-      "links": "<a href='/AIV/21/2/23'>2Macc 2:23</a>",
-      "comment": "Removal of sacred privileges signals a breach in the bond between God and His people, recalling Paul’s warning against apostasy (<a href='/AIV/53/2/3'>2Thess 2:3</a>)."
+      "text": "He set aside the royal concessions granted to the Jews through Eupolemus, son of John, who went on an embassy to Rome for an agreement of friendship and alliance, and he destroyed lawful ways of living and introduced new customs contrary to the law.",
+      "links": [
+        "1 Macc 8:17",
+        "Jer 32:35",
+        "Dan 7:25"
+      ],
+      "comment": "Jason’s rejection of prior royal privileges and adoption of Greek customs marks a pivotal moment of Hellenization, eroding Jewish identity and faithfulness to the Law (cf. 1 Maccabees 1:11-15)."
     },
     {
       "pk": 21004012,
@@ -242,9 +262,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 4,
       "verse": 20,
-      "text": "Instead, they brought the money back and used it as appropriate at the people's discretion.",
-      "links": "<a href='/AIV/21/3/10'>2Macc 3:10</a>",
-      "comment": "Proper stewardship of resources reflects the principle of holy use for God’s purposes, not pagan ones."
+      "text": "But these funds were brought back and were used for the construction of triremes.",
+      "links": [
+        "1 Macc 15:16-18",
+        "2 Macc 5:16",
+        "Dan 11:24"
+      ],
+      "comment": "Money intended for the Jerusalem temple was instead redirected to naval armament, reflecting both the secular priorities of the Seleucid authorities and the misuse of sacred resources."
     },
     {
       "pk": 21004021,
@@ -278,9 +302,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 4,
       "verse": 23,
-      "text": "After spending some time there, Antiochus left for Tyre, leaving Menelaus in charge, who began using his authority for selfish ends.",
-      "links": "<a href='/AIV/21/4/24'>2Macc 4:24</a>",
-      "comment": "Entrusting leadership to unworthy men leads to spiritual decline, a warning repeated in the epistles (<a href='/AIV/54/3/2-7'>1Tim 3:2-7</a>).",
+      "text": "While the king was at Tyre, Jason sent Menelaus, brother of Simon, to deliver money to the king and complete negotiations. But Menelaus, taking advantage of the opportunity, usurped the high priesthood for himself.",
+      "links": [
+        "2 Macc 4:7",
+        "1 Macc 1:11-15",
+        "Dan 8:11"
+      ],
+      "comment": "Menelaus’s usurpation of the high priesthood, facilitated by Jason’s trust, exemplifies the corrupting influence of politics and money in spiritual matters, which repeatedly afflicted Israel (cf. 1 Maccabees 7:5-9).",
       "sectionHeader": "Menelaus Usurps the High Priesthood"
     },
     {
@@ -327,9 +355,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 4,
       "verse": 27,
-      "text": "When Sostratus, who was in charge of the temple finances, was called to account by the king for the unpaid funds, Menelaus fled, leaving others to answer for his actions.",
-      "links": "<a href='/AIV/21/3/7'>2Macc 3:7</a>",
-      "comment": "Irresponsibility with sacred offerings warns against this sin, which would also later cause trouble in the early Church (cf. <a href='/AIV/44/5/1-11'>Acts 5:1-11</a>)."
+      "text": "Although Menelaus continued to hold the office, he did not pay regularly any of the money he had promised to the king.",
+      "links": [
+        "1 Macc 10:46",
+        "Prov 13:11",
+        "Wis 14:28"
+      ],
+      "comment": "Menelaus’s failure to pay the agreed tribute underscores his illegitimacy and the instability caused by purchasing religious offices, a recurring criticism in Second Temple critiques."
     },
     {
       "pk": 21004028,
@@ -339,9 +371,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 4,
       "verse": 28,
-      "text": "Sostratus’s absence forced Crates, the city governor, to represent him before the king.",
-      "links": "<a href='/AIV/21/4/27'>2Macc 4:27</a>",
-      "comment": "Substitution in representation foreshadows the need for true mediators between God and man; a type later fulfilled in Christ."
+      "text": "When Sostratus, the captain of the citadel, kept requesting payment—for the collection of the revenue was his duty—the two men were summoned by the king regarding this matter.",
+      "links": [
+        "1 Kgs 12:27-28",
+        "Dan 6:2",
+        "1 Macc 11:61"
+      ],
+      "comment": "The king personally addresses the financial irregularities, showing how Jewish religious appointments and the temple's wealth were subject to Hellenistic political-economic oversight."
     },
     {
       "pk": 21004029,
@@ -351,9 +387,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 4,
       "verse": 29,
-      "text": "While all this was going on, the people in Jerusalem suffered continual turmoil as the two rival high priests fought for supremacy.",
-      "links": "<a href='/AIV/21/4/7'>2Macc 4:7</a>; <a href='/AIV/21/4/24'>2Macc 4:24</a>",
-      "comment": "Division in spiritual leadership causes strife and disorder, emphasizing the blessing of unity in faith (<a href='/AIV/19/133/1'>Ps. 133:1</a>)."
+      "text": "Menelaus left his own brother Lysimachus as deputy in the high priesthood, while Sostratus left Crates, the commander of the Cyprian troops.",
+      "links": [
+        "Neh 13:4-9",
+        "1 Macc 6:16",
+        "Acts 6:3"
+      ],
+      "comment": "Menelaus and Sostratus temporarily delegate authority, revealing the intertwining of religious and military power, both reliant on royal approval and vulnerable to larger imperial machinations."
     },
     {
       "pk": 21004030,
@@ -363,9 +403,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 4,
       "verse": 30,
-      "text": "Meanwhile, the king’s men from Tarsus and Malus were upset over being annexed to Antioch, and started a revolt.",
-      "links": "<a href='/AIV/21/5/5'>2Macc 5:5</a>",
-      "comment": "Political rebellion accompanies spiritual instability. Socio-political upheaval often parallels times of faith crisis."
+      "text": "While these events were happening, the people of Tarsus and Mallus revolted because their cities had been given as a gift to Antiochis, the king’s concubine.",
+      "links": [
+        "Dan 11:24",
+        "1 Macc 11:13",
+        "Esth 2:18"
+      ],
+      "comment": "The rebellion in Tarsus and Mallus arose because Antiochus gifted these cities to his concubine, showing how royal favoritism and land grants often led to local unrest in the Seleucid empire."
     },
     {
       "pk": 21004031,
@@ -387,9 +431,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 4,
       "verse": 32,
-      "text": "When Onias realized Andronicus was plotting against him, he sought asylum in the sanctuary of Daphne near Antioch.",
-      "links": "<a href='/AIV/19/27/5'>Ps. 27:5</a>",
-      "comment": "Onias’s flight to sanctuary echoes the importance of holy places as refuges, a theme later seen in Christ’s reverence for the temple (<a href='/AIV/42/19/45-46'>Luke 19:45-46</a>).",
+      "text": "But Menelaus, seeing an opportunity, stole some of the gold vessels from the temple and gave them to Andronicus; other vessels he had sold to Tyre and the neighboring cities.",
+      "links": [
+        "2 Macc 4:39",
+        "2 Kgs 24:13",
+        "Dan 5:3"
+      ],
+      "comment": "Menelaus’s theft and sale of temple treasures to curry favor and raise funds demonstrates sacrilege and foreshadows later desecrations (cf. 1 Maccabees 1:21-23).",
       "sectionHeader": "Murder of Onias and Retribution Against Andronicus"
     },
     {
@@ -400,9 +448,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 4,
       "verse": 33,
-      "text": "Andronicus, compelled by Antiochus, persuaded Onias out of sanctuary by deceit, swearing solemn oaths, then murdered him at once.",
-      "links": "<a href='/AIV/19/55/21'>Ps. 55:21</a>; <a href='/AIV/41/14/44'>Mark 14:44</a>",
-      "comment": "Murder under false oaths shows the gravity of sacrilege, with echoes of betrayal as in Judas (<a href='/AIV/41/14/44'>Mark 14:44</a>), stressing the sanctity of God’s promises."
+      "text": "When Onias became fully aware of these acts, he publicly exposed them, having withdrawn to a place of sanctuary at Daphne near Antioch.",
+      "links": [
+        "1 Kgs 1:50-51",
+        "Ps 55:15",
+        "Matt 21:13"
+      ],
+      "comment": "Onias’s public denunciation from sanctuary highlights his commitment to righteousness despite danger, parallel to prophetic protest in exile (cf. Jer 26:21-24)."
     },
     {
       "pk": 21004034,
@@ -412,9 +464,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 4,
       "verse": 34,
-      "text": "Though guilty, Andronicus was not spared by the people, who hated his crime. When the king returned from Cilicia, the Jews complained to him, with other nationals outraged at this sacrilege.",
-      "links": "<a href='/AIV/21/4/36'>2Macc 4:36</a>",
-      "comment": "Popular justice avenges sacrilege, showing a universal acknowledgment of sacred things, a principle later affirmed in Romans (<a href='/AIV/45/2/15'>Rom. 2:15</a>)."
+      "text": "So Menelaus took Andronicus aside and persuaded him to kill Onias. Andronicus approached Onias, and using deceit, offered him sworn pledges and extended his right hand. Though Onias was still suspicious, Andronicus convinced him to leave the place of sanctuary; then, showing no regard for justice, he immediately murdered him.",
+      "links": [
+        "Ps 55:21",
+        "Ps 109:6-8",
+        "Dan 6:23-24"
+      ],
+      "comment": "Andronicus, acting at Menelaus’s instigation, murders Onias by deceit, starkly illustrating the breakdown of justice and echoing the betrayal of righteous leaders (cf. Ps 55:20-21)."
     },
     {
       "pk": 21004035,
@@ -424,9 +480,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 4,
       "verse": 35,
-      "text": "The grief over Onias moved Antiochus, and he remembered the man's wisdom and noble character. He was so angry he shed tears and ordered Andronicus’s execution on the spot.",
-      "links": "<a href='/AIV/21/4/33'>2Macc 4:33</a>",
-      "comment": "The righteous are honored after death, and justice prevails in God’s timing, reflecting divine vindication of His servants."
+      "text": "For this reason, not only Jews but also many of other nations were grieved and displeased at the unjust murder of this man.",
+      "links": [
+        "Gen 4:10",
+        "Wis 4:17-19",
+        "Matt 27:3-4"
+      ],
+      "comment": "Onias’s unjust murder shocked both Jews and Gentiles, signaling his reputation for righteousness and the principle of universal recognition of justice and grievance."
     },
     {
       "pk": 21004036,
@@ -436,7 +496,7 @@
       "bookAbbreviation": "2Macc",
       "chapter": 4,
       "verse": 36,
-      "text": "Antiochus ordered Andronicus to be stripped of his purple robe, led around the city, and executed for his heinous deeds against Onias.",
+      "text": "When the king returned from the region of Cilicia, the Jews in the city appealed to him about the unjust murder of Onias, and the Greeks also expressed their hatred of the crime.",
       "links": "<a href='/AIV/21/4/34'>2Macc 4:34</a>; <a href='/AIV/40/27/28'>Matt 27:28</a>",
       "comment": "The public nature of the punishment recalls how evil is exposed and defeated openly, a foreshadowing of Christ’s triumph over sin through visible suffering."
     },
@@ -448,7 +508,7 @@
       "bookAbbreviation": "2Macc",
       "chapter": 4,
       "verse": 37,
-      "text": "Many acts of injustice were committed by Menelaus against sacred objects and laws. He was not punished but instead gained more power with bribery.",
+      "text": "Therefore Antiochus was deeply grieved and filled with pity, and he wept when he remembered the moderation and good conduct of the deceased.",
       "links": "<a href='/AIV/21/4/24'>2Macc 4:24</a>",
       "comment": "The apparent success of evil is a test of faith, yet in God’s providence judgment will come even if delayed. Compare <a href='/AIV/19/73/3'>Ps. 73:3</a>.",
       "sectionHeader": "Plundering of the Temple and the Death of Lysimachus"
@@ -461,9 +521,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 4,
       "verse": 38,
-      "text": "Menelaus even stole sacred vessels from the temple, selling others that were priceless, only to be repeatedly censured by the people.",
-      "links": "<a href='/AIV/27/1/2'>Dan 1:2</a>",
-      "comment": "The desecration of the holy objects is an outrage, paralleling the destruction of the temple’s sanctity referenced throughout prophecy."
+      "text": "Inflamed with anger, the king immediately stripped Andronicus of his purple robe, tore off his garments, and led him around the entire city to the very spot where he had committed the crime against Onias, and there he put to death the bloodthirsty man. Thus the Lord requited him with the punishment he deserved.",
+      "links": [
+        "Ex 21:23-24",
+        "Ps 94:1-2",
+        "Wis 11:16"
+      ],
+      "comment": "The king’s dramatic execution of Andronicus serves as divine retribution, affirming that God’s justice prevails even through Gentile instruments (cf. Deut 19:21; Ps 94:1-2)."
     },
     {
       "pk": 21004039,
@@ -509,9 +573,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 4,
       "verse": 42,
-      "text": "The cause of Lysimachus’s death was thoroughly investigated, and the people found it was justified.",
-      "links": "<a href='/AIV/5/17/4'>Deut 17:4</a>",
-      "comment": "Legitimate inquiry and justice in the face of sacrilege upholds the role of authority and discernment in the faith community."
+      "text": "So the crowd wounded many of Lysimachus’s men, killed some, put the rest to flight, and they killed Lysimachus himself beside the treasury.",
+      "links": [
+        "2 Chr 24:20-22",
+        "Esth 9:5",
+        "1 Macc 6:47"
+      ],
+      "comment": "The crowd’s violent reaction against Lysimachus for temple plundering shows communal zeal for holiness and foreshadows the rise of popular resistance central to the Maccabean narrative."
     },
     {
       "pk": 21004043,
@@ -611,7 +679,7 @@
       "comment": "Perseverance of evil for a time is permitted for the greater display of God’s future justice, encouraging humility and patient trust in divine providence."
     }
   ],
-  "translatedAt": "2025-12-24T05:31:31.210Z",
+  "translatedAt": "2025-12-28T23:42:32.815Z",
   "sections": [
     {
       "title": "Intrigue Against Onias the High Priest",

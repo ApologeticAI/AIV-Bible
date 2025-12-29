@@ -85,10 +85,13 @@
       "bookAbbreviation": "Ruth",
       "chapter": 2,
       "verse": 7,
-      "text": "'She asked, ",
-      "Please let me glean and gather among the sheaves behind the harvesters.": "She has been working here since morning until now, except for a short rest in the shelter.'",
-      "links": "<a href='/AIV/08/2/17'>Ruth 2:17</a>",
-      "comment": "Ruth's diligence and humility reflect virtues that are later commended throughout scripture, serving as a model for industriousness and devotion in one's daily life."
+      "text": "She said, 'Please let me glean and gather among the sheaves behind the reapers.' So she came, and she has continued from early this morning until now, without resting even for a moment.",
+      "links": [
+        "Lev 19:9-10",
+        "Lev 23:22",
+        "Deut 24:19"
+      ],
+      "comment": "Ruth's polite request to glean—an allowance under Levitical law for the needy (Leviticus 19:9-10)—and her tireless labor highlight her humility and diligence, prefiguring the favor she will receive and foreshadowing God's providential care for outsiders."
     },
     {
       "pk": 8002008,
@@ -256,10 +259,13 @@
       "bookAbbreviation": "Ruth",
       "chapter": 2,
       "verse": 21,
-      "text": "Then Ruth the Moabite said, 'He even told me, ",
-      "Stay close to my workers until they finish all my harvest.": "",
-      "links": "<a href='/AIV/08/2/8'>Ruth 2:8</a>",
-      "comment": "Ruth is invited to remain for the duration of the harvest, signifying ongoing provision and protection—a spiritual image of remaining in grace and community."
+      "text": "Then Ruth the Moabite said, 'He even said to me, \"Stay close by my servants until they have finished all my harvest.\"'",
+      "links": [
+        "Ruth 2:8",
+        "Ruth 2:23",
+        "Prov 3:3"
+      ],
+      "comment": "Boaz's invitation for Ruth to remain with his servants offers her protection and inclusion, symbolizing God's welcoming grace to foreigners (cf. Deuteronomy 10:18-19), and marks a pivotal moment in Ruth's integration into the community of Israel."
     },
     {
       "pk": 8002022,
@@ -286,7 +292,7 @@
       "comment": "Ruth’s constancy and faithfulness through the harvest point to perseverance, a virtue highly valued throughout scripture and tradition, and sets up the upcoming redemption story."
     }
   ],
-  "translatedAt": "2025-12-24T02:44:13.592Z",
+  "translatedAt": "2025-12-28T04:58:41.590Z",
   "sections": [
     {
       "title": "Ruth Gleans in the Field of Boaz",

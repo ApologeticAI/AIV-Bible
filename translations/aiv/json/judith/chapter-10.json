@@ -231,9 +231,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 10,
       "verse": 19,
-      "text": "They led her into his tent, and Holofernes was resting on his bed under a canopy made of purple and gold, emeralds and precious stones.",
-      "links": "<a href='/AIV/18/13/15'>Jdt 13:15</a>; <a href='/AIV/26/27/7'>Ez 27:7</a>",
-      "comment": "The lavish description points both to the pride of the enemy and the earthly kingdoms contrasted by God’s spiritual kingdom.",
+      "text": "They marveled at her beauty and admired the Israelites, judging them by her. They said to one another, \"Who can despise these people, who have women like this among them? It is not wise to leave one of their men alive, for if we let them go they will be able to beguile the whole world!\"",
+      "links": [
+        "Esth 2:15",
+        "1 Kgs 10:1-9",
+        "Jdt 10:7"
+      ],
+      "comment": "The Assyrians’ awe of Judith’s beauty underscores the biblical motif of God using unexpected means to deliver Israel (cf. Esther 2:17); their statement ironically highlights both admiration and fear, reflecting the ancient belief in the power and cunning attributed to Israelites, especially their women (cf. Exodus 1:19).",
       "sectionHeader": "Judith Brought Before Holofernes"
     },
     {
@@ -244,9 +248,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 10,
       "verse": 20,
-      "text": "When Holofernes saw her, his heart was moved, and his soul was struck. He was greatly impressed by her wisdom and said to her,",
-      "links": "<a href='/AIV/18/11/21'>Jdt 11:21</a>",
-      "comment": "Holofernes is taken by Judith’s appearance and wisdom, underlying the biblical theme of God using both outward and inward gifts to accomplish His will (cf. Proverbs 31:10,26)."
+      "text": "Then the guards of Holofernes and all his servants came out and led her into the tent.",
+      "links": [
+        "Gen 12:15",
+        "Esth 2:16",
+        "Jdt 12:11"
+      ],
+      "comment": "Judith’s formal invitation into Holofernes’ tent marks her entry into the sphere of power, a risky crossing of boundaries that sets up the narrative’s dramatic reversal of expected roles."
     },
     {
       "pk": 18010021,
@@ -256,9 +264,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 10,
       "verse": 21,
-      "text": "\"Who are you? From where do you come? What purpose has brought you to us?\"",
-      "links": "<a href='/AIV/18/10/11'>Jdt 10:11</a>",
-      "comment": "These questions echo Biblical encounters (e.g., Ruth 2:10) where the humble origin of God’s servant is revealed before revelation or deliverance."
+      "text": "Holofernes was resting on his bed under a canopy that was woven with purple and gold, emeralds and other precious stones.",
+      "links": [
+        "Esth 1:6",
+        "Dan 5:1-2",
+        "Rev 18:16"
+      ],
+      "comment": "Holofernes’ luxurious setting, described with purple, gold, and precious stones, reflects eastern royal opulence and emphasizes the contrast between Assyrian wealth and Israelite piety (cf. Esther 1:6)."
     },
     {
       "pk": 18010022,
@@ -268,9 +280,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 10,
       "verse": 22,
-      "text": "She replied, \"Hear the words of your servant. Let your handmaid speak in your presence, and I will tell you no lie this night.\"",
-      "links": "<a href='/AIV/18/11/5'>Jdt 11:5</a>",
-      "comment": "Judith’s humility is evident, referring to herself as a servant—prefiguring Christ’s self-emptying (Philippians 2:7)."
+      "text": "When they told him of her, he came to the front of the tent, with silver lamps carried before him.",
+      "links": [
+        "Esth 5:2",
+        "Jdt 12:14-15",
+        "Dan 5:5"
+      ],
+      "comment": "The procession of silver lamps and Holofernes’ ceremonial approach highlight his status and self-importance, foreshadowing the dramatic tension of the encounter between power and piety."
     },
     {
       "pk": 18010023,
@@ -280,12 +296,16 @@
       "bookAbbreviation": "Jdt",
       "chapter": 10,
       "verse": 23,
-      "text": "Then Holofernes’ men left the tent, and only Bagoas remained, and all his servants went away, so that Judith could stand before him.",
-      "links": "<a href='/AIV/18/13/4'>Jdt 13:4</a>",
-      "comment": "This sets the stage for Judith’s pivotal confrontation. God’s providence often works in hidden, humble ways to bring about deliverance for His people, a theme that prepares the heart for Christ’s hidden yet decisive victory (1 Corinthians 2:7-8)."
+      "text": "When Judith came into the presence of Holofernes and his servants, they all marveled at the beauty of her face. She prostrated herself and did obeisance to him, but his slaves raised her up.",
+      "links": [
+        "Gen 41:14",
+        "Esth 5:2",
+        "Jdt 10:14"
+      ],
+      "comment": "Judith’s physical prostration follows eastern customs of homage before rulers (cf. Daniel 2:46), yet the servants’ act of raising her anticipates her soon-to-be-elevated status and God’s overturning of worldly hierarchies."
     }
   ],
-  "translatedAt": "2025-12-24T05:04:57.306Z",
+  "translatedAt": "2025-12-28T02:20:05.566Z",
   "sections": [
     {
       "title": "Judith Prepares to Meet Holofernes",

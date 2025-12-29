@@ -61,9 +61,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 12,
       "verse": 5,
-      "text": "Do good to the humble, but do not give to the ungodly; hold back your bread and do not give it to them, or else they may hold sway over you.",
-      "links": "<a href='/AIV/20/25/21-22'>Prov. 25:21-22</a>; <a href='/AIV/19/37/21'>Ps. 37:21</a>",
-      "comment": "Giving to the humble echoes Christ's call to serve the lowly (see Matthew 25:40). But enabling the arrogant or unrepentant is cautioned against, to prevent fostering evil or dependence. The balance shows early Christian wisdom in discerning whom to help."
+      "text": "Do good to the humble, but do not give to the ungodly; hold back their bread, and do not give it to them, for by means of it they might subdue you; then you will receive twice as much evil for all the good you have done to them.",
+      "links": [
+        "Ps 1:1",
+        "Prov 24:1",
+        "Matt 7:6"
+      ],
+      "comment": "This verse reflects the ancient Jewish wisdom tradition, emphasizing discernment in charity—while generosity was a virtue, giving aid to the wicked could empower their harmful ways (cf. Proverbs 14:7), potentially resulting in harm to the giver and to society."
     },
     {
       "pk": 28012006,
@@ -73,9 +77,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 12,
       "verse": 6,
-      "text": "For you will receive twice as much evil for all the good you do for them, because the Most High hates sinners and will repay the wicked.",
-      "links": "<a href='/AIV/19/34/21'>Ps. 34:21</a>; <a href='/AIV/45/6/23'>Rom. 6:23</a>",
-      "comment": "A warning that aiding the unrepentant can result in harm. God’s justice is sure. This anchors the principle of just retaliation, later expanded by Christ’s call to love enemies—but with discernment and purity of motive, not blind enabling (see Matt. 5:44)."
+      "text": "For the Most High also hates sinners and will inflict punishment on the ungodly.",
+      "links": [
+        "Ps 5:5",
+        "Wis 14:9",
+        "Rom 1:18"
+      ],
+      "comment": "Echoing wisdom literature (cf. Psalm 5:5-6), the text affirms God's moral governance: God opposes persistent sinners and will ultimately bring justice upon the ungodly, underscoring the seriousness of moral conduct."
     },
     {
       "pk": 28012007,
@@ -223,7 +231,7 @@
       "comment": "The enemy's mockery and derision are apparent here. Christ on the Cross encountered such scorn (Ps. 35:15-16). The verse reminds believers that only steadfast communion with God and a united fellowship can overcome the snares of evil."
     }
   ],
-  "translatedAt": "2025-12-24T07:29:14.414Z",
+  "translatedAt": "2025-12-28T02:27:54.593Z",
   "sections": [
     {
       "title": "Guidelines for Charity",

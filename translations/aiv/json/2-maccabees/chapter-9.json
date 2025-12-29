@@ -49,9 +49,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 9,
       "verse": 4,
-      "text": "Consumed by pride, he claimed he would make Jerusalem a common burial ground for Jews as soon as he returned.",
-      "links": "<a href='/AIV/19/94/1-2'>Ps. 94:1-2</a>; <a href='/AIV/12/19/22'>2Kgs 19:22</a>",
-      "comment": "Antiochus’s proud boasts against Jerusalem highlight his defiance of the God of Israel. The Psalmist’s cry for justice resonates with the Jewish plight under Antiochus."
+      "text": "Swollen with arrogance, he thought to make the Jews suffer worse than those who had punished him. But the judgment of heaven rode with him, for in his pride he commanded his charioteer to drive without stopping until he completed the journey; and so divine justice struck him down.",
+      "links": [
+        "Ex 14:17-18",
+        "Dan 4:30-37",
+        "Acts 12:21-23"
+      ],
+      "comment": "Antiochus IV's arrogant ambition to punish the Jews is contrasted with the swift retribution of divine justice, echoing the biblical motif of God's judgment on the proud (cf. Proverbs 16:18), and underscoring the belief in heaven's active involvement in human affairs."
     },
     {
       "pk": 21009005,
@@ -146,7 +150,7 @@
       "bookAbbreviation": "2Macc",
       "chapter": 9,
       "verse": 12,
-      "text": "He began to beg the Lord for mercy, promising that he would declare Jerusalem a free city and populate it with exiles, equal to the citizens already living there.",
+      "text": "And when he could not endure his own stench, he said, \"It is right to be subject to God; mortals should not think that they are equal to God.\"",
       "links": "<a href='/AIV/21/1/33'>2Macc 1:33</a>; <a href='/AIV/19/51/1'>Ps. 51:1</a>",
       "comment": "The king’s humbled prayer for mercy introduces a theme of reconciliation. The promise to restore Jerusalem prefigures the restoration seen throughout salvation history."
     },
@@ -170,7 +174,7 @@
       "bookAbbreviation": "2Macc",
       "chapter": 9,
       "verse": 14,
-      "text": "He promised to decorate the Temple with splendid gifts, to restore the sacred vessels, to give back the expenses for the offerings, and to support the sacrifices from his own resources.",
+      "text": "That the holy city, which he had been hurrying to level to the ground and to make a cemetery, he was now declaring to be free;",
       "links": "<a href='/AIV/21/1/22-23'>2Macc 1:22-23</a>; <a href='/AIV/03/7/37'>Lev. 7:37</a>",
       "comment": "Restoring the Temple and its offerings signals respect for liturgical worship as the central act of faith. The support for sacrifices has strong echoes in the continual sacrificial system ordained by God."
     },
@@ -182,7 +186,7 @@
       "bookAbbreviation": "2Macc",
       "chapter": 9,
       "verse": 15,
-      "text": "He even intended to become a Jew himself, visiting every place on earth and proclaiming the power of God.",
+      "text": "And the Jews, whom he had not considered worth burying but had planned to throw out with their children for the wild animals and for the birds to eat, he would make, all of them, equal to citizens of Athens;",
       "links": "<a href='/AIV/08/1/16'>Ruth 1:16</a>; <a href='/AIV/41/7/26'>Mark 7:26</a>",
       "comment": "Antiochus’s intention to join God’s people is reminiscent of converts like Ruth. This highlights the universality of salvation and God’s mercy for all who sincerely seek Him."
     },
@@ -194,7 +198,7 @@
       "bookAbbreviation": "2Macc",
       "chapter": 9,
       "verse": 16,
-      "text": "But his torments did not relent, for God’s righteous judgment had come upon him. He utterly despaired, and wrote to the Jews a letter in the form of supplication, begging for forgiveness.",
+      "text": "And the holy sanctuary, which he had formerly plundered, he would adorn with the finest offerings; and all the holy vessels he would give back, many times over; and the expenses incurred for the sacrifices he would provide from his own revenues;",
       "links": "<a href='/AIV/19/32/2-5'>Ps. 32:2-5</a>; <a href='/AIV/21/1/8-15'>2Macc 1:8-15</a>",
       "comment": "Divine justice results in persistent suffering until true repentance, a theme recurring in the Psalms. The idea of asking forgiveness from God’s chosen people underlines the intercessory power of the faithful."
     },
@@ -206,9 +210,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 9,
       "verse": 17,
-      "text": "This is the content of the letter: 'To the worthy Jewish citizens, Antiochus, king and governor, wishes health and prosperity.'",
-      "links": "<a href='/AIV/21/1/10'>2Macc 1:10</a>",
-      "comment": "With formal greeting, Antiochus begins his plea for peace. The language of reconciliation mirrors similar diplomatic exchanges in biblical history.",
+      "text": "And in addition to all this he also would become a Jew and would visit every inhabited place to proclaim the power of God.",
+      "links": [
+        "Dan 4:34-37",
+        "Esth 8:17",
+        "Jon 3:6-10"
+      ],
+      "comment": "Antiochus' letter reflects a political attempt to reconcile with the Jews as his health fails, revealing both diplomatic pragmatism and his recognition of the Jews' importance amid his own mortality (similar to decrees in Ezra 1:2-4).",
       "sectionHeader": "The Letter of Antiochus to the Jews"
     },
     {
@@ -219,7 +227,7 @@
       "bookAbbreviation": "2Macc",
       "chapter": 9,
       "verse": 18,
-      "text": "'If you are well, I am glad. As for myself, I am burdened by illness. Throughout my life, I had honored you greatly and your interests. But I realize now that my actions have brought me suffering.'",
+      "text": "But when his sufferings did not in any way abate, for the judgment of God had justly come upon him, he gave up all hope for himself and wrote to the Jews the following letter, in the form of a supplication. This was its content:",
       "links": "<a href='/AIV/21/1/25'>2Macc 1:25</a>; <a href='/AIV/21/3/35'>2Macc 3:35</a>",
       "comment": "Antiochus’s affliction leads him to recognize the consequences of his actions. This pattern—suffering spurring self-reflection—is often seen in those who encounter the Lord’s discipline."
     },
@@ -231,7 +239,7 @@
       "bookAbbreviation": "2Macc",
       "chapter": 9,
       "verse": 19,
-      "text": "'Believing I needed to show you harsh authority, I now repent of my conduct and ask you to forgive me.'",
+      "text": "To his worthy Jewish citizens, Antiochus their king and general sends hearty greetings and good wishes for their health and prosperity.",
       "links": "<a href='/AIV/19/51/9'>Ps. 51:9</a>",
       "comment": "The king openly repents, which highlights the biblical concept of communal forgiveness and restoration after sin. This is key in the spiritual tradition, encapsulating humility before God."
     },
@@ -243,7 +251,7 @@
       "bookAbbreviation": "2Macc",
       "chapter": 9,
       "verse": 20,
-      "text": "'I hope to recover soon. With God’s mercy I will come to Jerusalem to praise Him and perform thank offerings.'",
+      "text": "If you and your children are well and your affairs are as you wish, I am glad. As my hope is in heaven,",
       "links": "<a href='/AIV/03/7/12-15'>Lev. 7:12-15</a>",
       "comment": "Antiochus’s intent to offer thanks and praise in Jerusalem reflects the importance of public worship and sacred acts tied to the Temple, a recurring theme in Scripture."
     },
@@ -255,7 +263,7 @@
       "bookAbbreviation": "2Macc",
       "chapter": 9,
       "verse": 21,
-      "text": "'Therefore, I urge you to pray for my recovery.'",
+      "text": "I remember with affection your esteem and goodwill. On my way back from the region of Persia I suffered an annoying illness, and I have deemed it necessary to take thought for the general security of all.",
       "links": "<a href='/AIV/21/1/36'>2Macc 1:36</a>; <a href='/AIV/59/5/16'>Jas. 5:16</a>",
       "comment": "The power of intercessory prayer is evident here, which is New Testament-affirmed and strongly emphasized in both Old and New Covenants. Shared prayer for others is a sign of community."
     },
@@ -267,7 +275,7 @@
       "bookAbbreviation": "2Macc",
       "chapter": 9,
       "verse": 22,
-      "text": "'If I die, I trust you will remember me with kindness and continue the good treatment I showed you.'",
+      "text": "I do not despair of my condition, for I have good hope of recovering from my illness,",
       "links": "<a href='/AIV/19/41/1'>Ps. 41:1</a>; <a href='/AIV/08/1/8'>Ruth 1:8</a>",
       "comment": "Antiochus’s request to be remembered after death subtly points to the practice of praying for the deceased and shows an early witness to this spiritual tradition."
     },
@@ -279,7 +287,7 @@
       "bookAbbreviation": "2Macc",
       "chapter": 9,
       "verse": 23,
-      "text": "'My son will inherit the kingdom. I trust you will maintain good relations with him as you have with me.'",
+      "text": "but I observed that my father, on the occasions when he made expeditions into the upper country, appointed his successor,",
       "links": "<a href='/AIV/11/2/1'>1Kgs 2:1</a>",
       "comment": "The succession of kings and the continuity of blessings are common biblical motifs; trusting God’s people in political transitions is an enduring theme."
     },
@@ -291,7 +299,7 @@
       "bookAbbreviation": "2Macc",
       "chapter": 9,
       "verse": 24,
-      "text": "Thus, the murderer and blasphemer endured the worst fate ever seen; he died in utter agony among the mountains in a foreign land.",
+      "text": "so that, if anything unexpected happened or any unwelcome news came, the people throughout the realm would not be troubled, for they would know to whom the government was left.",
       "links": "<a href='/AIV/21/7/35'>2Macc 7:35</a>; <a href='/AIV/23/14/12-16'>Isa. 14:12-16</a>",
       "comment": "The narrative makes explicit the justice of God against blasphemy, echoing Isaiah’s portrayal of a fallen tyrant. Divine judgment is certain for those who war against God’s people.",
       "sectionHeader": "Death of Antiochus and Succession of Eupator"
@@ -304,7 +312,7 @@
       "bookAbbreviation": "2Macc",
       "chapter": 9,
       "verse": 25,
-      "text": "His followers took up his body in fear and departed, for terror had gripped them because of the Lord’s power.",
+      "text": "Moreover, I understand how the princes along the borders and the neighbors of my kingdom keep watching for opportunities and waiting to see what will happen. So I have appointed my son Antiochus to be king, whom I have often entrusted and commended to most of you when I hurried off to the upper provinces; and I have written to him what is written here.",
       "links": "<a href='/AIV/02/14/30'>Exod. 14:30</a>; <a href='/AIV/21/5/20'>2Macc 5:20</a>",
       "comment": "The fear and awe inspired by God’s judgement is seen repeatedly when His power is manifest, as at the Red Sea. The effectual warning to all future generations is clear."
     },
@@ -316,9 +324,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 9,
       "verse": 26,
-      "text": "Shortly after this, Philip, Antiochus’s companion, returned from Persia and reported all that had happened. He appointed Antiochus’s son to rule and called him Eupator.",
-      "links": "<a href='/AIV/21/10/10'>2Macc 10:10</a>; <a href='/AIV/14/36/20-21'>2Chr 36:20-21</a>",
-      "comment": "The appointment of the son indicates succession but also transition after divine judgement. God’s plans continue through human events."
+      "text": "I therefore urge and beg you to remember the public and private services rendered to you and to maintain your present goodwill, each of you, toward me and my son.",
+      "links": [
+        "Neh 5:14-19",
+        "Esth 6:3",
+        "1 Macc 10:19-20"
+      ],
+      "comment": "Philip's action in taking Antiochus's body and fleeing to Egypt underscores political instability and the fear of reprisals in the Hellenistic courts, highlighting the uncertain succession after Antiochus's death."
     },
     {
       "pk": 21009027,
@@ -328,9 +340,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 9,
       "verse": 27,
-      "text": "Meanwhile, the people in Jerusalem and all Judea gave themselves to thanksgiving and prayers to God, who had mercifully delivered them from the tyrant.",
-      "links": "<a href='/AIV/19/30/1-2'>Ps. 30:1-2</a>; <a href='/AIV/21/1/11'>2Macc 1:11</a>",
-      "comment": "Communal thanksgiving and prayer after deliverance underlines the centrality of worship and gratitude. The faithful responding actively with prayer marks the heart of God’s people."
+      "text": "For I am confident that he will follow my ways and will treat you with moderation and kindness.",
+      "links": [
+        "1 Kgs 2:2-4",
+        "2 Chr 32:22-33",
+        "Col 3:12"
+      ],
+      "comment": "Antiochus vainly assures the Jews of his son's goodwill, reflecting a final, self-serving plea for continued Jewish loyalty tied to his belief that his successor will maintain policies of moderation, though earlier actions suggest otherwise."
     },
     {
       "pk": 21009028,
@@ -340,9 +356,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 9,
       "verse": 28,
-      "text": "Now, I will halt this account here. If you wish to know the full story of the battles and the exploits of the young king, they are recorded in detailed chronicles.",
-      "links": "<a href='/AIV/11/14/19'>1Kgs 14:19</a>; <a href='/AIV/13/9/29'>1Chr 9:29</a>",
-      "comment": "The author points to further historical records, echoing other biblical books that cite external chronicles for completeness. This shows the importance of historical testimony outside the Scriptures."
+      "text": "Thus the murderer and blasphemer, after suffering the worst punishments as he had treated others, perished miserably in the mountains. Philip took up his body.",
+      "links": [
+        "Esth 7:10",
+        "Acts 12:23",
+        "Ps 7:15-16"
+      ],
+      "comment": "Antiochus IV is depicted as suffering poetic justice for his violence and blasphemy, paralleling the fate of other persecutors of Israel in scripture (cf. Exodus 14:28), affirming God’s just retribution."
     },
     {
       "pk": 21009029,
@@ -352,12 +372,16 @@
       "bookAbbreviation": "2Macc",
       "chapter": 9,
       "verse": 29,
-      "text": "Here we end the account of Antiochus’s life, concluding with his shameful death and the victory of God’s people.",
-      "links": "<a href='/AIV/19/9/13-16'>Ps. 9:13-16</a>; <a href='/AIV/21/7/41'>2Macc 7:41</a>",
-      "comment": "The closure provides a moral lesson in God’s vindication of His people and final judgment on unrighteous rulers, affirming the hope always present for the faithful."
+      "text": "Philip, who had been brought up with him, took up his body and, fearing the son of Antiochus, went into Egypt to Ptolemy Philometor.",
+      "links": [
+        "1 Kgs 11:40",
+        "Jer 43:7",
+        "2 Macc 4:29"
+      ],
+      "comment": "Philip's flight to Ptolemy Philometor highlights the shifting political alliances and the turbulence that followed Antiochus's death, situating the narrative within the broader context of Hellenistic power struggles."
     }
   ],
-  "translatedAt": "2025-12-24T05:35:06.935Z",
+  "translatedAt": "2025-12-29T00:32:24.608Z",
   "sections": [
     {
       "title": "Antiochus's Blasphemy and Divine Punishment",

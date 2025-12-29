@@ -13,7 +13,11 @@
       "chapter": 15,
       "verse": 1,
       "text": "The LORD spoke to Moses, saying,",
-      "links": "",
+      "links": [
+        "Lev 1:1",
+        "Num 4:1",
+        "Num 16:23"
+      ],
       "comment": "A new section begins; the LORD gives direct revelation to Moses for the people of Israel. See also Ex. 12:1.",
       "sectionHeader": "Laws for Offerings in the Promised Land"
     },
@@ -134,7 +138,11 @@
       "chapter": 15,
       "verse": 11,
       "text": "Thus it shall be done for each bull, or each ram, or each of the male lambs or the goats.",
-      "links": "",
+      "links": [
+        "Ex 29:40",
+        "Lev 23:18",
+        "Num 28:12"
+      ],
       "comment": "Consistent offerings promote orderly, unified worship."
     },
     {
@@ -146,7 +154,11 @@
       "chapter": 15,
       "verse": 12,
       "text": "According to the number that you prepare, so shall you do for each, according to their number.",
-      "links": "",
+      "links": [
+        "Num 28:14",
+        "Num 29:6",
+        "Ezra 3:4"
+      ],
       "comment": "This verse repeats the principle: all sacrifices must be accompanied by proper offerings, showing completeness."
     },
     {
@@ -206,7 +218,11 @@
       "chapter": 15,
       "verse": 17,
       "text": "The LORD spoke to Moses, saying,",
-      "links": "",
+      "links": [
+        "Ex 25:1",
+        "Lev 6:1",
+        "Deut 4:33"
+      ],
       "comment": "A new oracle begins. The repetition points to the seriousness of these instructions.",
       "sectionHeader": "Offering the Firstfruits of Dough"
     },
@@ -255,7 +271,11 @@
       "chapter": 15,
       "verse": 21,
       "text": "From the first of your dough you shall give to the LORD a contribution throughout your generations.",
-      "links": "",
+      "links": [
+        "Ex 23:19",
+        "Lev 23:14",
+        "Deut 26:2"
+      ],
       "comment": "An enduring practice, signifying ongoing gratitude and faithfulness."
     },
     {
@@ -316,7 +336,11 @@
       "chapter": 15,
       "verse": 26,
       "text": "And all the congregation of the sons of Israel shall be forgiven, and the stranger who sojourns among them, because all the people did it unintentionally.",
-      "links": "",
+      "links": [
+        "Lev 4:20",
+        "Lev 4:35",
+        "Heb 9:7"
+      ],
       "comment": "Collective forgiveness includes both Israelites and sojourners, underlining the inclusiveness and mercy present in God’s law."
     },
     {
@@ -402,7 +426,11 @@
       "chapter": 15,
       "verse": 33,
       "text": "Those who found him gathering sticks brought him to Moses and Aaron, and to all the congregation.",
-      "links": "",
+      "links": [
+        "Ex 31:14",
+        "Num 15:32",
+        "Neh 13:15"
+      ],
       "comment": "Community accountability—a model for the community of believers upholding God’s commands together (cf. Matt. 18:15-17)."
     },
     {
@@ -450,7 +478,11 @@
       "chapter": 15,
       "verse": 37,
       "text": "The LORD spoke to Moses, saying,",
-      "links": "",
+      "links": [
+        "Lev 5:14",
+        "Num 15:1",
+        "Num 16:36"
+      ],
       "comment": "A new instruction begins—emphasizing continual openness to God’s revelation.",
       "sectionHeader": "The Law of Tassels"
     },

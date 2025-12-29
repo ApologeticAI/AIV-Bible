@@ -145,9 +145,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 51,
       "verse": 12,
-      "text": "Therefore I will give thanks and praise you, and will bless the name of the Lord.",
-      "links": "<a href='/AIV/19/138/1'>Ps. 138:1</a>; <a href='/AIV/19/145/21'>Ps. 145:21</a>",
-      "comment": "Public thanksgiving and blessing God’s name express gratitude, linking personal prayer to communal worship as established in ancient Israel."
+      "text": "For you saved me from destruction and rescued me in time of trouble. For this reason I thank you and praise you, and I bless the name of the Lord. Give thanks to the LORD, for he is good, for his steadfast love endures forever; Give thanks to the God of praises, for his steadfast love endures forever; Give thanks to the guardian of Israel, for his steadfast love endures forever; Give thanks to him who formed all things, for his steadfast love endures forever; Give thanks to the redeemer of Israel, for his steadfast love endures forever; Give thanks to him who gathers the dispersed of Israel, for his steadfast love endures forever; Give thanks to him who rebuilt his city and his sanctuary, for his steadfast love endures forever; Give thanks to him who makes a horn to sprout for the house of David, for his steadfast love endures forever; Give thanks to him who has chosen the sons of Zadok to be priests, for his steadfast love endures forever; Give thanks to the shield of Abraham, for his steadfast love endures forever; Give thanks to the rock of Isaac, for his steadfast love endures forever; Give thanks to the mighty one of Jacob, for his steadfast love endures forever; Give thanks to him who has chosen Zion, for his steadfast love endures forever; Give thanks to the King of the kings of kings, for his steadfast love endures forever; He has raised up a horn for his people, praise for all his loyal ones. For the children of Israel, the people close to him. Praise the LORD!",
+      "links": [
+        "Ps 136:1-26",
+        "Ps 118:1",
+        "Luke 1:68-69"
+      ],
+      "comment": "Expanded to include the Hebrew additions found in the RSVCE, preserving the repeated 'Give thanks...' lines and the doxology."
     },
     {
       "pk": 28051013,
@@ -368,7 +372,7 @@
       "comment": "The promise of final rest alludes to the Sabbath and, in Christian thought, to eternal rest with God. Perseverance is essential, and God’s reward is rest for the soul."
     }
   ],
-  "translatedAt": "2025-12-24T07:50:48.697Z",
+  "translatedAt": "2025-12-28T02:52:48.030Z",
   "sections": [
     {
       "title": "Thanksgiving for Deliverance",

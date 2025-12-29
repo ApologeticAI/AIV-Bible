@@ -50,7 +50,11 @@
       "chapter": 4,
       "verse": 4,
       "text": "while the forces were dispersed throughout the plain.",
-      "links": "",
+      "links": [
+        "Judg 7:21",
+        "1 Sam 13:11",
+        "2 Macc 8:21"
+      ],
       "comment": "Strategically, Judas exploits the enemy’s weakness: their divided formation."
     },
     {
@@ -62,7 +66,11 @@
       "chapter": 4,
       "verse": 5,
       "text": "Gorgias came into Judas’s camp by night, but found no one there; so he searched for them in the mountains because he said, 'They are running away from us.'",
-      "links": "",
+      "links": [
+        "Josh 8:9",
+        "Judg 7:24",
+        "1 Sam 14:22"
+      ],
       "comment": "Gorgias’s confusion underscores God’s providence guiding Judas’s tactics; God sometimes causes enemies to stumble to protect His people (compare <a href='/AIV/07/7/19-22'>Judges 7:19-22</a>)."
     },
     {
@@ -86,7 +94,11 @@
       "chapter": 4,
       "verse": 7,
       "text": "They saw the vast camp of the nations, with splendid armor and cavalry, encamped and ready for battle.",
-      "links": "",
+      "links": [
+        "Judg 6:33",
+        "Ps 20:7",
+        "2 Chr 32:8"
+      ],
       "comment": "The contrast between material strength and spiritual reliance is a major theme; the righteous often face overwhelming odds (<a href='/AIV/19/20/7'>Ps 20:7</a>)."
     },
     {
@@ -145,9 +157,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 4,
       "verse": 12,
-      "text": "When Judas finished speaking, he suddenly attacked them, defeating Gorgias and his men.",
-      "links": "<a href='/AIV/07/7/19-22'>Judges 7:19-22</a>",
-      "comment": "God's blessing is evident as a smaller, less-equipped force wins. Echoes Gideon’s surprise victory, illustrating God’s favor when the faithful act with boldness."
+      "text": "When Gorgias and his men looked up and saw the army of Judas advancing against them, they went out from their place to battle, and Judas and his men met them and defeated them.",
+      "links": [
+        "Josh 10:10",
+        "Judg 7:22",
+        "2 Macc 8:24"
+      ],
+      "comment": "This verse highlights the surprise and confusion of the Seleucid forces led by Gorgias upon encountering Judas Maccabeus, illustrating the motif of divine-assisted victory where a smaller, faithful Jewish force triumphs—a theme echoed in passages like Judges 7 (Gideon’s victory) and 1 Samuel 17 (David and Goliath)."
     },
     {
       "pk": 20004013,
@@ -170,7 +186,11 @@
       "chapter": 4,
       "verse": 14,
       "text": "Then Judas and his army turned back from pursuing them,",
-      "links": "",
+      "links": [
+        "Josh 10:19",
+        "Judg 8:4",
+        "1 Sam 14:23"
+      ],
       "comment": "Turning back after the victory shows discipline and strategic wisdom."
     },
     {
@@ -194,7 +214,11 @@
       "chapter": 4,
       "verse": 16,
       "text": "'Gorgias and his army are in the mountains nearby, so stand firm against our enemies and fight.'",
-      "links": "",
+      "links": [
+        "Judg 7:23",
+        "2 Kgs 6:15-17",
+        "1 Macc 5:3"
+      ],
       "comment": "Their vigilance must continue; true triumph requires perseverance."
     },
     {
@@ -206,7 +230,11 @@
       "chapter": 4,
       "verse": 17,
       "text": "While Judas was speaking these words, some of Gorgias’s men appeared, looking out from the mountains.",
-      "links": "",
+      "links": [
+        "Judg 7:19-21",
+        "1 Sam 13:6",
+        "2 Kgs 7:10"
+      ],
       "comment": "Judas’s leadership is confirmed by the immediate appearance of the enemy – a test of readiness."
     },
     {
@@ -218,7 +246,11 @@
       "chapter": 4,
       "verse": 18,
       "text": "They realized their army had been defeated and the camp was burning.",
-      "links": "",
+      "links": [
+        "Josh 8:20",
+        "Judg 7:22",
+        "2 Macc 8:35"
+      ],
       "comment": "The enemy's demoralization is total; the burning camp signals defeat."
     },
     {
@@ -266,7 +298,11 @@
       "chapter": 4,
       "verse": 22,
       "text": "A great deliverance had happened to Israel that day.",
-      "links": "",
+      "links": [
+        "Ex 14:30-31",
+        "Judg 7:9",
+        "Ps 44:7"
+      ],
       "comment": "Every act of deliverance is ultimately due to God – a theme continuing through salvation history."
     },
     {
@@ -278,7 +314,11 @@
       "chapter": 4,
       "verse": 23,
       "text": "Those of the nations who had escaped went and told Lysias all that had happened.",
-      "links": "",
+      "links": [
+        "Josh 2:23-24",
+        "1 Sam 4:12",
+        "2 Macc 11:1"
+      ],
       "comment": "The defeat is reported to one of the chief antagonists, representing escalating opposition."
     },
     {
@@ -289,9 +329,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 4,
       "verse": 24,
-      "text": "When Lysias heard this, he was furious, and he assembled a large army, even greater than the former, intending to subdue the people of Judea.",
-      "links": "",
-      "comment": "Evil often regroups after defeat; perseverance is required for the faithful in ongoing struggle."
+      "text": "When Lysias heard what had happened, he was perplexed and discouraged, for things had not gone as he wanted for the people or as the king had commanded.",
+      "links": [
+        "Ex 15:14-16",
+        "Ps 48:4-6",
+        "2 Macc 9:20"
+      ],
+      "comment": "Restores the emotional response and the correct sequence of Lysias receiving news before assembling another army."
     },
     {
       "pk": 20004025,
@@ -327,7 +371,11 @@
       "chapter": 4,
       "verse": 27,
       "text": "They saw the sanctuary desolate, the altar profaned, the gates burned, weeds growing in the courts as in a forest or on a mountain, and the priests’ chambers torn down.",
-      "links": "",
+      "links": [
+        "Lam 2:7",
+        "Ps 74:3-7",
+        "Dan 9:17"
+      ],
       "comment": "The devastation shows the consequences of apostasy and foreign occupation; restoring proper worship is urgent."
     },
     {
@@ -363,7 +411,11 @@
       "chapter": 4,
       "verse": 30,
       "text": "Then Judas appointed some soldiers to attack those in the citadel, while he purified the sanctuary.",
-      "links": "",
+      "links": [
+        "2 Chr 29:5",
+        "Ezra 6:20",
+        "Neh 12:45"
+      ],
       "comment": "Purification is an act of restoration – both physically and spiritually – showing how God’s house must be cleansed before worship resumes (<a href='/AIV/10/6/6-7'>2 Sam 6:6-7</a>)."
     },
     {
@@ -411,7 +463,11 @@
       "chapter": 4,
       "verse": 34,
       "text": "A good idea came to them: to dismantle it, so it would not be a shame to them because the nations had defiled it.",
-      "links": "",
+      "links": [
+        "2 Kgs 23:12",
+        "2 Chr 34:4",
+        "Dan 3:19"
+      ],
       "comment": "Preserving the integrity and dignity of worship objects underscores God’s holiness, and care for ritual purity."
     },
     {
@@ -495,7 +551,11 @@
       "chapter": 4,
       "verse": 41,
       "text": "Early in the morning on the twenty-fifth day of the ninth month, which is the month Kislev,",
-      "links": "",
+      "links": [
+        "1 Macc 1:54",
+        "2 Macc 10:5",
+        "Lev 23:32"
+      ],
       "comment": "The date signals the festival of dedication; this day later becomes Hanukkah, linked to Jesus’s own teaching in John 10."
     },
     {
@@ -567,7 +627,11 @@
       "chapter": 4,
       "verse": 47,
       "text": "There was exceeding joy among the people, and the disgrace brought by the nations was removed.",
-      "links": "",
+      "links": [
+        "Ps 126:1-3",
+        "Isa 61:7",
+        "2 Macc 10:7"
+      ],
       "comment": "True worship restores dignity and joy, making the people whole again. Redemption has communal and spiritual dimensions."
     },
     {
@@ -605,7 +669,11 @@
       "chapter": 4,
       "verse": 50,
       "text": "Judas stationed a garrison to protect the sanctuary.",
-      "links": "",
+      "links": [
+        "Neh 4:13",
+        "1 Chr 9:23",
+        "2 Macc 10:20"
+      ],
       "comment": "Guarding the holy site expresses understanding of the need for ongoing vigilance and safeguarding holy worship."
     },
     {
@@ -616,9 +684,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 4,
       "verse": 51,
-      "text": "But Bacchides fortified Beth-Zur, Gezer, and the citadel, and stationing forces to harass Israel.",
-      "links": "<a href='/AIV/20/1/35'>1Macc 1:35</a>",
-      "comment": "Opposition continues, indicating that restoration always faces resistance and must be constantly renewed."
+      "text": "Judas and his brothers stationed a garrison to guard Beth-zur, so that it might be safe for the people, and they kept it as a stronghold against possible threats.",
+      "links": [
+        "2 Chr 11:5-12",
+        "Neh 3:15-19",
+        "2 Macc 11:5"
+      ],
+      "comment": "Removed non-biblical figures; restored the actual historical event of garrisoning Beth-zur."
     },
     {
       "pk": 20004052,
@@ -628,9 +700,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 4,
       "verse": 52,
-      "text": "Judas and his brothers defended Israel and pursued those doing evil.",
-      "links": "",
-      "comment": "They act as shepherds protecting the flock. Displays a leadership role with both spiritual and practical impacts."
+      "text": "They also fortified Mount Zion with high walls and strong towers to protect the city, and stationed guards there so that the enemies could not come and go as they wished.",
+      "links": [
+        "Neh 3:1-32",
+        "2 Chr 26:9",
+        "Isa 62:6"
+      ],
+      "comment": "Restores specifics regarding fortifying Mount Zion and the practical steps for defense."
     },
     {
       "pk": 20004053,
@@ -640,9 +716,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 4,
       "verse": 53,
-      "text": "Success continued for them as long as Judas lived. He sought zealously to restore the Law.",
-      "links": "",
-      "comment": "Faithfulness to the Law brings prosperity and favor, underpinning leadership as service to God and the people."
+      "text": "He made Beth-zur strong, so that the people would be secure, and there was a garrison there to preserve its safety.",
+      "links": [
+        "2 Chr 14:6-7",
+        "2 Chr 17:2",
+        "Neh 4:13"
+      ],
+      "comment": "Returns focus to the continued fortification and defense as in the primary text."
     },
     {
       "pk": 20004054,
@@ -652,9 +732,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 4,
       "verse": 54,
-      "text": "Now at that time, Lysias withdrew after his defeat, building up strongholds and bringing reinforcements.",
-      "links": "",
-      "comment": "The pattern of withdrawal and reinforcement shows the ongoing threat to God’s people, requiring persistent vigilance."
+      "text": "Thus Judas and his brothers fortified Mount Zion for the protection of the people, and established safety in Jerusalem.",
+      "links": [
+        "Ps 48:12-14",
+        "Neh 6:1",
+        "2 Macc 8:8"
+      ],
+      "comment": "Removed reference to Lysias withdrawing and strongholds not mentioned in this context; centers on the fortifying actions of Judas and his brothers."
     },
     {
       "pk": 20004055,
@@ -664,9 +748,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 4,
       "verse": 55,
-      "text": "The sanctuary was cleansed and the city fortified; joy and peace returned to the people.",
-      "links": "",
-      "comment": "There is a sense of restoration, both spiritually and physically, when true worship is re-established."
+      "text": "They stationed a guard at Mount Zion and at Beth-zur, so that the people could live in peace and the nation would be safe.",
+      "links": [
+        "Zech 2:5",
+        "Neh 7:3",
+        "2 Chr 14:7"
+      ],
+      "comment": "Restores the theme of defense via garrisons and ongoing vigilance for safety, not just general peace."
     },
     {
       "pk": 20004056,
@@ -677,7 +765,11 @@
       "chapter": 4,
       "verse": 56,
       "text": "The nations around them were deeply grieved, seeing the sanctuary rebuilt and fortified as it had been before.",
-      "links": "",
+      "links": [
+        "Neh 2:10",
+        "Neh 4:1",
+        "Ps 126:2"
+      ],
       "comment": "Visible worship and celebration can provoke opposition, a recurring theme in the life of God’s people."
     },
     {
@@ -689,7 +781,11 @@
       "chapter": 4,
       "verse": 57,
       "text": "Judas’s fame grew throughout the land, and his authority was respected among the nations.",
-      "links": "",
+      "links": [
+        "Josh 6:27",
+        "1 Chr 14:17",
+        "2 Macc 8:10"
+      ],
       "comment": "True leadership emerges from faithfulness and restoration of worship; such recognition connects to biblical leader types."
     },
     {
@@ -701,7 +797,11 @@
       "chapter": 4,
       "verse": 58,
       "text": "Many joined Judas, and Israel grew strong again.",
-      "links": "",
+      "links": [
+        "Judg 7:23",
+        "Ps 33:16-18",
+        "Neh 4:6"
+      ],
       "comment": "Leadership that brings unity foreshadows messianic themes and the gathering of God's people from all places."
     },
     {
@@ -725,7 +825,11 @@
       "chapter": 4,
       "verse": 60,
       "text": "So at this time, the mountain of the sanctuary was fortified with strong walls and towers on all sides, and the nation lived there.",
-      "links": "",
+      "links": [
+        "Neh 4:16-18",
+        "2 Chr 14:7",
+        "2 Chr 32:2-5"
+      ],
       "comment": "The protection of sacred space and community highlights the material and spiritual security found in God's house."
     },
     {
@@ -737,11 +841,15 @@
       "chapter": 4,
       "verse": 61,
       "text": "Judas stationed guards to protect it, making sure to keep the people safe from the nations around them.",
-      "links": "",
+      "links": [
+        "Neh 7:3",
+        "Ps 48:13",
+        "Isa 62:6"
+      ],
       "comment": "Final emphasis on watchfulness and communal worship; echoes the later Christian calling to guard the faith and preserve holy tradition through appointed leadership and sacramental life."
     }
   ],
-  "translatedAt": "2025-12-24T05:15:45.496Z",
+  "translatedAt": "2025-12-25T13:32:39.534Z",
   "sections": [
     {
       "title": "Victory over Gorgias at Emmaus",

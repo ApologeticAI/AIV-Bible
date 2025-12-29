@@ -85,9 +85,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 3,
       "verse": 7,
-      "text": "He restored many who were humbled by distress and destroyed the arrogant.",
-      "links": "<a href='/AIV/19/18/27'>Ps. 18:27</a>",
-      "comment": "Restoration of the humbled prefigures the reversal of fortunes in Luke 1:52-53; God exalts the lowly and brings down the proud."
+      "text": "He embittered many kings, but he made Jacob glad by his deeds, and his memory is blessed forever.",
+      "links": [
+        "Ps 112:6",
+        "Sir 45:1",
+        "Gen 30:24"
+      ],
+      "comment": "Judas Maccabeus' victories against enemy kings brought hope and joy to Israel ('Jacob'), and his legacy echoes the biblical motif of righteous leaders whose memory is blessed (cf. Sirach 44:1)."
     },
     {
       "pk": 20003008,
@@ -508,9 +512,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 3,
       "verse": 42,
-      "text": "The army of Judas saw the multitude and were deeply troubled; their hearts failed, and they realized there was no escape from their enemies.",
-      "links": "<a href='/AIV/19/22/14'>Ps. 22:14</a>",
-      "comment": "Despair of the faithful mirrors Christ’s agony in the garden; human weakness is the occasion for divine strength."
+      "text": "Now Judas and his brothers saw that misfortunes had increased and that the forces were encamped in their territory. They also learned what the king had commanded to do to the people to cause their final destruction.",
+      "links": [
+        "Esth 3:13",
+        "Dan 3:19",
+        "Ps 83:4"
+      ],
+      "comment": "This verse illustrates the desperate situation of the Jews under Antiochus IV, highlighting the existential threat against God's people and setting the stage for divine intervention (cf. Esther 3:13)."
     },
     {
       "pk": 20003043,
@@ -641,9 +649,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 3,
       "verse": 53,
-      "text": "They sounded the trumpets and cried aloud.",
-      "links": "<a href='/AIV/4/10/9'>Num. 10:9</a>",
-      "comment": "Trumpets call the people to prayer and to battle; see Joshua 6:4 for liturgical ritual preceding military victory."
+      "text": "How will we be able to withstand them, if you do not help us?",
+      "links": [
+        "Ps 60:11",
+        "2 Chr 14:11",
+        "Judg 7:7"
+      ],
+      "comment": "The urgent plea for God's assistance reflects Israel's dependence on divine deliverance, a recurring theme in times of crisis (cf. Psalm 44:6-7)."
     },
     {
       "pk": 20003054,
@@ -653,9 +665,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 3,
       "verse": 54,
-      "text": "Afterward Judas appointed leaders over the people, commanders of thousands, hundreds, fifties, and tens, as required by law.",
-      "links": "<a href='/AIV/2/18/21-25'>Ex. 18:21-25</a>",
-      "comment": "Godly order prevails, as with Moses appointing leaders according to God's command. Structure and hierarchy have spiritual roots."
+      "text": "Then they sounded the trumpets and gave a loud shout.",
+      "links": [
+        "Num 10:9",
+        "Josh 6:20",
+        "Judg 7:18"
+      ],
+      "comment": "The trumpet and loud shout signal both prayer and readiness for battle, echoing Old Testament practices when going forth to war (cf. Numbers 10:9)."
     },
     {
       "pk": 20003055,
@@ -665,9 +681,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 3,
       "verse": 55,
-      "text": "He said to those building houses, getting married, planting vineyards, or fearful to return to their homes, as the Law instructs.",
-      "links": "<a href='/AIV/5/20/5-8'>Deut. 20:5-8</a>",
-      "comment": "Reference to the Law's mercy for the fainthearted and the newly wed underscores the priority of mercy, life, and family in spiritual living."
+      "text": "After this Judas appointed leaders of the people, in charge of thousands and hundreds and fifties and tens.",
+      "links": [
+        "Ex 18:25",
+        "Deut 1:15",
+        "Num 31:14"
+      ],
+      "comment": "Judas organizes the army in divisions mirroring the structure found in Exodus 18:21, emphasizing orderly leadership rooted in Mosaic tradition."
     },
     {
       "pk": 20003056,
@@ -677,9 +697,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 3,
       "verse": 56,
-      "text": "Then the army moved out and camped to the south of Emmaus.",
-      "links": "<a href='/AIV/20/4/3'>1Macc 4:3</a>",
-      "comment": "Preparation for battle is deliberate, prudent, and in obedience to God's Law, reflecting the wisdom needed in spiritual warfare."
+      "text": "Those who were building houses, or were about to be married, or were planting a vineyard, or were fainthearted, he told to go home again, according to the law.",
+      "links": [
+        "Deut 20:5-8",
+        "Judg 7:3",
+        "Luke 14:18-20"
+      ],
+      "comment": "By excusing certain men from battle according to Deuteronomy 20:5-8, Judas demonstrates fidelity to the Torah while preparing for holy war."
     },
     {
       "pk": 20003057,
@@ -689,9 +713,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 3,
       "verse": 57,
-      "text": "Judas said, 'Prepare yourselves and be valiant; be ready in the morning to fight these Gentiles who have assembled against us to destroy us and our sanctuary.'",
-      "links": "<a href='/AIV/2/14/13'>Ex. 14:13</a>",
-      "comment": "Exhortation to courage and holiness recalls Moses before the Red Sea. The sanctuary's centrality guides the mission and purpose of God's people."
+      "text": "Then the army marched out and encamped to the south of Emmaus.",
+      "links": [
+        "Luke 24:13",
+        "1 Macc 4:3",
+        "Josh 10:12"
+      ],
+      "comment": "The army's encampment near Emmaus places them strategically for the coming conflict, marking the transition from preparation to confrontation."
     },
     {
       "pk": 20003058,
@@ -701,9 +729,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 3,
       "verse": 58,
-      "text": "'It is better for us to die in battle than to see the disasters that will come upon our people and the sanctuary.'",
-      "links": "<a href='/AIV/18/13/15'>Job 13:15</a>",
-      "comment": "Martyrdom for the sake of faith and worship prefigures Christian witness, teaching that personal sacrifice is united to the preservation and honor of right worship."
+      "text": "And Judas said, “Arm yourselves and be courageous. Be ready early in the morning to fight with these Gentiles who have assembled against us to destroy us and our sanctuary.\"",
+      "links": [
+        "Deut 31:6",
+        "1 Cor 16:13",
+        "Neh 4:14"
+      ],
+      "comment": "Judas urges courage and readiness, focusing on the defense of both people and sanctuary, which underscores the theological link between God’s presence and the fate of the nation."
     },
     {
       "pk": 20003059,
@@ -713,9 +745,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 3,
       "verse": 59,
-      "text": "'May God do as He wills.'",
-      "links": "<a href='/AIV/40/6/10'>Matt. 6:10</a>",
-      "comment": "The acceptance of God's will reflects true faith and mirrors Christ’s prayer in Gethsemane, 'Not my will but Yours be done.'"
+      "text": "It is better for us to die in battle than to see the misfortunes of our nation and of the sanctuary.",
+      "links": [
+        "Judg 20:18",
+        "Dan 3:16-18",
+        "John 11:50"
+      ],
+      "comment": "This declaration embodies the principle of honor in martyrdom for God's cause, paralleling sentiments found in 2 Maccabees 7 regarding faithful suffering."
     },
     {
       "pk": 20003060,
@@ -725,12 +761,16 @@
       "bookAbbreviation": "1Macc",
       "chapter": 3,
       "verse": 60,
-      "text": "So the army remained in the camp, ready for battle.",
-      "links": "<a href='/AIV/19/27/14'>Ps. 27:14</a>",
-      "comment": "Readiness in spiritual warfare anticipates the Church Militant, always prepared in prayer, faith, and confidence in God's providence."
+      "text": "But as his will in heaven may be, so shall he do.",
+      "links": [
+        "1 Sam 3:18",
+        "Matt 6:10",
+        "Ps 115:3"
+      ],
+      "comment": "Judas submits their fate to God's sovereign will, reflecting biblical faith in God’s providence over human events (cf. Daniel 3:17-18)."
     }
   ],
-  "translatedAt": "2025-12-24T05:14:56.301Z",
+  "translatedAt": "2025-12-28T06:52:15.794Z",
   "sections": [
     {
       "title": "Judas Maccabeus Takes Command",

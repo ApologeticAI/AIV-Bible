@@ -12,9 +12,13 @@
       "bookAbbreviation": "Tob",
       "chapter": 2,
       "verse": 1,
-      "text": "Afterward, during the feast of Pentecost, which is the holy festival of Weeks, I cooked a meal and sat down to eat.",
-      "links": "<a href='/AIV/3/23/15-21'>Lev. 23:15-21</a>; <a href='/AIV/2/34/22'>Ex. 34:22</a>",
-      "comment": "The reference to the festival of Weeks (Pentecost) connects Tobit's devotion to the ancient law, affirming the continuity of God's covenant. The tradition of celebrating feasts ties believers together across generations, foreshadowing the greater fulfillment found in Christ (Acts 2:1-4).",
+      "text": "Then during the reign of Esar-haddon I returned home, and my wife Anna and my son Tobias were restored to me. At our festival of Pentecost, which is the sacred festival of weeks, a good dinner was prepared for me and I reclined to eat.",
+      "links": [
+        "Lev 23:15-21",
+        "Deut 16:9-12",
+        "Acts 2:1"
+      ],
+      "comment": "Tobit’s return during Esar-haddon’s reign marks a time of restoration for his family; his celebration of Pentecost (Feast of Weeks, cf. Exodus 34:22) highlights the ongoing devotion to Jewish law even in exile.",
       "sectionHeader": "Tobit's Burial of the Murdered Israelite"
     },
     {
@@ -25,7 +29,7 @@
       "bookAbbreviation": "Tob",
       "chapter": 2,
       "verse": 2,
-      "text": "As I saw many hungry Israelites, I said to my son, 'Go, bring some of our kin who are faithful and in need, so that they may share this meal with me.'",
+      "text": "When the table was set for me and an abundance of food placed before me, I said to my son Tobias, 'Go, my child, and bring whatever poor person you may find of our people among the exiles in Nineveh, who is wholeheartedly mindful of God, and he shall eat together with me. I will wait for you, until you come back.'",
       "links": "<a href='/AIV/5/15/7'>Deut. 15:7</a>; <a href='/AIV/20/19/17'>Prov. 19:17</a>",
       "comment": "Tobit's invitation shows charity rooted in the law, a virtue advanced by Christ who commanded care for the poor (Matt. 25:35-40). Sharing with the needy is a spiritual act of mercy, reflecting the unity and communal character of the early Church."
     },
@@ -37,7 +41,7 @@
       "bookAbbreviation": "Tob",
       "chapter": 2,
       "verse": 3,
-      "text": "When my son returned, he said, 'Father, one of our people has been strangled and thrown into the marketplace.'",
+      "text": "So Tobias went to look for some poor person of our people. When he had returned he said, 'Father!' And I replied, 'Here I am, my child.' Then he went on to say, 'Look, father, one of our own people has been murdered and thrown into the market place, and now he lies there strangled.'",
       "links": "<a href='/AIV/11/21/16'>Judg. 21:16</a>; <a href='/AIV/19/79/3'>Ps. 79:3</a>",
       "comment": "The neglected dead reflect Israel's suffering in exile and the need for dignity even in death. This concern for the body expresses belief in bodily resurrection and hope, pointing to the physical care shown in Christ's burial (Matt. 27:59-60)."
     },
@@ -61,9 +65,13 @@
       "bookAbbreviation": "Tob",
       "chapter": 2,
       "verse": 5,
-      "text": "When sunset had come, I went out and buried him.",
-      "links": "<a href='/AIV/5/21/23'>Deut. 21:23</a>; <a href='/AIV/42/23/53'>Luke 23:53</a>",
-      "comment": "Tobit's care to bury at sunset fulfills Deuteronomic law, showing respect for God's command and the dignity of the body—an early sign of hope in the resurrection (John 5:28-29)."
+      "text": "When I returned, I washed myself and ate my food in sorrow.",
+      "links": [
+        "Ps 102:4",
+        "Job 3:24",
+        "Ps 42:3"
+      ],
+      "comment": "Tobit’s ritual washing and eating in sorrow reflect mourning practices, emphasizing his deep compassion and moral distress after burying a fellow Israelite despite personal risk."
     },
     {
       "pk": 17002006,
@@ -73,9 +81,13 @@
       "bookAbbreviation": "Tob",
       "chapter": 2,
       "verse": 6,
-      "text": "My neighbors mocked me, saying, 'He would rather be killed for this than flee.'",
-      "links": "<a href='/AIV/19/44/22'>Ps. 44:22</a>; <a href='/AIV/40/5/11'>Matt. 5:11</a>",
-      "comment": "Mockery for righteousness is a theme throughout Scripture, culminating in Christ's suffering. The willingness to endure ridicule for charity and obedience foreshadows blessedness in persecution (Matt. 5:12)."
+      "text": "Then I remembered the prophecy of Amos, how he said against Bethel, 'Your festivals shall be turned into mourning, and all your songs into lamentation.' And I wept.",
+      "links": [
+        "Amos 8:10",
+        "Joel 1:16",
+        "Lam 5:15"
+      ],
+      "comment": "Remembering Amos 8:10, Tobit draws a parallel between his own mournful feast and the prophet’s warning, illustrating how faithfulness can lead to suffering amid communal apostasy."
     },
     {
       "pk": 17002007,
@@ -85,9 +97,13 @@
       "bookAbbreviation": "Tob",
       "chapter": 2,
       "verse": 7,
-      "text": "That night, after I buried him, I came home, washed myself, and lay down by the wall of the courtyard, leaving my face uncovered because I was defiled.",
-      "links": "<a href='/AIV/3/11/24-25'>Lev. 11:24-25</a>; <a href='/AIV/20/28/13'>Prov. 28:13</a>",
-      "comment": "Tobit’s purification and humility reveal trust in God's law and a recognition of human frailty. His actions point ahead to Christian practices of confession and purification.",
+      "text": "When the sun had set, I went and dug a grave and buried him.",
+      "links": [
+        "Tob 1:17-18",
+        "Sir 7:33",
+        "Matt 25:35-36"
+      ],
+      "comment": "Tobit’s clandestine burial at sunset demonstrates dedication to Jewish burial customs (cf. Deuteronomy 21:22-23) and highlights his courage to practice righteousness under threat.",
       "sectionHeader": "Tobit's Blindness"
     },
     {
@@ -98,9 +114,13 @@
       "bookAbbreviation": "Tob",
       "chapter": 2,
       "verse": 8,
-      "text": "But I did not know there were sparrows on the wall. Their droppings fell into my eyes, then I developed white spots and became blind.",
-      "links": "<a href='/AIV/19/38/10-14'>Ps. 38:10-14</a>; <a href='/AIV/43/9/1-7'>John 9:1-7</a>",
-      "comment": "Physical affliction after an act of mercy illustrates the mysterious ways in which suffering can follow righteousness (see Job). Note the parallel to Jesus' healing of the blind, where physical darkness leads to a greater revelation of faith."
+      "text": "And my neighbors laughed and said, 'Is he still not afraid? He has already been hunted down to be put to death for doing this, and he ran away; yet here he is again burying the dead!'",
+      "links": [
+        "Dan 6:10-13",
+        "Matt 5:10-12",
+        "Heb 11:36-38"
+      ],
+      "comment": "The neighbors’ mockery underlines Tobit’s isolation and the social cost of moral conviction, reflecting the tension between faithful Jewish practice and a hostile environment."
     },
     {
       "pk": 17002009,
@@ -110,9 +130,13 @@
       "bookAbbreviation": "Tob",
       "chapter": 2,
       "verse": 9,
-      "text": "For four years I was unable to see. All my family was grieved, and Ahikar cared for me for two years, until he went to Elymais.",
-      "links": "<a href='/AIV/19/22/14'>Ps. 22:14</a>; <a href='/AIV/44/9/8'>Acts 9:8</a>",
-      "comment": "Tobit's blindness evokes themes of suffering, patience, and reliance on the community for help—an early sign of the Church as a body ministering to its members (1 Cor. 12:25-26)."
+      "text": "That same night I washed myself and went into my courtyard and slept by the wall of the courtyard, with my face uncovered because of the heat.",
+      "links": [
+        "Job 2:8",
+        "Deut 24:13",
+        "Ps 32:4"
+      ],
+      "comment": "Tobit’s choice to sleep outside after ritual purification may indicate mourning custom or avoidance of ritual impurity, showing his scrupulous observance of the law despite hardship."
     },
     {
       "pk": 17002010,
@@ -122,9 +146,13 @@
       "bookAbbreviation": "Tob",
       "chapter": 2,
       "verse": 10,
-      "text": "During that time, my wife Anna supported the household by spinning wool.",
-      "links": "<a href='/AIV/20/31/10-13'>Prov. 31:10-13</a>; <a href='/AIV/4/14/23'>Num. 14:23</a>",
-      "comment": "Anna’s diligent support recalls the virtuous woman praised in Proverbs. The inclusion of her labor shows the mutual support and dignity of family life set forth by God.",
+      "text": "I did not know that there were sparrows on the wall; their fresh droppings fell into my eyes and produced white films. I went to physicians to be healed, but the more they treated me with ointments, the more my vision was obscured by the white films, until I became completely blind. For four years I remained unable to see. All my kindred were sorry for me, and Ahikar took care of me for two years before he went to Elymais.",
+      "links": [
+        "John 9:1-3",
+        "2 Kgs 5:10-14",
+        "Ps 69:20"
+      ],
+      "comment": "The unexpected blindness caused by sparrow droppings introduces divine providence through suffering, foreshadowing later healing and underscoring themes of innocent suffering and reliance on God; parallels Job’s trials.",
       "sectionHeader": "Anna Earns a Living and Tobit's Dispute over the Goat"
     },
     {
@@ -147,7 +175,7 @@
       "bookAbbreviation": "Tob",
       "chapter": 2,
       "verse": 12,
-      "text": "On the seventh day, she finished spinning and delivered the cloth. They gave her her wages and also a young goat.",
+      "text": "She used to send what she made to the owners and they would pay wages to her. One day, the seventh of Dystrus, when she cut off a piece she had woven and sent it to the owners, they paid her full wages and also gave her a young goat for a meal.",
       "links": "<a href='/AIV/3/23/12'>Lev. 23:12</a>; <a href='/AIV/26/45/17'>Ezek. 45:17</a>",
       "comment": "The mention of the seventh day and gift of a goat highlights the connection to offerings and ritual purity, showing how daily life was intertwined with honoring God."
     },
@@ -171,12 +199,12 @@
       "bookAbbreviation": "Tob",
       "chapter": 2,
       "verse": 14,
-      "text": "But she replied, 'It was given to me as a bonus.' Yet I did not believe her, and told her to return it to the owners. I was ashamed of her. She said, 'Where are your acts of charity? Where are your righteous deeds? Everyone knows what you've done.'",
+      "text": "But she said to me, 'It was given to me as a gift in addition to my wages.' But I did not believe her, and told her to return it to the owners. I became flushed with anger against her over this. Then she replied to me, 'Where are your acts of charity? Where are your righteous deeds? These things are known about you!'",
       "links": "<a href='/AIV/20/19/17'>Prov. 19:17</a>; <a href='/AIV/40/6/1-4'>Matt. 6:1-4</a>",
       "comment": "Anna’s defense highlights recognition of good deeds among the community. Authentic righteousness is known by fruit, as Christ taught (Matt. 7:16). Personal conflict teaches humility and the reality of virtue practiced in hidden ways."
     }
   ],
-  "translatedAt": "2025-12-24T04:54:40.628Z",
+  "translatedAt": "2025-12-28T23:45:03.467Z",
   "sections": [
     {
       "title": "Tobit's Burial of the Murdered Israelite",

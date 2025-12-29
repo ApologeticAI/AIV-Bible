@@ -147,7 +147,11 @@
       "chapter": 28,
       "verse": 12,
       "text": "Putting in at Syracuse, we stayed there for three days.",
-      "links": "",
+      "links": [
+        "Acts 27:7",
+        "Acts 28:11",
+        "Acts 16:12"
+      ],
       "comment": "Luke carefully records the journey, providing historical and geographical accuracy for the events."
     },
     {
@@ -159,7 +163,11 @@
       "chapter": 28,
       "verse": 13,
       "text": "From there we set sail and arrived at Rhegium. After one day, a south wind came up, and on the second day we came to Puteoli.",
-      "links": "",
+      "links": [
+        "Acts 27:12",
+        "Acts 28:14",
+        "Rom 15:24"
+      ],
       "comment": "The continued journey toward Rome marks the progression of the gospel to the heart of the empire."
     },
     {
@@ -256,7 +264,11 @@
       "chapter": 28,
       "verse": 21,
       "text": "They said to him, 'We have received no letters from Judea concerning you, and none of the brothers who have come here have reported or spoken any evil about you.'",
-      "links": "",
+      "links": [
+        "Acts 25:25",
+        "Acts 26:31",
+        "Acts 18:14"
+      ],
       "comment": "There are no official charges against Paul, opening the way for him to proclaim the gospel freely in Rome."
     },
     {
@@ -351,9 +363,13 @@
       "bookAbbreviation": "Acts",
       "chapter": 28,
       "verse": 29,
-      "text": "When he had said these words, the Jews departed, having a great discussion among themselves.",
-      "links": "",
-      "comment": "Paul’s bold proclamation divides his hearers, showing the gospel is a matter for the conscience and heart."
+      "text": "",
+      "links": [
+        "Acts 13:45",
+        "Acts 17:4",
+        "Acts 28:24"
+      ],
+      "comment": "Verse 29 is omitted to match the RSVCE reference, where this verse does not appear."
     },
     {
       "pk": 51028030,
@@ -381,7 +397,7 @@
       "comment": "Acts ends with the gospel going out freely from Rome, the world’s capital, anticipating the ongoing and growing mission of the Church to all nations, under apostolic authority, and with the leadership centered in the city of Rome."
     }
   ],
-  "translatedAt": "2025-12-24T11:35:34.406Z",
+  "translatedAt": "2025-12-29T00:33:13.288Z",
   "sections": [
     {
       "title": "Paul on Malta",

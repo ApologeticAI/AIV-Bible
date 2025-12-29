@@ -61,9 +61,13 @@
       "bookAbbreviation": "Isa",
       "chapter": 62,
       "verse": 5,
-      "text": "For just as a young man marries a virgin, so your sons will marry you; and as a bridegroom rejoices over his bride, so your God will rejoice over you.",
-      "links": "<a href='/AIV/19/45/11'>Ps. 45:11</a>; <a href='/AIV/40/25/1'>Matt. 25:1</a>",
-      "comment": "The language of marriage reveals God’s passionate and personal love for His people. The rejoicing points to the heavenly union in the Church, fulfilled in Christ’s love and in the sacraments—spiritual realities rooted in physical signs."
+      "text": "For as a young man marries a young woman, so shall your builder marry you, and as the bridegroom rejoices over the bride, so shall your God rejoice over you.",
+      "links": [
+        "Hos 2:19-20",
+        "Eph 5:25-27",
+        "Rev 21:2"
+      ],
+      "comment": "Isaiah uses the intimate imagery of marriage, common in ancient Israel to express covenant relationship (cf. Hos 2:19-20; Jer 3:14), depicting God’s delight and devotion to His restored people, highlighting both divine initiative and joyous union."
     },
     {
       "pk": 29062006,
@@ -152,7 +156,7 @@
       "comment": "Israel’s identity as ‘Holy People’ and ‘Redeemed’ is extended to all who become part of God’s family in Christ, pursuing holiness in visible, communal unity. The ‘City Not Forsaken’ prefigures the heavenly Jerusalem, the gathering of the faithful around the throne of God."
     }
   ],
-  "translatedAt": "2025-12-24T08:18:58.123Z",
+  "translatedAt": "2025-12-28T06:57:19.068Z",
   "sections": [
     {
       "title": "Jerusalem’s Coming Glory",

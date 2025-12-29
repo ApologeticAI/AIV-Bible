@@ -100,7 +100,11 @@
       "chapter": 1,
       "verse": 8,
       "text": "And God called the firmament Heaven. And there was evening and there was morning, the second day.",
-      "links": "",
+      "links": [
+        "Gen 1:1",
+        "Ps 19:1",
+        "Jer 10:12"
+      ],
       "comment": "Naming the sky 'Heaven' continues God's dominion over creation. The repetition of day cycles affirms the ordered, purposeful establishment of the world."
     },
     {
@@ -149,7 +153,11 @@
       "chapter": 1,
       "verse": 12,
       "text": "And the earth brought forth vegetation: plants yielding seed according to their kind, and trees bearing fruit whose seed is in them, according to their kind. And God saw that it was good.",
-      "links": "",
+      "links": [
+        "Gen 1:29",
+        "Ps 104:14",
+        "Matt 6:30"
+      ],
       "comment": "God's blessing is seen in fruitfulness and variety. The repeated phrase 'according to their kind' points to the order and wisdom in creation."
     },
     {
@@ -161,7 +169,11 @@
       "chapter": 1,
       "verse": 13,
       "text": "And there was evening and there was morning, the third day.",
-      "links": "",
+      "links": [
+        "Gen 1:5",
+        "Gen 1:8",
+        "Gen 1:19"
+      ],
       "comment": "Marks the completion of another stage, emphasizing the rhythm and intentionality of God's work."
     },
     {
@@ -186,7 +198,11 @@
       "chapter": 1,
       "verse": 15,
       "text": "And let them be lights in the firmament of the heaven to give light on the earth.' And it was so.",
-      "links": "",
+      "links": [
+        "Ps 74:16",
+        "Jer 31:35",
+        "Gen 1:17"
+      ],
       "comment": "The lights have a functional purpose, giving light to the earth and serving humanity."
     },
     {
@@ -210,7 +226,11 @@
       "chapter": 1,
       "verse": 17,
       "text": "And God placed them in the firmament of the heaven to give light on the earth,",
-      "links": "",
+      "links": [
+        "Deut 4:19",
+        "Ps 136:7",
+        "Gen 1:15"
+      ],
       "comment": "The heavenly bodies are set purposefully, under God's authority, not to be worshipped."
     },
     {
@@ -222,7 +242,11 @@
       "chapter": 1,
       "verse": 18,
       "text": "and to rule over the day and over the night, and to separate light from darkness. And God saw that it was good.",
-      "links": "",
+      "links": [
+        "Jer 33:25",
+        "Ps 104:19",
+        "Gen 1:4"
+      ],
       "comment": "Again, God values and approves His handiwork, confirming its goodness and order."
     },
     {
@@ -234,7 +258,11 @@
       "chapter": 1,
       "verse": 19,
       "text": "And there was evening and there was morning, the fourth day.",
-      "links": "",
+      "links": [
+        "Gen 1:5",
+        "Gen 1:13",
+        "Gen 1:23"
+      ],
       "comment": "Completes another stage, keeping the pattern of creative days."
     },
     {
@@ -259,7 +287,11 @@
       "chapter": 1,
       "verse": 21,
       "text": "So God created the great sea creatures and every living thing that moves, with which the waters swarmed, according to their kind, and every winged bird according to its kind. And God saw that it was good.",
-      "links": "",
+      "links": [
+        "Ps 104:25",
+        "Gen 2:19",
+        "1 Cor 15:39"
+      ],
       "comment": "The language repeats God’s approval for each kind and emphasizes the diversity and abundance of life."
     },
     {
@@ -283,7 +315,11 @@
       "chapter": 1,
       "verse": 23,
       "text": "And there was evening and there was morning, the fifth day.",
-      "links": "",
+      "links": [
+        "Gen 1:5",
+        "Gen 1:13",
+        "Gen 1:19"
+      ],
       "comment": "The pattern of evening and morning again highlights the rhythm of sacred time."
     },
     {
@@ -295,7 +331,11 @@
       "chapter": 1,
       "verse": 24,
       "text": "And God said, 'Let the earth bring forth living creatures according to their kinds: livestock, creeping things, and wild animals of the earth according to their kinds.' And it was so.",
-      "links": "",
+      "links": [
+        "Gen 2:19",
+        "Ps 148:10",
+        "Rom 1:20"
+      ],
       "comment": "The earth continues to respond to God's word, producing a range of living things. This diversity points to God’s wisdom and order.",
       "sectionHeader": "The Sixth Day: Creation of Land Animals and Man"
     },
@@ -308,7 +348,11 @@
       "chapter": 1,
       "verse": 25,
       "text": "And God made the animals of the earth according to their kinds, and the livestock according to their kinds, and everything that creeps on the ground according to its kind. And God saw that it was good.",
-      "links": "",
+      "links": [
+        "Gen 7:14",
+        "Ps 50:10",
+        "Gen 1:24"
+      ],
       "comment": "Once again, creation reflects God’s goodness and careful design."
     },
     {
@@ -356,7 +400,11 @@
       "chapter": 1,
       "verse": 29,
       "text": "And God said, 'Behold, I have given you every plant yielding seed that is on the face of all the earth, and every tree with fruit which yields seed. They shall be food for you.'",
-      "links": "",
+      "links": [
+        "Gen 9:3",
+        "Ps 104:14",
+        "Matt 6:31"
+      ],
       "comment": "God provides abundance with purpose. Humanity is given responsibility to use and care for the earth's resources wisely, a foundation for stewardship and morality."
     },
     {
@@ -368,7 +416,11 @@
       "chapter": 1,
       "verse": 30,
       "text": "And to every beast of the earth, and to every bird of the heavens, and to everything that creeps on the earth, in which there is breath of life, I have given every green plant for food.' And it was so.",
-      "links": "",
+      "links": [
+        "Ps 145:16",
+        "Gen 2:9",
+        "Job 38:41"
+      ],
       "comment": "At creation, all creatures are provided for in harmony. Original peace points to a future restoration in Christ: the fullness of creation is renewed in Him."
     },
     {

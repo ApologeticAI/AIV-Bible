@@ -37,7 +37,7 @@
       "bookAbbreviation": "2Macc",
       "chapter": 5,
       "verse": 3,
-      "text": "All people prayed for these visions to be a good sign.",
+      "text": "There appeared troops of cavalry drawn up, attacks and counterattacks made on this side and on that, brandishing of shields, massing of spears, hurling of missiles, the flash of golden trappings, and armor of all kinds.",
       "links": "<a href='/AIV/44/12/5'>Acts 12:5</a>",
       "comment": "The faithful turn to prayer when confronted by supernatural signs, demonstrating a communal trust in God's providence. This echoes the importance of persistent prayer for deliverance, a theme found throughout both Old and New Testament."
     },
@@ -49,7 +49,7 @@
       "bookAbbreviation": "2Macc",
       "chapter": 5,
       "verse": 4,
-      "text": "But a false report was spread that Antiochus had died. Jason took at least a thousand men and made a sudden attack on the city. When the defenders on the wall were forced to retreat, the city was finally taken; Menelaus fled to the citadel.",
+      "text": "Therefore everyone prayed that the apparition might prove to have been a good omen.",
       "links": "<a href='/AIV/21/4/41-42'>1 Macc. 4:41-42</a>",
       "comment": "Jason, the former high priest, exploits civil turmoil for power. Internal strife weakens the people, mirroring conflicts over rightful leadership—a recurring theme in Israel's history and the early Church.",
       "sectionHeader": "Jason's Violent Coup and Downfall"
@@ -62,7 +62,7 @@
       "bookAbbreviation": "2Macc",
       "chapter": 5,
       "verse": 5,
-      "text": "Jason mercilessly slaughtered the citizens, seeing not his countrymen, but enemies, and did not realize that success against his people would bring his own downfall.",
+      "text": "When a false rumor arose that Antiochus was dead, Jason took no fewer than a thousand men and suddenly made an assault on the city. When the troops on the wall had been forced back and at last the city was being taken, Menelaus took refuge in the citadel.",
       "links": "<a href='/AIV/19/7/15-16'>Ps. 7:15-16</a>; <a href='/AIV/40/26/52'>Matt. 26:52</a>",
       "comment": "Violence against one's own people is always condemned in Scripture. This verse foreshadows the principle that those who take up the sword will perish by it—a warning against divisions within the community of faith."
     },
@@ -74,9 +74,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 5,
       "verse": 6,
-      "text": "He did not win power; instead, in the end, he was forced to flee to the country of the Ammonites. Then, his evil deeds finally caught up with him. Doomed by so many accusations, pursued by all, he eventually destroyed himself by the sword.",
-      "links": "<a href='/AIV/19/9/15-16'>Ps. 9:15-16</a>",
-      "comment": "The punishment fits the crime: those who sow violence reap it. This notion of justice is common in wisdom literature and later Christian teaching on sowing and reaping."
+      "text": "But Jason kept relentlessly slaughtering his compatriots, not realizing that success at the cost of one’s kindred is the greatest misfortune, but imagining that he was setting up trophies of victory over enemies and not over compatriots.",
+      "links": [
+        "Prov 28:17",
+        "Matt 24:10",
+        "Jer 22:17"
+      ],
+      "comment": "Jason's ruthless violence against his own people underscores the moral disaster of fraternal strife, echoing the biblical warning that internal discord is more tragic than defeat by foreign enemies (cf. Genesis 4:8; Judges 9:23-57)."
     },
     {
       "pk": 21005007,
@@ -86,9 +90,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 5,
       "verse": 7,
-      "text": "Jason took refuge from one city to another, pursued by everyone, hated as a traitor to the laws and his country, driven out to Egypt.",
-      "links": "<a href='/AIV/21/4/25'>1 Macc. 4:25</a>",
-      "comment": "Betrayal of the sacred and the community leads to isolation. The motif of the exile appears—one cut off because of rejection of God’s law. An implicit warning about faithfulness to the sacred tradition entrusted by God to His people."
+      "text": "He did not, however, gain control of the government; in the end he got only disgrace from his conspiracy, and fled again into the country of the Ammonites.",
+      "links": [
+        "Prov 26:27",
+        "Esth 7:10",
+        "Ps 7:15"
+      ],
+      "comment": "Despite his ambition, Jason's conspiracy brings only shame and exile, illustrating the biblical theme that unjust means undermine any quest for power (cf. Psalm 37:35-36)."
     },
     {
       "pk": 21005008,
@@ -98,9 +106,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 5,
       "verse": 8,
-      "text": "Jason, who had betrayed so many for power, finally perished in exile among foreigners, cast away without a decent burial and without mourning, nor the respect of his people.",
-      "links": "<a href='/AIV/19/109/9-10'>Ps. 109:9-10</a>",
-      "comment": "Lack of burial and mourning is significant shame in Jewish thought, often seen as a judgment from God. The verse underscores the importance of righteous leadership and the consequences of betraying one's spiritual responsibility."
+      "text": "Finally he met a miserable end. Accused before Aretas the ruler of the Arabs, fleeing from city to city, pursued by everyone, hated as a rebel against the laws, and abhorred as the executioner of his country and his compatriots, he was cast ashore in Egypt.",
+      "links": [
+        "Ps 109:9-13",
+        "Isa 57:21",
+        "Job 18:8-19"
+      ],
+      "comment": "Jason is relentlessly pursued and condemned by all, fulfilling the motif of the wicked becoming 'a fugitive and a wanderer' (cf. Genesis 4:12), and demonstrates the eventual collapse of those who betray their community."
     },
     {
       "pk": 21005009,
@@ -110,9 +122,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 5,
       "verse": 9,
-      "text": "Returning to Antiochus, after his defeat in Egypt, Antiochus advanced against the city in a fury, believing the Jews had rebelled.",
-      "links": "<a href='/AIV/21/1/16'>1 Macc. 1:16</a>",
-      "comment": "Antiochus’s wrath against Jerusalem is a well-documented historical event. Persecution often follows when God's people are faithful. This passage sets the stage for the 'abomination'—an event prefiguring later spiritual persecutions.",
+      "text": "There he who had driven many from their own country into exile died in exile, having embarked to go to the Lacedaemonians in hope of finding protection because of their kinship.",
+      "links": [
+        "Jer 22:10",
+        "Matt 7:2",
+        "Obad 1:15"
+      ],
+      "comment": "Ironically, Jason—who exiled many—dies in exile himself, his failed reliance on distant kin (the Lacedaemonians) highlighting the futility of seeking security apart from faithfulness to God and people (cf. Proverbs 14:32).",
       "sectionHeader": "Antiochus IV's Attack and Desecration of the Temple"
     },
     {
@@ -123,9 +139,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 5,
       "verse": 10,
-      "text": "Therefore, he commanded his soldiers to mercilessly cut down those who came out of their houses or went out to the city, and to kill all who were found in hiding.",
-      "links": "<a href='/AIV/21/1/31-32'>1 Macc. 1:31-32</a>",
-      "comment": "The indiscriminate violence against the innocent recalls other biblical massacres. Such suffering highlights the reality of evil, but also the need for deliverance and a Redeemer."
+      "text": "He who had cast out many to lie unburied had no one to mourn for him; he had no funeral of any sort and no place in the tomb of his ancestors.",
+      "links": [
+        "2 Chr 21:19-20",
+        "Jer 22:19",
+        "Isa 14:19-20"
+      ],
+      "comment": "Denied burial and mourners, Jason's fate mirrors that of the wicked in wisdom literature (cf. Jeremiah 22:19), accentuating the ignominy awaiting those who destroy their own community."
     },
     {
       "pk": 21005011,
@@ -135,9 +155,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 5,
       "verse": 11,
-      "text": "The massacre lasted for three days: eighty thousand were killed, forty thousand taken prisoner, and at least as many sold as slaves.",
-      "links": "<a href='/AIV/24/32/28-29'>Jer. 32:28-29</a>",
-      "comment": "The numbers emphasize the scale of suffering when God's people are subjected to pagan rule. Later, slavery and exile were seen as discipline calling people to repentance and faithfulness. Compare with the exile to Babylon."
+      "text": "When news of what had happened reached the king, he took it to mean that Judea was in revolt. So, raging inwardly, he left Egypt and took the city by storm.",
+      "links": [
+        "2 Macc 5:15-16",
+        "Dan 11:28-30",
+        "2 Kgs 25:9-10"
+      ],
+      "comment": "The chaos caused by Jason's actions leads to cruel consequences for all Judea, as Antiochus IV interprets internal strife as rebellion and unleashes severe reprisals, intensifying the cycle of suffering foretold in Deuteronomy 28:49-52."
     },
     {
       "pk": 21005012,
@@ -147,7 +171,7 @@
       "bookAbbreviation": "2Macc",
       "chapter": 5,
       "verse": 12,
-      "text": "Yet not satisfied with this, he dared to enter the holiest Temple in the world, led by Menelaus, who had become a traitor to the laws and to his people.",
+      "text": "He commanded his soldiers to cut down relentlessly everyone they met and to kill those who went into their houses.",
       "links": "<a href='/AIV/21/1/21-22'>1 Macc. 1:21-22</a>; <a href='/AIV/40/24/15'>Matt. 24:15</a>",
       "comment": "The desecration of the Temple is described as blasphemy of the highest order. Jesus later refers to this event as a prophecy of future abomination, highlighting the seriousness of profaning what is holy."
     },
@@ -159,7 +183,7 @@
       "bookAbbreviation": "2Macc",
       "chapter": 5,
       "verse": 13,
-      "text": "He took the sacred vessels with his unholy hands, carried away gifts given by other kings for the enhancement and glory of the Temple, and with unclean hands seized what was consecrated.",
+      "text": "Then there was massacre of young and old, destruction of boys, women, and children, and slaughter of young girls and infants.",
       "links": "<a href='/AIV/27/5/2-4'>Dan. 5:2-4</a>",
       "comment": "The theme of defiling sacred vessels recurs in Daniel. This is a grave sin, as true worship requires purity, foreshadowing the purity demanded of Christ's sacrifice in the New Covenant."
     },
@@ -171,7 +195,7 @@
       "bookAbbreviation": "2Macc",
       "chapter": 5,
       "verse": 14,
-      "text": "Antiochus grew proud, not realizing that the Lord’s anger, provoked by the sins of the city’s inhabitants, was the true cause of their suffering, and not his own power.",
+      "text": "Within the total of three days eighty thousand were destroyed, forty thousand in hand-to-hand fighting, and as many were sold into slavery as were killed.",
       "links": "<a href='/AIV/23/10/5-6'>Isa. 10:5-6</a>",
       "comment": "God sometimes uses pagan rulers to discipline His people, as in Isaiah and Jeremiah, though He holds them accountable for their pride. The passage teaches humility and trust in God's providential sovereignty."
     },
@@ -183,7 +207,7 @@
       "bookAbbreviation": "2Macc",
       "chapter": 5,
       "verse": 15,
-      "text": "For if the people had not sinned so greatly, he, like Heliodorus sent by King Seleucus to Jerusalem, would have been beaten back and kept from touching anything inside.",
+      "text": "Not content with this, Antiochus dared to enter the most holy temple in all the world, guided by Menelaus, who had become a traitor both to the laws and to his country.",
       "links": "<a href='/AIV/21/3/24-27'>2 Macc. 3:24-27</a>",
       "comment": "Past divine interventions protected the Temple. Persistent sin forfeits such protection. The importance of repentance and honoring what is holy stands out, a continual invitation for all believers."
     },
@@ -195,7 +219,7 @@
       "bookAbbreviation": "2Macc",
       "chapter": 5,
       "verse": 16,
-      "text": "But the Lord did not choose His people for the sake of the place but the place for the sake of His people.",
+      "text": "He took the holy vessels with his polluted hands, and swept away with profane hands the votive offerings that other kings had made to enhance the glory and honor of the place.",
       "links": "<a href='/AIV/05/12/11-14'>Deut. 12:11-14</a>; <a href='/AIV/44/7/48-50'>Acts 7:48-50</a>",
       "comment": "Sacred places are significant, but God's relationship with His people is primary. This is echoed in Stephen’s speech in Acts, showing God transcends any one location. The true temple is ultimately the community gathered in His name."
     },
@@ -207,7 +231,7 @@
       "bookAbbreviation": "2Macc",
       "chapter": 5,
       "verse": 17,
-      "text": "Therefore, the Temple also shared in the punishment of the people, but later it participated in their prosperity, and the Lord restored it with all its glory, showing His mercy.",
+      "text": "Antiochus was elated in spirit, and did not perceive that the Lord was angered for a little while because of the sins of those who lived in the city, and that this was the reason he was disregarding the holy place.",
       "links": "<a href='/AIV/16/12/43'>Neh. 12:43</a>; <a href='/AIV/19/102/13-16'>Ps. 102:13-16</a>",
       "comment": "The fate of the Temple is linked to the spiritual health of God’s people. Restoration and mercy are prominent, themes fulfilled in the coming of Christ, who rebuilds and glorifies the true spiritual Temple."
     },
@@ -219,7 +243,7 @@
       "bookAbbreviation": "2Macc",
       "chapter": 5,
       "verse": 18,
-      "text": "Antiochus, being arrogant, did not understand that the Lord is angered for a little while but is soon merciful to His chosen nation, never abandoning them.",
+      "text": "But if it had not happened that they were involved in many sins, this man would have been flogged and turned back from his rash act as soon as he came forward, just as Heliodorus had been, whom King Seleucus sent to inspect the treasury.",
       "links": "<a href='/AIV/19/30/5'>Ps. 30:5</a>; <a href='/AIV/45/11/29'>Rom. 11:29</a>",
       "comment": "God’s faithfulness endures despite temporary discipline. His mercy ultimately prevails, a mystery deepened in Christ’s fulfillment of God’s promises to His beloved people."
     },
@@ -231,7 +255,7 @@
       "bookAbbreviation": "2Macc",
       "chapter": 5,
       "verse": 19,
-      "text": "He thought he was punishing the people, but, in reality, he was punishing himself because when he evildoingly attacked the Temple, he became the object of God's wrath.",
+      "text": "But the Lord did not choose the nation for the sake of the holy place, but the place for the sake of the nation.",
       "links": "<a href='/AIV/19/137/8-9'>Ps. 137:8-9</a>",
       "comment": "The passage reveals God’s justice: those used as instruments of discipline are not exempt from His judgment if they act out of malice. This theme recurs in biblical history, teaching respect for God’s holy things."
     },
@@ -243,7 +267,7 @@
       "bookAbbreviation": "2Macc",
       "chapter": 5,
       "verse": 20,
-      "text": "The Temple, which even the Gentiles revered and to which had come abundant gifts for its glory and honor, was dishonored and robbed by Antiochus.",
+      "text": "Therefore the place itself shared in the misfortunes that befell the nation and afterward participated in its benefits; and what was forsaken in the wrath of the Almighty was restored again in all its glory when the great Lord became reconciled.",
       "links": "<a href='/AIV/11/8/41-43'>1 Kgs. 8:41-43</a>",
       "comment": "The reverence of outsiders for Jerusalem’s Temple reflects universal awareness of God’s presence. Christ later identifies His own person as the true Temple, uniting both Jew and Gentile in worship."
     },
@@ -255,7 +279,7 @@
       "bookAbbreviation": "2Macc",
       "chapter": 5,
       "verse": 21,
-      "text": "After carrying away the sacred treasures from the Temple, Antiochus returned to Antioch, arrogant in his heart, believing he controlled the land and the sea. Yet he did not realize that divine wrath awaited him.",
+      "text": "So Antiochus carried off eighteen hundred talents from the temple, and hurried away to Antioch, thinking in his arrogance that he could sail on the land and walk on the sea, because his mind was elated.",
       "links": "<a href='/AIV/19/73/18-20'>Ps. 73:18-20</a>",
       "comment": "Human power is fleeting. The rich imagery here points to the ultimate accountability of all before God. Pride goes before destruction, a wisdom echoed by Jesus and the apostles."
     },
@@ -316,7 +340,7 @@
       "bookAbbreviation": "2Macc",
       "chapter": 5,
       "verse": 26,
-      "text": "But Judas Maccabeus, with about nine others, escaped to the mountains, living like wild animals in the wilderness. They survived on what grew naturally, to avoid defiling themselves by sharing in the unclean food.",
+      "text": "He put to the sword all those who came out to see them, then rushed into the city with his armed warriors and killed great numbers of people.",
       "links": "<a href='/AIV/19/11/1'>Ps. 11:1</a>; <a href='/AIV/42/4/1-2'>Luke 4:1-2</a>",
       "comment": "Judas’s withdrawal is an act of faithfulness, reminiscent of prophets and the Messiah spending time in the wilderness. The idea of avoiding 'unclean food' connects to the importance of holiness and the discipline of fasting.",
       "sectionHeader": "Judas Maccabeus Flees to the Wilderness"
@@ -329,12 +353,12 @@
       "bookAbbreviation": "2Macc",
       "chapter": 5,
       "verse": 27,
-      "text": "They kept themselves strictly according to the law, remaining pure during these days.",
+      "text": "But Judas Maccabeus, with about nine others, got away to the wilderness, and kept himself and his companions alive in the mountains as wild animals do; they continued to live on what grew wild, so that they might not share in the defilement.",
       "links": "<a href='/AIV/03/11/44-45'>Lev. 11:44-45</a>; <a href='/AIV/60/1/15-16'>1 Pet. 1:15-16</a>",
       "comment": "Faithfulness to the law, especially under trial, is seen as evidence of true devotion. The call to be 'holy as God is holy' remains central. This pursuit of holiness is fulfilled in the body of Christ, who forms a pure and holy assembly set apart for God."
     }
   ],
-  "translatedAt": "2025-12-24T05:32:15.679Z",
+  "translatedAt": "2025-12-29T00:32:08.255Z",
   "sections": [
     {
       "title": "Omens and Disturbances in Jerusalem",

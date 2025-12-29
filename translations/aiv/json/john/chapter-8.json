@@ -267,9 +267,13 @@
       "bookAbbreviation": "John",
       "chapter": 8,
       "verse": 22,
-      "text": "So the Jews said, 'Will he kill himself, since he says, ",
-      "Where I am going, you cannot come\"?'": "<a href='/AIV/43/7/35'>John 7:35</a>",
-      "comment": "Once again, they misunderstand Jesus' words, revealing spiritual blindness. The inability to follow Jesus points to the necessity of grace and spiritual rebirth."
+      "text": "So the Jews said, \"Will he kill himself, since he says, 'Where I am going, you cannot come'?\"",
+      "links": [
+        "John 7:34",
+        "John 13:33",
+        "Prov 8:22"
+      ],
+      "comment": "The crowd misunderstands Jesus’ statement about going where they cannot follow, interpreting it as a reference to suicide—a concept linked with shame and separation from God in Jewish thought—while Jesus alludes to his return to the Father, highlighting the spiritual gulf between unbelievers and himself (cf. John 7:34)."
     },
     {
       "pk": 50008023,
@@ -400,9 +404,13 @@
       "bookAbbreviation": "John",
       "chapter": 8,
       "verse": 33,
-      "text": "They answered him, 'We are offspring of Abraham and have never been enslaved to anyone. How is it that you say, ",
-      "You will become free\"?'": "<a href='/AIV/1/21/10'>Gen. 21:10</a>",
-      "comment": "The Jews' confidence in their ancestry underscores the importance of spiritual adoption over merely physical descent."
+      "text": "They answered him, \"We are offspring of Abraham and have never been enslaved to anyone. What do you mean by saying, 'You will be made free'?\"",
+      "links": [
+        "Matt 3:9",
+        "Rom 6:16",
+        "Gal 4:22"
+      ],
+      "comment": "The Jews assert their Abrahamic descent and deny enslavement, overlooking periods of foreign domination (e.g., Egypt, Babylon, Rome); Jesus contrasts physical lineage with spiritual bondage to sin, developing the theme of true freedom found in him (cf. Romans 6:16-18; Galatians 5:1)."
     },
     {
       "pk": 50008034,
@@ -629,9 +637,13 @@
       "bookAbbreviation": "John",
       "chapter": 8,
       "verse": 52,
-      "text": "The Jews said to him, 'Now we know that you have a demon! Abraham died, as did the prophets, yet you say, ",
-      "If anyone keeps my word, he will never taste death.\"'": "<a href='/AIV/1/25/8'>Gen. 25:8</a>",
-      "comment": "Their misunderstanding again highlights their purely earthly perspective regarding death. Jesus speaks of spiritual life."
+      "text": "The Jews said to him, \"Now we know that you have a demon! Abraham died, and so did the prophets; yet you say, 'Whoever keeps my word will never taste death.'\"",
+      "links": [
+        "John 8:51",
+        "Heb 11:13",
+        "Zech 1:5"
+      ],
+      "comment": "Their accusation of demonic possession stems from Jesus’ claim that whoever keeps his word will never taste death—a statement they see as contradicting the mortal fate of Abraham and the prophets; Jesus speaks of eternal life beyond physical death, a central Johannine theme (cf. John 5:24, 11:25-26)."
     },
     {
       "pk": 50008053,
@@ -655,7 +667,12 @@
       "verse": 54,
       "text": "Jesus answered, 'If I glorify myself, my glory is nothing. It is my Father who glorifies me, of whom you say, ",
       "He is our God\"'": "<a href='/AIV/43/17/1'>John 17:1</a>",
-      "comment": "Jesus seeks only the Father’s will and glory, modeling perfect humility."
+      "comment": "Jesus seeks only the Father’s will and glory, modeling perfect humility.",
+      "links": [
+        "John 5:41",
+        "John 17:1",
+        "Acts 3:13"
+      ]
     },
     {
       "pk": 50008055,
@@ -718,7 +735,7 @@
       "comment": "The crowd sought to stone Jesus for blasphemy, realizing the implication of His words. Yet, His divine mission could not be thwarted until the appointed time."
     }
   ],
-  "translatedAt": "2025-12-24T11:07:48.956Z",
+  "translatedAt": "2025-12-25T14:37:12.232Z",
   "sections": [
     {
       "title": "The Woman Caught in Adultery",

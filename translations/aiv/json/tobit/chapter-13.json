@@ -109,7 +109,7 @@
       "bookAbbreviation": "Tob",
       "chapter": 13,
       "verse": 9,
-      "text": "'Let all speak of his greatness, and celebrate him in Jerusalem!'",
+      "text": "O Jerusalem, the holy city, he afflicted you for the deeds of your hands, but will again have mercy on the children of the righteous.",
       "links": "<a href='/AIV/23/2/3'>Isa. 2:3</a>; <a href='/AIV/19/48/1-2'>Ps. 48:1-2</a>",
       "comment": "Emphasis shifts to Jerusalem, a symbol of unity and worship in the people of God. Points ahead to new Jerusalem themes in Revelation (Rev. 21:2)."
     },
@@ -121,7 +121,7 @@
       "bookAbbreviation": "Tob",
       "chapter": 13,
       "verse": 10,
-      "text": "'O Jerusalem, holy city, he will afflict you for the deeds of your children, but again he will show mercy to the children of the righteous.'",
+      "text": "Acknowledge the Lord, for he is good, and bless the King of the ages, so that his tent may be rebuilt in you in joy. May he cheer all those within you who are captives, and love all those within you who are distressed, to all generations forever.",
       "links": "<a href='/AIV/25/1/8'>Lam. 1:8</a>; <a href='/AIV/19/122/6'>Ps. 122:6</a>",
       "comment": "Discipline and promised mercy for Jerusalem reflect both earthly and heavenly realities. Points to God’s future restoration and enduring faithfulness.",
       "sectionHeader": "Prophecy of Jerusalem's Restoration and Glory"
@@ -134,7 +134,7 @@
       "bookAbbreviation": "Tob",
       "chapter": 13,
       "verse": 11,
-      "text": "'Give thanks to the Lord as is fitting, and bless the King of the ages, so that his tent may be rebuilt in you with joy. May he cheer those who are exiles and love those who are afflicted, to all generations forever.'",
+      "text": "A bright light will shine to all the ends of the earth; many nations will come to you from far away, the inhabitants of the remotest parts of the earth to your holy name, bearing gifts in their hands for the King of heaven. Generation after generation will give joyful praise in you; the name of the chosen city will endure forever.",
       "links": "<a href='/AIV/23/54/2'>Isa. 54:2</a>; <a href='/AIV/19/126/1-2'>Ps. 126:1-2</a>",
       "comment": "Images of restoration—'tent rebuilt'—reference both the future rebuilding of Jerusalem and the establishment of God’s dwelling among his people (John 1:14; Rev. 21:3)."
     },
@@ -158,7 +158,7 @@
       "bookAbbreviation": "Tob",
       "chapter": 13,
       "verse": 13,
-      "text": "'Cursed are all they who despise you; blessed are all who love you forever.'",
+      "text": "Go, then, and rejoice over the children of the righteous, for they will be gathered together and will praise the Lord of the ages.",
       "links": "<a href='/AIV/01/12/3'>Gen. 12:3</a>; <a href='/AIV/19/122/6'>Ps. 122:6</a>",
       "comment": "Blessing for those who love the city of God mirrors the Abrahamic promise and later Christian unity around the city of God (Heb. 12:22)."
     },
@@ -170,7 +170,7 @@
       "bookAbbreviation": "Tob",
       "chapter": 13,
       "verse": 14,
-      "text": "'Rejoice and be glad for the children of the righteous, for they will be gathered together and will bless the Lord of the righteous.'",
+      "text": "Happy are those who love you, and happy are those who rejoice in your prosperity. Happy also are all people who grieve with you because of your afflictions; for they will rejoice with you and witness all your glory forever.",
       "links": "<a href='/AIV/27/12/3'>Dan. 12:3</a>; <a href='/AIV/40/13/43'>Matt. 13:43</a>",
       "comment": "Points toward the ultimate gathering of the righteous, an image taken up by Jesus in the parables of the kingdom and in the final resurrection."
     },
@@ -182,7 +182,7 @@
       "bookAbbreviation": "Tob",
       "chapter": 13,
       "verse": 15,
-      "text": "'Blessed are those who love you, they will rejoice in your peace. Blessed are all those who grieve over all your afflictions, for they will rejoice in you and see all your glory forever.'",
+      "text": "My soul blesses the Lord, the great King!",
       "links": "<a href='/AIV/19/122/6'>Ps. 122:6</a>; <a href='/AIV/23/66/10-14'>Isa. 66:10-14</a>",
       "comment": "Rejoicing in the peace and glory of Jerusalem points to the enduring peace promised to God's people (John 14:27). Mourners are comforted, relating to the Beatitudes (Matt. 5:4)."
     },
@@ -194,7 +194,7 @@
       "bookAbbreviation": "Tob",
       "chapter": 13,
       "verse": 16,
-      "text": "'Let my soul bless the Lord, the great King, for Jerusalem will be built with sapphires and emeralds, with precious stones; its walls and towers and battlements with pure gold, and its streets paved with rubies and stones of Ophir.'",
+      "text": "For Jerusalem will be built as his house for all ages. How happy I will be if a remnant of my descendants should survive to see your glory and acknowledge the King of heaven. The gates of Jerusalem will be built with sapphire and emerald, and all your walls with precious stones. The towers of Jerusalem will be built with gold, and their battlements with pure gold. The streets of Jerusalem will be paved with ruby and with stones of Ophir.",
       "links": "<a href='/AIV/23/54/11-12'>Isa. 54:11-12</a>; <a href='/AIV/66/21/18-21'>Rev. 21:18-21</a>",
       "comment": "Symbolic language for the glorious renewal of God’s city; echoes the New Jerusalem in Revelation, emphasizing spiritual beauty and perfection."
     },
@@ -206,9 +206,13 @@
       "bookAbbreviation": "Tob",
       "chapter": 13,
       "verse": 17,
-      "text": "'All her streets will cry, “Hallelujah!” and give praise, saying, “Blessed be God who has exalted you forever!”'",
-      "links": "<a href='/AIV/19/148/1'>Ps. 148:1</a>; <a href='/AIV/66/19/1'>Rev. 19:1</a>",
-      "comment": "'Hallelujah'—praise of God by the renewed city—points to future, unending worship in God's presence. Participation in the city of God is tied to eternal praise."
+      "text": "The gates of Jerusalem will sing hymns of joy, and all her houses will cry, 'Hallelujah! Blessed be the God of Israel!' and the blessed will bless the holy name forever and ever.",
+      "links": [
+        "Isa 52:9",
+        "Ps 102:21",
+        "Rev 19:1"
+      ],
+      "comment": "This verse envisions a renewed Jerusalem where praise and worship permeate both public and private life; it highlights eschatological hope, the importance of communal liturgy, and echoes themes from Psalms (Psalm 150:6) and prophetic visions of restoration (Isaiah 60:18)."
     },
     {
       "pk": 17013018,
@@ -218,12 +222,12 @@
       "bookAbbreviation": "Tob",
       "chapter": 13,
       "verse": 18,
-      "text": "'Blessed be those who will love you, for they will rejoice in your peace. Blessed are all those who grieve over all your afflictions, for they will share in your joy for all generations to come.'",
+      "text": "",
       "links": "<a href='/AIV/23/66/10'>Isa. 66:10</a>; <a href='/AIV/40/5/4'>Matt. 5:4</a>",
       "comment": "Repeats the blessing for those who love and mourn for the city; Christian unity and hope even in suffering, leading to everlasting joy (see Rom. 8:18-21)."
     }
   ],
-  "translatedAt": "2025-12-24T04:59:26.506Z",
+  "translatedAt": "2025-12-29T00:37:46.595Z",
   "sections": [
     {
       "title": "Tobit's Hymn of Praise and Call to Conversion",

@@ -37,9 +37,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 7,
       "verse": 3,
-      "text": "When this became known, he executed them, and so gained control of his kingdom.",
-      "links": "<a href='/AIV/Dan/11/21'>Dan. 11:21</a>",
-      "comment": "This swift and ruthless action by Demetrius mirrors prophetic warnings in Daniel about kings who would seize power by intrigue."
+      "text": "But Demetrius would not allow them to appear before him, and the army killed them. So Demetrius took possession of his kingdom.",
+      "links": [
+        "1 Macc 6:16",
+        "2 Kgs 10:6-8",
+        "Dan 2:21"
+      ],
+      "comment": "After Demetrius I escaped captivity and returned to Syria, he refused to hear the claims of the former regents, resulting in their execution and his swift consolidation of power—a stark illustration of the treachery and volatility of Hellenistic politics (cf. Daniel 11:21)."
     },
     {
       "pk": 20007004,
@@ -206,9 +210,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 7,
       "verse": 17,
-      "text": "Then Mattathias’s words were fulfilled: 'He let their bodies be scattered and their blood be shed around Jerusalem, and there was no one to bury them.'",
-      "links": "<a href='/AIV/Ps/79/2-3'>Ps. 79:2-3</a>",
-      "comment": "Leaving bodies unburied was seen as a curse and deep dishonor in Jewish tradition. This links to Psalm 79’s description of devastation in Jerusalem."
+      "text": "Thus the words of the scripture were fulfilled: 'He has scattered their flesh and poured out their blood around Jerusalem, and there was no one to bury them.'",
+      "links": [
+        "Ps 79:2-3",
+        "Jer 14:16",
+        "2 Kgs 9:10"
+      ],
+      "comment": "The narrator cites scripture (likely Psalm 79:2-3) to interpret the suffering of the Jews as fulfilling prophecy, depicting the desecration of bodies around Jerusalem and emphasizing the theme of divine judgment and historical tragedy."
     },
     {
       "pk": 20007018,
@@ -594,9 +602,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 7,
       "verse": 49,
-      "text": "So the land of Judah was peaceful for a short time.",
-      "links": "<a href='/AIV/Judg/3/11'>Judg. 3:11</a>",
-      "comment": "Periods of peace after deliverance are temporary in the Old Covenant, pointing us toward the perfect and lasting peace promised in the Messianic Lord (see John 14:27)."
+      "text": "So they decreed that this day should be observed each year as a day of gladness for Israel.",
+      "links": [
+        "Esth 9:22",
+        "Ex 12:14",
+        "Judg 11:39-40"
+      ],
+      "comment": "The decree to observe an annual day of gladness parallels similar institutions of festival days in Jewish tradition (cf. Esther 9:22), underscoring the importance of collective memory and thanksgiving for deliverance."
     },
     {
       "pk": 20007050,
@@ -606,12 +618,16 @@
       "bookAbbreviation": "1Macc",
       "chapter": 7,
       "verse": 50,
-      "text": "And Alcimus remained in the high priesthood. He caused much disturbance in Israel,",
-      "links": "<a href='/AIV/1Macc/9/1'>1 Macc. 9:1</a>",
-      "comment": "The story ends with continued strife under an unlawful high priest. This points to the need for a legitimate, unified and lasting priesthood—fulfilled ultimately in Christ and his one true Church."
+      "text": "So the land of Judah had rest for a few days.",
+      "links": [
+        "Judg 3:11",
+        "Judg 5:31",
+        "2 Macc 15:38-39"
+      ],
+      "comment": "The temporary rest in Judah highlights the cyclical pattern of conflict and brief peace throughout 1 Maccabees, reminiscent of the 'rest' periods in the book of Judges (Judges 3:11, 30), and expresses a longing for lasting security."
     }
   ],
-  "translatedAt": "2025-12-24T05:19:15.972Z",
+  "translatedAt": "2025-12-26T06:05:31.212Z",
   "sections": [
     {
       "title": "Demetrius Seizes the Throne",

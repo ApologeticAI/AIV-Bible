@@ -220,7 +220,7 @@
       "verse": 18,
       "text": "There they crucified Him, and with Him two others, one on either side, and Jesus in the middle.",
       "links": "<a href='/AIV/40/27/38'>Matt. 27:38</a>; <a href='/AIV/41/15/27'>Mark 15:27</a>",
-      "comment": "Jesus is numbered with sinners in His crucifixion, fulfilling Isaiah 53:12. The two criminals beside Him emphasize His solidarity with humanity."
+      "comment": "Jesus is crucified between two criminals, fulfilling Isaiah 53:12 (‘numbered with the transgressors’) and emphasizing His identification with humanity's sinful condition, while the Roman method of execution underscores both the shame and public spectacle of His death."
     },
     {
       "pk": 50019019,
@@ -254,7 +254,13 @@
       "bookAbbreviation": "John",
       "chapter": 19,
       "verse": 21,
-      "text": "So the chief priests of the Jews said to Pilate, 'Do not write, "
+      "text": "So the chief priests of the Jews said to Pilate, \"Do not write, 'The King of the Jews,' but rather, 'This man said, I am King of the Jews.'\"",
+      "links": [
+        "Matt 27:37",
+        "Mark 15:26",
+        "Luke 23:38"
+      ],
+      "comment": "The chief priests’ protest over the inscription reveals their rejection of Jesus’ messianic claim and the political tension with Rome; Pilate’s wording ironically affirms Jesus’ kingship, echoing similar misunderstandings in John 18:33–37."
     },
     {
       "pk": 50019022,
@@ -511,7 +517,7 @@
       "comment": "Jesus is hastily buried because of the Sabbath. This careful concern for the body echoes the reverence for sacraments and sacred things in God’s people throughout Scripture."
     }
   ],
-  "translatedAt": "2025-12-24T11:16:06.879Z",
+  "translatedAt": "2025-12-25T14:37:43.933Z",
   "sections": [
     {
       "title": "Jesus Before Pilate",

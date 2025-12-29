@@ -133,8 +133,13 @@
       "bookAbbreviation": "John",
       "chapter": 9,
       "verse": 11,
-      "text": "He answered, 'The man called Jesus made mud, smeared it on my eyes, and said, ",
-      "comment": "He calls Jesus 'the man,' showing that his understanding is still developing. His journey parallels steps of faith and deeper revelation."
+      "text": "He answered, 'The man called Jesus made mud, smeared it on my eyes, and said to me, \"Go to Siloam and wash.\" So I went and washed, and then I received my sight.'",
+      "links": [
+        "John 9:6-7",
+        "2 Kgs 5:10-14",
+        "Mark 8:23-25"
+      ],
+      "comment": "The healed man's simple testimony underscores the physical and symbolic act of obedience: by following Jesus' instructions to wash in the Pool of Siloam—a site associated with ritual purity in Jerusalem—his sight is restored, reflecting themes of faith leading to enlightenment (cf. 2 Kings 5:10-14; John 2:5)."
     },
     {
       "pk": 50009012,
@@ -145,7 +150,11 @@
       "chapter": 9,
       "verse": 12,
       "text": "They asked him, 'Where is he?' He said, 'I don’t know.'",
-      "links": "",
+      "links": [
+        "John 5:13",
+        "John 7:11",
+        "John 20:13-15"
+      ],
       "comment": "The man does not yet see Jesus physically, paralleling how belief sometimes precedes full knowledge."
     },
     {
@@ -218,7 +227,11 @@
       "chapter": 9,
       "verse": 18,
       "text": "The Jews did not believe that he had been blind and had received his sight, until they called the parents of the man who had received his sight.",
-      "links": "",
+      "links": [
+        "John 5:10",
+        "John 9:16",
+        "Acts 4:13-14"
+      ],
       "comment": "The religious leaders challenge the credibility of the miracle, demanding verification. This lack of faith contrasts with simple receptivity."
     },
     {
@@ -230,7 +243,11 @@
       "chapter": 9,
       "verse": 19,
       "text": "They asked them, 'Is this your son, who you say was born blind? How then does he now see?'",
-      "links": "",
+      "links": [
+        "Luke 7:22",
+        "John 9:8-9",
+        "Acts 3:10"
+      ],
       "comment": "Their investigation focuses on the facts, but misses the spiritual significance of the miracle."
     },
     {
@@ -242,7 +259,11 @@
       "chapter": 9,
       "verse": 20,
       "text": "His parents answered, 'We know that this is our son and that he was born blind.'",
-      "links": "",
+      "links": [
+        "John 9:8",
+        "John 9:25",
+        "Luke 1:63"
+      ],
       "comment": "The parents confirm part of the testimony but remain cautious, illustrating fear of repercussions from religious leadership."
     },
     {
@@ -254,7 +275,11 @@
       "chapter": 9,
       "verse": 21,
       "text": "'But how he now sees we do not know, nor do we know who opened his eyes. Ask him; he is of age. He will speak for himself.'",
-      "links": "",
+      "links": [
+        "Deut 21:18-21",
+        "John 9:23",
+        "John 9:24"
+      ],
       "comment": "The parents distance themselves, perhaps out of fear, leaving responsibility for testimony to the son. This echoes the importance of personal confession of faith."
     },
     {
@@ -278,7 +303,11 @@
       "chapter": 9,
       "verse": 23,
       "text": "Therefore his parents said, 'He is of age; ask him.'",
-      "links": "",
+      "links": [
+        "John 9:21",
+        "John 9:24",
+        "John 7:13"
+      ],
       "comment": "Deference is again shown to the healed man’s personal testimony, showing the necessity of taking individual responsibility for faith."
     },
     {
@@ -314,7 +343,11 @@
       "chapter": 9,
       "verse": 26,
       "text": "They said to him, 'What did he do to you? How did he open your eyes?'",
-      "links": "",
+      "links": [
+        "John 9:15",
+        "John 9:10",
+        "John 10:24"
+      ],
       "comment": "The repeated questioning suggests a desire to undermine the miracle, ignoring the reality of the man's healing."
     },
     {
@@ -326,7 +359,11 @@
       "chapter": 9,
       "verse": 27,
       "text": "He answered them, 'I told you already, and you would not listen. Why do you want to hear it again? Do you also want to become his disciples?'",
-      "links": "",
+      "links": [
+        "John 9:15",
+        "John 8:43",
+        "Acts 26:28"
+      ],
       "comment": "The healed man grows bold, offering a challenge that exposes the council’s closed hearts. His response shows the transformation brought about by an encounter with Jesus."
     },
     {
@@ -362,7 +399,11 @@
       "chapter": 9,
       "verse": 30,
       "text": "The man answered, 'Well, this is astonishing! You don’t know where he comes from, and yet he opened my eyes.'",
-      "links": "",
+      "links": [
+        "John 3:2",
+        "Ps 146:8",
+        "Matt 9:33"
+      ],
       "comment": "The healed man is surprised that the leaders cannot discern something so evident—only someone sent by God could perform such a sign."
     },
     {
@@ -435,7 +476,11 @@
       "chapter": 9,
       "verse": 36,
       "text": "He answered, 'And who is he, sir, that I may believe in him?'",
-      "links": "",
+      "links": [
+        "John 4:25",
+        "Matt 11:3",
+        "Acts 8:30-31"
+      ],
       "comment": "The healed man demonstrates sincere openness to faith, seeking the truth about Jesus’ identity."
     },
     {
@@ -483,7 +528,11 @@
       "chapter": 9,
       "verse": 40,
       "text": "Some of the Pharisees who were with him heard this, and said to him, 'Are we also blind?'",
-      "links": "",
+      "links": [
+        "Matt 15:14",
+        "John 7:47-49",
+        "Rom 2:19"
+      ],
       "comment": "The Pharisees challenge Jesus’ statement, exposing their spiritual blindness. The narrative invites the reader to self-examination about spiritual receptivity."
     },
     {
@@ -494,11 +543,16 @@
       "bookAbbreviation": "John",
       "chapter": 9,
       "verse": 41,
-      "text": "Jesus said to them, 'If you were blind, you would not have sin; but now that you say, ",
-      "comment": "Jesus teaches that spiritual pride and persistent rejection of revelation leads to guilt. True sight comes from recognizing one’s need for grace."
+      "text": "Jesus said to them, 'If you were blind, you would not have sin; but now that you say, \"We see,\" your sin remains.'",
+      "links": [
+        "Matt 13:13-15",
+        "John 15:22",
+        "Rev 3:17"
+      ],
+      "comment": "Jesus exposes spiritual pride by declaring that acknowledging one's blindness (spiritual need) is prerequisite for forgiveness, while claiming perfect spiritual 'sight' without humility leaves one unrepentant and accountable (cf. Matthew 13:13-15; Revelation 3:17)."
     }
   ],
-  "translatedAt": "2025-12-24T11:08:29.317Z",
+  "translatedAt": "2025-12-25T14:37:22.588Z",
   "sections": [
     {
       "title": "The Healing of the Man Born Blind",

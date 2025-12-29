@@ -98,7 +98,11 @@
       "chapter": 2,
       "verse": 8,
       "text": "'And how is it that we each hear, in our own native language?'",
-      "links": "",
+      "links": [
+        "Gen 11:7",
+        "1 Cor 12:10",
+        "Acts 10:46"
+      ],
       "comment": "A sign that God’s message is for all peoples, fulfilling universal mission prophecies."
     },
     {
@@ -110,7 +114,11 @@
       "chapter": 2,
       "verse": 9,
       "text": "'Parthians and Medes and Elamites, and residents of Mesopotamia, Judea and Cappadocia, Pontus and Asia,'",
-      "links": "",
+      "links": [
+        "Gen 10:22",
+        "Esth 1:1",
+        "1 Pet 1:1"
+      ],
       "comment": "The list of nations highlights the worldwide scope of the Church’s mission."
     },
     {
@@ -122,7 +130,11 @@
       "chapter": 2,
       "verse": 10,
       "text": "'Phrygia and Pamphylia, Egypt and parts of Libya near Cyrene, and visitors from Rome, both Jews and converts,'",
-      "links": "",
+      "links": [
+        "Acts 6:9",
+        "Rom 1:7",
+        "Isa 11:11"
+      ],
       "comment": "Rome’s mention prefigures the prominence of the mission to Gentiles and the Church’s expansion."
     },
     {
@@ -134,7 +146,11 @@
       "chapter": 2,
       "verse": 11,
       "text": "'Cretans and Arabians— we hear them telling in our own languages the mighty works of God.'",
-      "links": "",
+      "links": [
+        "Acts 10:46",
+        "Ps 107:2",
+        "Joel 2:28"
+      ],
       "comment": "The Spirit enables proclamation of God’s wonders to all. This foreshadows the gospel for all nations."
     },
     {
@@ -146,7 +162,11 @@
       "chapter": 2,
       "verse": 12,
       "text": "And all were amazed and perplexed, saying to one another, 'What does this mean?'",
-      "links": "",
+      "links": [
+        "Luke 24:12",
+        "Acts 5:24",
+        "Dan 7:15"
+      ],
       "comment": "Spiritual phenomena often provoke wonder and questions about God’s actions."
     },
     {
@@ -183,7 +203,11 @@
       "chapter": 2,
       "verse": 15,
       "text": "For these people are not drunk, as you suppose, since it is only the third hour of the day.",
-      "links": "",
+      "links": [
+        "1 Thess 5:7",
+        "Luke 22:14",
+        "Mark 15:25"
+      ],
       "comment": "A reasonable explanation; the third hour is about 9 AM, too early for drunkenness."
     },
     {
@@ -280,7 +304,7 @@
       "verse": 23,
       "text": "'this Man, delivered up by the definite plan and foreknowledge of God, you crucified and killed by the hands of lawless men.'",
       "links": "<a href='/AIV/23/53/10'>Isaiah 53:10</a>; <a href='/AIV/41/14/64'>Mark 14:64</a>",
-      "comment": "The crucifixion was not accidental, but was part of God’s salvific plan (Isaiah 53:10; Mark 14:64)."
+      "comment": "Peter affirms both divine sovereignty and human responsibility, asserting that Jesus' death was both part of God's predestined plan (cf. Isaiah 53:10, Acts 4:27-28) and enacted through the culpable actions of 'lawless men,' likely referencing Roman authorities and complicit Jewish leadership."
     },
     {
       "pk": 51002024,
@@ -351,7 +375,11 @@
       "chapter": 2,
       "verse": 29,
       "text": "'Brothers, I may confidently say to you about the patriarch David, that he died and was buried, and his tomb is with us to this day.'",
-      "links": "",
+      "links": [
+        "1 Kgs 2:10",
+        "Neh 3:16",
+        "Acts 13:36"
+      ],
       "comment": "Peter distinguishes David from Christ; the prophecy refers to someone greater."
     },
     {

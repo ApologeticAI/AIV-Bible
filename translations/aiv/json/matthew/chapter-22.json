@@ -159,7 +159,7 @@
       "verse": 13,
       "text": "Then the king said to his servants, 'Bind him hand and foot, throw him outside into the outer darkness, where there will be weeping and grinding of teeth.'",
       "links": "<a href='/AIV/40/8/12'>Matt. 8:12</a>; <a href='/AIV/66/21/8'>Rev. 21:8</a>",
-      "comment": "This describes the consequences of refusing to be changed by God’s grace. This outer darkness is a consistent image of spiritual separation and judgment."
+      "comment": "The king's command to cast out the improperly attired guest reflects the seriousness of responding appropriately to God's invitation; 'outer darkness' and 'weeping and grinding of teeth' are vivid images of exclusion and judgment, paralleling warnings in Matthew 8:12 and 25:30 about the consequences of rejecting God's grace."
     },
     {
       "pk": 47022014,
@@ -304,7 +304,11 @@
       "chapter": 22,
       "verse": 25,
       "text": "Now there were seven brothers among us. The first married and died, and, having no offspring, left his wife to his brother.",
-      "links": "",
+      "links": [
+        "Deut 25:5",
+        "Gen 38:8",
+        "Luke 20:29"
+      ],
       "comment": "This hypothetical scenario is designed to mock the concept of resurrection."
     },
     {
@@ -316,7 +320,10 @@
       "chapter": 22,
       "verse": 26,
       "text": "The same happened to the second, and the third, down to the seventh.",
-      "links": "",
+      "links": [
+        "Mark 12:21",
+        "Luke 20:30"
+      ],
       "comment": "Their story reduces belief in resurrection to an absurdity, according to their view."
     },
     {
@@ -328,7 +335,10 @@
       "chapter": 22,
       "verse": 27,
       "text": "Last of all, the woman also died.",
-      "links": "",
+      "links": [
+        "Mark 12:22",
+        "Luke 20:32"
+      ],
       "comment": "The scenario is finally completed—setting up their question about the resurrection."
     },
     {
@@ -340,7 +350,10 @@
       "chapter": 22,
       "verse": 28,
       "text": "So at the resurrection, whose wife will she be of the seven? For they all had married her.",
-      "links": "",
+      "links": [
+        "Mark 12:23",
+        "Luke 20:33"
+      ],
       "comment": "Their question tests whether Jesus’ theology aligns coherently with the Mosaic law and logic."
     },
     {
@@ -461,7 +474,11 @@
       "chapter": 22,
       "verse": 38,
       "text": "This is the greatest and first commandment.",
-      "links": "",
+      "links": [
+        "Deut 6:5",
+        "Mark 12:29-30",
+        "Luke 10:27"
+      ],
       "comment": "Total love of God is the foundation and summary of all true religion. This highlights authentic faith as relational, not just legal."
     },
     {
@@ -497,7 +514,10 @@
       "chapter": 22,
       "verse": 41,
       "text": "While the Pharisees were gathered together, Jesus asked them,",
-      "links": "",
+      "links": [
+        "Mark 12:35",
+        "Luke 20:41"
+      ],
       "comment": "Jesus now turns the tables, seizing the initiative in debate with the Pharisees.",
       "sectionHeader": "The Question about David’s Son"
     },
@@ -546,7 +566,11 @@
       "chapter": 22,
       "verse": 45,
       "text": "If then David calls Him 'Lord,' how is He his son?\"",
-      "links": "",
+      "links": [
+        "Ps 110:1",
+        "Mark 12:37",
+        "Luke 20:44"
+      ],
       "comment": "Jesus exposes the incomplete understanding of Messiah. The Messiah is both David's descendant and his Lord—pointing to His divine and human natures (see also <a href='/AIV/43/1/1-14'>John 1:1-14</a>)."
     },
     {

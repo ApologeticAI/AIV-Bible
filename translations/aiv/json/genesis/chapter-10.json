@@ -244,7 +244,11 @@
       "chapter": 10,
       "verse": 20,
       "text": "These are the sons of Ham, by their families, by their languages, in their lands, in their nations.",
-      "links": "",
+      "links": [
+        "Gen 10:6-7",
+        "Gen 10:32",
+        "Gen 11:1"
+      ],
       "comment": "The emphasis on families, languages, and lands echoes the later Tower of Babel narrative on the global diversity and unity under God."
     },
     {
@@ -329,7 +333,10 @@
       "chapter": 10,
       "verse": 27,
       "text": "Hadoram, Uzal, Diklah,",
-      "links": "",
+      "links": [
+        "1 Chr 1:21",
+        "Gen 10:26"
+      ],
       "comment": "Further descendants of Joktan, each representing distinct clans and settlements."
     },
     {
@@ -341,7 +348,10 @@
       "chapter": 10,
       "verse": 28,
       "text": "Obal, Abimael, Sheba,",
-      "links": "",
+      "links": [
+        "1 Chr 1:22",
+        "Gen 25:3"
+      ],
       "comment": "Sheba is associated with the famous queen in Solomon’s time, linking genealogy to wisdom and wealth (1 Kings 10:1)."
     },
     {
@@ -365,7 +375,10 @@
       "chapter": 10,
       "verse": 30,
       "text": "Their dwelling was from Mesha as you go toward Sephar, the hill country of the east.",
-      "links": "",
+      "links": [
+        "Deut 2:8",
+        "Gen 25:18"
+      ],
       "comment": "Geographical precision points to God’s faithfulness in providing for diverse peoples, foreshadowing later gathering of all nations in Christ."
     },
     {
@@ -377,7 +390,11 @@
       "chapter": 10,
       "verse": 31,
       "text": "These are the sons of Shem, by their families, by their languages, in their lands, according to their nations.",
-      "links": "",
+      "links": [
+        "Gen 10:5",
+        "Gen 10:20",
+        "Gen 11:1"
+      ],
       "comment": "Once again, divine providence oversees the spread and organization of nations. The careful recording reiterates the spiritual unity intended for humanity under God's guidance."
     },
     {

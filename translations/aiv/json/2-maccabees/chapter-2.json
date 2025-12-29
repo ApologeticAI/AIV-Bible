@@ -232,9 +232,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 2,
       "verse": 19,
-      "text": "The purification of the temple will be celebrated on the twenty-fifth of Kislev. We thought it right to inform you about it.",
-      "links": "<a href='/AIV/43/10/22'>John 10:22</a>",
-      "comment": "This verse refers to the feast of rededication (Hanukkah) later alluded to in John’s Gospel. The idea of temple purification connects to the sanctification of believers and the indwelling of the Holy Spirit."
+      "text": "The story of Judas Maccabeus and his brothers, and the purification of the great temple, and the dedication of the altar,",
+      "links": [
+        "1 Macc 4:36",
+        "1 Macc 4:52-59",
+        "2 Chr 7:9"
+      ],
+      "comment": "This verse introduces the central narrative of the Maccabean revolt: Judas Maccabeus and his brothers' heroic actions leading to the purification and rededication of the Jerusalem Temple, commemorated in the Jewish festival of Hanukkah (cf. 1 Maccabees 4:36–59)."
     },
     {
       "pk": 21002020,
@@ -244,9 +248,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 2,
       "verse": 20,
-      "text": "God has delivered us from great dangers and has fought in battle against King Antiochus.",
-      "links": "<a href='/AIV/27/8/21-25'>Dan. 8:21-25</a>",
-      "comment": "God’s deliverance from Antiochus prefigures His victory over evil, culminating in Christ’s triumph over sin and death."
+      "text": "and further the wars against Antiochus Epiphanes and his son Eupator,",
+      "links": [
+        "1 Macc 1:10",
+        "2 Macc 10:1",
+        "Dan 8:23-25"
+      ],
+      "comment": "The wars against Antiochus IV Epiphanes and his son Eupator reflect the intense struggle for religious freedom under Seleucid persecution, highlighting the Maccabees' resistance to Hellenistic oppression (see Daniel 11:21–35 for prophetic context)."
     },
     {
       "pk": 21002021,
@@ -256,9 +264,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 2,
       "verse": 21,
-      "text": "Therefore, we are grateful to offer sacrifices, to present the lamp, and to set out the showbread.",
-      "links": "<a href='/AIV/2/25/30'>Exod. 25:30</a>; <a href='/AIV/3/24/5-7'>Lev. 24:5-7</a>",
-      "comment": "The restoration of temple rituals foreshadows Christian worship centered around spiritual sacrifices and the Bread of Life (<a href='/AIV/43/6/35'>John 6:35</a>)."
+      "text": "and the appearances that came from heaven to those who fought bravely for Judaism, so that though few in number they seized the whole land and pursued the barbarian hordes,",
+      "links": [
+        "2 Macc 3:24-26",
+        "2 Macc 5:2-4",
+        "Judg 7:7"
+      ],
+      "comment": "Divine interventions are referenced as 'appearances from heaven,' echoing the theme of God's protection over His faithful despite their small numbers (cf. Judges 7:7; 2 Maccabees 10:29–31), underscoring the miraculous defeat of overwhelming foes."
     },
     {
       "pk": 21002022,
@@ -268,9 +280,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 2,
       "verse": 22,
-      "text": "This is all explained in detail in the writings about Judas Maccabeus, his brothers, and the purification of the great temple, the dedication of the altar,",
-      "links": "<a href='/AIV/43/10/22'>John 10:22</a>",
-      "comment": "Historical records witness to God’s faithfulness through hard times and the tradition of altar dedication mirrors the new covenant celebration of Christ’s sacrificial offering."
+      "text": "and regained possession of the temple famous throughout the world, and liberated the city, and re-established the laws that were about to be abolished, while the Lord with great kindness became gracious to them —",
+      "links": [
+        "1 Macc 13:51",
+        "Ps 44:3",
+        "Ezra 6:16"
+      ],
+      "comment": "The recovery of the temple and reestablishment of Jewish law are portrayed as acts of God's grace, signifying the restoration of worship and communal identity after near-destruction (see Psalm 106:47; Ezra 6:16–18)."
     },
     {
       "pk": 21002023,
@@ -280,9 +296,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 2,
       "verse": 23,
-      "text": "as well as battles against Antiochus Epiphanes, and his son Eupator,",
-      "links": "<a href='/AIV/27/11/21'>Dan. 11:21</a>",
-      "comment": "Reference to historical events roots salvation history in concrete reality; God’s actions in history foreshadow His saving acts in the fullness of time through Christ."
+      "text": "all this, which has been set forth by Jason of Cyrene in five volumes, we shall attempt to condense into a single book.",
+      "links": [
+        "Luke 1:1-3",
+        "2 Macc 2:28",
+        "Eccl 12:10"
+      ],
+      "comment": "The author acknowledges Jason of Cyrene’s extensive five-volume account, highlighting the current work’s intention to provide an accessible, condensed narrative of divine deliverance and national renewal for later generations."
     },
     {
       "pk": 21002024,
@@ -292,7 +312,7 @@
       "bookAbbreviation": "2Macc",
       "chapter": 2,
       "verse": 24,
-      "text": "and the visions that appeared from heaven to those who bravely fought to restore Jewish honor.",
+      "text": "For considering the flood of information involved and the difficulty faced by those who wish to go through historical narratives because of the sheer volume of details,",
       "links": "<a href='/AIV/27/7/13-14'>Dan. 7:13-14</a>; <a href='/AIV/44/7/55-56'>Acts 7:55-56</a>",
       "comment": "Heavenly visions reinforce the reality of the supernatural dimension to God’s deliverance, foreshadowed in Christ's resurrection and appearances to his disciples."
     },
@@ -304,8 +324,12 @@
       "bookAbbreviation": "2Macc",
       "chapter": 2,
       "verse": 25,
-      "text": "Because Jason of Cyrene has set out, in five volumes, to recount all these happenings,",
-      "links": "",
+      "text": "we have aimed to please those who wish to read, to make it easy for those who want to memorize, and to benefit all who encounter this account.",
+      "links": [
+        "Prov 22:17-19",
+        "Eccl 12:9",
+        "Luke 1:4"
+      ],
       "comment": "Reference to Jason’s work shows care for accurate tradition and testimony, reflecting the commitment to truth and careful transmission of faith.",
       "sectionHeader": "Purpose and Method of This Abridgement"
     },
@@ -317,8 +341,12 @@
       "bookAbbreviation": "2Macc",
       "chapter": 2,
       "verse": 26,
-      "text": "we have tried, in this summary, to compress into one book what is useful for reflection.",
-      "links": "",
+      "text": "For us, who have taken on the labor of condensing, it has not been an easy task but has demanded hard work and sleepless nights,",
+      "links": [
+        "Eccl 12:12",
+        "Rom 15:20",
+        "2 Tim 2:15"
+      ],
       "comment": "A faithful summary ensures accessibility—a model for catechesis and transmission of faith, focused on essentials."
     },
     {
@@ -329,8 +357,12 @@
       "bookAbbreviation": "2Macc",
       "chapter": 2,
       "verse": 27,
-      "text": "For, attempting to create a concise record from a great mass of material, is not easy—it involves hard work and sleepless effort, just as compiling a grand banquet for others.",
-      "links": "",
+      "text": "just as it is not simple for someone preparing a banquet for others, seeking their benefit. Yet, to win the gratitude of many, we gladly endure this arduous effort,",
+      "links": [
+        "Phil 2:17",
+        "2 Tim 2:10",
+        "1 Thess 2:9"
+      ],
       "comment": "Comparison to a banquet calls to mind Divine feasting—the spiritual nourishment given to God’s people through the sacred tradition and Word."
     },
     {
@@ -341,8 +373,12 @@
       "bookAbbreviation": "2Macc",
       "chapter": 2,
       "verse": 28,
-      "text": "But just as preparing a banquet pleases many, so too does the careful retelling of sacred history bring delight to those who read.",
-      "links": "",
+      "text": "leaving the responsibility for precise details to the original compiler, while devoting our effort to presenting merely the outlines in condensed form.",
+      "links": [
+        "Luke 1:3",
+        "2 Macc 2:30",
+        "Prov 25:2"
+      ],
       "comment": "The analogy of spiritual nourishment aligns with the way believers partake in the Word and spiritual mysteries for growth and unity."
     },
     {
@@ -353,8 +389,12 @@
       "bookAbbreviation": "2Macc",
       "chapter": 2,
       "verse": 29,
-      "text": "For us, who have summarized, it is a challenge; for those who simply read, it is easier.",
-      "links": "",
+      "text": "For as the master builder of a new house must be concerned with the entire construction, while the one who undertakes its painting and decoration only considers what is suitable for its adornment, such is our approach in this work.",
+      "links": [
+        "1 Cor 3:10",
+        "Heb 3:4",
+        "Luke 14:28"
+      ],
       "comment": "Recognition of the labor involved in transmission echoes the role of teaching authority and care for the faithful."
     },
     {
@@ -365,8 +405,12 @@
       "bookAbbreviation": "2Macc",
       "chapter": 2,
       "verse": 30,
-      "text": "But, just as the builder of a new house must concern himself with the whole structure, so too the one presenting history must care for each part. Yet, for the one who enters it, it is easy to enjoy.",
-      "links": "",
+      "text": "It is the duty of the original historian to cover all aspects, to examine matters from every side, and to give attention to every detail,",
+      "links": [
+        "Eccl 12:10",
+        "Luke 1:1-2",
+        "Prov 18:13"
+      ],
       "comment": "This image suggests the value of a well-ordered faith, built with care—an echo of apostolic foundations for the lasting building of the Church."
     },
     {
@@ -377,8 +421,12 @@
       "bookAbbreviation": "2Macc",
       "chapter": 2,
       "verse": 31,
-      "text": "So from here, we will begin the story, giving only a summary. For we ourselves are not writing to outdo Jason’s work, but to provide a brief source for those who wish to read.",
-      "links": "",
+      "text": "but the one who recasts the narrative should have the opportunity to pursue brevity and avoid an exhaustive treatment.",
+      "links": [
+        "Prov 10:19",
+        "Eccl 6:11",
+        "2 Macc 2:28"
+      ],
       "comment": "Emphasizes humility and service, the goal being edification and unity for all readers—not rivalry, but faithful witness."
     },
     {
@@ -389,12 +437,16 @@
       "bookAbbreviation": "2Macc",
       "chapter": 2,
       "verse": 32,
-      "text": "For as the farmer does not aim for greatness by collecting all the grains, so too is our effort for those who desire to reflect quietly, and for those who wish to memorize.",
-      "links": "",
+      "text": "Therefore, at this point, let us begin our account without adding anything further to what has already been stated; for it would be foolish to lengthen the preface while abbreviating the history itself.",
+      "links": [
+        "Eccl 3:1",
+        "Prov 17:27",
+        "1 Macc 16:24"
+      ],
       "comment": "The metaphor of the farmer and grain reflects the spiritual work of sowing and reaping in due season, a common image for teaching and spiritual formation throughout Scripture (<a href='/AIV/48/6/9'>Gal. 6:9</a>)."
     }
   ],
-  "translatedAt": "2025-12-24T05:29:55.952Z",
+  "translatedAt": "2025-12-28T23:42:29.899Z",
   "sections": [
     {
       "title": "Jeremiah Hides the Sacred Objects",

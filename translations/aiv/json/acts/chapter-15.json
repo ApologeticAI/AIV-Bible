@@ -410,9 +410,13 @@
       "bookAbbreviation": "Acts",
       "chapter": 15,
       "verse": 34,
-      "text": "[But it seemed good to Silas to remain there.]",
-      "links": "",
-      "comment": "Some manuscripts include this verse, clarifying Silas’ decision to stay in Antioch; not found in all ancient copies."
+      "text": "",
+      "links": [
+        "Acts 13:13",
+        "Acts 18:19",
+        "2 Tim 4:9"
+      ],
+      "comment": "Omitted to match the RSVCE, where this verse does not appear. Verse 34 is absent in most modern critical editions."
     },
     {
       "pk": 51015035,
@@ -500,7 +504,7 @@
       "comment": "Paul’s work centers on ‘strengthening the churches,’ emphasizing ongoing, visible community life and unity in faith."
     }
   ],
-  "translatedAt": "2025-12-24T11:27:06.965Z",
+  "translatedAt": "2025-12-29T00:33:04.750Z",
   "sections": [
     {
       "title": "The Council at Jerusalem",

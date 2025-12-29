@@ -39,7 +39,7 @@
       "verse": 3,
       "text": "A whip for the horse, a bridle for the donkey, and a rod for the back of fools.",
       "links": "<a href='/AIV/20/10/13'>Prov. 10:13</a>; <a href='/AIV/20/19/29'>Prov. 19:29</a>",
-      "comment": "Discipline is necessary for those who do not learn by instruction alone. In the spiritual life, correction has a necessary place even when understanding is lacking."
+      "comment": "This proverb uses farm imagery common to ancient Israel to illustrate that, just as animals require physical discipline for guidance, fools—those who persistently reject wisdom—often respond only to corrective consequences (cf. Proverbs 10:13; 19:29), highlighting the limits of reason with the obstinate."
     },
     {
       "pk": 24026004,
@@ -63,7 +63,7 @@
       "verse": 5,
       "text": "Answer a fool as his folly deserves, or he will become wise in his own eyes.",
       "links": "<a href='/AIV/20/27/12'>Prov. 27:12</a>",
-      "comment": "There's a tension with verse 4, requiring discernment—sometimes folly must be corrected, lest it spread or give false confidence. Early Christian teachers often corrected errors in doctrine for the sake of truth."
+      "comment": "Here, answering a fool appropriately exposes his folly, preventing him from mistakenly thinking himself wise; the tension with verse 4 (which counsels silence) underscores discernment in engaging with folly (cf. Matthew 7:6), protecting truth from distortion."
     },
     {
       "pk": 24026006,
@@ -196,7 +196,7 @@
       "verse": 16,
       "text": "The lazy person is wiser in his own eyes than seven people who give a sensible answer.",
       "links": "<a href='/AIV/20/26/12'>Prov. 26:12</a>",
-      "comment": "Self-deception compounds sloth, making it resistant to correction. Listening to wise counsel is necessary for spiritual and personal growth."
+      "comment": "This proverb satirizes the self-delusion and arrogance of laziness, highlighting how the slothful person stubbornly dismisses sound advice—a theme echoed in Proverbs 12:15, contrasting true wisdom with folly."
     },
     {
       "pk": 24026017,
@@ -220,7 +220,11 @@
       "chapter": 26,
       "verse": 18,
       "text": "Like a madman who throws firebrands, arrows, and death,",
-      "links": "",
+      "links": [
+        "Ps 64:3",
+        "Jer 9:8",
+        "Jas 3:6"
+      ],
       "comment": "The image highlights recklessness and the danger of irresponsible speech or actions, echoed in New Testament warnings against sinful language."
     },
     {

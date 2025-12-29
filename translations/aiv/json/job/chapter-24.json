@@ -145,9 +145,13 @@
       "bookAbbreviation": "Job",
       "chapter": 24,
       "verse": 12,
-      "text": "From the city, the dying groan and the wounded cry for help, yet God does not charge wrongdoing against them.",
-      "links": "<a href='/AIV/19/12/5'>Ps. 12:5</a>; <a href='/AIV/23/59/9-15'>Isa. 59:9-15</a>",
-      "comment": "Job struggles with God's justice, underscoring the mystery of suffering—a theme realized fully in the Cross (cf. Romans 8:18-23)."
+      "text": "From the city the dying groan, and the wounded cry for help; yet God pays no attention to their prayer.",
+      "links": [
+        "Ps 22:1-2",
+        "Lam 3:8",
+        "Hab 1:2"
+      ],
+      "comment": "Job poignantly observes the suffering and injustice endured by the vulnerable within urban centers, expressing the perplexing reality that God seems silent in the face of their prayers—a theme echoed elsewhere in wisdom literature (cf. Psalm 22:2; Ecclesiastes 4:1) and highlighting the tension between God's justice and human experience."
     },
     {
       "pk": 22024013,
@@ -308,7 +312,7 @@
       "comment": "Job challenges anyone to refute his observations—foreshadowing Christ’s authority and the certainty of divine revelation, which cannot be broken."
     }
   ],
-  "translatedAt": "2025-12-24T05:50:08.637Z",
+  "translatedAt": "2025-12-28T06:57:26.912Z",
   "sections": [
     {
       "title": "Job's Complaint of Divine Silence and Injustice",

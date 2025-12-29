@@ -122,7 +122,11 @@
       "chapter": 24,
       "verse": 10,
       "text": "Now an Israelite woman’s son, whose father was an Egyptian, went out among the people of Israel; and the Israelite woman’s son and a man of Israel fought in the camp.",
-      "links": "",
+      "links": [
+        "Ex 12:38",
+        "Num 11:4",
+        "Deut 23:7"
+      ],
       "comment": "This begins a narrative interlude illustrating the consequences of blasphemy. The mixed heritage of the man points to larger questions about identity and belonging within God’s covenant people.",
       "sectionHeader": "The Blasphemer and His Punishment"
     },
@@ -135,7 +139,11 @@
       "chapter": 24,
       "verse": 11,
       "text": "And the Israelite woman’s son blasphemed the Name, and cursed. Then they brought him to Moses. (His mother’s name was Shelomith, daughter of Dibri, of the tribe of Dan.)",
-      "links": "",
+      "links": [
+        "Ex 20:7",
+        "Lev 24:16",
+        "Matt 12:31"
+      ],
       "comment": "Blaspheming 'the Name' refers to a direct insult to the holiness of God (see <a href='/AIV/2/3/14'>Ex. 3:14</a>). The seriousness is underlined by the naming of parties involved, establishing that such sin is not anonymous but specific."
     },
     {
@@ -159,7 +167,11 @@
       "chapter": 24,
       "verse": 13,
       "text": "Then the LORD spoke to Moses, saying,",
-      "links": "",
+      "links": [
+        "Ex 33:11",
+        "Num 15:32-36",
+        "Lev 4:1"
+      ],
       "comment": "A return to the direct speech of God. The resolution for the people comes only from divine revelation, highlighting the ongoing need for a living authority to interpret and apply God’s commands."
     },
     {
@@ -183,7 +195,11 @@
       "chapter": 24,
       "verse": 15,
       "text": "And you shall speak to the people of Israel, saying, Whoever curses his God shall bear his sin.",
-      "links": "",
+      "links": [
+        "Ex 22:28",
+        "Lev 24:16",
+        "Matt 12:32"
+      ],
       "comment": "Blasphemy is not just social crime but a deep rupture with the divine order. Each person is accountable for what they say about God, a principle carried forward in Jesus' own teaching (<a href='/AIV/40/12/36-37'>Matt. 12:36-37</a>).",
       "sectionHeader": "Laws Concerning Blasphemy, Murder, and Injury"
     },
@@ -257,7 +273,7 @@
       "verse": 21,
       "text": "Whoever kills an animal shall make it good, and whoever kills a person shall be put to death.",
       "links": "<a href='/AIV/1/9/6'>Gen. 9:6</a>; <a href='/AIV/2/21/12'>Ex. 21:12</a>",
-      "comment": "Reiterates the distinction between restitution for property and the gravity of murder. The unchanging value of human life is thus embedded in the law."
+      "comment": "This verse distinguishes between restitution for killing an animal—common in ancient Near Eastern law—and the requirement of capital punishment for homicide, underscoring the sanctity of human life as made in God's image (cf. Genesis 9:6; Exodus 21:12)."
     },
     {
       "pk": 3024022,
@@ -280,7 +296,11 @@
       "chapter": 24,
       "verse": 23,
       "text": "So Moses spoke to the people of Israel, and they brought out of the camp the one who had cursed and stoned him with stones. Thus the people of Israel did as the LORD commanded Moses.",
-      "links": "",
+      "links": [
+        "Lev 20:2",
+        "Num 15:35",
+        "Deut 13:10"
+      ],
       "comment": "Israel’s obedience to God’s command is immediately enacted, demonstrating the seriousness of holiness and the efficacy of God-given authority in providing order. Later Christian traditions will see this as pointing to the need for obedience to divinely-instituted guidance and discipline among God’s people."
     }
   ],

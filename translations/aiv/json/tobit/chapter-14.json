@@ -3,6 +3,13 @@
   "bookName": "Tobit",
   "bookAbbreviation": "Tob",
   "chapter": 14,
+  "sections": [
+    {
+      "title": "The End of Tobit and His Legacy",
+      "startVerse": 1,
+      "endVerse": 15
+    }
+  ],
   "verses": [
     {
       "pk": 17014001,
@@ -12,9 +19,14 @@
       "bookAbbreviation": "Tob",
       "chapter": 14,
       "verse": 1,
-      "text": "So Tobit ended his words of praise. He was fifty-eight years old when he lost his sight, and after eight years he regained it. He gave alms and continued to praise the Lord God and to declare His greatness.",
-      "links": "<a href='/AIV/17/2/7-8'>Tobit 2:7-8</a>;<a href='/AIV/17/11/13-15'>Tobit 11:13-15</a>;<a href='/AIV/19/150/1'>Psalm 150:1</a>",
-      "comment": "Tobit's restoration of sight after eight years echoes God's continued care for the righteous. His response is to give alms and praise, highlighting the importance of both mercy and worship. In the broader canonical context, this points to an ongoing call for believers to combine faith and works (see <a href='/AIV/59/2/17'>James 2:17</a>)."
+      "text": "So ended Tobit’s words of praise.",
+      "links": [
+        "Ps 34:1",
+        "Ps 145:2",
+        "Sir 39:12"
+      ],
+      "comment": "This verse marks the end of Tobit's hymn—a concluding doxology typical in Jewish prayer, showing Tobit's persistent faith and gratitude to God despite his hardships (cf. Psalm 34:1).",
+      "sectionHeader": "The End of Tobit and His Legacy"
     },
     {
       "pk": 17014002,
@@ -24,10 +36,13 @@
       "bookAbbreviation": "Tob",
       "chapter": 14,
       "verse": 2,
-      "text": "When he was very old, he called his son Tobias and the sons of Tobias, and said to them, \"My son, take your children;",
-      "links": "<a href='/AIV/17/4/3'>Tobit 4:3</a>; <a href='/AIV/20/13/22'>Proverbs 13:22</a>",
-      "comment": "Tobit prepares to give his final instructions, similar to many patriarchs before death. This reflects the biblical tradition of elders imparting spiritual inheritance (compare <a href='/AIV/1/49/1-33'>Genesis 49:1-33</a>).",
-      "sectionHeader": "Tobit's Final Exhortation and Prophecy"
+      "text": "Tobit died in peace when he was one hundred twelve years old, and was buried with great honor in Nineveh. He was sixty-two years old when he lost his eyesight, and after regaining it he lived in prosperity, giving alms and continually blessing God and acknowledging God’s majesty.",
+      "links": [
+        "Gen 25:8",
+        "Ps 92:12-15",
+        "Sir 17:18"
+      ],
+      "comment": "Tobit's long life and peaceful death reflect divine blessing, while the emphasis on his almsgiving and worship illustrates the ideal of righteousness in Jewish wisdom literature (cf. Sirach 3:3)."
     },
     {
       "pk": 17014003,
@@ -37,9 +52,9 @@
       "bookAbbreviation": "Tob",
       "chapter": 14,
       "verse": 3,
-      "text": "Depart promptly for Media, my son, for I believe the word which Jonah the prophet spoke concerning Nineveh, that it will be overthrown. But in Media there will be peace for a time. Our relatives live there, and you will be safer there, my child.\"",
-      "links": "<a href='/AIV/32/3/4'>Jonah 3:4</a>; <a href='/AIV/17/1/14'>Tobit 1:14</a>",
-      "comment": "Tobit refers to the prophecy of Jonah as authoritative, underlining the unity between prophetic utterance and wisdom. Trust in prophetic tradition and familial continuity is emphasized."
+      "text": "When he was dying, he called his son Tobias and the seven sons of Tobias, and instructed him:",
+      "links": "<a href='/AIV/17/4/1-21'>Tob. 4:1-21</a>",
+      "comment": "Tobit’s instructions echo the practice of handing on the faith and moral teaching across generations, much like the patriarchs of Israel (e.g., <a href='/AIV/01/49/1-33'>Gen. 49</a>)."
     },
     {
       "pk": 17014004,
@@ -49,9 +64,13 @@
       "bookAbbreviation": "Tob",
       "chapter": 14,
       "verse": 4,
-      "text": "\"See, my child, what Nadab did to Ahiqar who raised him. Was not Ahiqar brought down alive into the earth? Yet God vindicated him before Nadab humiliated him. Nadab himself went down into eternal darkness. For all who act unjustly or practice sin will be punished, but if you do righteousness, you will be rewarded.\"",
-      "links": "<a href='/AIV/17/1/22'>Tobit 1:22</a>; <a href='/AIV/19/37/40'>Psalm 37:40</a>",
-      "comment": "Here, an Old Testament motif of divine retribution is expressed: righteous suffering is ultimately vindicated, and the wicked are punished—echoing later teachings on final judgment and eternal consequence (compare <a href='/AIV/40/25/46'>Matthew 25:46</a>)."
+      "text": "and hurry off to Media, for I believe the word of God that Nahum spoke about Nineveh, that all these things will take place and overtake Assyria and Nineveh. Indeed, everything that was spoken by the prophets of Israel, whom God sent, will occur. None of all their words will fail, but all will come true at their appointed times. So it will be safer in Media than in Assyria and Babylon. For I know and believe that whatever God has said will be fulfilled and will come true; not a single word of the prophecies will fail. All of our kindred, inhabitants of the land of Israel, will be scattered and taken as captives from the good land; and the whole land of Israel will be desolate, even Samaria and Jerusalem will be desolate. And the temple of God in it will be burned to the ground, and it will be desolate for a while.",
+      "links": [
+        "Nah 1:1,7-8",
+        "Jer 25:11",
+        "Dan 9:2"
+      ],
+      "comment": "Tobit’s advice to seek safety in Media invokes belief in prophetic authority and underscores themes of exile, judgment, and trust in God's word, echoing prophecies like Nahum’s oracle against Nineveh (Nahum 1–3) and the destruction foretold by other prophets (Jeremiah 7:34; Micah 3:12)."
     },
     {
       "pk": 17014005,
@@ -61,9 +80,9 @@
       "bookAbbreviation": "Tob",
       "chapter": 14,
       "verse": 5,
-      "text": "\"Now, my child, observe what the Lord commands you, and do what is pleasing in His sight all the days of your life. Do not walk in the ways of wrongdoing.\"",
-      "links": "<a href='/AIV/17/4/5'>Tobit 4:5</a>; <a href='/AIV/5/6/18'>Deuteronomy 6:18</a>",
-      "comment": "Obedience is again central—doing what is 'pleasing in His sight' recalls the theme of living faith with works, which is foundational for a holy life (<a href='/AIV/59/2/24'>James 2:24</a>)."
+      "text": "But God will again have mercy on them, and God will bring them back into the land of Israel; and they will rebuild the temple of God, though not like the first one until the time of fulfillment comes. After this, they will all return from their exile and will rebuild Jerusalem in splendor, and in it the temple of God will be rebuilt, just as the prophets of Israel have foretold.",
+      "links": "<a href='/AIV/05/6/5'>Deut. 6:5</a>; <a href='/AIV/17/4/5-7'>Tob. 4:5-7</a>",
+      "comment": "Tobit’s final exhortation stresses obedience to the law and mercy—two pillars that later become central in Christian ethical teaching (<a href='/AIV/40/22/37-40'>Matt. 22:37-40</a>)."
     },
     {
       "pk": 17014006,
@@ -73,9 +92,9 @@
       "bookAbbreviation": "Tob",
       "chapter": 14,
       "verse": 6,
-      "text": "\"For those who act in truth will prosper in all their works. To all who practice righteousness, give generously from your possessions, and do not be afraid.\"",
-      "links": "<a href='/AIV/19/112/5'>Psalm 112:5</a>; <a href='/AIV/17/12/8-9'>Tobit 12:8-9</a>",
-      "comment": "Giving alms is stressed, connected directly with prosperity and spiritual benefit. This anticipates the teaching of Jesus on storing up treasure in heaven (<a href='/AIV/40/6/19-21'>Matthew 6:19-21</a>), and the spiritual power of charity."
+      "text": "Then the nations in the whole world will all be converted and worship God in truth. They will all abandon their idols, which deceitfully have led them into their error;",
+      "links": "<a href='/AIV/23/2/2-4'>Isa. 2:2-4</a>; <a href='/AIV/26/37/25-28'>Ezek. 37:25-28</a>; <a href='/AIV/40/24/2'>Matt. 24:2</a>",
+      "comment": "Reference to the temple’s future glory hints at a messianic age and the eschatological gathering of God’s people. The prophecy foreshadows Christ’s establishment of the new and everlasting covenant (<a href='/AIV/58/9/11-12'>Heb. 9:11-12</a>)."
     },
     {
       "pk": 17014007,
@@ -85,9 +104,9 @@
       "bookAbbreviation": "Tob",
       "chapter": 14,
       "verse": 7,
-      "text": "\"You will see their destruction and bury them. Now, my child, endure patiently, for God will surely punish those who commit injustice, and all the works of their pride will be brought down to the ground. Then righteousness will flourish like a garden of peace, and the faithful will rejoice for ever.\"",
-      "links": "<a href='/AIV/23/32/17'>Isaiah 32:17</a>; <a href='/AIV/19/92/12'>Psalm 92:12</a>",
-      "comment": "An eschatological vision appears here—the triumph of righteousness, the flourishing of the faithful. This points to the promise of ultimate justice and lasting joy for those who persevere, a hope deepened by New Testament revelations (<a href='/AIV/66/21/4'>Revelation 21:4</a>)."
+      "text": "and in righteousness they will praise the eternal God. All the Israelites who are saved in those days and are truly mindful of God will be gathered together; they will go to Jerusalem and live in safety forever in the land of Abraham, and it will be given over to them. Those who sincerely love God will rejoice, but those who commit sin and injustice will vanish from all the earth.",
+      "links": "<a href='/AIV/23/2/18-21'>Isa. 2:18-21</a>; <a href='/AIV/19/86/9'>Ps. 86:9</a>",
+      "comment": "Anticipation of all nations worshiping the one true God prefigures the universality of the Gospel and God’s plan to unite Jew and Gentile in worship (<a href='/AIV/45/11/17-18'>Rom. 11:17-18</a>)."
     },
     {
       "pk": 17014008,
@@ -97,9 +116,9 @@
       "bookAbbreviation": "Tob",
       "chapter": 14,
       "verse": 8,
-      "text": "\"You, therefore, my son, and your children, depart from here and remain no longer. See what Nineveh has done to my people and all that Nadab did to Ahiqar. Nineveh, where we suffer, will be punished and destroyed; at the appointed time all will be vindicated.\"",
-      "links": "<a href='/AIV/32/3/4'>Jonah 3:4</a>; <a href='/AIV/34/1/8'>Nahum 1:8</a>",
-      "comment": "Nineveh's destruction as foretold is a reminder of the certainty of God's justice. The reference to family endurance and vindication links to the theme of trusting God's timing."
+      "text": "So now, my children, I command you, serve God faithfully and do what is pleasing in his sight. Command your children to do what is right and to give alms, and to always remember God and bless his name sincerely and with all their strength. So now, my son, leave Nineveh; do not remain here.",
+      "links": "<a href='/AIV/19/67/4-5'>Ps. 67:4-5</a>; <a href='/AIV/66/7/9'>Rev. 7:9</a>",
+      "comment": "Universal praise of God by every nation is both a prophetic glimpse and a summons for God’s people to holiness, setting the stage for worldwide communion in worship."
     },
     {
       "pk": 17014009,
@@ -108,11 +127,10 @@
       "bookName": "Tobit",
       "bookAbbreviation": "Tob",
       "chapter": 14,
-      "verse": 9,
-      "text": "After he had spoken these things, Tobit died in peace at the age of one hundred and twelve, and was buried honorably at Nineveh.",
-      "links": "<a href='/AIV/17/7/7'>Tobit 7:7</a>; <a href='/AIV/1/25/8'>Genesis 25:8</a>",
-      "comment": "Dying 'in peace' with an 'honorable' burial is a sign of divine favor and faithful life, recalling the deaths of patriarchs such as Abraham. The number 112 is specific in later traditions; the Septuagint says 102. Main meaning remains: long life as seen as a reward for faithfulness.",
-      "sectionHeader": "Death of Tobit and Tobias's Departure to Media"
+      "verse": 10,
+      "text": "On whatever day you bury your mother beside me, do not remain overnight within the boundaries of the city. For I see that there is much wickedness in it, and much deceit is practiced there, and the people are unashamed. Consider, my son, what Nadab did to Ahikar who raised him: was he not, while still alive, brought down into the earth? For God repaid him for his shameful treatment. Ahikar came again into the light, but Nadab went into everlasting darkness because he tried to kill Ahikar. Because Ahikar gave alms, he escaped the deadly trap that Nadab set for him, but Nadab fell into it himself and was destroyed.",
+      "links": "<a href='/AIV/17/1/22'>Tob. 1:22</a>; <a href='/AIV/17/2/10'>Tob. 2:10</a>",
+      "comment": "Tobit illustrates the eventual justice of God against the unfaithful. The warning shows that the righteous are sometimes afflicted, but ultimate vindication belongs to those who persevere."
     },
     {
       "pk": 17014010,
@@ -121,10 +139,10 @@
       "bookName": "Tobit",
       "bookAbbreviation": "Tob",
       "chapter": 14,
-      "verse": 10,
-      "text": "Tobias carried out his father's instructions, together with Anna his mother. He departed for Media and lived there, he and his wife and children.",
-      "links": "<a href='/AIV/17/10/10-11'>Tobit 10:10-11</a>",
-      "comment": "Tobias' obedience to his father is commended. Attentiveness to the wisdom of elders is a recurring virtue throughout Scripture (compare <a href='/AIV/2/20/12'>Exodus 20:12</a>)."
+      "verse": 11,
+      "text": "So now, my children, see what almsgiving accomplishes, and what injustice does—it brings death! But now my breath fails me.” Then they laid him on his bed, and he died; and he received an honorable funeral.",
+      "links": "<a href='/AIV/17/4/10-11'>Tob. 4:10-11</a>; <a href='/AIV/19/41/1'>Ps. 41:1</a>",
+      "comment": "Reiteration of almsgiving’s power points to the connection between faith and works, a theme echoed in Christ’s teaching (<a href='/AIV/40/25/34-40'>Matt. 25:34-40</a>). This interweaving of charity and salvation is a foundation for understanding Christian righteousness."
     },
     {
       "pk": 17014011,
@@ -133,10 +151,10 @@
       "bookName": "Tobit",
       "bookAbbreviation": "Tob",
       "chapter": 14,
-      "verse": 11,
-      "text": "He buried his father and mother honorably. He inherited their possessions and those of his father-in-law, Raguel.",
-      "links": "<a href='/AIV/17/8/21'>Tobit 8:21</a>; <a href='/AIV/4/6/16'>Numbers 6:16</a>",
-      "comment": "Inheritance of possessions following honorable burial reaffirms the importance of family duties and generational blessing. Burial rites and inheritance law are deeply rooted throughout the Old Testament."
+      "verse": 12,
+      "text": "When Tobias’s mother died, he buried her beside his father. Then he and his wife and his children returned to Media and settled in Ecbatana with Raguel, his father-in-law.",
+      "links": "<a href='/AIV/20/8/36'>Prov. 8:36</a>; <a href='/AIV/45/6/23'>Rom. 6:23</a>",
+      "comment": "Moral choices have spiritual consequences, echoing the biblical teaching that sin ultimately leads to ruin."
     },
     {
       "pk": 17014012,
@@ -145,11 +163,10 @@
       "bookName": "Tobit",
       "bookAbbreviation": "Tob",
       "chapter": 14,
-      "verse": 12,
-      "text": "He lived in Media until his death, at the age of one hundred and seventeen years.",
-      "links": "<a href='/AIV/17/1/4'>Tobit 1:4</a>",
-      "comment": "Longevity is again highlighted as a sign of living in righteousness and God's favor.",
-      "sectionHeader": "Death of Tobias and the Family's Faithfulness"
+      "verse": 13,
+      "text": "He treated his parents-in-law with great respect in their old age, and buried them in Ecbatana of Media. He inherited both the property of Raguel and that of his father Tobit.",
+      "links": "<a href='/AIV/17/9/2'>Tob. 9:2</a>",
+      "comment": "The honorable burial underscores the importance of caring for the dead, a practice regarded as a work of mercy in Christian tradition."
     },
     {
       "pk": 17014013,
@@ -158,22 +175,10 @@
       "bookName": "Tobit",
       "bookAbbreviation": "Tob",
       "chapter": 14,
-      "verse": 13,
-      "text": "But before he died, he heard about the destruction of Nineveh, which Nebuchadnezzar and Ahasuerus took captive. He rejoiced over Nineveh’s downfall and over the deliverance of Media.",
-      "links": "<a href='/AIV/34/3/7'>Nahum 3:7</a>; <a href='/AIV/27/5/31'>Daniel 5:31</a>",
-      "comment": "Hearing of Nineveh’s fall and Media’s deliverance shows the fulfillment of prophetic warnings. Joy over God’s justice is a key theme, paralleling the biblical exultation at the vindication of the oppressed (<a href='/AIV/19/58/10'>Psalm 58:10</a>)."
-    },
-    {
-      "pk": 17014014,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 14,
       "verse": 14,
-      "text": "He praised the Lord God for all things and blessed Him as long as he lived.",
-      "links": "<a href='/AIV/19/34/1'>Psalm 34:1</a>",
-      "comment": "A life marked by thanksgiving and blessing God mirrors the call to constant praise found throughout both Old and New Testaments (<a href='/AIV/52/5/18'>1 Thessalonians 5:18</a>)."
+      "text": "He died highly respected at the age of one hundred seventeen years.",
+      "links": "<a href='/AIV/17/2/7'>Tob. 2:7</a>",
+      "comment": "The inheritance and respect for family point to the biblical pattern of generational blessing, stewardship, and the honoring of parents (<a href='/AIV/02/20/12'>Ex. 20:12</a>)."
     },
     {
       "pk": 17014015,
@@ -183,27 +188,14 @@
       "bookAbbreviation": "Tob",
       "chapter": 14,
       "verse": 15,
-      "text": "So, he died with honor. All his family and descendants remained faithful and lived a good life, and they were buried with him in Media. And Tobias inherited his house, as did his descendants.",
-      "links": "<a href='/AIV/17/1/20'>Tobit 1:20</a>; <a href='/AIV/1/25/8'>Genesis 25:8</a>",
-      "comment": "Faithful descendants and shared burial highlight the enduring power of legacy and tradition, sustaining the promises and blessings across generations. Spiritually, this points to the communion of the faithful and continuity in the one family of God, united in worship and righteousness."
+      "text": "Before he died he heard of the destruction of Nineveh, and he saw its prisoners being led into Media, those whom King Cyaxares of Media had taken captive. Tobias praised God for all he had done to the people of Nineveh and Assyria; before he died he rejoiced over Nineveh, and he blessed the Lord God forever and ever. Amen.",
+      "links": [
+        "Nah 3:7",
+        "Isa 13:17-19",
+        "Bar 1:1-5"
+      ],
+      "comment": "Tobias witnesses Nineveh’s downfall as prophesied, reinforcing the fulfillment of God’s word; his praise reflects a Jewish perspective on divine justice and sovereignty over nations (cf. Daniel 2:21, Isaiah 10:5–19)."
     }
   ],
-  "translatedAt": "2025-12-24T04:59:55.282Z",
-  "sections": [
-    {
-      "title": "Tobit's Final Exhortation and Prophecy",
-      "startVerse": 2,
-      "endVerse": 8
-    },
-    {
-      "title": "Death of Tobit and Tobias's Departure to Media",
-      "startVerse": 9,
-      "endVerse": 11
-    },
-    {
-      "title": "Death of Tobias and the Family's Faithfulness",
-      "startVerse": 12,
-      "endVerse": 15
-    }
-  ]
+  "translatedAt": "2025-12-29T00:37:52.748Z"
 }

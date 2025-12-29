@@ -87,7 +87,7 @@
       "verse": 7,
       "text": "And when they say to you, 'Why are you groaning?' you shall say, 'Because of the news that is coming. Every heart will melt, all hands will be weak, every spirit will faint, and all knees will tremble like water. Behold, it is coming; it will surely take place,' declares the Lord GOD.",
       "links": "<a href='/AIV/24/6/24'>Jer. 6:24</a>; <a href='/AIV/27/5/6'>Dan. 5:6</a>",
-      "comment": "The physical responses—quaking knees and fainting spirit—reveal the overwhelming terror that God's judgment brings. This mirrors the reaction to God’s appearances throughout scripture (<a href='/AIV/02/19/16'>Ex. 19:16</a>)."
+      "comment": "Ezekiel's groaning foretells the terror Jerusalem will face at the coming Babylonian siege; the vivid language of hearts melting and hands growing weak echoes imagery of national despair (cf. Joshua 7:5, Isaiah 13:7), emphasizing the certainty and divine origin of the impending judgment."
     },
     {
       "pk": 33021008,
@@ -124,7 +124,7 @@
       "verse": 10,
       "text": "sharpened to make a great slaughter, polished to flash like lightning! Should we then rejoice? You have despised the rod, my son, the scepter. It will not continue,' declares the Lord GOD.",
       "links": "<a href='/AIV/19/76/5'>Ps. 76:5</a>; <a href='/AIV/01/49/10'>Gen. 49:10</a>",
-      "comment": "Lightning imagery conveys both speed and terror. 'You have despised the rod...' refers to Israel rejecting discipline and legitimate authority, leading to judgment and the loss of royal power for a time."
+      "comment": "The sword, symbolizing Babylon as God's instrument of judgment, is sharpened for slaughter and flashing with destructive inevitability; the rhetorical question rebukes false optimism, while 'despised the rod' alludes to Israel's rejection of legitimate discipline and kingship (cf. Genesis 49:10), indicating that the ruling scepter will be removed."
     },
     {
       "pk": 33021011,
@@ -195,7 +195,11 @@
       "chapter": 21,
       "verse": 16,
       "text": "Attack to the right, set yourself to the left, wherever your edge is directed.",
-      "links": "",
+      "links": [
+        "Jer 6:22-23",
+        "Isa 10:6",
+        "Ezek 14:17"
+      ],
       "comment": "The sword’s movements symbolize total destruction—no direction is left unscathed. God’s judgment is unchecked."
     },
     {
@@ -219,7 +223,11 @@
       "chapter": 21,
       "verse": 18,
       "text": "The word of the LORD came to me again, saying,",
-      "links": "",
+      "links": [
+        "Ezek 6:1",
+        "Jer 1:4",
+        "Isa 38:4"
+      ],
       "comment": "This introduces a new prophecy, underlining ongoing communication between God and His prophet.",
       "sectionHeader": "The Sword Directed Toward Jerusalem and Rabbah"
     },
@@ -365,7 +373,11 @@
       "chapter": 21,
       "verse": 30,
       "text": "Return your sword to its sheath. In the place where you were created, in your own land, I will judge you.",
-      "links": "",
+      "links": [
+        "Jer 50:35-38",
+        "Ezek 7:8",
+        "Ezek 16:38"
+      ],
       "comment": "Divine judgment is personal and particular to each nation. The phrase 'in the place where you were created' highlights God’s authority over nationhood and destiny."
     },
     {

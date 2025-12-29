@@ -158,7 +158,11 @@
       "chapter": 24,
       "verse": 13,
       "text": "Now, that same day, two of them were going to a village named Emmaus, about seven miles from Jerusalem.",
-      "links": "",
+      "links": [
+        "Mark 16:12",
+        "John 19:25",
+        "Acts 1:12"
+      ],
       "comment": "The journey from Jerusalem to Emmaus sets the scene for a profound recognition of the risen Lord in the breaking of bread.",
       "sectionHeader": "The Road to Emmaus"
     },
@@ -171,7 +175,11 @@
       "chapter": 24,
       "verse": 14,
       "text": "They were talking with each other about all these things that had happened.",
-      "links": "",
+      "links": [
+        "Mal 3:16",
+        "Deut 6:7",
+        "Ps 77:11-12"
+      ],
       "comment": "The disciples are processing the events, showing active engagement with the mysteries of faith."
     },
     {
@@ -207,7 +215,11 @@
       "chapter": 24,
       "verse": 17,
       "text": "He said to them, 'What are these words that you are exchanging with each other as you walk?' And they stood still, looking sad.",
-      "links": "",
+      "links": [
+        "John 16:20",
+        "John 20:15",
+        "Gen 40:6-7"
+      ],
       "comment": "Jesus draws out their sorrow and misunderstanding, preparing them to receive the truth."
     },
     {
@@ -219,7 +231,11 @@
       "chapter": 24,
       "verse": 18,
       "text": "One of them, named Cleopas, answered Him, 'Are you the only visitor in Jerusalem who does not know the things that have happened there in these days?'",
-      "links": "",
+      "links": [
+        "John 19:25",
+        "Acts 3:17",
+        "Luke 2:15-18"
+      ],
       "comment": "Luke names one witness, further grounding the narrative in historical persons and events."
     },
     {
@@ -339,7 +355,11 @@
       "chapter": 24,
       "verse": 28,
       "text": "As they approached the village where they were going, He acted as though He were going farther.",
-      "links": "",
+      "links": [
+        "Gen 18:3",
+        "Matt 15:32",
+        "Acts 16:15"
+      ],
       "comment": "Jesus invites a response from them, not forcing Himself upon them. Faith involves free cooperation with grace."
     },
     {
@@ -351,7 +371,11 @@
       "chapter": 24,
       "verse": 29,
       "text": "But they urged Him strongly, saying, 'Stay with us, for it is nearly evening and the day is far spent.' So He went in to stay with them.",
-      "links": "",
+      "links": [
+        "Gen 19:3",
+        "Heb 13:2",
+        "3 John 1:8"
+      ],
       "comment": "Hospitality, common in Jewish culture, allows for further revelation—a parallel to opening oneself to Christ more deeply."
     },
     {
@@ -375,7 +399,11 @@
       "chapter": 24,
       "verse": 31,
       "text": "Then their eyes were opened, and they recognized Him; and He vanished from their sight.",
-      "links": "",
+      "links": [
+        "Gen 21:19",
+        "2 Kgs 6:17",
+        "Luke 24:16"
+      ],
       "comment": "Recognition is granted in the context of the meal, pointing to the ongoing presence of Jesus with His people, especially through liturgical acts."
     },
     {
@@ -387,7 +415,11 @@
       "chapter": 24,
       "verse": 32,
       "text": "They said to each other, 'Were not our hearts burning within us while He spoke to us on the road, while He opened the Scriptures to us?'",
-      "links": "",
+      "links": [
+        "Jer 20:9",
+        "Ps 39:3",
+        "Luke 24:27"
+      ],
       "comment": "The Word and the breaking of bread together bring fullness of revelation. Spiritual understanding whets the appetite for deeper truth."
     },
     {
@@ -399,7 +431,11 @@
       "chapter": 24,
       "verse": 33,
       "text": "So they got up that very hour and returned to Jerusalem. They found the Eleven and those with them gathered together,",
-      "links": "",
+      "links": [
+        "Matt 28:7-8",
+        "Mark 16:13",
+        "John 20:19"
+      ],
       "comment": "Witness to Christ sends them back to the apostolic community—unity and communion as central marks of Christian life."
     },
     {
@@ -460,7 +496,11 @@
       "chapter": 24,
       "verse": 38,
       "text": "And He said to them, 'Why are you troubled, and why do doubts arise in your hearts?'",
-      "links": "",
+      "links": [
+        "Matt 28:17",
+        "John 20:19",
+        "John 20:27"
+      ],
       "comment": "Jesus confronts their doubts, pointing to His bodily presence as the source of faith and assurance."
     },
     {
@@ -472,8 +512,12 @@
       "chapter": 24,
       "verse": 39,
       "text": "'Look at My hands and My feet, that it is I Myself. Touch Me and see; for a spirit does not have flesh and bones as you see that I have.'",
-      "links": "",
-      "comment": "The physicality of Jesus’ body affirms the reality of the resurrection—a cornerstone of apostolic faith. The marks of crucifixion remain visible."
+      "links": [
+        "John 20:20",
+        "John 20:27",
+        "1 John 1:1"
+      ],
+      "comment": "Jesus' invitation to touch His resurrected body affirms the physical reality of His resurrection, countering contemporary notions that resurrection was only spiritual (cf. John 20:27); this underscores Christian teaching on bodily resurrection and the continuity of identity after death."
     },
     {
       "pk": 49024040,
@@ -496,7 +540,11 @@
       "chapter": 24,
       "verse": 41,
       "text": "While they still could not believe it because of joy and were marveling, He said to them, 'Do you have anything here to eat?'",
-      "links": "",
+      "links": [
+        "Gen 45:26",
+        "Acts 12:14-16",
+        "Mark 6:49-50"
+      ],
       "comment": "Eating is a further demonstration of His real, glorified body. Shared meals are a continuing theme of fellowship."
     },
     {
@@ -508,7 +556,10 @@
       "chapter": 24,
       "verse": 42,
       "text": "They gave Him a piece of broiled fish.",
-      "links": "",
+      "links": [
+        "John 21:9-13",
+        "Luke 11:11"
+      ],
       "comment": "The details underscore eyewitness testimony and emphasize the reality—not imagination—of the resurrection."
     },
     {
@@ -520,7 +571,10 @@
       "chapter": 24,
       "verse": 43,
       "text": "He took it and ate before them.",
-      "links": "",
+      "links": [
+        "Acts 10:41",
+        "John 21:13"
+      ],
       "comment": "Jesus' eating further proves He is not a ghost. Table fellowship continues to be a sign of the new life He brings."
     },
     {
@@ -544,7 +598,11 @@
       "chapter": 24,
       "verse": 45,
       "text": "Then He opened their minds to understand the Scriptures.",
-      "links": "",
+      "links": [
+        "Luke 24:32",
+        "Acts 16:14",
+        "John 20:9"
+      ],
       "comment": "True understanding is a gift that comes through the action of Christ—the pattern for all subsequent understanding of God’s word."
     },
     {

@@ -62,7 +62,11 @@
       "chapter": 21,
       "verse": 5,
       "text": "They said to the king, 'The man who consumed us and planned to destroy us, so that we should have no place in all the territory of Israel,",
-      "links": "",
+      "links": [
+        "1 Sam 22:19",
+        "Esth 3:6",
+        "Obad 1:10"
+      ],
       "comment": "The Gibeonites recall Saul’s attempt at extermination, underscoring the severity of his offense."
     },
     {
@@ -134,7 +138,11 @@
       "chapter": 21,
       "verse": 11,
       "text": "When it was told David what Rizpah the daughter of Aiah, the concubine of Saul, had done,",
-      "links": "",
+      "links": [
+        "2 Sam 3:7",
+        "2 Sam 21:10",
+        "Ruth 3:11"
+      ],
       "comment": "Her action moves David, evidencing how persistent devotion can influence events even in the context of royal decree."
     },
     {
@@ -158,7 +166,11 @@
       "chapter": 21,
       "verse": 13,
       "text": "He brought up from there the bones of Saul and the bones of Jonathan his son, and they gathered the bones of those who had been hanged.",
-      "links": "",
+      "links": [
+        "1 Sam 31:12-13",
+        "2 Sam 2:4-5",
+        "Gen 50:25"
+      ],
       "comment": "The physical gathering of bones for burial underscores the value of honoring the dead."
     },
     {

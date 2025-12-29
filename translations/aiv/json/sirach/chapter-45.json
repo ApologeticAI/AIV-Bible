@@ -37,9 +37,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 45,
       "verse": 3,
-      "text": "God made him mighty in the fear of his enemies, and by his words he caused signs and miracles to cease.",
-      "links": "<a href='/AIV/2/7/1-3'>Ex. 7:1-3</a>; <a href='/AIV/5/34/11-12'>Deut. 34:11-12</a>",
-      "comment": "Moses' words possess power to bring about signs, reflecting the importance of both faith and words as means for God to act."
+      "text": "By his words he performed swift miracles; the Lord glorified him in the presence of kings. He gave him commandments for his people, and revealed to him his glory.",
+      "links": [
+        "Ex 7:1-3",
+        "Ex 34:29-30",
+        "Num 27:12"
+      ],
+      "comment": "This verse extols Moses, whose divinely empowered speech resulted in signs before Pharaoh (Exod 7–12), affirming his role as lawgiver and prophet who receives God’s revelation and transmits it to Israel (cf. Deut 34:10-12)."
     },
     {
       "pk": 28045004,
@@ -170,9 +174,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 45,
       "verse": 14,
-      "text": "His offerings were to be consumed by fire twice every day, as a perpetual reminder for Moses, with constant sacrifices to make peace for the people.",
-      "links": "<a href='/AIV/3/6/20'>Lev. 6:20</a>; <a href='/AIV/4/28/3'>Num. 28:3</a>",
-      "comment": "The sacrifices foreshadow the need for an ongoing, perfect atonement, a theme that finds fulfillment in Christ's eternal sacrifice (<a href='/AIV/58/10/12'>Heb. 10:12</a>)."
+      "text": "His sacrifices shall be wholly burned twice every day continually.",
+      "links": [
+        "Ex 29:38-42",
+        "Num 28:3-6",
+        "Lev 6:9"
+      ],
+      "comment": "A reference to Aaronic priestly duties (cf. Num 28:3-4), highlighting the perpetual nature of the twice-daily burnt offerings, central to Israel’s worship and symbolizing constant devotion to God."
     },
     {
       "pk": 28045015,
@@ -182,9 +190,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 45,
       "verse": 15,
-      "text": "God gave him authority to bless the people and to bear His glorious name, so that he might honor Him with sacrifices and maintain harmony with His people.",
-      "links": "<a href='/AIV/4/6/22-27'>Num. 6:22-27</a>",
-      "comment": "The power to bless in God’s name is given by God to specific leaders. This principle is later echoed in apostolic succession and sacramental ministry."
+      "text": "Moses ordained him, and anointed him with holy oil; it was an everlasting covenant for him and for his descendants as long as the heavens endure, to minister to the Lord and serve as priest and bless his people in his name.",
+      "links": [
+        "Ex 40:13-15",
+        "Lev 8:12",
+        "Num 25:13"
+      ],
+      "comment": "Moses’ consecration of Aaron (Exod 29:7) initiates the high priesthood, described here as an everlasting covenant grounded in service, intercession, and blessing—core priestly functions that echo Israel’s enduring relationship with God."
     },
     {
       "pk": 28045016,
@@ -230,9 +242,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 45,
       "verse": 19,
-      "text": "The earth opened its mouth and swallowed them with their households, and all Korah's men and possessions, consumed by fire for their arrogance.",
-      "links": "<a href='/AIV/4/16/31-33'>Num. 16:31-33</a>",
-      "comment": "God's fierce judgment against rebellion marks the sacredness of leadership and the danger of division among God’s people."
+      "text": "The Lord saw it and was not pleased, and in the heat of his anger they were destroyed; he performed wonders against them to consume them in flaming fire.",
+      "links": [
+        "Num 16:31-35",
+        "Deut 9:22",
+        "Ps 106:18"
+      ],
+      "comment": "This recalls the fates of Korah and his followers (Num 16), whose rebellion was met with divine judgment by fire, underscoring God’s holiness, the gravity of priestly office, and consequences of defiance."
     },
     {
       "pk": 28045020,
@@ -320,7 +336,7 @@
       "comment": "A concluding blessing for wisdom and righteous leadership, echoing prayers for the preservation and blessing of God’s chosen leaders and people."
     }
   ],
-  "translatedAt": "2025-12-24T07:48:03.992Z",
+  "translatedAt": "2025-12-28T02:52:42.104Z",
   "sections": [
     {
       "title": "The Praise of Moses",

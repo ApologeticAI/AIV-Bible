@@ -13,7 +13,11 @@
       "chapter": 10,
       "verse": 1,
       "text": "The LORD spoke to Moses, saying,",
-      "links": "",
+      "links": [
+        "Num 1:1",
+        "Ex 25:1",
+        "Lev 1:1"
+      ],
       "comment": "God initiating direct communication with Moses is a recurring pattern (cf. Ex. 25:1), emphasizing the authority through a chosen mediator.",
       "sectionHeader": "The Silver Trumpets"
     },
@@ -364,7 +368,11 @@
       "chapter": 10,
       "verse": 30,
       "text": "But he said to him, \"I will not go; I will return to my own land and to my relatives.\"",
-      "links": "",
+      "links": [
+        "Gen 24:6",
+        "Ruth 1:10",
+        "Acts 15:37-38"
+      ],
       "comment": "The tension between attachment to origins and call to join God’s people—a spiritual struggle mirrored in every conversion journey."
     },
     {
@@ -376,7 +384,11 @@
       "chapter": 10,
       "verse": 31,
       "text": "But Moses said, \"Please do not leave us, for you know where we should camp in the wilderness, and you will act as eyes for us.\"",
-      "links": "",
+      "links": [
+        "Ex 18:19-24",
+        "1 Sam 14:27-29",
+        "Prov 15:22"
+      ],
       "comment": "Moses values wisdom and experience from outside the immediate community. The humility to seek help foreshadows the Church’s use of tradition and reason, along with revelation."
     },
     {

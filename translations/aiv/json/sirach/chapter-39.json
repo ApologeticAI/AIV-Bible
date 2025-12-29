@@ -109,9 +109,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 39,
       "verse": 9,
-      "text": "He will serve in the midst of princes, and will be admired in the presence of rulers.",
-      "links": "<a href='/AIV/27/6/1-3'>Dan. 6:1-3</a>",
-      "comment": "This recalls Daniel's service under foreign kings. Wisdom elevates the faithful, inviting them to be salt and light even unto the highest circles of influence."
+      "text": "Many will praise his understanding; it will never be blotted out. His memory will not disappear, and his name will live through all generations.",
+      "links": [
+        "Ps 112:6",
+        "Prov 10:7",
+        "Dan 12:3"
+      ],
+      "comment": "This verse celebrates the enduring legacy of the wise, reflecting the Jewish tradition where wisdom is prized above material wealth; compare Proverbs 10:7, where 'the memory of the just is blessed,' underscoring the belief that virtue and insight grant lasting honor across generations."
     },
     {
       "pk": 28039010,
@@ -399,9 +403,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 39,
       "verse": 33,
-      "text": "No one can say, 'What is this? Why was that?' For at the appointed time, every answer will be made clear. For at his command, all things are accomplished.",
-      "links": "<a href='/AIV/23/55/11'>Isa. 55:11</a>; <a href='/AIV/45/11/33'>Rom. 11:33</a>",
-      "comment": "Though God’s ways are often mysterious, they are purposeful, and in the fullness of time, their wisdom will be revealed."
+      "text": "All the works of the Lord are good, and he will supply every need in its time.",
+      "links": [
+        "Gen 1:31",
+        "Wis 11:24",
+        "Rom 8:28"
+      ],
+      "comment": "Affirming divine providence, this verse echoes the theme of God's goodness and timing found in Psalm 104:27-28 and Matthew 6:31-33, reassuring readers that all of creation is cared for justly and sufficiently by the Lord."
     },
     {
       "pk": 28039034,
@@ -411,9 +419,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 39,
       "verse": 34,
-      "text": "At his word, the waters stood like a heap, and the words of his mouth are powerful as his works.",
-      "links": "<a href='/AIV/02/14/21-22'>Ex. 14:21-22</a>; <a href='/AIV/19/33/6-9'>Ps. 33:6-9</a>",
-      "comment": "God’s command parts the seas; his word holds the power of both creation and redemption. Such authority over creation foreshadows Jesus calming the storm (see Matt. 8:26-27), further revealing his divine nature."
+      "text": "No one can say, “This is not as good as that,” for everything proves good in its appointed time.",
+      "links": [
+        "Gen 1:31",
+        "Rom 8:28",
+        "Eccl 3:11"
+      ],
+      "comment": "The author here rejects the idea of ranking God's works by human standards, advocating for a trust in God's timing and wisdom, aligning with Genesis 1's declaration that 'God saw all that he had made, and it was very good.'"
     },
     {
       "pk": 28039035,
@@ -428,7 +440,7 @@
       "comment": "Praise and thanksgiving conclude the passage, highlighting the importance of worship in the gathered community, which continues as a central act for believers."
     }
   ],
-  "translatedAt": "2025-12-24T07:44:45.798Z",
+  "translatedAt": "2025-12-28T02:48:46.178Z",
   "sections": [
     {
       "title": "The Pursuit and Rewards of Wisdom",

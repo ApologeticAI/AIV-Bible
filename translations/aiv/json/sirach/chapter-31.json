@@ -3,6 +3,13 @@
   "bookName": "Sirach",
   "bookAbbreviation": "Sir",
   "chapter": 31,
+  "sections": [
+    {
+      "title": "Dangers and Responsibility of Wealth",
+      "startVerse": 1,
+      "endVerse": 31
+    }
+  ],
   "verses": [
     {
       "pk": 28031001,
@@ -12,10 +19,10 @@
       "bookAbbreviation": "Sir",
       "chapter": 31,
       "verse": 1,
-      "text": "Worry about wealth makes a man lose sleep; anxiety about it deprives him of rest.",
-      "links": "<a href='/AIV/20/23/4'>Prov. 23:4</a>; <a href='/AIV/19/127/2'>Ps. 127:2</a>",
-      "comment": "This verse emphasizes the heavy burden that the pursuit of wealth can bring. Solomon often warns against the anxiety of riches (see Proverbs), reminding us to trust God for our daily needs.",
-      "sectionHeader": "The Dangers of Wealth and Greed"
+      "text": "Watching over wealth causes sleeplessness, and concern for it drives away sleep.",
+      "links": "<a href='/AIV/19/39/6'>Ps. 39:6</a>; <a href='/AIV/20/23/4'>Prov. 23:4</a>",
+      "comment": "Wisdom literature repeatedly warns against anxious striving for wealth; cross-reference to Proverbs and Psalms illustrates this enduring biblical theme.",
+      "sectionHeader": "Dangers and Responsibility of Wealth"
     },
     {
       "pk": 28031002,
@@ -25,9 +32,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 31,
       "verse": 2,
-      "text": "Wakeful distress interrupts one's sleep; serious illness chases away rest.",
-      "links": "<a href='/AIV/21/5/12'>Eccl. 5:12</a>",
-      "comment": "The text draws a parallel between physical worries over wealth and physical suffering, both of which spoil true peace. Christ offers inner rest (Matthew 11:28-29)."
+      "text": "Wakeful anxiety keeps sleep from coming, and a severe illness drives away slumber.",
+      "links": [
+        "Ps 77:4",
+        "Eccl 5:12",
+        "Job 7:3-4"
+      ],
+      "comment": "This verse reflects ancient wisdom’s insight into how worry and illness disrupt peace, paralleling Proverbs 12:25 about anxiety weighing the heart."
     },
     {
       "pk": 28031003,
@@ -37,9 +48,12 @@
       "bookAbbreviation": "Sir",
       "chapter": 31,
       "verse": 3,
-      "text": "A rich man works to gather a fortune, and if he rests, he is filled with luxuries.",
-      "links": "<a href='/AIV/20/10/15'>Prov. 10:15</a>",
-      "comment": "Material wealth brings earthly comforts, but also spiritual challenges (Luke 16:19-31, the rich man and Lazarus). The text subtly invites readers to consider what is truly lasting."
+      "text": "The rich person toils to gather wealth, and when he rests, he enjoys his delicacies.",
+      "links": [
+        "Eccl 5:12",
+        "Luke 12:19-21"
+      ],
+      "comment": "Contrasting rich and poor, the text observes that wealth provides comfort, highlighting how possessions can ease material burdens but may not solve deeper spiritual concerns."
     },
     {
       "pk": 28031004,
@@ -49,9 +63,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 31,
       "verse": 4,
-      "text": "A poor man works for a meager living, and if he rests, he falls deeper into poverty.",
-      "links": "<a href='/AIV/20/13/23'>Prov. 13:23</a>",
-      "comment": "Poverty, like wealth, has its dangers. While riches can draw us away from God, poverty can tempt to despair. Scripture upholds both diligence and trust in God's providence."
+      "text": "The poor person toils for a meager living, and if ever he rests, he finds himself in need.",
+      "links": [
+        "Prov 13:23",
+        "Eccl 9:16",
+        "Jas 2:5"
+      ],
+      "comment": "The plight of the poor, who labor for mere survival and remain vulnerable even in rest, recalls the social justice themes of Proverbs 13:23."
     },
     {
       "pk": 28031005,
@@ -61,9 +79,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 31,
       "verse": 5,
-      "text": "Whoever loves gold will not be justified, and he who pursues profit will be led astray by it.",
-      "links": "<a href='/AIV/54/6/10'>1 Tim. 6:10</a>",
-      "comment": "The love of money leads away from righteousness (see 1 Timothy 6). Notice the connection here between ‘justification’ and one’s attachment to worldly possessions."
+      "text": "A lover of money will not be declared innocent; those who chase after it will be caught by its snares.",
+      "links": "<a href='/AIV/54/6/9-10'>1 Tim. 6:9-10</a>; <a href='/AIV/20/15/27'>Prov. 15:27</a>",
+      "comment": "Paul says the love of money is a root of all evils. True innocence is found in uprightness and a rightly ordered love."
     },
     {
       "pk": 28031006,
@@ -73,9 +91,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 31,
       "verse": 6,
-      "text": "Many have been ruined because of gold, and misfortune has come to those who desired it.",
-      "links": "<a href='/AIV/20/11/28'>Prov. 11:28</a>",
-      "comment": "A reminder from wisdom literature: riches are fleeting and often lead to ruin (compare Judas in Matthew 27:3-5, who chose money over Christ)."
+      "text": "Many have been brought low by gold, and its destruction was plain to see.",
+      "links": "<a href='/AIV/02/32/1-35'>Ex. 32:1-35</a>; <a href='/AIV/19/49/6-7'>Ps. 49:6-7</a>",
+      "comment": "The golden calf incident points to how wealth can turn hearts away from God. Biblical revelation consistently warns against idolatry and greed."
     },
     {
       "pk": 28031007,
@@ -85,9 +103,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 31,
       "verse": 7,
-      "text": "It is a stumbling block to those who sacrifice to it and to all who are possessed by it.",
-      "links": "<a href='/AIV/45/1/25'>Rom. 1:25</a>",
-      "comment": "Idolatry is not only about carved images but can be about anything we serve above God—especially money. Idolatry was always condemned in Israel as spiritual adultery (cf. Hosea)."
+      "text": "It is a snare for those who are obsessed with it, and all foolish are taken captive by it.",
+      "links": "<a href='/AIV/20/27/20'>Prov. 27:20</a>; <a href='/AIV/54/6/9-10'>1 Tim. 6:9-10</a>",
+      "comment": "Riches easily enthrall the unwary mind. Throughout Scripture, wisdom is contrasted with folly, and detachment is commended."
     },
     {
       "pk": 28031008,
@@ -97,10 +115,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 31,
       "verse": 8,
-      "text": "Blessed is the rich person who is found without fault, who does not pursue gold with greed.",
-      "links": "<a href='/AIV/40/5/3'>Matt. 5:3</a>",
-      "comment": "True blessedness is possible even for the wealthy, if they resist greed and remain upright. Recall Jesus’ teaching about the ‘poor in spirit’ finding the kingdom of heaven.",
-      "sectionHeader": "Blessed Is the One Who Uses Wealth Rightly"
+      "text": "Blessed is the rich person found without blemish, who does not go after gold without limit.",
+      "links": "<a href='/AIV/40/19/21'>Matt. 19:21</a>; <a href='/AIV/59/1/9-10'>James 1:9-10</a>",
+      "comment": "Here, the rare virtue of wealth without greed is praised; reminiscent of Jesus' challenge to store up treasure in heaven."
     },
     {
       "pk": 28031009,
@@ -110,9 +127,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 31,
       "verse": 9,
-      "text": "Who is he? We will praise him, for he has done wonderful things among his people.",
-      "links": "<a href='/AIV/19/112/9'>Ps. 112:9</a>",
-      "comment": "When a wealthy person is also generous and upright, he is worthy of praise. Scriptural wisdom holds up these rare examples as models (see Job; see Acts 4:36-37, where Barnabas gives much)."
+      "text": "Who is he, that we may praise him? For he has done wonders among his people.",
+      "links": "<a href='/AIV/19/112/9'>Ps. 112:9</a>; <a href='/AIV/41/14/9'>Mark 14:9</a>",
+      "comment": "There is honor in using wealth righteously—charity is remembered before God, as with the woman who anointed Jesus."
     },
     {
       "pk": 28031010,
@@ -122,9 +139,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 31,
       "verse": 10,
-      "text": "Who has been tried by it and found perfect? He shall have glory forever. He could have taken advantage, but did not, and could have seized, but did not.",
-      "links": "<a href='/AIV/59/1/12'>Jas. 1:12</a>",
-      "comment": "Endurance in resisting temptation leads to lasting glory. Compare the reward promised to those who endure in James 1:12. This has deeper echoes of ‘perfection’ as the end of Christian life (cf. Matt. 5:48)."
+      "text": "Who has been tested by it and found perfect? Let this be his reason to boast. Who had power to transgress but did not, and to do evil yet did not do it?",
+      "links": [
+        "Job 23:10",
+        "Wis 3:5-6",
+        "1 Cor 10:13"
+      ],
+      "comment": "True virtue is seen in resisting temptation despite the power to sin; this echoes Job's integrity under trial (Job 1:22) and the praise of restraint."
     },
     {
       "pk": 28031011,
@@ -134,9 +155,12 @@
       "bookAbbreviation": "Sir",
       "chapter": 31,
       "verse": 11,
-      "text": "So his possessions will be established, and the assembly will declare his good deeds.",
-      "links": "<a href='/AIV/20/22/1'>Prov. 22:1</a>",
-      "comment": "A good reputation in the community (or assembly—an early term for the people of God) endures longer than material wealth. Note the importance of public witness and testimony (cf. Matthew 5:16)."
+      "text": "His prosperity will be established, and the assembly will proclaim his acts of charity.",
+      "links": [
+        "Matt 6:4",
+        "Matt 25:34-40"
+      ],
+      "comment": "Righteous conduct receives both divine blessing and communal recognition, linking prosperity with charity as in Psalm 112:9."
     },
     {
       "pk": 28031012,
@@ -146,10 +170,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 31,
       "verse": 12,
-      "text": "Are you seated at a lavish table? Do not reach out first, nor be greedy with what is placed before you.",
-      "links": "<a href='/AIV/20/23/1-2'>Prov. 23:1-2</a>",
-      "comment": "This verse offers practical wisdom about moderation, guarding against gluttony and greed. Such virtue is echoed in Paul’s teachings on self-control (Gal. 5:23).",
-      "sectionHeader": "Moderation at the Table"
+      "text": "When you sit at a great table, do not be greedy, nor say, 'There is much food here!'",
+      "links": "<a href='/AIV/20/23/1-2'>Prov. 23:1-2</a>; <a href='/AIV/42/14/8-11'>Luke 14:8-11</a>",
+      "comment": "Self-restraint at feasts signals wisdom, as Jesus teaches humility at banquets in Luke. Moderation reflects inner freedom."
     },
     {
       "pk": 28031013,
@@ -159,9 +182,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 31,
       "verse": 13,
-      "text": "Think of your neighbor’s needs and be considerate of them, just as you would want yourself to be thought of.",
-      "links": "<a href='/AIV/40/7/12'>Matt. 7:12</a>",
-      "comment": "A command to charity and empathy, the Golden Rule in action. Acts of charity anticipate Christ’s teachings on love of neighbor (Luke 10:27)."
+      "text": "Remember that greedy eyes are evil. What comes worse than such an eye? It weeps with every mouthful.",
+      "links": "<a href='/AIV/20/28/22'>Prov. 28:22</a>; <a href='/AIV/41/7/22-23'>Mark 7:22-23</a>",
+      "comment": "Greed blinds the soul to goodness. Jesus lists evil eye among defilements that come from the heart. Purification is both moral and spiritual."
     },
     {
       "pk": 28031014,
@@ -171,9 +194,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 31,
       "verse": 14,
-      "text": "Be disciplined at the table, and do not be greedy with food, so that you may not be despised.",
-      "links": "<a href='/AIV/50/4/5'>Phil. 4:5</a>",
-      "comment": "Moderation is honored in all aspects of life—a theme that Paul picks up in his encouragement to let reasonableness be known to all. Discipline in small things builds spiritual strength for greater things."
+      "text": "Do not reach out your hand, wherever it looks, nor rush upon the dish.",
+      "links": "<a href='/AIV/20/23/2'>Prov. 23:2</a>; <a href='/AIV/42/22/14-23'>Luke 22:14-23</a>",
+      "comment": "Curbing selfish impulses during communal meals reflects Christ's example in the Last Supper, inviting us to deep fellowship."
     },
     {
       "pk": 28031015,
@@ -183,9 +206,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 31,
       "verse": 15,
-      "text": "If you are among many guests, do not stretch out your hand before them.",
-      "links": "<a href='/AIV/42/14/10'>Luke 14:10</a>",
-      "comment": "Humility when in company prepares the heart for exaltation by God himself. (See Jesus’ teaching on seeking the lowest place, Luke 14)."
+      "text": "Consider your neighbor’s needs as your own, and be thoughtful in every matter.",
+      "links": "<a href='/AIV/03/19/18'>Lev. 19:18</a>; <a href='/AIV/40/7/12'>Matt. 7:12</a>",
+      "comment": "Echoes the Golden Rule and Old Testament law—love of neighbor is at the heart of God’s law and fulfilled in Christ’s teaching."
     },
     {
       "pk": 28031016,
@@ -195,9 +218,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 31,
       "verse": 16,
-      "text": "How little is enough for a disciplined man! He does not breathe heavily over his bed.",
-      "links": "<a href='/AIV/20/15/16'>Prov. 15:16</a>",
-      "comment": "A self-controlled person is content and avoids gluttony and its discomforts. Elsewhere in Scripture, discipline is praised as a fruit of the Spirit (Gal. 5:23)."
+      "text": "Eat like a human being, not like one who devours excessively; moderation in eating brings health.",
+      "links": "<a href='/AIV/20/25/16'>Prov. 25:16</a>; <a href='/AIV/46/9/27'>1 Cor. 9:27</a>",
+      "comment": "Temperance is highlighted as a virtue that promotes both body and soul. Disciplining appetites reflects mastery, as Paul writes."
     },
     {
       "pk": 28031017,
@@ -207,9 +230,12 @@
       "bookAbbreviation": "Sir",
       "chapter": 31,
       "verse": 17,
-      "text": "Healthy sleep depends on moderate eating; he who rises early feels refreshed.",
-      "links": "<a href='/AIV/19/127/2'>Ps. 127:2</a>",
-      "comment": "Another practical wisdom note: Temperance even has physical rewards. God’s design brings peace when we live according to virtue."
+      "text": "Be the first to stop, as is proper, and do not be greedy, so you do not give offense.",
+      "links": [
+        "Prov 23:1-3",
+        "Luke 14:8-10"
+      ],
+      "comment": "Moderation in eating is a mark of self-control and social grace, cautioning against greed to avoid offense, akin to Proverbs 25:16."
     },
     {
       "pk": 28031018,
@@ -219,9 +245,12 @@
       "bookAbbreviation": "Sir",
       "chapter": 31,
       "verse": 18,
-      "text": "The pain of gluttony, bitterness and sleeplessness, comes from too much eating.",
-      "links": "<a href='/AIV/20/23/20-21'>Prov. 23:20-21</a>",
-      "comment": "Indulgence always has consequences. Even in the Old Testament, overindulgence is closely linked to spiritual and physical ruin."
+      "text": "If you are seated among many, do not help yourself before they do.",
+      "links": [
+        "Prov 25:6-7",
+        "Luke 14:10"
+      ],
+      "comment": "Practicing humility at communal meals showcases respect for others, discouraging selfishness and promoting unity, consistent with Luke 14:7-10."
     },
     {
       "pk": 28031019,
@@ -231,9 +260,12 @@
       "bookAbbreviation": "Sir",
       "chapter": 31,
       "verse": 19,
-      "text": "If you are compelled to eat, get up, go off, and you will have relief.",
-      "links": "<a href='/AIV/20/25/16'>Prov. 25:16</a>",
-      "comment": "Moderation is a safeguard, even when it comes to the necessities of life. This has echoes in ascetic advice in the later Christian tradition."
+      "text": "How little is enough for a well-disciplined person! He does not struggle to breathe when in bed.",
+      "links": [
+        "Prov 13:25",
+        "Phil 4:11-12"
+      ],
+      "comment": "Discipline in consumption brings bodily well-being, a principle found in Proverbs 23:20-21 against overindulgence."
     },
     {
       "pk": 28031020,
@@ -243,9 +275,12 @@
       "bookAbbreviation": "Sir",
       "chapter": 31,
       "verse": 20,
-      "text": "Listen to me, my child, and do not ignore me, for in the end you will see my words are true. Through restraint you will have a long life.",
-      "links": "<a href='/AIV/20/3/1-2'>Prov. 3:1-2</a>",
-      "comment": "Obedience to wise teaching brings life and health (a common theme in Proverbs). Also, the parental address (‘my child’) foreshadows the relationship between spiritual fathers and children in the Church."
+      "text": "Healthy sleep comes from moderate eating; he rises early and feels refreshed. Sleeplessness, nausea, and colic attend the glutton.",
+      "links": [
+        "Prov 25:16",
+        "Phil 4:5"
+      ],
+      "comment": "The link between moderation and restful sleep highlights the physical consequences of gluttony, underscoring holistic wisdom."
     },
     {
       "pk": 28031021,
@@ -255,9 +290,12 @@
       "bookAbbreviation": "Sir",
       "chapter": 31,
       "verse": 21,
-      "text": "As for the reckless, their life is shortened by constant anger and impatience.",
-      "links": "<a href='/AIV/20/14/29'>Prov. 14:29</a>",
-      "comment": "A connecting thread: uncontrolled passions erode earthly life and spiritual well-being. This calls believers not only to moral, but ascetic self-mastery."
+      "text": "If you are overfilled with food, rise up and vomit, and you will find relief.",
+      "links": [
+        "Prov 23:20-21",
+        "Sir 37:30"
+      ],
+      "comment": "A practical and vivid proverb, suggesting that relief from excess is found in restraint or even purging, accentuating the dangers of overindulgence."
     },
     {
       "pk": 28031022,
@@ -267,9 +305,12 @@
       "bookAbbreviation": "Sir",
       "chapter": 31,
       "verse": 22,
-      "text": "Distress and trouble bring death; envy and anger shorten life.",
-      "links": "<a href='/AIV/20/14/30'>Prov. 14:30</a>",
-      "comment": "Spiritual health impacts the body. The ancient tradition always saw deep unity between soul and body—a reality highlighted in the incarnation (see John 1:14)."
+      "text": "Listen to me, my child, and do not disregard my words, and in the end you will come to understand. In everything you do be moderate, and no sickness will overtake you.",
+      "links": [
+        "Phil 4:5",
+        "1 Cor 9:25"
+      ],
+      "comment": "The appeal to moderation as a safeguard for health and spiritual flourishing reflects central wisdom literature (see Proverbs 25:27)."
     },
     {
       "pk": 28031023,
@@ -279,9 +320,12 @@
       "bookAbbreviation": "Sir",
       "chapter": 31,
       "verse": 23,
-      "text": "A cheerful person enjoys life, while one who hoards wealth cannot even enjoy their food.",
-      "links": "<a href='/AIV/21/2/24'>Eccl. 2:24</a>",
-      "comment": "Joy is tied not to possessions, but to uprightness and generosity of spirit. This wisdom anticipates Jesus’ words, ‘It is more blessed to give than to receive’ (Acts 20:35)."
+      "text": "People bless the one who is generous with food, and his testimony is reliable.",
+      "links": [
+        "Prov 11:25",
+        "Luke 6:38"
+      ],
+      "comment": "Generosity at table fosters community and trust, aligning with Old Testament hospitality norms and Jesus’ emphasis on sharing meals (Luke 14:13-14)."
     },
     {
       "pk": 28031024,
@@ -291,9 +335,12 @@
       "bookAbbreviation": "Sir",
       "chapter": 31,
       "verse": 24,
-      "text": "If you maintain self-control at the table, you will not fall into sin.",
-      "links": "<a href='/AIV/46/9/27'>1 Cor. 9:27</a>",
-      "comment": "Self-mastery over one’s appetites extends to all areas of spiritual life. Disciplined living helps avoid occasions of sin (see Paul’s own practice in 1 Corinthians 9:27)."
+      "text": "The city complains about the one who is stingy with food, and their testimony of his stinginess is true.",
+      "links": [
+        "Prov 28:27",
+        "Jas 2:15-16"
+      ],
+      "comment": "Stinginess is publicly reproved, with communal opinion acting as a moral barometer, reminiscent of Proverbs 28:27."
     },
     {
       "pk": 28031025,
@@ -303,9 +350,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 31,
       "verse": 25,
-      "text": "It is by moderation in eating that one increases in wisdom; thus even in sleep you will be at ease.",
-      "links": "<a href='/AIV/20/3/21-24'>Prov. 3:21-24</a>",
-      "comment": "Moderation is foundational for wisdom and peace—a truth that shows deep links between daily habits and spiritual growth."
+      "text": "Do not try to prove your strength by drinking wine, for wine has destroyed many.",
+      "links": [
+        "Prov 20:1",
+        "Isa 5:11",
+        "Eph 5:18"
+      ],
+      "comment": "The warning against proving one’s worth through drinking alludes to the destructive power of alcohol and pride, cf. Proverbs 20:1."
     },
     {
       "pk": 28031026,
@@ -315,9 +366,12 @@
       "bookAbbreviation": "Sir",
       "chapter": 31,
       "verse": 26,
-      "text": "A healthy stomach can consume anything, but if it eats too much, it gets sick.",
-      "links": "<a href='/AIV/20/25/27'>Prov. 25:27</a>",
-      "comment": "A light-hearted yet wise reminder: even good things should be used rightly. The Fathers often saw in this moderation a path toward spiritual discipline."
+      "text": "As a furnace tests the work of the smith, so wine tests hearts in the heat of argument.",
+      "links": [
+        "Prov 17:3",
+        "1 Pet 1:7"
+      ],
+      "comment": "Wine reveals true character, especially amid strife, much like fire tests metal—suggesting trial’s role in exposing the heart."
     },
     {
       "pk": 28031027,
@@ -327,10 +381,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 31,
       "verse": 27,
-      "text": "Wine is like life to a person, if it is drunk moderately; what is life to one without wine?",
-      "links": "<a href='/AIV/19/104/14-15'>Ps. 104:14-15</a>; <a href='/AIV/54/5/23'>1 Tim. 5:23</a>",
-      "comment": "Wine is praised, not condemned, but only if used with moderation. The celebration of wine in Psalm 104 is balanced by warnings elsewhere (e.g., Proverbs 20:1). Wine also foreshadows the New Covenant in Christ’s blood (Matt. 26:27-28).",
-      "sectionHeader": "Moderation in Wine and Avoidance of Drunkenness"
+      "text": "Wine is the very life for human beings if taken in moderation. What is life to one who is without wine? It was made to bring joy to people.",
+      "links": [
+        "Ps 104:15",
+        "Judg 9:13",
+        "1 Tim 5:23"
+      ],
+      "comment": "Wine’s benefits, when enjoyed moderately, affirm its positive role in hospitality and joy, as seen in Psalm 104:15."
     },
     {
       "pk": 28031028,
@@ -340,9 +397,12 @@
       "bookAbbreviation": "Sir",
       "chapter": 31,
       "verse": 28,
-      "text": "Wine, drunk in moderation, brings gladness and pleasure of heart.",
-      "links": "<a href='/AIV/19/104/15'>Ps. 104:15</a>",
-      "comment": "God gives creation for joy, not for abuse. Spiritually, joy is also a fruit of the Spirit (Gal. 5:22), and this earthly joy points to the ultimate joy of the Kingdom."
+      "text": "Wine drunk at the proper time and in moderation brings joy to heart and gladness to soul.",
+      "links": [
+        "Ps 104:15",
+        "Eccl 10:19"
+      ],
+      "comment": "Moderate, timely use of wine enhances celebration and well-being, continuing the tradition of feasting in biblical festivals."
     },
     {
       "pk": 28031029,
@@ -352,9 +412,12 @@
       "bookAbbreviation": "Sir",
       "chapter": 31,
       "verse": 29,
-      "text": "If drunk to excess, wine brings bitterness of spirit, conflict, and loss of self-control.",
-      "links": "<a href='/AIV/20/23/29-30'>Prov. 23:29-30</a>",
-      "comment": "Excess of any kind becomes destructive. Biblical wisdom never promotes asceticism for its own sake, but always for the goal of holier life."
+      "text": "Wine drunk to excess breeds bitterness of spirit, leading to quarrels and stumbling.",
+      "links": [
+        "Prov 23:29-30",
+        "Isa 28:7"
+      ],
+      "comment": "Overindulgence in wine destroys harmony and causes relational and personal strife, echoing warnings in Proverbs 23:29-35."
     },
     {
       "pk": 28031030,
@@ -364,9 +427,12 @@
       "bookAbbreviation": "Sir",
       "chapter": 31,
       "verse": 30,
-      "text": "Drunkenness leads to strife, anger, and many slips; it diminishes strength and causes wounds.",
-      "links": "<a href='/AIV/20/23/31-32'>Prov. 23:31-32</a>",
-      "comment": "Here drunkenness is depicted as not only foolish but physically and relationally harmful—a moral, not just practical warning."
+      "text": "Drunkenness increases the anger of a fool to his own harm, diminishing his strength and multiplying wounds.",
+      "links": [
+        "Prov 23:29-35",
+        "Hos 4:11"
+      ],
+      "comment": "Drunkenness is condemned for leading to violence and self-harm, consistent with biblical cautions against folly (Ephesians 5:18)."
     },
     {
       "pk": 28031031,
@@ -376,32 +442,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 31,
       "verse": 31,
-      "text": "Do not rebuke your neighbor at a feast of wine, nor despise him in his merriment. Do not speak a word of insult to him, and do not distress him by demanding repayment of a debt.",
-      "links": "<a href='/AIV/40/5/23-24'>Matt. 5:23-24</a>",
-      "comment": "Peace and goodwill, especially at times of celebration, are always preferable to conflict. This wisdom harmonizes with Jesus’ teaching to seek reconciliation before bringing an offering to God (see Matthew 5)."
+      "text": "Do not reprove your neighbor at a banquet of wine, nor despise him in his merrymaking; speak no word of reproach to him, and do not distress him with demands.",
+      "links": [
+        "Prov 25:20",
+        "Rom 14:21"
+      ],
+      "comment": "Respecting a neighbor’s joy and avoiding reproach at feasts upholds peace and kindness, echoing wisdom about gracious speech (Proverbs 25:11)."
     }
   ],
-  "translatedAt": "2025-12-24T07:39:44.417Z",
-  "sections": [
-    {
-      "title": "The Dangers of Wealth and Greed",
-      "startVerse": 1,
-      "endVerse": 7
-    },
-    {
-      "title": "Blessed Is the One Who Uses Wealth Rightly",
-      "startVerse": 8,
-      "endVerse": 11
-    },
-    {
-      "title": "Moderation at the Table",
-      "startVerse": 12,
-      "endVerse": 26
-    },
-    {
-      "title": "Moderation in Wine and Avoidance of Drunkenness",
-      "startVerse": 27,
-      "endVerse": 31
-    }
-  ]
+  "translatedAt": "2025-12-28T07:00:31.024Z"
 }

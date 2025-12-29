@@ -3,6 +3,23 @@
   "bookName": "1 Maccabees",
   "bookAbbreviation": "1Macc",
   "chapter": 10,
+  "sections": [
+    {
+      "title": "Alexander Balas Seeks the Alliance of Jonathan",
+      "startVerse": 1,
+      "endVerse": 24
+    },
+    {
+      "title": "Jonathan's Covenant with Alexander",
+      "startVerse": 25,
+      "endVerse": 79
+    },
+    {
+      "title": "Jonathan's Victory over Apollonius at Azotus",
+      "startVerse": 80,
+      "endVerse": 89
+    }
+  ],
   "verses": [
     {
       "pk": 20010001,
@@ -12,10 +29,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 1,
-      "text": "In the one hundred and sixtieth year, Alexander, son of Antiochus Epiphanes, went up and captured Ptolemais. The inhabitants welcomed him, and he reigned there.",
-      "links": "<a href='/AIV/20/1/10'>1Macc 1:10</a>",
-      "comment": "The Alexander here is also known as Alexander Balas, who claimed to be the rightful king, rivaling Demetrius. The political intrigue of this period sets the stage for Israel's interaction with foreign powers.",
-      "sectionHeader": "Rival Kings Seek Jonathan's Alliance"
+      "text": "In the one hundred and sixtieth year, Alexander Epiphanes, son of Antiochus, marched into the land and took possession of Ptolemais. The people welcomed him, and he began to reign there.",
+      "links": "<a href='/AIV/20/1/10'>1 Maccabees 1:10</a>, <a href='/AIV/20/10/51'>1 Maccabees 10:51</a>",
+      "comment": "This verse sets the historical context. 'Alexander Epiphanes' refers to Alexander Balas, a pretender to the Seleucid throne. The acceptance of a new king marks a turning point for Judea.",
+      "sectionHeader": "Alexander Balas Seeks the Alliance of Jonathan"
     },
     {
       "pk": 20010002,
@@ -25,9 +42,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 2,
-      "text": "When King Demetrius heard of it, he gathered a very large army and marched out to meet him in battle.",
-      "links": "<a href='/AIV/20/10/1'>1Macc 10:1</a>",
-      "comment": "Demetrius seeks to defend his claim to the throne. The competition for political power will draw Israel into larger events, showing the vulnerability of God's people when not united."
+      "text": "When King Demetrius heard of it, he gathered a very great army and marched out to fight Alexander.",
+      "links": "<a href='/AIV/20/7/1-3'>1 Maccabees 7:1-3</a>",
+      "comment": "The rivalry between Demetrius and Alexander shapes the geopolitics for the Jews, who must navigate between competing powers."
     },
     {
       "pk": 20010003,
@@ -37,9 +54,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 3,
-      "text": "Demetrius also sent letters to Jonathan with words of peace, to honor him.",
-      "links": "<a href='/AIV/20/9/73'>1Macc 9:73</a>",
-      "comment": "Jonathan, as leader of Israel, is courted by foreign kings for political alliances. Leadership in Israel continues through appointed holy successors."
+      "text": "Demetrius sent letters to Jonathan with words of peace, to honor him greatly.",
+      "links": "<a href='/AIV/20/9/61-62'>1 Maccabees 9:61-62</a>",
+      "comment": "Jonathan’s leadership of Israel is recognized by foreign powers. This acknowledgment sets a foundation for the legitimacy of righteous authority in Israel, echoing biblical themes of God's providence."
     },
     {
       "pk": 20010004,
@@ -49,9 +66,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 4,
-      "text": "For Demetrius said, 'Let us reach out to him before he makes a treaty with Alexander against us.'",
-      "links": "<a href='/AIV/20/10/53'>1Macc 10:53</a>",
-      "comment": "Demetrius seeks to prevent any alliance between Jonathan and Alexander. This shows the significance of the people of God in world politics, and their role as a mediating presence."
+      "text": "For he thought, 'Let us make peace with him before Alexander does, lest he join Alexander against us.'",
+      "links": [
+        "1 Sam 18:17",
+        "Josh 9:3-6",
+        "Ps 55:21"
+      ],
+      "comment": "Political maneuvering leads to overtures of friendship towards the people of God, a reminder of how faithful leadership draws respect even from those outside the covenant."
     },
     {
       "pk": 20010005,
@@ -61,9 +82,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 5,
-      "text": "Otherwise, he will remember all the wrongs we have done to him, his brothers, and his nation.'",
-      "links": "<a href='/AIV/20/7/27'>1Macc 7:27</a>",
-      "comment": "Demetrius confesses his previous mistreatment of Jonathan and the Jews, highlighting Israel's suffering under pagan kings, yet also their strategic importance."
+      "text": "So Demetrius sent messengers to Jonathan with these words: 'You are to keep peace with us and maintain friendship with us. Now we appoint you as high priest and set you over the four districts, to be known as the king’s friend.'",
+      "links": "<a href='/AIV/20/9/27-31'>1 Maccabees 9:27-31</a>, <a href='/AIV/3/16/32'>Leviticus 16:32</a>",
+      "comment": "Jonathan is offered both religious and political authority. The merging of spiritual and civil office foreshadows the importance of unity between governance and priestly service—a key element in understanding the Church throughout the biblical story."
     },
     {
       "pk": 20010006,
@@ -73,9 +94,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 6,
-      "text": "So Demetrius gave Jonathan permission to gather an army and to supply himself with arms, and he authorized him to become his ally. He also commanded that they hand over the hostages held in Jerusalem's citadel.",
-      "links": "<a href='/AIV/20/10/32'>1Macc 10:32</a>",
-      "comment": "Jonathan is granted military and civil privileges, showing the increasing acceptance of Jewish leadership. The release of hostages is a sign of repentance and trust—symbolic of reconciliation."
+      "text": "He also sent him golden vessels and allowed him to drink from gold cups, and gave him the authority to wear purple and a gold brooch.",
+      "links": "<a href='/AIV/21/5/2'>2 Maccabees 5:2</a>, <a href='/AIV/17/6/8'>Esther 6:8</a>",
+      "comment": "The granting of sacred and royal symbols underlines the dignity of Jonathan’s new office. These signs echo the Old Testament where garments and vessels signify consecration and favor."
     },
     {
       "pk": 20010007,
@@ -85,9 +106,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 7,
-      "text": "Jonathan returned the hostages to their parents.",
-      "links": "<a href='/AIV/20/10/6'>1Macc 10:6</a>",
-      "comment": "Jonathan acts mercifully and restores families, reflecting the importance of reconciliation, echoing Christ's teaching on forgiveness (<a href='/AIV/40/6/14-15'>Matt 6:14-15</a>)."
+      "text": "He appointed Jonathan’s brother Simon as governor from the Ladder of Tyre to the borders of Egypt.",
+      "links": "<a href='/AIV/20/11/59'>1 Maccabees 11:59</a>",
+      "comment": "Simon is given civil authority over a broad region, showing the consolidation of power among those faithful to Israel’s God. This models unity for governing and pastoral care."
     },
     {
       "pk": 20010008,
@@ -97,9 +118,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 8,
-      "text": "Upon hearing this, the people in Jerusalem and the rest of Judea were greatly encouraged, because Demetrius had granted them freedom from oppression.",
-      "links": "<a href='/AIV/20/10/6'>1Macc 10:6</a>",
-      "comment": "The joy over relief from oppression highlights hope and the yearning for just rulers, foreshadowing messianic hopes (<a href='/AIV/23/9/6-7'>Isa 9:6-7</a>)."
+      "text": "Jonathan put on the holy vestments in the seventh month of the one hundred and sixtieth year, at the festival of booths, and assembled his army and prepared enough weapons.",
+      "links": "<a href='/AIV/3/23/33-43'>Leviticus 23:33-43</a>, <a href='/AIV/16/8/14-18'>Nehemiah 8:14-18</a>",
+      "comment": "Jonathan’s public assumption of the high priesthood during the Feast of Booths links his leadership to the restoration of traditional worship and covenant faithfulness."
     },
     {
       "pk": 20010009,
@@ -109,9 +130,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 9,
-      "text": "So Jonathan took up residence in Jerusalem, and began to rebuild and restore the city.",
-      "links": "<a href='/AIV/16/3/8'>Neh 3:8</a>",
-      "comment": "The rebuilding of Jerusalem is reminiscent of Nehemiah and shows ongoing concern for both temporal and spiritual restoration."
+      "text": "But when Demetrius heard that Alexander had been given the title King by Ptolemy of Egypt, his position was shaken, and so he grew more determined to defend his throne.",
+      "links": "<a href='/AIV/20/10/51'>1 Maccabees 10:51</a>",
+      "comment": "Ptolemy’s recognition of Alexander shows the shifting alliances in the ancient world. The struggle for legitimacy continues to affect Israel’s destiny."
     },
     {
       "pk": 20010010,
@@ -121,9 +142,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 10,
-      "text": "He called together those who were rebuilding the walls, and set up fortifications around Mount Zion.",
-      "links": "<a href='/AIV/19/48/2-3'>Ps 48:2-3</a>",
-      "comment": "The fortification of Mount Zion recalls the city’s spiritual significance, notably as the dwelling place of God (<a href='/AIV/19/132/13-14'>Ps 132:13-14</a>)."
+      "text": "So Demetrius camped in the plain of Beth-zur and remained there for many days. He assembled all the troops that were with him.",
+      "links": "<a href='/AIV/20/4/29'>1 Maccabees 4:29</a>",
+      "comment": "Beth-zur is a strategic location, featured in battles for Israel’s preservation. The gathering of troops again underscores the relentless opposition faced by God’s people."
     },
     {
       "pk": 20010011,
@@ -133,9 +154,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 11,
-      "text": "People everywhere were restoring the city—each man with what strength he had.",
-      "links": "<a href='/AIV/16/3/28'>Neh 3:28</a>",
-      "comment": "Community cooperation in restoring the holy city signals unity and piety, virtues that would mark the renewed people."
+      "text": "He sent secretly to Jonathan, promising him great honors and to raise his position, so that he would turn away from Alexander and support him.",
+      "links": [
+        "Dan 11:32",
+        "Esth 3:8-11",
+        "1 Kgs 13:18"
+      ],
+      "comment": "Demetrius, again, seeks to win over Jonathan. Notice how religious leadership is seen as crucial in maintaining political stability—a recurring biblical principle."
     },
     {
       "pk": 20010012,
@@ -145,9 +170,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 12,
-      "text": "But the foreigners in the strongholds built by Bacchides fled.",
-      "links": "<a href='/AIV/20/9/50'>1Macc 9:50</a>",
-      "comment": "With the withdrawal of foreign garrisons, Israel regains more freedom, and the land is purified from pagan influences—a typological fulfillment of the call to holiness (<a href='/AIV/3/20/26'>Lev 20:26</a>)."
+      "text": "But the strongholds around Jerusalem were still held by the supporters of Demetrius, and they kept harassing the Israelites and supporting the opposition.",
+      "links": "<a href='/AIV/20/9/50'>1 Maccabees 9:50</a>",
+      "comment": "Control of the land and city continues to be contested. This image parallels spiritual warfare seen throughout Scripture, and the battles over Jerusalem in salvation history."
     },
     {
       "pk": 20010013,
@@ -157,9 +182,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 13,
-      "text": "They abandoned their posts and returned to their own lands.",
-      "links": "<a href='/AIV/16/4/7'>Neh 4:7</a>",
-      "comment": "The retreat of the foreign occupiers signifies God's providence in defending His people."
+      "text": "But Jonathan besieged the citadel in Jerusalem, and the men in the fortress sent messengers to Demetrius asking for help.",
+      "links": "<a href='/AIV/20/6/21-52'>1 Maccabees 6:21-52</a>",
+      "comment": "The siege of the citadel within God's city reminds us that even the holy places can face assault, but faithful leadership will contend for God’s house."
     },
     {
       "pk": 20010014,
@@ -169,9 +194,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 14,
-      "text": "However, in Beth-zur, some who had abandoned the Law and the commands of God remained, because Beth-zur was their stronghold.",
-      "links": "<a href='/AIV/20/6/21'>1Macc 6:21</a>",
-      "comment": "Beth-zur, a place of rebellion, contrasts with the restored Jerusalem, highlighting the consequences of apostasy."
+      "text": "So Demetrius sent them a letter promising, 'Do not fight against me, and I will reward you with great honors.'",
+      "links": [
+        "2 Kgs 18:31",
+        "Neh 6:2",
+        "Matt 26:15"
+      ],
+      "comment": "Once again, earthly rulers offer temporal rewards, but Jonathan’s focus remains on the things pertaining to his people's service to God."
     },
     {
       "pk": 20010015,
@@ -181,10 +210,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 15,
-      "text": "King Alexander sent ambassadors to Jonathan with the message of peace, honoring him.",
-      "links": "<a href='/AIV/20/10/3'>1Macc 10:3</a>",
-      "comment": "Both rival kings seeking Jonathan's favor show the respect commanded by faithful leadership. Israel's leaders play a vital role on the world stage.",
-      "sectionHeader": "Jonathan Appointed High Priest"
+      "text": "Yet the occupiers did not believe his promises and continued to fight against him.",
+      "links": [
+        "Ex 5:9",
+        "Neh 6:9",
+        "Ps 118:8-9"
+      ],
+      "comment": "Distrust of worldly rulers reflects how earthly authority can be unreliable, compared to faithfulness in God’s law and in His appointed leaders."
     },
     {
       "pk": 20010016,
@@ -194,9 +226,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 16,
-      "text": "For he said, 'Let us make peace with him before Demetrius does, to secure his friendship.'",
-      "links": "",
-      "comment": "Alexander also seeks an alliance, revealing the political competition for Israel’s alliance—again, Israel is a priestly nation (Ex 19:6), mediating among nations."
+      "text": "So Demetrius attacked Jonathan, but Jonathan and his men did not yield; they fought back bravely, and Demetrius withdrew.",
+      "links": [
+        "Judg 7:21",
+        "2 Chr 20:17",
+        "Ps 20:7"
+      ],
+      "comment": "Jonathan’s steadfastness stands as an example of spiritual perseverance and rightful resistance against tyranny."
     },
     {
       "pk": 20010017,
@@ -206,9 +242,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 17,
-      "text": "So he sent him a letter, expressing kindness and honor.",
-      "links": "",
-      "comment": "The tone and manner reflect the esteem for Jonathan as both religious and political leader."
+      "text": "After this, Alexander sent messengers to Jonathan, offering him even greater honors.",
+      "links": [
+        "Esth 8:15",
+        "Prov 25:6-7",
+        "Dan 6:3"
+      ],
+      "comment": "A pattern develops where rulers vie for the alliance of the high priest. This unique role bridges spiritual and temporal domains, foreshadowing the later unity of sacred and civil authority."
     },
     {
       "pk": 20010018,
@@ -218,9 +258,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 18,
-      "text": "The king said: 'I appoint you as high priest of your nation. You are to be called the king’s friend.'",
-      "links": "",
-      "comment": "Being named high priest by a foreign king is a great honor and gives Jonathan spiritual authority. The notion of high priestly succession points to the continuity of sacred leadership."
+      "text": "He wrote: 'We make you high priest and friend of the king and put you in charge of the province.'",
+      "links": "<a href='/AIV/20/10/20'>1 Maccabees 10:20</a>",
+      "comment": "This verse repeats Jonathan’s new titles, signifying his firm establishment as both religious and political leader."
     },
     {
       "pk": 20010019,
@@ -230,9 +270,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 19,
-      "text": "He also sent him a purple robe and a golden crown. 'You are to join our side and keep our interests with us.'",
-      "links": "<a href='/AIV/27/5/7'>Dan 5:7</a>",
-      "comment": "The purple robe and golden crown symbolize both civil authority and spiritual dignity. These symbols later appear in Christ’s Passion (cf. John 19:2), pointing allegorically toward true kingship."
+      "text": "'We send you a gold crown and a golden scepter, that you may be a friend of ours and support us.'",
+      "links": "<a href='/AIV/20/11/58'>1 Maccabees 11:58</a>",
+      "comment": "The gold crown and scepter highlight not only political authority but also the recognition of spiritual eminence."
     },
     {
       "pk": 20010020,
@@ -242,9 +282,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 20,
-      "text": "So Jonathan put on the holy vestments in the seventh month of the one hundred sixty-first year, at the Feast of Tabernacles, and gathered an army and supplied it with arms in abundance.",
-      "links": "<a href='/AIV/3/23/34'>Lev 23:34</a>",
-      "comment": "Jonathan acts in a liturgical setting—his leadership and the religious feasts are united, reinforcing the importance of both worship and governance."
+      "text": "So Jonathan put on the sacred garments in the seventh month of the one hundred and sixtieth year, at the feast of booths, and marshaled the army, storing up many weapons.",
+      "links": "<a href='/AIV/3/23/33-43'>Leviticus 23:33-43</a>",
+      "comment": "Recap of verse 8 emphasizes Jonathan’s priestly role tied to the liturgical calendar, reflecting the ordering of sacred worship along with defense of the people."
     },
     {
       "pk": 20010021,
@@ -254,9 +294,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 21,
-      "text": "Many men who had previously deserted to the Philistines or defected from the Law, returned and rallied to his side once they saw his authority and the unity of Israel.",
-      "links": "",
-      "comment": "Jonathan’s legitimate authority, both spiritual and civil, restores unity. This highlights the importance of faithful leadership in gathering the scattered (cf. John 11:52)."
+      "text": "So Jonathan put on the sacred vestments in the seventh month of the one hundred sixtieth year, at the festival of booths, and he recruited troops and equipped them with arms in abundance.",
+      "links": [
+        "Lev 23:34",
+        "Neh 8:14-18",
+        "2 Macc 10:6-7"
+      ],
+      "comment": "The king’s approval signals acceptance of Jonathan’s dual role, a picture of the intertwining of spiritual honor and civil recognition found in sacred tradition."
     },
     {
       "pk": 20010022,
@@ -266,10 +310,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 22,
-      "text": "When King Demetrius heard these reports, he was troubled and said,",
-      "links": "",
-      "comment": "Demetrius recognizes Jonathan’s growing power and unity of Israel as a threat (cf. Exod 1:9-10).",
-      "sectionHeader": "Demetrius and Alexander Compete for Jonathan's Support"
+      "text": "He also sent him rich gifts and recognized him before all the king’s friends, establishing his reputation throughout the kingdom.",
+      "links": [
+        "Dan 2:48",
+        "Esth 8:2",
+        "1 Sam 18:5"
+      ],
+      "comment": "Jonathan’s public honor speaks to God’s habit of elevating faithful servants, prefiguring Christ’s own exaltation after His obedience (cf. Philippians 2:9)."
     },
     {
       "pk": 20010023,
@@ -279,9 +326,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 23,
-      "text": "'Why have we allowed Alexander to gain control before us, gaining a strong alliance with the Jews, and thus securing increasing military strength?'",
-      "links": "",
-      "comment": "The foreign kings’ anxiety over Israel’s alliances affirms Israel’s strategic and spiritual significance among the nations."
+      "text": "At this, many of the Jews who had previously opposed him gathered around Jonathan and supported him.",
+      "links": "<a href='/AIV/20/7/8-9'>1 Maccabees 7:8-9</a>",
+      "comment": "Previously divided, the people come into unity. Unity among believers is a sign of God’s blessing and foreshadows Christ’s prayer for oneness among His followers (John 17:21)."
     },
     {
       "pk": 20010024,
@@ -291,9 +338,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 24,
-      "text": "'I will write now to Jonathan with even more honorable terms than before, so that he will be in our camp and support us against our enemies.'",
-      "links": "",
-      "comment": "Demetrius plans to outbid Alexander, displaying the recurring theme of royal patronage of the high priesthood and Israel’s leaders."
+      "text": "When his enemies saw that his reputation was growing and that he was gaining power, they were greatly afraid.",
+      "links": [
+        "Josh 10:1-2",
+        "Esth 9:2",
+        "Ps 112:10"
+      ],
+      "comment": "The rise of Jonathan causes consternation in the camp of the unrighteous; a reminder that God’s blessing on the faithful stirs up opposition."
     },
     {
       "pk": 20010025,
@@ -303,9 +354,14 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 25,
-      "text": "So Demetrius wrote to Jonathan as follows: 'I confirm both you and your nation in a covenant, as a sign of friendship and peace.'",
-      "links": "",
-      "comment": "Official covenant language echoes Old Testament treaties, underlining the enduring concept of Israel as a covenant people."
+      "text": "King Alexander sent a letter to Jonathan with these words:",
+      "links": [
+        "Ezra 7:12",
+        "2 Kgs 5:5-6",
+        "Esth 3:12"
+      ],
+      "comment": "Another royal communication, emphasizing how high priestly leadership was sought for its spiritual and public effectiveness.",
+      "sectionHeader": "Jonathan's Covenant with Alexander"
     },
     {
       "pk": 20010026,
@@ -315,9 +371,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 26,
-      "text": "'As you have remained faithful to us, you have kept your covenant obligations and acted in loyalty toward us, so now we reward you accordingly.'",
-      "links": "<a href='/AIV/20/2/22'>1Macc 2:22</a>",
-      "comment": "Faithfulness in covenant is rewarded, reinforcing the importance of perseverance and steadfastness."
+      "text": "'We have heard of you, that you are a mighty man and worthy to be our friend.'",
+      "links": [
+        "Josh 2:8-11",
+        "1 Sam 18:7",
+        "2 Sam 10:2"
+      ],
+      "comment": "Jonathan’s reputation grows because of his faithfulness; even foreign rulers acknowledge the value of steadfast devotion, as seen with Daniel in Babylon (Daniel 6:3)."
     },
     {
       "pk": 20010027,
@@ -327,9 +387,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 27,
-      "text": "'We release you, and all Jews, from every tribute and tax, as well as from the annual payment of the crown.'",
-      "links": "",
-      "comment": "Exemption from tribute harks back to royal grants of the Persian period, enabling the people to focus on God’s worship (<a href='/AIV/15/7/24'>Ezra 7:24</a>)."
+      "text": "'So we appoint you today to be high priest of your nation and to be called friend of the king and to care for our affairs.'",
+      "links": "<a href='/AIV/20/10/18'>1 Maccabees 10:18</a>",
+      "comment": "Jonathan is recognized as the spiritual leader of his people, reminding the reader of biblical models where faithful service is both a blessing and a public witness."
     },
     {
       "pk": 20010028,
@@ -339,9 +399,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 28,
-      "text": "'All grants we have previously bestowed to you remain in effect.'",
-      "links": "",
-      "comment": "Previous privileges are ratified, establishing legal and religious stability. Continuity of grant highlights the importance of tradition and chain of authority."
+      "text": "'He also sent him a purple robe and a golden crown.'",
+      "links": [
+        "Esth 8:15",
+        "Dan 5:29",
+        "Luke 15:22"
+      ],
+      "comment": "Royal vestments further solidify Jonathan’s recognized status, symbolizing spiritual dignity and temporal authority."
     },
     {
       "pk": 20010029,
@@ -351,9 +415,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 29,
-      "text": "'I also permit you to mint your own coinage, as is currently allowed; that your nation and Jerusalem may prosper.'",
-      "links": "",
-      "comment": "The right to mint coinage is a sign of sovereignty and stewardship. Monetary independence points to lasting stability and leadership."
+      "text": "'Furthermore, we grant you and your nation freedom from tribute, salt tax, and crown tax.'",
+      "links": [
+        "Ezra 7:24",
+        "Neh 5:12",
+        "Matt 17:25-26"
+      ],
+      "comment": "Exemption from taxes acknowledges Israel’s special status and foreshadows the idea of God’s people as spiritually distinct from worldly impositions."
     },
     {
       "pk": 20010030,
@@ -363,9 +431,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 30,
-      "text": "'Let Jerusalem and its territories, the tithes and taxes due to me, be remitted from this day forward.'",
-      "links": "<a href='/AIV/15/7/24'>Ezra 7:24</a>",
-      "comment": "Remission of tithes and taxes supports worship and temple restoration, echoing previous divine laws for sustaining the priesthood."
+      "text": "'From now on, none of you or your descendants shall be compelled to pay the royal tribute.'",
+      "links": [
+        "Deut 24:1-6",
+        "Ezra 7:24",
+        "Neh 5:12"
+      ],
+      "comment": "Lasting relief from oppressive taxes signals the favor placed upon God's people, reminding readers of when Joseph’s family received special status in Egypt (Genesis 47:22,26)."
     },
     {
       "pk": 20010031,
@@ -375,9 +447,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 31,
-      "text": "'I cede control of the citadel in Jerusalem to the high priest, so as to host the guards of your choosing.'",
-      "links": "",
-      "comment": "Control of the citadel reflects the full restoration of religious jurisdiction to God’s chosen leadership."
+      "text": "'Let Jerusalem and the holy place be free, and all the territory governed by you shall be exempt from tribute.'",
+      "links": "<a href='/AIV/20/10/33'>1 Maccabees 10:33</a>",
+      "comment": "Jerusalem is recognized as holy and set apart, a 'free' city—a physical type later fulfilled in the Church as a spiritually free people (Galatians 4:26)."
     },
     {
       "pk": 20010032,
@@ -387,9 +459,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 32,
-      "text": "'Any trespass against the holy place, or against Jerusalem, will be subject to the king’s pardon.'",
-      "links": "",
-      "comment": "Special legal status given to the Temple and holy city draws attention to the sanctuary’s unique place within Israel."
+      "text": "'I also grant you the strongholds which you have built or hold.'",
+      "links": [
+        "Josh 21:2",
+        "Ezra 1:3-4",
+        "Neh 2:8"
+      ],
+      "comment": "Control of the fortresses is transferred to Jonathan, illustrating that God’s faithful receive real authority as a trust."
     },
     {
       "pk": 20010033,
@@ -399,9 +475,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 33,
-      "text": "'I release all Jews taken captive from any part of my kingdom; all are to be set free immediately without payment.'",
-      "links": "<a href='/AIV/20/1/41'>1Macc 1:41</a>",
-      "comment": "Release of captives reflects the biblical jubilee and foreshadows Christ's liberation of those enslaved by sin (<a href='/AIV/3/25/10'>Lev 25:10</a>)."
+      "text": "'Any Israelite taken into captivity from the land of Judea into my kingdom, I set free without ransom; let all be exempt from taxes, even their livestock.'",
+      "links": [
+        "Lev 25:10",
+        "Neh 5:8",
+        "Isa 49:25"
+      ],
+      "comment": "A measure of liberation is granted to captives, prefiguring Christ’s liberation of captives in the spiritual sense (Luke 4:18)."
     },
     {
       "pk": 20010034,
@@ -411,9 +491,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 34,
-      "text": "'No one is permitted, under any pretense, to interfere with or destroy your sacred institutions.'",
-      "links": "",
-      "comment": "Protection of customs and worship affirms the principle of religious liberty, a theme carried forward into the New Testament (cf. Acts 5:29)."
+      "text": "'All the feast days, Sabbaths, new moons, and appointed days, as well as the three days before and after each feast, are to remain days of immunity and release from debt for all Israelites within my kingdom.'",
+      "links": "<a href='/AIV/3/23/2-44'>Leviticus 23:2-44</a>, <a href='/AIV/4/28/11-15'>Numbers 28:11-15</a>",
+      "comment": "Respect for Israel’s liturgical calendar from a foreign king underlines the central importance of worship and the sanctification of time for God’s people."
     },
     {
       "pk": 20010035,
@@ -423,9 +503,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 35,
-      "text": "'Let the city and its territory be recognized as free and holy, forever, without any tax or tribute.'",
-      "links": "",
-      "comment": "Jerusalem is declared free and holy, language reminiscent of prophecies about the city’s restoration and sanctity (<a href='/AIV/38/14/20-21'>Zech 14:20-21</a>)."
+      "text": "'None shall have authority to exact fines from any of them, or to trouble them regarding any matter.'",
+      "links": [
+        "Ex 22:22",
+        "Lev 25:17",
+        "Neh 5:7"
+      ],
+      "comment": "Legal protections for God’s people are inaugurated, foreshadowing the spiritual protection promised in the New Covenant."
     },
     {
       "pk": 20010036,
@@ -435,9 +519,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 36,
-      "text": "'I restore you the right to assemble an army and to construct and maintain strongholds.'",
-      "links": "",
-      "comment": "The delegated right to bear arms and build defenses ensures Israel's security and self-governance."
+      "text": "'Let there be enrolled in the army of the king as many out of the Jews as you desire, and they shall be paid as the rest of the king’s troops.'",
+      "links": "<a href='/AIV/20/14/37'>1 Maccabees 14:37</a>",
+      "comment": "The right to serve in the king’s forces on par with others acknowledges Israel’s dignity among the nations."
     },
     {
       "pk": 20010037,
@@ -447,9 +531,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 37,
-      "text": "'Every official position within these boundaries must be filled by men from among your nation.'",
-      "links": "",
-      "comment": "Self-rule is a mark of national maturity and God's blessing, as seen in other biblical promises to Israel."
+      "text": "'Let some of them be set over the affairs of the kingdom. Let their leaders be chosen from among them and live by their own laws, as the king has commanded in the land of Judea.'",
+      "links": [
+        "Ex 18:21",
+        "Ezra 7:25",
+        "Acts 6:3"
+      ],
+      "comment": "Israel receives civil self-governance, hinting at the biblical theme of godly authority exercised within the community of faith (cf. Acts 15:2,22)."
     },
     {
       "pk": 20010038,
@@ -459,9 +547,13 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 38,
-      "text": "'Let Ptolemais and its region be granted to your nation as a gift, in exchange for services rendered to the king.'",
-      "links": "",
-      "comment": "Ptolemais, a significant coastal city, is handed to the Jews, increasing Israel’s influence and trade."
+      "text": "'As for the three districts added to Judea from the territories of Samaria, let them be joined to Judea, and be under one leader, so that they may obey the law.'",
+      "links": [
+        "Josh 17:14-17",
+        "Neh 11:3",
+        "Ezek 47:13"
+      ],
+      "comment": "The consolidation of territory mirrors God’s original promise of unity among His people (Ezekiel 37:15-28)."
     },
     {
       "pk": 20010039,
@@ -471,9 +563,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 39,
-      "text": "'If any former concession made to me is uncertain, it shall be formally written according to your desires.'",
-      "links": "",
-      "comment": "Clarification of legal grants assures lasting peace and stable governance, emphasizing the virtue of just laws."
+      "text": "'To Ptolemais and the territory connected to it, I give as a gift to the sanctuary in Jerusalem, to provide for the expenses of the holy place.'",
+      "links": "<a href='/AIV/20/10/31'>1 Maccabees 10:31</a>",
+      "comment": "Dedicating portions of land for the maintenance of the holy place prefigures the practice of offering material gifts for sacred purposes—a principle present throughout salvation history."
     },
     {
       "pk": 20010040,
@@ -483,9 +575,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 40,
-      "text": "'The sum of tribute not collected from these lands in former years is now released.'",
-      "links": "",
-      "comment": "Forgiveness of past debts is another sign of favor and liberation, a recurring biblical motif."
+      "text": "'All the produce due to the king from this region each year—grain, fruit, and olive oil—shall now be allocated to the performance of the sacrifices.'",
+      "links": "<a href='/AIV/3/2/1-7'>Leviticus 2:1-7</a>, <a href='/AIV/2/28/20'>Exodus 28:20</a>",
+      "comment": "Diverting royal revenue for sacrifice ensures the continuity of worship. This points forward to the Church’s teaching on the necessity and perpetuity of public sacrifice, a prefigurement of the Eucharist."
     },
     {
       "pk": 20010041,
@@ -495,9 +587,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 41,
-      "text": "'If any among you are found worthy, let them be enrolled as members of the king's court.'",
-      "links": "",
-      "comment": "Prestigious positions for God's people at the heart of royal administration demonstrate their high calling (cf. Dan 2:48)."
+      "text": "And all the additional funds that the government officials have not paid as they did in the first years, they shall give from now on for the service of the temple.",
+      "links": "<a href='/AIV/2/23/10-11'>Exodus 23:10-11</a>",
+      "comment": "This verse references the king's remission of taxes or tribute for the present and future. The idea of remission relates to the jubilee and the periodic release found in the Law (cf. Leviticus 25:10). This introduces mercy and pardon as essential elements of leadership."
     },
     {
       "pk": 20010042,
@@ -507,9 +599,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 42,
-      "text": "'Let these policies be effective from this day forward.'",
-      "links": "",
-      "comment": "The formal establishment of these decrees makes them binding for the future generations."
+      "text": "Moreover, the five thousand shekels of silver that my officials have received every year from the income of the services of the temple, this too is canceled, because it belongs to the priests who minister there.",
+      "links": "<a href='/AIV/3/27/30'>Leviticus 27:30</a>",
+      "comment": "The king is repealing all financial demands previously imposed. The reference to tithes echoes the Law and highlights the sanctity of offering to God rather than to a foreign ruler. Notice the concern for community welfare, connecting fiscal remission with spiritual responsibility."
     },
     {
       "pk": 20010043,
@@ -519,9 +611,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 43,
-      "text": "Jonathan replied to King Demetrius in accordance with all these terms and continued to serve him faithfully.",
-      "links": "",
-      "comment": "Jonathan fulfills covenant terms, reflecting the biblical standard of faithfulness to promises (Ps 15:4)."
+      "text": "And all who take refuge at the temple in Jerusalem, or in any of its precincts, because they owe money to the king or are in debt, let them be released and receive back all their property in my kingdom.",
+      "links": "<a href='/AIV/4/2/1-3'>Deuteronomy 2:1-3</a>",
+      "comment": "Jerusalem is declared absolutely free, reminiscent of the Temple's role as a sacred city. This points to the special status of Jerusalem, which will later become central in Christian salvation history. The emphasis on perpetual freedom foreshadows a higher covenant where true liberty is found."
     },
     {
       "pk": 20010044,
@@ -531,9 +623,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 44,
-      "text": "But King Demetrius broke his promises, changing his attitude toward him.",
-      "links": "",
-      "comment": "Earthly rulers can fail and betray trust, in contrast to God's unchanging faithfulness (cf. Mal 3:6)."
+      "text": "Let the cost of rebuilding and restoring the structures of the sanctuary be paid from the revenues of the king.",
+      "links": "<a href='/AIV/2/30/13-15'>Exodus 30:13-15</a>",
+      "comment": "The royal tax ('crown') and other tributes are remitted. The perpetual canceling of imposed payments evokes the Messianic hope for liberation. The motif of 'give back' recalls the role of the redeemer."
     },
     {
       "pk": 20010045,
@@ -543,9 +635,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 45,
-      "text": "He denied Jonathan any further support and withdrew his favor.",
-      "links": "",
-      "comment": "The instability of political promises highlights the necessity of seeking God's enduring kingdom (<a href='/AIV/40/6/33'>Matt 6:33</a>)."
+      "text": "And let the cost of rebuilding the walls of Jerusalem and fortifying it all around, and the cost of rebuilding the walls in Judea, also be paid from the revenues of the king.",
+      "links": "<a href='/AIV/4/19/1-10'>Deuteronomy 19:1-10</a>",
+      "comment": "Here the king grants the right of asylum in Jerusalem, echoing the Old Testament cities of refuge. The Temple’s protection for debtors, criminals, and political exiles points to sanctuary and foreshadows the New Testament offer of refuge in Christ to all who seek mercy (<a href='/AIV/40/11/28-30'>Matthew 11:28-30</a>)."
     },
     {
       "pk": 20010046,
@@ -555,9 +647,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 46,
-      "text": "Afterward, Alexander sent messengers to Jonathan, urging him with repeated offers of further honor.",
-      "links": "",
-      "comment": "Alexander’s greater zeal further establishes the policy of honoring God’s chosen leader, a biblical mark of righteousness."
+      "text": "When Jonathan and the people heard these words, they did not believe or accept them, because they remembered the great wrongs that Demetrius had done in Israel and how much he had oppressed them.",
+      "links": "<a href='/AIV/17/8/8'>Esther 8:8</a>",
+      "comment": "The king’s written decree formalizes the promises, paralleling the importance of covenants in Scripture. Such letter-writing reveals that God works through official acts and the written word, prefiguring the authority given to the apostles (<a href='/AIV/40/16/19'>Matthew 16:19</a>)."
     },
     {
       "pk": 20010047,
@@ -567,9 +659,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 47,
-      "text": "So Jonathan changed sides and gave his allegiance to Alexander, receiving his support and becoming his close ally.",
-      "links": "",
-      "comment": "As the legitimate king, Alexander’s alliance with Jonathan brings further blessings. The wisdom of choosing alliance for the good of the nation is evident here."
+      "text": "They favored Alexander, because he had been the first to speak peaceable words to them, and they remained his allies all his days.",
+      "links": "<a href='/AIV/9/8/19-22'>1 Samuel 8:19-22</a>",
+      "comment": "Here the acceptance of Alexander as king reflects the pattern of Israel's desire for an earthly king. True kingship, however, finds its fulfillment in Christ the universal King, who brings lasting peace that earthly rulers can only foreshadow."
     },
     {
       "pk": 20010048,
@@ -579,9 +671,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 48,
-      "text": "King Alexander then gathered a large army and encamped across from Demetrius.",
-      "links": "",
-      "comment": "The great battle anticipated here is part of the larger conflicts that affect God's plan for Israel."
+      "text": "Now King Alexander assembled large forces and encamped opposite Demetrius.",
+      "links": "<a href='/AIV/9/17/1'>1 Samuel 17:1</a>",
+      "comment": "The gathering for battle between kings shows history's recurring theme: conflict among earthly rulers. Even as people seek peace, the transience of human alliances is evident. The fullness of peace will be realized in a kingdom not of this world (<a href='/AIV/43/18/36'>John 18:36</a>)."
     },
     {
       "pk": 20010049,
@@ -591,9 +683,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 49,
-      "text": "The two kings met in battle. Demetrius’ army was routed, Alexander pursued him, and overwhelmed his men.",
-      "links": "",
-      "comment": "Demetrius’ defeat demonstrates the victory of those who honor God’s people. God often delivers through faithful leaders (<a href='/AIV/7/7/22'>Judges 7:22</a>)."
+      "text": "The two kings met in battle, and the army of Demetrius fled, and Alexander pursued him and defeated them.",
+      "links": "<a href='/AIV/6/10/12-14'>Joshua 10:12-14</a>",
+      "comment": "The defeat of Demetrius by Alexander recalls the many battle narratives where the fate of rulers turns on a day. Nightfall ending a conflict mirrors scriptural themes of endings and new beginnings."
     },
     {
       "pk": 20010050,
@@ -603,9 +695,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 50,
-      "text": "Demetrius fled and escaped. However, Alexander captured the strongholds and attacked fiercely.",
-      "links": "",
-      "comment": "Alexander’s control over the territory points to the shifting fortunes of human rulers. God’s ultimate sovereignty remains above all."
+      "text": "He pressed the battle strongly until the sun set, and on that day Demetrius fell.",
+      "links": "<a href='/AIV/9/31/3-6'>1 Samuel 31:3-6</a>",
+      "comment": "The brief narration of the death of Demetrius gives a solemn tone, reminiscent of the deaths of Saul and other kings. The brevity points to how quickly the tides of power change in salvation history."
     },
     {
       "pk": 20010051,
@@ -615,10 +707,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 51,
-      "text": "Alexander sent ambassadors to Ptolemy, king of Egypt, with this message:",
-      "links": "",
-      "comment": "Alexander seeks even stronger alliances, drawing Egypt into the balance of power.",
-      "sectionHeader": "Marriage Alliance Between Alexander and Ptolemy"
+      "text": "Then Alexander sent ambassadors to Ptolemy king of Egypt with the following message:",
+      "links": "<a href='/AIV/11/3/1'>1 Kings 3:1</a>",
+      "comment": "Diplomatic embassies and alliances play a significant role in the geopolitics of the ancient world. Sending envoys evokes ancient Israel's negotiations with foreign kings in the pursuit of peace."
     },
     {
       "pk": 20010052,
@@ -628,9 +719,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 52,
-      "text": "'Since I have returned to my kingdom and taken my seat on the throne of my fathers, and established my rule, after defeating Demetrius and regaining the land—'",
-      "links": "",
-      "comment": "Alexander presents himself as the legitimate heir, having won the kingdom by providence. The invocation of ancestral right echoes Davidic succession."
+      "text": "Since I have returned to my kingdom and have taken my seat on the throne of my ancestors, and established my rule—for I crushed Demetrius and gained control of our country;",
+      "links": "<a href='/AIV/11/1/46-48'>1 Kings 1:46-48</a>",
+      "comment": "Alexander's claim to his ancestors' throne mirrors the pattern of royal restoration. This foreshadows how the Davidic line would reach fulfillment in the Messiah, whose throne is eternal."
     },
     {
       "pk": 20010053,
@@ -640,9 +731,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 53,
-      "text": "'Now I seek your friendship. Let us form an alliance. Give me your daughter as wife.'",
-      "links": "",
-      "comment": "Marrying into Egypt’s royal line would legitimize Alexander’s rule. Political marriages often had spiritual significance in the ancient world."
+      "text": "I met him in battle, and he and his army were crushed by us, and we have taken our seat on the throne of his kingdom—",
+      "links": "<a href='/AIV/1/24/67'>Genesis 24:67</a>",
+      "comment": "Marriage alliances were vital for establishing peace and legitimacy. The notion of a covenant, including gifts and unity, echoes biblical marriage covenants that are always more than mere contracts, having both literal and mystical implications."
     },
     {
       "pk": 20010054,
@@ -652,9 +743,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 54,
-      "text": "'I will grant you and her gifts worthy of your honor.'",
-      "links": "",
-      "comment": "The exchange of gifts symbolizes mutual respect and royal generosity, reminiscent of Solomon’s era (<a href='/AIV/11/3/1-15'>1 Kings 3:1-15</a>)."
+      "text": "now therefore let us establish friendship with one another; give me now your daughter as my wife, and I will become your son-in-law, and will make gifts to you and to her in keeping with your position.",
+      "links": "<a href='/AIV/1/41/52'>Genesis 41:52</a>",
+      "comment": "Ptolemy’s positive response affirms the legitimacy and continuity of dynastic succession. Eternal happiness and blessing are associated with fidelity to lineage, subtly recalling God's blessings on Abraham and his descendants."
     },
     {
       "pk": 20010055,
@@ -664,9 +755,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 55,
-      "text": "Ptolemy replied, 'It is a happy day for the return of my kin to the kingdom of their fathers.'",
-      "links": "",
-      "comment": "Egypt and the Seleucid kingdom present themselves as sharing a noble ancestry. Family ties further sanctify peace and alliance."
+      "text": "Ptolemy the king replied and said, “Happy was the day on which you returned to the land of your ancestors and took your seat on the throne of their kingdom.",
+      "links": "<a href='/AIV/1/29/22-30'>Genesis 29:22-30</a>",
+      "comment": "The theme of family alliances—especially through marriage—is again central. Ptolemais (Akko) as the meeting place is historically significant in Old Testament and intertestamental narratives."
     },
     {
       "pk": 20010056,
@@ -676,9 +767,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 56,
-      "text": "Ptolemy came from Egypt with his daughter Cleopatra, met Alexander, and gave her to him in marriage at Ptolemais with royal splendor, as all the kings did.",
-      "links": "<a href='/AIV/11/3/1'>1 Kings 3:1</a>",
-      "comment": "Royal marriages are public events, highlighting alliance and now cementing Alexander's claim to kingly legitimacy."
+      "text": "And now I will do for you as you wrote, but meet me at Ptolemais, so that we may see one another, and I will become your father-in-law, as you have said.”",
+      "links": "<a href='/AIV/12/18/21'>2 Kings 18:21</a>",
+      "comment": "The king’s journey with his daughter echoes patriarchal narratives of traveling for the sake of dynastic permanence. Cleopatra here is an earlier namesake than the later famous queen of Egypt."
     },
     {
       "pk": 20010057,
@@ -688,9 +779,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 57,
-      "text": "There was much feasting, joy, and pomp, as befitted kings.",
-      "links": "<a href='/AIV/17/2/18'>Esth 2:18</a>",
-      "comment": "The joyful celebrations resemble biblical wedding feasts, echoing imagery that Jesus employs for the final union of God and His people (<a href='/AIV/40/22/2'>Matt 22:2</a>)."
+      "text": "King Alexander met him, and Ptolemy gave him his daughter Cleopatra in marriage. He celebrated her wedding at Ptolemais with great splendor, as kings do.",
+      "links": "<a href='/AIV/10/3/7-8'>2 Samuel 3:7-8</a>",
+      "comment": "Royal marriages cemented alliances and were often marked by extravagant celebration. The theme of nuptial union has a deep spiritual meaning in Scripture—eventually typified in the New Testament by Christ as Bridegroom to the Church (<a href='/AIV/49/5/32'>Ephesians 5:32</a>)."
     },
     {
       "pk": 20010058,
@@ -700,9 +791,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 58,
-      "text": "The kings likewise gathered their armies and encamped at places near them.",
-      "links": "",
-      "comment": "The power struggle continues even amid alliance and celebration, reflecting the tension of earthly rule."
+      "text": "King Alexander wrote to Jonathan to come and meet him.",
+      "links": "<a href='/AIV/9/20/42'>1 Samuel 20:42</a>",
+      "comment": "Jonathan's stature among rulers is recognized by the king’s invitation. This foreshadows how God's faithful leaders are invited before rulers, whether for judgment or favor (<a href='/AIV/44/25/23-27'>Acts 25:23-27</a>)."
     },
     {
       "pk": 20010059,
@@ -712,9 +803,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 59,
-      "text": "Demetrius sent representatives with letters to Jonathan, saluting him with praise for past faithfulness.",
-      "links": "",
-      "comment": "Demetrius attempts to regain favor with Jonathan, acknowledging his crucial political value."
+      "text": "So Jonathan went in splendor to Ptolemais, meeting with both the kings. He brought great gifts, and found favor with them.",
+      "links": "<a href='/AIV/1/43/11-12'>Genesis 43:11-12</a>",
+      "comment": "Jonathan’s wise diplomacy and gifts echo the stories of biblical patriarchs who brought gifts to rulers (e.g., Jacob before Joseph). His favor among the nations prefigures Christ as the one who brings unity among peoples."
     },
     {
       "pk": 20010060,
@@ -724,9 +815,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 60,
-      "text": "He said, 'You remain faithful to us and fulfill your obligations. Now let me make you my friend and ally.'",
-      "links": "",
-      "comment": "Attempts at conciliation continue, affirming the ongoing importance of faithfulness."
+      "text": "At that time, some troublemaking men from Israel, enemies of their own people, gathered against Jonathan, accusing him before the king.",
+      "links": "<a href='/AIV/19/35/11'>Psalm 35:11</a>",
+      "comment": "Jonathan is slandered by his own countrymen, echoing the experience of many righteous men in Israel—most fully in Christ, betrayed by his own nation (<a href='/AIV/43/1/11'>John 1:11</a>)."
     },
     {
       "pk": 20010061,
@@ -736,9 +827,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 61,
-      "text": "He sent him gifts of gold and silver, and authorized him to levy taxes over four cities.",
-      "links": "",
-      "comment": "Such gifts and economic privileges are intended to buy political support, revealing the motives of human rulers."
+      "text": "But the king paid no attention to them. Instead, he commanded that Jonathan be given royal garments and clothed him in purple.",
+      "links": "<a href='/AIV/17/8/15'>Esther 8:15</a>",
+      "comment": "The granting of royal garments signifies honor and elevation; clothing with purple is a traditional sign of kingship and dignity. Garments in Scripture often carry sacramental and spiritual meaning (<a href='/AIV/66/19/8'>Revelation 19:8</a>)."
     },
     {
       "pk": 20010062,
@@ -748,9 +839,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 62,
-      "text": "But Jonathan did not accept them, because Alexander was already his ally; all words of Demetrius seemed deceitful to him.",
-      "links": "",
-      "comment": "Jonathan discerns true alliances from false ones, preferring faithfulness over expedience, embodying a biblical preference for integrity."
+      "text": "He ordered that he be seated beside him and said to his officials, \"Go with him into the city, and announce that no one should raise any accusation against him, nor bring any charge against him for any reason.\"",
+      "links": "<a href='/AIV/27/6/3-5'>Daniel 6:3-5</a>",
+      "comment": "Jonathan's vindication and official proclamation of his innocence echo the biblical motif of God exalting the humble and defending the innocent, a theme fulfilled in the perfect innocence of Christ (<a href='/AIV/42/23/4'>Luke 23:4</a>)."
     },
     {
       "pk": 20010063,
@@ -760,9 +851,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 63,
-      "text": "When Alexander heard of these things, he made Jonathan wear the purple robe and a gold brooch, and told him, 'You are to be known as one of the King’s Friends.'",
-      "links": "",
-      "comment": "Jonathan’s ceremonial honors highlight both his civil and sacred dignity. ‘King’s Friend’ was a title for close confidants, carrying both authority and responsibility."
+      "text": "When his accusers saw the honor bestowed on him, and heard the proclamation, and saw him clothed in purple, all fled away.",
+      "links": "<a href='/AIV/4/28/10'>Deuteronomy 28:10</a>",
+      "comment": "Those who seek to destroy the righteous flee in the face of divine favor, according to the biblical principle that vindication comes not by violence, but by God's intervention."
     },
     {
       "pk": 20010064,
@@ -772,9 +863,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 64,
-      "text": "He appointed Jonathan governor of the district from Ekron to the border of Egypt.",
-      "links": "",
-      "comment": "Jonathan gains extended rule over strategic lands, furthering the sovereignty of Jerusalem."
+      "text": "The king further honored him, inscribing him among his Chief Friends. He appointed him general and governor over the province.",
+      "links": "<a href='/AIV/17/8/2-3'>Esther 8:2-3</a>",
+      "comment": "Jonathan is made both friend and ruler—a dual honor. The title of 'friend of the king' recalls Abraham, 'friend of God' (<a href='/AIV/23/41/8'>Isaiah 41:8</a>), pointing to intimacy and participation in authority in both Old and New Covenants."
     },
     {
       "pk": 20010065,
@@ -784,10 +875,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 65,
-      "text": "The Philistines from Ashdod plotted to ambush Jonathan.",
-      "links": "",
-      "comment": "The ancient hostility between Israel and the Philistines continues, echoing many Old Testament stories (cf. Judges 13–16).",
-      "sectionHeader": "Jonathan’s Victory over the Philistines"
+      "text": "So Jonathan returned to Jerusalem in peace and gladness.",
+      "links": "<a href='/AIV/1/28/16'>Genesis 28:16</a>",
+      "comment": "Jonathan returns with joy, a fulfillment of the theme of restoration and the return of God’s chosen after trial. The peace he enjoys is a type of the definitive peace brought by the Messiah."
     },
     {
       "pk": 20010066,
@@ -797,9 +887,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 66,
-      "text": "But Jonathan, learning of their plot, marched against them with his army.",
-      "links": "",
-      "comment": "Jonathan’s readiness reflects vigilance and good leadership."
+      "text": "But Apollonius, the governor of Coele-Syria, gathered a large force. He pitched his camp at Jamnia and sent this message to Jonathan the high priest:",
+      "links": "<a href='/AIV/7/13/1-7'>Judges 13:1-7</a>",
+      "comment": "The mention of Jonathan as high priest underlines his dual civic and religious authority, which is an anticipation of Christ as both King and High Priest (<a href='/AIV/58/4/14-16'>Hebrews 4:14-16</a>). Apollonius' opposition illustrates the recurring threat to Israel's leadership."
     },
     {
       "pk": 20010067,
@@ -809,9 +899,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 67,
-      "text": "He left his brother Simon in the country while he advanced toward Ashdod himself.",
-      "links": "<a href='/AIV/20/11/59'>1Macc 11:59</a>",
-      "comment": "Jonathan wisely delegates authority to Simon, showing order in leadership succession (Num 27:18-23)."
+      "text": "\"You alone oppose us, yet I am mocked and ridiculed because of you. Why do you glory in power against us in the mountains?",
+      "links": "<a href='/AIV/9/17/43'>1 Samuel 17:43</a>",
+      "comment": "Apollonius's complaint reflects envy against Israel and its leaders, a recurring theme throughout the Old Testament (see also Psalms 2:1). The accusation of pride addresses the tension between authority from God and worldly rulers."
     },
     {
       "pk": 20010068,
@@ -821,9 +911,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 68,
-      "text": "The people of Ashdod came out to meet Jonathan in battle, but he defeated them and set their city on fire, as well as the surrounding strongholds.",
-      "links": "",
-      "comment": "Jonathan defends Israel through just war, purging threats to God’s people. The burning of strongholds echoes similar actions by Joshua and David."
+      "text": "If you trust in your strength, come down to the plain and meet us there, for there I have with me the power of the cities.",
+      "links": "<a href='/AIV/9/17/44'>1 Samuel 17:44</a>",
+      "comment": "The invitation to battle on the plain advances the typical challenge of the strong against the apparently weak, as in the story of David and Goliath. The contrast between divine help and human power is at the center of this drama (<a href='/AIV/9/17/45'>1 Samuel 17:45</a>)."
     },
     {
       "pk": 20010069,
@@ -833,9 +923,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 69,
-      "text": "The slain and the wounded among the Philistines numbered about eight thousand.",
-      "links": "",
-      "comment": "The scale of victory underlines the Lord’s support for Jonathan’s mission."
+      "text": "Ask and learn whether anyone has ever fled from my hand. For your ancestors were routed in the plain by my forces.",
+      "links": "<a href='/AIV/7/1/19'>Judges 1:19</a>",
+      "comment": "Boasting of past victories is contrasted with the mercy and deliverance God supplies to Israel. Here, as in past narratives, the tables often turn in favor of those who trust in God."
     },
     {
       "pk": 20010070,
@@ -845,9 +935,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 70,
-      "text": "From there, Jonathan marched on to Askalon. The people came out to meet him with great honor.",
-      "links": "",
-      "comment": "Even among the Philistines, Jonathan receives honor thanks to God’s manifest protection."
+      "text": "Yet you cannot withstand the horsemen and the mighty army in the plain, where there is neither stone nor pebble nor place of escape.\"",
+      "links": "<a href='/AIV/19/20/7-8'>Psalm 20:7-8</a>",
+      "comment": "The rejection of mountainous terrain signifies a desire to level advantage. Human strength and armaments are emphasized here, but biblical history shows that God brings victory often when it is least expected (<a href='/AIV/7/7/7'>Judges 7:7</a>)."
     },
     {
       "pk": 20010071,
@@ -857,9 +947,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 71,
-      "text": "He returned with his men to Jerusalem loaded with plunder.",
-      "links": "<a href='/AIV/6/22/8'>Josh 22:8</a>",
-      "comment": "The return with spoil is reminiscent of earlier victories, symbolizing God’s material blessing upon faithful leadership."
+      "text": "When Jonathan heard these words, he was roused in spirit. So he chose ten thousand men and left Jerusalem. His brother Simon joined him to help.",
+      "links": "<a href='/AIV/7/4/4-5'>Judges 4:4-5</a>",
+      "comment": "Jonathan's zeal prefigures the ardor of faithful leaders who respond courageously to challenges. The assistance by Simon parallels the importance of brotherhood in achieving victory."
     },
     {
       "pk": 20010072,
@@ -869,9 +959,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 72,
-      "text": "When King Alexander heard of these things, he bestowed further honors on Jonathan,",
-      "links": "",
-      "comment": "The cycle of reward for faithful service continues, paralleling God’s rewards for the righteous (cf. Prov 22:4)."
+      "text": "He encamped opposite Joppa, but the people of the city shut him out, for Apollonius had a garrison there.",
+      "links": "<a href='/AIV/6/19/1'>Joshua 19:1</a>",
+      "comment": "The refusal of the city is part of the recalcitrant attitude of the nations against the chosen leaders of Israel. The theme of being 'shut out' points ahead to Christ being 'rejected by men' (<a href='/AIV/60/2/4'>1 Peter 2:4</a>)."
     },
     {
       "pk": 20010073,
@@ -881,9 +971,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 73,
-      "text": "sending him a golden brooch, as commonly awarded to the King’s Kinsmen.",
-      "links": "",
-      "comment": "Official insignia emphasize Jonathan’s new status and recognition at the royal court, an image later echoed in Christ’s royal priesthood (1 Pet 2:9)."
+      "text": "Then Jonathan and his men laid siege to it.",
+      "links": "<a href='/AIV/7/20/14-15'>Judges 20:14-15</a>",
+      "comment": "Laying siege mirrors the tactics of Old Testament warfare. Persistence in the face of opposition is a sign of perseverance in the faith."
     },
     {
       "pk": 20010074,
@@ -893,9 +983,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 74,
-      "text": "He also gave him Ekron and all its environs as his possession.",
-      "links": "",
-      "comment": "The expansion of Jonathan’s territory echoes God’s continued blessing when the people are faithful."
+      "text": "But Apollonius moved three thousand horsemen away from the city and went by night to the camp of Jonathan. He intended to suddenly attack him, but his forces were ready.",
+      "links": "<a href='/AIV/7/20/19-21'>Judges 20:19-21</a>",
+      "comment": "The theme of a nighttime attack parallels biblical motifs of surprise and vigilance. Jonathan’s readiness is reminiscent of Christ’s command to be watchful (<a href='/AIV/40/25/13'>Matthew 25:13</a>)."
     },
     {
       "pk": 20010075,
@@ -905,10 +995,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 75,
-      "text": "At that time, the king of Egypt assembled a large army like the sand on the seashore, with many ships, to claim the kingdom by cunning.",
-      "links": "<a href='/AIV/1/22/17'>Gen 22:17</a>",
-      "comment": "Metaphorically, 'sand on the seashore' recalls God's promise to Abraham, but here shows the scale of human might.",
-      "sectionHeader": "Downfall of Alexander and Rise of Antiochus"
+      "text": "Jonathan and his army watched the movement of the enemy. At dawn, they saw Apollonius’ army marching across the plain, confident of their huge numbers.",
+      "links": "<a href='/AIV/2/14/24'>Exodus 14:24</a>",
+      "comment": "The watchfulness of Jonathan’s forces is paralleled in Scripture with the vigilance required of God’s people. Pride before defeat is a recurring theme (<a href='/AIV/20/16/18'>Proverbs 16:18</a>)."
     },
     {
       "pk": 20010076,
@@ -918,9 +1007,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 76,
-      "text": "He intended to gain Alexander’s kingdom by trickery.",
-      "links": "",
-      "comment": "Royal intrigue and deception contrast with Jonathan’s righteousness."
+      "text": "Then Jonathan went out to meet them, with Simon at his right hand. The enemy's horsemen were divided into two companies: those on the right and those on the left, throwing stones and slingshots.",
+      "links": "<a href='/AIV/7/20/16'>Judges 20:16</a>",
+      "comment": "Jonathan's leadership in battle and the specific division of the armies recall many battles in the Old Testament, emphasizing discipline and preparedness."
     },
     {
       "pk": 20010077,
@@ -930,9 +1019,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 77,
-      "text": "King Ptolemy entered Syria with peaceful words, and the cities opened up to him, welcoming him as Alexander ordered.",
-      "links": "",
-      "comment": "The account demonstrates cunning diplomacy and the importance of discernment among leaders."
+      "text": "When Jonathan's people saw the enemy on both sides, they threw up their shields, bracing for attack. The enemy’s horsemen launched arrows at them from the morning until evening.",
+      "links": "<a href='/AIV/9/31/3'>1 Samuel 31:3</a>",
+      "comment": "The endurance in battle—facing attack all day—parallels the need for perseverance in spiritual challenges (<a href='/AIV/49/6/13-16'>Ephesians 6:13-16</a>)."
     },
     {
       "pk": 20010078,
@@ -942,9 +1031,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 78,
-      "text": "Wherever Ptolemy went, he was well received, until he entered the cities of Ashdod and Gaza.",
-      "links": "",
-      "comment": "Ptolemy’s march faces resistance, foreshadowing further strife in the region."
+      "text": "But the Israelite troops stood firm, as Jonathan commanded, while the enemy’s horses grew tired.",
+      "links": "<a href='/AIV/6/10/13'>Joshua 10:13</a>",
+      "comment": "Jonathan’s steadiness and the exhaustion of enemy horses echo the scriptural motif of God strengthening his own even when outnumbered or opposed (<a href='/AIV/19/18/29'>Psalm 18:29</a>)."
     },
     {
       "pk": 20010079,
@@ -954,9 +1043,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 79,
-      "text": "The people of Ashdod and Gaza shut their gates to him, so he attacked and captured them by force.",
-      "links": "",
-      "comment": "Urban resistance and conquest were a repeated theme in Israel’s history."
+      "text": "Then Simon charged the enemy’s company on the right flank and defeated them. They fled into the plain.",
+      "links": "<a href='/AIV/7/7/19-22'>Judges 7:19-22</a>",
+      "comment": "Simon’s victory on the right flank evidences the effectiveness of well-ordered leadership and courage. Victory often comes through cooperation and well-led action."
     },
     {
       "pk": 20010080,
@@ -966,9 +1055,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 80,
-      "text": "He set fire to their markets and plundered the cities.",
-      "links": "",
-      "comment": "The destruction of worldly goods serves as a warning against excessive trust in earthly powers."
+      "text": "The men on the left, seeing their side defeated, fled as well. Jonathan pursued them all the way to Azotus, and so the enemy’s camp was burned, and about three thousand of them fell in battle.",
+      "links": "<a href='/AIV/6/8/21-22'>Joshua 8:21-22</a>",
+      "comment": "The pursuit and complete victory recall the wars of conquest under Joshua. The destruction of the enemy camp is a sign that God brings complete deliverance through those who put their trust in Him. The leadership of Jonathan and Simon models the value of fidelity, perseverance, and mutual support.",
+      "sectionHeader": "Jonathan's Victory over Apollonius at Azotus"
     },
     {
       "pk": 20010081,
@@ -978,9 +1068,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 81,
-      "text": "News of his actions reached Alexander, and he set out to defend his kingdom.",
-      "links": "",
-      "comment": "Imminent war underscores the fragile nature of human alliances."
+      "text": "Then Jonathan stationed his soldiers opposite the city, and they kept their weapons ready. He assigned watchmen, and the entire night they stayed alert and prepared for battle.",
+      "links": "<a href='/AIV/7/7/20'>Judges 7:20</a>, <a href='/AIV/13/27/23'>1 Chronicles 27:23</a>",
+      "comment": "Jonathan's careful preparation and the watchfulness of his men echo Old Testament themes of vigilance before battle (Judges 7:20). The spiritual discipline portrayed points to the biblical call to be ever watchful in our faith (see 1 Peter 5:8)."
     },
     {
       "pk": 20010082,
@@ -990,9 +1080,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 82,
-      "text": "Both kings met in battle; Ptolemy was victorious. Alexander fled into Arabia.",
-      "links": "",
-      "comment": "Despite apparent power, Alexander is defeated, reminding us that ultimate victory belongs to God alone (<a href='/AIV/20/2/61'>1Macc 2:61</a>)."
+      "text": "The enemy forces sent out archers and slingers to harass Jonathan and his men, but they fought back with determination.",
+      "links": "<a href='/AIV/9/17/50'>1 Samuel 17:50</a>, <a href='/AIV/7/20/16'>Judges 20:16</a>",
+      "comment": "The use of archers and slingers recalls David's confrontation with Goliath (1 Samuel 17:50), highlighting the use of humble means for victory. The perseverance in adversity foreshadows Christian endurance through spiritual struggle (James 1:2-4)."
     },
     {
       "pk": 20010083,
@@ -1002,9 +1092,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 83,
-      "text": "King Ptolemy triumphed, crowning himself king of the lands he conquered. King Antiochus, son of Demetrius, joined him for support.",
-      "links": "",
-      "comment": "A new ruler arises in the person of Antiochus (surnamed Theos), demonstrating the cycle of world empires."
+      "text": "But when the sun rose, Jonathan ordered his men to advance and attack with close combat. The enemy was defeated and driven back into the city.",
+      "links": "<a href='/AIV/6/6/20-21'>Joshua 6:20-21</a>, <a href='/AIV/7/7/21'>Judges 7:21</a>",
+      "comment": "The mention of sunrise and attack connects to biblical moments of divinely guided victory at dawn (Joshua 6:20-21). Jonathan's leadership models courage and wise timing, virtues cherished in spiritual tradition."
     },
     {
       "pk": 20010084,
@@ -1014,9 +1104,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 84,
-      "text": "Ptolemy received favours from all, especially after marrying Alexander’s daughter and seizing authority over those regions.",
-      "links": "",
-      "comment": "Marriage alliances solidify claims to rule. Such arrangements have shaped biblical history (cf. Solomon in 1 Kings 3:1)."
+      "text": "Many of the enemy fell; the rest fled into the city, and Jonathan's forces gained control of the siege.",
+      "links": "<a href='/AIV/7/8/22-23'>Judges 8:22-23</a>, <a href='/AIV/13/11/18'>1 Chronicles 11:18</a>",
+      "comment": "Jonathan’s victory and his control of the siege evoke the faithfulness of Israel’s heroes (Judges 8:22-23). This narrative reflects themes of perseverance leading to triumph, hinting at the greater victory found through unwavering devotion to God’s will."
     },
     {
       "pk": 20010085,
@@ -1026,9 +1116,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 85,
-      "text": "He killed Alexander and took possession of his kingdom.",
-      "links": "",
-      "comment": "Ptolemy’s violence marks the end of Alexander, showing the ceaseless strife among worldly rulers."
+      "text": "The soldiers from within the city burned down their own buildings, scattering in panic. Jonathan's men captured many spoils and those who had fled.",
+      "links": "<a href='/AIV/6/7/24'>Joshua 7:24</a>, <a href='/AIV/9/30/1'>1 Samuel 30:1</a>",
+      "comment": "The destruction within the city by its own defenders is reminiscent of the confusion God sometimes brings upon Israel’s foes (1 Samuel 30:1). The seized spoils allude to the biblical principle that the faithful inherit victory and blessing."
     },
     {
       "pk": 20010086,
@@ -1038,9 +1128,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 86,
-      "text": "Ptolemy soon died, and the people of the coastal cities killed many Egyptian soldiers.",
-      "links": "",
-      "comment": "The fleeting glory of earthly kings and the instability of power contrast with the enduring kingdom promised to God’s people."
+      "text": "Jonathan removed his forces from the city and restored order, not allowing his army to commit any evil.",
+      "links": "<a href='/AIV/2/14/14-15'>Exodus 14:14-15</a>, <a href='/AIV/19/24/3-4'>Psalm 24:3-4</a>",
+      "comment": "Jonathan’s moral restraint points to the biblical standard of holiness and discipline within God’s people (Psalm 24:3-4). This example prefigures church leadership focused on both victory and virtue."
     },
     {
       "pk": 20010087,
@@ -1050,9 +1140,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 87,
-      "text": "Thus, Antiochus, son of Demetrius, became king in the one hundred and sixty-seventh year.",
-      "links": "",
-      "comment": "A new era begins under Antiochus; these shifting rulers form the background for Israel’s ongoing quest for true kingship."
+      "text": "He held a victory celebration, giving thanks to God together with his companions in the city. Their joy was great.",
+      "links": "<a href='/AIV/19/20/5'>Psalm 20:5</a>, <a href='/AIV/19/118/24'>Psalm 118:24</a>",
+      "comment": "Jonathan’s thanksgiving echoes the Psalms of celebration after deliverance (Psalm 20:5, 118:24). The practice of communal rejoicing foreshadows the emphasis on gathering in worship expressed in Acts 2:46."
     },
     {
       "pk": 20010088,
@@ -1062,9 +1152,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 88,
-      "text": "In the days of Antiochus, Jonathan kept defending his nation and became the chief leader and high priest of his people.",
-      "links": "",
-      "comment": "Jonathan’s faithfulness and leadership link priesthood and kingship—a theme ultimately perfected in Christ, our Eternal High Priest (<a href='/AIV/58/7/23-28'>Heb 7:23-28</a>)."
+      "text": "When King Alexander heard these things, he gave Jonathan even greater honors, appointing him as the ruler over the territory.",
+      "links": "<a href='/AIV/17/8/15'>Esther 8:15</a>, <a href='/AIV/13/11/9'>1 Chronicles 11:9</a>",
+      "comment": "King Alexander’s favor parallels royal recognition given to God’s servants, such as Mordecai in Esther 8:15. Jonathan’s promotion highlights divine providence in raising up leaders who serve both God and people."
     },
     {
       "pk": 20010089,
@@ -1074,42 +1164,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 10,
       "verse": 89,
-      "text": "He gained the friendship of many peoples and strengthened the bonds between them and Israel.",
-      "links": "",
-      "comment": "Jonathan’s success points to the importance of unity and faithful leadership. Ultimately, this foreshadows how Christ would draw all nations to Himself (cf. John 12:32), fulfilling the promise of a universal, holy Church, united under legitimate authority."
+      "text": "He also sent Jonathan a golden clasp, as was custom for the king’s relatives, and granted him the city of Ekron and its surrounding lands.",
+      "links": "<a href='/AIV/6/15/11'>Joshua 15:11</a>, <a href='/AIV/9/18/4'>1 Samuel 18:4</a>",
+      "comment": "The golden clasp symbolizes high honor and belonging among the king’s closest. Such signs of favor recall the gift of clothing and distinction to Jonathan by David (1 Samuel 18:4), prefiguring the honor and inheritance promised to the faithful (Romans 8:17)."
     }
   ],
-  "translatedAt": "2025-12-24T05:23:08.408Z",
-  "sections": [
-    {
-      "title": "Rival Kings Seek Jonathan's Alliance",
-      "startVerse": 1,
-      "endVerse": 14
-    },
-    {
-      "title": "Jonathan Appointed High Priest",
-      "startVerse": 15,
-      "endVerse": 21
-    },
-    {
-      "title": "Demetrius and Alexander Compete for Jonathan's Support",
-      "startVerse": 22,
-      "endVerse": 50
-    },
-    {
-      "title": "Marriage Alliance Between Alexander and Ptolemy",
-      "startVerse": 51,
-      "endVerse": 64
-    },
-    {
-      "title": "Jonathan’s Victory over the Philistines",
-      "startVerse": 65,
-      "endVerse": 74
-    },
-    {
-      "title": "Downfall of Alexander and Rise of Antiochus",
-      "startVerse": 75,
-      "endVerse": 89
-    }
-  ]
+  "translatedAt": "2025-12-29T00:38:26.087Z"
 }

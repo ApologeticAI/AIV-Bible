@@ -3,6 +3,13 @@
   "bookName": "Tobit",
   "bookAbbreviation": "Tob",
   "chapter": 8,
+  "sections": [
+    {
+      "title": "Tobias and Sarah in the Bridal Chamber",
+      "startVerse": 1,
+      "endVerse": 21
+    }
+  ],
   "verses": [
     {
       "pk": 17008001,
@@ -12,10 +19,10 @@
       "bookAbbreviation": "Tob",
       "chapter": 8,
       "verse": 1,
-      "text": "When they had finished eating and drinking, Tobiah got up and said to Sarah, 'Sister, get up. Let us pray and ask our Lord to have mercy on us and to protect us.'",
-      "links": "<a href='/AIV/19/34/4'>Ps. 34:4</a>; <a href='/AIV/40/18/19'>Matt. 18:19</a>",
-      "comment": "Tobiah initiates prayer within his marriage, emphasizing the spiritual foundation of every union. The call to prayer together subtly prefigures the sacramental character of Christian marriage, upheld as a covenant before God.",
-      "sectionHeader": "The Prayer of Tobiah and Sarah"
+      "text": "When they had finished eating and drinking, they wanted to go to bed. So they took the young man and led him to the bedroom.",
+      "links": "<a href='/AIV/17/7/16'>Tob 7:16</a>",
+      "comment": "The narrative continues from the wedding feast as customary in Jewish weddings, and the formal escort to the bridal chamber signals the start of married life.",
+      "sectionHeader": "Tobias and Sarah in the Bridal Chamber"
     },
     {
       "pk": 17008002,
@@ -25,9 +32,9 @@
       "bookAbbreviation": "Tob",
       "chapter": 8,
       "verse": 2,
-      "text": "Sarah got up and together they prayed and begged God to keep them safe.",
-      "links": "<a href='/AIV/19/50/15'>Ps. 50:15</a>; <a href='/AIV/55/2/22'>2 Tim. 2:22</a>",
-      "comment": "The couple prays jointly, invoking God's protection. This reflects the biblical teaching that God is intimately involved in the lives of those who trust in Him, especially in the context of holy matrimony."
+      "text": "But Tobias, remembering Raphael's instructions, took the fish's liver and heart from his bag and placed them on the embers of the incense.",
+      "links": "<a href='/AIV/17/6/8-9'>Tob 6:8-9</a>; <a href='/AIV/2/30/1'>Exod 30:1</a>",
+      "comment": "The use of the fish's organs on the coals is an act of both faith and obedience to the angel's guidance, symbolizing the power of prayer combined with action."
     },
     {
       "pk": 17008003,
@@ -37,9 +44,9 @@
       "bookAbbreviation": "Tob",
       "chapter": 8,
       "verse": 3,
-      "text": "He began to say, 'Blessed are you, God of our fathers, and blessed is your name forever. The heavens and all your works bless you.'",
-      "links": "<a href='/AIV/19/103/20-22'>Ps. 103:20-22</a>; <a href='/AIV/27/2/20'>Dan. 2:20</a>",
-      "comment": "Tobiah opens in praise, echoing biblical doxologies. The invocation of blessing connects this moment to the ancient prayers of Israel, and shows the importance of tradition in prayer."
+      "text": "The smell from the fish drove the demon away from them, and he fled to the farthest parts of Egypt. Raphael chased him and bound him there at once.",
+      "links": "<a href='/AIV/17/6/7-8'>Tob 6:7-8</a>; <a href='/AIV/3/7/1'>Gen 7:1</a>",
+      "comment": "The story highlights angelic ministry and the power of ritual acts authorized by God's messenger. There's a spiritual warfare aspect, paralleling the New Testament concept of resisting evil with both prayer and sacramental signs."
     },
     {
       "pk": 17008004,
@@ -49,9 +56,13 @@
       "bookAbbreviation": "Tob",
       "chapter": 8,
       "verse": 4,
-      "text": "'You created Adam and gave him Eve his wife as a helper and support. And from them the human race has come. You said, “It is not good for man to be alone. Let us make him a helper like himself.”'",
-      "links": "<a href='/AIV/01/2/18-24'>Gen. 2:18-24</a>; <a href='/AIV/40/19/4-6'>Matt. 19:4-6</a>",
-      "comment": "This prayer directly references Genesis and the institution of marriage, reinforcing its divine origin and indissoluble nature. The connection to creation highlights the sanctity of marriage, a theme affirmed by Jesus Himself."
+      "text": "When the parents had gone out and shut the door of the room, Tobias got out of bed and said to Sarah, \"Sister, get up, and let us pray and implore our Lord that he grant us mercy and safety.\"",
+      "links": [
+        "Gen 24:12",
+        "Matt 18:19",
+        "Sir 7:31"
+      ],
+      "comment": "Tobias’s call to prayer before consummating his marriage reflects both piety and caution, acknowledging dependence on God’s mercy amid fear, especially given Sarah’s tragic marital history (cf. Tobit 6:16-17); this demonstrates an integration of faith into intimate areas of life, echoing the practice of seeking God’s favor as seen in Genesis 24:12."
     },
     {
       "pk": 17008005,
@@ -61,9 +72,9 @@
       "bookAbbreviation": "Tob",
       "chapter": 8,
       "verse": 5,
-      "text": "'Now, Lord, I am taking this sister of mine not because of lust, but with honest intent. Grant that I and she may find mercy and grow old together.'",
-      "links": "<a href='/AIV/40/19/6'>Matt. 19:6</a>; <a href='/AIV/20/5/18'>Prov. 5:18</a>",
-      "comment": "Tobiah's words reflect the purity of intention and the sacred bond of marriage, focused on lifelong fidelity. This is an Old Testament witness to the self-giving nature of a marital relationship."
+      "text": "Tobias said, 'Blessed are you, O God of our fathers, and blessed is your name forever and ever. Let the heavens and all your creatures bless you.'",
+      "links": "<a href='/AIV/19/145/21'>Ps 145:21</a>; <a href='/AIV/27/2/20'>Dan 2:20</a>",
+      "comment": "Tobias’ prayer echoes the doxologies found throughout the Psalms, reminding believers to begin every venture by blessing God. There’s a Christological undertone—a married couple as a type of Christ and His Church (<a href='/AIV/49/5/31-32'>Eph 5:31-32</a>)."
     },
     {
       "pk": 17008006,
@@ -73,9 +84,9 @@
       "bookAbbreviation": "Tob",
       "chapter": 8,
       "verse": 6,
-      "text": "And together they said, 'Amen, amen!'",
-      "links": "<a href='/AIV/16/8/6'>Neh. 8:6</a>; <a href='/AIV/66/22/21'>Rev. 22:21</a>",
-      "comment": "Their joint 'Amen' signifies total unity and acceptance of God's will, echoing liturgical responses and affirming the shared faith dimension of marriage."
+      "text": "You made Adam and gave him Eve his wife as a helper and support. From them the human race has come. You said, ‘It is not good that the man should be alone; let us make a helper for him like himself.’",
+      "links": "<a href='/AIV/1/2/18-22'>Gen 2:18-22</a>",
+      "comment": "Tobias acknowledges the divine institution of marriage rooted in creation, connecting their union to the same act by which God joined Adam and Eve—a clear affirmation of marriage as a sacred institution."
     },
     {
       "pk": 17008007,
@@ -85,10 +96,9 @@
       "bookAbbreviation": "Tob",
       "chapter": 8,
       "verse": 7,
-      "text": "Then they both lay down to sleep; but Raguel got up and called his servants, and they went to dig a grave.",
-      "links": "<a href='/AIV/01/38/7-10'>Gen. 38:7-10</a>",
-      "comment": "Raguel's actions show anxiety rooted in the past tragedy of Sarah’s previous husbands. His reaction is shaped by deep respect for divine justice and concern for safety.",
-      "sectionHeader": "Raguel's Anxiety and God's Deliverance"
+      "text": "Now, Lord, I do not take this my sister for lust, but in sincerity. Grant that we may find mercy, and may grow old together.'",
+      "links": "<a href='/AIV/40/19/5-6'>Matt 19:5-6</a>; <a href='/AIV/49/5/25'>Eph 5:25</a>",
+      "comment": "This prayer proclaims marriage as more than a union for pleasure but for mutual sanctification, echoing the biblical teaching that marriage is for holiness, not just desire."
     },
     {
       "pk": 17008008,
@@ -98,9 +108,9 @@
       "bookAbbreviation": "Tob",
       "chapter": 8,
       "verse": 8,
-      "text": "He said to his servants, 'If Tobiah does not come out alive, bury him so that no one will know.'",
-      "links": "<a href='/AIV/01/42/38'>Gen. 42:38</a>",
-      "comment": "The secrecy highlights the gravity of the situation, while also respecting dignity even in potential tragedy. The narrative tension deepens reliance on God’s providence."
+      "text": "And together they said, 'Amen, Amen.'",
+      "links": "<a href='/AIV/16/8/6'>Neh 8:6</a>",
+      "comment": "The double 'Amen' stresses solemn affirmation and agreement with God’s will, reminiscent of liturgical prayers where the faithful assent to God's purposes."
     },
     {
       "pk": 17008009,
@@ -110,9 +120,12 @@
       "bookAbbreviation": "Tob",
       "chapter": 8,
       "verse": 9,
-      "text": "Raguel and his wife went to bed, deeply troubled, and began to weep for their daughter.",
-      "links": "<a href='/AIV/19/6/6'>Ps. 6:6</a>",
-      "comment": "The sorrow of Sarah’s parents reveals the cost of suffering and empathy, reminding us of the pain that often attends human relationships and the need for trust in God."
+      "text": "Then they slept for the night.",
+      "links": [
+        "Ps 4:8",
+        "Gen 2:25"
+      ],
+      "comment": "Here the narrative simply notes their rest after entrusting their union to the Lord’s care, showing the peace that comes from authentic prayer."
     },
     {
       "pk": 17008010,
@@ -122,9 +135,9 @@
       "bookAbbreviation": "Tob",
       "chapter": 8,
       "verse": 10,
-      "text": "But as dawn broke, Raguel sent his servants to check on Tobiah. They found him alive and well, sleeping with Sarah.",
-      "links": "<a href='/AIV/19/30/5'>Ps. 30:5</a>",
-      "comment": "God’s intervention is revealed at daybreak, symbolizing hope arising after trial. The literal preservation of Tobiah highlights divine favor."
+      "text": "But Raguel arose and called his servants; they went and dug a grave,",
+      "links": "<a href='/AIV/17/7/11'>Tob 7:11</a>",
+      "comment": "Raguel's fear is based on the tragic deaths of Sarah’s previous husbands, reflecting the seriousness and urgency he felt about the fate of Tobias."
     },
     {
       "pk": 17008011,
@@ -134,9 +147,9 @@
       "bookAbbreviation": "Tob",
       "chapter": 8,
       "verse": 11,
-      "text": "Raguel blessed God and said, 'You are blessed, O God, with every pure blessing. Let them bless you forever.'",
-      "links": "<a href='/AIV/19/113/2'>Ps. 113:2</a>; <a href='/AIV/27/3/28'>Dan. 3:28</a>",
-      "comment": "Praise breaks forth naturally after deliverance. Genuine gratitude recognizes God’s active hand in daily life."
+      "text": "for he said, 'Perhaps he too has died.'",
+      "links": "<a href='/AIV/17/6/14'>Tob 6:14</a>",
+      "comment": "This detail emphasizes human anxiety and the weight of past tragedies. It contrasts with Tobias’ trust in God’s providence."
     },
     {
       "pk": 17008012,
@@ -146,9 +159,13 @@
       "bookAbbreviation": "Tob",
       "chapter": 8,
       "verse": 12,
-      "text": "'You are blessed because you have shown mercy to our two only children. Spare them, O Lord, and bring them to completion in happiness and mercy.'",
-      "links": "<a href='/AIV/19/145/8-9'>Ps. 145:8-9</a>",
-      "comment": "Raguel’s prayer expresses total dependence on God for the fullness of life, echoing ancient petitions for divine blessing over posterity."
+      "text": "saying, \"Send one of the maids and have her go in to see if he is alive. But if he is dead, let us bury him without anyone knowing it.\"",
+      "links": [
+        "Gen 44:19",
+        "Mark 5:35",
+        "1 Sam 20:19"
+      ],
+      "comment": "Raguel’s secretive instructions reveal the anxiety surrounding Sarah’s past seven husbands, who all died on their wedding night (Tobit 3:8), and underscore the themes of fear, shame, and protective parental love within ancient Near Eastern family dynamics."
     },
     {
       "pk": 17008013,
@@ -158,9 +175,12 @@
       "bookAbbreviation": "Tob",
       "chapter": 8,
       "verse": 13,
-      "text": "Then he told his servants to fill in the grave before dawn broke.",
-      "links": "<a href='/AIV/01/23/19'>Gen. 23:19</a>",
-      "comment": "The grave, dug in fear but never needed, is removed quietly, underscoring God’s protection and the value of hope over anxiety."
+      "text": "he said to his wife Edna, 'Send one of the maids to see if he is alive. If he is not, let us bury him without anyone knowing.'",
+      "links": [
+        "Tob 6:14",
+        "John 20:3-8"
+      ],
+      "comment": "This private conversation underscores the gravity of the situation. The secrecy in burying Tobias if he was dead reveals both a sense of shame and fear of scandal."
     },
     {
       "pk": 17008014,
@@ -170,10 +190,13 @@
       "bookAbbreviation": "Tob",
       "chapter": 8,
       "verse": 14,
-      "text": "Raguel prepared a wedding feast for them that lasted fourteen days.",
-      "links": "<a href='/AIV/01/29/27-28'>Gen. 29:27-28</a>",
-      "comment": "The significant length of the feast expresses the fullness of joy in covenantal celebrations, resonating with the biblical motif of feasting found throughout Scripture.",
-      "sectionHeader": "The Wedding Feast and Blessing"
+      "text": "So they sent the maid, lit a lamp, and opened the door. The maid went in and found them both asleep together.",
+      "links": [
+        "Mark 5:41",
+        "Luke 8:54",
+        "Acts 9:40"
+      ],
+      "comment": "The lighting of the lamp and the opening of the door have subtle echoes of resurrection imagery—awakening to life, hope, and restored relationship. There’s a spiritual parallel to God bringing new life where death was feared."
     },
     {
       "pk": 17008015,
@@ -183,9 +206,12 @@
       "bookAbbreviation": "Tob",
       "chapter": 8,
       "verse": 15,
-      "text": "Before the feast, Raguel swore to Tobiah, 'You must not leave here for two weeks, but stay and rejoice in my house, and make my daughter happy after all her sorrow.'",
-      "links": "<a href='/AIV/23/54/1'>Isa. 54:1</a>",
-      "comment": "Raguel’s words express a father's deep compassion and the integral role of joy in restoring broken hearts, a theme echoed in Scripture's prophetic promises."
+      "text": "So the maid went out and told them, 'He is alive, nothing is wrong.'",
+      "links": [
+        "Gen 45:26",
+        "Matt 28:7"
+      ],
+      "comment": "Great relief and happiness for Raguel’s household; much like the reversal of mourning seen in other biblical accounts, e.g., the prodigal son and Christ’s resurrection appearances (<a href='/AIV/42/15/24'>Luke 15:24</a>)."
     },
     {
       "pk": 17008016,
@@ -195,9 +221,9 @@
       "bookAbbreviation": "Tob",
       "chapter": 8,
       "verse": 16,
-      "text": "Afterwards, he brought out half of his possessions and gave them all to Tobiah.",
-      "links": "<a href='/AIV/20/13/22'>Prov. 13:22</a>; <a href='/AIV/42/15/12'>Luke 15:12</a>",
-      "comment": "The generous gift recalls biblical inheritance practices, emphasizing family legacy and the dignity of matrimonial union."
+      "text": "Then Raguel blessed God, saying: 'Blessed are you, O God, with every pure and holy blessing. Let all your saints and all your creatures bless you; let all your angels and chosen ones bless you forever.'",
+      "links": "<a href='/AIV/19/103/20-22'>Ps 103:20-22</a>; <a href='/AIV/66/5/13'>Rev 5:13</a>",
+      "comment": "The emphasis on all 'saints' and 'chosen ones' blessing God anticipates the church as a communion that includes saints and angels, both in heaven and on earth."
     },
     {
       "pk": 17008017,
@@ -207,9 +233,9 @@
       "bookAbbreviation": "Tob",
       "chapter": 8,
       "verse": 17,
-      "text": "He gave Sarah all of her goods as well. Tobiah and Sarah were now united as husband and wife, and all were joyful.",
-      "links": "<a href='/AIV/19/128/6'>Ps. 128:6</a>",
-      "comment": "The union accompanied by joy and generosity mirrors biblical weddings, which are often depicted as signs of God’s blessing and restoration."
+      "text": "'You made me glad, and it has not turned out as I expected. You have shown us great mercy, and you have spared us from the disgrace I feared.'",
+      "links": "<a href='/AIV/19/30/11'>Ps 30:11</a>",
+      "comment": "God answers with mercy, overturning fear and shame—this reflects the recurring biblical theme that trust in God is always justified."
     },
     {
       "pk": 17008018,
@@ -219,9 +245,9 @@
       "bookAbbreviation": "Tob",
       "chapter": 8,
       "verse": 18,
-      "text": "Afterwards, Edna said to Tobiah, 'May the Lord of heaven bring you back in peace, my child, and may I see your children from Sarah, my daughter, before I die.'",
-      "links": "<a href='/AIV/19/37/25'>Ps. 37:25</a>; <a href='/AIV/42/2/29'>Luke 2:29</a>",
-      "comment": "Edna's blessing is reminiscent of other Old Testament prayers for continuity and generational blessing—suggesting the wider biblical hope of fruitfulness within marriage."
+      "text": "Then he ordered his servants to fill in the grave before daybreak.",
+      "links": "<a href='/AIV/19/128/1-4'>Ps 128:1-4</a>",
+      "comment": "Prayer for the couple’s wellbeing and perseverance together shows the desire for God’s continuing grace in their marriage; this foreshadows the concept of marital grace as a lifelong divine assistance."
     },
     {
       "pk": 17008019,
@@ -231,9 +257,13 @@
       "bookAbbreviation": "Tob",
       "chapter": 8,
       "verse": 19,
-      "text": "And embracing them both, she kissed them tenderly.",
-      "links": "<a href='/AIV/01/48/10'>Gen. 48:10</a>",
-      "comment": "The embrace and kiss show familial love and acceptance, reinforcing the theme of affection and reconciliation often seen in biblical narratives."
+      "text": "After this he asked his wife to bake many loaves of bread; and he went out to the herd and brought two steers and four rams and ordered them to be slaughtered. So they began to make preparations.",
+      "links": [
+        "Gen 29:22",
+        "Judg 14:10",
+        "John 2:1-2"
+      ],
+      "comment": "Covering up the prepared grave marks a final end to the threat of death; symbolically, it serves as a rebirth into hope and joy."
     },
     {
       "pk": 17008020,
@@ -243,9 +273,9 @@
       "bookAbbreviation": "Tob",
       "chapter": 8,
       "verse": 20,
-      "text": "Raguel told his servants to bring in more food and wine, and prepared a greater feast than before.",
-      "links": "<a href='/AIV/19/23/5'>Ps. 23:5</a>; <a href='/AIV/43/2/7-10'>John 2:7-10</a>",
-      "comment": "The amplified celebration calls to mind biblical wedding feasts, including the wedding at Cana where Christ performed His first sign, symbolizing abundance and divine blessing."
+      "text": "Then he called for Tobias and swore on oath to him in these words: 'You shall not leave here for fourteen days, but shall stay here eating and drinking with me; and you shall cheer up my daughter, who has been depressed.'",
+      "links": "<a href='/AIV/17/7/14'>Tob 7:14</a>",
+      "comment": "The joyful celebration echoes themes of feasting after deliverance, as in the Passover and Christ’s own parables of wedding banquets (<a href='/AIV/42/14/15-24'>Luke 14:15-24</a>)."
     },
     {
       "pk": 17008021,
@@ -255,27 +285,10 @@
       "bookAbbreviation": "Tob",
       "chapter": 8,
       "verse": 21,
-      "text": "So Tobiah and Sarah stayed in Raguel’s house in happiness, while he sent word to Tobit in Nineveh about all that had happened.",
-      "links": "<a href='/AIV/01/24/67'>Gen. 24:67</a>",
-      "comment": "The chapter concludes with lasting joy and tidings sent to Tobit, underscoring God’s faithfulness in fulfilling His promises. The narrative stresses the importance of familial connection, tradition, and the blessings of obedient faith."
+      "text": "Take at once half of what I own and return in safety to your father; the other half will be yours when my wife and I die. Take courage, my child. I am your father and Edna is your mother, and we belong to you as well as to your wife now and forever. Take courage, my child.",
+      "links": "<a href='/AIV/17/11/18'>Tob 11:18</a>",
+      "comment": "The prescribed fourteen-day celebration emphasizes the sacredness and public recognition of marriage, reminiscent of the weeks of feasting found in Jewish wedding traditions."
     }
   ],
-  "translatedAt": "2025-12-24T04:57:28.232Z",
-  "sections": [
-    {
-      "title": "The Prayer of Tobiah and Sarah",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "Raguel's Anxiety and God's Deliverance",
-      "startVerse": 7,
-      "endVerse": 13
-    },
-    {
-      "title": "The Wedding Feast and Blessing",
-      "startVerse": 14,
-      "endVerse": 21
-    }
-  ]
+  "translatedAt": "2025-12-29T00:37:42.340Z"
 }

@@ -122,9 +122,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 28,
       "verse": 10,
-      "text": "Just as fire burns in proportion to its fuel, so does anger grow according to one’s strength; and one’s rage can destroy by its intensity.",
-      "links": "<a href='/AIV/20/26/21'>Prov. 26:21</a>; <a href='/AIV/19/37/8'>Ps. 37:8</a>",
-      "comment": "The tendency for anger to escalate parallels addictive sins. Interior discipline opens us more fully to grace."
+      "text": "In proportion to the fuel, so will the fire burn; in proportion to stubbornness, so will strife increase; in proportion to a person's strength will be his anger, and in proportion to his wealth he will increase his wrath.",
+      "links": [
+        "Prov 15:18",
+        "Prov 16:28",
+        "Jas 1:19-20"
+      ],
+      "comment": "Sirach uses analogies of fire and fuel to illustrate that strife and anger are proportional to stubbornness and strength; this echoes the wisdom tradition's warnings about unchecked passions (cf. Proverbs 15:18), highlighting the escalating nature of anger and the importance of self-control."
     },
     {
       "pk": 28028011,
@@ -134,9 +138,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 28,
       "verse": 11,
-      "text": "The hot-tempered person will be burned in conflict, and whoever seeks revenge will face vengeance from the Lord.",
-      "links": "<a href='/AIV/45/12/19'>Rom. 12:19</a>; <a href='/AIV/19/37/7-9'>Ps. 37:7-9</a>",
-      "comment": "God reserves vengeance for himself (Rom. 12:19). Trust in divine justice is essential for peace and unity."
+      "text": "A hasty quarrel kindles a fire, and a hasty dispute sheds blood.",
+      "links": [
+        "Prov 29:22",
+        "Jas 4:1-2",
+        "Prov 17:14"
+      ],
+      "comment": "The verse emphasizes that impulsive arguments are as dangerous as fire, capable of leading to violence and bloodshed, reinforcing the biblical theme of guarding one's speech (cf. James 3:5-6)."
     },
     {
       "pk": 28028012,
@@ -291,9 +299,13 @@
       "bookAbbreviation": "Sir",
       "chapter": 28,
       "verse": 24,
-      "text": "See that you hedge your property with thorns, lock up your silver and gold, weigh your words and tie up your mouth with a strong lock.",
-      "links": "<a href='/AIV/20/13/3'>Prov. 13:3</a>; <a href='/AIV/59/1/26'>James 1:26</a>",
-      "comment": "Guarding one’s words is more important than guarding material possessions. This counsel harmonizes with New Testament teachings about speech and self-mastery.",
+      "text": "As you fence in your property with thorns, so make a door and a bolt for your mouth. As you lock up your silver and gold, so make balances and scales for your words.",
+      "links": [
+        "Prov 13:3",
+        "Jas 3:5-6",
+        "Ps 141:3"
+      ],
+      "comment": "Just as one protects possessions with physical barriers, Sirach advises guarding one's words with careful restraint, underscoring the ancient wisdom principle that speech can cause great harm if left unchecked (cf. Proverbs 13:3; Psalm 141:3).",
       "sectionHeader": "Guarding Your Speech"
     },
     {
@@ -304,9 +316,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 28,
       "verse": 25,
-      "text": "Beware so that you do not slip and fall, and bring shame on your soul.",
-      "links": "<a href='/AIV/19/141/3'>Ps. 141:3</a>",
-      "comment": "Careful stewardship of speech is portrayed as a means to holiness. The spiritual consequence of a fall is separation from God and communal shame."
+      "text": "[This verse does not appear in many manuscripts and may be omitted; see RSVCE numbering.]",
+      "links": "",
+      "comment": ""
     },
     {
       "pk": 28028026,
@@ -316,12 +328,16 @@
       "bookAbbreviation": "Sir",
       "chapter": 28,
       "verse": 26,
-      "text": "By keeping your mouth shut, you will avoid trouble.",
-      "links": "<a href='/AIV/20/21/23'>Prov. 21:23</a>; <a href='/AIV/59/3/2'>James 3:2</a>",
-      "comment": "Silence can be an act of humility and wisdom, avoiding sin and fostering unity (cf. James 3:2). This echoes the spiritual discipline of taming the tongue for the sake of holiness."
+      "text": "Take care not to err with your tongue, and fall victim to one lying in wait.",
+      "links": [
+        "Prov 21:23",
+        "Jas 1:26",
+        "Ps 39:1"
+      ],
+      "comment": "This verse warns of the dangers of careless speech, echoing the wisdom tradition's emphasis on self-control (cf. Proverbs 13:3; James 3:5-10), and reflects the cultural recognition that words could bring ruin, especially amidst social conflicts."
     }
   ],
-  "translatedAt": "2025-12-24T07:38:06.181Z",
+  "translatedAt": "2025-12-28T07:00:21.587Z",
   "sections": [
     {
       "title": "The Call to Forgive",

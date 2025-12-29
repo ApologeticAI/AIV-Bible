@@ -146,7 +146,11 @@
       "chapter": 33,
       "verse": 12,
       "text": "They departed from the wilderness of Sin and camped at Dophkah.",
-      "links": "",
+      "links": [
+        "Ex 16:1",
+        "Num 33:10-11",
+        "Ps 106:13"
+      ],
       "comment": "The continual movement reflects spiritual progression and dependence on divine guidance."
     },
     {
@@ -158,7 +162,11 @@
       "chapter": 33,
       "verse": 13,
       "text": "They set out from Dophkah and camped at Alush.",
-      "links": "",
+      "links": [
+        "Ex 16:1",
+        "Deut 8:2",
+        "Num 33:14"
+      ],
       "comment": "Each named place represents both historical fact and spiritual meaning for the journey of faith."
     },
     {
@@ -218,7 +226,11 @@
       "chapter": 33,
       "verse": 18,
       "text": "They set out from Hazeroth and camped at Rithmah.",
-      "links": "",
+      "links": [
+        "Num 11:35",
+        "Deut 1:19",
+        "Num 12:16"
+      ],
       "comment": "Rithmah’s location is linked with the wilderness of Paran, a place of testing and preparation for God’s people."
     },
     {
@@ -230,7 +242,11 @@
       "chapter": 33,
       "verse": 19,
       "text": "They left Rithmah and camped at Rimmon Perez.",
-      "links": "",
+      "links": [
+        "Num 33:18",
+        "Num 33:20",
+        "Num 14:37-38"
+      ],
       "comment": "Each encampment signifies a stage of spiritual growth, perseverance, or discipline."
     },
     {
@@ -242,7 +258,11 @@
       "chapter": 33,
       "verse": 20,
       "text": "They departed from Rimmon Perez and camped at Libnah.",
-      "links": "",
+      "links": [
+        "Num 33:19",
+        "Num 33:21",
+        "Num 14:40-45"
+      ],
       "comment": "Libnah may reflect divine judgment and purity, as its name suggests whiteness."
     },
     {
@@ -254,7 +274,10 @@
       "chapter": 33,
       "verse": 21,
       "text": "They set out from Libnah and camped at Rissah.",
-      "links": "",
+      "links": [
+        "Num 33:20",
+        "Num 33:22"
+      ],
       "comment": "Rissah continues the record of journeys, reflecting the pilgrim life of God's people."
     },
     {
@@ -266,7 +289,10 @@
       "chapter": 33,
       "verse": 22,
       "text": "They departed from Rissah and camped at Kehelathah.",
-      "links": "",
+      "links": [
+        "Num 33:21",
+        "Num 33:23"
+      ],
       "comment": "The name Kehelathah shares a root with ‘assembly,’ anticipating the importance of community worship."
     },
     {
@@ -278,7 +304,10 @@
       "chapter": 33,
       "verse": 23,
       "text": "They set out from Kehelathah and camped at Mount Shepher.",
-      "links": "",
+      "links": [
+        "Num 33:22",
+        "Num 33:24"
+      ],
       "comment": "Mount Shepher means ‘beautiful’ or ‘splendid,’ signifying the hope and glory of God’s guidance."
     },
     {
@@ -290,7 +319,10 @@
       "chapter": 33,
       "verse": 24,
       "text": "They departed from Mount Shepher and camped at Haradah.",
-      "links": "",
+      "links": [
+        "Num 33:23",
+        "Num 33:25"
+      ],
       "comment": "Haradah means ‘fear’—reminding us of the need for holy reverence toward God."
     },
     {
@@ -302,7 +334,10 @@
       "chapter": 33,
       "verse": 25,
       "text": "They set out from Haradah and camped at Makheloth.",
-      "links": "",
+      "links": [
+        "Num 33:24",
+        "Num 33:26"
+      ],
       "comment": "Makheloth again links to ‘assembly,’ pointing toward the communal aspect of worship and faith."
     },
     {
@@ -314,7 +349,10 @@
       "chapter": 33,
       "verse": 26,
       "text": "They departed from Makheloth and camped at Tahath.",
-      "links": "",
+      "links": [
+        "Num 33:25",
+        "Num 33:27"
+      ],
       "comment": "Tahath’s meaning is uncertain, but the progression reveals steadfastness in moving toward God’s promises."
     },
     {
@@ -326,7 +364,10 @@
       "chapter": 33,
       "verse": 27,
       "text": "They left Tahath and camped at Terah.",
-      "links": "",
+      "links": [
+        "Num 33:26",
+        "Num 33:28"
+      ],
       "comment": "Terah is Abraham’s father’s name, alluding to the faith journey from the patriarchs to the promised inheritance."
     },
     {
@@ -338,7 +379,10 @@
       "chapter": 33,
       "verse": 28,
       "text": "They set out from Terah and camped at Mithkah.",
-      "links": "",
+      "links": [
+        "Num 33:27",
+        "Num 33:29"
+      ],
       "comment": "Each stage names the pilgrimage’s progress, relevant to the ongoing spiritual journey of believers."
     },
     {
@@ -350,7 +394,10 @@
       "chapter": 33,
       "verse": 29,
       "text": "They departed from Mithkah and camped at Hashmonah.",
-      "links": "",
+      "links": [
+        "Num 33:28",
+        "Deut 10:6"
+      ],
       "comment": "Hashmonah’s location is uncertain, yet it demonstrates faithful observance of the journey laid out by God."
     },
     {
@@ -386,7 +433,10 @@
       "chapter": 33,
       "verse": 32,
       "text": "They departed from Bene Jaakan and camped at Hor Haggidgad.",
-      "links": "",
+      "links": [
+        "Deut 10:6-7",
+        "Num 33:33"
+      ],
       "comment": "Hor Haggidgad, with uncertain meaning, still marks a real event in God’s guided journey."
     },
     {
@@ -410,7 +460,11 @@
       "chapter": 33,
       "verse": 34,
       "text": "They departed from Jotbathah and camped at Abronah.",
-      "links": "",
+      "links": [
+        "Num 33:33",
+        "Num 33:35",
+        "Deut 10:7"
+      ],
       "comment": "Abronah’s name possibly relates to passage or crossing, foreshadowing entry into new life."
     },
     {
@@ -495,7 +549,10 @@
       "chapter": 33,
       "verse": 41,
       "text": "They departed from Mount Hor and camped at Zalmonah.",
-      "links": "",
+      "links": [
+        "Num 20:22-29",
+        "Num 21:4"
+      ],
       "comment": "Each encampment brings God’s people closer to the fulfillment of His promises."
     },
     {
@@ -507,7 +564,10 @@
       "chapter": 33,
       "verse": 42,
       "text": "They left Zalmonah and camped at Punon.",
-      "links": "",
+      "links": [
+        "Num 33:41",
+        "Num 33:43"
+      ],
       "comment": "The movement through various locations marks stages of transformation and maturation in faith."
     },
     {
@@ -543,7 +603,10 @@
       "chapter": 33,
       "verse": 45,
       "text": "They set out from Iye Abarim and camped at Dibon Gad.",
-      "links": "",
+      "links": [
+        "Num 21:11",
+        "Num 32:34"
+      ],
       "comment": "Dibon Gad recalls God’s victory and provision, building the faith of the people before entering the land."
     },
     {
@@ -555,7 +618,10 @@
       "chapter": 33,
       "verse": 46,
       "text": "They departed from Dibon Gad and camped at Almon Diblathaim.",
-      "links": "",
+      "links": [
+        "Num 33:45",
+        "Num 21:20"
+      ],
       "comment": "Another step toward the inheritance, Almon Diblathaim demonstrates persistence."
     },
     {

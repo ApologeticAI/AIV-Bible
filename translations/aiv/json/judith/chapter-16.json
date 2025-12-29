@@ -242,9 +242,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 16,
       "verse": 20,
-      "text": "All the people rejoiced together with the women for thirty days in Jerusalem, and Judith remained with them, sharing in their joy.",
-      "links": "<a href='/AIV/03/23/33-34'>Lev. 23:33–34</a>",
-      "comment": "The length of the celebration (thirty days) recalls the great festivals of Israel. The close participation of women, especially Judith, affirms their honorable role in spiritual life."
+      "text": "For three months the people continued feasting in Jerusalem before the sanctuary, and Judith remained with them.",
+      "links": [
+        "Neh 8:17-18",
+        "2 Chr 30:21",
+        "Deut 16:13-15"
+      ],
+      "comment": "The extended feast in Jerusalem highlights communal thanksgiving and the restoration of joy after crisis, echoing similar celebrations after deliverance such as in Exodus 15."
     },
     {
       "pk": 18016021,
@@ -267,9 +271,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 16,
       "verse": 22,
-      "text": "Before her death, no one ever made advances toward her again, after all the days she lived, from the time when her husband Manasseh died and was gathered to his people.",
-      "links": "<a href='/AIV/01/25/8'>Gen. 25:8</a>",
-      "comment": "Judith’s lifelong fidelity and her unique status among her people points to the dignity of consecrated life, remaining faithful to God through widowhood—a theme later highlighted by early Christian saints."
+      "text": "Many desired to marry her, but she gave herself to no man all the days of her life after her husband Manasseh died and was gathered to his people.",
+      "links": [
+        "Luke 2:36-37",
+        "1 Cor 7:8",
+        "1 Tim 5:5"
+      ],
+      "comment": "Judith's lifelong widowhood underscores her devotion and independence, aligning her with figures like Anna in Luke 2:36-37 who prioritize faithfulness over remarriage."
     },
     {
       "pk": 18016023,
@@ -291,9 +299,13 @@
       "bookAbbreviation": "Jdt",
       "chapter": 16,
       "verse": 24,
-      "text": "During her lifetime and for many years after her death, no one in Israel ever again spread terror like the days of Judith.",
-      "links": "<a href='/AIV/02/1/8'>Ex. 1:8</a>",
-      "comment": "Judith’s time is marked as a golden era of security, signifying the blessing that comes through faithfulness to God and His providence."
+      "text": "and the house of Israel mourned her for seven days. Before she died she distributed her property to all those who were next of kin to her husband Manasseh, and to her own nearest kindred.",
+      "links": [
+        "Gen 50:10",
+        "Sir 38:23",
+        "Acts 9:36"
+      ],
+      "comment": "Judith's generous distribution of her property reflects the virtue of almsgiving and familial responsibility in Jewish tradition, reminiscent of provisions in Numbers 27:8-11 regarding inheritance."
     },
     {
       "pk": 18016025,
@@ -303,12 +315,16 @@
       "bookAbbreviation": "Jdt",
       "chapter": 16,
       "verse": 25,
-      "text": "But the festival of this victory was kept by the Israelites in all generations.",
-      "links": "<a href='/AIV/08/4/7-17'>Ruth 4:7–17</a>",
-      "comment": "The enduring commemoration of Judith’s deliverance mirrors the importance of sacred remembrance and tradition. Such celebrations keep alive the memory of God’s deeds and point to the unbroken continuity of faith down through generations, just as the Church continues to celebrate God’s saving works in liturgical life."
+      "text": "No one ever again spread terror among the Israelites during the lifetime of Judith, or for a long time after her death.",
+      "links": [
+        "Judg 2:18",
+        "Josh 24:31",
+        "Ps 105:14-15"
+      ],
+      "comment": "Judith's legacy as a deterrent against future threats parallels the impact of other deliverers in biblical history, and emphasizes how individual faithfulness can secure communal peace (cf. Judges 3:11)."
     }
   ],
-  "translatedAt": "2025-12-24T05:07:54.127Z",
+  "translatedAt": "2025-12-28T06:58:21.248Z",
   "sections": [
     {
       "title": "Judith’s Hymn of Praise",

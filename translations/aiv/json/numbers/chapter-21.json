@@ -172,7 +172,11 @@
       "chapter": 21,
       "verse": 14,
       "text": "Therefore it is said in the Book of the Wars of the Lord, 'Waheb in Suphah and the valleys of the Arnon,",
-      "links": "",
+      "links": [
+        "Ex 17:14",
+        "Josh 10:13",
+        "2 Sam 1:18"
+      ],
       "comment": "The 'Book of the Wars of the Lord' is an ancient source no longer extant. Its citation here confirms the record of Israel's journey."
     },
     {
@@ -184,7 +188,11 @@
       "chapter": 21,
       "verse": 15,
       "text": "and the slope of the valleys that stretches to the seat of Ar, and leans to the border of Moab.'",
-      "links": "",
+      "links": [
+        "Num 22:36",
+        "Judg 11:18",
+        "Deut 2:18"
+      ],
       "comment": "These poetic lines further describe the region, adding to Israel’s corporate memory of God’s victories."
     },
     {
@@ -220,7 +228,11 @@
       "chapter": 21,
       "verse": 18,
       "text": "The well that the leaders dug, that the nobles of the people hollowed out with the scepter and their staffs.' From the wilderness they went on to Mattanah,",
-      "links": "",
+      "links": [
+        "Gen 21:19",
+        "Ex 15:27",
+        "Is 12:3"
+      ],
       "comment": "Emphasizes the unity of leaders and people in receiving God’s blessing. Leadership and community acting together is a repeated pattern."
     },
     {
@@ -232,7 +244,10 @@
       "chapter": 21,
       "verse": 19,
       "text": "and from Mattanah to Nahaliel, and from Nahaliel to Bamoth,",
-      "links": "",
+      "links": [
+        "Deut 2:13",
+        "Num 33:47"
+      ],
       "comment": "Travel log—maintaining careful record of God’s guidance."
     },
     {
@@ -329,7 +344,11 @@
       "chapter": 21,
       "verse": 27,
       "text": "Therefore the poets say: 'Come to Heshbon; let it be built, the city of Sihon established.'",
-      "links": "",
+      "links": [
+        "Jer 48:45",
+        "Deut 2:24",
+        "Judg 11:26"
+      ],
       "comment": "A national song commemorates Sihon’s rule and Israel's victory—poetry is used to memorialize God’s work."
     },
     {
@@ -341,7 +360,11 @@
       "chapter": 21,
       "verse": 28,
       "text": "'Fire went out from Heshbon, flame from the city of Sihon. It devoured Ar of Moab, the lords of the heights of the Arnon.'",
-      "links": "",
+      "links": [
+        "Jer 48:45",
+        "Amos 2:2",
+        "Deut 2:36"
+      ],
       "comment": "Metaphorical language (‘fire’) for military conquest, a common poetic device pointing to God’s sovereign direction of history."
     },
     {

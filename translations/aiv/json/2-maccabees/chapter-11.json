@@ -61,9 +61,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 11,
       "verse": 5,
-      "text": "He entered Judea and approached Beth-zur, a strong fortress about twenty-four miles from Jerusalem, where he pressed the siege.",
-      "links": "<a href='/AIV/6/15/53'>Josh. 15:53</a>; <a href='/AIV/21/10/14'>2Macc 10:14</a>",
-      "comment": "Beth-zur’s strategic importance reminds readers of ancient battles for holy ground, echoing the defense of sacred territory in Joshua’s time."
+      "text": "He entered Judea and approached Beth-zur, a strong fortress about five stadia from Jerusalem, where he pressed the siege.",
+      "links": [
+        "2 Chr 11:7",
+        "Neh 3:16",
+        "1 Macc 4:29"
+      ],
+      "comment": "Beth-zur, a strategic fortress near Jerusalem, served as a key battleground during the Seleucid campaign to retake Judea, illustrating the tenacity of Jewish resistance (cf. 2 Macc 1:13)."
     },
     {
       "pk": 21011006,
@@ -376,9 +380,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 11,
       "verse": 31,
-      "text": "“Farewell. Year one hundred forty-eight, the twenty-fourth of Dioscorinthius.”",
-      "links": "<a href='/AIV/21/11/26'>2Macc 11:26</a>",
-      "comment": "The detailed date establishes sequence and reinforces the historicity of God’s interventions."
+      "text": "Let them keep their own food and laws as formerly, and let none of them be molested in any way for what they may have done in ignorance. Farewell. Year one hundred forty-eight, the twenty-fourth of Dioscorinthius.",
+      "links": [
+        "Ezra 6:7",
+        "Dan 6:26",
+        "Esth 8:11"
+      ],
+      "comment": "The royal decree restores Jewish religious rights and legal autonomy, reflecting a shift toward tolerance after previous persecutions, and stresses clemency for past infractions done in ignorance."
     },
     {
       "pk": 21011032,
@@ -388,9 +396,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 11,
       "verse": 32,
-      "text": "The king sent instructions to Ptolemy, the governor of Coele-Syria and Phoenicia, authorizing him to favor the Jews.",
-      "links": "<a href='/AIV/21/10/11'>2Macc 10:11</a>",
-      "comment": "Kingly authority delegated suggests a pattern for order and obedience under divinely instituted leadership structures."
+      "text": "And I have also sent Menelaus to encourage you.",
+      "links": [
+        "2 Macc 4:23",
+        "1 Macc 1:13",
+        "2 Macc 13:3"
+      ],
+      "comment": "Menelaus, though previously controversial as high priest, is sent to reassure the Jews, highlighting the complex interplay between Hellenistic authorities and Jewish leaders."
     },
     {
       "pk": 21011033,
@@ -400,9 +412,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 11,
       "verse": 33,
-      "text": "Ptolemy wrote back, saying: “Ptolemy to the Jewish elders, greetings.”",
-      "links": "<a href='/AIV/21/11/17'>2Macc 11:17</a>",
-      "comment": "Greetings to elders highlights respect for legitimate religious authority, anchoring ancient precedent for governance."
+      "text": "Farewell. The one hundred forty-eighth year, Xanthicus fifteenth.",
+      "links": [
+        "Ezra 6:6",
+        "Esth 3:7",
+        "1 Macc 15:6"
+      ],
+      "comment": "The closing of the king’s letter with precise dating (Seleucid era) underscores the official and formal nature of the communication, marking a significant turning point in Judean relations."
     },
     {
       "pk": 21011034,
@@ -412,9 +428,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 11,
       "verse": 34,
-      "text": "“The king has granted Lysias’s instructions. I protect your interests as instructed.”",
-      "links": "<a href='/AIV/21/13/23'>2Macc 13:23</a>",
-      "comment": "Governmental protection for the faithful demonstrates God’s sovereignty working through secular agents, as seen elsewhere in Scripture (cf. Neh. 2:8)."
+      "text": "The Romans also sent them a letter, which read thus: “Quintus Memmius and Titus Manius, envoys of the Romans, to the people of the Jews, greetings.\"",
+      "links": [
+        "Acts 18:2",
+        "Acts 24:17",
+        "Rom 16:1"
+      ],
+      "comment": "Roman envoys directly address the Jews, signaling increasing Roman involvement in Eastern Mediterranean affairs, and foreshadowing later Roman-Jewish interactions (cf. 1 Macc 8)."
     },
     {
       "pk": 21011035,
@@ -424,9 +444,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 11,
       "verse": 35,
-      "text": "“If there are men sent to you for government matters, send them away as you have received instructions. No one is to harm you.”",
-      "links": "<a href='/AIV/15/7/21-22'>Ezra 7:21-22</a>",
-      "comment": "Protection against harm links directly to biblical promises of safety for those under God’s favor."
+      "text": "With regard to what Lysias the kinsman of the king has granted you, we also give consent.",
+      "links": [
+        "Dan 6:27",
+        "Ezra 7:18",
+        "Esth 8:8"
+      ],
+      "comment": "The Roman consent to Lysias’ concessions legitimizes the Jewish claims and indicates Rome's influential diplomatic role, reinforcing the value placed on legal agreements."
     },
     {
       "pk": 21011036,
@@ -436,9 +460,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 11,
       "verse": 36,
-      "text": "“I have also sent instructions to these men. Farewell. Year one hundred forty-eight, the twenty-fourth of Dioscorinthius.”",
-      "links": "<a href='/AIV/21/11/31'>2Macc 11:31</a>",
-      "comment": "Repeated meticulous records affirm authenticity and care for proper procedure, a hallmark of enduring tradition."
+      "text": "But as to the matters that he decided are to be referred to the king, as soon as you have considered them, send some one promptly so that we may make proposals appropriate for you. For we are on our way to Antioch.",
+      "links": [
+        "Esth 9:3",
+        "Acts 23:30",
+        "2 Macc 13:8"
+      ],
+      "comment": "The invitation to send representatives lays groundwork for Jewish agency in further negotiations, and highlights the developing international dimensions of Judean politics."
     },
     {
       "pk": 21011037,
@@ -448,9 +476,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 11,
       "verse": 37,
-      "text": "The Romans also sent a letter, saying: “Quintus Memmius and Titus Manius, Roman envoys, to the Jewish people, greetings.”",
-      "links": "<a href='/AIV/44/18/2'>Acts 18:2</a>",
-      "comment": "International support for God’s people reflects a growing recognition of the one true faith among other nations, prefiguring the outward spread of faith seen in the Acts of the Apostles.",
+      "text": "Therefore make haste and send messengers so that we may have your judgment.",
+      "links": [
+        "Ezra 7:25",
+        "Esth 8:9",
+        "Acts 15:2"
+      ],
+      "comment": "The repeated urgency to respond reflects the precariousness and fluidity of the political situation, urging the Jewish leadership to seize the moment for best securing their interests.",
       "sectionHeader": "Roman Support for the Jews"
     },
     {
@@ -461,12 +493,16 @@
       "bookAbbreviation": "2Macc",
       "chapter": 11,
       "verse": 38,
-      "text": "“We approve all that Lysias has guaranteed to you. Farewell.”",
-      "links": "<a href='/AIV/21/11/17'>2Macc 11:17</a>",
-      "comment": "The Roman endorsement further safeguards the Jews’ autonomy, echoing the biblical principle of God raising up allies among the nations to protect and support the faithful (cf. Isa. 60:3)."
+      "text": "Farewell. The one hundred forty-eighth year, Xanthicus fifteenth.",
+      "links": [
+        "1 Macc 15:16",
+        "Esth 3:7",
+        "Ezra 6:15"
+      ],
+      "comment": "This formal Roman farewell, with dating, mirrors Hellenistic bureaucratic practices and marks the evolving coexistence of Jewish, Seleucid, and Roman systems."
     }
   ],
-  "translatedAt": "2025-12-24T05:36:22.160Z",
+  "translatedAt": "2025-12-28T01:52:02.985Z",
   "sections": [
     {
       "title": "Lysias Marches Against Jerusalem",

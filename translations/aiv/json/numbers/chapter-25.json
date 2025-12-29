@@ -123,7 +123,11 @@
       "chapter": 25,
       "verse": 10,
       "text": "Then the LORD spoke to Moses, saying,",
-      "links": "",
+      "links": [
+        "Ex 6:2",
+        "Num 20:2",
+        "Deut 31:14"
+      ],
       "comment": "God’s direct address to Moses shows the continuing guidance God gives to his people through authorized leaders.",
       "sectionHeader": "Phinehas Rewarded"
     },
@@ -172,7 +176,11 @@
       "chapter": 25,
       "verse": 14,
       "text": "Now the name of the Israelite who was killed with the Midianite woman was Zimri the son of Salu, a chief of a father’s house among the Simeonites.",
-      "links": "",
+      "links": [
+        "Num 25:6",
+        "Num 26:14",
+        "Josh 13:21"
+      ],
       "comment": "Zimri's identification as a leader emphasizes that even God’s appointed leaders are not exempt from God’s judgment when they fall into grave sin."
     },
     {
@@ -184,7 +192,11 @@
       "chapter": 25,
       "verse": 15,
       "text": "And the name of the Midianite woman who was killed was Cozbi, the daughter of Zur, who was head of a father’s house in Midian.",
-      "links": "",
+      "links": [
+        "Num 31:8",
+        "Josh 13:21",
+        "Num 22:4"
+      ],
       "comment": "Naming both individuals underlines the seriousness of personal responsibility in leading others astray, a theme especially relevant for those in positions of influence."
     },
     {
@@ -196,7 +208,11 @@
       "chapter": 25,
       "verse": 16,
       "text": "The LORD spoke to Moses, saying,",
-      "links": "",
+      "links": [
+        "Num 31:1",
+        "Ex 6:2",
+        "Num 25:10"
+      ],
       "comment": "God continues to reveal His will through Moses, showing that the revelation and guidance of God pass through the ones appointed for spiritual leadership.",
       "sectionHeader": "Command to Attack the Midianites"
     },

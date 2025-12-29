@@ -27,7 +27,7 @@
       "verse": 2,
       "text": "Then Shecaniah son of Jehiel, from the family of Elam, spoke up and said to Ezra: “We have been unfaithful to our God by marrying foreign women from the surrounding peoples, but there is still hope for Israel in spite of this.",
       "links": "<a href='/AIV/02/34/15-16'>Ex. 34:15-16</a>; <a href='/AIV/16/13/23'>Neh. 13:23</a>",
-      "comment": "Acknowledgement of sin is paired with hope—an important theological point. Even in grave error, forgiveness and restoration is possible, preparing the way for a theology of grace found in the Gospel (cf. Lk 15:11-32)."
+      "comment": "Shecaniah’s confession highlights collective responsibility and the hope of repentance, recalling Israel’s recurring struggle with intermarriage (cf. Deut. 7:3-4) and God’s willingness to restore those who turn from unfaithfulness."
     },
     {
       "pk": 15010003,
@@ -196,7 +196,7 @@
       "verse": 16,
       "text": "So the exiles did as was proposed. Ezra the priest selected men who were heads of families, all designated by name; they sat down on the first day of the tenth month to investigate the matter.",
       "links": "<a href='/AIV/02/18/25'>Ex. 18:25</a>; <a href='/AIV/16/7/5'>Neh. 7:5</a>",
-      "comment": "Careful investigation recalls the need for justice and pastoral sensitivity in correcting communal sin, paralleling disciplinary systems in later religious communities.",
+      "comment": "The appointment of family heads to investigate reflects a structured, communal approach to repentance, ensuring that the resolution was thorough and just (cf. Deut. 17:8-13 for legal investigations).",
       "sectionHeader": "Dismissal of Foreign Wives"
     },
     {
@@ -304,9 +304,13 @@
       "bookAbbreviation": "Ezra",
       "chapter": 10,
       "verse": 25,
-      "text": "From the people of Israel: From the descendants of Parosh: Ramiah, Izziah, Malchijah, Mijamin, Eliezer, Malchijah, and Benaiah.",
-      "links": "<a href='/AIV/16/7/8'>Neh. 7:8</a>",
-      "comment": "Purification extends to all Israel—prefiguring the spiritual renewal needed for admittance to the eschatological kingdom (Mt. 5:8)."
+      "text": "And of Israel: of the descendants of Parosh: Ramiah, Izziah, Malchijah, Mijamin, Eleazar, Hashabiah, and Benaiah.",
+      "links": [
+        "Ezra 2:3",
+        "Neh 7:8",
+        "Ezra 10:18"
+      ],
+      "comment": "This verse lists members of the Parosh family who had intermarried with foreign women, reflecting the widespread nature of this issue among Israel’s returned exiles (cf. Ezra 9:1–2); their inclusion in the record underscores the communal need for repentance and covenant renewal."
     },
     {
       "pk": 15010026,
@@ -352,9 +356,12 @@
       "bookAbbreviation": "Ezra",
       "chapter": 10,
       "verse": 29,
-      "text": "From the descendants of Bani: Meshullam, Malluch, Adaiah, Jashub, Sheal, and Ramoth.",
-      "links": "<a href='/AIV/16/10/34'>Neh. 10:34</a>",
-      "comment": "The significance of listing names deepens the personal dimension of repentance."
+      "text": "Of the descendants of Bani: Meshullam, Malluch, Adaiah, Jashub, Sheal, and Jeremoth.",
+      "links": [
+        "Ezra 2:10",
+        "Neh 10:14"
+      ],
+      "comment": "Documenting offenders from specific clans reinforces both the seriousness of intermarriage and the inclusivity of the reform process, touching multiple families."
     },
     {
       "pk": 15010030,
@@ -376,9 +383,12 @@
       "bookAbbreviation": "Ezra",
       "chapter": 10,
       "verse": 31,
-      "text": "From the descendants of Harim: Eliezer, Ishijah, Malchijah, Shemaiah, Shimeon, Benjamin, Malluch, and Shemariah.",
-      "links": "<a href='/AIV/16/7/42'>Neh. 7:42</a>",
-      "comment": "The repetition of names and families hints at the persistent tendency of sin and the primacy of ongoing conversion."
+      "text": "Of the descendants of Harim: Eliezer, Isshijah, Malchijah, Shemaiah, Shimeon,",
+      "links": [
+        "Ezra 2:39",
+        "Neh 7:42"
+      ],
+      "comment": "The detailed genealogy demonstrates the extent of compromise within even prominent priestly families, emphasizing the need for holiness among all ranks (cf. Lev. 21:7)."
     },
     {
       "pk": 15010032,
@@ -388,9 +398,12 @@
       "bookAbbreviation": "Ezra",
       "chapter": 10,
       "verse": 32,
-      "text": "From the descendants of Hashum: Mattenai, Mattattah, Zabad, Eliphelet, Jeremai, Manasseh, and Shimei.",
-      "links": "<a href='/AIV/16/7/22'>Neh. 7:22</a>",
-      "comment": "Repentance is systematic and comprehensive, not random or casual, hinting at later forms of spiritual discipline."
+      "text": "Benjamin, Malluch, and Shemariah.",
+      "links": [
+        "Ezra 2:8",
+        "Neh 7:15"
+      ],
+      "comment": "The inclusion of these names shows that the call to covenant faithfulness was not limited to leaders or the majority, but addressed every individual and subgroup."
     },
     {
       "pk": 15010033,
@@ -508,9 +521,12 @@
       "bookAbbreviation": "Ezra",
       "chapter": 10,
       "verse": 42,
-      "text": "From the descendants of Nebo: Jeiel, Mattithiah, Zabad, Zebina, Jaddai, Joel, and Benaiah.",
-      "links": "<a href='/AIV/16/7/17'>Neh. 7:17</a>",
-      "comment": "All the way to the end, restoration and unity are central themes for God’s people."
+      "text": "Azarel, Shelemiah, Shemariah.",
+      "links": [
+        "Ezra 10:21",
+        "Neh 8:4"
+      ],
+      "comment": "This list concludes the roll call of those confronting their compromised status, modeling confession and participation in communal repentance."
     },
     {
       "pk": 15010043,
@@ -520,9 +536,12 @@
       "bookAbbreviation": "Ezra",
       "chapter": 10,
       "verse": 43,
-      "text": "All these had married foreign women, and some of them had children by these wives.",
-      "links": "<a href='/AIV/05/7/3'>Deut. 7:3</a>",
-      "comment": "Sin has lasting consequences—even affecting children and future generations. Restoration oftentimes requires sacrifice and deep commitment, as seen in Christ’s teaching on discipleship (cf. Mt. 19:29)."
+      "text": "Of the descendants of Nebo: Jeiel, Mattithiah, Zabad, Zebina, Jaddai, Joel, and Benaiah.",
+      "links": [
+        "Ezra 2:29",
+        "Neh 7:33"
+      ],
+      "comment": "The descendants of Nebo mentioned here are part of the public confession and reform movement, illustrating that both large and small families participated in acknowledging covenant violations (cf. Nehemiah 10:28); this communal accountability is a key theme in Ezra’s narrative."
     },
     {
       "pk": 15010044,
@@ -532,12 +551,16 @@
       "bookAbbreviation": "Ezra",
       "chapter": 10,
       "verse": 44,
-      "text": "All these men had married foreign women, and some of these women had presented children.",
-      "links": "<a href='/AIV/16/13/23-28'>Neh. 13:23-28</a>",
-      "comment": "The chapter closes with a sober reminder that repentance involves decisive, difficult choices, and that family and community structures are subject to God’s will. The narrative paves the way for understanding both the holiness demanded by God and the possibilities of restoration and reconciliation provided through sacramental means."
+      "text": "All these had married foreign women, and they sent them away with their children.",
+      "links": [
+        "Ezra 9:1-2",
+        "Deut 7:3-4",
+        "Neh 13:23-27"
+      ],
+      "comment": "The sending away of foreign wives and children—though difficult—served to preserve Israel’s spiritual integrity, echoing similar separations in Genesis 21:10 and Nehemiah 13:23-27, and stressing faithfulness to the covenant above personal cost."
     }
   ],
-  "translatedAt": "2025-12-24T04:45:49.214Z",
+  "translatedAt": "2025-12-29T00:33:43.157Z",
   "sections": [
     {
       "title": "Ezra’s Prayer and Confession",

@@ -232,7 +232,11 @@
       "chapter": 11,
       "verse": 19,
       "text": "Every evening Jesus and His disciples would leave the city.",
-      "links": "",
+      "links": [
+        "Luke 21:37",
+        "Matt 21:17",
+        "John 8:1"
+      ],
       "comment": "This detail shows Jesus’ withdrawal, likely for prayer and preparation—a reminder of the value of devotion outside of busy places."
     },
     {
@@ -316,9 +320,13 @@
       "bookAbbreviation": "Mark",
       "chapter": 11,
       "verse": 26,
-      "text": "[But if you do not forgive, neither will your Father in heaven forgive your trespasses.]",
-      "links": "<a href='/AIV/40/6/15'>Matt. 6:15</a>",
-      "comment": "This verse is omitted in some early manuscripts, but reinforces the seriousness of forgiving others—a teaching central to Jesus’ moral instruction."
+      "text": "But if you do not forgive, neither will your Father who is in heaven forgive your trespasses.",
+      "links": [
+        "Matt 6:14",
+        "Matt 18:35",
+        "Luke 6:37"
+      ],
+      "comment": "This verse underscores the reciprocal nature of forgiveness in Jesus' teaching, echoing the Lord's Prayer (Matthew 6:14-15), and reflects the Jewish understanding that forgiveness from God is linked to one's extension of forgiveness to others."
     },
     {
       "pk": 48011027,
@@ -377,7 +385,13 @@
       "bookAbbreviation": "Mark",
       "chapter": 11,
       "verse": 31,
-      "text": "They argued among themselves, 'If we say, "
+      "text": "They argued with one another, \"If we say, 'From heaven,' he will say, 'Why then did you not believe him?'\"",
+      "links": [
+        "Matt 21:25",
+        "Luke 20:5",
+        "John 8:13"
+      ],
+      "comment": "The religious leaders' hesitation to answer Jesus about John's authority reveals their concern for public opinion and exposes their lack of genuine faith, illustrating the consistent biblical theme of truth versus self-preservation (cf. Luke 20:5)."
     },
     {
       "pk": 48011032,
@@ -404,7 +418,7 @@
       "comment": "The exchange reveals the hardness of heart among the religious authorities. Jesus withholds an explicit answer; His deeds and fulfillment of Scripture are themselves His testimony (see Isa. 35:5-6). This passage highlights the importance of spiritual authority handed down and recognized through divine revelation."
     }
   ],
-  "translatedAt": "2025-12-24T10:30:08.264Z",
+  "translatedAt": "2025-12-29T00:34:33.847Z",
   "sections": [
     {
       "title": "The Triumphal Entry into Jerusalem",

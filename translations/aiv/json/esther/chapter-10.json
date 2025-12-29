@@ -3,6 +3,13 @@
   "bookName": "Esther",
   "bookAbbreviation": "Esth",
   "chapter": 10,
+  "sections": [
+    {
+      "title": "The Greatness of Mordecai",
+      "startVerse": 1,
+      "endVerse": 13
+    }
+  ],
   "verses": [
     {
       "pk": 19010001,
@@ -12,9 +19,9 @@
       "bookAbbreviation": "Esth",
       "chapter": 10,
       "verse": 1,
-      "text": "King Xerxes imposed tribute both on the mainland and on the islands of the sea.",
-      "links": "<a href='/AIV/17/1/1'>Esth. 1:1</a>; <a href='/AIV/27/2/37-38'>Dan. 2:37-38</a>",
-      "comment": "This verse emphasizes the extent of King Xerxes’ authority, ruling over a vast domain. The narrative context highlights the power and order established by earthly kings, setting up a contrast with the sovereignty of God (Dan. 2:37-38). The use of 'islands of the sea' references the broadness of his reign, similar to themes in Psalms about God's universal dominion (Ps. 72:8).",
+      "text": "King Ahasuerus laid tribute upon the whole land and upon the islands of the sea.",
+      "links": "<a href='/AIV/17/1/1'>Esth 1:1</a>; <a href='/AIV/15/4/20'>Ezra 4:20</a>",
+      "comment": "This verse summarizes the extent of King Ahasuerus’ rule, which stretched even to distant islands. Tribute shows both the total dominion of the king and the ongoing peace that had been secured—an indirect result of Mordecai’s and Esther’s intercession.",
       "sectionHeader": "The Greatness of Mordecai"
     },
     {
@@ -25,9 +32,9 @@
       "bookAbbreviation": "Esth",
       "chapter": 10,
       "verse": 2,
-      "text": "All the acts of his power and might, as well as the full account of the greatness of Mordecai, whom the king promoted, are they not written in the Book of the Chronicles of the kings of Media and Persia?",
-      "links": "<a href='/AIV/17/2/21-23'>Esth. 2:21-23</a>; <a href='/AIV/16/7/5'>Neh. 7:5</a>",
-      "comment": "This passage highlights the historical recording of great deeds and the honoring of Mordecai, echoing the biblical tradition of preserving memory and honoring virtue (Esth. 2:21-23). The mention of official chronicles suggests the importance of communal remembrance and tradition, pointing toward practices established by the early apostolic community in maintaining a faithful witness and authoritative record (Acts 1:21-26)."
+      "text": "All his acts of power and might, and the full account of Mordecai's advancement, to which the king promoted him, are they not written in the Book of the Chronicles of the kings of Media and Persia?",
+      "links": "<a href='/AIV/17/2/23'>Esth 2:23</a>; <a href='/AIV/11/14/19'>1 Kgs 14:19</a>",
+      "comment": "This echoes how the Jewish people faithfully preserved the deeds of their leaders, similar to other records in Israel's history (<a href='/AIV/11/14/19'>1 Kgs 14:19</a>). It also demonstrates how God’s providence is remembered in historical tradition."
     },
     {
       "pk": 19010003,
@@ -37,17 +44,138 @@
       "bookAbbreviation": "Esth",
       "chapter": 10,
       "verse": 3,
-      "text": "For Mordecai the Jew was second in rank to King Xerxes, and was great among the Jews, well-liked by the multitude of his people, seeking the good of his people and speaking peace to all their descendants.",
-      "links": "<a href='/AIV/17/8/15'>Esth. 8:15</a>; <a href='/AIV/19/122/6-9'>Ps. 122:6-9</a>; <a href='/AIV/40/5/9'>Matt. 5:9</a>",
-      "comment": "Mordecai’s position as advocate and peacemaker for his people mirrors aspects of biblical leadership, foreshadowing the role of Christ as mediator and advocate (Matt. 5:9; 1 Tim. 2:5). There is a spiritual application here, recognizing the significance of intercession for the community, a practice that developed in the early church’s ministry. Mordecai’s pursuit of peace and the common good reflects the scriptural call to seek the welfare of God’s people, a characteristic of authentic leadership and unity in the faith (Ps. 122:6-9)."
+      "text": "For Mordecai the Jew was second in rank to King Ahasuerus, and great among the Jews, and held in high esteem by the multitude of his brethren. He sought the welfare of his people and spoke peace to all his nation.",
+      "links": "<a href='/AIV/41/10/43-44'>Mk 10:43–44</a>; <a href='/AIV/17/8/2'>Esth 8:2</a>",
+      "comment": "Mordecai's promotion to second in the kingdom reflects a unique mediation role, echoing the anticipated peace-bringers of prophecy (<a href='/AIV/23/9/6'>Isa 9:6</a>). The phrase 'spoke peace' indicates that his service to the people was not only administrative but spiritual, foreshadowing Christ who brings true peace. Similarly, the structure of the kingdom and hierarchy resonates with the later Christian understanding of ordered leadership serving the salvation of the people."
+    },
+    {
+      "pk": 19010004,
+      "translation": "AIV",
+      "book": 19,
+      "bookName": "Esther",
+      "bookAbbreviation": "Esth",
+      "chapter": 10,
+      "verse": 4,
+      "text": "Then Mordecai said, 'God has worked these things. I remember the dream that I saw concerning these matters, and not one part of it has failed.'",
+      "links": "<a href='/AIV/17/1/1'>Esth 1:1</a>; <a href='/AIV/17/10/6'>Esth 10:6</a>",
+      "comment": "A reference to prophetic fulfillment and God's sovereignty in the affairs of His people, reminiscent of Joseph’s interpretation of dreams in Egypt (<a href='/AIV/1/41/12'>Gen 41:12</a>). Mordecai recognizes divine providence, highlighting trust in God’s guidance even in exile."
+    },
+    {
+      "pk": 19010005,
+      "translation": "AIV",
+      "book": 19,
+      "bookName": "Esther",
+      "bookAbbreviation": "Esth",
+      "chapter": 10,
+      "verse": 5,
+      "text": "'The little fountain became a river, and there was light, and the sun, and much water. The river is Esther, whom the king married and made queen.'",
+      "links": "<a href='/AIV/17/2/17'>Esth 2:17</a>; <a href='/AIV/43/4/14'>Jn 4:14</a>",
+      "comment": "This symbolic interpretation of the dream is rich with Old Testament and New Testament imagery. The fountain, light, and water are frequent symbols of God’s grace, often used in contexts of renewal and abundant life (<a href='/AIV/43/4/14'>Jn 4:14</a>; <a href='/AIV/23/12/3'>Isa 12:3</a>). Esther as the river points to God working through humble instruments and elevating them for the salvation of His people."
+    },
+    {
+      "pk": 19010006,
+      "translation": "AIV",
+      "book": 19,
+      "bookName": "Esther",
+      "bookAbbreviation": "Esth",
+      "chapter": 10,
+      "verse": 6,
+      "text": "'But the two dragons are I and Haman.'",
+      "links": "<a href='/AIV/17/3/1'>Esth 3:1</a>; <a href='/AIV/17/8/1'>Esth 8:1</a>",
+      "comment": "The 'dragons' refer to Mordecai and Haman, representing the struggle between good and evil, deliverance and destruction (<a href='/AIV/66/12/3-17'>Rev 12:3–17</a>). Vivid imagery like this invites readers to discern spiritual warfare behind earthly events."
+    },
+    {
+      "pk": 19010007,
+      "translation": "AIV",
+      "book": 19,
+      "bookName": "Esther",
+      "bookAbbreviation": "Esth",
+      "chapter": 10,
+      "verse": 7,
+      "text": "'The nations assembled to destroy the name of the Jews, but my people cried to God and were saved.'",
+      "links": "<a href='/AIV/19/34/17'>Ps 34:17</a>; <a href='/AIV/19/124/2-7'>Ps 124:2–7</a>",
+      "comment": "Deliverance through prayer is a foundational biblical theme. The 'name of the Jews' points to the preservation of God’s covenant community, which finds its ultimate fulfillment in the deliverance wrought by Christ for His Church (<a href='/AIV/45/11/26-27'>Rom 11:26–27</a>)."
+    },
+    {
+      "pk": 19010008,
+      "translation": "AIV",
+      "book": 19,
+      "bookName": "Esther",
+      "bookAbbreviation": "Esth",
+      "chapter": 10,
+      "verse": 8,
+      "text": "'For the Lord brought to pass two lots: one for the people of God, and one for all the nations.'",
+      "links": "<a href='/AIV/3/16/8-10'>Lev 16:8–10</a>; <a href='/AIV/17/3/7'>Esth 3:7</a>",
+      "comment": "The 'two lots' echo both the casting of lots for Haman's plot and the Day of Atonement ritual (<a href='/AIV/3/16/8-10'>Lev 16:8–10</a>). This dual destiny underscores God’s justice and mercy, pointing to mystery in how God brings salvation even through apparent chance."
+    },
+    {
+      "pk": 19010009,
+      "translation": "AIV",
+      "book": 19,
+      "bookName": "Esther",
+      "bookAbbreviation": "Esth",
+      "chapter": 10,
+      "verse": 9,
+      "text": "'And these days God remembered His people and rendered justice to His inheritance.'",
+      "links": "<a href='/AIV/19/106/45'>Ps 106:45</a>; <a href='/AIV/42/1/72-75'>Lk 1:72–75</a>",
+      "comment": "Throughout Scripture, God’s act of 'remembering' signifies faithfulness to His promises. The inheritance language also applies spiritually to the Christian community chosen by God to receive His blessing."
+    },
+    {
+      "pk": 19010010,
+      "translation": "AIV",
+      "book": 19,
+      "bookName": "Esther",
+      "bookAbbreviation": "Esth",
+      "chapter": 10,
+      "verse": 10,
+      "text": "'And these days will be observed in the month of Adar, on the fourteenth and fifteenth day of the month, with assembly, joy, and gladness before God, throughout all generations, among His people who are called by His name.'",
+      "links": "<a href='/AIV/17/9/21-22'>Esth 9:21–22</a>; <a href='/AIV/3/23/41'>Lev 23:41</a>",
+      "comment": "The institution of festival days reflects the Hebrew tradition of liturgical celebration and remembrance of God’s saving acts. There is a hint here at the importance of sacred tradition and gathering for worship, ensuring the faith is passed from generation to generation."
+    },
+    {
+      "pk": 19010011,
+      "translation": "AIV",
+      "book": 19,
+      "bookName": "Esther",
+      "bookAbbreviation": "Esth",
+      "chapter": 10,
+      "verse": 11,
+      "text": "In the fourth year of the reign of Ptolemy and Cleopatra, Dositheus—who called himself a priest and Levite, and his son Ptolemy—brought this letter of Purim, saying it was the same that Lysimachus, the son of Ptolemy, had translated in Jerusalem.",
+      "links": "<a href='/AIV/17/9/26'>Esth 9:26</a>; <a href='/AIV/44/8/27-28'>Acts 8:27–28</a>",
+      "comment": "This note on authorship and transmission shows concern for the faithful preservation of sacred texts. The transmission of Scripture through different hands and languages hints at the universal mission and tradition of the People of God."
+    },
+    {
+      "pk": 19010012,
+      "translation": "AIV",
+      "book": 19,
+      "bookName": "Esther",
+      "bookAbbreviation": "Esth",
+      "chapter": 10,
+      "verse": 12,
+      "text": "And God remembered his people and vindicated his inheritance.",
+      "links": [
+        "Ex 2:24",
+        "Ps 106:4",
+        "Jer 31:10"
+      ],
+      "comment": "This verse highlights God's faithfulness—He 'remembered' Israel (cf. Genesis 8:1; Exodus 2:24), acting to vindicate and protect His covenant people, echoing the recurring biblical theme of divine deliverance."
+    },
+    {
+      "pk": 19010013,
+      "translation": "AIV",
+      "book": 19,
+      "bookName": "Esther",
+      "bookAbbreviation": "Esth",
+      "chapter": 10,
+      "verse": 13,
+      "text": "So they will observe these days in the month of Adar, on the fourteenth and fifteenth of that month, with an assembly and joy and gladness before God, from generation to generation forever among his people Israel.",
+      "links": [
+        "Esth 9:21-22",
+        "Lev 23:41",
+        "Ps 100:4"
+      ],
+      "comment": "The annual celebration in Adar refers to Purim (Esther 9:20-22); its observance underscores the importance of communal remembrance and joyful worship, passing God's acts of salvation to each generation (cf. Psalm 145:4)."
     }
   ],
-  "translatedAt": "2025-12-24T05:11:49.704Z",
-  "sections": [
-    {
-      "title": "The Greatness of Mordecai",
-      "startVerse": 1,
-      "endVerse": 3
-    }
-  ]
+  "translatedAt": "2025-12-28T06:57:05.124Z"
 }

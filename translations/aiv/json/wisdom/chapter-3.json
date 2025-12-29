@@ -37,9 +37,13 @@
       "bookAbbreviation": "Wis",
       "chapter": 3,
       "verse": 3,
-      "text": "They are thought to be punished, but their hope is full of immortality.",
-      "links": "<a href='/AIV/43/11/25-26'>Jn 11:25-26</a>; <a href='/AIV/19/16/11'>Ps. 16:11</a>",
-      "comment": "The punishment seen by the world is actually a passage to immortal life. This connects to New Testament revelations of resurrection and eternal life in Christ."
+      "text": "Their departure from us is thought to be their ruin, but they are at peace.",
+      "links": [
+        "Isa 57:2",
+        "Phil 1:23",
+        "1 Thess 4:14"
+      ],
+      "comment": "This verse reframes death from sorrow to peace for the righteous, contrasting external human perception with God's true assessment—similar to Paul’s teaching that 'to live is Christ, and to die is gain' (Philippians 1:21)."
     },
     {
       "pk": 27003004,
@@ -49,9 +53,13 @@
       "bookAbbreviation": "Wis",
       "chapter": 3,
       "verse": 4,
-      "text": "Though, for a little while, they experience discipline, they will receive great blessings, because God tested them and found them worthy.",
-      "links": "<a href='/AIV/58/12/6-7'>Heb 12:6-7</a>; <a href='/AIV/19/119/71'>Ps. 119:71</a>",
-      "comment": "Testing and purification are for the righteous. Note the spiritual tradition of suffering leading to glory—a recurring theme in scripture."
+      "text": "For though in the sight of others they seemed to be punished, their hope was full of immortality.",
+      "links": [
+        "Rom 8:18",
+        "2 Cor 4:17",
+        "John 11:25"
+      ],
+      "comment": "Though others see suffering as punishment, the righteous maintain hope in eternal life, anticipating vindication through God’s faithfulness—a belief echoed in Daniel 12:2 and early Jewish eschatological thought."
     },
     {
       "pk": 27003005,
@@ -61,9 +69,13 @@
       "bookAbbreviation": "Wis",
       "chapter": 3,
       "verse": 5,
-      "text": "Like gold in the furnace, he tested them, and received them as a burnt offering.",
-      "links": "<a href='/AIV/38/13/9'>Zech 13:9</a>; <a href='/AIV/60/1/7'>1 Pet 1:7</a>",
-      "comment": "Testing by fire is a biblical image for spiritual purification. The mention of 'burnt offering' echoes sacrificial themes reminiscent of the saving power in Christ's sacrifice."
+      "text": "After being disciplined a little, they will receive great good, because God tested them and found them worthy of himself.",
+      "links": [
+        "Jas 1:12",
+        "1 Pet 1:6-7",
+        "Rev 2:10"
+      ],
+      "comment": "Short-lived discipline or trials are depicted as the pathway to divine reward, showing God’s testing as a means to reveal and purify genuine faith, akin to 1 Peter 1:6-7."
     },
     {
       "pk": 27003006,
@@ -73,7 +85,7 @@
       "bookAbbreviation": "Wis",
       "chapter": 3,
       "verse": 6,
-      "text": "At the time of their visitation, they will shine, and will run like sparks through the stubble.",
+      "text": "Like gold in the furnace he tested them, and like a sacrificial burnt offering he accepted them.",
       "links": "<a href='/AIV/40/13/43'>Mt 13:43</a>; <a href='/AIV/27/12/3'>Dan 12:3</a>",
       "comment": "The glorification of the righteous is both eschatological and immediate. The imagery of 'visitation' is reminiscent of divine judgment and reward."
     },
@@ -85,7 +97,7 @@
       "bookAbbreviation": "Wis",
       "chapter": 3,
       "verse": 7,
-      "text": "They will judge nations and rule over peoples, and the Lord will reign over them forever.",
+      "text": "In the time of their visitation they will shine forth, and will run like sparks through the stubble.",
       "links": "<a href='/AIV/27/7/22'>Dan 7:22</a>; <a href='/AIV/40/19/28'>Mt 19:28</a>",
       "comment": "Righteous participation in judgment and authority hints at a tradition of the saints' spiritual governance, as found in early Christianity and echoed in New Testament themes."
     },
@@ -97,9 +109,13 @@
       "bookAbbreviation": "Wis",
       "chapter": 3,
       "verse": 8,
-      "text": "Those who trust in him will understand truth, and the faithful will remain in his love, because grace and mercy are with his chosen ones.",
-      "links": "<a href='/AIV/19/25/10'>Ps. 25:10</a>; <a href='/AIV/45/8/28-30'>Rom 8:28-30</a>",
-      "comment": "Grace and mercy are reserved for the chosen, which subtly points toward ideas of election and the necessity of remaining in divine love—a concept central to Christian life."
+      "text": "They will govern nations and rule over peoples, and the Lord will reign over them forever.",
+      "links": [
+        "Dan 7:27",
+        "Matt 19:28",
+        "Rev 20:4"
+      ],
+      "comment": "The righteous are promised a share in eschatological authority, reminiscent of Daniel 7:22 and Matthew 19:28, highlighting the theme of faithful believers reigning with God in the age to come."
     },
     {
       "pk": 27003009,
@@ -109,9 +125,13 @@
       "bookAbbreviation": "Wis",
       "chapter": 3,
       "verse": 9,
-      "text": "But the ungodly will be punished for their reasoning, for they have rejected the righteous and turned away from the Lord.",
-      "links": "<a href='/AIV/19/1/6'>Ps. 1:6</a>; <a href='/AIV/45/1/18-20'>Rom 1:18-20</a>",
-      "comment": "Rejecting the righteous and the Lord leads to punishment, showing the moral seriousness of accepting God's truth.",
+      "text": "Those who trust in him will understand truth, and the faithful will abide with him in love, because grace and mercy are upon his holy ones, and he watches over his elect.",
+      "links": [
+        "Ps 34:22",
+        "John 8:32",
+        "Rom 8:28"
+      ],
+      "comment": "Those trusting in God are granted deep understanding, abounding in divine love, grace, and mercy—a theme resonant with Psalm 25:14 and John 15:15, emphasizing intimacy with God for the faithful.",
       "sectionHeader": "The Punishment of the Ungodly"
     },
     {
@@ -122,7 +142,7 @@
       "bookAbbreviation": "Wis",
       "chapter": 3,
       "verse": 10,
-      "text": "For whoever despises wisdom and instruction is miserable; their hopes are vain, their labors fruitless, and their works useless.",
+      "text": "But the ungodly will be punished as their reasoning deserves, those who disregarded the righteous and rebelled against the Lord;",
       "links": "<a href='/AIV/20/1/7'>Prov 1:7</a>; <a href='/AIV/21/2/11'>Eccl 2:11</a>",
       "comment": "A life lived apart from true wisdom produces emptiness. This echoes Solomon's laments and calls for seeking God's wisdom earnestly."
     },
@@ -134,7 +154,7 @@
       "bookAbbreviation": "Wis",
       "chapter": 3,
       "verse": 11,
-      "text": "Their wives are foolish, their children evil, and their descendants cursed.",
+      "text": "For those who despise wisdom and instruction are miserable. Their hope is vain, their labors are unprofitable, and their works are useless.",
       "links": "<a href='/AIV/58/12/15'>Heb 12:15</a>; <a href='/AIV/24/23/40'>Jer 23:40</a>",
       "comment": "Consequences of rejecting wisdom extend even to family and legacy—a reminder of the deep spiritual impact of one's choices."
     },
@@ -146,7 +166,7 @@
       "bookAbbreviation": "Wis",
       "chapter": 3,
       "verse": 12,
-      "text": "For blessed is the barren woman who remains undefiled, who has not known sin in intercourse; she will have her reward when God examines souls.",
+      "text": "Their wives are foolish, and their children evil;",
       "links": "<a href='/AIV/23/56/3-5'>Isa 56:3-5</a>; <a href='/AIV/40/19/12'>Mt 19:12</a>",
       "comment": "This positive view of virginity and purity points toward the value of consecrated life, hinting at deep spiritual meaning for those who remain chaste.",
       "sectionHeader": "Blessings of the Virtuous and Fate of the Wicked Offspring"
@@ -159,9 +179,13 @@
       "bookAbbreviation": "Wis",
       "chapter": 3,
       "verse": 13,
-      "text": "And blessed is the eunuch whose hands have not committed injustice, and who did not plot wickedness against God; for special favor will be granted to him for his faithfulness.",
-      "links": "<a href='/AIV/40/19/12'>Mt 19:12</a>; <a href='/AIV/44/8/26-39'>Acts 8:26-39</a>",
-      "comment": "This verse affirms spiritual rewards for those who live faithfully, regardless of physical circumstances or social status."
+      "text": "On Childlessness\nBlessed is the barren woman who is undefiled, who has not entered into a sinful union; she will have fruit when God examines souls.",
+      "links": [
+        "Isa 54:1",
+        "Matt 19:12",
+        "Luke 23:29"
+      ],
+      "comment": "Addressing social views on childlessness, this verse reassures that moral integrity is honored above progeny, shifting value from physical descendants to spiritual fruitfulness, echoing Isaiah 56:3-5."
     },
     {
       "pk": 27003014,
@@ -183,9 +207,13 @@
       "bookAbbreviation": "Wis",
       "chapter": 3,
       "verse": 15,
-      "text": "But the children born from unlawful unions will be witness to wickedness at the judgment, and their line will never endure.",
-      "links": "<a href='/AIV/23/1/4'>Isa 1:4</a>; <a href='/AIV/19/37/28'>Ps. 37:28</a>",
-      "comment": "Stress on the consequences of sin not only highlights personal accountability but points to the justice and mercy in God's judgment."
+      "text": "For the fruit of good labors is renowned, and the root of understanding does not fail.",
+      "links": [
+        "Prov 3:13",
+        "Matt 7:17",
+        "Jas 3:17"
+      ],
+      "comment": "Good works and pursuit of wisdom yield lasting recognition, emphasizing that genuine understanding and virtue are enduring, not fleeting—see Proverbs 3:13-18."
     },
     {
       "pk": 27003016,
@@ -219,9 +247,13 @@
       "bookAbbreviation": "Wis",
       "chapter": 3,
       "verse": 18,
-      "text": "For their ends are miserable, and their offspring wicked.",
-      "links": "<a href='/AIV/19/73/17-19'>Ps. 73:17-19</a>; <a href='/AIV/20/11/21'>Prov 11:21</a>",
-      "comment": "The verse completes the warning to the unrighteous, reinforcing the idea that true hope and legitimacy come only from relationship with God."
+      "text": "If they die young, they will have no hope and no consolation on the day of judgment.",
+      "links": [
+        "Prov 11:7",
+        "Luke 12:20",
+        "Matt 25:11-12"
+      ],
+      "comment": "The unrighteous, regardless of youth, face a hopeless and comfortless fate at judgment, warning that security lies not in earthly life but in right relationship with God—compare Luke 16:19-31."
     },
     {
       "pk": 27003019,
@@ -231,12 +263,16 @@
       "bookAbbreviation": "Wis",
       "chapter": 3,
       "verse": 19,
-      "text": "Whatever is born of unlawful union will perish, and it will not prove faithful to the end.",
-      "links": "<a href='/AIV/19/37/38'>Ps. 37:38</a>; <a href='/AIV/23/22/13'>Isa 22:13</a>",
-      "comment": "Unlawful origins lead to destruction—a reminder that fidelity to God's order is the only foundation for lasting hope and security."
+      "text": "For the end of an unrighteous generation is grievous.",
+      "links": [
+        "Ps 1:4-6",
+        "Matt 7:26-27",
+        "Rom 6:23"
+      ],
+      "comment": "The final destiny of the wicked is sorrowful and disastrous, underscoring the severity of divine justice and the ultimate futility of a godless life—see Psalm 1:6."
     }
   ],
-  "translatedAt": "2025-12-24T07:15:24.809Z",
+  "translatedAt": "2025-12-28T23:45:29.028Z",
   "sections": [
     {
       "title": "The Reward of the Righteous",

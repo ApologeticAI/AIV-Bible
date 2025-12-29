@@ -389,7 +389,7 @@
       "verse": 32,
       "text": "And I, when I am lifted up from the earth, will draw all people to Myself.”",
       "links": "<a href='/AIV/43/3/14'>John 3:14</a>; <a href='/AIV/23/52/13'>Isa. 52:13</a>",
-      "comment": "‘Lifted up’ refers to crucifixion but also to exaltation, fulfilling Isaiah’s prophecy. Christ draws all—not some—to Himself, indicating the universality of Jesus’s redemptive work."
+      "comment": "Jesus refers to His crucifixion ('lifted up'), alluding to His death as a means of drawing all nations to Himself, fulfilling the universal scope of His mission (cf. John 3:14; Isaiah 52:13)."
     },
     {
       "pk": 50012033,
@@ -401,7 +401,7 @@
       "verse": 33,
       "text": "He said this to show by what kind of death He was going to die.",
       "links": "<a href='/AIV/43/18/32'>John 18:32</a>",
-      "comment": "The manner of death—crucifixion—follows Roman execution, prophesied by Jesus."
+      "comment": "John clarifies that Jesus' words indicate the manner of His death—crucifixion—a shameful Roman execution that paradoxically becomes the means of salvation (cf. Philippians 2:8; Galatians 3:13)."
     },
     {
       "pk": 50012034,
@@ -473,7 +473,11 @@
       "chapter": 12,
       "verse": 39,
       "text": "Therefore they could not believe. For again, Isaiah said:",
-      "links": "",
+      "links": [
+        "Isa 6:9",
+        "Matt 13:14",
+        "Rom 11:8"
+      ],
       "comment": "Persistent unbelief results in spiritual blindness and judgment, as prophesied in Isaiah."
     },
     {

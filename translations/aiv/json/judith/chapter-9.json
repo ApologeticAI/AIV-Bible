@@ -169,12 +169,16 @@
       "bookAbbreviation": "Jdt",
       "chapter": 9,
       "verse": 14,
-      "text": "\"Let them know that you alone are God, glorious over all the earth.\"",
-      "links": "<a href='/AIV/19/83/18'>Ps. 83:18</a>; <a href='/AIV/23/45/21-22'>Isa. 45:21-22</a>",
-      "comment": "Judith ends her prayer with glorification of the one true God, echoing the Shema (Deuteronomy 6:4). This universal confession points toward the fulfillment in Christ, ‘at the name of Jesus every knee should bow’ (Philippians 2:10-11)."
+      "text": "Let all Israel and every tribe know and understand that you are God, the God of all power and might, and that there is no one who protects Israel but you alone.",
+      "links": [
+        "Deut 4:35",
+        "Isa 43:11",
+        "Ps 62:6"
+      ],
+      "comment": "Judith's prayer affirms monotheism and God's exclusive role as Israel's protector, echoing themes from Deuteronomy 6:4 and Psalm 121:2; this declaration in a time of crisis highlights faith in God's sovereign power over all tribes, reinforcing Israel's covenant identity."
     }
   ],
-  "translatedAt": "2025-12-24T05:04:20.358Z",
+  "translatedAt": "2025-12-28T02:19:48.370Z",
   "sections": [
     {
       "title": "Judith's Prayer for Deliverance",

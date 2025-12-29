@@ -293,9 +293,13 @@
       "bookAbbreviation": "Luke",
       "chapter": 3,
       "verse": 24,
-      "text": "the son of Matthat, the son of Levi, the son of Melchi, the son of Jannai, the son of Joseph,",
-      "links": "",
-      "comment": "Luke’s genealogy traces Jesus’ human ancestry through several generations, showing the fullness of time and God’s providential plan."
+      "text": "son of Matthat, son of Levi, son of Melchi, son of Jannai, son of Joseph,",
+      "links": [
+        "Matt 1:24",
+        "1 Chr 24:6",
+        "Luke 3:29"
+      ],
+      "comment": "This segment is part of Luke’s uniquely traced genealogy of Jesus, emphasizing continuity with post-exilic Jewish history (cf. 1 Chronicles 3:19–24) and Luke’s aim to situate Jesus within real-world family lineage."
     },
     {
       "pk": 49003025,
@@ -305,9 +309,13 @@
       "bookAbbreviation": "Luke",
       "chapter": 3,
       "verse": 25,
-      "text": "the son of Mattathias, the son of Amos, the son of Nahum, the son of Esli, the son of Naggai,",
-      "links": "",
-      "comment": "Each name recalls Israel's heritage and reveals Jesus’ true and full humanity."
+      "text": "son of Mattathias, son of Amos, son of Nahum, son of Esli, son of Naggai,",
+      "links": [
+        "Matt 1:15",
+        "1 Chr 2:41",
+        "Luke 3:26"
+      ],
+      "comment": "These names, many of which are otherwise unknown in the Old Testament, reflect the preservation of family identity during Israel’s period of obscurity between the Testaments, highlighting God’s faithfulness across generations."
     },
     {
       "pk": 49003026,
@@ -317,9 +325,13 @@
       "bookAbbreviation": "Luke",
       "chapter": 3,
       "verse": 26,
-      "text": "the son of Maath, the son of Mattathias, the son of Semein, the son of Eliezer, the son of Josech,",
-      "links": "",
-      "comment": "The inclusion of each generation builds continuity, demonstrating Jesus’ inheritance from David, Abraham, and Adam."
+      "text": "son of Maath, son of Mattathias, son of Semein, son of Josech, son of Joda,",
+      "links": [
+        "Matt 1:15",
+        "Luke 3:25",
+        "1 Chr 2:41"
+      ],
+      "comment": "The repetition of similar names in this section demonstrates common naming practices in Jewish families, while also underlining the importance placed on heritage in affirming Messianic legitimacy."
     },
     {
       "pk": 49003027,
@@ -329,9 +341,13 @@
       "bookAbbreviation": "Luke",
       "chapter": 3,
       "verse": 27,
-      "text": "the son of Jorim, the son of Matthat, the son of Levi,",
-      "links": "",
-      "comment": "This genealogy is structured to highlight key figures and reinforce Jesus’ rightful succession as the Messiah."
+      "text": "son of Joanan, son of Rhesa, son of Zerubbabel, son of Shealtiel, son of Neri,",
+      "links": [
+        "Ezra 3:2",
+        "Matt 1:12",
+        "Hag 1:1"
+      ],
+      "comment": "Zerubbabel and Shealtiel anchor Jesus’ ancestry in the line of David, specifically through the governor who led post-exilic restoration (see Haggai 1:1; Matthew 1:12), highlighting fulfillment of prophetic hope."
     },
     {
       "pk": 49003028,
@@ -341,9 +357,13 @@
       "bookAbbreviation": "Luke",
       "chapter": 3,
       "verse": 28,
-      "text": "the son of Simeon, the son of Eliezer, the son of Josech, the son of Jorim, the son of Matthat,",
-      "links": "",
-      "comment": "Continued emphasis on ancestry reflects deep roots in Jewish history."
+      "text": "son of Melchi, son of Addi, son of Cosam, son of Elmadam, son of Er,",
+      "links": [
+        "Matt 1:13",
+        "Luke 3:24",
+        "1 Chr 3:24"
+      ],
+      "comment": "This group, mostly unrecorded in scripture outside the genealogy, reflects the careful preservation of ancestral tradition necessary in Jewish culture and the theme of God working through ‘hidden’ generations."
     },
     {
       "pk": 49003029,
@@ -353,9 +373,13 @@
       "bookAbbreviation": "Luke",
       "chapter": 3,
       "verse": 29,
-      "text": "the son of Levi, the son of Symeon, the son of Simeon, the son of Josech, the son of Jonan,",
-      "links": "",
-      "comment": "The genealogy intentionally recalls important leaders and patriarchs."
+      "text": "son of Joshua, son of Eliezer, son of Jorim, son of Matthat, son of Levi,",
+      "links": [
+        "Matt 1:14",
+        "Luke 3:24",
+        "1 Chr 6:16"
+      ],
+      "comment": "These names reconnect to earlier Jewish figures, showing the link from post-exilic times back to traditional tribal lines, reinforcing Jesus’ rootedness in Israel’s broad history."
     },
     {
       "pk": 49003030,
@@ -365,9 +389,13 @@
       "bookAbbreviation": "Luke",
       "chapter": 3,
       "verse": 30,
-      "text": "the son of Melchi, the son of Addi, the son of Cosam, the son of Elmadam, the son of Er,",
-      "links": "",
-      "comment": "Even lesser-known ancestors are named, reflecting the fullness of God’s family and His inclusive plan."
+      "text": "son of Simeon, son of Judah, son of Joseph, son of Jonam, son of Eliakim,",
+      "links": [
+        "Matt 1:14",
+        "1 Chr 2:10",
+        "Gen 46:10"
+      ],
+      "comment": "The mention of Levi, Simeon, and Judah recalls tribal leaders among the sons of Jacob, underscoring Jesus’ fulfillment of Israel’s covenantal story (Genesis 49)."
     },
     {
       "pk": 49003031,
@@ -377,9 +405,13 @@
       "bookAbbreviation": "Luke",
       "chapter": 3,
       "verse": 31,
-      "text": "the son of Eliezer, the son of Joshua, the son of Eliezer, the son of Jorim, the son of Matthat,",
-      "links": "",
-      "comment": "Names like Joshua recall God's saving acts in history. Luke meticulously preserves the line."
+      "text": "son of Melea, son of Menna, son of Mattatha, son of Nathan, son of David,",
+      "links": [
+        "Matt 1:6",
+        "2 Sam 5:14",
+        "1 Chr 3:5"
+      ],
+      "comment": "Tracing Jesus’ line through Nathan rather than Solomon (as in Matthew) underscores Luke’s focus on a non-royal, yet Davidic, lineage, stressing universal access and association with God’s covenant promises to David (2 Samuel 7:12–16)."
     },
     {
       "pk": 49003032,
@@ -389,9 +421,13 @@
       "bookAbbreviation": "Luke",
       "chapter": 3,
       "verse": 32,
-      "text": "the son of Melea, the son of Menna, the son of Mattatha, the son of Nathan, the son of David,",
-      "links": "<a href='/AIV/10/5/14'>2 Sam. 5:14</a>; <a href='/AIV/19/89/3-4'>Ps. 89:3-4</a>",
-      "comment": "Luke’s genealogy links Jesus to David through Nathan (not Solomon as in Matthew), emphasizing a broad fulfillment of God's promise to David (see 2 Samuel 7:12-16)."
+      "text": "the son of Jesse, the son of Obed, the son of Boaz, the son of Sala, the son of Nahshon,",
+      "links": [
+        "Ruth 4:17",
+        "1 Chr 2:10-12",
+        "Matt 1:3-6"
+      ],
+      "comment": "Linking Jesus to Jesse, Obed, Boaz, and Nahshon traces his genealogy through well-known ancestors, accentuating God’s providential guidance in Israel’s history (Ruth 4:18–22), and connecting Jesus to both royal and redemptive themes."
     },
     {
       "pk": 49003033,
@@ -401,7 +437,7 @@
       "bookAbbreviation": "Luke",
       "chapter": 3,
       "verse": 33,
-      "text": "the son of Jesse, the son of Obed, the son of Boaz, the son of Sala, the son of Nahshon,",
+      "text": "son of Amminadab, son of Admin, son of Arni, son of Hezron, son of Perez, son of Judah,",
       "links": "<a href='/AIV/8/4/21-22'>Ruth 4:21-22</a>",
       "comment": "References to Jesse, Obed, and Boaz emphasize fulfillment of Messianic prophecies, including those in Ruth. These names highlight God's use of faithful individuals regardless of their origins."
     },
@@ -413,7 +449,7 @@
       "bookAbbreviation": "Luke",
       "chapter": 3,
       "verse": 34,
-      "text": "the son of Amminadab, the son of Admin, the son of Arni, the son of Hezron, the son of Perez, the son of Judah,",
+      "text": "son of Jacob, son of Isaac, son of Abraham, son of Terah, son of Nahor,",
       "links": "<a href='/AIV/1/46/12'>Gen. 46:12</a>",
       "comment": "Judah’s mention underscores Jesus as the Lion of Judah, a reference to Genesis 49:10—the scepter of kingship."
     },
@@ -425,7 +461,7 @@
       "bookAbbreviation": "Luke",
       "chapter": 3,
       "verse": 35,
-      "text": "the son of Jacob, the son of Isaac, the son of Abraham, the son of Terah, the son of Nahor,",
+      "text": "son of Serug, son of Reu, son of Peleg, son of Eber, son of Shelah,",
       "links": "<a href='/AIV/1/11/26'>Gen. 11:26</a>; <a href='/AIV/1/21/3'>Gen. 21:3</a>",
       "comment": "Tracing Jesus’ line to Abraham fulfills God’s promise that all nations would be blessed through his seed (Genesis 12:3)."
     },
@@ -466,7 +502,7 @@
       "comment": "Luke ends the genealogy with Adam, 'the son of God.' This emphasizes Jesus’ universal mission—He is not only Israel’s Messiah but the Savior of all humanity. As the new Adam, Jesus inaugurates a new creation and undoes the effects of the fall (see Rom. 5:12-21; 1 Cor. 15:22)."
     }
   ],
-  "translatedAt": "2025-12-24T10:38:27.543Z",
+  "translatedAt": "2025-12-29T00:34:12.594Z",
   "sections": [
     {
       "title": "The Preaching of John the Baptist",

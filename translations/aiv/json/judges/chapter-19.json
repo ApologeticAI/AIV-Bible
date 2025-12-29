@@ -26,7 +26,11 @@
       "chapter": 19,
       "verse": 2,
       "text": "But his concubine was unfaithful to him. She left him and returned to her father's house at Bethlehem in Judah, and stayed there for four months.",
-      "links": "",
+      "links": [
+        "Judg 8:31",
+        "Gen 16:4",
+        "Hos 3:1"
+      ],
       "comment": "The meaning of 'unfaithful' (Hebrew: zanah) can refer to marital unfaithfulness or simply leaving him. The narrative captures both brokenness in personal relationships and hints of Israel’s own spiritual unfaithfulness—see <a href='/AIV/28/1/2'>Hosea 1:2</a>."
     },
     {
@@ -50,7 +54,11 @@
       "chapter": 19,
       "verse": 4,
       "text": "His father-in-law, the woman's father, made him stay. He remained with him three days, eating and drinking and spending the nights there.",
-      "links": "",
+      "links": [
+        "Gen 24:54",
+        "Gen 29:14",
+        "Judg 14:10"
+      ],
       "comment": "The pattern of hospitality and shared meals expresses both social courtesy and a slow, ritualized process of reconciliation. Sharing food together signifies restoration of relationship."
     },
     {
@@ -74,7 +82,11 @@
       "chapter": 19,
       "verse": 6,
       "text": "So the two of them sat down and ate and drank together. Then the woman's father said to the man, 'Please, agree to stay the night and let your heart be merry.'",
-      "links": "",
+      "links": [
+        "Gen 19:3",
+        "Judg 16:25",
+        "Ps 104:15"
+      ],
       "comment": "'Let your heart be merry' sometimes implies more than just eating—a reference to deeper fellowship or rest. Note that the father presses for lingering instead of restoring justice."
     },
     {
@@ -86,7 +98,10 @@
       "chapter": 19,
       "verse": 7,
       "text": "So the man got up to go, but his father-in-law urged him, so he stayed and spent another night there.",
-      "links": "",
+      "links": [
+        "Gen 32:26",
+        "Luke 24:29"
+      ],
       "comment": "The repeated delay heightens the suspense and reflects the ancient importance of hospitality (see also <a href='/AIV/1/19/1-3'>Gen. 19:1-3</a>)."
     },
     {
@@ -98,7 +113,10 @@
       "chapter": 19,
       "verse": 8,
       "text": "On the fifth day, he got up early in the morning to leave, but the woman's father said, 'Please, refresh yourself and wait until afternoon!' So they ate together.",
-      "links": "",
+      "links": [
+        "Gen 24:55",
+        "Judg 19:5"
+      ],
       "comment": "The hospitality of the father-in-law, while well-intentioned, causes delay; it places the travelers at risk by sending them out late in the day."
     },
     {
@@ -110,7 +128,11 @@
       "chapter": 19,
       "verse": 9,
       "text": "When the man got up to go, with his concubine and servant, his father-in-law, the woman's father, said, 'Look, the day is now drawing to a close. Please stay another night. See, the day is ending. Stay and let your heart be merry. Tomorrow you can get up early for your journey and go home.'",
-      "links": "",
+      "links": [
+        "Judg 19:7",
+        "Gen 19:2",
+        "Acts 28:14"
+      ],
       "comment": "Departure late in the day foreshadows danger, as ancient travel by night was risky and strongly discouraged (cf. <a href='/AIV/1/19/2'>Gen. 19:2</a>)."
     },
     {
@@ -134,7 +156,10 @@
       "chapter": 19,
       "verse": 11,
       "text": "When they were near Jebus, and the day was nearly gone, the servant said to his master, 'Come, let us turn aside into this city of the Jebusites and spend the night there.'",
-      "links": "",
+      "links": [
+        "Josh 18:28",
+        "2 Sam 5:6"
+      ],
       "comment": "The servant's proposal emphasizes the lack of safe, welcoming cities among Israel herself at this point, recalling Abraham’s hospitality to strangers (Gen. 18:1-8)."
     },
     {
@@ -146,7 +171,11 @@
       "chapter": 19,
       "verse": 12,
       "text": "But his master replied, 'We will not turn aside into a city of foreigners, who are not of the people of Israel. We will continue on to Gibeah.'",
-      "links": "",
+      "links": [
+        "Deut 7:2",
+        "Josh 23:7",
+        "2 Kgs 17:33"
+      ],
       "comment": "The Levite wants to trust his own kinsmen rather than dwell among 'foreigners', an implicit expectation that God’s people are expected to show higher moral standards and hospitality."
     },
     {
@@ -170,7 +199,10 @@
       "chapter": 19,
       "verse": 14,
       "text": "So they went on, and as the sun went down, they reached Gibeah belonging to Benjamin.",
-      "links": "",
+      "links": [
+        "Judg 20:4",
+        "Josh 18:28"
+      ],
       "comment": "The narrative heightens tension: as night falls, travelers are most vulnerable. The text expects the Benjaminites to offer refuge."
     },
     {
@@ -195,7 +227,11 @@
       "chapter": 19,
       "verse": 16,
       "text": "In the evening, an old man came in from his work in the fields. He was from the hill country of Ephraim, but was staying in Gibeah. The people of the place were Benjaminites.",
-      "links": "",
+      "links": [
+        "Judg 17:7",
+        "Gen 19:1",
+        "Judg 19:22"
+      ],
       "comment": "The old man is himself an outsider, as the Levite is, highlighting that compassion is not found among Benjaminites but only in a sojourner."
     },
     {
@@ -207,7 +243,10 @@
       "chapter": 19,
       "verse": 17,
       "text": "When the old man looked up and saw the traveler in the city square, he said, 'Where are you going, and where do you come from?'",
-      "links": "",
+      "links": [
+        "Gen 24:23",
+        "Gen 29:4"
+      ],
       "comment": "The question is one of hospitality and care, parallel to similar inquiries by Abraham in Gen. 18."
     },
     {
@@ -218,9 +257,12 @@
       "bookAbbreviation": "Judg",
       "chapter": 19,
       "verse": 18,
-      "text": "The Levite replied, 'We are traveling from Bethlehem in Judah to the remote hill country of Ephraim, where I am from. I went to Bethlehem in Judah, and now I am going to the House of the Lord, but no one has taken us in for the night.'",
-      "links": "<a href='/AIV/9/1/3'>1 Sam. 1:3</a>",
-      "comment": "'The House of the Lord' could refer to Shiloh, the site of the tabernacle at the time (1 Sam. 1:3). The man points out the shameful failure of hospitality among God’s people."
+      "text": "The Levite replied, 'We are traveling from Bethlehem in Judah to the remote hill country of Ephraim, where I am from. I went to Bethlehem in Judah, and now I am going to my home, but no one has taken us in for the night.'",
+      "links": [
+        "Judg 17:8",
+        "Luke 10:34-35"
+      ],
+      "comment": "The Levite’s statement highlights the breakdown of hospitality in Israel, a crucial social and moral expectation (cf. Genesis 18:1-8), echoing the spiritual and social disorder prevalent during the era of the judges."
     },
     {
       "pk": 7019019,
@@ -231,7 +273,11 @@
       "chapter": 19,
       "verse": 19,
       "text": "'We have straw and feed for our donkeys, and bread and wine for myself, your servant, the young woman, and the young man with your servants. We have no lack of anything.'",
-      "links": "",
+      "links": [
+        "Gen 24:25",
+        "Gen 43:24",
+        "Luke 10:34"
+      ],
       "comment": "The Levite is not seeking charity, just shelter—further highlighting the inhospitality of the town."
     },
     {
@@ -243,7 +289,11 @@
       "chapter": 19,
       "verse": 20,
       "text": "The old man said, 'You are welcome to stay with me; I will take care of all your needs. Just do not spend the night in the square.'",
-      "links": "",
+      "links": [
+        "Gen 19:2",
+        "Heb 13:2",
+        "Rom 12:13"
+      ],
       "comment": "The warning implies the square is dangerous at night, portending the evil about to unfold."
     },
     {
@@ -280,7 +330,11 @@
       "chapter": 19,
       "verse": 23,
       "text": "The owner of the house went outside and said to them, 'No, my brothers, do not do this evil thing, since this man has come into my house. Do not do this disgraceful act.'",
-      "links": "",
+      "links": [
+        "Gen 19:6-7",
+        "Judg 19:30",
+        "Deut 13:17"
+      ],
       "comment": "Hospitality in the ancient world demanded protection even at great personal cost. The owner’s protest underlines the sanctity of hospitality and the unnaturalness of the intended act."
     },
     {
@@ -304,7 +358,11 @@
       "chapter": 19,
       "verse": 25,
       "text": "But the men would not listen to him. So the Levite seized his concubine and sent her outside to them. They raped her and abused her all night until morning. At dawn, they let her go.",
-      "links": "",
+      "links": [
+        "Gen 34:2",
+        "2 Sam 13:14",
+        "Hos 9:9"
+      ],
       "comment": "This horrific event is a direct result of Israel’s moral collapse, reinforcing the book’s theme that 'everyone did what was right in his own eyes.' (Judg. 21:25)"
     },
     {
@@ -316,7 +374,10 @@
       "chapter": 19,
       "verse": 26,
       "text": "At daybreak the woman came and fell down at the door of the house where her master was, until it was light.",
-      "links": "",
+      "links": [
+        "Judg 19:27",
+        "Luke 22:61"
+      ],
       "comment": "This verse powerfully broadcasts the devastation and abandonment sin brings. It calls us to intercede for the defenseless and to pursue justice for the afflicted, foreshadowing Christ’s concern for the least (Matt. 25:40)."
     },
     {
@@ -328,7 +389,10 @@
       "chapter": 19,
       "verse": 27,
       "text": "Her master got up in the morning, opened the doors of the house, and went out to continue his journey. There lay his concubine, collapsed at the entrance of the house, with her hands on the threshold.",
-      "links": "",
+      "links": [
+        "Judg 19:26",
+        "Mark 16:2"
+      ],
       "comment": "The indifference of the Levite stands in contrast to what God requires of shepherds—to care for the vulnerable. The woman's hands on the threshold accentuate tragedy and the sacred trust broken."
     },
     {
@@ -340,7 +404,10 @@
       "chapter": 19,
       "verse": 28,
       "text": "He said to her, 'Get up, let us go.' But there was no answer. So he put her on the donkey, and set out for home.",
-      "links": "",
+      "links": [
+        "2 Kgs 4:31",
+        "Luke 8:54-55"
+      ],
       "comment": "The silence of the concubine is deafening—her death brings judgment on Benjamin, just as Abel’s blood cried out to God (Genesis 4:10)."
     },
     {
@@ -351,9 +418,13 @@
       "bookAbbreviation": "Judg",
       "chapter": 19,
       "verse": 29,
-      "text": "When he reached his house, he took a knife and, taking hold of his concubine, cut her corpse limb by limb into twelve parts, and sent them throughout the territory of Israel.",
-      "links": "<a href='/AIV/1/49/28'>Gen. 49:28</a>; <a href='/AIV/9/11/7'>1 Sam. 11:7</a>",
-      "comment": "Dismembering the body and sending it to the tribes is a call for national repentance, paralleling covenant symbolism (twelve tribes, Gen. 49:28; cf. 1 Sam. 11:7). From a spiritual perspective, this also anticipates the need for a unified shepherd who will gather and heal the scattered body.",
+      "text": "When he reached his house, he took a knife, and grasping his concubine, he cut her limb by limb into twelve pieces, and sent them throughout all the territory of Israel.",
+      "links": [
+        "1 Sam 11:7",
+        "Judg 20:6",
+        "Judg 20:8"
+      ],
+      "comment": "The grisly act of dismembering his concubine and sending her parts to all the tribes dramatically calls Israel to account, paralleling Saul’s similar summons in 1 Samuel 11:7, and underscores the depth of moral crisis and the need for national repentance.",
       "sectionHeader": "The Dissection of the Concubine"
     },
     {
@@ -369,7 +440,7 @@
       "comment": "The horror and outrage demands a national response, insisting that all Israel is corporately responsible for justice and holiness (see Deut. 13:12-18). This text can prompt reflection on the necessity of a unified, rightly-ordered leadership, and foreshadows God's future plan to provide a shepherd-king for His people who will both rule and heal (see Ezek. 34:23-24; John 10:11)."
     }
   ],
-  "translatedAt": "2025-12-24T02:41:46.032Z",
+  "translatedAt": "2025-12-25T14:38:08.253Z",
   "sections": [
     {
       "title": "The Levite and His Concubine",

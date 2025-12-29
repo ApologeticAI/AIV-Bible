@@ -26,7 +26,11 @@
       "chapter": 20,
       "verse": 2,
       "text": "\"My thoughts urge me to reply because of my inward restlessness.",
-      "links": "",
+      "links": [
+        "Jer 20:9",
+        "Ps 39:3",
+        "Eccl 1:18"
+      ],
       "comment": "Zophar feels compelled to respond, showing the intense emotions stirred by Job's previous speeches."
     },
     {
@@ -147,7 +151,11 @@
       "chapter": 20,
       "verse": 12,
       "text": "Though evil is sweet in his mouth, though he hides it under his tongue,",
-      "links": "",
+      "links": [
+        "Prov 9:17",
+        "Prov 20:17",
+        "Ps 52:3"
+      ],
       "comment": "The wicked savor sin temporarily, suggesting a self-deceptive delight.",
       "sectionHeader": "The Inevitable Ruin of the Godless"
     },
@@ -160,7 +168,11 @@
       "chapter": 20,
       "verse": 13,
       "text": "though he cherishes it and holds it close, unwilling to let it go,",
-      "links": "",
+      "links": [
+        "Prov 4:16",
+        "Isa 32:6",
+        "Ps 66:18"
+      ],
       "comment": "The persistence in sin highlights free will and attachment of the soul to evil—a theme developed in later scripture."
     },
     {
@@ -220,7 +232,11 @@
       "chapter": 20,
       "verse": 18,
       "text": "He must return what he labored for and cannot enjoy it; he does not savor the profits from his trading.",
-      "links": "",
+      "links": [
+        "Prov 1:19",
+        "Eccl 5:11",
+        "Hab 2:6"
+      ],
       "comment": "Lost rewards and the inability to enjoy earthly gains reflect deeper consequences, pointing toward judgment and redemption."
     },
     {
@@ -305,7 +321,11 @@
       "chapter": 20,
       "verse": 25,
       "text": "It is drawn and comes out of his body, the gleaming point coming out of his gall; terrors come upon him.",
-      "links": "",
+      "links": [
+        "Ps 7:12-13",
+        "Deut 32:42",
+        "Rev 19:15"
+      ],
       "comment": "A vivid scene of inevitable suffering and the piercing effects of sin, anticipating later biblical discussions on the consequences of evil."
     },
     {

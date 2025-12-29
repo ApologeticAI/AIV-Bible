@@ -50,7 +50,11 @@
       "chapter": 3,
       "verse": 4,
       "text": "Nicodemus said to Him, \"How can a man be born when he is old? Can he enter his mother’s womb a second time and be born?\"",
-      "links": "",
+      "links": [
+        "John 3:10",
+        "John 6:52",
+        "1 Cor 2:14"
+      ],
       "comment": "Nicodemus misunderstands Jesus’ words in a literal sense, highlighting the radical nature of Jesus’ teaching on spiritual rebirth."
     },
     {
@@ -86,7 +90,11 @@
       "chapter": 3,
       "verse": 7,
       "text": "Do not marvel that I said to you, ‘You must be born again.’",
-      "links": "",
+      "links": [
+        "Ezek 36:26",
+        "2 Cor 5:17",
+        "1 Pet 1:23"
+      ],
       "comment": "Jesus emphasizes the necessity for all, even a learned teacher like Nicodemus, to experience this new birth."
     },
     {
@@ -110,7 +118,11 @@
       "chapter": 3,
       "verse": 9,
       "text": "Nicodemus answered Him, \"How can these things be?\"",
-      "links": "",
+      "links": [
+        "John 3:10",
+        "Matt 15:16",
+        "Mark 9:10"
+      ],
       "comment": "Nicodemus still struggles to understand. Throughout this gospel, misunderstanding often precedes deeper insight."
     },
     {
@@ -146,7 +158,11 @@
       "chapter": 3,
       "verse": 12,
       "text": "If I have told you earthly things and you do not believe, how will you believe if I tell you heavenly things?",
-      "links": "",
+      "links": [
+        "John 16:12",
+        "1 Cor 2:9",
+        "Heb 5:12"
+      ],
       "comment": "Failure to grasp foundational spiritual truths prevents deeper understanding of divine mysteries—echoing Jesus’ use of parables for those not receptive, as in <a href='/AIV/40/13/13'>Matt. 13:13</a>."
     },
     {
@@ -171,7 +187,7 @@
       "verse": 14,
       "text": "And just as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up,",
       "links": "<a href='/AIV/4/21/9'>Num. 21:9</a>; <a href='/AIV/43/8/28'>John 8:28</a>",
-      "comment": "Jesus draws a parallel between the bronze serpent and His own crucifixion. Looking upon Him in faith brings healing and salvation—a foreshadowing of the cross."
+      "comment": "Jesus compares His upcoming crucifixion to Moses raising the bronze serpent (Numbers 21:8-9); just as the Israelites looked to the serpent for physical healing, so people must look to the 'lifted up' Son of Man for spiritual salvation, emphasizing the necessity and universality of His sacrificial death (cf. John 12:32)."
     },
     {
       "pk": 50003015,
@@ -232,7 +248,7 @@
       "verse": 19,
       "text": "This is the judgment: the light has come into the world, and people loved the darkness rather than the light, because their deeds were evil.",
       "links": "<a href='/AIV/43/1/9'>John 1:9-11</a>",
-      "comment": "Jesus is the true Light, but humanity’s fallen nature resists Him. Acceptance or rejection of the Light is a moral issue with eternal consequences."
+      "comment": "Echoing John 1:4-9, this verse diagnoses humanity's moral condition: though Jesus, the light, has entered the world, people often choose sin over righteousness, revealing the persistent human tendency to resist divine truth."
     },
     {
       "pk": 50003020,
@@ -280,7 +296,11 @@
       "chapter": 3,
       "verse": 23,
       "text": "John also was baptizing at Aenon near Salim, because water was plentiful there, and people were coming and being baptized.",
-      "links": "",
+      "links": [
+        "Matt 3:5-6",
+        "Mark 1:4-5",
+        "John 1:28"
+      ],
       "comment": "John the Baptist’s ministry overlaps with Jesus’ early ministry but soon gives way to Jesus’ preeminence. The emphasis on water points to the physical means of spiritual cleansing."
     },
     {
@@ -364,7 +384,11 @@
       "chapter": 3,
       "verse": 30,
       "text": "He must increase, but I must decrease.",
-      "links": "",
+      "links": [
+        "Phil 1:21",
+        "2 Cor 4:5",
+        "Gal 2:20"
+      ],
       "comment": "A model of humility and true discipleship. The movement from John to Jesus is a transition from preparation to fulfillment."
     },
     {

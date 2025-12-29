@@ -12,9 +12,13 @@
       "bookAbbreviation": "Bar",
       "chapter": 6,
       "verse": 1,
-      "text": "Now, because of the sins you have committed before God, you will be taken captive to Babylon by Nebuchadnezzar king of Babylon.",
-      "links": "<a href='/AIV/24/29/4'>Jer. 29:4</a>",
-      "comment": "The verse sets the historical scene of the exile, demonstrating the consequences of Israel's disobedience. Babylonian captivity is a common biblical theme, relating to God's disciplinary justice.",
+      "text": "A copy of the letter which Jeremiah sent to those who were to be taken captive to Babylon by Nebuchadnezzar, king of Babylon, as commanded by God.",
+      "links": [
+        "Jer 29:1",
+        "2 Chr 36:20",
+        "Dan 1:1"
+      ],
+      "comment": "This introduction frames the text as Jeremiah’s letter to Babylonian exiles, paralleling Jeremiah 29, thus grounding Baruch 6 (the 'Epistle of Jeremiah') within the context of Israel’s Babylonian captivity by divine decree.",
       "sectionHeader": "The Exile and Promise of Return"
     },
     {
@@ -25,9 +29,13 @@
       "bookAbbreviation": "Bar",
       "chapter": 6,
       "verse": 2,
-      "text": "You will stay there for many years, as long as seven generations; after that, I shall bring you back in peace.",
-      "links": "<a href='/AIV/26/4/5'>Ezek. 4:5</a>; <a href='/AIV/24/25/12'>Jer. 25:12</a>",
-      "comment": "Promises restoration after exile—a pattern in Scripture, prefiguring Christ’s ultimate redemption. The 'seven generations' recalls the biblical symbolism of fullness and completion."
+      "text": "Because of the sins that you have committed before God, you will be led away captive to Babylon by Nebuchadnezzar, king of Babylon.",
+      "links": [
+        "Jer 25:8-11",
+        "Jer 27:6",
+        "2 Kgs 24:14"
+      ],
+      "comment": "The deportation to Babylon is directly attributed to Israel’s sin, reflecting a recurring theme in the prophets—exile as divine judgment (cf. 2 Kings 24:10-16; Jer 25:8-11)."
     },
     {
       "pk": 32006003,
@@ -37,9 +45,13 @@
       "bookAbbreviation": "Bar",
       "chapter": 6,
       "verse": 3,
-      "text": "Now in Babylon you will see gods of silver, gold, wood carried about on shoulders, causing fear to the nations.",
-      "links": "<a href='/AIV/19/115/4-7'>Ps. 115:4-7</a>; <a href='/AIV/23/44/9-20'>Isa. 44:9-20</a>",
-      "comment": "Describes idolatry among the Gentiles; recalls other texts on the foolishness of idol worship. Highlights the contrast between the living God and lifeless images.",
+      "text": "You will remain there for many years, for a long time, up to seven generations; but after that I will bring you back from there in peace.",
+      "links": [
+        "Jer 29:10",
+        "Dan 9:2",
+        "Isa 44:28"
+      ],
+      "comment": "The prediction of a lengthy exile—‘up to seven generations’—underscores God’s sovereignty over history and offers hope for restoration, resonating with Jeremiah’s promise of return after seventy years (Jer 29:10).",
       "sectionHeader": "The Futility of Idols"
     },
     {
@@ -50,9 +62,13 @@
       "bookAbbreviation": "Bar",
       "chapter": 6,
       "verse": 4,
-      "text": "Beware, so that you do not become like these foreigners, nor let fear of them grip you.",
-      "links": "<a href='/AIV/05/12/30'>Deut. 12:30</a>; <a href='/AIV/45/12/2'>Rom. 12:2</a>",
-      "comment": "Warning against adopting pagan customs during exile; compares to Paul’s exhortation to avoid conforming to the world (Romans 12:2)."
+      "text": "Now in Babylon you will see gods made of silver and gold and wood, which people carry on their shoulders, and which cause the nations to fear.",
+      "links": [
+        "Jer 10:3-5",
+        "Ps 115:4-8",
+        "Isa 44:9-20"
+      ],
+      "comment": "Baruch warns of Babylonian idols—crafted images venerated by the nations—preparing the exiles for the challenge of remaining faithful amidst pervasive idolatry, echoing polemics in Isaiah 44:9-20 and Psalm 115:4-8."
     },
     {
       "pk": 32006005,
@@ -62,7 +78,7 @@
       "bookAbbreviation": "Bar",
       "chapter": 6,
       "verse": 5,
-      "text": "When you see crowds worshiping before them, saying, 'O king and lord,' do not join them.",
+      "text": "So beware of becoming at all like the foreigners or of letting fear for these gods possess you.",
       "links": "<a href='/AIV/25/3/40'>Lam. 3:40</a>; <a href='/AIV/19/96/5'>Ps. 96:5</a>",
       "comment": "Highlights the false honor given to idols. True worship is reserved for God alone (Psalm 96:5)."
     },
@@ -74,9 +90,13 @@
       "bookAbbreviation": "Bar",
       "chapter": 6,
       "verse": 6,
-      "text": "For their gods are images crafted by men—wood overlaid with silver and gold.",
-      "links": "<a href='/AIV/23/46/6'>Isa. 46:6</a>",
-      "comment": "Parallels Isaiah’s description of idols as man-made objects, unworthy of worship."
+      "text": "When you see the crowd before and behind them worshiping them, say in your hearts, 'It is you, O Lord, whom we must worship.'",
+      "links": [
+        "Ex 20:3",
+        "Deut 6:4-5",
+        "Matt 4:10"
+      ],
+      "comment": "Israel is exhorted to worship God alone inwardly despite external pressure, highlighting the theme of inner fidelity and recalling the Shema (Deut 6:4-5) and Daniel’s resistance in exile (Dan 3, 6)."
     },
     {
       "pk": 32006007,
@@ -86,9 +106,13 @@
       "bookAbbreviation": "Bar",
       "chapter": 6,
       "verse": 7,
-      "text": "Their workers even dust off their faces because much dust settles upon them.",
-      "links": "<a href='/AIV/19/115/7'>Ps. 115:7</a>",
-      "comment": "Indicates the utter helplessness and lifelessness of idols. The care given is for appearance, not reality."
+      "text": "For my angel is with you, and he is watching over your lives.",
+      "links": [
+        "Ps 34:7",
+        "Dan 3:28",
+        "Heb 1:14"
+      ],
+      "comment": "God’s assurance of angelic protection for the exiles reflects a persistent biblical motif (cf. Dan 3:28; Psalm 91:11), emphasizing divine presence and care in foreign lands."
     },
     {
       "pk": 32006008,
@@ -98,7 +122,7 @@
       "bookAbbreviation": "Bar",
       "chapter": 6,
       "verse": 8,
-      "text": "They have scepters like rulers, yet are incapable of punishing anyone.",
+      "text": "Their tongues are smoothed by the carpenter, and they themselves are overlaid with gold and silver; but they are false and cannot speak.",
       "links": "<a href='/AIV/19/135/15-17'>Ps. 135:15-17</a>",
       "comment": "Scepters symbolize authority, but the idols lack any true power. Points to the impotence of man-made ‘gods’."
     },
@@ -110,7 +134,7 @@
       "bookAbbreviation": "Bar",
       "chapter": 6,
       "verse": 9,
-      "text": "They have swords at their sides, but cannot defend themselves from thieves.",
+      "text": "People take gold and make crowns for the heads of their gods, as they might for a girl who loves ornaments.",
       "links": "<a href='/AIV/23/44/16'>Isa. 44:16</a>",
       "comment": "Idols are powerless even to protect themselves; only God is a true defense."
     },
@@ -122,7 +146,7 @@
       "bookAbbreviation": "Bar",
       "chapter": 6,
       "verse": 10,
-      "text": "If their faces are rubbed black by smoke in the temple, their priests restore them without thinking.",
+      "text": "Sometimes the priests secretly take gold and silver from their gods and spend it on themselves,",
       "links": "<a href='/AIV/19/135/16'>Ps. 135:16</a>",
       "comment": "Shows the maintenance devoted to idols contrasts with the living God’s self-sufficiency."
     },
@@ -134,7 +158,7 @@
       "bookAbbreviation": "Bar",
       "chapter": 6,
       "verse": 11,
-      "text": "Even if someone removes it, unable to move on its own, it cannot help itself.",
+      "text": "or even give some of it to the prostitutes on the terrace. They deck their gods out with garments like human beings—these gods of silver and gold and wood",
       "links": "<a href='/AIV/23/44/12-20'>Isa. 44:12-20</a>",
       "comment": "Underscores idols’ complete dependency upon humans, affirming the uniqueness of the living God."
     },
@@ -146,7 +170,7 @@
       "bookAbbreviation": "Bar",
       "chapter": 6,
       "verse": 12,
-      "text": "Gifts are offered to them as to the dead, and their priests sell their leftovers and dress up their widows.",
+      "text": "that cannot save themselves from rust and corrosion. When they have been dressed in purple robes,",
       "links": "<a href='/AIV/19/106/28'>Ps. 106:28</a>; <a href='/AIV/23/8/19'>Isa. 8:19</a>",
       "comment": "Relates idol worship to necromancy, the worship of the dead. Emphasizes spiritual lifelessness."
     },
@@ -158,7 +182,7 @@
       "bookAbbreviation": "Bar",
       "chapter": 6,
       "verse": 13,
-      "text": "Even their priests strip the clothes from the idols and put them on their wives or children.",
+      "text": "their faces are wiped because of the dust from the temple, which is thick upon them.",
       "links": "<a href='/AIV/19/106/38'>Ps. 106:38</a>",
       "comment": "Shows how idols’ possessions are reused—no sanctity is recognized, unlike true worship reserved for God."
     },
@@ -170,7 +194,7 @@
       "bookAbbreviation": "Bar",
       "chapter": 6,
       "verse": 14,
-      "text": "They surround them with purple robes, but must wipe off the idols’ faces due to dust.",
+      "text": "One of them holds a scepter, like a district judge, but is unable to destroy anyone who offends it.",
       "links": "<a href='/AIV/19/115/4-8'>Ps. 115:4-8</a>",
       "comment": "Purple symbolizes royalty, yet the idols remain powerless. Contrasts with Christ’s true kingly authority."
     },
@@ -182,7 +206,7 @@
       "bookAbbreviation": "Bar",
       "chapter": 6,
       "verse": 15,
-      "text": "So people treat meaningless images with great care;",
+      "text": "Another has a dagger in its right hand, and an ax, but cannot defend itself from war and robbers.",
       "links": "<a href='/AIV/19/135/15-17'>Ps. 135:15-17</a>",
       "comment": "Stresses the irony of reverence for powerless idols; points to the need for worship of the true God."
     },
@@ -194,7 +218,7 @@
       "bookAbbreviation": "Bar",
       "chapter": 6,
       "verse": 16,
-      "text": "But even if they set one upright, it cannot stand if someone pushes it over.",
+      "text": "From this it is evident that they are not gods; so do not fear them.",
       "links": "<a href='/AIV/23/44/17'>Isa. 44:17</a>",
       "comment": "The fragility of idols highlights their impotence; points to God’s eternal stability."
     },
@@ -206,7 +230,7 @@
       "bookAbbreviation": "Bar",
       "chapter": 6,
       "verse": 17,
-      "text": "They have no breath within them; they must be carried, for they cannot walk.",
+      "text": "For just as someone's dish is useless when it is broken,",
       "links": "<a href='/AIV/19/115/7'>Ps. 115:7</a>; <a href='/AIV/19/135/17'>Ps. 135:17</a>",
       "comment": "Alludes to God as the giver of breath and life, which Christ also restores in His resurrection (cf. John 20:22)."
     },
@@ -218,7 +242,7 @@
       "bookAbbreviation": "Bar",
       "chapter": 6,
       "verse": 18,
-      "text": "People fear them because they cannot speak or defend themselves.",
+      "text": "so are their gods when they have been set up in the temples. Their eyes are full of the dust raised by the feet of those who enter. And just as the gates are shut on every side against anyone who has offended a king, as though under sentence of death, so the priests make their temples secure with doors and locks and bars, in order that they may not be plundered by robbers.",
       "links": "<a href='/AIV/23/41/23-24'>Isa. 41:23-24</a>",
       "comment": "Idols lack reason or agency. Genuine reverence belongs only to the divine."
     },
@@ -230,7 +254,7 @@
       "bookAbbreviation": "Bar",
       "chapter": 6,
       "verse": 19,
-      "text": "If they fall to the ground, people must pick them up.",
+      "text": "They light more lamps for them than they light for themselves, though their gods can see none of them.",
       "links": "<a href='/AIV/19/115/4-8'>Ps. 115:4-8</a>",
       "comment": "Once again, human effort is required to maintain idols, unlike the Lord who upholds all things."
     },
@@ -242,7 +266,7 @@
       "bookAbbreviation": "Bar",
       "chapter": 6,
       "verse": 20,
-      "text": "They neither do harm nor good, are powerless as lifeless images.",
+      "text": "They are just like a beam of the temple, but their hearts, it is said, are eaten away when crawling creatures from the earth devour them and their robes. They do not notice",
       "links": "<a href='/AIV/19/135/15-18'>Ps. 135:15-18</a>",
       "comment": "Biblical theme: idols are powerless. All good comes from the living God."
     },
@@ -254,7 +278,7 @@
       "bookAbbreviation": "Bar",
       "chapter": 6,
       "verse": 21,
-      "text": "People offer them gifts like the dead; their priests sell their sacrifices and profit from them.",
+      "text": "when their faces have been blackened by the smoke of the temple.",
       "links": "<a href='/AIV/23/44/9-20'>Isa. 44:9-20</a>",
       "comment": "Again, idol worship parallels necromancy. Also critiques religious commercialization."
     },
@@ -266,7 +290,7 @@
       "bookAbbreviation": "Bar",
       "chapter": 6,
       "verse": 22,
-      "text": "Women decorate them like dancing girls, sitting by them with strings; yet they will never feel such honor.",
+      "text": "Bats, swallows, and birds alight on their bodies and heads; and so do cats.",
       "links": "<a href='/AIV/07/11/34'>Judg. 11:34</a>",
       "comment": "Idols receive tribute reserved for living beings, highlighting their impotence."
     },
@@ -278,7 +302,7 @@
       "bookAbbreviation": "Bar",
       "chapter": 6,
       "verse": 23,
-      "text": "They take gold off them to make ornaments for themselves.",
+      "text": "From this you will know that they are not gods; so do not fear them.",
       "links": "<a href='/AIV/02/32/2-4'>Ex. 32:2-4</a>",
       "comment": "Contrasts the enduring presence of God with idols repurposed for human use."
     },
@@ -290,7 +314,7 @@
       "bookAbbreviation": "Bar",
       "chapter": 6,
       "verse": 24,
-      "text": "They put silver on them, then strip it off to spend on themselves.",
+      "text": "As for the gold that they wear for beauty—it will not shine unless someone wipes off the tarnish; for even when they were being cast, they did not feel it.",
       "links": "<a href='/AIV/19/106/38'>Ps. 106:38</a>",
       "comment": "The cycle of giving then taking back shows the emptiness of idol worship."
     },
@@ -302,7 +326,7 @@
       "bookAbbreviation": "Bar",
       "chapter": 6,
       "verse": 25,
-      "text": "Their priests light lamps more numerous than themselves, but the idols see none of it.",
+      "text": "They are bought without regard to cost, but there is no breath in them.",
       "links": "<a href='/AIV/19/115/5-7'>Ps. 115:5-7</a>",
       "comment": "Idols are blind; contrasts with Christ as the light of the world (John 8:12)."
     },
@@ -338,7 +362,7 @@
       "bookAbbreviation": "Bar",
       "chapter": 6,
       "verse": 28,
-      "text": "She who offers gifts to them does not see recompense. The idols cannot repay her.",
+      "text": "The priests sell the sacrifices that are offered to these gods and use the money themselves. Likewise their wives preserve some of the meat with salt, but give none to the poor or helpless.",
       "links": "<a href='/AIV/02/32/24'>Ex. 32:24</a>",
       "comment": "Idol worship yields nothing; contrast with God who rewards those who seek Him (Heb. 11:6)."
     },
@@ -350,7 +374,7 @@
       "bookAbbreviation": "Bar",
       "chapter": 6,
       "verse": 29,
-      "text": "They are like broken vessels; they will never be useful.",
+      "text": "Sacrifices to them may even be touched by women in their periods or at childbirth. Since you know by these things that they are not gods, do not fear them.",
       "links": "<a href='/AIV/24/22/28'>Jer. 22:28</a>",
       "comment": "Broken vessels symbolize uselessness; Paul uses 'vessels' for people set apart for God (2 Tim. 2:21)."
     },
@@ -374,7 +398,7 @@
       "bookAbbreviation": "Bar",
       "chapter": 6,
       "verse": 31,
-      "text": "If they are placed beside rich men, they cannot help them.",
+      "text": "and in their temples the priests sit with their clothes torn, their heads and beards shaved, and their heads uncovered.",
       "links": "<a href='/AIV/19/49/6-7'>Ps. 49:6-7</a>",
       "comment": "Wealth and idols cannot save, God alone is the true provider and Savior."
     },
@@ -386,7 +410,7 @@
       "bookAbbreviation": "Bar",
       "chapter": 6,
       "verse": 32,
-      "text": "If someone sets incense before them, they cannot smell it.",
+      "text": "They howl and shout before their gods as some do at a funeral banquet.",
       "links": "<a href='/AIV/19/141/2'>Ps. 141:2</a>",
       "comment": "True worship is spiritual; God receives prayers as incense (Rev. 5:8)."
     },
@@ -398,7 +422,7 @@
       "bookAbbreviation": "Bar",
       "chapter": 6,
       "verse": 33,
-      "text": "They are insensitive, eyes full of dust from the feet of those who enter.",
+      "text": "The priests take some of the clothing of their gods to clothe their wives and children.",
       "links": "<a href='/AIV/19/115/5'>Ps. 115:5</a>",
       "comment": "Idols are unable to perceive the world; the living God sees all."
     },
@@ -663,7 +687,7 @@
       "bookAbbreviation": "Bar",
       "chapter": 6,
       "verse": 55,
-      "text": "Therefore, do not fear them, for they cannot do evil nor any good.",
+      "text": "they are like crows between heaven and earth. When fire breaks out in a temple of wooden gods overlaid with gold or silver, their priests will flee and escape, but the gods will be burned up like timbers.",
       "links": "<a href='/AIV/24/10/5'>Jer. 10:5</a>",
       "comment": "Reiterates God’s sovereignty; only God’s will matters. See also Christ’s authority over all (Matthew 28:18)."
     },
@@ -711,7 +735,7 @@
       "bookAbbreviation": "Bar",
       "chapter": 6,
       "verse": 59,
-      "text": "They neither restore the blind to sight nor the lame to walk;",
+      "text": "So it is better to be a king who shows his courage, or a household utensil that serves its owner’s need, than to be these false gods; better even the door of a house that protects its contents, than these false gods; better also a wooden pillar in a palace, than these false gods.",
       "links": "<a href='/AIV/23/35/6'>Isa. 35:6</a>; <a href='/AIV/40/11/5'>Matt. 11:5</a>",
       "comment": "True miracles and healing are works of the living God, fulfilled in the life of Christ."
     },
@@ -880,12 +904,12 @@
       "bookAbbreviation": "Bar",
       "chapter": 6,
       "verse": 73,
-      "text": "Therefore, do not fear them, for they are powerless; neither to harm nor to help.",
+      "text": "Better, therefore, is someone upright who has no idols; such a person will be far above reproach.",
       "links": "<a href='/AIV/19/115/11'>Ps. 115:11</a>; <a href='/AIV/24/10/5'>Jer. 10:5</a>",
       "comment": "The chapter closes with a final command not to fear idols—a central biblical principle. The spiritual meaning prefigures the Church's insistence on exclusive worship of the one true God. This passage also hints at the necessity of apostolic tradition that safeguards correct worship, linking true faith to the revealed worship established by God. The emphasis on exclusivity of worship and the futility of idols points toward the fullness of faith found in the continuity of apostolic teaching and those sacraments established directly by Christ Himself."
     }
   ],
-  "translatedAt": "2025-12-24T08:58:19.172Z",
+  "translatedAt": "2025-12-29T00:33:23.621Z",
   "sections": [
     {
       "title": "The Exile and Promise of Return",

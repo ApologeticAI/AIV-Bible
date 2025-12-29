@@ -352,7 +352,7 @@
       "bookAbbreviation": "2Macc",
       "chapter": 3,
       "verse": 29,
-      "text": "So everyone praised the Lord who had miraculously protected His temple.",
+      "text": "While he lay prostrate, speechless because of the divine intervention and deprived of any hope of recovery,",
       "links": "<a href='/AIV/19/105/1-2'>Ps. 105:1-2</a>",
       "comment": "God’s mighty works in history inspire corporate worship and thanksgiving."
     },
@@ -364,7 +364,7 @@
       "bookAbbreviation": "2Macc",
       "chapter": 3,
       "verse": 30,
-      "text": "Heliodorus lay speechless and without any hope of recovery, having tasted the power of God.",
+      "text": "they praised the Lord who had acted marvelously for his own place. And the temple, which a little while before was full of fear and disturbance, was filled with joy and gladness, now that the Almighty Lord had appeared.",
       "links": "<a href='/AIV/19/39/13'>Ps. 39:13</a>",
       "comment": "Physical inability after a supernatural encounter points toward the awesomeness and mystery of God’s presence."
     },
@@ -437,9 +437,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 3,
       "verse": 36,
-      "text": "King Seleucus, amazed by the account, ordered that the temple remain untouchable and its deposits undisturbed.",
-      "links": "<a href='/AIV/11/8/61'>1 Kings 8:61</a>",
-      "comment": "Earthly rulers sometimes affirm divine authority when confronted by signs; the king’s response preserves the sanctity of the temple."
+      "text": "He bore witness to everyone about the deeds of the supreme God, which he had seen with his own eyes.",
+      "links": [
+        "Dan 3:28",
+        "Ps 77:14",
+        "Acts 4:20"
+      ],
+      "comment": "Heliodorus, a Gentile official, publicly acknowledges the manifest power of Israel's God, underscoring the theme of God's sovereignty and visible intervention on behalf of the Temple, echoing similar confessions in Daniel 4:34-37."
     },
     {
       "pk": 21003037,
@@ -461,9 +465,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 3,
       "verse": 38,
-      "text": "This is how the protection of the temple funds was assured, and how Onias’s character as a noble and godly priest was confirmed.",
-      "links": "<a href='/AIV/19/132/9'>Ps. 132:9</a>",
-      "comment": "The steadfast character of the priest brings blessing and security to the community, reflecting the role of mediators in God’s plan."
+      "text": "\"If you have any enemy or plotter against your government, send him there, for you will get him back thoroughly flogged, if he survives at all; for there is certainly some power of God about the place.\"",
+      "links": [
+        "Ex 23:20",
+        "Ps 121:4",
+        "Zech 2:5"
+      ],
+      "comment": "The Temple is portrayed as divinely protected, and Heliodorus ironically suggests it as a punishment for enemies, reflecting the belief that sacred spaces were under the guarding presence and active judgment of God (cf. Psalm 46:5)."
     },
     {
       "pk": 21003039,
@@ -473,9 +481,13 @@
       "bookAbbreviation": "2Macc",
       "chapter": 3,
       "verse": 39,
-      "text": "Peace returned to the city, and the temple continued to be honored by foreigners from every nation.",
-      "links": "<a href='/AIV/19/87/4'>Ps. 87:4</a>",
-      "comment": "The universal esteem of the temple prefigures the gathering of many nations to God's house, revealed more fully in the prophets and the gospels."
+      "text": "For he who has his dwelling in heaven watches over that place himself and brings it aid, and he strikes and destroys those who come to do it injury.",
+      "links": [
+        "Ps 91:9-11",
+        "Isa 31:5",
+        "2 Chr 20:15"
+      ],
+      "comment": "The notion of God dwelling in heaven but watching over and defending his earthly sanctuary recalls Exodus 25:8 and 1 Kings 8:27-30, reinforcing God's covenantal care and retributive justice against those who threaten what is holy."
     },
     {
       "pk": 21003040,
@@ -490,7 +502,7 @@
       "comment": "God’s deliverance is personal and communal; many psalms record similar interventions, and this points to God’s continuing protection of His sacred people and places."
     }
   ],
-  "translatedAt": "2025-12-24T05:30:42.429Z",
+  "translatedAt": "2025-12-29T00:31:57.016Z",
   "sections": [
     {
       "title": "The Peace and Prosperity of Jerusalem",

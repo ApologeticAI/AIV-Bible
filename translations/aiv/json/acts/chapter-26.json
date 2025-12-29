@@ -365,7 +365,11 @@
       "chapter": 26,
       "verse": 30,
       "text": "The king stood up, and the governor and Bernice and those sitting with them also rose.",
-      "links": "",
+      "links": [
+        "Acts 25:23",
+        "Luke 23:13",
+        "Matt 27:17"
+      ],
       "comment": "This marks the formal end of Paul’s trial before Agrippa, witnessed by several authorities, again underlining the public nature of the Church’s witness."
     },
     {
