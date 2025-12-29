@@ -294,11 +294,7 @@
       "chapter": 3,
       "verse": 24,
       "text": "son of Matthat, son of Levi, son of Melchi, son of Jannai, son of Joseph,",
-      "links": [
-        "Matt 1:24",
-        "1 Chr 24:6",
-        "Luke 3:29"
-      ],
+      "links": "<a href='/AIV/47/1/24'>Matt. 1:24</a>; <a href='/AIV/13/24/6'>1Chr. 24:6</a>; <a href='/AIV/49/3/29'>Luke. 3:29</a>",
       "comment": "This segment is part of Luke’s uniquely traced genealogy of Jesus, emphasizing continuity with post-exilic Jewish history (cf. 1 Chronicles 3:19–24) and Luke’s aim to situate Jesus within real-world family lineage."
     },
     {
@@ -310,11 +306,7 @@
       "chapter": 3,
       "verse": 25,
       "text": "son of Mattathias, son of Amos, son of Nahum, son of Esli, son of Naggai,",
-      "links": [
-        "Matt 1:15",
-        "1 Chr 2:41",
-        "Luke 3:26"
-      ],
+      "links": "<a href='/AIV/47/1/15'>Matt. 1:15</a>; <a href='/AIV/13/2/41'>1Chr. 2:41</a>; <a href='/AIV/49/3/26'>Luke. 3:26</a>",
       "comment": "These names, many of which are otherwise unknown in the Old Testament, reflect the preservation of family identity during Israel’s period of obscurity between the Testaments, highlighting God’s faithfulness across generations."
     },
     {
@@ -326,11 +318,7 @@
       "chapter": 3,
       "verse": 26,
       "text": "son of Maath, son of Mattathias, son of Semein, son of Josech, son of Joda,",
-      "links": [
-        "Matt 1:15",
-        "Luke 3:25",
-        "1 Chr 2:41"
-      ],
+      "links": "<a href='/AIV/47/1/15'>Matt. 1:15</a>; <a href='/AIV/49/3/25'>Luke. 3:25</a>; <a href='/AIV/13/2/41'>1Chr. 2:41</a>",
       "comment": "The repetition of similar names in this section demonstrates common naming practices in Jewish families, while also underlining the importance placed on heritage in affirming Messianic legitimacy."
     },
     {
@@ -342,11 +330,7 @@
       "chapter": 3,
       "verse": 27,
       "text": "son of Joanan, son of Rhesa, son of Zerubbabel, son of Shealtiel, son of Neri,",
-      "links": [
-        "Ezra 3:2",
-        "Matt 1:12",
-        "Hag 1:1"
-      ],
+      "links": "<a href='/AIV/15/3/2'>Ezra. 3:2</a>; <a href='/AIV/47/1/12'>Matt. 1:12</a>; <a href='/AIV/44/1/1'>Hag. 1:1</a>",
       "comment": "Zerubbabel and Shealtiel anchor Jesus’ ancestry in the line of David, specifically through the governor who led post-exilic restoration (see Haggai 1:1; Matthew 1:12), highlighting fulfillment of prophetic hope."
     },
     {
@@ -358,11 +342,7 @@
       "chapter": 3,
       "verse": 28,
       "text": "son of Melchi, son of Addi, son of Cosam, son of Elmadam, son of Er,",
-      "links": [
-        "Matt 1:13",
-        "Luke 3:24",
-        "1 Chr 3:24"
-      ],
+      "links": "<a href='/AIV/47/1/13'>Matt. 1:13</a>; <a href='/AIV/49/3/24'>Luke. 3:24</a>; <a href='/AIV/13/3/24'>1Chr. 3:24</a>",
       "comment": "This group, mostly unrecorded in scripture outside the genealogy, reflects the careful preservation of ancestral tradition necessary in Jewish culture and the theme of God working through ‘hidden’ generations."
     },
     {
@@ -374,11 +354,7 @@
       "chapter": 3,
       "verse": 29,
       "text": "son of Joshua, son of Eliezer, son of Jorim, son of Matthat, son of Levi,",
-      "links": [
-        "Matt 1:14",
-        "Luke 3:24",
-        "1 Chr 6:16"
-      ],
+      "links": "<a href='/AIV/47/1/14'>Matt. 1:14</a>; <a href='/AIV/49/3/24'>Luke. 3:24</a>; <a href='/AIV/13/6/16'>1Chr. 6:16</a>",
       "comment": "These names reconnect to earlier Jewish figures, showing the link from post-exilic times back to traditional tribal lines, reinforcing Jesus’ rootedness in Israel’s broad history."
     },
     {
@@ -390,11 +366,7 @@
       "chapter": 3,
       "verse": 30,
       "text": "son of Simeon, son of Judah, son of Joseph, son of Jonam, son of Eliakim,",
-      "links": [
-        "Matt 1:14",
-        "1 Chr 2:10",
-        "Gen 46:10"
-      ],
+      "links": "<a href='/AIV/47/1/14'>Matt. 1:14</a>; <a href='/AIV/13/2/10'>1Chr. 2:10</a>; <a href='/AIV/1/46/10'>Gen. 46:10</a>",
       "comment": "The mention of Levi, Simeon, and Judah recalls tribal leaders among the sons of Jacob, underscoring Jesus’ fulfillment of Israel’s covenantal story (Genesis 49)."
     },
     {
@@ -406,11 +378,7 @@
       "chapter": 3,
       "verse": 31,
       "text": "son of Melea, son of Menna, son of Mattatha, son of Nathan, son of David,",
-      "links": [
-        "Matt 1:6",
-        "2 Sam 5:14",
-        "1 Chr 3:5"
-      ],
+      "links": "<a href='/AIV/47/1/6'>Matt. 1:6</a>; <a href='/AIV/10/5/14'>2Sam. 5:14</a>; <a href='/AIV/13/3/5'>1Chr. 3:5</a>",
       "comment": "Tracing Jesus’ line through Nathan rather than Solomon (as in Matthew) underscores Luke’s focus on a non-royal, yet Davidic, lineage, stressing universal access and association with God’s covenant promises to David (2 Samuel 7:12–16)."
     },
     {
@@ -422,11 +390,7 @@
       "chapter": 3,
       "verse": 32,
       "text": "the son of Jesse, the son of Obed, the son of Boaz, the son of Sala, the son of Nahshon,",
-      "links": [
-        "Ruth 4:17",
-        "1 Chr 2:10-12",
-        "Matt 1:3-6"
-      ],
+      "links": "<a href='/AIV/8/4/17'>Ruth. 4:17</a>; <a href='/AIV/13/2/10'>1Chr. 2:10-12</a>; <a href='/AIV/47/1/3'>Matt. 1:3-6</a>",
       "comment": "Linking Jesus to Jesse, Obed, Boaz, and Nahshon traces his genealogy through well-known ancestors, accentuating God’s providential guidance in Israel’s history (Ruth 4:18–22), and connecting Jesus to both royal and redemptive themes."
     },
     {

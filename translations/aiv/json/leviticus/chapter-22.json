@@ -13,11 +13,7 @@
       "chapter": 22,
       "verse": 1,
       "text": "The Lord spoke to Moses, saying,",
-      "links": [
-        "Ex 19:3",
-        "Lev 1:1",
-        "Num 1:1"
-      ],
+      "links": "<a href='/AIV/2/19/3'>Exod. 19:3</a>; <a href='/AIV/3/1/1'>Lev. 1:1</a>; <a href='/AIV/4/1/1'>Num. 1:1</a>",
       "comment": "This begins a new section of laws addressing the sanctity required from priests. As in many places, divine instruction comes directly to Moses as intercessor (cf. Lev. 21:1).",
       "sectionHeader": "Regulations for Priests and Holy Offerings"
     },
@@ -211,11 +207,7 @@
       "chapter": 22,
       "verse": 17,
       "text": "The Lord spoke to Moses, saying,",
-      "links": [
-        "Lev 4:1",
-        "Lev 5:14",
-        "Lev 6:1"
-      ],
+      "links": "<a href='/AIV/3/4/1'>Lev. 4:1</a>; <a href='/AIV/3/5/14'>Lev. 5:14</a>; <a href='/AIV/3/6/1'>Lev. 6:1</a>",
       "comment": "Another formulaic introduction to a new instruction. The repetition emphasizes both the seriousness and the continuity of God’s commands to His covenant people.",
       "sectionHeader": "Acceptable Sacrifices"
     },
@@ -300,11 +292,7 @@
       "chapter": 22,
       "verse": 24,
       "text": "Any animal with its testicles bruised, crushed, torn, or cut, you shall not offer to the Lord. You shall not do this in your land,",
-      "links": [
-        "Lev 21:17-20",
-        "Deut 15:21",
-        "Mal 1:8"
-      ],
+      "links": "<a href='/AIV/3/21/17'>Lev. 21:17-20</a>; <a href='/AIV/5/15/21'>Deut. 15:21</a>; <a href='/AIV/46/1/8'>Mal. 1:8</a>",
       "comment": "Even seemingly minor defects are cause for exclusion from sacrifice, stressing reverence and care in all things dedicated to God."
     },
     {
@@ -316,11 +304,7 @@
       "chapter": 22,
       "verse": 25,
       "text": "and you shall not accept such animals from a foreigner to offer as the bread of your God, because their deformity or defect makes them unacceptable for you.",
-      "links": [
-        "Lev 22:20",
-        "Mal 1:14",
-        "Deut 17:1"
-      ],
+      "links": "<a href='/AIV/3/22/20'>Lev. 22:20</a>; <a href='/AIV/46/1/14'>Mal. 1:14</a>; <a href='/AIV/5/17/1'>Deut. 17:1</a>",
       "comment": "Foreign offerings are held to the same high standard, confirming the universality yet specificity of God’s call to holiness."
     },
     {
@@ -332,11 +316,7 @@
       "chapter": 22,
       "verse": 26,
       "text": "And the Lord spoke to Moses, saying,",
-      "links": [
-        "Lev 22:1",
-        "Lev 24:1",
-        "Num 8:1"
-      ],
+      "links": "<a href='/AIV/3/22/1'>Lev. 22:1</a>; <a href='/AIV/3/24/1'>Lev. 24:1</a>; <a href='/AIV/4/8/1'>Num. 8:1</a>",
       "comment": "Transitional statement introducing regulations for the age of sacrificial animals.",
       "sectionHeader": "Laws Regarding Sacrifice and Thanksgiving Offerings"
     },

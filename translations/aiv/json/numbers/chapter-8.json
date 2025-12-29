@@ -62,11 +62,7 @@
       "chapter": 8,
       "verse": 5,
       "text": "The LORD spoke to Moses, saying:",
-      "links": [
-        "Ex 4:1",
-        "Lev 1:1",
-        "Num 9:1"
-      ],
+      "links": "<a href='/AIV/2/4/1'>Exod. 4:1</a>; <a href='/AIV/3/1/1'>Lev. 1:1</a>; <a href='/AIV/4/9/1'>Num. 9:1</a>",
       "comment": "Resumes the direct speech of God to Moses, reinforcing the mediation of God’s commands through an appointed leader.",
       "sectionHeader": "Purification and Dedication of the Levites"
     },
@@ -247,11 +243,7 @@
       "chapter": 8,
       "verse": 20,
       "text": "Moses, Aaron, and all the assembly of the Israelites did everything concerning the Levites according to what the LORD commanded Moses.",
-      "links": [
-        "Ex 39:42",
-        "Lev 8:36",
-        "Num 3:16"
-      ],
+      "links": "<a href='/AIV/2/39/42'>Exod. 39:42</a>; <a href='/AIV/3/8/36'>Lev. 8:36</a>; <a href='/AIV/4/3/16'>Num. 3:16</a>",
       "comment": "Again, fidelity to divine instruction is emphasized, a model for obedience in all religious practice."
     },
     {
@@ -287,11 +279,7 @@
       "chapter": 8,
       "verse": 23,
       "text": "The LORD spoke to Moses, saying:",
-      "links": [
-        "Ex 40:1",
-        "Lev 10:8",
-        "Num 15:1"
-      ],
+      "links": "<a href='/AIV/2/40/1'>Exod. 40:1</a>; <a href='/AIV/3/10/8'>Lev. 10:8</a>; <a href='/AIV/4/15/1'>Num. 15:1</a>",
       "comment": "Introduces another divine teaching, showing the continuity and detail of God’s instruction regarding worship.",
       "sectionHeader": "The Age and Duties of the Levites"
     },
