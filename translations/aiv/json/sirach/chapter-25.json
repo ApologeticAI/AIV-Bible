@@ -115,7 +115,7 @@
       "bookAbbreviation": "Sir",
       "chapter": 25,
       "verse": 8,
-      "text": "a man who lives with a sensible wife; one who does not stumble with his tongue; one who has not served someone less worthy than himself;",
+      "text": "Happy is the man who lives with a sensible wife, and the one who does not plow with ox and ass together. Happy is the one who does not stumble with his tongue, and the one who has not served someone less worthy than himself.",
       "links": "<a href='/AIV/20/14/1'>Prov. 14:1</a>; <a href='/AIV/20/10/19'>Prov. 10:19</a>",
       "comment": "Here, the value of integrity, prudent speech and dignified life are listed. The wife’s virtue recalls the biblical emphasis on a wise and faithful spouse."
     },
@@ -127,9 +127,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 25,
       "verse": 9,
-      "text": "one who gains wisdom himself; one who speaks before attentive listeners.",
+      "text": "Happy is the one who finds a friend, and the one who speaks to attentive listeners.",
       "links": "<a href='/AIV/20/1/5'>Prov. 1:5</a>; <a href='/AIV/20/18/13'>Prov. 18:13</a>",
-      "comment": "Personal acquisition of wisdom and teaching others resonate as ideals within the community of faith. There’s an implicit spiritual element here, as the act of speaking to receptive listeners echoes the apostolic transmission of faith."
+      "comment": "Restored the 'finds a friend' phrase and removed reference to self-gained wisdom, per original enumeration structure."
     },
     {
       "pk": 28025010,
@@ -337,5 +337,5 @@
       "sectionHeader": "Wisdom on Domestic Life"
     }
   ],
-  "translatedAt": "2025-12-28T07:00:05.279Z"
+  "translatedAt": "2026-01-03T03:36:31.243Z"
 }

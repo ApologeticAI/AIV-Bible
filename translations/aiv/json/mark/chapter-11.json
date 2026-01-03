@@ -315,18 +315,6 @@
       "bookName": "Mark",
       "bookAbbreviation": "Mark",
       "chapter": 11,
-      "verse": 26,
-      "text": "But if you do not forgive, neither will your Father who is in heaven forgive your trespasses.",
-      "links": "<a href='/AIV/47/6/14'>Matt. 6:14</a>; <a href='/AIV/47/18/35'>Matt. 18:35</a>; <a href='/AIV/49/6/37'>Luke. 6:37</a>",
-      "comment": "This verse underscores the reciprocal nature of forgiveness in Jesus' teaching, echoing the Lord's Prayer (Matthew 6:14-15), and reflects the Jewish understanding that forgiveness from God is linked to one's extension of forgiveness to others."
-    },
-    {
-      "pk": 48011027,
-      "translation": "AIV",
-      "book": 48,
-      "bookName": "Mark",
-      "bookAbbreviation": "Mark",
-      "chapter": 11,
       "verse": 27,
       "text": "They came again to Jerusalem. As He was walking in the temple, the chief priests, the scribes, and the elders came to Him",
       "links": "<a href='/AIV/40/21/23'>Matt. 21:23</a>; <a href='/AIV/42/20/1'>Luke 20:1'</a>",
@@ -334,7 +322,7 @@
       "sectionHeader": "The Authority of Jesus Questioned"
     },
     {
-      "pk": 48011028,
+      "pk": 48011027,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -346,7 +334,7 @@
       "comment": "The leaders' questioning about authority points to a central theme: Jesus’ authoritative mission is of divine origin."
     },
     {
-      "pk": 48011029,
+      "pk": 48011028,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -358,7 +346,7 @@
       "comment": "Jesus responds with a question, exposing the hearts of His challengers. This teaching method draws attention to truth through dialogue."
     },
     {
-      "pk": 48011030,
+      "pk": 48011029,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -370,7 +358,7 @@
       "comment": "John’s baptism is intimately connected to Jesus’ identity and mission. The implication is that true authority is rooted in divine commissioning."
     },
     {
-      "pk": 48011031,
+      "pk": 48011030,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -382,7 +370,7 @@
       "comment": "The religious leaders' hesitation to answer Jesus about John's authority reveals their concern for public opinion and exposes their lack of genuine faith, illustrating the consistent biblical theme of truth versus self-preservation (cf. Luke 20:5)."
     },
     {
-      "pk": 48011032,
+      "pk": 48011031,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -394,7 +382,7 @@
       "comment": "The leaders’ fear of the people over the truth shows the danger of placing human opinion above God’s revelation."
     },
     {
-      "pk": 48011033,
+      "pk": 48011032,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -406,7 +394,7 @@
       "comment": "The exchange reveals the hardness of heart among the religious authorities. Jesus withholds an explicit answer; His deeds and fulfillment of Scripture are themselves His testimony (see Isa. 35:5-6). This passage highlights the importance of spiritual authority handed down and recognized through divine revelation."
     }
   ],
-  "translatedAt": "2025-12-29T00:34:33.847Z",
+  "translatedAt": "2026-01-02T06:03:12.025Z",
   "sections": [
     {
       "title": "The Triumphal Entry into Jerusalem",

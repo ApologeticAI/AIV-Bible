@@ -350,18 +350,6 @@
       "bookName": "Acts",
       "bookAbbreviation": "Acts",
       "chapter": 28,
-      "verse": 29,
-      "text": "",
-      "links": "<a href='/AIV/51/13/45'>Acts. 13:45</a>; <a href='/AIV/51/17/4'>Acts. 17:4</a>; <a href='/AIV/51/28/24'>Acts. 28:24</a>",
-      "comment": "Verse 29 is omitted to match the RSVCE reference, where this verse does not appear."
-    },
-    {
-      "pk": 51028030,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 28,
       "verse": 30,
       "text": "He lived there two whole years at his own expense and welcomed all who came to him,",
       "links": "<a href='/AIV/51/4/3'>Col. 4:3</a>",
@@ -369,7 +357,7 @@
       "sectionHeader": "Paul's Ministry in Rome"
     },
     {
-      "pk": 51028031,
+      "pk": 51028030,
       "translation": "AIV",
       "book": 51,
       "bookName": "Acts",
@@ -381,7 +369,7 @@
       "comment": "Acts ends with the gospel going out freely from Rome, the world’s capital, anticipating the ongoing and growing mission of the Church to all nations, under apostolic authority, and with the leadership centered in the city of Rome."
     }
   ],
-  "translatedAt": "2025-12-29T00:33:13.288Z",
+  "translatedAt": "2026-01-02T03:42:50.356Z",
   "sections": [
     {
       "title": "Paul on Malta",

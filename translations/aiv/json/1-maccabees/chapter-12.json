@@ -5,23 +5,13 @@
   "chapter": 12,
   "sections": [
     {
-      "title": "Jonathan Renews Alliances With Foreign Nations",
+      "title": "Jonathan Renews Alliances with Rome and Sparta",
       "startVerse": 1,
-      "endVerse": 18
+      "endVerse": 51
     },
     {
-      "title": "Letter from the King of Sparta to Onias",
-      "startVerse": 19,
-      "endVerse": 23
-    },
-    {
-      "title": "Jonathan Prepares for War Against Demetrius",
-      "startVerse": 24,
-      "endVerse": 39
-    },
-    {
-      "title": "Trypho Plots Against Jonathan",
-      "startVerse": 40,
+      "title": "The Capture of Jonathan and Israel’s Distress",
+      "startVerse": 52,
       "endVerse": 53
     }
   ],
@@ -34,10 +24,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 1,
-      "text": "When Jonathan saw that his time was favorable, he chose men and sent them to Rome to renew and confirm the friendship with them.",
-      "links": "<a href='/AIV/44/18/1-3'>Acts 18:1-3</a>",
-      "comment": "Jonathan acts diplomatically, seeking alliances helpful for Israel. The mention of Rome foreshadows the spread of God's plan through Gentile nations (see Acts 18:1-3, the presence of Jewish leaders in Rome).",
-      "sectionHeader": "Jonathan Renews Alliances With Foreign Nations"
+      "text": "When Jonathan realized that the situation was in his favor, he selected some men and sent them to Rome to reaffirm and renew their friendship.",
+      "links": "<a href='/AIV/20/8/17'>1Macc 8:17</a>",
+      "comment": "Jonathan seeks to strengthen alliances at a politically advantageous moment. Reference to past Jewish-Roman relations.",
+      "sectionHeader": "Jonathan Renews Alliances with Rome and Sparta"
     },
     {
       "pk": 20012002,
@@ -47,9 +37,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 2,
-      "text": "He also sent letters to the Spartans and to other places for the same purpose.",
-      "links": "<a href='/AIV/13/19/6'>1 Chronicles 19:6</a>",
-      "comment": "Jonathan's outreach to multiple nations shows a wisdom of maintaining peace with neighbors, reminiscent of David's envoys (see 1 Chronicles 19:6)."
+      "text": "He also sent letters with similar purpose to the Spartans and to other regions.",
+      "links": "<a href='/AIV/20/12/5-23'>1Macc 12:5-23</a>",
+      "comment": "This underscores the broad diplomatic efforts; Sparta was believed to have ancestral ties to the Jews."
     },
     {
       "pk": 20012003,
@@ -59,9 +49,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 3,
-      "text": "So they journeyed to Rome and entered the senate and said, 'Jonathan the high priest and the nation of the Jews send greetings.'",
-      "links": "<a href='/AIV/15/4/11'>Ezra 4:11</a>",
-      "comment": "Here the high priest serves as the nation's representative, emphasizing spiritual leadership. This anticipates Christ's role as high priest and mediator (Hebrews 4:14, see also Ezra 4:11 for greetings from leaders)."
+      "text": "When his envoys arrived in Rome and entered the senate, they declared, 'High priest Jonathan and the Jewish nation have sent us to renew the friendship and alliance previously made with you.'",
+      "links": "<a href='/AIV/20/8/18'>1Macc 8:18</a>",
+      "comment": "The formal introduction hints at previous agreements between Jews and Romans."
     },
     {
       "pk": 20012004,
@@ -71,9 +61,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 4,
-      "text": "They presented to them letters about the renewal of friendship and alliance, as it was before.",
-      "links": "<a href='/AIV/9/18/3'>1 Samuel 18:3</a>",
-      "comment": "Alliance-building reinforces the theme of covenant. Compare friendship covenants in the life of David (1 Samuel 18:3)."
+      "text": "The Romans wrote letters to the people in every territory, asking them to allow the envoys safe passage as they traveled to Judah.",
+      "links": "<a href='/AIV/20/8/31'>1Macc 8:31</a>",
+      "comment": "Roman support by granting safe conduct shows the strength of the alliance."
     },
     {
       "pk": 20012005,
@@ -83,9 +73,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 5,
-      "text": "They gave these letters also to the Spartans and to other places.",
-      "links": "<a href='/AIV/11/9/16'>1 Kings 9:16</a>",
-      "comment": "The distribution of letters to multiple nations reflects Israel's mission to be a light to the peoples (see 1 Kings 9:16, expanding relationships)."
+      "text": "Here is a copy of the letter Jonathan sent to the Spartans:",
+      "links": "<a href='/AIV/20/12/6'>1Macc 12:6</a>",
+      "comment": "The narrative now directly quotes the letter to the Spartans, reflecting historic Jewish-Spartan correspondence."
     },
     {
       "pk": 20012006,
@@ -95,9 +85,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 6,
-      "text": "Jonathan wrote also to the Spartans: 'Jonathan the high priest, the elders, the priests, and the rest of the Jewish people to the Spartans, their brothers: Greetings.'",
-      "links": "<a href='/AIV/16/2/2'>Nehemiah 2:2</a>",
-      "comment": "The greeting includes the high priest, elders, priests, and people. This structure resembles the leadership and organization later seen in the Church (see Nehemiah 2:2 for similar greetings by Jewish leaders)."
+      "text": "\"Jonathan the high priest, the council of elders, the priests, and the rest of the Jewish people send greetings to their brothers in Sparta.",
+      "links": "<a href='/AIV/20/5/9'>1Macc 5:9</a>",
+      "comment": "The letter is styled in classic greetings format, expressing kinship."
     },
     {
       "pk": 20012007,
@@ -107,9 +97,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 7,
-      "text": "Long ago, a letter was sent to the high priest Onias from Areus, king of the Spartans, stating that you are our brothers, as the copy attached shows.",
-      "links": "<a href='/AIV/7/3/9'>Judges 3:9</a>",
-      "comment": "The claim of brotherhood with the Spartans points to ancient connections and the idea of universal brotherhood under God, hinting at the later union of all believers."
+      "text": "Long ago, Arius, your king, sent a letter to High Priest Onias, stating that we are brothers, as the enclosed copy shows.",
+      "links": "<a href='/AIV/20/12/19'>1Macc 12:19</a>",
+      "comment": "Claims of ancient ties between Jews and Spartans were popular in the Hellenistic period, possibly legendary."
     },
     {
       "pk": 20012008,
@@ -119,9 +109,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 8,
-      "text": "Jonathan sent again to renew the friendship.",
-      "links": "<a href='/AIV/20/12/14'>Proverbs 12:14</a>",
-      "comment": "Renewing friendship echoes wisdom literature’s emphasis on faithful relationships (see Proverbs 12:14)."
+      "text": "Onias accepted the envoy with honor and received the letter, which clearly affirmed friendship and alliance.",
+      "links": "<a href='/AIV/20/12/20'>1Macc 12:20</a>",
+      "comment": "Hospitality and formal receiving of envoys was a sign of respect in ancient diplomacy."
     },
     {
       "pk": 20012009,
@@ -131,9 +121,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 9,
-      "text": "Therefore, though we have no need of these things, since we have as encouragement the holy books that are in our hands,",
-      "links": "<a href='/AIV/19/119/105'>Psalm 119:105</a>",
-      "comment": "The focus on the holy books reflects the primacy of Sacred Scripture as comfort and guide, connecting Psalm 119:105, 'Your word is a lamp to my feet.'"
+      "text": "Although we do not require these assurances, since we have our sacred books to encourage us,",
+      "links": "<a href='/AIV/19/119/50'>Ps 119:50</a>",
+      "comment": "The sacred texts give the Jews confidence apart from human alliances."
     },
     {
       "pk": 20012010,
@@ -143,9 +133,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 10,
-      "text": "we have undertaken to send to renew our family ties and friendship with you, so that we may not become estranged from you, for considerable time has passed since you sent your letter to us.",
-      "links": "<a href='/AIV/1/45/24'>Genesis 45:24</a>",
-      "comment": "Jonathan desires unity, echoing Joseph's reunion with his brothers (Genesis 45:24), hinting at spiritual kinship among God's people."
+      "text": "we have decided to send this message to renew our family ties and friendship, so that we may not become strangers to each other, especially since a long time has passed since your last communication.",
+      "links": "<a href='/AIV/20/12/7'>1Macc 12:7</a>",
+      "comment": "Diplomatic exchanges helped preserve alliances over time."
     },
     {
       "pk": 20012011,
@@ -155,9 +145,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 11,
-      "text": "We therefore remember you constantly on every occasion, both at our festivals and on other appropriate days, at the sacrifices that we offer and in our prayers, as it is right and proper to remember brothers.",
-      "links": "<a href='/AIV/3/23/37'>Leviticus 23:37</a>",
-      "comment": "Remembering others during sacrifices highlights the liturgical life and the remembrance of the faithful during worship (Leviticus 23:37)."
+      "text": "We remember you on every occasion, especially at our festivals and appropriate times, during sacrifices and prayers, as it is proper to remember our brothers.",
+      "links": "<a href='/AIV/19/122/6-8'>Ps 122:6-8</a>",
+      "comment": "Praying for allies during public worship reflects their importance."
     },
     {
       "pk": 20012012,
@@ -167,9 +157,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 12,
-      "text": "We are glad about your glory.",
-      "links": "<a href='/AIV/47/1/14'>2 Corinthians 1:14</a>",
-      "comment": "Sharing joy in others’ blessings builds unity (2 Corinthians 1:14)."
+      "text": "And we rejoice in the good things that have happened to you.",
+      "links": "<a href='/AIV/12/10/24'>2Sam 10:24</a>",
+      "comment": "Expressing joy at a fellow nation's prosperity is a typical diplomatic courtesy."
     },
     {
       "pk": 20012013,
@@ -179,9 +169,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 13,
-      "text": "But as for ourselves, many trials and many wars have encircled us; the kings around us have waged war against us.",
-      "links": "<a href='/AIV/10/5/3'>2 Samuel 5:3</a>",
-      "comment": "Recalling conflict reminds us of Israel's constant struggle, a theme present in King David's time (2 Samuel 5:3)."
+      "text": "As for us, we have faced many dangers and wars, surrounded by enemy kings who have attacked us.",
+      "links": "<a href='/AIV/19/83/4'>Ps 83:4</a>",
+      "comment": "Reference to persistent struggles faced by the Jewish nation."
     },
     {
       "pk": 20012014,
@@ -191,9 +181,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 14,
-      "text": "We were unwilling to annoy you and our other allies and friends with these wars,",
-      "links": "<a href='/AIV/9/20/17'>1 Samuel 20:17</a>",
-      "comment": "Out of respect and humility, Jonathan refrains from burdening allied nations amid trials (1 Samuel 20:17)."
+      "text": "We chose not to burden you or our other allies and friends with requests for help in these wars,",
+      "links": "<a href='/AIV/20/5/10'>1Macc 5:10</a>",
+      "comment": "Highlights Jewish self-reliance and respect for ally relations."
     },
     {
       "pk": 20012015,
@@ -203,9 +193,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 15,
-      "text": "for we have the help that comes from Heaven for our aid, and so we were delivered from our enemies, and our enemies were humbled.",
-      "links": "<a href='/AIV/7/8/22'>Judges 8:22</a>",
-      "comment": "Victory leads to a renewal of friendships, restoring peace, as seen after deliverance in Judges 8:22."
+      "text": "because our help comes from heaven, and with Heaven’s support we have been rescued from our enemies and they were humbled.",
+      "links": "<a href='/AIV/19/46/7'>Ps 46:7</a>",
+      "comment": "Emphasizes divine aid as the true deliverer in Jewish theology."
     },
     {
       "pk": 20012016,
@@ -215,9 +205,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 16,
-      "text": "We therefore have chosen Numenius son of Antiochus and Antipater son of Jason, and have sent them to Rome to renew our former friendship and alliance with them.",
-      "links": "<a href='/AIV/17/3/7'>Esther 3:7</a>",
-      "comment": "Envoys act as mediators, anticipating the later role of apostles as ambassadors for Christ (Esther 3:7, messengers for the king)."
+      "text": "Thus, we have chosen Numenius son of Antiochus, and Antipater son of Jason, and sent them to Rome to renew our earlier alliance and friendship.",
+      "links": "<a href='/AIV/20/8/19'>1Macc 8:19</a>",
+      "comment": "Sending trusted representatives reflects the seriousness of renewing alliances."
     },
     {
       "pk": 20012017,
@@ -227,9 +217,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 17,
-      "text": "We have commanded them to go also to you and greet you and deliver to you this letter from us concerning the renewal of our family ties.",
-      "links": "<a href='/AIV/55/4/21'>2 Timothy 4:21</a>",
-      "comment": "The sending of envoys with letters resembles apostolic visits and epistles in the New Testament (2 Timothy 4:21)."
+      "text": "We instructed them to visit you as well, to deliver our greetings, and to give you this letter about renewing our kinship.",
+      "links": "<a href='/AIV/20/15/15'>1Macc 15:15</a>",
+      "comment": "Envoys served multiple diplomatic channels during missions."
     },
     {
       "pk": 20012018,
@@ -239,9 +229,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 18,
-      "text": "Please reply to us about this.",
-      "links": "<a href='/AIV/46/16/19'>1 Corinthians 16:19</a>",
-      "comment": "Invitation to reply encourages relational communication, as modeled by early Christian communities (1 Corinthians 16:19)."
+      "text": "So now, please send us a reply.\"",
+      "links": "<a href='/AIV/20/12/23'>1Macc 12:23</a>",
+      "comment": "Conventional conclusion to ancient diplomatic letters, inviting response."
     },
     {
       "pk": 20012019,
@@ -251,10 +241,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 19,
-      "text": "This is the copy of the letter sent to Onias:",
-      "links": "<a href='/AIV/16/7/5'>Nehemiah 7:5</a>",
-      "comment": "Preserving copies of important letters foreshadows the tradition of safeguarding scriptural and apostolic writings (Nehemiah 7:5).",
-      "sectionHeader": "Letter from the King of Sparta to Onias"
+      "text": "Here is a copy of the letter sent to Onias:",
+      "links": "<a href='/AIV/20/12/7'>1Macc 12:7</a>",
+      "comment": "The following is the ancient letter from the Spartans."
     },
     {
       "pk": 20012020,
@@ -264,9 +253,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 20,
-      "text": "King Arius of the Spartans, to the high priest Onias, greetings.",
-      "links": "<a href='/AIV/16/9/1'>Nehemiah 9:1</a>",
-      "comment": "Greetings from a foreign king to the Jewish high priest shows respect for spiritual authority (Nehemiah 9:1)."
+      "text": "\"King Arius of the Spartans to Onias the high priest, greetings.",
+      "links": "",
+      "comment": "Beginning of Arius' diplomatic greeting."
     },
     {
       "pk": 20012021,
@@ -276,9 +265,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 21,
-      "text": "It has been found in writing concerning the Spartans and the Jews that they are brothers and are of the family of Abraham.",
-      "links": "<a href='/AIV/1/22/17-18'>Genesis 22:17-18</a>",
-      "comment": "This claim of descent from Abraham connects Gentile nations to the promise, foreshadowing inclusion of all in God's family (Genesis 22:17-18)."
+      "text": "It has been discovered in records that the Spartans and Jews are brothers, both descended from Abraham.",
+      "links": "<a href='/AIV/19/47/1'>Ps 47:1</a>",
+      "comment": "The claim of common ancestry is possibly legendary, aiming to solidify relations."
     },
     {
       "pk": 20012022,
@@ -288,9 +277,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 22,
-      "text": "And now that we have learned this, please write us concerning your welfare;",
-      "links": "<a href='/AIV/4/34/9'>Numbers 34:9</a>",
-      "comment": "Deep kinship is expressed in sharing possessions, echoing Old Testament inheritance and unity (Numbers 34:9)."
+      "text": "Now that this is known, please write us about your condition and welfare.",
+      "links": "",
+      "comment": "Request for a report on Jewish affairs, a diplomatic courtesy."
     },
     {
       "pk": 20012023,
@@ -300,9 +289,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 23,
-      "text": "'We have instructed our representatives to speak with you about this.'",
-      "links": "<a href='/AIV/17/8/10'>Esther 8:10</a>",
-      "comment": "The use of representatives foreshadows the later sending of apostles on behalf of Christ (Esther 8:10)."
+      "text": "As for us, we assure you that your cattle and possessions are ours, and ours are yours. We have instructed our representatives to relay this message to you.\"",
+      "links": "<a href='/AIV/19/133/1'>Ps 133:1</a>",
+      "comment": "Demonstrates deep diplomatic goodwill and a sense of shared property."
     },
     {
       "pk": 20012024,
@@ -312,10 +301,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 24,
-      "text": "Jonathan heard that the commanders of Demetrius had returned to attack him with a larger force than before.",
-      "links": "<a href='/AIV/9/22/8'>1 Samuel 22:8</a>",
-      "comment": "Returning enemies mirrors Saul's pursuit of David, a persistent challenge to the faithful (1 Samuel 22:8).",
-      "sectionHeader": "Jonathan Prepares for War Against Demetrius"
+      "text": "Jonathan learned that officials of Demetrius had returned with a larger force than before to fight against him.",
+      "links": "<a href='/AIV/20/11/63'>1Macc 11:63</a>",
+      "comment": "The political-military threat from Demetrius re-emerges."
     },
     {
       "pk": 20012025,
@@ -325,9 +313,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 25,
-      "text": "He marched from Jerusalem to meet them in the region of Hamath, for he did not allow them to invade his own territory.",
-      "links": "<a href='/AIV/11/8/65'>1 Kings 8:65</a>",
-      "comment": "Defending the land is a duty for God’s people, echoing Solomon’s defense of borders (1 Kings 8:65)."
+      "text": "So Jonathan left Jerusalem, marched against them in the region of Hamath, not giving them a chance to enter his land.",
+      "links": "<a href='/AIV/10/15/27'>Judg 15:27</a>",
+      "comment": "A preemptive strike to protect Judea from invasion."
     },
     {
       "pk": 20012026,
@@ -337,9 +325,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 26,
-      "text": "He sent spies into their camp, who returned and reported, 'They are planning a night attack on you.'",
-      "links": "<a href='/AIV/6/7/4'>Joshua 7:4</a>",
-      "comment": "Spies often shape the outcome of battles in Scripture (Joshua 7:4). Strategic wisdom is valued."
+      "text": "Jonathan sent spies to their camp, and they brought back word that the enemy was preparing to attack the Jews by night.",
+      "links": "",
+      "comment": "Espionage and intelligence were common in ancient warfare."
     },
     {
       "pk": 20012027,
@@ -349,9 +337,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 27,
-      "text": "So as the sun set, Jonathan's army prepared for battle and stood watch all night, ready to fight.",
-      "links": "<a href='/AIV/7/7/19'>Judges 7:19</a>",
-      "comment": "Night watches are a motif of vigilance and preparation (Judges 7:19)."
+      "text": "As the sun set, Jonathan instructed his men to stay alert, keep their weapons ready, and stand guard all night for battle; he also posted sentries around the camp.",
+      "links": "<a href='/AIV/7/7/17'>Judg 7:17</a>",
+      "comment": "Jonathan demonstrates careful military preparedness."
     },
     {
       "pk": 20012028,
@@ -361,9 +349,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 28,
-      "text": "But the enemy learned that Jonathan and his men were ready for battle, so they became afraid and withdrew, lighting fires in their camp.",
-      "links": "<a href='/AIV/7/15/4'>Judges 15:4</a>",
-      "comment": "God often sows fear in the hearts of enemies (see Judges 15:4 for divine intervention in battle)."
+      "text": "When the enemy learned that Jonathan and his men were ready to fight, they panicked; so they lit fires in camp and withdrew.",
+      "links": "<a href='/AIV/7/7/20'>Judg 7:20</a>",
+      "comment": "The enemy loses morale and flees, using diversionary fires."
     },
     {
       "pk": 20012029,
@@ -373,9 +361,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 29,
-      "text": "Jonathan and his men saw the fires, but did not know what had happened until morning.",
-      "links": "<a href='/AIV/2/14/22'>Exodus 14:22</a>",
-      "comment": "Waiting until morning evokes deliverance through night hours (Exodus 14:22)."
+      "text": "Jonathan and his men did not realize this until morning, when they saw the burning campfires.",
+      "links": "",
+      "comment": "Nocturnal movements often caused confusion in ancient battles."
     },
     {
       "pk": 20012030,
@@ -385,9 +373,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 30,
-      "text": "Then Jonathan pursued them but could not overtake them, as they had crossed the river Eleutherus.",
-      "links": "<a href='/AIV/6/2/10'>Joshua 2:10</a>",
-      "comment": "The enemies escape across a river, reminiscent of Israel’s adversaries evading capture (Joshua 2:10)."
+      "text": "Jonathan pursued them, but could not overtake them, as they had already crossed the Eleutherus river.",
+      "links": "<a href='/AIV/9/9/2'>1Kings 9:2</a>",
+      "comment": "The Eleutherus River marked an important boundary in northern Syria."
     },
     {
       "pk": 20012031,
@@ -397,9 +385,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 31,
-      "text": "So Jonathan turned aside against the Arabs called Zabadeans and attacked them, taking their spoils.",
-      "links": "<a href='/AIV/7/8/24'>Judges 8:24</a>",
-      "comment": "Turning aside for battle sometimes leads to unexpected victory (Judges 8:24, Gideon’s spoils)."
+      "text": "So Jonathan turned toward the Arabs called Zabadeans, attacked and defeated them, and took their goods as spoil.",
+      "links": "<a href='/AIV/20/5/25'>1Macc 5:25</a>",
+      "comment": "Hostile Arab tribes are mentioned as opponents on occasion in the Maccabean narratives."
     },
     {
       "pk": 20012032,
@@ -409,9 +397,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 32,
-      "text": "Then Jonathan returned to Damascus, traveling through the whole region.",
-      "links": "<a href='/AIV/44/9/3'>Acts 9:3</a>",
-      "comment": "Passing through Damascus is notable: compare Paul’s journey (Acts 9:3), where God’s plan unfolds among the nations."
+      "text": "After this, he broke camp and went to Damascus, passing through that whole area.",
+      "links": "<a href='/AIV/44/9/2'>Acts 9:2</a>",
+      "comment": "Damascus was a significant urban center in Syria."
     },
     {
       "pk": 20012033,
@@ -421,9 +409,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 33,
-      "text": "Simon meanwhile advanced as far as Ashkalon and its neighboring towns. Then he turned to Joppa and took it over, for he had heard that the people there planned to hand its stronghold over to Demetrius.",
-      "links": "<a href='/AIV/6/19/6'>Joshua 19:6</a>",
-      "comment": "Simon secures strategic cities, as Joshua did during Israel’s conquest (Joshua 19:6)."
+      "text": "Meanwhile, Simon traveled as far as Askalon and nearby strongholds. He turned toward Joppa and captured it by surprise.",
+      "links": "<a href='/AIV/6/19/48'>Josh 19:48</a>",
+      "comment": "Simon is highlighted for his own military campaigns in the region."
     },
     {
       "pk": 20012034,
@@ -433,9 +421,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 34,
-      "text": "He stationed a force to guard it.",
-      "links": "<a href='/AIV/13/18/13'>1 Chronicles 18:13</a>",
-      "comment": "Guarding cities reflects the wisdom of protecting holy places and the faithful (1 Chronicles 18:13)."
+      "text": "He had heard that Joppa was going to be handed over to the supporters of Demetrius, so he stationed a garrison there to secure it.",
+      "links": "",
+      "comment": "Controlling strategic coastal cities was vital for military and trade."
     },
     {
       "pk": 20012035,
@@ -445,9 +433,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 35,
-      "text": "Jonathan returned and gathered the elders of the people. Together they decided to rebuild the walls and fortify Jerusalem.",
-      "links": "<a href='/AIV/16/2/17'>Nehemiah 2:17</a>",
-      "comment": "Jointly rebuilding walls recalls Nehemiah's call to restore Jerusalem, signaling communal leadership and protection (Nehemiah 2:17)."
+      "text": "After Jonathan returned, he met with the elders to discuss building strongholds in Judea.",
+      "links": "<a href='/AIV/16/2/17'>Neh 2:17</a>",
+      "comment": "Defensive construction projects were frequently used to consolidate control."
     },
     {
       "pk": 20012036,
@@ -457,9 +445,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 36,
-      "text": "He ordered the construction of a high wall between the citadel and the city, to separate it and ensure its defense.",
-      "links": "<a href='/AIV/16/4/13'>Nehemiah 4:13</a>",
-      "comment": "Separating and strengthening the city walls is a sign of wise governance, as Nehemiah showed (Nehemiah 4:13)."
+      "text": "They planned to further fortify the walls of Jerusalem and build a high wall to separate the citadel from the city, cutting it off so that those inside could neither buy nor sell.",
+      "links": "<a href='/AIV/20/14/36'>1Macc 14:36</a>",
+      "comment": "The citadel (Acra) in Jerusalem was a Hellenistic garrison threatening Jewish autonomy."
     },
     {
       "pk": 20012037,
@@ -469,9 +457,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 37,
-      "text": "The troops of the foreign garrison had withdrawn to the citadel, but they were unable to go into or out of the city.",
-      "links": "<a href='/AIV/15/6/22'>Ezra 6:22</a>",
-      "comment": "Restricting enemy movement demonstrates God’s favor in protecting Jerusalem (Ezra 6:22)."
+      "text": "So they gathered and rebuilt the city; a section of the wall in the eastern valley had collapsed, and Jonathan fixed the part called Chaphenatha.",
+      "links": "",
+      "comment": "Chaphenatha is likely a specific part of Jerusalem’s fortifications."
     },
     {
       "pk": 20012038,
@@ -481,9 +469,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 38,
-      "text": "Simon supplied Jerusalem with all necessary provisions.",
-      "links": "<a href='/AIV/2/16/2'>Exodus 16:2</a>",
-      "comment": "Providing for the city points to God's provision of manna—physical needs tied to spiritual leadership (Exodus 16:2)."
+      "text": "Simon also built up the fortress Adida in the Shephelah, strengthened it with walls and added barred gates.",
+      "links": "<a href='/AIV/20/13/13'>1Macc 13:13</a>",
+      "comment": "The Shephelah is the lowland district west of Jerusalem, key for defense."
     },
     {
       "pk": 20012039,
@@ -493,9 +481,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 39,
-      "text": "Then Trypho planned to become king of Asia, put on a crown, and attack Antiochus to kill him.",
-      "links": "<a href='/AIV/10/2/8'>2 Samuel 2:8</a>",
-      "comment": "A rival rising for the throne is a recurring biblical theme (2 Samuel 2:8)."
+      "text": "Then Trypho began plotting to seize the throne in Asia. He put on the royal crown and set his sights against King Antiochus.",
+      "links": "<a href='/AIV/20/11/39'>1Macc 11:39</a>",
+      "comment": "Trypho’s ambition presents another political threat."
     },
     {
       "pk": 20012040,
@@ -505,10 +493,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 40,
-      "text": "But he feared that Jonathan might prevent this, so he sought to capture and kill him.",
-      "links": "<a href='/AIV/9/23/23'>1 Samuel 23:23</a>",
-      "comment": "Trypho's plotting mirrors Saul's schemes against David (see 1 Samuel 23:23)—faithful leaders often face such threats.",
-      "sectionHeader": "Trypho Plots Against Jonathan"
+      "text": "Fearing that Jonathan would oppose him or wage war, Trypho continuously schemed to capture and kill him, so he came to Beth-shan.",
+      "links": "<a href='/AIV/7/1/27'>Judg 1:27</a>",
+      "comment": "Beth-shan (Scythopolis) is strategically located at the junction of trade and military routes."
     },
     {
       "pk": 20012041,
@@ -518,9 +505,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 41,
-      "text": "Then Trypho moved his army to attack, but Jonathan took all his forces and prepared for battle against him at the water near Hamath. However, Trypho did not allow his men to cross over.",
-      "links": "<a href='/AIV/9/8/13'>1 Samuel 8:13</a>",
-      "comment": "This passage presents the strategic maneuvering between Trypho and Jonathan. The location near Hamath is significant, reminding readers of key battles in Israel's history and the importance of military leadership entrusted to God’s chosen people."
+      "text": "Jonathan gathered forty thousand elite soldiers and went to meet him at Beth-shan.",
+      "links": "<a href='/AIV/7/7/19'>Judg 7:19</a>",
+      "comment": "A large army is mustered to respond to the threat."
     },
     {
       "pk": 20012042,
@@ -530,9 +517,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 42,
-      "text": "Trypho sent a detachment of horsemen against Jonathan, saying, 'We come to make peace with you. Hand over your weapons and troops, for we will make no war against you.'",
-      "links": "<a href='/AIV/20/12/52'>1 Maccabees 12:52</a>",
-      "comment": "Trypho’s duplicity is exposed here, echoing other scriptural themes of false promises (cf. <a href='/AIV/9/18/20'>1 Samuel 18:20-21</a>), reminding us to discern spirits and intentions behind apparent gestures of peace."
+      "text": "When Trypho saw the size of Jonathan's force, he was afraid to attack and did not raise his hand against him.",
+      "links": "<a href='/AIV/2/14/8'>Exod 14:8</a>",
+      "comment": "Trypho’s fear leads him to refrain from open confrontation."
     },
     {
       "pk": 20012043,
@@ -542,9 +529,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 43,
-      "text": "So Jonathan trusted them and did as they said, sending away his troops to the cities, while he remained with only a few men.",
-      "links": "<a href='/AIV/7/16/28'>Judges 16:28</a>",
-      "comment": "Jonathan’s trust is reminiscent of other faithful yet tragic figures, showing the burden of leadership and the need for discernment in troubled times."
+      "text": "Instead, he welcomed Jonathan with honors, introduced him to all his trusted officials, gave him gifts, and instructed both his friends and soldiers to treat Jonathan as they would himself.",
+      "links": "",
+      "comment": "Trypho feigns friendship while plotting treachery."
     },
     {
       "pk": 20012044,
@@ -554,9 +541,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 44,
-      "text": "Then Trypho captured Jonathan and all who were with him. All that remained.",
-      "links": "<a href='/AIV/10/15/30'>2 Samuel 15:30</a>",
-      "comment": "Jonathan’s capture underscores the vulnerability of even the righteous when faced with deceit. The text calls to mind betrayals and captivities in Israel’s history, such as that of Samson (<a href='/AIV/7/16/21'>Judges 16:21</a>)."
+      "text": "He then said to Jonathan, 'Why have you troubled these people when there is no war between us?",
+      "links": "",
+      "comment": "Trypho uses cunning words to lower Jonathan's guard."
     },
     {
       "pk": 20012045,
@@ -566,9 +553,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 45,
-      "text": "Trypho sent cavalry and infantry to Galilee and the Great Plain to destroy all of Jonathan’s followers.",
-      "links": "<a href='/AIV/6/10/40'>Joshua 10:40</a>",
-      "comment": "Aggressive pursuit of Jonathan’s supporters mirrors many occasions in Scripture when the faithful are persecuted, foreshadowing trials endured by God’s people (<a href='/AIV/40/24/9'>Matthew 24:9</a>)."
+      "text": "Send your troops home now. Keep only a few men with you, and come with me to Ptolemais. I will hand over the city and all the other strongholds, the remaining troops, and all officials to you. Then I'll return home—this is the reason I came.'",
+      "links": "",
+      "comment": "Trypho attempts to separate Jonathan from the main force for betrayal."
     },
     {
       "pk": 20012046,
@@ -578,9 +565,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 46,
-      "text": "But the followers, when they heard that Jonathan had been captured and killed, encouraged one another and marched out united, ready for battle.",
-      "links": "<a href='/AIV/9/30/6'>1 Samuel 30:6</a>",
-      "comment": "The unity and encouragement among Jonathan’s followers underlines the enduring strength of Israel’s community—not unlike the unity required of Christ’s Church (<a href='/AIV/44/4/32'>Acts 4:32</a>). Spiritual unity in adversity is a recurring theme."
+      "text": "Jonathan trusted him, did as he suggested, and sent his army back to Judea.",
+      "links": "",
+      "comment": "This act of trust sets up Jonathan for Trypho’s betrayal."
     },
     {
       "pk": 20012047,
@@ -590,9 +577,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 47,
-      "text": "Those who had been sent by Trypho saw that Jonathan’s supporters were determined to fight for their lives, and so they turned back.",
-      "links": "<a href='/AIV/7/7/22'>Judges 7:22</a>",
-      "comment": "God often grants courage to His people in the face of adversity, turning the enemy away. Here, the steadfastness of Jonathan’s followers causes the attackers to retreat, reminding us of God’s providential protection."
+      "text": "He kept only three thousand men with him, two thousand stationed in Galilee, and one thousand who went with him.",
+      "links": "",
+      "comment": "Reduces his protective force, increasing his vulnerability."
     },
     {
       "pk": 20012048,
@@ -602,9 +589,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 48,
-      "text": "Trypho gathered all his cavalry and returned to Jerusalem.",
-      "links": "<a href='/AIV/11/14/25'>1 Kings 14:25</a>",
-      "comment": "Trypho’s withdrawal reflects the defeat of hostile agendas by the resolve of the faithful—a pattern seen throughout Israel’s history and foreshadowing spiritual victories in the New Covenant."
+      "text": "When Jonathan entered Ptolemais, the residents closed the gates, captured him, and killed everyone who had entered with him.",
+      "links": "",
+      "comment": "Trypho’s treachery is realized, leading to Jonathan’s capture."
     },
     {
       "pk": 20012049,
@@ -614,9 +601,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 49,
-      "text": "He destroyed and burned the gates and sections of the surrounding wall of Jerusalem.",
-      "links": "<a href='/AIV/16/1/3'>Nehemiah 1:3</a>",
-      "comment": "Destruction of the city walls brings to mind earlier devastations of Jerusalem. Walls represent spiritual security, which in Christian interpretation is fulfilled in the one enduring foundation of the Church (<a href='/AIV/19/127/1'>Psalm 127:1</a>)."
+      "text": "Trypho then sent infantry and cavalry into Galilee and the Great Plain to destroy Jonathan's remaining soldiers.",
+      "links": "",
+      "comment": "Trypho seeks to annihilate all remaining Jewish resistance."
     },
     {
       "pk": 20012050,
@@ -626,9 +613,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 50,
-      "text": "Then he withdrew, departing to return to Ptolemais.",
-      "links": "<a href='/AIV/13/20/2'>1 Chronicles 20:2</a>",
-      "comment": "Trypho’s withdrawal to Ptolemais leaves Jerusalem exposed—a theme paralleling periods of vulnerability in biblical history, yet always followed by restoration as God’s mercy abides."
+      "text": "But once the troops realized Jonathan had been captured and his men killed, they rallied together, forming a close defensive line, determined to fight.",
+      "links": "",
+      "comment": "The remaining soldiers refuse to give up, showing unity even in crisis."
     },
     {
       "pk": 20012051,
@@ -638,9 +625,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 51,
-      "text": "He kept Jonathan in custody with him.",
-      "links": "<a href='/AIV/7/16/21'>Judges 16:21</a>",
-      "comment": "Jonathan’s captivity is reminiscent of the imprisonment of other faithful leaders in Scripture. It signifies the trials of righteous leadership and the anticipation of their vindication (<a href='/AIV/40/27/17'>Matthew 27:17</a>)."
+      "text": "When their pursuers saw they would resist to the end, they turned back.",
+      "links": "",
+      "comment": "The resolve of Jonathan's soldiers saves them from annihilation."
     },
     {
       "pk": 20012052,
@@ -650,9 +637,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 52,
-      "text": "Simon was deeply grieved when he heard what had happened to Jonathan. He gathered his army in preparation to face Trypho.",
-      "links": "<a href='/AIV/13/7/6'>1 Chronicles 7:6</a>",
-      "comment": "Simon's sorrow for his brother echoes biblical expressions of mourning for the faithful, yet also the readiness to continue the spiritual battle. The passage reflects the ongoing leadership and the call to perseverance in the face of trial."
+      "text": "So the troops made it safely back to Judea, mourning Jonathan and his companions. They were filled with fear, and all Israel deeply lamented.",
+      "links": "",
+      "comment": "Jonathan’s loss represents a national tragedy, evoking mass mourning.",
+      "sectionHeader": "The Capture of Jonathan and Israel’s Distress"
     },
     {
       "pk": 20012053,
@@ -662,10 +650,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 12,
       "verse": 53,
-      "text": "When the enemies of Israel heard that Simon had taken Jonathan’s place as leader, they rose up to challenge him and all the land around was against him.",
-      "links": "<a href='/AIV/6/23/9'>Joshua 23:9</a>",
-      "comment": "Simon’s succession and immediate challenge reveals the continual struggle between God's people and their adversaries. Leadership succession is a central theme in Scripture and points to Christ’s appointment of successors to shepherd His people, ensuring continuity and unity."
+      "text": "Seeing this, the neighboring nations plotted to destroy Israel, saying, 'They have no leader or helper now; let's attack them and wipe out their memory from among all people.'",
+      "links": "<a href='/AIV/19/83/4'>Ps 83:4</a>",
+      "comment": "Israel is threatened by its enemies in the absence of a strong leader, a recurring theme in Jewish history."
     }
   ],
-  "translatedAt": "2025-12-29T00:38:29.451Z"
+  "translatedAt": "2026-01-01T21:38:48.628Z"
 }

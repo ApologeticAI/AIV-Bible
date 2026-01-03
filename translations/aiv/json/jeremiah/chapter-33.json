@@ -3,6 +3,18 @@
   "bookName": "Jeremiah",
   "bookAbbreviation": "Jer",
   "chapter": 33,
+  "sections": [
+    {
+      "title": "The Promise of Restoration",
+      "startVerse": 1,
+      "endVerse": 13
+    },
+    {
+      "title": "The Righteous Branch and the Davidic Covenant",
+      "startVerse": 14,
+      "endVerse": 26
+    }
+  ],
   "verses": [
     {
       "pk": 30033001,
@@ -12,10 +24,10 @@
       "bookAbbreviation": "Jer",
       "chapter": 33,
       "verse": 1,
-      "text": "The word of the LORD came to Jeremiah a second time, while he was still shut up in the court of the guard:",
-      "links": "<a href='/AIV/24/32/2'>Jer. 32:2</a>; <a href='/AIV/24/37/21'>Jer. 37:21</a>",
-      "comment": "Jeremiah receives divine revelation during imprisonment, highlighting God's provision in adversity. 'Court of the guard' suggests Jeremiah is in confinement for prophesying truth.",
-      "sectionHeader": "The Promise of Restoration and Healing"
+      "text": "The word of the LORD came to Jeremiah a second time, while he was still confined in the court of the guard, saying:",
+      "links": "<a href='/AIV/24/32/2'>Jer. 32:2</a>",
+      "comment": "This verse introduces a new divine message to Jeremiah during his imprisonment, setting the context for the promises that follow.",
+      "sectionHeader": "The Promise of Restoration"
     },
     {
       "pk": 30033002,
@@ -25,9 +37,9 @@
       "bookAbbreviation": "Jer",
       "chapter": 33,
       "verse": 2,
-      "text": "Thus says the LORD who made the earth, the LORD who formed it to establish it—his name is the LORD:",
-      "links": "<a href='/AIV/01/1/1'>Gen. 1:1</a>; <a href='/AIV/24/31/35'>Jer. 31:35</a>",
-      "comment": "God identifies Himself as Creator. This grounds the following promises in His sovereign power and authority."
+      "text": "Thus says the LORD who made the earth, the LORD who formed it to establish it—the LORD is his name:",
+      "links": "<a href='/AIV/19/124/8'>Ps. 124:8</a>; <a href='/AIV/23/42/5'>Isa. 42:5</a>",
+      "comment": "A solemn introduction affirming God's sovereignty as Creator, emphasizing His authority over the message that follows."
     },
     {
       "pk": 30033003,
@@ -37,9 +49,9 @@
       "bookAbbreviation": "Jer",
       "chapter": 33,
       "verse": 3,
-      "text": "Call to me and I will answer you, and will tell you great and inaccessible things that you have not known.",
-      "links": "<a href='/AIV/19/91/15'>Ps. 91:15</a>; <a href='/AIV/40/7/7'>Matt. 7:7</a>",
-      "comment": "Encouragement to prayer and revelation; 'inaccessible things' refers to divine mysteries, prefiguring deeper revelation in New Testament teachings."
+      "text": "'Call to me and I will answer you, and will tell you great and hidden things that you have not known.'",
+      "links": "<a href='/AIV/29/2/32'>Joel 2:32</a>; <a href='/AIV/40/7/7'>Matt. 7:7</a>",
+      "comment": "God invites Jeremiah (and, by extension, His people) to seek Him for deeper understanding and revelation—an invitation later echoed by Jesus regarding prayer and God's generosity."
     },
     {
       "pk": 30033004,
@@ -49,9 +61,9 @@
       "bookAbbreviation": "Jer",
       "chapter": 33,
       "verse": 4,
-      "text": "For thus says the LORD, the God of Israel, concerning the houses of this city and the houses of the kings of Judah that are torn down to defend against the siege mounds and sword:",
-      "links": "<a href='/AIV/24/21/4-10'>Jer. 21:4-10</a>",
-      "comment": "Jerusalem's buildings are being destroyed for defense—symbolizing the desperate situation."
+      "text": "For thus says the LORD, the God of Israel, concerning the houses of this city and the houses of the kings of Judah that are torn down to defend against the siege ramps and the sword:",
+      "links": "<a href='/AIV/24/32/24'>Jer. 32:24</a>; <a href='/AIV/12/25/4'>2 Kings 25:4</a>",
+      "comment": "Describes the city’s destruction as the people desperately dismantle their own houses to defend against Babylon’s assault."
     },
     {
       "pk": 30033005,
@@ -61,9 +73,9 @@
       "bookAbbreviation": "Jer",
       "chapter": 33,
       "verse": 5,
-      "text": "They are coming in to fight against the Chaldeans, but to fill these houses with the dead bodies of people whom I have struck down in my anger and my wrath, for I have hidden my face from this city because of all their evil.",
-      "links": "<a href='/AIV/24/14/19'>Jer. 14:19</a>; <a href='/AIV/24/32/31-32'>Jer. 32:31-32</a>",
-      "comment": "God's judgment results in death and devastation due to persistent sin, showing the consequences of unrepentance."
+      "text": "They are coming in to fight with the Chaldeans, but to fill their houses with the dead bodies of men whom I have struck down in my anger and my wrath, for I have hidden my face from this city because of all their wickedness.",
+      "links": "<a href='/AIV/24/7/20'>Jer. 7:20</a>; <a href='/AIV/24/21/10'>Jer. 21:10</a>",
+      "comment": "God declares judgment for the people's sins; the devastation is ultimately attributed to divine justice rather than merely Babylonian forces."
     },
     {
       "pk": 30033006,
@@ -73,9 +85,9 @@
       "bookAbbreviation": "Jer",
       "chapter": 33,
       "verse": 6,
-      "text": "Behold, I will bring to it health and healing, and I will heal them and reveal to them the abundance of peace and truth.",
+      "text": "Behold, I will bring to it healing and restoration; I will heal them and reveal to them an abundance of peace and truth.",
       "links": "<a href='/AIV/24/30/17'>Jer. 30:17</a>; <a href='/AIV/23/57/19'>Isa. 57:19</a>",
-      "comment": "Transition from judgment to restoration; both physical and spiritual healing are promised, prefiguring ultimate reconciliation in Christ."
+      "comment": "Despite judgment, God introduces a promise of total healing—spiritually, socially, and physically—foreshadowing abundant peace that comes only from God’s intervention."
     },
     {
       "pk": 30033007,
@@ -85,9 +97,9 @@
       "bookAbbreviation": "Jer",
       "chapter": 33,
       "verse": 7,
-      "text": "I will restore the fortunes of Judah and the fortunes of Israel, and rebuild them as at the beginning.",
-      "links": "<a href='/AIV/24/29/14'>Jer. 29:14</a>; <a href='/AIV/24/30/3'>Jer. 30:3</a>",
-      "comment": "God plans to reunite and restore both Judah and Israel, emphasizing total renewal reminiscent of Eden."
+      "text": "I will restore the fortunes of Judah and the fortunes of Israel, and build them up as at first.",
+      "links": "<a href='/AIV/24/30/3'>Jer. 30:3</a>; <a href='/AIV/28/6/11'>Hos. 6:11</a>",
+      "comment": "God's faithfulness to both Judah and Israel highlights the reunification and renewal of His people, showing the restoration is both physical and spiritual."
     },
     {
       "pk": 30033008,
@@ -97,9 +109,9 @@
       "bookAbbreviation": "Jer",
       "chapter": 33,
       "verse": 8,
-      "text": "I will cleanse them from all the guilt of their sins against me, and I will forgive all their sins of rebellion against me.",
-      "links": "<a href='/AIV/24/31/34'>Jer. 31:34</a>; <a href='/AIV/62/1/9'>1 John 1:9</a>",
-      "comment": "Promise of both cleansing and forgiveness, echoing sacramental and spiritual restoration. Strong link to messianic prophecy regarding forgiveness of sins."
+      "text": "And I will cleanse them from all the guilt of their sin against me, and I will forgive all the guilt of their sin and rebellion against me.",
+      "links": "<a href='/AIV/24/31/34'>Jer. 31:34</a>; <a href='/AIV/19/51/2'>Ps. 51:2</a>",
+      "comment": "God promises forgiveness and true cleansing, a profound act that prefigures New Testament themes of grace and pardon through Christ (cf. Heb. 10:17)."
     },
     {
       "pk": 30033009,
@@ -109,9 +121,9 @@
       "bookAbbreviation": "Jer",
       "chapter": 33,
       "verse": 9,
-      "text": "This city will be to me a name of joy, a praise and glory before all the nations of the earth who will hear of all the good that I do for them; and they shall fear and tremble because of all the goodness and peace that I provide for it.",
-      "links": "<a href='/AIV/24/13/11'>Jer. 13:11</a>; <a href='/AIV/23/60/3-5'>Isa. 60:3-5</a>",
-      "comment": "Jerusalem's restoration serves as a witness to the world of God's faithfulness, prefiguring the gathering of the nations in eschatological fulfillment."
+      "text": "And this city shall be to me a name of joy, a praise and a glory before all the nations of the earth who shall hear of all the good that I do for them; they shall fear and tremble because of all the good and all the prosperity I provide for it.",
+      "links": "<a href='/AIV/24/13/11'>Jer. 13:11</a>; <a href='/AIV/24/33/16'>Jer. 33:16</a>",
+      "comment": "Jerusalem will become a testimony of God’s goodness; the surrounding nations will stand in awe, foreshadowing the universality of salvation."
     },
     {
       "pk": 30033010,
@@ -121,10 +133,9 @@
       "bookAbbreviation": "Jer",
       "chapter": 33,
       "verse": 10,
-      "text": "Thus says the LORD: In this place, of which you say, 'It is desolate, without man or beast,' in the cities of Judah and the streets of Jerusalem that are deserted, without man or inhabitant or beast, there shall be heard again",
+      "text": "Thus says the LORD: In this place of which you say, 'It is a waste without man or beast,' in the cities of Judah and in the streets of Jerusalem that are desolate, without man or inhabitant or beast,",
       "links": "<a href='/AIV/24/32/43'>Jer. 32:43</a>",
-      "comment": "Desolation is not permanent; promise of future restoration. Emphasizes that even utter ruin can become a source of hope.",
-      "sectionHeader": "Future Joy and Thanksgiving in Jerusalem"
+      "comment": "God acknowledges the utter desolation but sets the scene for a dramatic reversal."
     },
     {
       "pk": 30033011,
@@ -134,9 +145,9 @@
       "bookAbbreviation": "Jer",
       "chapter": 33,
       "verse": 11,
-      "text": "the voice of joy and the voice of gladness, the voice of the groom and the voice of the bride, the voices of those who sing, 'Give thanks to the LORD of hosts, for the LORD is good, for his steadfast love endures forever,' as they bring offerings of thanksgiving into the house of the LORD. For I will restore the fortunes of the land as at first, says the LORD.",
-      "links": "<a href='/AIV/19/106/1'>Ps. 106:1</a>; <a href='/AIV/24/31/12'>Jer. 31:12</a>",
-      "comment": "Return of celebration and worship points to liturgical restoration. The image of the 'bride and groom' anticipates New Testament imagery of Christ and the Church (cf. Rev. 19:7)."
+      "text": "there shall be heard again the voice of joy and the voice of gladness, the voice of the bridegroom and the voice of the bride, the voices of those who sing, as they bring thank offerings to the house of the LORD: 'Give thanks to the LORD of hosts, for the LORD is good, for his steadfast love endures forever!' For I will restore the fortunes of the land as at first, says the LORD.",
+      "links": "<a href='/AIV/19/100/4-5'>Ps. 100:4-5</a>; <a href='/AIV/24/30/19'>Jer. 30:19</a>",
+      "comment": "Restoration is pictured as liturgical worship and thanksgiving—thank offerings emphasizing the importance of the worshiping community."
     },
     {
       "pk": 30033012,
@@ -146,9 +157,9 @@
       "bookAbbreviation": "Jer",
       "chapter": 33,
       "verse": 12,
-      "text": "Thus says the LORD of hosts: In this place that is waste, without man or beast, in all its cities there shall again be dwellings for shepherds resting their flocks.",
-      "links": "<a href='/AIV/26/34/13-15'>Ezek. 34:13-15</a>; <a href='/AIV/19/23/1-2'>Ps. 23:1-2</a>",
-      "comment": "Shepherd imagery recalls God’s care, and prophecy of restoration. This anticipates both literal return and the spiritual gathering of God’s people."
+      "text": "Thus says the LORD of hosts: In this place that is waste, without man or beast, and in all its cities, there shall again be habitations of shepherds resting their flocks.",
+      "links": "<a href='/AIV/26/34/13-15'>Ezek. 34:13-15</a>",
+      "comment": "Shepherd imagery foreshadows the messianic shepherd (cf. John 10), and suggests pastoral leadership would continue—hinting at the legitimate, enduring line of spiritual shepherds."
     },
     {
       "pk": 30033013,
@@ -158,9 +169,9 @@
       "bookAbbreviation": "Jer",
       "chapter": 33,
       "verse": 13,
-      "text": "In the cities of the hill country, in the cities of the Shephelah, and in the cities of the Negev, in the land of Benjamin, in the places around Jerusalem, and in the cities of Judah, flocks shall again pass under the hands of the one who counts them, says the LORD.",
-      "links": "<a href='/AIV/24/17/26'>Jer. 17:26</a>; <a href='/AIV/03/27/32'>Lev. 27:32</a>",
-      "comment": "Restoration is comprehensive across all regions. 'Passing under the hands' references the shepherd's careful oversight, foreshadowing the coming Messianic shepherd."
+      "text": "In the cities of the hill country, in the cities of the Shephelah, in the cities of the Negev, in the land of Benjamin, the places around Jerusalem, and in the cities of Judah, flocks shall again pass under the hands of the one who counts them, says the LORD.",
+      "links": "<a href='/AIV/19/23/1'>Ps. 23:1</a>; <a href='/AIV/26/20/37'>Ezek. 20:37</a>",
+      "comment": "The return of flocks under shepherds’ hands symbolizes the restoration of God’s order, alluding to the Good Shepherd motif."
     },
     {
       "pk": 30033014,
@@ -170,10 +181,10 @@
       "bookAbbreviation": "Jer",
       "chapter": 33,
       "verse": 14,
-      "text": "Behold, the days are coming, declares the LORD, when I will fulfill the good promise that I made to the house of Israel and the house of Judah.",
-      "links": "<a href='/AIV/24/23/5'>Jer. 23:5</a>; <a href='/AIV/24/31/31-34'>Jer. 31:31-34</a>",
-      "comment": "'The days are coming' marks a pivotal messianic prophecy, promising fulfillment to both Israel and Judah—unity implied in future blessing.",
-      "sectionHeader": "The Righteous Branch and Perpetual Covenant"
+      "text": "Behold, the days are coming, declares the LORD, when I will fulfill the good word that I have spoken concerning the house of Israel and the house of Judah.",
+      "links": "<a href='/AIV/24/23/5'>Jer. 23:5</a>; <a href='/AIV/24/29/10'>Jer. 29:10</a>",
+      "comment": "This anticipates messianic fulfillment—a promise that would be realized in Christ for all God’s people.",
+      "sectionHeader": "The Righteous Branch and the Davidic Covenant"
     },
     {
       "pk": 30033015,
@@ -183,9 +194,9 @@
       "bookAbbreviation": "Jer",
       "chapter": 33,
       "verse": 15,
-      "text": "In those days and at that time I will cause a righteous Branch to spring up for David, and he shall execute justice and righteousness in the land.",
-      "links": "<a href='/AIV/23/11/1'>Isa. 11:1</a>; <a href='/AIV/24/23/5-6'>Jer. 23:5-6</a>; <a href='/AIV/40/1/1'>Matt. 1:1</a>",
-      "comment": "Direct messianic prophecy; 'Branch' is a symbol of the coming Christ. The Davidic kingdom is reaffirmed, connecting Old Testament hopes to New Testament fulfillment in Jesus."
+      "text": "In those days and at that time I will cause a righteous Branch to spring up for David; and he shall execute justice and righteousness in the land.",
+      "links": "<a href='/AIV/23/11/1'>Isa. 11:1</a>; <a href='/AIV/24/23/5'>Jer. 23:5</a>",
+      "comment": "The 'righteous Branch' is a clear prophetic image of the Messiah, fulfilled in Jesus Christ, who is descended from David and establishes justice."
     },
     {
       "pk": 30033016,
@@ -195,9 +206,9 @@
       "bookAbbreviation": "Jer",
       "chapter": 33,
       "verse": 16,
-      "text": "In those days Judah will be saved, and Jerusalem will dwell securely. And this is the name by which it will be called: 'The LORD is our righteousness.'",
+      "text": "In those days Judah will be saved and Jerusalem will dwell securely. And this is the name by which it will be called: 'The LORD is our righteousness.'",
       "links": "<a href='/AIV/24/23/6'>Jer. 23:6</a>; <a href='/AIV/45/3/22'>Rom. 3:22</a>",
-      "comment": "'The LORD is our righteousness' both applies to the city and foreshadows the imputed righteousness received through Christ. Note spiritual and communal security promised."
+      "comment": "God Himself will be the righteousness of His people, a theme directly realized in New Testament revelation about justification and the gift of divine life in believers."
     },
     {
       "pk": 30033017,
@@ -207,9 +218,9 @@
       "bookAbbreviation": "Jer",
       "chapter": 33,
       "verse": 17,
-      "text": "For thus says the LORD: David will never lack a man to sit on the throne of the house of Israel;",
-      "links": "<a href='/AIV/10/7/16'>2 Sam. 7:16</a>; <a href='/AIV/42/1/32-33'>Luke 1:32-33</a>",
-      "comment": "Unbroken Davidic lineage points towards perpetual kingship, interpreted spiritually in Christ's everlasting reign."
+      "text": "For thus says the LORD: David shall never lack a man to sit on the throne of the house of Israel,",
+      "links": "<a href='/AIV/10/7/16'>2 Sam. 7:16</a>; <a href='/AIV/24/23/5'>Jer. 23:5</a>",
+      "comment": "The perpetual nature of the Davidic line is guaranteed. Christians see this ultimately fulfilled in Jesus as eternal King, whose reign is everlasting (Luke 1:32-33)."
     },
     {
       "pk": 30033018,
@@ -219,9 +230,9 @@
       "bookAbbreviation": "Jer",
       "chapter": 33,
       "verse": 18,
-      "text": "and the Levitical priests will never lack a man before me to offer burnt offerings, to burn grain offerings, and to make sacrifices continually.",
-      "links": "<a href='/AIV/03/6/9'>Lev. 6:9</a>; <a href='/AIV/58/7/24-27'>Heb. 7:24-27</a>",
-      "comment": "Perpetual priesthood denotes ongoing sacrificial worship. Interpreted as foreshadowing the enduring liturgical ministry seen in New Testament worship."
+      "text": "and the Levitical priests shall never lack a man in my presence to offer burnt offerings, to burn grain offerings, and to make sacrifices forever.",
+      "links": "<a href='/AIV/2/28/43'>Exod. 28:43</a>; <a href='/AIV/58/7/24'>Heb. 7:24</a>",
+      "comment": "A perpetual priesthood is promised. In Christian understanding, Jesus’ eternal priesthood fulfills this promise, and a visible, sacramental priesthood carries forward God’s liturgical worship through the ages."
     },
     {
       "pk": 30033019,
@@ -231,10 +242,9 @@
       "bookAbbreviation": "Jer",
       "chapter": 33,
       "verse": 19,
-      "text": "And the word of the LORD came to Jeremiah:",
+      "text": "The word of the LORD came to Jeremiah:",
       "links": "<a href='/AIV/24/33/1'>Jer. 33:1</a>",
-      "comment": "Signifies another divine statement, emphasizing prophetic authority.",
-      "sectionHeader": "God’s Unbreakable Covenant with David and the Levites"
+      "comment": "A new oracle begins, confirming and underscoring the certainty of God’s previous promises."
     },
     {
       "pk": 30033020,
@@ -244,9 +254,9 @@
       "bookAbbreviation": "Jer",
       "chapter": 33,
       "verse": 20,
-      "text": "Thus says the LORD: If you can break my covenant with the day and my covenant with the night, so that day and night no longer come at their appointed time,",
-      "links": "<a href='/AIV/01/8/22'>Gen. 8:22</a>; <a href='/AIV/19/104/19'>Ps. 104:19</a>",
-      "comment": "God uses the regular order of creation to assert the unbreakable nature of His covenant promises."
+      "text": "Thus says the LORD: If you can break my covenant with the day and my covenant with the night, so that day and night will not come at their appointed time,",
+      "links": "<a href='/AIV/1/8/22'>Gen. 8:22</a>",
+      "comment": "Compares God’s covenant to creation’s reliability, emphasizing the perpetual, unbreakable nature of His promises."
     },
     {
       "pk": 30033021,
@@ -256,9 +266,9 @@
       "bookAbbreviation": "Jer",
       "chapter": 33,
       "verse": 21,
-      "text": "then also my covenant with David my servant may be broken, so that he will not have a son to reign on his throne, and my covenant with my ministers, the Levites.",
-      "links": "<a href='/AIV/10/7/12-16'>2 Sam. 7:12-16</a>; <a href='/AIV/58/6/17'>Heb. 6:17</a>",
-      "comment": "God’s covenant with David and the priesthood is as steadfast as creation itself. Theologically, this affirms succession and continuity."
+      "text": "then also my covenant with David my servant may be broken, so that he shall not have a son to reign on his throne, and my covenant with the Levitical priests my ministers.",
+      "links": "<a href='/AIV/19/89/34-37'>Ps. 89:34-37</a>",
+      "comment": "God’s promise regarding the Davidic king and priestly ministry is as sure as the order of creation, underscoring the Church's visible leadership and sacramental continuity."
     },
     {
       "pk": 30033022,
@@ -268,9 +278,9 @@
       "bookAbbreviation": "Jer",
       "chapter": 33,
       "verse": 22,
-      "text": "As the host of heaven cannot be numbered and the sands of the sea cannot be measured, so I will multiply the descendants of David my servant and the Levitical priests who minister to me.",
-      "links": "<a href='/AIV/01/22/17'>Gen. 22:17</a>; <a href='/AIV/58/7/24'>Heb. 7:24</a>",
-      "comment": "Abundant offspring connects Abrahamic, Davidic, and priestly promises, foreshadowing the universal, united people of God."
+      "text": "As the host of heaven cannot be numbered and the sands of the sea cannot be measured, so I will multiply the offspring of David my servant, and the Levitical priests who minister to me.",
+      "links": "<a href='/AIV/1/15/5'>Gen. 15:5</a>; <a href='/AIV/1/22/17'>Gen. 22:17</a>",
+      "comment": "Alludes to the Abrahamic promise—the people of God and their spiritual leaders will be innumerable, a reality fulfilled in the worldwide reach of the Church."
     },
     {
       "pk": 30033023,
@@ -281,9 +291,8 @@
       "chapter": 33,
       "verse": 23,
       "text": "The word of the LORD came to Jeremiah:",
-      "links": "<a href='/AIV/24/33/1'>Jer. 33:1</a>; <a href='/AIV/24/33/19'>Jer. 33:19</a>",
-      "comment": "Signals yet another revelation, further reinforcing the prophecy's certainty.",
-      "sectionHeader": "Assurance of Restoration for Israel and Judah"
+      "links": "<a href='/AIV/24/33/1'>Jer. 33:1</a>",
+      "comment": "Indicates a new divine message, reinforcing the certainty and significance of the previous promises."
     },
     {
       "pk": 30033024,
@@ -293,9 +302,9 @@
       "bookAbbreviation": "Jer",
       "chapter": 33,
       "verse": 24,
-      "text": "Have you not observed what these people are saying: 'The LORD has rejected the two families that he chose'? Thus they despise my people, so that they are no longer a nation in their sight.",
-      "links": "<a href='/AIV/24/31/1'>Jer. 31:1</a>; <a href='/AIV/24/11/15'>Jer. 11:15</a>",
-      "comment": "Echoes doubts of the faithless. 'Two families' refers to Israel and Judah or Davidic and priestly lines. God will affirm their ongoing chosenness."
+      "text": "Have you not observed what these people have spoken, saying, 'The LORD has rejected the two families that he chose'? Thus they have despised my people so that they are no longer a nation in their sight.",
+      "links": "<a href='/AIV/24/31/36-37'>Jer. 31:36-37</a>",
+      "comment": "Despite Israel’s apparent rejection, God affirms He has not abandoned His chosen people—the promises endure."
     },
     {
       "pk": 30033025,
@@ -306,8 +315,8 @@
       "chapter": 33,
       "verse": 25,
       "text": "Thus says the LORD: If I have not established my covenant with day and night and the fixed order of heaven and earth,",
-      "links": "<a href='/AIV/01/8/22'>Gen. 8:22</a>; <a href='/AIV/19/89/37'>Ps. 89:37</a>",
-      "comment": "God invokes His established covenant with the cycles of day and night, a reference to His ongoing faithfulness and control over creation (cf. Genesis 8:22); this underscores the immutability of His promises to Israel despite present calamities."
+      "links": "<a href='/AIV/1/1/14-18'>Gen. 1:14-18</a>",
+      "comment": "God reassures with the stability of creation as a sign of His unbreakable word."
     },
     {
       "pk": 30033026,
@@ -317,37 +326,10 @@
       "bookAbbreviation": "Jer",
       "chapter": 33,
       "verse": 26,
-      "text": "then I will reject the descendants of Jacob and David my servant, and will not choose one of his offspring to rule over the descendants of Abraham, Isaac, and Jacob. For I will restore their fortunes and have compassion on them.",
-      "links": "<a href='/AIV/01/13/14-17'>Gen. 13:14-17</a>; <a href='/AIV/24/33/7'>Jer. 33:7</a>; <a href='/AIV/45/11/29'>Rom. 11:29</a>",
-      "comment": "Ends with assurance: restoration and mercy are certain. Connects the patriarchal, Davidic, and priestly promises, pointing to a unified, apostolic leadership and compassion for God’s people."
+      "text": "then I will reject the offspring of Jacob and David my servant and will not choose one of his offspring to rule over the descendants of Abraham, Isaac, and Jacob. For I will restore their fortunes and will have mercy on them.",
+      "links": "<a href='/AIV/1/49/10'>Gen. 49:10</a>; <a href='/AIV/24/32/44'>Jer. 32:44</a>",
+      "comment": "God reiterates His irrevocable promise to the patriarchs and David, ensuring restoration and mercy for His people. The restoration motif ties deeply into the faith’s expectation of Messiah, manifest in Christ, and present even now through His Church."
     }
   ],
-  "translatedAt": "2025-12-24T08:40:06.933Z",
-  "sections": [
-    {
-      "title": "The Promise of Restoration and Healing",
-      "startVerse": 1,
-      "endVerse": 9
-    },
-    {
-      "title": "Future Joy and Thanksgiving in Jerusalem",
-      "startVerse": 10,
-      "endVerse": 13
-    },
-    {
-      "title": "The Righteous Branch and Perpetual Covenant",
-      "startVerse": 14,
-      "endVerse": 18
-    },
-    {
-      "title": "God’s Unbreakable Covenant with David and the Levites",
-      "startVerse": 19,
-      "endVerse": 22
-    },
-    {
-      "title": "Assurance of Restoration for Israel and Judah",
-      "startVerse": 23,
-      "endVerse": 26
-    }
-  ]
+  "translatedAt": "2026-01-01T04:58:58.213Z"
 }

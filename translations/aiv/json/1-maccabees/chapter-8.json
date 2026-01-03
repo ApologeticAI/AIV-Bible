@@ -3,6 +3,23 @@
   "bookName": "1 Maccabees",
   "bookAbbreviation": "1Macc",
   "chapter": 8,
+  "sections": [
+    {
+      "title": "The Fame and Strength of Rome",
+      "startVerse": 1,
+      "endVerse": 16
+    },
+    {
+      "title": "The Jewish Mission to Rome",
+      "startVerse": 17,
+      "endVerse": 21
+    },
+    {
+      "title": "The Roman Treaty",
+      "startVerse": 22,
+      "endVerse": 32
+    }
+  ],
   "verses": [
     {
       "pk": 20008001,
@@ -12,10 +29,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 8,
       "verse": 1,
-      "text": "Judas heard of the fame of the Romans, how they were powerful and looked kindly on all who allied with them, making agreements of friendship with those who came to them.",
-      "links": "<a href='/AIV/42/2/1-3'>Luke 2:1-3</a>; <a href='/AIV/27/7/8'>Daniel 7:8</a>",
-      "comment": "The mention of Rome foreshadows its future significance in salvation history, especially in the New Testament era, highlighting God's providential guidance through earthly kingdoms.",
-      "sectionHeader": "The Fame and Power of Rome"
+      "text": "Judas had heard about the reputation of the Romans—how powerful they were, how they offered loyalty and friendship to those who joined with them, and how they made covenants with all who approached them.",
+      "links": "<a href='/AIV/27/2/40'>Daniel 2:40</a>; <a href='/AIV/45/13/1'>Romans 13:1</a>",
+      "comment": "The Romans' political alliances and their practice of binding treaties is highlighted here, establishing the context for the Jewish search for allies.",
+      "sectionHeader": "The Fame and Strength of Rome"
     },
     {
       "pk": 20008002,
@@ -25,9 +42,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 8,
       "verse": 2,
-      "text": "He was told of their battles and the great deeds they had done against the Gauls, how they had conquered and made them submit.",
+      "text": "He had learned of their military campaigns and the heroic feats they accomplished against the Gauls—how they overcame them and imposed tribute on them.",
       "links": "<a href='/AIV/27/2/40'>Daniel 2:40</a>",
-      "comment": "The historical context underscores the might of Rome and prepares the reader for understanding world powers in biblical prophecy."
+      "comment": "This verse refers to the Roman conquests in Northern Italy/Gaul and their practice of subjugating defeated peoples."
     },
     {
       "pk": 20008003,
@@ -37,9 +54,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 8,
       "verse": 3,
-      "text": "He was also told how they overcame other kingdoms far away and brought rulers who had risen up against them down, and how they made even greater kings pay them tribute.",
-      "links": "<a href='/AIV/27/7/23'>Daniel 7:23</a>",
-      "comment": "Rome's expansion echoes the biblical theme of empires rising and falling by God's allowance, seen in the prophetic writings."
+      "text": "He also heard about their achievements in Spain, where they seized control of the rich silver and gold mines.",
+      "links": "<a href='/AIV/19/72/15-16'>Psalm 72:15-16</a>",
+      "comment": "This passage probably refers to Rome's expansion into the Iberian Peninsula and their interest in its natural resources."
     },
     {
       "pk": 20008004,
@@ -49,9 +66,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 8,
       "verse": 4,
-      "text": "And how they destroyed Philip, king of Macedonia, and Perses, ruler of the Cypriots, who fought against them.",
-      "links": "<a href='/AIV/27/11/29-30'>Daniel 11:29-30</a>",
-      "comment": "This shows God’s control over world history, using even non-Israelite kingdoms to accomplish His purposes."
+      "text": "Through skillful planning and patience, the Romans had managed to conquer territories far from their own. Even distant kings who rose up against them were defeated and severely punished, so that those who remained brought annual tribute.",
+      "links": "<a href='/AIV/27/2/40'>Daniel 2:40</a>",
+      "comment": "This comments on Rome's administrative abilities and long-term strategies in managing their distant provinces."
     },
     {
       "pk": 20008005,
@@ -61,9 +78,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 8,
       "verse": 5,
-      "text": "He also heard how Antiochus the Great, king of Asia, had attacked them with a hundred and twenty elephants, with cavalry, chariots, and a great army, but they defeated him and took him captive.",
-      "links": "<a href='/AIV/27/8/9-11'>Daniel 8:9-11</a>",
-      "comment": "The military prowess of the Romans is described to emphasize their dominance, ultimately subject to God's sovereign will."
+      "text": "The Romans had triumphed in battle over Philip, Perseus the Macedonian king, and others who rose against them.",
+      "links": "<a href='/AIV/44/17/6-7'>Acts 17:6-7</a>",
+      "comment": "Historical reference to the Roman defeat of Macedonian kings during the Macedonian Wars."
     },
     {
       "pk": 20008006,
@@ -73,9 +90,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 8,
       "verse": 6,
-      "text": "And how they took possession of his lands and conquered India, Media, and Lydia, and gave these regions to King Eumenes.",
-      "links": "<a href='/AIV/27/8/5-8'>Daniel 8:5-8</a>",
-      "comment": "This verse summarizes Roman military might, claiming their conquests over vast territories and their influence in assigning lands (such as giving regions to King Eumenes, likely Eumenes II of Pergamum), reflecting the author's awe at Rome's power and political dominance, though some geographic references are generalized according to Hellenistic historiography."
+      "text": "They also overcame Antiochus the Great, the king of Asia, who faced them with one hundred twenty elephants, a vast cavalry force, chariots, and an enormous army, yet was utterly routed by the Romans.",
+      "links": "<a href='/AIV/27/11/18-19'>Daniel 11:18-19</a>",
+      "comment": "Antiochus III, also called the Great, was defeated by Rome at Magnesia in 190 BC."
     },
     {
       "pk": 20008007,
@@ -85,9 +102,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 8,
       "verse": 7,
-      "text": "He was told of the Greeks, how they planned to come against them, but this was made known, and the Romans went out to fight and routed them; many of their men died and were taken captive. They forced the Greeks to pay tribute.",
-      "links": "<a href='/AIV/27/7/6'>Daniel 7:6</a>",
-      "comment": "The persistent defense and victory parallel the enduring nature of God’s people, called to remain steadfast in faith."
+      "text": "After capturing him alive, they forced him and his successors to pay a heavy tribute, surrender hostages, and cede some of his best provinces.",
+      "links": "<a href='/AIV/27/11/19'>Daniel 11:19</a>",
+      "comment": "Rome imposed severe terms on Antiochus III after his defeat, including territorial losses and tribute."
     },
     {
       "pk": 20008008,
@@ -97,9 +114,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 8,
       "verse": 8,
-      "text": "The Romans seized their strongholds and took their lands, subduing others far away and near; those who rose up against them they destroyed.",
-      "links": "<a href='/AIV/27/2/44'>Daniel 2:44</a>",
-      "comment": "Rome’s conquests serve as a backdrop for understanding how God prepares human history for His divine interventions."
+      "text": "The Romans took the lands of India, Media, and Lydia from him and entrusted them to King Eumenes.",
+      "links": "<a href='/AIV/27/11/18'>Daniel 11:18</a>",
+      "comment": "This refers to the redistribution of the Seleucid territories to Rome's ally, Eumenes II of Pergamum."
     },
     {
       "pk": 20008009,
@@ -109,9 +126,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 8,
       "verse": 9,
-      "text": "But their policy was that none of them would become king or wear a crown; instead, they held council all together and governed every year, appointing one man to lead them and rule over their affairs.",
-      "links": "<a href='/AIV/20/11/14'>Proverbs 11:14</a>",
-      "comment": "Collective leadership recalls the importance of unity and shared governance, a principle reflected in both the early Church and apostolic tradition."
+      "text": "The Greeks had plotted to come and wipe out the Romans,",
+      "links": "<a href='/AIV/27/8/21'>Daniel 8:21</a>",
+      "comment": "This summarizes a Greek coalition's failed attempt to challenge Roman supremacy."
     },
     {
       "pk": 20008010,
@@ -121,9 +138,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 8,
       "verse": 10,
-      "text": "They were very prosperous in everything they did, and their government was respected.",
-      "links": "<a href='/AIV/19/1/3'>Psalm 1:3</a>",
-      "comment": "This prosperity is achieved through wise counsel, echoing wisdom literature about the blessings of godly leadership."
+      "text": "but the Romans learned of their plan, dispatched a general, went to war against them, inflicted heavy casualties, took their wives and children captive, pillaged them, seized their land, demolished their forts, and enslaved them, where they remain to this day.",
+      "links": "<a href='/AIV/27/8/21-22'>Daniel 8:21-22</a>",
+      "comment": "Rome's crushing of Greek opposition and enslavement of Greek peoples is noted here."
     },
     {
       "pk": 20008011,
@@ -133,9 +150,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 8,
       "verse": 11,
-      "text": "None of them was arrogant or tried to dominate another; instead, every man looked out for his neighbor’s welfare.",
-      "links": "<a href='/AIV/40/22/39'>Matthew 22:39</a>",
-      "comment": "This echoes Christ’s teaching to love one’s neighbor as oneself, foundational for Christian ethics."
+      "text": "In fact, any kingdom or island that stood against them, they utterly destroyed and subjugated.",
+      "links": "<a href='/AIV/27/2/40'>Daniel 2:40</a>",
+      "comment": "The scope of Roman expansion and their tendency to utterly subdue opponents is emphasized."
     },
     {
       "pk": 20008012,
@@ -145,9 +162,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 8,
       "verse": 12,
-      "text": "They made agreements and alliances with other nations and those around them, and those who wished to ally with them must submit to their decrees.",
-      "links": "<a href='/AIV/46/6/1'>1 Corinthians 6:1</a>",
-      "comment": "The Romans’ covenantal practices set a precedent for legal and spiritual order within communities."
+      "text": "but with their friends and those who rely on them they have kept friendship. They have subdued kings far and near, and as many as have heard of their fame have feared them.",
+      "links": "<a href='/AIV/20/16/7'>Proverbs 16:7</a>",
+      "comment": "Highlights Roman loyalty toward allies, contrasting with their dominance over kings near and far; emphasizes their reputation and reliability."
     },
     {
       "pk": 20008013,
@@ -157,9 +174,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 8,
       "verse": 13,
-      "text": "They kept faith with their allies, honoring their treaties. No one ever tried to break their terms.",
-      "links": "<a href='/AIV/19/15/4'>Psalm 15:4</a>",
-      "comment": "Faithfulness to covenant reflects the spiritual call to integrity, so prominent in the life of God’s people."
+      "text": "Those whom they wish to help and to make kings, they make kings, and those whom they wish they depose; and they have been greatly exalted.",
+      "links": "<a href='/AIV/27/5/19'>Daniel 5:19</a>",
+      "comment": "Stresses the Romans' unique authority to appoint or depose rulers, and their resulting exaltation among nations."
     },
     {
       "pk": 20008014,
@@ -169,9 +186,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 8,
       "verse": 14,
-      "text": "He was told how far they excelled all others in greatness; none could match their political wisdom.",
-      "links": "<a href='/AIV/11/3/12'>1 Kings 3:12</a>",
-      "comment": "Political wisdom here highlights the value of discernment, like Solomon’s, for governing the people of God."
+      "text": "Yet for all this not one of them has put on a crown or worn purple as a mark of pride,",
+      "links": "<a href='/AIV/18/29/14'>Job 29:14</a>",
+      "comment": "Specifies that no Roman has adopted royal insignia or purple as a display of pride; emphasizes Roman republican modesty versus monarchy."
     },
     {
       "pk": 20008015,
@@ -181,9 +198,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 8,
       "verse": 15,
-      "text": "They built a senate chamber where every day 320 senators deliberated on the welfare of their people, ensuring good government.",
-      "links": "<a href='/AIV/20/15/22'>Proverbs 15:22</a>",
-      "comment": "Assembly for communal decision-making points to the importance of councils — a model the Church would later embrace for doctrine and unity."
+      "text": "Instead, they built a senate, where three hundred twenty senators meet daily to deliberate continually about the concerns of the people, ensuring just governance.",
+      "links": "<a href='/AIV/44/28/17'>Acts 28:17</a>",
+      "comment": "This describes the Roman Senate's unique role in government, presented as a model of republican governance."
     },
     {
       "pk": 20008016,
@@ -193,9 +210,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 8,
       "verse": 16,
-      "text": "They entrusted their nation to one person chosen yearly to lead and command their armies.",
-      "links": "<a href='/AIV/18/29/15'>Job 29:15'>",
-      "comment": "Leadership appointment highlights order and accountability, principles key in spiritual and ecclesiastic structures."
+      "text": "They trust one man each year to rule over them and to control all their land; they all heed the one man, and there is no envy or jealousy among them.",
+      "links": "<a href='/AIV/45/13/1'>Romans 13:1</a>",
+      "comment": "Describes the annual election of a chief magistrate, the singular obedience he commands, and the absence of envy—stressing Roman political order."
     },
     {
       "pk": 20008017,
@@ -205,10 +222,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 8,
       "verse": 17,
-      "text": "Judas chose Eupolemus son of John, son of Accos, and Jason son of Eleazar; he sent them to Rome to establish friendship and alliance with Rome.",
-      "links": "<a href='/AIV/55/4/9-11'>2 Timothy 4:9-11</a>",
-      "comment": "The sending of envoys recalls the apostolic mission to bring the gospel to the nations, reflecting spiritual diplomacy.",
-      "sectionHeader": "Judas Sends Envoys to Rome"
+      "text": "Judas then selected Eupolemus, son of John son of Accos, and Jason, son of Eleazar, and sent them to Rome to establish a partnership and treaty of friendship,",
+      "links": "<a href='/AIV/12/25/19-20'>2 Kings 25:19-20</a>",
+      "comment": "Jewish envoys are chosen by Judas to negotiate with Rome, marking a significant diplomatic milestone.",
+      "sectionHeader": "The Jewish Mission to Rome"
     },
     {
       "pk": 20008018,
@@ -218,9 +235,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 8,
       "verse": 18,
-      "text": "Judas wanted the Romans to be allies in case hostile powers, especially the kingdom of Greece, threatened to oppress Israel.",
-      "links": "<a href='/AIV/19/121/6'>Psalm 121:6</a>",
-      "comment": "Seeking alliance for protection models prudent engagement with temporal authorities, while trusting ultimately in God’s providence."
+      "text": "and to free themselves from the yoke; for they saw that the kingdom of the Greeks was enslaving Israel completely.",
+      "links": "<a href='/AIV/27/11/39-40'>Daniel 11:39-40</a>",
+      "comment": "Notes that the Jewish embassy to Rome was motivated by a desire for liberation from oppressive Greek/Seleucid rule."
     },
     {
       "pk": 20008019,
@@ -230,9 +247,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 8,
       "verse": 19,
-      "text": "The ambassadors traveled to Rome — a long journey — and entered the Roman senate where they spoke:",
-      "links": "<a href='/AIV/44/28/17'>Acts 28:17</a>",
-      "comment": "This journey foreshadows apostolic travels, reminding believers of the universal mission entrusted to Christ’s followers."
+      "text": "They journeyed a great distance to Rome, and upon arrival, entered the senate and spoke as follows:",
+      "links": "<a href='/AIV/16/1/11'>Nehemiah 1:11</a>",
+      "comment": "Describes the delegation’s long journey and the formality of their approach to Rome’s governing body."
     },
     {
       "pk": 20008020,
@@ -242,9 +259,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 8,
       "verse": 20,
-      "text": "\"Judas, also called Maccabeus, and his brothers and the people of the Jews sent us to make alliance and peace with you, to be counted among your allies and friends.\"",
-      "links": "<a href='/AIV/19/122/8'>Psalm 122:8</a>",
-      "comment": "Peace and fellowship with others are valued in both Testaments, seen as a fruit of salvation and a sign of God’s kingdom."
+      "text": "\"Judas, who is also called Maccabeus, and his brothers and the Jewish people have sent us to forge an alliance and peace with you, that we may be counted among your allies and friends.\"",
+      "links": "<a href='/AIV/19/122/6-8'>Psalm 122:6-8</a>",
+      "comment": "The formal wording of the Jewish request echoes international treaty language."
     },
     {
       "pk": 20008021,
@@ -254,9 +271,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 8,
       "verse": 21,
-      "text": "The Romans accepted their words, offering peace, and recorded this request in their archives.",
-      "links": "<a href='/AIV/23/2/1-5'>Isaiah 2:1-5</a>",
-      "comment": "Archival record-keeping for covenants mirrors biblical emphasis on the lasting nature of God’s promises and spiritual covenants."
+      "text": "Their proposal was well received by the Romans.",
+      "links": "<a href='/AIV/20/22/11'>Proverbs 22:11</a>",
+      "comment": "The positive response paves the way for a treaty between the two peoples."
     },
     {
       "pk": 20008022,
@@ -266,10 +283,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 8,
       "verse": 22,
-      "text": "These are the words inscribed: \"May it be auspicious for the Romans and Jews to form an alliance, to help each other if attacked.\"",
-      "links": "<a href='/AIV/21/4/10-12'>Ecclesiastes 4:10-12</a>",
-      "comment": "Scriptural wisdom encourages solidarity among believers, and with righteous nations, for mutual support.",
-      "sectionHeader": "The Treaty Between Rome and Israel"
+      "text": "This is a copy of the letter they wrote in reply, which they engraved on bronze tablets and sent to Jerusalem as a lasting record of their alliance and peace:",
+      "links": "<a href='/AIV/27/6/12'>Daniel 6:12</a>",
+      "comment": "Bronze tablets were standard for binding and enduring Roman treaties.",
+      "sectionHeader": "The Roman Treaty"
     },
     {
       "pk": 20008023,
@@ -279,9 +296,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 8,
       "verse": 23,
-      "text": "\"If war is brought upon the Romans or any of their allies anywhere, the Jews will come to their aid, as needed, without giving help to the attackers.\"",
-      "links": "<a href='/AIV/19/20/2'>Psalm 20:2</a>",
-      "comment": "A mutual defense pact mirrors spiritual solidarity found among those who share a common covenant."
+      "text": "“May all go well with the Romans and with the nation of the Jews at sea and on land forever, and may sword and enemy be far from them.",
+      "links": "<a href='/AIV/19/122/6-8'>Psalm 122:6-8</a>",
+      "comment": "The formal greeting and blessing at the start of the treaty, praying for perpetual peace, prosperity, and safety for both nations."
     },
     {
       "pk": 20008024,
@@ -291,9 +308,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 8,
       "verse": 24,
-      "text": "\"Similarly, if war comes upon the Jews or their allies, the Romans will help as necessary, without providing support to the opposing side.\"",
-      "links": "<a href='/AIV/19/46/1'>Psalm 46:1</a>",
-      "comment": "This reflects the virtue of loyalty among God’s people, essential for spiritual brotherhood."
+      "text": "If Rome or any of their allies in any district faces war first,",
+      "links": "<a href='/AIV/20/17/17'>Proverbs 17:17</a>",
+      "comment": "The treaty stipulates mutual defense if Rome or its allies are attacked."
     },
     {
       "pk": 20008025,
@@ -303,9 +320,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 8,
       "verse": 25,
-      "text": "\"Such help, if given, will not involve monetary tribute or armed assistance, as decided by both parties.\"",
-      "links": "<a href='/AIV/19/37/21'>Psalm 37:21</a>",
-      "comment": "The clarity of duty and support is a model for both civil and ecclesial relationships."
+      "text": "then the Jewish nation shall support them as devoted allies, as circumstances require.",
+      "links": "<a href='/AIV/43/15/13'>John 15:13</a>",
+      "comment": "The wording reflects loyalty and the willingness to respond as situations demand."
     },
     {
       "pk": 20008026,
@@ -315,9 +332,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 8,
       "verse": 26,
-      "text": "\"The agreement stands: If either fights in their home country, the other won’t supply grain, arms, money, or ships, as decided mutually.",
-      "links": "<a href='/AIV/20/21/1'>Proverbs 21:1</a>",
-      "comment": "Wise boundaries in covenants reflect prudence, a key spiritual virtue for living in community."
+      "text": "To the enemy that makes war they shall not give or supply grain, arms, money, or ships, just as Rome has decided; and they shall keep their obligations without receiving any return.",
+      "links": "<a href='/AIV/23/8/9-10'>Isaiah 8:9-10</a>",
+      "comment": "Stipulates that neither side will provide material aid to their adversaries; reinforces mutual obligation without expectation of reward."
     },
     {
       "pk": 20008027,
@@ -327,9 +344,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 8,
       "verse": 27,
-      "text": "\"They’ll honor each other’s agreements in good faith and without deceit.\"",
-      "links": "<a href='/AIV/19/101/7'>Psalm 101:7</a>",
-      "comment": "Sin destroys trust; honesty is fundamental in all alliances and relationships, just as God honors His covenants."
+      "text": "In the same way, if war comes first to the nation of the Jews, the Romans shall willingly act as their allies, as the occasion may indicate to them.",
+      "links": "<a href='/AIV/20/17/17'>Proverbs 17:17</a>",
+      "comment": "Ensures reciprocal military aid from Rome should Judea be attacked, according to Roman discretion."
     },
     {
       "pk": 20008028,
@@ -339,9 +356,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 8,
       "verse": 28,
-      "text": "\"Regarding these matters, Romans and Jews have set terms, and if both parties wish to amend them later, they can do so by mutual counsel and agreement.\"",
-      "links": "<a href='/AIV/44/15/6'>Acts 15:6</a>",
-      "comment": "This open discussion and amendment process reminds us of Church councils for discerning and clarifying doctrine."
+      "text": "And to their enemies there shall not be given grain, arms, money, or ships, just as Rome has decided; and they shall keep these obligations and do so without deceit.",
+      "links": "<a href='/AIV/23/8/9-10'>Isaiah 8:9-10</a>",
+      "comment": "Restates the absolute refusal of aid to enemies, the requirement for loyalty, and that these obligations are to be fulfilled honestly."
     },
     {
       "pk": 20008029,
@@ -351,9 +368,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 8,
       "verse": 29,
-      "text": "\"Whatever they decide together is binding for both, and what was previously agreed remains firm until altered by consensus.\"",
-      "links": "<a href='/AIV/40/18/18'>Matthew 18:18</a>",
-      "comment": "Binding decisions by agreement foreshadow Church authority to bind and loose, as given by Christ to His apostles."
+      "text": "Thus on these terms the Romans make a treaty with the Jewish people.",
+      "links": "<a href='/AIV/19/105/8-9'>Psalm 105:8-9</a>",
+      "comment": "Confirms the binding nature of the treaty ratified on the stated conditions."
     },
     {
       "pk": 20008030,
@@ -363,9 +380,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 8,
       "verse": 30,
-      "text": "As for the harm done by King Demetrius to the Jews, the Romans commanded: 'No complaint should be made about prior wrongs.'",
-      "links": "<a href='/AIV/40/6/14'>Matthew 6:14</a>",
-      "comment": "The call to not hold grievances supports the teaching to forgive others, embodied in Christ’s prayer and commands."
+      "text": "If in the future both parties agree to add or remove anything from these terms, they may do so as they see fit, and whatever they decide will stand.",
+      "links": "<a href='/AIV/05/29/1'>Deuteronomy 29:1</a>",
+      "comment": "The treaty is amenable to changes by mutual consent."
     },
     {
       "pk": 20008031,
@@ -375,10 +392,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 8,
       "verse": 31,
-      "text": "After hearing these matters, the Romans sent envoys, writing to the kings in the region to tell them: 'Why have you oppressed our friends and allies?'",
-      "links": "<a href='/AIV/19/82/6'>Psalm 82:6</a>",
-      "comment": "Advocacy for allies demonstrates the justice and protection God calls rulers to provide, foreshadowing Christ’s defense of His Church.",
-      "sectionHeader": "Roman Intervention on Behalf of Israel"
+      "text": "\"As for the injustices King Demetrius has done to them, we have written to him: 'Why are you burdening our friends and allies, the Jews, with your yoke?'\"",
+      "links": "<a href='/AIV/24/30/8'>Jeremiah 30:8</a>",
+      "comment": "Mentions Roman diplomatic intervention on behalf of the Jews regarding Seleucid oppression."
     },
     {
       "pk": 20008032,
@@ -388,32 +404,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 8,
       "verse": 32,
-      "text": "The message was delivered to Demetrius; the Romans ordered him to stop harassing the Jews — if he didn’t obey, they would make war against him, by land and sea.",
-      "links": "<a href='/AIV/19/2/12'>Psalm 2:12</a>",
-      "comment": "This final act reveals firm resolve to defend the faithful. Like Rome’s intervention, God’s protection over His chosen ones is unwavering, a principle later fully realized in Christ’s enduring guidance over His Church."
+      "text": "If they call on us again for help against you, we will uphold their rights and fight you on land and sea.\"",
+      "links": "<a href='/AIV/24/30/8'>Jeremiah 30:8</a>",
+      "comment": "Concludes the treaty with a stern warning to Demetrius and a promise to defend their new ally, Judea."
     }
   ],
-  "translatedAt": "2025-12-24T05:19:44.404Z",
-  "sections": [
-    {
-      "title": "The Fame and Power of Rome",
-      "startVerse": 1,
-      "endVerse": 16
-    },
-    {
-      "title": "Judas Sends Envoys to Rome",
-      "startVerse": 17,
-      "endVerse": 21
-    },
-    {
-      "title": "The Treaty Between Rome and Israel",
-      "startVerse": 22,
-      "endVerse": 30
-    },
-    {
-      "title": "Roman Intervention on Behalf of Israel",
-      "startVerse": 31,
-      "endVerse": 32
-    }
-  ]
+  "translatedAt": "2026-01-02T04:42:39.396Z"
 }

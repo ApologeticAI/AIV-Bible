@@ -229,25 +229,13 @@
       "bookName": "Sirach",
       "bookAbbreviation": "Sir",
       "chapter": 3,
-      "verse": 19,
-      "text": "The greater you are, the more you must humble yourself; so you will find favor in the sight of the Lord.",
-      "links": "<a href='/AIV/24/15/33'>Prov. 15:33</a>; <a href='/AIV/47/23/12'>Matt. 23:12</a>; <a href='/AIV/66/4/6'>Jas. 4:6</a>",
-      "comment": "This verse reflects the biblical tradition that greatness before God is marked by humility (see Proverbs 3:34, Matthew 23:12); in the ancient context, humility maintained social harmony and reminded leaders of their dependence on divine favor rather than self-exaltation."
-    },
-    {
-      "pk": 28003020,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 3,
       "verse": 20,
       "text": "For great is the power of the Lord; by the humble, he is glorified.",
       "links": "<a href='/AIV/19/34/2'>Ps. 34:2</a>; <a href='/AIV/42/1/46-48'>Luke 1:46-48</a>",
       "comment": "The humble soul becomes a channel for God's glory, as Mary proclaims in the Magnificat."
     },
     {
-      "pk": 28003021,
+      "pk": 28003020,
       "translation": "AIV",
       "book": 28,
       "bookName": "Sirach",
@@ -259,7 +247,7 @@
       "comment": "A call to intellectual humility—trusting God's revelation and order, rather than seeking mastery over mysteries."
     },
     {
-      "pk": 28003022,
+      "pk": 28003021,
       "translation": "AIV",
       "book": 28,
       "bookName": "Sirach",
@@ -271,7 +259,7 @@
       "comment": "Obedience and trust in God’s commandments are valued above curiosity about divine mysteries."
     },
     {
-      "pk": 28003023,
+      "pk": 28003022,
       "translation": "AIV",
       "book": 28,
       "bookName": "Sirach",
@@ -283,7 +271,7 @@
       "comment": "God's revelation already exceeds our understanding; seeking beyond it can lead to confusion."
     },
     {
-      "pk": 28003024,
+      "pk": 28003023,
       "translation": "AIV",
       "book": 28,
       "bookName": "Sirach",
@@ -295,7 +283,7 @@
       "comment": "Pride and idle speculation led to spiritual darkness, paralleling Paul’s warnings about the futility of the worldly mind."
     },
     {
-      "pk": 28003025,
+      "pk": 28003024,
       "translation": "AIV",
       "book": 28,
       "bookName": "Sirach",
@@ -307,7 +295,7 @@
       "comment": "Persistent stubbornness leads to ruin; wisdom consists in humility and repentance."
     },
     {
-      "pk": 28003026,
+      "pk": 28003025,
       "translation": "AIV",
       "book": 28,
       "bookName": "Sirach",
@@ -319,16 +307,28 @@
       "comment": "Sin begets further sin, and hardness of heart worsens one’s misery."
     },
     {
-      "pk": 28003027,
+      "pk": 28003026,
       "translation": "AIV",
       "book": 28,
       "bookName": "Sirach",
       "bookAbbreviation": "Sir",
       "chapter": 3,
       "verse": 27,
-      "text": "The arrogance of the proud has no healing, for an evil plant takes root in them.",
+      "text": "A stubborn mind will be burdened by troubles, and the sinner adds sin to sins.",
       "links": "<a href='/AIV/20/16/18'>Prov. 16:18</a>",
-      "comment": "The spiritual disease of pride prevents healing—a central theme in biblical wisdom and in Christ’s teachings."
+      "comment": "Stubbornness or obstinacy leads to increasing difficulties for a person, while repeated sin compounds one's spiritual burden—demonstrating the dangers of refusing correction."
+    },
+    {
+      "pk": 28003027,
+      "translation": "AIV",
+      "book": 28,
+      "bookName": "Sirach",
+      "bookAbbreviation": "Sir",
+      "chapter": 3,
+      "verse": 28,
+      "text": "When calamity befalls the proud, there is no healing, for an evil plant has taken root in him.",
+      "links": "<a href='/AIV/20/1/6'>Prov. 1:6</a>; <a href='/AIV/40/13/10-13'>Matt. 13:10-13</a>",
+      "comment": "Pride prevents true repentance and healing, as it becomes deeply embedded in one's character—depicted here as an 'evil plant.'"
     },
     {
       "pk": 28003028,
@@ -337,26 +337,14 @@
       "bookName": "Sirach",
       "bookAbbreviation": "Sir",
       "chapter": 3,
-      "verse": 28,
-      "text": "The heart of the prudent thinks about a parable, and attentive ears are the desire of the wise.",
-      "links": "<a href='/AIV/20/1/6'>Prov. 1:6</a>; <a href='/AIV/40/13/10-13'>Matt. 13:10-13</a>",
-      "comment": "Wisdom comes through reflection and attentiveness—Christ used parables to speak to those who truly listened."
-    },
-    {
-      "pk": 28003029,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 3,
       "verse": 29,
-      "text": "Water quenches a flaming fire, and almsgiving atones for sins.",
+      "text": "The mind of the intelligent appreciates proverbs, and an attentive ear is the desire of the wise.",
       "links": "<a href='/AIV/27/4/27'>Dan. 4:27</a>; <a href='/AIV/45/12/13'>Rom. 12:13</a>",
-      "comment": "True generosity, especially to the poor, is pleasing to God and brings about spiritual benefit—see how this foreshadows the apostolic teaching.",
+      "comment": "Wisdom entails valuing instruction and seeking understanding, highlighting the role of thoughtful listening and discernment in personal and spiritual growth.",
       "sectionHeader": "Almsgiving and Recompense"
     },
     {
-      "pk": 28003030,
+      "pk": 28003029,
       "translation": "AIV",
       "book": 28,
       "bookName": "Sirach",
@@ -368,7 +356,7 @@
       "comment": "Echoing Proverbs 16:6 and Tobit 4:10, this verse connects practical charity (almsgiving) with atonement, emphasizing the Jewish teaching that mercy toward others can mitigate divine judgment and heal the soul."
     },
     {
-      "pk": 28003031,
+      "pk": 28003030,
       "translation": "AIV",
       "book": 28,
       "bookName": "Sirach",
@@ -380,7 +368,7 @@
       "comment": "Repaying kindness is linked with future security, expressing an ethical principle found throughout wisdom literature (e.g., Proverbs 11:25) that generosity establishes a community of mutual support, benefiting the giver in times of need."
     }
   ],
-  "translatedAt": "2025-12-28T06:59:05.927Z",
+  "translatedAt": "2026-01-03T11:52:04.260Z",
   "sections": [
     {
       "title": "Duties Toward Parents",

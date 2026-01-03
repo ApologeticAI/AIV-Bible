@@ -3,6 +3,28 @@
   "bookName": "Mark",
   "bookAbbreviation": "Mark",
   "chapter": 9,
+  "sections": [
+    {
+      "title": "The Coming of God's Kingdom with Power",
+      "startVerse": 1,
+      "endVerse": 13
+    },
+    {
+      "title": "Jesus Heals a Boy with an Unclean Spirit",
+      "startVerse": 14,
+      "endVerse": 29
+    },
+    {
+      "title": "Jesus Again Foretells His Death and Resurrection",
+      "startVerse": 30,
+      "endVerse": 32
+    },
+    {
+      "title": "Who Is the Greatest?",
+      "startVerse": 33,
+      "endVerse": 50
+    }
+  ],
   "verses": [
     {
       "pk": 48009001,
@@ -12,9 +34,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 1,
-      "text": "And he said to them, \"Truly I tell you, there are some standing here who will not taste death until they see the kingdom of God come with power.\"",
-      "links": "<a href='/AIV/40/16/28'>Matt. 16:28</a>; <a href='/AIV/42/9/27'>Luke 9:27</a>",
-      "comment": "Jesus here foretells a manifestation of the kingdom in power within the lifetime of some present. Traditionally interpreted as fulfilled in events such as the Transfiguration, Pentecost, or the Resurrection. Implies an established visible kingdom—hinting at the ongoing visible nature of Christ’s Church."
+      "text": "And He said to them, \"Truly I tell you, there are some standing here who will not taste death until they see the kingdom of God come with power.\"",
+      "links": "<a href='/AIV/41/9/27'>Mark 9:27</a>; <a href='/AIV/40/16/28'>Matthew 16:28</a>",
+      "comment": "Jesus prophesies that some present will witness the manifestation of God's kingdom, often interpreted as fulfilled at the Transfiguration or in the events of Pentecost. This hints at the incoming establishment of divine authority among the apostles.",
+      "sectionHeader": "The Coming of God's Kingdom with Power"
     },
     {
       "pk": 48009002,
@@ -24,10 +47,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 2,
-      "text": "After six days, Jesus took Peter, James, and John, and led them up a high mountain by themselves. And he was transfigured before them.",
-      "links": "<a href='/AIV/40/17/1'>Matt. 17:1</a>; <a href='/AIV/42/9/28'>Luke 9:28</a>",
-      "comment": "The Transfiguration reveals Jesus’ divine glory, affirming his identity as more than a prophet. The presence of Peter, James, and John underscores apostolic witness.",
-      "sectionHeader": "The Transfiguration of Jesus"
+      "text": "After six days, Jesus took Peter, James, and John and led them up a high mountain by themselves. And He was transfigured before them.",
+      "links": "<a href='/AIV/40/17/1'>Matthew 17:1</a>; <a href='/AIV/42/9/28'>Luke 9:28</a>",
+      "comment": "The Transfiguration reveals Jesus' divine glory to His closest disciples. The choice of three specific apostles underscores apostolic witness."
     },
     {
       "pk": 48009003,
@@ -37,9 +59,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 3,
-      "text": "His clothes became dazzling, intensely white, as no one on earth could bleach them.",
-      "links": "<a href='/AIV/66/1/14'>Rev. 1:14</a>; <a href='/AIV/66/7/14'>Rev. 7:14</a>",
-      "comment": "The supernatural whiteness signifies divine purity and glory. This matches Old Testament theophanies, emphasizing the divinity of Jesus."
+      "text": "His clothes became dazzling white—whiter than anyone on earth could bleach them.",
+      "links": "<a href='/AIV/27/7/9'>Daniel 7:9</a>; <a href='/AIV/66/1/14'>Revelation 1:14</a>",
+      "comment": "The supernatural whiteness reflects the heavenly glory of the Son and echoes Old Testament visions of divine presence (cf. Daniel 7:9)."
     },
     {
       "pk": 48009004,
@@ -49,9 +71,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 4,
-      "text": "And Elijah appeared to them with Moses, and they were talking with Jesus.",
-      "links": "<a href='/AIV/11/2/11'>2 Kings 2:11</a>; <a href='/AIV/5/34/5'>Deut. 34:5</a>",
-      "comment": "Moses and Elijah represent the Law and the Prophets, testifying to Jesus as their fulfillment (<a href='/AIV/40/5/17'>Matt. 5:17</a>). Their appearance confirms Jesus’ authority and continuity with the Old Testament."
+      "text": "And Elijah appeared to them together with Moses, and they were talking with Jesus.",
+      "links": "<a href='/AIV/11/2/11'>2 Kings 2:11</a>; <a href='/AIV/5/34/5'>Deuteronomy 34:5</a>",
+      "comment": "Elijah and Moses represent the Prophets and the Law, testifying to Jesus as their fulfillment. Their presence confirms Christ's central place in salvation history."
     },
     {
       "pk": 48009005,
@@ -61,9 +83,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 5,
-      "text": "Peter said to Jesus, \"Rabbi, it is good for us to be here. Let us make three tents—one for you, one for Moses, and one for Elijah.\"",
-      "links": "<a href='/AIV/40/17/4'>Matt. 17:4</a>; <a href='/AIV/42/9/33'>Luke 9:33</a>",
-      "comment": "Peter’s suggestion shows reverence, but he places Jesus on the same level as Moses and Elijah, misunderstanding Jesus’ unique status."
+      "text": "Peter responded and said to Jesus, \"Rabbi, it is good for us to be here. Let us make three shelters—one for You, one for Moses, and one for Elijah.\"",
+      "links": "<a href='/AIV/40/17/4'>Matthew 17:4</a>",
+      "comment": "Peter's suggestion implies a desire to preserve the experience, but misunderstands the uniqueness of Jesus compared to the Law and the Prophets."
     },
     {
       "pk": 48009006,
@@ -73,9 +95,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 6,
-      "text": "He did not know what to say, for they were greatly afraid.",
-      "links": "<a href='/AIV/49/9/33'>Luke. 9:33</a>; <a href='/AIV/47/17/6'>Matt. 17:6</a>; <a href='/AIV/2/20/18'>Exod. 20:18</a>",
-      "comment": "The apostles’ fear demonstrates a common biblical reaction to divine manifestations—see <a href='/AIV/02/3/6'>Ex. 3:6</a>; <a href='/AIV/07/6/22'>Judg. 6:22</a>."
+      "text": "For he did not know what to say, because they were very afraid.",
+      "links": "",
+      "comment": "Peter’s reaction shows the apostles’ awe and confusion before a divine revelation."
     },
     {
       "pk": 48009007,
@@ -85,9 +107,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 7,
-      "text": "Then a cloud overshadowed them, and a voice came from the cloud: \"This is my beloved Son; listen to him!\"",
-      "links": "<a href='/AIV/02/40/34'>Ex. 40:34</a>; <a href='/AIV/19/2/7'>Ps. 2:7</a>; <a href='/AIV/40/3/17'>Matt. 3:17</a>",
-      "comment": "The Father affirms Jesus’ divine Sonship. The command to ‘listen to him’ reorients authority from the Law and Prophets to Jesus. This foreshadows the role of ongoing magisterial teaching in the Church."
+      "text": "Then a cloud came and overshadowed them, and a voice came from the cloud: \"This is My beloved Son; listen to Him.\"",
+      "links": "<a href='/AIV/2/24/16'>Exodus 24:16</a>; <a href='/AIV/19/2/7'>Psalm 2:7</a>; <a href='/AIV/41/1/11'>Mark 1:11</a>",
+      "comment": "The Father's voice from the cloud identifies Jesus as His Son, commanding obedience. This repeats themes from Christ’s baptism and reinforces divine sonship—a claim to divinity."
     },
     {
       "pk": 48009008,
@@ -97,9 +119,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 8,
-      "text": "Suddenly, when they looked around, they no longer saw anyone except Jesus alone with them.",
-      "links": "<a href='/AIV/47/17/8'>Matt. 17:8</a>; <a href='/AIV/49/9/36'>Luke. 9:36</a>; <a href='/AIV/50/1/17'>John. 1:17</a>",
-      "comment": "Moses and Elijah disappear, emphasizing Jesus as the sole mediator and fulfillment of both Law and Prophets (<a href='/AIV/54/2/5'>1 Tim. 2:5</a>)."
+      "text": "Suddenly, when they looked around, they no longer saw anyone except Jesus with them.",
+      "links": "",
+      "comment": "Moses and Elijah disappear, leaving Jesus alone—signifying Jesus’ preeminence over the Law and the Prophets."
     },
     {
       "pk": 48009009,
@@ -109,9 +131,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 9,
-      "text": "As they were coming down the mountain, Jesus ordered them not to tell anyone what they had seen until the Son of Man had risen from the dead.",
-      "links": "<a href='/AIV/40/8/4'>Matt. 8:4</a>; <a href='/AIV/66/1/18'>Rev. 1:18</a>",
-      "comment": "Jesus controls the revelation of his identity, and his Resurrection is presented as a key validation of his claims."
+      "text": "As they were coming down the mountain, He commanded them not to tell anyone what they had seen until the Son of Man had risen from the dead.",
+      "links": "<a href='/AIV/41/8/30-31'>Mark 8:30-31</a>",
+      "comment": "Jesus refers to His resurrection, signifying a messianic secret meant to be revealed later. The command presupposes divine authority over life and death."
     },
     {
       "pk": 48009010,
@@ -121,9 +143,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 10,
-      "text": "So they kept the matter to themselves, discussing what 'rising from the dead' might mean.",
-      "links": "<a href='/AIV/48/8/31'>Mark. 8:31</a>; <a href='/AIV/49/24/6'>Luke. 24:6-7</a>; <a href='/AIV/50/20/9'>John. 20:9</a>",
-      "comment": "Despite Jesus’ clear predictions, the disciples do not yet understand the nature of the Resurrection—a central mystery later clarified by apostolic teaching."
+      "text": "They kept the matter to themselves, questioning what 'rising from the dead' meant.",
+      "links": "<a href='/AIV/41/9/31'>Mark 9:31</a>",
+      "comment": "The disciples' lack of understanding shows that resurrection was still a mysterious concept, pointing toward the later fulfillment in Christ's victory over death."
     },
     {
       "pk": 48009011,
@@ -133,9 +155,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 11,
-      "text": "Then they asked him, \"Why do the scribes say that Elijah must come first?\"",
-      "links": "<a href='/AIV/39/4/5'>Mal. 4:5</a>",
-      "comment": "The disciples reference prophecy concerning Elijah's return, showing expectation of scriptural fulfillment."
+      "text": "And they asked Him, \"Why do the scribes say that Elijah must come first?\"",
+      "links": "<a href='/AIV/39/4/5'>Malachi 4:5</a>",
+      "comment": "Refers to the prophecy that Elijah would precede the Messiah's coming, showing expectation of eschatological fulfillment."
     },
     {
       "pk": 48009012,
@@ -145,9 +167,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 12,
-      "text": "And he said to them, \"Elijah truly does come first to restore all things. Yet how is it written of the Son of Man that he should suffer many things and be treated with contempt?\"",
-      "links": "<a href='/AIV/23/53/3'>Isa. 53:3</a>",
-      "comment": "Jesus connects the expectation of Elijah with the suffering Messiah. The Son of Man’s suffering fulfills prophecy, highlighting the redemptive plan."
+      "text": "He answered them, \"Elijah does come first to restore all things. And how is it written about the Son of Man that He should suffer many things and be treated with contempt?\"",
+      "links": "<a href='/AIV/23/53/3-5'>Isaiah 53:3-5</a>",
+      "comment": "Jesus affirms Elijah's role, but also alludes to His own suffering as consistent with prophetic expectation (Isaiah 53)."
     },
     {
       "pk": 48009013,
@@ -157,9 +179,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 13,
-      "text": "But I tell you that Elijah has come, and they did to him whatever they pleased, just as it is written of him.\"",
-      "links": "<a href='/AIV/40/11/14'>Matt. 11:14</a>; <a href='/AIV/40/17/12'>Matt. 17:12-13</a>",
-      "comment": "Elijah refers to John the Baptist. His suffering foreshadows Jesus’ own rejection, showing prophetic typology."
+      "text": "But I tell you that Elijah has indeed come, and they did to him whatever they wished, just as it is written about him.\"",
+      "links": "<a href='/AIV/40/17/12-13'>Matthew 17:12-13</a>",
+      "comment": "The reference is to John the Baptist, the 'Elijah' who comes in spirit and fulfillment, pointing to prophetic continuity."
     },
     {
       "pk": 48009014,
@@ -169,9 +191,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 14,
-      "text": "When they came to the other disciples, they saw a large crowd around them, and scribes arguing with them.",
-      "links": "<a href='/AIV/49/9/37'>Luke. 9:37-40</a>; <a href='/AIV/47/17/14'>Matt. 17:14</a>; <a href='/AIV/48/2/6'>Mark. 2:6</a>",
-      "comment": "The scene shifts to the public ministry and opposition from religious leaders.",
+      "text": "When they came to the other disciples, they saw a great crowd around them, and scribes arguing with them.",
+      "links": "",
+      "comment": "This introduces the next miracle performed by Jesus, with His apostles facing challenge in His absence.",
       "sectionHeader": "Jesus Heals a Boy with an Unclean Spirit"
     },
     {
@@ -182,9 +204,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 15,
-      "text": "As soon as the crowd saw him, they were greatly amazed and ran up to greet him.",
-      "links": "<a href='/AIV/48/14/33'>Mark. 14:33</a>; <a href='/AIV/49/8/47'>Luke. 8:47</a>; <a href='/AIV/47/17/6'>Matt. 17:6</a>",
-      "comment": "Jesus' mere presence inspires awe, indicating his sanctity and authority."
+      "text": "Immediately, when the whole crowd saw Jesus, they were greatly amazed and ran to greet Him.",
+      "links": "",
+      "comment": "The people’s reaction shows Jesus’ unique authority and presence among the people."
     },
     {
       "pk": 48009016,
@@ -194,9 +216,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 16,
-      "text": "And he asked them, \"What are you arguing about with them?\"",
-      "links": "<a href='/AIV/48/8/11'>Mark. 8:11</a>; <a href='/AIV/51/6/9'>Acts. 6:9</a>; <a href='/AIV/49/22/23'>Luke. 22:23</a>",
-      "comment": "Jesus promptly intervenes in disputes, establishing order and revealing truth."
+      "text": "And He asked them, \"What are you arguing with them about?\"",
+      "links": "",
+      "comment": "Jesus directly addresses the situation, emphasizing the importance of dialogue in teaching."
     },
     {
       "pk": 48009017,
@@ -206,9 +228,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 17,
-      "text": "Someone from the crowd answered him, \"Teacher, I brought you my son, who has a spirit that makes him mute.",
-      "links": "<a href='/AIV/47/17/15'>Matt. 17:15</a>; <a href='/AIV/49/9/38'>Luke. 9:38</a>; <a href='/AIV/48/5/23'>Mark. 5:23</a>",
-      "comment": "A display of faith by coming to Jesus with a suffering son, recognizing Jesus as the healer."
+      "text": "Someone from the crowd answered Him, \"Teacher, I have brought my son to You, for he has a spirit that makes him mute.\"",
+      "links": "",
+      "comment": "The father’s approach reflects faith in Jesus’ power, highlighting the centrality of seeking Christ for healing."
     },
     {
       "pk": 48009018,
@@ -218,9 +240,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 18,
-      "text": "Whenever it seizes him, it throws him down, and he foams at the mouth, grinds his teeth, and becomes rigid. I asked your disciples to cast it out, but they were not able.\"",
-      "links": "<a href='/AIV/48/1/26'>Mark. 1:26</a>; <a href='/AIV/49/9/39'>Luke. 9:39-40</a>; <a href='/AIV/47/17/16'>Matt. 17:16</a>",
-      "comment": "The disciples’ inability highlights the need for deeper faith and reliance on Christ’s authority."
+      "text": "Whenever it seizes him, it throws him down, and he foams at the mouth, grinds his teeth, and becomes rigid. I asked Your disciples to cast it out, but they were not able.\"",
+      "links": "",
+      "comment": "The inability of the disciples points to a dependence on Jesus for spiritual authority, stressing the need for grace beyond mere human effort."
     },
     {
       "pk": 48009019,
@@ -230,9 +252,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 19,
-      "text": "He answered them, \"O faithless generation, how long am I to be with you? How long am I to bear with you? Bring him to me.\"",
-      "links": "<a href='/AIV/40/17/17'>Matt. 17:17</a>",
-      "comment": "Jesus’ rebuke emphasizes the essential role of faith and trust in his presence among his followers."
+      "text": "He answered them and said, \"O faithless generation, how long must I be with you? How long must I bear with you? Bring him to Me.\"",
+      "links": "<a href='/AIV/41/4/40'>Mark 4:40</a>",
+      "comment": "Jesus laments their lack of faith, calling all present to trust more deeply. This appeals to the importance of persevering faith fostered within a believing community."
     },
     {
       "pk": 48009020,
@@ -242,9 +264,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 20,
-      "text": "And they brought the boy to him. When the spirit saw Jesus, it immediately convulsed the boy, and he fell on the ground, rolling about and foaming at the mouth.",
-      "links": "<a href='/AIV/48/1/26'>Mark. 1:26</a>; <a href='/AIV/49/9/42'>Luke. 9:42</a>; <a href='/AIV/47/17/15'>Matt. 17:15</a>",
-      "comment": "The evil spirit reacts in fear at the presence of Christ, recognizing divine authority."
+      "text": "They brought the boy to Him. And when the spirit saw Jesus, immediately it threw the boy into convulsions. He fell on the ground and rolled about, foaming at the mouth.",
+      "links": "",
+      "comment": "The demon recognizes Jesus' true identity and reacts violently, attesting to Christ’s authority over evil."
     },
     {
       "pk": 48009021,
@@ -255,8 +277,8 @@
       "chapter": 9,
       "verse": 21,
       "text": "Jesus asked his father, \"How long has this been happening to him?\" He said, \"From childhood.",
-      "links": "<a href='/AIV/48/5/25'>Mark. 5:25</a>; <a href='/AIV/50/9/1'>John. 9:1</a>; <a href='/AIV/49/9/37'>Luke. 9:37</a>",
-      "comment": "Jesus’ question shows compassion and personal concern, establishing a relationship before acting."
+      "links": "",
+      "comment": "Jesus draws out a personal testimony, emphasizing compassion and pastoral care for afflicted souls."
     },
     {
       "pk": 48009022,
@@ -266,9 +288,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 22,
-      "text": "And it has often cast him into fire and into water, to destroy him. But if you can do anything, have compassion on us and help us.\"",
-      "links": "<a href='/AIV/47/8/2'>Matt. 8:2</a>; <a href='/AIV/48/1/40'>Mark. 1:40-41</a>; <a href='/AIV/49/17/13'>Luke. 17:13</a>",
-      "comment": "The plea, ‘if you can,’ reflects imperfect faith seeking mercy and compassion."
+      "text": "And often it has cast him into fire and into water to destroy him. But if You can do anything, have compassion on us and help us.\"",
+      "links": "",
+      "comment": "The father's plea underscores desperate hope and the human need for mercy."
     },
     {
       "pk": 48009023,
@@ -278,9 +300,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 23,
-      "text": "Then Jesus said to him, \"If you can! All things are possible for one who believes.\"",
-      "links": "<a href='/AIV/40/17/20'>Matt. 17:20</a>; <a href='/AIV/50/4/13'>Phil. 4:13</a>",
-      "comment": "Faith is presented as the means by which God’s power operates. Jesus encourages full trust in his divine ability."
+      "text": "Jesus said to him, \"If you can! All things are possible for one who believes.\"",
+      "links": "<a href='/AIV/40/17/20'>Matthew 17:20</a>",
+      "comment": "Jesus emphasizes that faith makes miracles possible. This verse is foundational for understanding prayer and intercession."
     },
     {
       "pk": 48009024,
@@ -290,9 +312,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 24,
-      "text": "Immediately the boy’s father cried out and said, \"I believe; help my unbelief!\"",
-      "links": "<a href='/AIV/49/17/5'>Luke. 17:5</a>; <a href='/AIV/47/14/31'>Matt. 14:31</a>; <a href='/AIV/48/5/36'>Mark. 5:36</a>",
-      "comment": "This honest prayer expresses the ongoing journey of faith, combining both belief and a plea for grace to strengthen it. Highlights the need for God’s help in growth in faith."
+      "text": "Immediately the father of the child cried out and said, \"I believe; help my unbelief!\"",
+      "links": "",
+      "comment": "The father's confession shows that faith, though imperfect, is welcomed and completed by God’s grace."
     },
     {
       "pk": 48009025,
@@ -302,9 +324,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 25,
-      "text": "When Jesus saw that the crowd was gathering quickly, he rebuked the unclean spirit, saying, \"You mute and deaf spirit, I command you—come out of him and never enter him again!\"",
-      "links": "<a href='/AIV/47/9/32'>Matt. 9:32-33</a>; <a href='/AIV/48/1/25'>Mark. 1:25</a>; <a href='/AIV/49/4/35'>Luke. 4:35</a>",
-      "comment": "Jesus directly commands the demon with divine authority. Such exorcisms underscore Jesus’ unique power over evil—something later perpetuated through apostolic ministry."
+      "text": "When Jesus saw that a crowd was running together, He rebuked the unclean spirit, saying to it, \"You mute and deaf spirit, I command you—come out of him and never enter him again!\"",
+      "links": "",
+      "comment": "Jesus’s authority is absolute. The command is final and shows the incarnation’s power over spiritual affliction."
     },
     {
       "pk": 48009026,
@@ -314,9 +336,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 26,
-      "text": "After crying out and convulsing him terribly, it came out, and the boy was like a corpse, so that most of them said, \"He is dead.\"",
-      "links": "<a href='/AIV/48/5/15'>Mark. 5:15</a>; <a href='/AIV/47/17/18'>Matt. 17:18</a>; <a href='/AIV/49/8/55'>Luke. 8:55</a>",
-      "comment": "The healing is so dramatic that onlookers believe the boy died—prefiguring death and resurrection themes."
+      "text": "And after crying out and convulsing him greatly, it came out. The boy was like a corpse, so that many said, \"He is dead.\"",
+      "links": "",
+      "comment": "The apparent death prefigures resurrection—new life follows Christ’s intervention."
     },
     {
       "pk": 48009027,
@@ -326,9 +348,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 27,
-      "text": "But Jesus took him by the hand and raised him up, and he arose.",
-      "links": "<a href='/AIV/40/9/25'>Matt. 9:25</a>",
-      "comment": "Physical resurrection imagery; Jesus gives life, foreshadowing his own Resurrection and the power of the sacraments."
+      "text": "But Jesus took him by the hand and lifted him up, and he arose.",
+      "links": "<a href='/AIV/40/9/25'>Matthew 9:25</a>",
+      "comment": "Jesus raising the boy highlights His role as the source of resurrection and new life."
     },
     {
       "pk": 48009028,
@@ -338,9 +360,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 28,
-      "text": "And when he had entered the house, his disciples asked him privately, \"Why could we not cast it out?\"",
-      "links": "<a href='/AIV/47/17/19'>Matt. 17:19</a>; <a href='/AIV/49/9/40'>Luke. 9:40</a>; <a href='/AIV/48/4/34'>Mark. 4:34</a>",
-      "comment": "The disciples seek understanding—pointing to an ongoing journey of learning and the necessity of spiritual formation."
+      "text": "After Jesus had gone indoors, His disciples asked Him privately, \"Why could we not cast it out?\"",
+      "links": "",
+      "comment": "Private instruction suggests an ongoing, deeper formation for those entrusted with Christ’s ministry."
     },
     {
       "pk": 48009029,
@@ -350,9 +372,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 29,
-      "text": "He said to them, \"This kind cannot be driven out by anything except prayer.\"",
-      "links": "<a href='/AIV/40/17/21'>Matt. 17:21</a>",
-      "comment": "Some manuscripts add 'and fasting.' Discipline in prayer is essential for spiritual authority—a tradition seen throughout Church history and sacramental living."
+      "text": "He said to them, \"This kind cannot come out by anything except prayer.\"",
+      "links": "<a href='/AIV/41/6/7-13'>Mark 6:7-13</a>",
+      "comment": "The necessity of prayer underscores the need for a humble, sacramental dependence on God rather than self-reliance."
     },
     {
       "pk": 48009030,
@@ -362,10 +384,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 30,
-      "text": "They went on from there and passed through Galilee. He did not want anyone to know,",
-      "links": "<a href='/AIV/48/8/27'>Mark. 8:27</a>; <a href='/AIV/47/17/22'>Matt. 17:22</a>; <a href='/AIV/49/9/43'>Luke. 9:43</a>",
-      "comment": "Jesus moves discreetly to allow more direct teaching for his disciples, emphasizing the importance of private instruction.",
-      "sectionHeader": "Second Prediction of the Passion"
+      "text": "They went on from there and passed through Galilee. He did not want anyone to know it,",
+      "links": "",
+      "comment": "Jesus withdraws for private teaching, showing the importance of intentional formation of His disciples.",
+      "sectionHeader": "Jesus Again Foretells His Death and Resurrection"
     },
     {
       "pk": 48009031,
@@ -375,9 +397,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 31,
-      "text": "for he was teaching his disciples, saying to them, \"The Son of Man is going to be delivered into the hands of men, and they will kill him. And when he is killed, after three days he will rise.\"",
-      "links": "<a href='/AIV/40/16/21'>Matt. 16:21</a>; <a href='/AIV/28/6/2'>Hos. 6:2</a>",
-      "comment": "Jesus’ explicit prophecy connects suffering, death, and resurrection. The repeated prediction stresses the necessity and centrality of these truths to apostolic teaching."
+      "text": "for He was teaching His disciples and saying to them, \"The Son of Man is going to be delivered into the hands of men. They will kill Him, and after He is killed, three days later He will rise.\"",
+      "links": "<a href='/AIV/41/8/31'>Mark 8:31</a>; <a href='/AIV/28/6/2'>Hosea 6:2</a>",
+      "comment": "Jesus predicts His Passion, alluding to Old Testament anticipation of suffering, death, and resurrection as the path to glory."
     },
     {
       "pk": 48009032,
@@ -387,9 +409,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 32,
-      "text": "But they did not understand this saying, and were afraid to ask him.",
-      "links": "<a href='/AIV/48/6/52'>Mark. 6:52</a>; <a href='/AIV/49/2/50'>Luke. 2:50</a>; <a href='/AIV/49/18/34'>Luke. 18:34</a>",
-      "comment": "Apostles’ lack of understanding illustrates a developing faith—pointing to the need for guidance and ongoing revelation through the teaching office."
+      "text": "But they did not understand this statement and were afraid to ask Him.",
+      "links": "",
+      "comment": "The disciples' fear shows human limitation in grasping divine mysteries until the fullness of revelation unfolds."
     },
     {
       "pk": 48009033,
@@ -399,10 +421,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 33,
-      "text": "They came to Capernaum. And when he was in the house, he asked them, \"What were you discussing on the way?\"",
-      "links": "<a href='/AIV/47/18/1'>Matt. 18:1</a>; <a href='/AIV/49/9/46'>Luke. 9:46</a>; <a href='/AIV/48/8/27'>Mark. 8:27</a>",
-      "comment": "Jesus discerns and teaches about the thoughts of his disciples—a pattern that continues in apostolic ministry.",
-      "sectionHeader": "The Greatest in the Kingdom"
+      "text": "And they came to Capernaum. When He was inside the house, He asked them, \"What were you discussing on the way?\"",
+      "links": "",
+      "comment": "Jesus, knowing their thoughts, guides His disciples toward humility—a foundation for Christian leadership.",
+      "sectionHeader": "Who Is the Greatest?"
     },
     {
       "pk": 48009034,
@@ -413,8 +435,8 @@
       "chapter": 9,
       "verse": 34,
       "text": "But they kept silent, for on the way they had argued with one another about who was the greatest.",
-      "links": "<a href='/AIV/49/22/24'>Luke. 22:24</a>; <a href='/AIV/47/20/24'>Matt. 20:24</a>; <a href='/AIV/48/10/41'>Mark. 10:41</a>",
-      "comment": "The disciples' silence reveals their shame over competing for status, exposing human ambition that contrasts sharply with Jesus’ servant leadership teachings (cf. Mark 10:43–45; Luke 22:24–27); this moment underscores the struggle to understand true greatness in God's kingdom."
+      "links": "<a href='/AIV/42/22/24-27'>Luke 22:24-27</a>",
+      "comment": "Competitive ambition is corrected by Christ’s teachings on humble service as the path to greatness."
     },
     {
       "pk": 48009035,
@@ -424,9 +446,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 35,
-      "text": "And he sat down and called the twelve. He said to them, \"If anyone would be first, he must be last of all and servant of all.\"",
-      "links": "<a href='/AIV/40/20/26'>Matt. 20:26</a>",
-      "comment": "Jesus proposes a new ordering for leadership—service, not domination, is the hallmark of those who lead in his Church. This is foundational for apostolic succession."
+      "text": "And He sat down, called the twelve, and said to them, \"If anyone wants to be first, he must be last of all and servant of all.\"",
+      "links": "<a href='/AIV/41/10/44-45'>Mark 10:44-45</a>",
+      "comment": "True leadership in the Church is modeled after Christ's humility and service, not worldly status."
     },
     {
       "pk": 48009036,
@@ -436,9 +458,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 36,
-      "text": "He took a child and set him in the midst of them. Taking him in his arms, he said to them,",
-      "links": "<a href='/AIV/40/18/2'>Matt. 18:2</a>",
-      "comment": "The child becomes a living parable of the humble, teachable disciple."
+      "text": "And He took a child and placed him in the midst of them. Taking the child into His arms, He said to them,",
+      "links": "",
+      "comment": "The act of embracing a child is a lived parable of Christ’s love for the lowly, and the value of innocence and trust in discipleship."
     },
     {
       "pk": 48009037,
@@ -448,9 +470,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 37,
-      "text": "\"Whoever receives one such child in my name receives me, and whoever receives me, receives not just me but him who sent me.\"",
-      "links": "<a href='/AIV/40/10/40'>Matt. 10:40</a>; <a href='/AIV/43/13/20'>John 13:20</a>",
-      "comment": "Receiving the humble is equivalent to receiving Jesus and the Father, showing a real unity with Christ and his messengers."
+      "text": "\"Whoever receives one such child in My name receives Me, and whoever receives Me, receives not just Me but Him who sent Me.\"",
+      "links": "<a href='/AIV/40/18/5'>Matthew 18:5</a>",
+      "comment": "Receiving the weak and humble is akin to receiving Christ Himself, revealing the deep communion between Christ, His disciples, and the Father."
     },
     {
       "pk": 48009038,
@@ -460,9 +482,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 38,
-      "text": "John said to him, \"Teacher, we saw someone casting out demons in your name, and we tried to stop him because he was not following us.\"",
-      "links": "<a href='/AIV/4/11/27'>Num. 11:27-29</a>; <a href='/AIV/49/9/49'>Luke. 9:49</a>; <a href='/AIV/57/1/15'>Phil. 1:15-18</a>",
-      "comment": "The disciples’ concern with authority reflects questions of legitimate ministry and unity."
+      "text": "John said to Him, \"Teacher, we saw someone casting out demons in Your name, and we tried to stop him because he was not following us.\"",
+      "links": "",
+      "comment": "John's concern for proper authority highlights the role of legitimated ministry and unity."
     },
     {
       "pk": 48009039,
@@ -472,9 +494,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 39,
-      "text": "But Jesus said, \"Do not stop him. For no one who does a mighty work in my name will be able soon afterward to speak evil of me.",
-      "links": "<a href='/AIV/53/12/3'>1Cor. 12:3</a>; <a href='/AIV/4/11/28'>Num. 11:28-29</a>; <a href='/AIV/49/11/23'>Luke. 11:23</a>",
-      "comment": "Jesus broadens the scope of his work, indicating that legitimate ministry can exist outside direct apostolic company, but unity with him remains essential."
+      "text": "But Jesus said, \"Do not stop him, for no one who does a mighty work in My name will be able soon afterward to speak evil of Me.",
+      "links": "",
+      "comment": "Jesus' answer shows that power in His name is not limited to the Twelve, but always remains under His divine sovereignty."
     },
     {
       "pk": 48009040,
@@ -484,9 +506,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 40,
-      "text": "For the one who is not against us is for us.",
-      "links": "<a href='/AIV/42/9/50'>Luke 9:50</a>",
-      "comment": "This principle underlines the importance of unity in faith under Christ, a hallmark of the visible Church throughout history."
+      "text": "For whoever is not against us is for us.",
+      "links": "<a href='/AIV/40/12/30'>Matthew 12:30</a>",
+      "comment": "This statement emphasizes unity and charity among all who work for Christ—even outside visible structures, there remains a mysterious bond to Christ. This should encourage all believers to seek spiritual unity grounded in Christ's will."
     },
     {
       "pk": 48009041,
@@ -496,9 +518,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 41,
-      "text": "For truly I tell you, whoever gives you a cup of water to drink because you belong to Christ will by no means lose his reward.",
-      "links": "<a href='/AIV/40/10/42'>Matt. 10:42</a>",
-      "comment": "Even small acts done for Christ’s disciples have eternal value—showing the reward tied to serving those commissioned by Christ."
+      "text": "Truly I tell you, whoever gives you a cup of water to drink because you belong to Christ will certainly not lose their reward.",
+      "links": "<a href='/AIV/40/10/42'>Matthew 10:42</a>",
+      "comment": "Jesus affirms the value of even small acts of kindness done for his followers, associating reward with acts of mercy. Notice the phrase 'because you belong to Christ,' which confirms belief in Christ as essential for divine recognition. The passage link to Matthew 10:42 shows the continuity of this teaching regarding care for disciples, underscoring the interconnectedness of believers in Christ’s community."
     },
     {
       "pk": 48009042,
@@ -508,10 +530,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 42,
-      "text": "\"Whoever causes one of these little ones who believe in me to stumble, it would be better for him if a great millstone were hung around his neck and he were thrown into the sea.",
-      "links": "<a href='/AIV/40/18/6'>Matt. 18:6</a>",
-      "comment": "Severe warning against leading believers into sin, underscoring the sanctity and seriousness of membership in Christ’s community.",
-      "sectionHeader": "On Temptations to Sin"
+      "text": "And if anyone causes one of these little ones who believe in me to stumble, it would be better for them if a great millstone were hung around their neck and they were thrown into the sea.",
+      "links": "<a href='/AIV/40/18/6'>Matthew 18:6</a>",
+      "comment": "Jesus uses stark imagery to emphasize the seriousness of leading believers astray, especially those who are spiritually young or vulnerable. The warning echoes the gravity of spiritual responsibility and the accountability for scandal or false teaching. 'Little ones' refers not just to children, but to all humble believers, supporting the high view of community and guardianship in Christian life."
     },
     {
       "pk": 48009043,
@@ -521,9 +542,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 9,
       "verse": 43,
-      "text": "If your hand causes you to sin, cut it off. It is better for you to enter life maimed than with two hands to go into hell, into the unquenchable fire.",
-      "links": "<a href='/AIV/40/5/29'>Matt. 5:29-30</a>",
-      "comment": "Jesus teaches the seriousness of sin and reality of hell, calling for radical choices to avoid sin."
+      "text": "If your hand causes you to sin, cut it off. It is better for you to enter life maimed than to have two hands and go into Gehenna, into the unquenchable fire.",
+      "links": "<a href='/AIV/40/5/29-30'>Matthew 5:29-30</a>",
+      "comment": "This passage presents strong language to illustrate the radical commitment necessary to avoid sin and its consequences, using the term 'Gehenna'—a symbol of final judgment and separation from God. The teaching aligns with the tradition of mortification and self-denial in spiritual practice. The literal act is hyperbolic but points to the seriousness of avoiding anything that leads one away from holiness."
     },
     {
       "pk": 48009044,
@@ -532,10 +553,10 @@
       "bookName": "Mark",
       "bookAbbreviation": "Mark",
       "chapter": 9,
-      "verse": 44,
-      "text": "where their worm does not die, and the fire is not quenched.",
-      "links": "<a href='/AIV/29/66/24'>Isa. 66:24</a>; <a href='/AIV/48/9/48'>Mark. 9:48</a>; <a href='/AIV/47/25/46'>Matt. 25:46</a>",
-      "comment": "Omitted to accurately reflect the RSVCE, where this verse does not appear."
+      "verse": 45,
+      "text": "And if your foot causes you to sin, cut it off. It is better for you to enter life crippled than to have two feet and be thrown into Gehenna.",
+      "links": "<a href='/AIV/40/18/8'>Matthew 18:8</a>",
+      "comment": "This verse continues the metaphor from verse 43, reinforcing the principle that nothing should be allowed to jeopardize one's eternal salvation, even if sacrifice is required. Notice how the terminology 'enter life' hints at eternal life, connecting physical actions and their effect on spiritual destiny—the bodily and spiritual interplay which has been emphasized throughout Christian tradition."
     },
     {
       "pk": 48009045,
@@ -544,10 +565,10 @@
       "bookName": "Mark",
       "bookAbbreviation": "Mark",
       "chapter": 9,
-      "verse": 45,
-      "text": "And if your foot causes you to sin, cut it off. It is better for you to enter life lame than with two feet to be thrown into hell.",
-      "links": "<a href='/AIV/40/18/8'>Matt. 18:8</a>",
-      "comment": "Repetition underscores the need for personal holiness and sacrificial separation from sin."
+      "verse": 47,
+      "text": "And if your eye causes you to sin, tear it out. It is better for you to enter the kingdom of God with one eye than to have two eyes and be thrown into Gehenna,",
+      "links": "<a href='/AIV/40/5/29'>Matthew 5:29</a>",
+      "comment": "This parallel to verses 43 and 45 further demonstrates the priority Jesus places on salvation over earthly comfort. 'Entering the kingdom of God' points to life in full union with God, and the language connects to broader biblical themes of sanctification. Interpreted spiritually, it calls for removal of anything that hinders holiness, as the Christian vocation is fully transformative."
     },
     {
       "pk": 48009046,
@@ -556,10 +577,10 @@
       "bookName": "Mark",
       "bookAbbreviation": "Mark",
       "chapter": 9,
-      "verse": 46,
-      "text": "where their worm does not die, and the fire is not quenched.",
-      "links": "<a href='/AIV/29/66/24'>Isa. 66:24</a>; <a href='/AIV/48/9/44'>Mark. 9:44</a>; <a href='/AIV/47/25/41'>Matt. 25:41</a>",
-      "comment": "Omitted to accurately reflect the RSVCE, where this verse does not appear."
+      "verse": 48,
+      "text": "where their worm does not die and the fire is not quenched.",
+      "links": "<a href='/AIV/23/66/24'>Isaiah 66:24</a>",
+      "comment": "For the third time, Mark repeats the solemn warning from Isaiah, affirming the reality of divine justice after death. The threefold repetition acts as a rhetorical device enforcing the gravity of our choices. This passage has shaped Christian understanding of judgment and motivates on-going conversion and penance—a spiritual exercise dating to the earliest Christian centuries."
     },
     {
       "pk": 48009047,
@@ -568,10 +589,10 @@
       "bookName": "Mark",
       "bookAbbreviation": "Mark",
       "chapter": 9,
-      "verse": 47,
-      "text": "And if your eye causes you to sin, tear it out. It is better for you to enter the kingdom of God with one eye than with two eyes to be thrown into hell,",
-      "links": "<a href='/AIV/47/5/29'>Matt. 5:29</a>; <a href='/AIV/48/9/43'>Mark. 9:43</a>; <a href='/AIV/47/18/8'>Matt. 18:8-9</a>",
-      "comment": "Jesus again calls for radical transformation of life over the comforts of worldly attachment and sin."
+      "verse": 49,
+      "text": "For everyone will be salted with fire.",
+      "links": "<a href='/AIV/3/2/13'>Leviticus 2:13</a>, <a href='/AIV/40/3/11'>Matthew 3:11</a>",
+      "comment": "This cryptic statement draws from Old Testament sacrifice, where offerings were salted (Leviticus 2:13), and connects to spiritual purification through fire. Fire here symbolizes both trial and purification, as in Matthew 3:11, alluding to the transforming work of the Holy Spirit. This spiritualization invites deeper self-examination and personal sanctification—a key aspect of Christian growth."
     },
     {
       "pk": 48009048,
@@ -580,62 +601,11 @@
       "bookName": "Mark",
       "bookAbbreviation": "Mark",
       "chapter": 9,
-      "verse": 48,
-      "text": "where their worm does not die and the fire is not quenched.",
-      "links": "<a href='/AIV/23/66/24'>Isa. 66:24</a>",
-      "comment": "An explicit reference to eternal judgment, reminding us of the real consequences of spiritual choices."
-    },
-    {
-      "pk": 48009049,
-      "translation": "AIV",
-      "book": 48,
-      "bookName": "Mark",
-      "bookAbbreviation": "Mark",
-      "chapter": 9,
-      "verse": 49,
-      "text": "For everyone will be salted with fire.",
-      "links": "<a href='/AIV/03/2/13'>Lev. 2:13</a>; <a href='/AIV/40/5/13'>Matt. 5:13</a>",
-      "comment": "Fire symbolizes purification and judgment. 'Salt' was used in sacrifices—pointing to the sanctifying trials and spiritual sacrifices offered by believers."
-    },
-    {
-      "pk": 48009050,
-      "translation": "AIV",
-      "book": 48,
-      "bookName": "Mark",
-      "bookAbbreviation": "Mark",
-      "chapter": 9,
       "verse": 50,
-      "text": "Salt is good, but if salt has lost its flavor, how will you make it salty again? Have salt in yourselves, and be at peace with one another.\"",
-      "links": "<a href='/AIV/40/5/13'>Matt. 5:13</a>; <a href='/AIV/51/4/6'>Col. 4:6</a>",
-      "comment": "True disciples preserve spiritual integrity (“saltiness”) and foster unity and peace—key marks of Christ’s one visible Church."
+      "text": "Salt is good, but if the salt loses its flavor, how will you restore it? Have salt in yourselves, and be at peace with one another.",
+      "links": "<a href='/AIV/40/5/13'>Matthew 5:13</a>, <a href='/AIV/51/4/6'>Colossians 4:6</a>",
+      "comment": "Jesus uses the image of salt to express the importance of remaining faithful and distinctive in conduct, echoing Matthew 5:13. 'Be at peace with one another' alludes to the call for Christian unity, an essential mark of the true Church established by Christ. This unity and internal transformation, described here, prepares believers for deeper participation in Christ's life—recalling the high calling to holiness and reconciliation within the Church."
     }
   ],
-  "translatedAt": "2025-12-28T23:44:00.183Z",
-  "sections": [
-    {
-      "title": "The Transfiguration of Jesus",
-      "startVerse": 2,
-      "endVerse": 13
-    },
-    {
-      "title": "Jesus Heals a Boy with an Unclean Spirit",
-      "startVerse": 14,
-      "endVerse": 29
-    },
-    {
-      "title": "Second Prediction of the Passion",
-      "startVerse": 30,
-      "endVerse": 32
-    },
-    {
-      "title": "The Greatest in the Kingdom",
-      "startVerse": 33,
-      "endVerse": 41
-    },
-    {
-      "title": "On Temptations to Sin",
-      "startVerse": 42,
-      "endVerse": 50
-    }
-  ]
+  "translatedAt": "2026-01-02T06:03:03.852Z"
 }

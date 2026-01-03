@@ -409,25 +409,13 @@
       "bookName": "Acts",
       "bookAbbreviation": "Acts",
       "chapter": 15,
-      "verse": 34,
-      "text": "",
-      "links": "<a href='/AIV/51/13/13'>Acts. 13:13</a>; <a href='/AIV/51/18/19'>Acts. 18:19</a>; <a href='/AIV/62/4/9'>2Tim. 4:9</a>",
-      "comment": "Omitted to match the RSVCE, where this verse does not appear. Verse 34 is absent in most modern critical editions."
-    },
-    {
-      "pk": 51015035,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 15,
       "verse": 35,
       "text": "But Paul and Barnabas stayed in Antioch, teaching and preaching the word of the Lord, with many others also.",
       "links": "<a href='/AIV/44/11/26'>Acts 11:26</a>",
       "comment": "Preaching and teaching continued in the life of the Church; teaching authority is exercised in community."
     },
     {
-      "pk": 51015036,
+      "pk": 51015035,
       "translation": "AIV",
       "book": 51,
       "bookName": "Acts",
@@ -440,7 +428,7 @@
       "sectionHeader": "Paul and Barnabas Separate"
     },
     {
-      "pk": 51015037,
+      "pk": 51015036,
       "translation": "AIV",
       "book": 51,
       "bookName": "Acts",
@@ -452,7 +440,7 @@
       "comment": "John Mark’s inclusion becomes a point of contention, but he later becomes useful for ministry (see 2 Tim. 4:11)."
     },
     {
-      "pk": 51015038,
+      "pk": 51015037,
       "translation": "AIV",
       "book": 51,
       "bookName": "Acts",
@@ -464,7 +452,7 @@
       "comment": "Paul’s prudence underscores that not all ministry decisions are without disagreement, but God’s mission continues."
     },
     {
-      "pk": 51015039,
+      "pk": 51015038,
       "translation": "AIV",
       "book": 51,
       "bookName": "Acts",
@@ -476,7 +464,7 @@
       "comment": "Even apostolic leaders disagreed, but God uses even divisions for further mission—note the continued spread of the Gospel."
     },
     {
-      "pk": 51015040,
+      "pk": 51015039,
       "translation": "AIV",
       "book": 51,
       "bookName": "Acts",
@@ -488,7 +476,7 @@
       "comment": "Paul’s journey is Church-sanctioned, maintaining unity and apostolic commissioning."
     },
     {
-      "pk": 51015041,
+      "pk": 51015040,
       "translation": "AIV",
       "book": 51,
       "bookName": "Acts",
@@ -500,7 +488,7 @@
       "comment": "Paul’s work centers on ‘strengthening the churches,’ emphasizing ongoing, visible community life and unity in faith."
     }
   ],
-  "translatedAt": "2025-12-29T00:33:04.750Z",
+  "translatedAt": "2026-01-02T05:59:19.748Z",
   "sections": [
     {
       "title": "The Council at Jerusalem",

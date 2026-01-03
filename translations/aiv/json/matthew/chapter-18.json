@@ -133,18 +133,6 @@
       "bookName": "Matthew",
       "bookAbbreviation": "Matt",
       "chapter": 18,
-      "verse": 11,
-      "text": "",
-      "links": "<a href='/AIV/49/19/10'>Luke. 19:10</a>; <a href='/AIV/47/9/13'>Matt. 9:13</a>; <a href='/AIV/33/34/16'>Ezek. 34:16</a>",
-      "comment": "This verse is omitted in accordance with the RSVCE, as it does not appear in the oldest manuscripts."
-    },
-    {
-      "pk": 47018012,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 18,
       "verse": 12,
       "text": "'What do you think? If a man has a hundred sheep and one of them goes astray, does he not leave the ninety-nine on the mountains and go in search of the one that went astray?'",
       "links": "<a href='/AIV/42/15/4-7'>Luke 15:4-7</a>; <a href='/AIV/26/34/11-12'>Ezek. 34:11-12</a>",
@@ -152,7 +140,7 @@
       "sectionHeader": "The Parable of the Lost Sheep"
     },
     {
-      "pk": 47018013,
+      "pk": 47018012,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -164,7 +152,7 @@
       "comment": "Jesus stresses the value of each individual. God's joy over the repentant sinner is a recurring biblical theme."
     },
     {
-      "pk": 47018014,
+      "pk": 47018013,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -176,7 +164,7 @@
       "comment": "Highlights the Father's universal salvific will. The spiritual reality here is the care God has for each soul."
     },
     {
-      "pk": 47018015,
+      "pk": 47018014,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -189,7 +177,7 @@
       "sectionHeader": "A Brother Who Sins"
     },
     {
-      "pk": 47018016,
+      "pk": 47018015,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -201,7 +189,7 @@
       "comment": "This pattern follows Old Testament legal principles. Such process protects against slander or injustice, ensuring all sides are heard."
     },
     {
-      "pk": 47018017,
+      "pk": 47018016,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -213,7 +201,7 @@
       "comment": "The wording suggests a structured, authoritative community. The process even includes the possibility of exclusion for persistent unrepentance, a mark of maintaining the community's holiness."
     },
     {
-      "pk": 47018018,
+      "pk": 47018017,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -225,7 +213,7 @@
       "comment": "This statement confers real spiritual authority to the leaders of the assembly, echoing Jesus' earlier commission to Peter (Matt. 16:19). The ideas of 'binding and loosing' refer to the authority to forgive or retain sins and to make decisions regarding doctrine and discipline."
     },
     {
-      "pk": 47018019,
+      "pk": 47018018,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -237,7 +225,7 @@
       "comment": "Christ emphasizes the power of agreement in prayer within the community, which is integral to communal worship."
     },
     {
-      "pk": 47018020,
+      "pk": 47018019,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -249,7 +237,7 @@
       "comment": "Jesus promises His real presence among His followers in their gatherings, a mystery deeply cherished in corporate worship. This assertion of 'I am among them' echoes divine self-revelation (cf. God's presence among Israel)."
     },
     {
-      "pk": 47018021,
+      "pk": 47018020,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -262,7 +250,7 @@
       "sectionHeader": "The Parable of the Unforgiving Servant"
     },
     {
-      "pk": 47018022,
+      "pk": 47018021,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -274,7 +262,7 @@
       "comment": "Jesus calls for limitless forgiveness, reversing Lamech’s vengeful boasting (Genesis 4:24). This radical call parallels God's extravagant mercy to us."
     },
     {
-      "pk": 47018023,
+      "pk": 47018022,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -286,7 +274,7 @@
       "comment": "Typical of Jesus’ parables: a royal figure represents God, and the settling of accounts stands for judgment and mercy."
     },
     {
-      "pk": 47018024,
+      "pk": 47018023,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -298,7 +286,7 @@
       "comment": "Ten thousand talents: an astronomical sum—emphasizing the impossibility for us to repay our 'sin-debt' before God."
     },
     {
-      "pk": 47018025,
+      "pk": 47018024,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -310,7 +298,7 @@
       "comment": "Slavery for debt was standard in the ancient world, underscoring the dire consequences of spiritual debt."
     },
     {
-      "pk": 47018026,
+      "pk": 47018025,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -322,7 +310,7 @@
       "comment": "The servant’s desperate plea for mercy is met not with justice, but with grace—a reflection of God's mercy for repentant sinners."
     },
     {
-      "pk": 47018027,
+      "pk": 47018026,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -334,7 +322,7 @@
       "comment": "This act represents complete forgiveness. The Greek emphasizes a total cancellation, not just a postponement."
     },
     {
-      "pk": 47018028,
+      "pk": 47018027,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -346,7 +334,7 @@
       "comment": "A huge imbalance: the forgiven debt was immense, this one is trivial in comparison. Spiritual application: those who have received mercy must show mercy."
     },
     {
-      "pk": 47018029,
+      "pk": 47018028,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -358,7 +346,7 @@
       "comment": "The nearly identical plea highlights the hypocrisy of the first servant’s refusal to forgive."
     },
     {
-      "pk": 47018030,
+      "pk": 47018029,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -370,7 +358,7 @@
       "comment": "Jesus draws a stark contrast to God's mercy; the unmerciful servant exercises justice only, not mercy."
     },
     {
-      "pk": 47018031,
+      "pk": 47018030,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -382,7 +370,7 @@
       "comment": "God’s people are meant to notice such hypocrisy and injustice within the community."
     },
     {
-      "pk": 47018032,
+      "pk": 47018031,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -394,7 +382,7 @@
       "comment": "A reminder that God’s forgiveness is contingent upon our willingness to forgive others."
     },
     {
-      "pk": 47018033,
+      "pk": 47018032,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -406,7 +394,7 @@
       "comment": "God's mercy is the model and measure for our own. Jesus’ words imply mercy is not optional for His followers."
     },
     {
-      "pk": 47018034,
+      "pk": 47018033,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -418,7 +406,7 @@
       "comment": "The consequences for unforgiveness are severe. This passage has been interpreted as referring to a spiritual purification before entering eternal reward."
     },
     {
-      "pk": 47018035,
+      "pk": 47018034,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -430,7 +418,7 @@
       "comment": "Jesus concludes by restating the necessity of wholehearted forgiveness, which is foundational for life in the community of the faithful. Note: the spiritual principle here points to the seriousness of our cooperation with God's mercy towards ourselves and others."
     }
   ],
-  "translatedAt": "2025-12-29T00:34:46.865Z",
+  "translatedAt": "2026-01-02T03:44:37.261Z",
   "sections": [
     {
       "title": "Who Is the Greatest?",

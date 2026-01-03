@@ -254,25 +254,13 @@
       "bookName": "Sirach",
       "bookAbbreviation": "Sir",
       "chapter": 10,
-      "verse": 21,
-      "text": "The beginning of human pride is to forsake the Lord; the heart has withdrawn from its Maker.",
-      "links": "<a href='/AIV/5/8/14'>Deut. 8:14</a>; <a href='/AIV/35/13/6'>Hos. 13:6</a>; <a href='/AIV/52/1/21'>Rom. 1:21</a>",
-      "comment": "This verse is missing or omitted in some manuscripts, highlighting possible textual variations in ancient wisdom literature."
-    },
-    {
-      "pk": 28010022,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 10,
       "verse": 22,
       "text": "The rich, and the eminent, and the poor — their glory is the fear of the Lord.",
       "links": "<a href='/AIV/24/22/2'>Prov. 22:2</a>; <a href='/AIV/51/10/34'>Acts. 10:34-35</a>; <a href='/AIV/23/112/1'>Ps. 112:1</a>",
       "comment": "Regardless of social status, true 'glory' is found in reverence for God, echoing the idea that the 'fear of the Lord' is the foundation of wisdom (cf. Proverbs 9:10)."
     },
     {
-      "pk": 28010023,
+      "pk": 28010022,
       "translation": "AIV",
       "book": 28,
       "bookName": "Sirach",
@@ -284,7 +272,7 @@
       "comment": "Human worth is not tied to wealth or status but to integrity and righteousness; it is misguided to honor the sinful and disregard the wise poor (cf. James 2:1-5)."
     },
     {
-      "pk": 28010024,
+      "pk": 28010023,
       "translation": "AIV",
       "book": 28,
       "bookName": "Sirach",
@@ -296,7 +284,7 @@
       "comment": "God rewards both the successful and the spiritual, but those who devote themselves to holiness are given greater dignity—pointing to the special place of saints in the community."
     },
     {
-      "pk": 28010025,
+      "pk": 28010024,
       "translation": "AIV",
       "book": 28,
       "bookName": "Sirach",
@@ -308,7 +296,7 @@
       "comment": "Wisdom surpasses social position: a wise servant may gain leadership, while the prudent refrain from grumbling, showing virtue transcends status (cf. Proverbs 17:2)."
     },
     {
-      "pk": 28010026,
+      "pk": 28010025,
       "translation": "AIV",
       "book": 28,
       "bookName": "Sirach",
@@ -321,7 +309,7 @@
       "sectionHeader": "Humility and Contentment"
     },
     {
-      "pk": 28010027,
+      "pk": 28010026,
       "translation": "AIV",
       "book": 28,
       "bookName": "Sirach",
@@ -333,7 +321,7 @@
       "comment": "Productive labor is valued over empty boasting; substance matters more than talk (cf. Proverbs 14:23)."
     },
     {
-      "pk": 28010028,
+      "pk": 28010027,
       "translation": "AIV",
       "book": 28,
       "bookName": "Sirach",
@@ -345,7 +333,7 @@
       "comment": "Self-respect and humility are not contradictory; one can honor oneself properly while remaining humble, reflecting a balanced sense of worth."
     },
     {
-      "pk": 28010029,
+      "pk": 28010028,
       "translation": "AIV",
       "book": 28,
       "bookName": "Sirach",
@@ -357,7 +345,7 @@
       "comment": "Those who demean themselves or others ultimately forfeit both acquittal and honor; self-respect is a precondition for receiving honor from others."
     },
     {
-      "pk": 28010030,
+      "pk": 28010029,
       "translation": "AIV",
       "book": 28,
       "bookName": "Sirach",
@@ -369,7 +357,7 @@
       "comment": "Society honors the rich for their possessions but should honor the poor for their wisdom, subverting common social values (cf. Proverbs 22:1-2)."
     },
     {
-      "pk": 28010031,
+      "pk": 28010030,
       "translation": "AIV",
       "book": 28,
       "bookName": "Sirach",
@@ -381,7 +369,7 @@
       "comment": "True worth is tested by fortune: the honored poor would be even more esteemed in wealth, while the dishonored rich would be scorned all the more in poverty, highlighting character over circumstance."
     }
   ],
-  "translatedAt": "2025-12-29T00:36:11.848Z",
+  "translatedAt": "2026-01-02T21:39:20.311Z",
   "sections": [
     {
       "title": "The Role of Rulers and God's Sovereignty",

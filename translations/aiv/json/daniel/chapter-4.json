@@ -415,9 +415,45 @@
       "text": "At the end of those days, I, Nebuchadnezzar, lifted my eyes to heaven, and my reason returned to me; and I blessed the Most High, and praised and honored the One who lives forever. His dominion is everlasting, and His kingdom endures from generation to generation.",
       "links": "<a href='/AIV/19/145/13'>Ps. 145:13</a>; <a href='/AIV/27/4/3'>Dan. 4:3</a>",
       "comment": "The king’s confession highlights the spiritual necessity of recognizing God’s eternal rule, a truth fully revealed in Christ’s kingship and the enduring character of God’s people."
+    },
+    {
+      "pk": 34004035,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 4,
+      "verse": 35,
+      "text": "All the inhabitants of the earth are accounted as nothing, and he does according to his will with the host of heaven and the inhabitants of the earth; and none can stay his hand or say to him, 'What are you doing?'",
+      "comment": "Inserted to match the original Aramaic; highlights God's absolute sovereignty.",
+      "links": "<a href='/AIV/34/4/35'>Dan. 4:35</a>"
+    },
+    {
+      "pk": 34004036,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 4,
+      "verse": 36,
+      "text": "At that time my reason returned to me; and the glory of my kingdom, my majesty and splendor were restored to me. My counselors and my lords sought me out, and I was re-established over my kingdom, and still greater greatness was added to me.",
+      "comment": "Inserted Nebuchadnezzar's restoration narrative per the received text.",
+      "links": "<a href='/AIV/34/4/36'>Dan. 4:36</a>"
+    },
+    {
+      "pk": 34004037,
+      "translation": "AIV",
+      "book": 34,
+      "bookName": "Daniel",
+      "bookAbbreviation": "Dan",
+      "chapter": 4,
+      "verse": 37,
+      "text": "Now I, Nebuchadnezzar, praise and extol and honor the King of heaven, for all his works are truth and his ways are justice; and those who walk in pride he is able to humble.",
+      "comment": "Inserted doxology reflecting Nebuchadnezzar's acknowledgment of divine justice.",
+      "links": "<a href='/AIV/34/4/37'>Dan. 4:37</a>"
     }
   ],
-  "translatedAt": "2025-12-29T00:33:32.468Z",
+  "translatedAt": "2026-01-03T03:35:41.895Z",
   "sections": [
     {
       "title": "Nebuchadnezzar's Proclamation",

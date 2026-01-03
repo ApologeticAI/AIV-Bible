@@ -48,25 +48,13 @@
       "bookName": "John",
       "bookAbbreviation": "John",
       "chapter": 5,
-      "verse": 4,
-      "text": "",
-      "links": "<a href='/AIV/50/5/7'>John. 5:7</a>; <a href='/AIV/12/5/10'>2Kgs. 5:10</a>; <a href='/AIV/51/19/12'>Acts. 19:12</a>",
-      "comment": "This verse reflects a popular belief in the healing powers of the Pool of Bethesda, attributing miraculous activity to an angel agitating the waters (cf. 2 Kings 5:1-14); it highlights themes of divine intervention and human longing for healing within the Jewish context of the time."
-    },
-    {
-      "pk": 50005005,
-      "translation": "AIV",
-      "book": 50,
-      "bookName": "John",
-      "bookAbbreviation": "John",
-      "chapter": 5,
       "verse": 5,
       "text": "Now there was a certain man there who had been ill for thirty-eight years.",
       "links": "<a href='/AIV/5/2/14'>Deut. 2:14</a>",
       "comment": "Thirty-eight years recalls Israel's long period of waiting in the wilderness, hinting at spiritual wandering and the need for redemption."
     },
     {
-      "pk": 50005006,
+      "pk": 50005005,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -78,7 +66,7 @@
       "comment": "Jesus initiates the healing, showing His divine knowledge and compassion. The question invites a personal response, paralleling how grace calls for our cooperation."
     },
     {
-      "pk": 50005007,
+      "pk": 50005006,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -90,7 +78,7 @@
       "comment": "The man expresses helplessness and isolation, representing humanity's inability to save itself apart from divine intervention. Faith often begins with an admission of need."
     },
     {
-      "pk": 50005008,
+      "pk": 50005007,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -102,7 +90,7 @@
       "comment": "Jesus speaks with authority and gives a command that imparts healing, signifying His power to restore and His divinity. Action is involved: grace calls for a response."
     },
     {
-      "pk": 50005009,
+      "pk": 50005008,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -114,7 +102,7 @@
       "comment": "The healing is instantaneous, demonstrating Christ's power. The Sabbath setting becomes the focus of conflict, as Jesus brings true rest and fulfills the law."
     },
     {
-      "pk": 50005010,
+      "pk": 50005009,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -127,7 +115,7 @@
       "sectionHeader": "Jesus Confronted About the Sabbath"
     },
     {
-      "pk": 50005011,
+      "pk": 50005010,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -139,7 +127,7 @@
       "comment": "Obedience to the words of Christ takes precedence over human tradition, suggesting the authority of Jesus over religious customs."
     },
     {
-      "pk": 50005012,
+      "pk": 50005011,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -151,7 +139,7 @@
       "comment": "The leaders are more concerned about the breaking of custom than the miracle itself, showing a hardening of heart towards God's works."
     },
     {
-      "pk": 50005013,
+      "pk": 50005012,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -163,7 +151,7 @@
       "comment": "At first, the healed man doesn't recognize Jesus as more than a healer, illustrating a gradual revelation of Christ to believers."
     },
     {
-      "pk": 50005014,
+      "pk": 50005013,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -175,7 +163,7 @@
       "comment": "Jesus links physical healing with spiritual life. Forgiveness and holy living are expected of those who have received grace, suggesting a call to ongoing moral transformation."
     },
     {
-      "pk": 50005015,
+      "pk": 50005014,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -187,7 +175,7 @@
       "comment": "Now he testifies to Jesus' identity, pointing others to Christ as the source of healing."
     },
     {
-      "pk": 50005016,
+      "pk": 50005015,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -199,7 +187,7 @@
       "comment": "Conflict arises over Jesus' authority to interpret and fulfill the Law. His divine status becomes the dividing line."
     },
     {
-      "pk": 50005017,
+      "pk": 50005016,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -212,7 +200,7 @@
       "sectionHeader": "The Authority of the Son"
     },
     {
-      "pk": 50005018,
+      "pk": 50005017,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -224,7 +212,7 @@
       "comment": "Jesus’ claim to divine Sonship is recognized as blasphemy by the authorities, but reveals His true identity as equal to God, a cornerstone of Christian faith."
     },
     {
-      "pk": 50005019,
+      "pk": 50005018,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -236,7 +224,7 @@
       "comment": "Jesus expresses His perfect obedience and unity with the Father, establishing the doctrine of the Son’s divine mission and submission, rooted in love."
     },
     {
-      "pk": 50005020,
+      "pk": 50005019,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -248,7 +236,7 @@
       "comment": "The relationship of love within the Trinity is highlighted, as well as progressive revelation leading to greater works—culminating in resurrection."
     },
     {
-      "pk": 50005021,
+      "pk": 50005020,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -260,7 +248,7 @@
       "comment": "Jesus shares God’s unique power to raise the dead and give eternal life, affirming His divinity and authority as judge and source of salvation."
     },
     {
-      "pk": 50005022,
+      "pk": 50005021,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -272,7 +260,7 @@
       "comment": "All judgment is entrusted to Jesus, reinforcing His position as the divinely appointed Judge of all humanity."
     },
     {
-      "pk": 50005023,
+      "pk": 50005022,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -284,7 +272,7 @@
       "comment": "Worship of the Son is on par with the Father, a profound claim to divinity, emphasizing the unity in worship."
     },
     {
-      "pk": 50005024,
+      "pk": 50005023,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -296,7 +284,7 @@
       "comment": "Eternal life begins by hearing and believing Christ’s word, and is evidenced in a transformed life—hinting at sacramental, as well as interior, dimensions of faith."
     },
     {
-      "pk": 50005025,
+      "pk": 50005024,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -308,7 +296,7 @@
       "comment": "The ‘dead’ refers both to physical resurrection and spiritual renewal—fulfilled through Christ's voice now in preaching and ultimately in the last day."
     },
     {
-      "pk": 50005026,
+      "pk": 50005025,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -320,7 +308,7 @@
       "comment": "The Son shares in the same eternal, self-existent life as the Father, confirming the Son's divine nature and co-equality."
     },
     {
-      "pk": 50005027,
+      "pk": 50005026,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -332,7 +320,7 @@
       "comment": "'Son of Man' recalls Daniel's prophecy, linking Jesus' earthly mission to his heavenly reign as Judge. Both human and divine elements are united in Jesus' Person."
     },
     {
-      "pk": 50005028,
+      "pk": 50005027,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -344,7 +332,7 @@
       "comment": "General resurrection and judgment at the last day—Jesus will raise all the dead, exercise universal authority, and bring final justice."
     },
     {
-      "pk": 50005029,
+      "pk": 50005028,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -356,7 +344,7 @@
       "comment": "Final destiny is determined by deeds, reflecting faith lived out in works. This supports the importance of ongoing sanctification—not just a one-time act of faith."
     },
     {
-      "pk": 50005030,
+      "pk": 50005029,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -368,7 +356,7 @@
       "comment": "Jesus’ obedience to the Father's will ensures His judgment is perfect. He is model of humble submission, setting the standard for all disciples."
     },
     {
-      "pk": 50005031,
+      "pk": 50005030,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -381,7 +369,7 @@
       "sectionHeader": "Witnesses to Jesus"
     },
     {
-      "pk": 50005032,
+      "pk": 50005031,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -393,7 +381,7 @@
       "comment": "Refers implicitly to the Father and the Spirit as witnesses, as well as John the Baptist. All true testimony comes from God."
     },
     {
-      "pk": 50005033,
+      "pk": 50005032,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -405,7 +393,7 @@
       "comment": "John the Baptist is presented as a reliable prophetic witness, linking the old and new."
     },
     {
-      "pk": 50005034,
+      "pk": 50005033,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -417,7 +405,7 @@
       "comment": "Ultimate validation of Jesus is divine, not human. God uses human testimony to lead to salvation, demonstrating both spiritual and visible means."
     },
     {
-      "pk": 50005035,
+      "pk": 50005034,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -429,7 +417,7 @@
       "comment": "John is honored as a prepared forerunner to Christ, but Jesus is the true Light, highlighting the continuity of God’s revelation."
     },
     {
-      "pk": 50005036,
+      "pk": 50005035,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -441,7 +429,7 @@
       "comment": "Miraculous works are the divine sign authenticating Jesus’ mission. The validation of Christ by ‘signs and wonders’ is a continuation of how God always acts in salvation history."
     },
     {
-      "pk": 50005037,
+      "pk": 50005036,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -453,7 +441,7 @@
       "comment": "Testimony of the Father comes through Jesus, the Word made flesh. The invisible God is made known personally in Christ."
     },
     {
-      "pk": 50005038,
+      "pk": 50005037,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -465,7 +453,7 @@
       "comment": "Faith is required for God’s Word to dwell in us—openness to the fullness of divine revelation given through Christ."
     },
     {
-      "pk": 50005039,
+      "pk": 50005038,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -477,7 +465,7 @@
       "comment": "Scripture points to Christ; knowledge alone is not enough, but faith in the living Word is required. The unity of Scripture and Tradition is subtly implied."
     },
     {
-      "pk": 50005040,
+      "pk": 50005039,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -489,7 +477,7 @@
       "comment": "Full participation in divine life means coming to Jesus Himself, not merely studying Scripture alone—the importance of personal encounter and ongoing commitment."
     },
     {
-      "pk": 50005041,
+      "pk": 50005040,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -501,7 +489,7 @@
       "comment": "Jesus seeks honor from God alone, not from worldly status—an example for humility and divine approval above human praise."
     },
     {
-      "pk": 50005042,
+      "pk": 50005041,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -513,7 +501,7 @@
       "comment": "The love of God is essential for true understanding; head knowledge without hearts open to grace is insufficient."
     },
     {
-      "pk": 50005043,
+      "pk": 50005042,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -525,7 +513,7 @@
       "comment": "Prophetic fulfillment: True authority is often rejected, and false teachers are all too easily accepted—spiritual discernment is vital."
     },
     {
-      "pk": 50005044,
+      "pk": 50005043,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -537,7 +525,7 @@
       "comment": "Pride and the pursuit of human praise are barriers to faith. Humility and seeking God’s glory is needed for true spiritual life."
     },
     {
-      "pk": 50005045,
+      "pk": 50005044,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -549,7 +537,7 @@
       "comment": "The Law itself testifies against unbelief. Even Moses, whom the people revered, points them to the need for the fulfillment found in Jesus."
     },
     {
-      "pk": 50005046,
+      "pk": 50005045,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -561,7 +549,7 @@
       "comment": "The prophets and the Law anticipated the Messiah. Emphasizes the harmony between the old and new, and the visible continuity in the plan of salvation."
     },
     {
-      "pk": 50005047,
+      "pk": 50005046,
       "translation": "AIV",
       "book": 50,
       "bookName": "John",
@@ -573,7 +561,7 @@
       "comment": "Faith in Scripture and faith in Christ go together. Disbelief in God’s revelation blocks all further understanding, underlining the necessity of faith and Tradition as living interpretation."
     }
   ],
-  "translatedAt": "2025-12-29T00:33:54.846Z",
+  "translatedAt": "2026-01-02T03:43:47.422Z",
   "sections": [
     {
       "title": "The Healing at the Pool of Bethesda",

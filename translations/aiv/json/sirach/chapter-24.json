@@ -3,6 +3,28 @@
   "bookName": "Sirach",
   "bookAbbreviation": "Sir",
   "chapter": 24,
+  "sections": [
+    {
+      "title": "Praise of Divine Wisdom",
+      "startVerse": 1,
+      "endVerse": 2
+    },
+    {
+      "title": "Wisdom's Divine Origin",
+      "startVerse": 3,
+      "endVerse": 18
+    },
+    {
+      "title": "Invitation to Wisdom's Feast",
+      "startVerse": 19,
+      "endVerse": 31
+    },
+    {
+      "title": "Wisdom's Universal Offer",
+      "startVerse": 32,
+      "endVerse": 34
+    }
+  ],
   "verses": [
     {
       "pk": 28024001,
@@ -12,10 +34,10 @@
       "bookAbbreviation": "Sir",
       "chapter": 24,
       "verse": 1,
-      "text": "Wisdom will praise herself, and in the midst of her people she will boast.",
-      "links": "<a href='/AIV/20/8/1'>Prov. 8:1</a>; <a href='/AIV/20/9/1-6'>Prov. 9:1-6</a>",
-      "comment": "Personification of Wisdom recalls Proverbs. Here, Wisdom is portrayed as an active, divine figure, foreshadowing Christ as the ultimate wisdom (1 Cor. 1:30).",
-      "sectionHeader": "The Praise and Origin of Wisdom"
+      "text": "Wisdom will praise herself, and in the midst of her people she will glory.",
+      "links": "<a href='/AIV/20/8/12'>Prov. 8:12</a>; <a href='/AIV/20/8/22-31'>Prov. 8:22-31</a>",
+      "comment": "Wisdom is personified, much like in Proverbs. This language anticipates the later link between divine wisdom and the incarnate Word (cf. John 1:1-14), a theme important in Christian tradition.",
+      "sectionHeader": "Praise of Divine Wisdom"
     },
     {
       "pk": 28024002,
@@ -25,9 +47,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 24,
       "verse": 2,
-      "text": "In the assembly of the Most High she will open her mouth, and in the presence of his power she will glory.",
-      "links": "<a href='/AIV/19/89/7'>Ps. 89:7</a>; <a href='/AIV/20/8/3'>Prov. 8:3</a>",
-      "comment": "Wisdom speaks publicly before God. This mirrors the role of Christ, proclaiming truth before God and man (John 18:20)."
+      "text": "In the assembly of the Most High she will open her mouth, and in the presence of his hosts she will glory.",
+      "links": "<a href='/AIV/19/89/7'>Ps. 89:7</a>; <a href='/AIV/20/1/20'>Prov. 1:20</a>",
+      "comment": "Wisdom proclaims her worth publicly, highlighted in the 'assembly'. This foreshadows how God's wisdom is revealed in the community of believers—the Church—as a living tradition."
     },
     {
       "pk": 28024003,
@@ -37,9 +59,10 @@
       "bookAbbreviation": "Sir",
       "chapter": 24,
       "verse": 3,
-      "text": "I came forth from the mouth of the Most High, and I covered the earth like a mist.",
-      "links": "<a href='/AIV/43/1/1'>John 1:1</a>; <a href='/AIV/1/1/2'>Gen. 1:2</a>",
-      "comment": "Wisdom is depicted as proceeding from God—an image many see fulfilled in Christ, the Word made flesh (John 1:1-14)."
+      "text": "I came forth from the mouth of the Most High, and covered the earth like a mist.",
+      "links": "<a href='/AIV/20/8/22'>Prov. 8:22</a>; <a href='/AIV/43/1/1'>John 1:1</a>",
+      "comment": "Wisdom's origin is from God Himself, mirroring both the creative word in Genesis and the Word in John 1. Early Christian writers saw Wisdom as a foreshadowing of Christ, the eternal Son.",
+      "sectionHeader": "Wisdom's Divine Origin"
     },
     {
       "pk": 28024004,
@@ -50,8 +73,8 @@
       "chapter": 24,
       "verse": 4,
       "text": "I dwelt in high places, and my throne was in a pillar of cloud.",
-      "links": "<a href='/AIV/2/13/21'>Ex. 13:21</a>; <a href='/AIV/19/99/7'>Ps. 99:7</a>",
-      "comment": "Wisdom’s dwelling in the cloud recalls God’s presence in the Exodus. It hints at the mystery of God dwelling among His people."
+      "links": "<a href='/AIV/2/13/21'>Exod. 13:21</a>; <a href='/AIV/19/97/2'>Ps. 97:2</a>",
+      "comment": "The association of cloud and throne alludes to God's presence in the Exodus and Temple, again tying Wisdom to the indwelling of God among His people."
     },
     {
       "pk": 28024005,
@@ -61,9 +84,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 24,
       "verse": 5,
-      "text": "I alone encompassed the circle of heaven, and walked in the depths of the abyss.",
-      "links": "<a href='/AIV/20/8/27'>Prov. 8:27</a>; <a href='/AIV/19/104/9'>Ps. 104:9</a>",
-      "comment": "Wisdom’s universal reach points to God’s sovereignty and the fullness found in divine Wisdom incarnate."
+      "text": "Alone I encircled the vault of heaven, and I walked in the depths of the abyss.",
+      "links": "<a href='/AIV/20/8/27'>Prov. 8:27</a>; <a href='/AIV/18/28/12-14'>Job 28:12-14</a>",
+      "comment": "Wisdom's activity in creation foreshadows Christ's role as Creator (cf. Col. 1:16-17). Her omnipresence shows intimate knowledge of creation."
     },
     {
       "pk": 28024006,
@@ -73,9 +96,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 24,
       "verse": 6,
-      "text": "Over waves of the sea, and over all the earth, and over every people and nation I held sway.",
-      "links": "<a href='/AIV/19/72/11'>Ps. 72:11</a>",
-      "comment": "Universal authority, prefigures Christ’s claim over all nations (Matt. 28:18-19)."
+      "text": "Over waves of the sea, over all the earth, and over every people and nation I held sway.",
+      "links": "<a href='/AIV/20/8/31'>Prov. 8:31</a>; <a href='/AIV/19/22/28'>Ps. 22:28</a>",
+      "comment": "Here, Wisdom has universal reach. This echoes the worldwide mission given to the Church and the universality of Christ's salvation."
     },
     {
       "pk": 28024007,
@@ -85,9 +108,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 24,
       "verse": 7,
-      "text": "Among all these I sought a resting place, and in whose inheritance should I abide?",
-      "links": "<a href='/AIV/19/132/13-14'>Ps. 132:13-14</a>",
-      "comment": "Wisdom seeks a home, similar to God choosing Zion as His dwelling. Spiritually, this foreshadows the indwelling presence of God in His people."
+      "text": "Among all these, I sought a resting place; in whose territory should I abide?",
+      "links": "<a href='/AIV/19/132/13'>Ps. 132:13-14</a>; <a href='/AIV/23/66/1'>Isa. 66:1</a>",
+      "comment": "Wisdom seeks a dwelling among the people, similar to the way God sought to dwell with Israel. Reflects God's desire for communion with humanity."
     },
     {
       "pk": 28024008,
@@ -97,10 +120,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 24,
       "verse": 8,
-      "text": "'Then the Creator of all commanded me, and he who created me assigned a place for my tent. He said, ‘Make your dwelling in Jacob, and in Israel receive your inheritance.’",
-      "links": "<a href='/AIV/26/37/27'>Ezek. 37:27</a>; <a href='/AIV/7/23/13'>Josh. 23:13</a>",
-      "comment": "Wisdom is settled in Israel, the chosen people. The language reflects divine election and the establishment of God's enduring presence.",
-      "sectionHeader": "Wisdom’s Dwelling Among God’s People"
+      "text": "Then the Creator of all commanded me, and he who created me assigned my dwelling, saying, 'Make your dwelling in Jacob, and in Israel receive your inheritance.'",
+      "links": "<a href='/AIV/5/7/6'>Deut. 7:6</a>; <a href='/AIV/19/33/12'>Ps. 33:12</a>",
+      "comment": "God commands Wisdom to dwell among His chosen people. This foreshadows the incarnational principle: God making His habitation with mankind through the Church."
     },
     {
       "pk": 28024009,
@@ -110,9 +132,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 24,
       "verse": 9,
-      "text": "Before all ages, from the beginning, he created me, and through all ages I shall not cease to be.",
-      "links": "<a href='/AIV/20/8/22-23'>Prov. 8:22-23</a>; <a href='/AIV/43/1/2'>John 1:2</a>",
-      "comment": "Wisdom’s eternity parallels the eternal Word. Christ in Christian tradition is 'begotten, not made'—concepts deeply rooted in early theology."
+      "text": "Before all ages, from beginning, he created me, and for all eternity I shall not cease to exist.",
+      "links": "<a href='/AIV/20/8/23'>Prov. 8:23</a>; <a href='/AIV/19/90/2'>Ps. 90:2</a>",
+      "comment": "Eternal origin and continuity. The language ties to Christ's eternal existence and the view of Wisdom as pre-existent and enduring."
     },
     {
       "pk": 28024010,
@@ -123,8 +145,8 @@
       "chapter": 24,
       "verse": 10,
       "text": "In the holy tent I ministered before him, and so I was established in Zion.",
-      "links": "<a href='/AIV/19/132/13'>Ps. 132:13</a>; <a href='/AIV/19/9/11'>Ps. 9:11</a>",
-      "comment": "Wisdom ministers in the sanctuary, echoing the role of priests. This points to the importance of sacramental life and worship."
+      "links": "<a href='/AIV/2/25/8'>Exod. 25:8</a>; <a href='/AIV/19/132/13'>Ps. 132:13</a>",
+      "comment": "Wisdom dwells in the Tent and Zion (the Temple), suggesting a sacramental presence. The physical location points to the spiritual assembly where God is worshipped."
     },
     {
       "pk": 28024011,
@@ -134,9 +156,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 24,
       "verse": 11,
-      "text": "He made me dwell in the beloved city, and in Jerusalem was my authority.",
-      "links": "<a href='/AIV/19/48/2'>Ps. 48:2</a>; <a href='/AIV/19/87/3'>Ps. 87:3</a>",
-      "comment": "Jerusalem as the seat of Wisdom prefigures its role in messianic prophecy and the new covenant."
+      "text": "Thus in the beloved city he gave me rest, and in Jerusalem was my domain.",
+      "links": "<a href='/AIV/19/87/2'>Ps. 87:2</a>; <a href='/AIV/19/122/2'>Ps. 122:2</a>",
+      "comment": "Wisdom's abiding in Jerusalem subliminally affirms the concept of a visible, central place for God's dwelling—pointing beyond to the visible unity of the Church."
     },
     {
       "pk": 28024012,
@@ -146,9 +168,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 24,
       "verse": 12,
-      "text": "I took root among a noble people, in the portion of the Lord, in his inheritance.",
-      "links": "<a href='/AIV/5/32/9'>Deut. 32:9</a>; <a href='/AIV/23/37/31'>Isa. 37:31</a>",
-      "comment": "Wisdom firmly rooted in Israel, echoing the tradition of faith being handed down through generations."
+      "text": "So I took root in an honored people, in the portion of the Lord, who is their inheritance.",
+      "links": "<a href='/AIV/5/32/9'>Deut. 32:9</a>; <a href='/AIV/19/135/4'>Ps. 135:4</a>",
+      "comment": "Wisdom dwells among God's chosen, rooting herself in their midst. This echoes Christ's incarnation within the 'portion' or people of God."
     },
     {
       "pk": 28024013,
@@ -159,9 +181,8 @@
       "chapter": 24,
       "verse": 13,
       "text": "I grew tall like a cedar in Lebanon, and like a cypress on the heights of Hermon.",
-      "links": "<a href='/AIV/23/2/13'>Isa. 2:13</a>; <a href='/AIV/19/92/12'>Ps. 92:12</a>",
-      "comment": "Tall trees symbolize majesty, longevity, and divine blessing—a fitting image for Wisdom.",
-      "sectionHeader": "The Fruits and Blessings of Wisdom"
+      "links": "<a href='/AIV/19/92/12'>Ps. 92:12</a>; <a href='/AIV/22/5/15'>Song 5:15</a>",
+      "comment": "Cedar and cypress symbolize majesty, endurance, and divine favor—the characteristics of divine Wisdom."
     },
     {
       "pk": 28024014,
@@ -171,9 +192,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 24,
       "verse": 14,
-      "text": "I spread my branches like a palm tree in En-Gedi, and like rose bushes in Jericho.",
-      "links": "<a href='/AIV/22/7/11-12'>Song 7:11-12</a>",
-      "comment": "Imagery of fruitfulness and beauty, reminiscent of the Song of Songs, which uses garden language to describe spiritual intimacy."
+      "text": "I grew tall like a palm tree in Engedi, and like rosebushes in Jericho; like a fair olive tree in the field, and like a plane tree beside the water.",
+      "links": "<a href='/AIV/22/7/7'>Song 7:7-8</a>; <a href='/AIV/19/52/8'>Ps. 52:8</a>",
+      "comment": "Metaphors from Israel's landscape highlight Wisdom's beauty, fruitfulness, and life-giving nature—anticipating the spiritual fruitfulness promised to the Church."
     },
     {
       "pk": 28024015,
@@ -183,9 +204,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 24,
       "verse": 15,
-      "text": "Like cassia and camel’s thorn I gave forth perfume, and like choice myrrh I spread my fragrance, like galbanum, onycha, and stacte, and like the odor of incense in the tent.",
-      "links": "<a href='/AIV/2/30/34'>Exod. 30:34</a>; <a href='/AIV/23/141/2'>Ps. 141:2</a>; <a href='/AIV/26/1/3'>Song. 1:3</a>",
-      "comment": "Wisdom is compared to rare and precious spices and incense, evoking temple worship and the rich aroma of holiness; these images highlight her role in sanctifying and beautifying life (Exodus 30:34-38)."
+      "text": "I gave off fragrance like cinnamon and acanthus, and I produced a scent like choice myrrh, like galbanum, onycha, and storax, like the smoke of incense in the tabernacle.",
+      "links": "<a href='/AIV/2/30/34'>Exod. 30:34-35</a>; <a href='/AIV/19/141/2'>Ps. 141:2</a>",
+      "comment": "Fragrant imagery links Wisdom with worship—incense in the Temple is a sign of prayer and offering. The spiritual interpretation is the life of grace within the people of God."
     },
     {
       "pk": 28024016,
@@ -195,9 +216,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 24,
       "verse": 16,
-      "text": "Like a terebinth I spread out my branches, and my branches are glorious and graceful.",
-      "links": "<a href='/AIV/29/61/3'>Isa. 61:3</a>; <a href='/AIV/35/14/6'>Hos. 14:6</a>; <a href='/AIV/23/92/12'>Ps. 92:12</a>",
-      "comment": "The terebinth tree symbolizes strength and grace; here, wisdom spreads her influence widely, sheltering and ennobling those who seek her (Isaiah 6:13)."
+      "text": "I spread out my branches like a terebinth, and my branches are glorious and graceful.",
+      "links": "<a href='/AIV/23/6/13'>Isa. 6:13</a>; <a href='/AIV/11/4/33'>1 Kings 4:33</a>",
+      "comment": "Wisdom's growth is expansive, reminiscent of the parable of the mustard seed becoming a tree (cf. Matt. 13:31-32)—a symbol of the Church's steady expansion."
     },
     {
       "pk": 28024017,
@@ -208,8 +229,8 @@
       "chapter": 24,
       "verse": 17,
       "text": "Like the vine I bud forth delights, and my blossoms become glorious and abundant fruit.",
-      "links": "<a href='/AIV/23/128/3'>Ps. 128:3</a>; <a href='/AIV/26/2/3'>Song. 2:3</a>; <a href='/AIV/50/15/5'>John. 15:5</a>",
-      "comment": "The vine represents fertility and joy, indicating that wisdom produces abundant blessings and spiritual fruitfulness for her followers (John 15:5)."
+      "links": "<a href='/AIV/22/7/12'>Song 7:12</a>; <a href='/AIV/20/8/19'>Prov. 8:19</a>",
+      "comment": "This verse highlights Wisdom’s generativity: not only is she beautiful like the blossoming vine, but she brings forth abundant and glorious fruit—echoing the biblical motif of fruitful abundance found in Israel’s vine imagery."
     },
     {
       "pk": 28024018,
@@ -218,10 +239,11 @@
       "bookName": "Sirach",
       "bookAbbreviation": "Sir",
       "chapter": 24,
-      "verse": 18,
-      "text": "I am the mother of fair love, and of fear, and knowledge, and holy hope; being therefore, I give to all my children to be everlasting, to those who are named by him.",
-      "links": "<a href='/AIV/28/1/13'>Sir. 1:13-14</a>; <a href='/AIV/27/7/22'>Wis. 7:22-27</a>; <a href='/AIV/24/8/17'>Prov. 8:17</a>",
-      "comment": "Verse 18 does not exist in the RSVCE; removed to maintain reference integrity."
+      "verse": 19,
+      "text": "Come to me, you who desire me, and be filled with my fruits.",
+      "links": "<a href='/AIV/20/9/4-5'>Prov. 9:4-5</a>; <a href='/AIV/43/6/35'>John 6:35</a>",
+      "comment": "A call to seek and be nourished by Wisdom anticipates Christ's invitation in John 6, where He offers Himself as Bread of Life—a deep spiritual connection.",
+      "sectionHeader": "Invitation to Wisdom's Feast"
     },
     {
       "pk": 28024019,
@@ -230,10 +252,10 @@
       "bookName": "Sirach",
       "bookAbbreviation": "Sir",
       "chapter": 24,
-      "verse": 19,
-      "text": "Come to me, you who desire me, and eat your fill of my fruits.",
-      "links": "<a href='/AIV/24/9/5'>Prov. 9:5</a>; <a href='/AIV/29/55/1'>Isa. 55:1-2</a>; <a href='/AIV/47/11/28'>Matt. 11:28</a>",
-      "comment": "Wisdom invites all who seek her to partake fully, suggesting the boundless generosity and spiritual nourishment found in God’s instruction (Isaiah 55:1-2)."
+      "verse": 20,
+      "text": "For memory of me is sweeter than honey, and the possession of me sweeter than the honeycomb.",
+      "links": "<a href='/AIV/19/19/10'>Ps. 19:10</a>; <a href='/AIV/20/24/13'>Prov. 24:13-14</a>",
+      "comment": "Wisdom's benefits—sweetness, satisfaction—prefigure the delights found in deep communion with God and His truth."
     },
     {
       "pk": 28024020,
@@ -242,10 +264,10 @@
       "bookName": "Sirach",
       "bookAbbreviation": "Sir",
       "chapter": 24,
-      "verse": 20,
-      "text": "For the memory of me is sweeter than honey, and the possession of me sweeter than the honeycomb.",
-      "links": "<a href='/AIV/23/19/10'>Ps. 19:10</a>; <a href='/AIV/23/119/103'>Ps. 119:103</a>; <a href='/AIV/24/24/13'>Prov. 24:13-14</a>",
-      "comment": "The sweetness of wisdom surpasses even honey, often a biblical metaphor for delight and satisfaction in God’s Word (Psalm 19:10)."
+      "verse": 21,
+      "text": "Those who eat me will hunger for more, and those who drink me will thirst for more.",
+      "links": "<a href='/AIV/43/4/13-14'>John 4:13-14</a>; <a href='/AIV/43/6/35'>John 6:35</a>",
+      "comment": "The paradoxical statement shows that the pursuit of divine Wisdom is inexhaustible—a profound echo of Christ as living water and bread, whose fullness always draws us deeper."
     },
     {
       "pk": 28024021,
@@ -254,10 +276,10 @@
       "bookName": "Sirach",
       "bookAbbreviation": "Sir",
       "chapter": 24,
-      "verse": 21,
-      "text": "Those who eat of me will hunger for more, and those who drink of me will thirst for more.",
-      "links": "<a href='/AIV/47/5/6'>Matt. 5:6</a>; <a href='/AIV/50/4/13'>John. 4:13-14</a>; <a href='/AIV/50/6/35'>John. 6:35</a>",
-      "comment": "Wisdom stirs an unending desire; union with her creates a holy longing for deeper knowledge and connection, echoing ‘taste and see’ language (Psalm 34:8)."
+      "verse": 22,
+      "text": "Whoever obeys me will not be put to shame, and those who work with me will not stumble.",
+      "links": "<a href='/AIV/20/3/23'>Prov. 3:23'>Prov. 3:23</a>; <a href='/AIV/40/7/24'>Matt. 7:24</a>",
+      "comment": "The ethics of Wisdom: obedience leads to spiritual security. This links to Jesus’ teaching about the wise builder who hears and acts on God’s word."
     },
     {
       "pk": 28024022,
@@ -266,10 +288,10 @@
       "bookName": "Sirach",
       "bookAbbreviation": "Sir",
       "chapter": 24,
-      "verse": 22,
-      "text": "Whoever obeys me will not be put to shame, and those who work with me will not sin.",
-      "links": "<a href='/AIV/23/119/6'>Ps. 119:6</a>; <a href='/AIV/66/1/25'>Jas. 1:25</a>; <a href='/AIV/27/6/18'>Wis. 6:18</a>",
-      "comment": "Obedience to wisdom leads to honor and avoids shame or sin, emphasizing her guiding role in moral and ethical living (Proverbs 3:1-4)."
+      "verse": 23,
+      "text": "All this is the book of the covenant of the Most High God, the law which Moses commanded us as an inheritance for the congregations of Jacob.",
+      "links": "<a href='/AIV/2/24/7'>Exod. 24:7</a>; <a href='/AIV/5/33/4'>Deut. 33:4</a>",
+      "comment": "Connecting Wisdom with Torah, this verse points to divine instruction handed to the people through tradition—which becomes, through Christ, the fullness of revealed faith."
     },
     {
       "pk": 28024023,
@@ -278,10 +300,10 @@
       "bookName": "Sirach",
       "bookAbbreviation": "Sir",
       "chapter": 24,
-      "verse": 23,
-      "text": "All this is the book of the covenant of the Most High God, the law that Moses commanded us as an inheritance for the congregations of Jacob.",
-      "links": "<a href='/AIV/5/33/4'>Deut. 33:4</a>; <a href='/AIV/6/1/8'>Josh. 1:8</a>; <a href='/AIV/16/9/14'>Neh. 9:14</a>",
-      "comment": "Here, wisdom is identified with Torah, linking her with the covenant and the divine law entrusted to Israel, underscoring her central place in God’s revelation (Deuteronomy 33:4)."
+      "verse": 25,
+      "text": "It fills men with wisdom, like the Pishon and the Tigris at the time of first fruits.",
+      "links": "<a href='/AIV/1/2/10-14'>Gen. 2:10-14</a>; <a href='/AIV/19/36/8'>Ps. 36:8</a>",
+      "comment": "The rivers are symbols of life and abundance—wisdom flows into the faithful, just as sacramental grace does."
     },
     {
       "pk": 28024024,
@@ -290,10 +312,10 @@
       "bookName": "Sirach",
       "bookAbbreviation": "Sir",
       "chapter": 24,
-      "verse": 24,
-      "text": "",
-      "links": "",
-      "comment": "Verse 24 does not exist in the RSVCE; removed."
+      "verse": 26,
+      "text": "It makes understanding abound like the Euphrates, and as the Jordan at harvest time.",
+      "links": "<a href='/AIV/1/2/14'>Gen. 2:14</a>; <a href='/AIV/6/3/15'>Josh. 3:15</a>",
+      "comment": "Abundant rivers represent spiritual wisdom pouring out—also alluding to the waters of baptism as a source of new life."
     },
     {
       "pk": 28024025,
@@ -302,11 +324,10 @@
       "bookName": "Sirach",
       "bookAbbreviation": "Sir",
       "chapter": 24,
-      "verse": 25,
-      "text": "It overflows, like the Pishon, with wisdom, and like the Tigris at the time of the first fruits.",
-      "links": "<a href='/AIV/1/2/11'>Gen. 2:11</a>; <a href='/AIV/1/2/14'>Gen. 2:14</a>; <a href='/AIV/27/7/17'>Wis. 7:17</a>",
-      "comment": "Restored river imagery per RSVCE.",
-      "sectionHeader": "Invitation to Seek Wisdom"
+      "verse": 27,
+      "text": "It pours forth instruction like the Nile, like the Gihon at the time of vintage.",
+      "links": "<a href='/AIV/19/36/8'>Ps. 36:8</a>; <a href='/AIV/19/46/4'>Ps. 46:4</a>",
+      "comment": "By comparing wisdom's instruction to the life-giving waters of the Nile and the Gihon rivers, the text connects Wisdom to the fertility and abundance essential for the well-being of ancient societies. The mention of 'the time of vintage' evokes harvest, suggesting that wisdom brings fruitfulness and prosperity when received."
     },
     {
       "pk": 28024026,
@@ -315,10 +336,10 @@
       "bookName": "Sirach",
       "bookAbbreviation": "Sir",
       "chapter": 24,
-      "verse": 26,
-      "text": "It runs over, like the Euphrates, with understanding, and like the Jordan at harvest time.",
-      "links": "<a href='/AIV/1/2/14'>Gen. 2:14</a>; <a href='/AIV/5/8/7'>Deut. 8:7</a>; <a href='/AIV/23/36/8'>Ps. 36:8</a>",
-      "comment": "Wisdom’s understanding is pictured as abundant and overflowing, like the life-giving rivers of the region, signifying her inexhaustible provision (Isaiah 11:9)."
+      "verse": 28,
+      "text": "The first man did not know wisdom fully, nor will the last one fathom her.",
+      "links": "<a href='/AIV/1/2/13'>Gen. 2:13</a>; <a href='/AIV/19/119/105'>Ps. 119:105</a>",
+      "comment": "This verse asserts the unfathomable depth and mystery of divine wisdom, transcending human comprehension from the very beginning (Adam) to the end of time. It highlights human limitations and the inexhaustibility of wisdom, a recurring theme in sapiential literature."
     },
     {
       "pk": 28024027,
@@ -327,10 +348,10 @@
       "bookName": "Sirach",
       "bookAbbreviation": "Sir",
       "chapter": 24,
-      "verse": 27,
-      "text": "It pours forth instruction like the Nile, like the Gihon at the time of vintage.",
-      "links": "<a href='/AIV/1/2/13'>Gen. 2:13</a>; <a href='/AIV/29/33/21'>Isa. 33:21</a>; <a href='/AIV/33/47/1'>Ezek. 47:1</a>",
-      "comment": "Water imagery restored in accordance with RSVCE."
+      "verse": 29,
+      "text": "For her thoughts are more abundant than the sea, and her counsel deeper than the great abyss.",
+      "links": "<a href='/AIV/19/1/3'>Ps. 1:3</a>; <a href='/AIV/23/11/9'>Isa. 11:9</a>",
+      "comment": "The poetic hyperbole emphasizes the inexhaustibility and profundity of wisdom. The sea and the abyss were ancient symbols for the unknowable and immense, indicating that wisdom's insights and guidance far exceed human understanding and are never fully exhausted by inquiry."
     },
     {
       "pk": 28024028,
@@ -339,10 +360,10 @@
       "bookName": "Sirach",
       "bookAbbreviation": "Sir",
       "chapter": 24,
-      "verse": 28,
-      "text": "The first man did not know wisdom fully, nor will the last one fathom her.",
-      "links": "<a href='/AIV/22/11/7'>Job. 11:7-9</a>; <a href='/AIV/23/139/6'>Ps. 139:6</a>; <a href='/AIV/52/11/33'>Rom. 11:33</a>",
-      "comment": "Reflects RSVCE statement about the limits of human understanding of wisdom."
+      "verse": 30,
+      "text": "I will again make instruction shine forth like the dawn, and will make it known far and wide.",
+      "links": "<a href='/AIV/19/19/8'>Ps. 19:8</a>; <a href='/AIV/23/60/1'>Isa. 60:1</a>",
+      "comment": "The universal spread of wisdom parallels the gospel’s reach to all nations, the light of faith shines for all."
     },
     {
       "pk": 28024029,
@@ -351,10 +372,10 @@
       "bookName": "Sirach",
       "bookAbbreviation": "Sir",
       "chapter": 24,
-      "verse": 29,
-      "text": "For her thoughts are more abundant than the sea, and her counsel deeper than the great abyss.",
-      "links": "<a href='/AIV/22/28/12'>Job. 28:12-14</a>; <a href='/AIV/23/36/6'>Ps. 36:6</a>; <a href='/AIV/27/9/13'>Wis. 9:13</a>",
-      "comment": "Restores the RSVCE comparison to sea and abyss."
+      "verse": 31,
+      "text": "I will pour out teaching like prophecy, and leave it to future generations.",
+      "links": "<a href='/AIV/29/2/28'>Joel 2:28</a>; <a href='/AIV/60/1/10'>1 Peter 1:10</a>",
+      "comment": "Teaching as prophecy: wisdom is a living word, transmitted generation to generation by a visible, unbroken chain—hinting at a tradition that safeguards and transmits faith."
     },
     {
       "pk": 28024030,
@@ -363,10 +384,11 @@
       "bookName": "Sirach",
       "bookAbbreviation": "Sir",
       "chapter": 24,
-      "verse": 30,
-      "text": "As for me, I was like a canal from a river, like a water channel into a garden.",
-      "links": "<a href='/AIV/29/58/11'>Isa. 58:11</a>; <a href='/AIV/53/3/6'>1Cor. 3:6</a>; <a href='/AIV/23/1/3'>Ps. 1:3</a>",
-      "comment": "Reflects accurate self-description using water imagery as in RSVCE."
+      "verse": 32,
+      "text": "See that I have not labored for myself only, but for all who seek wisdom.",
+      "links": "<a href='/AIV/20/8/4'>Prov. 8:4</a>; <a href='/AIV/40/7/7'>Matt. 7:7</a>",
+      "comment": "Wisdom is offered freely and universally to all who seek. The closing encouragement presses the reader to receive and transmit this wisdom—shaped and safeguarded in the assembly of God's people.",
+      "sectionHeader": "Wisdom's Universal Offer"
     },
     {
       "pk": 28024031,
@@ -375,10 +397,10 @@
       "bookName": "Sirach",
       "bookAbbreviation": "Sir",
       "chapter": 24,
-      "verse": 31,
-      "text": "I said, “I will water my garden and drench my flower-beds.” And lo, my canal became a river, and my river a sea.",
-      "links": "<a href='/AIV/50/7/38'>John. 7:38</a>; <a href='/AIV/33/47/9'>Ezek. 47:9</a>; <a href='/AIV/29/44/3'>Isa. 44:3-4</a>",
-      "comment": "Matches RSVCE’s depiction of wisdom’s self-expansion."
+      "verse": 33,
+      "text": "I will again pour out teaching like prophecy, and leave it to all future generations.",
+      "links": "<a href='/AIV/20/8/33'>Prov. 8:33</a>; <a href='/AIV/20/4/5'>Prov. 4:5</a>",
+      "comment": "Rather than an imperative, this is Wisdom herself promising to perpetually pour out her teaching, ensuring its availability for all generations—emphasizing the enduring gift of divine wisdom."
     },
     {
       "pk": 28024032,
@@ -387,63 +409,11 @@
       "bookName": "Sirach",
       "bookAbbreviation": "Sir",
       "chapter": 24,
-      "verse": 32,
-      "text": "I will again make instruction shine forth like the dawn, and I will make it clear from far away.",
-      "links": "<a href='/AIV/24/4/18'>Prov. 4:18</a>; <a href='/AIV/34/12/3'>Dan. 12:3</a>; <a href='/AIV/47/13/43'>Matt. 13:43</a>",
-      "comment": "Focus returns to the outpouring of wisdom as light, per RSVCE.",
-      "sectionHeader": "Wisdom’s Teaching for All Generations"
-    },
-    {
-      "pk": 28024033,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 24,
-      "verse": 33,
-      "text": "I will yet pour out teaching like prophecy, and leave it to all coming generations.",
-      "links": "<a href='/AIV/24/31/33-34'>Jer. 31:33-34</a>",
-      "comment": "Wisdom's teaching endures, anticipating the prophecy of the new covenant written on hearts (Jer. 31:33)."
-    },
-    {
-      "pk": 28024034,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 24,
       "verse": 34,
-      "text": "See that I have not labored for myself only, but for all who seek wisdom.",
-      "links": "<a href='/AIV/20/2/1-5'>Prov. 2:1-5</a>; <a href='/AIV/20/4/7'>Prov. 4:7</a>",
-      "comment": "Wisdom is universally available for all who seek her, encouraging further pursuit through tradition, sacraments, and community."
+      "text": "Observe that I have not labored for myself alone, but for all who seek wisdom.",
+      "links": "<a href='/AIV/19/1/1'>Ps. 1:1</a>; <a href='/AIV/20/2/6'>Prov. 2:6</a>",
+      "comment": "This closing statement stresses the universality and accessibility of Wisdom’s labor; her treasures are offered not for herself, but for everyone who earnestly seeks understanding."
     }
   ],
-  "translatedAt": "2025-12-29T00:36:26.273Z",
-  "sections": [
-    {
-      "title": "The Praise and Origin of Wisdom",
-      "startVerse": 1,
-      "endVerse": 7
-    },
-    {
-      "title": "Wisdom’s Dwelling Among God’s People",
-      "startVerse": 8,
-      "endVerse": 12
-    },
-    {
-      "title": "The Fruits and Blessings of Wisdom",
-      "startVerse": 13,
-      "endVerse": 24
-    },
-    {
-      "title": "Invitation to Seek Wisdom",
-      "startVerse": 25,
-      "endVerse": 31
-    },
-    {
-      "title": "Wisdom’s Teaching for All Generations",
-      "startVerse": 32,
-      "endVerse": 34
-    }
-  ]
+  "translatedAt": "2026-01-02T07:14:27.067Z"
 }

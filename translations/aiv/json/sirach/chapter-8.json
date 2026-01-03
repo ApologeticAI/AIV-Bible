@@ -56,9 +56,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 8,
       "verse": 4,
-      "text": "Do not make fun of someone who repents for a sin; remember that all people are guilty.",
+      "text": "Do not make fun of one who is ill-bred, or your ancestors may be insulted.",
       "links": "<a href='/AIV/19/51/17'>Ps. 51:17</a>; <a href='/AIV/20/24/16'>Prov. 24:16</a>; <a href='/AIV/45/3/23'>Rom. 3:23</a>",
-      "comment": "Sirach highlights mercy and humility before the reality of universal sin. The link to Psalm 51 reminds us of the call to a contrite heart, fundamental for spiritual growth and reconciliation."
+      "comment": "This verse warns against mocking those of humble origins, highlighting that contempt toward others' background reflects on one's own heritage and dignity."
     },
     {
       "pk": 28008005,
@@ -68,9 +68,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 8,
       "verse": 5,
-      "text": "Do not reject the teaching of elders, for they have learned from their fathers.",
+      "text": "Do not reproach one who is turning away from sin; remember that we all deserve punishment.",
       "links": "<a href='/AIV/20/13/1'>Prov. 13:1</a>; <a href='/AIV/20/1/8'>Prov. 1:8</a>",
-      "comment": "Valuing tradition and wisdom passed down through generations is emphasized here. This verse suggests the importance of respecting apostolic and ecclesial teaching throughout the ages."
+      "comment": "Sirach teaches compassion toward the repentant, reminding us of our own need for mercy and the universality of human fallibility."
     },
     {
       "pk": 28008006,
@@ -80,9 +80,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 8,
       "verse": 6,
-      "text": "Do not argue with someone with more learning than you; for you may be shamed, and he will judge you.",
+      "text": "Do not disdain one who is old, for some of us are also growing old.",
       "links": "<a href='/AIV/20/12/15'>Prov. 12:15</a>",
-      "comment": "Humility in conversations with those of greater wisdom or knowledge is highlighted. Recognizing one's limits leads to true growth and deeper faith."
+      "comment": "Respect for the elderly is emphasized, recognizing the shared human experience of aging and the inherent dignity of advanced years."
     },
     {
       "pk": 28008007,
@@ -92,9 +92,9 @@
       "bookAbbreviation": "Sir",
       "chapter": 8,
       "verse": 7,
-      "text": "Do not despise someone who has sinned, lest you be ensnared by pride.",
+      "text": "Do not rejoice over anyone’s death; remember that we must all die.",
       "links": "<a href='/AIV/40/7/1'>Matt. 7:1</a>; <a href='/AIV/20/16/18'>Prov. 16:18</a>",
-      "comment": "Sirach echoes Christ's teaching on mercy and avoiding judgment of others. Emphasis on the spiritual danger of pride, a motif present in both Testaments."
+      "comment": "The verse counsels sobriety and humility in the face of death, reminding us of our common mortality and the impropriety of taking pleasure in another's demise."
     },
     {
       "pk": 28008008,
@@ -241,5 +241,5 @@
       "comment": "The final verse urges guardedness and discernment, echoing biblical teaching (Proverbs, Psalms) to protect one’s heart. Spiritual maturity involves knowing when to reveal oneself and when to guard one's soul."
     }
   ],
-  "translatedAt": "2025-12-28T04:59:35.134Z"
+  "translatedAt": "2026-01-02T07:13:12.194Z"
 }

@@ -169,25 +169,13 @@
       "bookName": "Matthew",
       "bookAbbreviation": "Matt",
       "chapter": 23,
-      "verse": 14,
-      "text": "But woe to you, scribes and Pharisees, hypocrites! For you devour widows’ houses and for a pretense you make long prayers; therefore you will receive greater condemnation.",
-      "links": "<a href='/AIV/48/12/40'>Mark. 12:40</a>; <a href='/AIV/49/20/47'>Luke. 20:47</a>; <a href='/AIV/29/10/1'>Isa. 10:1-2</a>",
-      "comment": "This verse is present in some manuscripts and included to match the RSVCE; see also Mark 12:40, Luke 20:47."
-    },
-    {
-      "pk": 47023015,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 15,
       "text": "Woe to you, scribes and Pharisees, hypocrites! For you travel over land and sea to make one convert, and when he becomes one, you make him twice as much a child of hell as yourselves.",
       "links": "<a href='/AIV/19/7/14-16'>Ps. 7:14-16</a>; <a href='/AIV/40/8/12'>Matt. 8:12</a>",
       "comment": "The censure is for leading converts into religious formalism without true spiritual renewal, a warning against empty works apart from genuine faith."
     },
     {
-      "pk": 47023016,
+      "pk": 47023015,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -199,7 +187,7 @@
       "comment": "Jesus exposes sophistry and distortion of spiritual truths, admonishing integrity in worship and speech."
     },
     {
-      "pk": 47023017,
+      "pk": 47023016,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -211,7 +199,7 @@
       "comment": "The sanctity comes from the temple, a dwelling of God's presence. Points forwards to the Church as sacred through God's indwelling."
     },
     {
-      "pk": 47023018,
+      "pk": 47023017,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -223,7 +211,7 @@
       "comment": "A similar logical fallacy—Jesus asserts the primacy of the altar, the place of true sacrifice and worship."
     },
     {
-      "pk": 47023019,
+      "pk": 47023018,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -235,7 +223,7 @@
       "comment": "The altar sanctifies the offering, foretelling later interpretations about the sanctity of sacramental worship."
     },
     {
-      "pk": 47023020,
+      "pk": 47023019,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -247,7 +235,7 @@
       "comment": "Oaths involve the whole reality and sanctity of worship, not a superficial part."
     },
     {
-      "pk": 47023021,
+      "pk": 47023020,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -259,7 +247,7 @@
       "comment": "Indicates God's presence in the temple, foreshadowing the Incarnation and God's (Christ’s) dwelling with His people."
     },
     {
-      "pk": 47023022,
+      "pk": 47023021,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -271,7 +259,7 @@
       "comment": "God’s throne represents true supreme authority. Jesus again equates Himself with divine authority."
     },
     {
-      "pk": 47023023,
+      "pk": 47023022,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -283,7 +271,7 @@
       "comment": "Jesus emphasizes that interior virtues are greater than mere external ritual. Note that He does not dismiss tithing, supporting a balance of external piety and inner virtue."
     },
     {
-      "pk": 47023024,
+      "pk": 47023023,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -295,7 +283,7 @@
       "comment": "A vivid image for preoccupation with religious minutiae while overlooking more significant spiritual realities."
     },
     {
-      "pk": 47023025,
+      "pk": 47023024,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -307,7 +295,7 @@
       "comment": "True piety transforms from within. Jesus calls for inward purification, foreshadowing the need for a life of holiness."
     },
     {
-      "pk": 47023026,
+      "pk": 47023025,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -319,7 +307,7 @@
       "comment": "The call to interior conversion mirrors the repeated biblical focus on purity of heart as the root of godly living."
     },
     {
-      "pk": 47023027,
+      "pk": 47023026,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -331,7 +319,7 @@
       "comment": "This imagery points to spiritual death hidden behind outward religious displays. Only the Spirit gives true life."
     },
     {
-      "pk": 47023028,
+      "pk": 47023027,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -343,7 +331,7 @@
       "comment": "A warning against mere external conformity without true conversion. True righteousness must be lived, not pretended."
     },
     {
-      "pk": 47023029,
+      "pk": 47023028,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -355,7 +343,7 @@
       "comment": "Honoring past prophets while rejecting their message and Christ Himself; an example of historical piety without present obedience."
     },
     {
-      "pk": 47023030,
+      "pk": 47023029,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -367,7 +355,7 @@
       "comment": "Self-righteous refusal to acknowledge personal complicity or need for repentance."
     },
     {
-      "pk": 47023031,
+      "pk": 47023030,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -379,7 +367,7 @@
       "comment": "Admits legacy of rejection of God’s messengers, culminating in opposition to Jesus Himself."
     },
     {
-      "pk": 47023032,
+      "pk": 47023031,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -391,7 +379,7 @@
       "comment": "Judgment is the result of continued resistance to God's grace and fulfillment of prophetic warnings."
     },
     {
-      "pk": 47023033,
+      "pk": 47023032,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -403,7 +391,7 @@
       "comment": "Strong language links their spiritual condition to the work of the enemy. Salvation requires repentance and acceptance of Christ."
     },
     {
-      "pk": 47023034,
+      "pk": 47023033,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -415,7 +403,7 @@
       "comment": "Christ speaks with divine authority, foretelling persecution of His messengers. The phrase 'I send' is a veiled claim to divinity."
     },
     {
-      "pk": 47023035,
+      "pk": 47023034,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -427,7 +415,7 @@
       "comment": "Jesus connects Himself to all righteous victims, reinforcing His role as ultimate martyr and fulfillment of prophecy."
     },
     {
-      "pk": 47023036,
+      "pk": 47023035,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -439,7 +427,7 @@
       "comment": "Jesus uses the prophetic 'Amen' formula, indicating His future foreknowledge and divinity. Judgment is near for those rejecting Him."
     },
     {
-      "pk": 47023037,
+      "pk": 47023036,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -452,7 +440,7 @@
       "sectionHeader": "Lament over Jerusalem"
     },
     {
-      "pk": 47023038,
+      "pk": 47023037,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -464,7 +452,7 @@
       "comment": "Jesus pronounces the coming destruction of the temple, foretelling the end of the old covenant system."
     },
     {
-      "pk": 47023039,
+      "pk": 47023038,
       "translation": "AIV",
       "book": 47,
       "bookName": "Matthew",
@@ -476,7 +464,7 @@
       "comment": "Jesus refers to the messianic greeting, linking His second coming to fulfilled prophecy. This verse affirms His identity as the awaited Messiah and divine Son who will be revealed in glory."
     }
   ],
-  "translatedAt": "2025-12-29T00:34:51.666Z",
+  "translatedAt": "2026-01-02T06:03:26.913Z",
   "sections": [
     {
       "title": "Jesus Warns Against the Scribes and Pharisees",

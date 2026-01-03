@@ -84,25 +84,13 @@
       "bookName": "Acts",
       "bookAbbreviation": "Acts",
       "chapter": 24,
-      "verse": 7,
-      "text": "But the chief captain Lysias came and with great violence took him out of our hands,",
-      "links": "<a href='/AIV/51/21/31'>Acts. 21:31-32</a>; <a href='/AIV/51/23/23'>Acts. 23:23-24</a>; <a href='/AIV/51/23/26'>Acts. 23:26-27</a>",
-      "comment": "This verse reflects the Jewish leaders’ grievance against Roman intervention, portraying Lysias as forceful and disruptive, highlighting the tension between Jewish authority and Roman governance (cf. Acts 21:31-33)."
-    },
-    {
-      "pk": 51024008,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 24,
       "verse": 8,
       "text": "ordering his accusers to come to you. By examining him yourself, you will be able to learn about all these things we are accusing him of.",
       "links": "<a href='/AIV/44/23/30'>Acts 23:30</a>",
       "comment": "Tertullus appeals to the governor to investigate Paul, confident in his case. Legal procedures in Rome emphasized personal investigation by the judge."
     },
     {
-      "pk": 51024009,
+      "pk": 51024008,
       "translation": "AIV",
       "book": 51,
       "bookName": "Acts",
@@ -114,7 +102,7 @@
       "comment": "Jewish unity against Paul echoes opposition to Jesus before Pilate (cf. Matthew 27:20-23)."
     },
     {
-      "pk": 51024010,
+      "pk": 51024009,
       "translation": "AIV",
       "book": 51,
       "bookName": "Acts",
@@ -127,7 +115,7 @@
       "sectionHeader": "Paul's Defense Before Felix"
     },
     {
-      "pk": 51024011,
+      "pk": 51024010,
       "translation": "AIV",
       "book": 51,
       "bookName": "Acts",
@@ -139,7 +127,7 @@
       "comment": "Paul highlights the shortness of his time in Jerusalem, undermining claims of long-term sedition."
     },
     {
-      "pk": 51024012,
+      "pk": 51024011,
       "translation": "AIV",
       "book": 51,
       "bookName": "Acts",
@@ -151,7 +139,7 @@
       "comment": "Paul’s actions were focused on worship, not rebellion, aligning with the gospel’s call to peace and order (cf. Romans 12:18)."
     },
     {
-      "pk": 51024013,
+      "pk": 51024012,
       "translation": "AIV",
       "book": 51,
       "bookName": "Acts",
@@ -163,7 +151,7 @@
       "comment": "Paul appeals to tangible evidence, echoing principles of justice. Christian faith values truth and evidence above accusation—see <a href='/AIV/05/19/15'>Deut. 19:15</a>."
     },
     {
-      "pk": 51024014,
+      "pk": 51024013,
       "translation": "AIV",
       "book": 51,
       "bookName": "Acts",
@@ -175,7 +163,7 @@
       "comment": "Paul affirms continuity with Israel’s faith, showing the unity of Old Testament promises and Christian fulfillment. Christians uphold the Law and the Prophets, just as Jesus did (cf. Matthew 5:17-18)."
     },
     {
-      "pk": 51024015,
+      "pk": 51024014,
       "translation": "AIV",
       "book": 51,
       "bookName": "Acts",
@@ -187,7 +175,7 @@
       "comment": "Paul's belief in the resurrection fulfills prophetic expectation (Daniel 12:2). The universal resurrection has both literal and spiritual significance: God will judge all people, affirming both justice and hope."
     },
     {
-      "pk": 51024016,
+      "pk": 51024015,
       "translation": "AIV",
       "book": 51,
       "bookName": "Acts",
@@ -199,7 +187,7 @@
       "comment": "Paul teaches that internal integrity and external behavior matter, echoing Jesus’ teaching on the heart (Matthew 5:8). Purity of conscience is essential for authentic faith."
     },
     {
-      "pk": 51024017,
+      "pk": 51024016,
       "translation": "AIV",
       "book": 51,
       "bookName": "Acts",
@@ -211,7 +199,7 @@
       "comment": "Paul's bringing of alms and sacrifices shows he still deeply respects Temple worship and charitable practices. This supports the importance of both spiritual and sacramental expressions of faith."
     },
     {
-      "pk": 51024018,
+      "pk": 51024017,
       "translation": "AIV",
       "book": 51,
       "bookName": "Acts",
@@ -223,7 +211,7 @@
       "comment": "Paul’s purification observance confirms his faithfulness to the Law. Participation in ritual cleansing is a sign of respect for God’s ordinances."
     },
     {
-      "pk": 51024019,
+      "pk": 51024018,
       "translation": "AIV",
       "book": 51,
       "bookName": "Acts",
@@ -235,7 +223,7 @@
       "comment": "Roman and Jewish law required accusers to be present. Paul’s legal defense echoes Deuteronomy 17 about witnesses—Christian justice upholds procedural truth."
     },
     {
-      "pk": 51024020,
+      "pk": 51024019,
       "translation": "AIV",
       "book": 51,
       "bookName": "Acts",
@@ -247,7 +235,7 @@
       "comment": "Paul calls for specific testimony. The council (Sanhedrin) reached no solid verdict, showing the injustice of his accusers."
     },
     {
-      "pk": 51024021,
+      "pk": 51024020,
       "translation": "AIV",
       "book": 51,
       "bookName": "Acts",
@@ -259,7 +247,7 @@
       "comment": "Paul emphasizes that the crux of his prosecution is theological—the resurrection of the dead—a doctrine fiercely debated between Pharisees and Sadducees (see Acts 23:6-8), and central to Christian faith (cf. 1 Corinthians 15:12-20), spotlighting how Christian hope pivots on the resurrection."
     },
     {
-      "pk": 51024022,
+      "pk": 51024021,
       "translation": "AIV",
       "book": 51,
       "bookName": "Acts",
@@ -272,7 +260,7 @@
       "sectionHeader": "Paul Kept Under Guard"
     },
     {
-      "pk": 51024023,
+      "pk": 51024022,
       "translation": "AIV",
       "book": 51,
       "bookName": "Acts",
@@ -284,7 +272,7 @@
       "comment": "Although still imprisoned, Paul receives a degree of freedom and communal support, reflecting early Christian values of fellowship and care (cf. Acts 2:44-45)."
     },
     {
-      "pk": 51024024,
+      "pk": 51024023,
       "translation": "AIV",
       "book": 51,
       "bookName": "Acts",
@@ -297,7 +285,7 @@
       "sectionHeader": "Paul’s Conversation with Felix and Drusilla"
     },
     {
-      "pk": 51024025,
+      "pk": 51024024,
       "translation": "AIV",
       "book": 51,
       "bookName": "Acts",
@@ -309,7 +297,7 @@
       "comment": "Paul’s message includes moral conversion and future judgment, key themes in apostolic preaching. Felix’s fear shows the convicting power of Gospel truth and the reality of judgment."
     },
     {
-      "pk": 51024026,
+      "pk": 51024025,
       "translation": "AIV",
       "book": 51,
       "bookName": "Acts",
@@ -321,7 +309,7 @@
       "comment": "Felix’s interest was partly corrupt. The mixing of worldly motives with spiritual matters is a danger warned against throughout Scripture (cf. 1 Timothy 6:10)."
     },
     {
-      "pk": 51024027,
+      "pk": 51024026,
       "translation": "AIV",
       "book": 51,
       "bookName": "Acts",
@@ -333,7 +321,7 @@
       "comment": "Paul’s long imprisonment is the result of political calculation. God’s providence still works through such events, preparing Paul for ministry in Rome and demonstrating that the church must endure hardship for the sake of Christ’s name (cf. 2 Timothy 2:8-10)."
     }
   ],
-  "translatedAt": "2025-12-29T00:33:09.212Z",
+  "translatedAt": "2026-01-02T05:59:32.634Z",
   "sections": [
     {
       "title": "Paul Accused Before Felix",

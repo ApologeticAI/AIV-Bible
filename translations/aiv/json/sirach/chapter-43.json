@@ -205,25 +205,13 @@
       "bookName": "Sirach",
       "bookAbbreviation": "Sir",
       "chapter": 43,
-      "verse": 17,
-      "text": "By his command he makes the snow fall, and sends swiftly the lightning of his judgment.",
-      "links": "<a href='/AIV/22/37/6'>Job. 37:6</a>; <a href='/AIV/23/147/16'>Ps. 147:16-18</a>; <a href='/AIV/30/10/13'>Jer. 10:13</a>",
-      "comment": "The imagery of snow and lightning exemplifies God's sovereignty over nature (cf. Job 37:6, Psalm 148:8), with weather phenomena serving as instruments of His will and, at times, judgment."
-    },
-    {
-      "pk": 28043018,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 43,
       "verse": 18,
       "text": "He scatters the snow like birds flying down; it descends like locusts settling.",
       "links": "<a href='/AIV/18/37/6'>Job 37:6</a>",
       "comment": "Nature’s phenomena are not arbitrary but under careful direction, emphasizing providence."
     },
     {
-      "pk": 28043019,
+      "pk": 28043018,
       "translation": "AIV",
       "book": 28,
       "bookName": "Sirach",
@@ -235,7 +223,7 @@
       "comment": "The experience of beauty in nature draws the heart toward thanksgiving and awe at the Creator."
     },
     {
-      "pk": 28043020,
+      "pk": 28043019,
       "translation": "AIV",
       "book": 28,
       "bookName": "Sirach",
@@ -247,7 +235,7 @@
       "comment": "Even the smallest details in nature, like frost, are seen as purposeful gifts. These details invite contemplation on God’s wisdom."
     },
     {
-      "pk": 28043021,
+      "pk": 28043020,
       "translation": "AIV",
       "book": 28,
       "bookName": "Sirach",
@@ -259,7 +247,7 @@
       "comment": "The imagery conveys God as a mighty warrior or Lord of creation, controlling elements at His will."
     },
     {
-      "pk": 28043022,
+      "pk": 28043021,
       "translation": "AIV",
       "book": 28,
       "bookName": "Sirach",
@@ -271,7 +259,7 @@
       "comment": "Drawing on the traditional motif of God's power over destructive forces like fire (cf. Deuteronomy 32:22), this verse highlights His ability to reshape the earth, underscoring both God's might and the awe He inspires."
     },
     {
-      "pk": 28043023,
+      "pk": 28043022,
       "translation": "AIV",
       "book": 28,
       "bookName": "Sirach",
@@ -283,7 +271,7 @@
       "comment": "God’s mercy is shown in refreshing dew and healing mist. This restoration points spiritually to His healing grace after trials."
     },
     {
-      "pk": 28043024,
+      "pk": 28043023,
       "translation": "AIV",
       "book": 28,
       "bookName": "Sirach",
@@ -296,7 +284,7 @@
       "sectionHeader": "The Wonders of the Sea"
     },
     {
-      "pk": 28043025,
+      "pk": 28043024,
       "translation": "AIV",
       "book": 28,
       "bookName": "Sirach",
@@ -308,7 +296,7 @@
       "comment": "Creation is vast and frightening, reminding us of our dependence on God even in the face of the unknown."
     },
     {
-      "pk": 28043026,
+      "pk": 28043025,
       "translation": "AIV",
       "book": 28,
       "bookName": "Sirach",
@@ -320,7 +308,7 @@
       "comment": "The diversity of creation, including mysterious creatures, reflects the infinite wisdom and creativity of God."
     },
     {
-      "pk": 28043027,
+      "pk": 28043026,
       "translation": "AIV",
       "book": 28,
       "bookName": "Sirach",
@@ -333,7 +321,7 @@
       "sectionHeader": "The Incomprehensible Greatness of God"
     },
     {
-      "pk": 28043028,
+      "pk": 28043027,
       "translation": "AIV",
       "book": 28,
       "bookName": "Sirach",
@@ -345,7 +333,7 @@
       "comment": "No amount of human speech can capture the fullness of God’s majesty. This contains both a call to awe and humility—echoing Paul’s doxology in Romans 11."
     },
     {
-      "pk": 28043029,
+      "pk": 28043028,
       "translation": "AIV",
       "book": 28,
       "bookName": "Sirach",
@@ -357,7 +345,7 @@
       "comment": "Even in seeing the wonders of creation, God remains more wonderful and greater—inviting ongoing admiration and worship."
     },
     {
-      "pk": 28043030,
+      "pk": 28043029,
       "translation": "AIV",
       "book": 28,
       "bookName": "Sirach",
@@ -369,7 +357,7 @@
       "comment": "A traditional doxology, summing up the theme that reverence is the only proper response to God. This aligns with the tradition of liturgical praise."
     },
     {
-      "pk": 28043031,
+      "pk": 28043030,
       "translation": "AIV",
       "book": 28,
       "bookName": "Sirach",
@@ -381,7 +369,7 @@
       "comment": "This is a call to offer continual worship, using all one’s strength, reminiscent of commands to love God with all your heart, soul, and might (Deut. 6:5; Mark 12:30)."
     },
     {
-      "pk": 28043032,
+      "pk": 28043031,
       "translation": "AIV",
       "book": 28,
       "bookName": "Sirach",
@@ -393,7 +381,7 @@
       "comment": "No human has seen God’s essence (cf. Exodus 33:20), and the fullness of praise is beyond us. John 1:18 states that only the Son has revealed the Father, a sign toward a high Christology."
     },
     {
-      "pk": 28043033,
+      "pk": 28043032,
       "translation": "AIV",
       "book": 28,
       "bookName": "Sirach",
@@ -405,7 +393,7 @@
       "comment": "God’s ways and mysteries are deeper than anything we can imagine. This verse encourages humility and trust, opening the way for understanding truths revealed in sacred tradition and worshiping with reverence at the mystery of faith."
     }
   ],
-  "translatedAt": "2025-12-29T00:36:57.628Z",
+  "translatedAt": "2026-01-03T03:36:47.281Z",
   "sections": [
     {
       "title": "The Glory of the Heavens",

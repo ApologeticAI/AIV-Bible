@@ -303,25 +303,13 @@
       "bookName": "Sirach",
       "bookAbbreviation": "Sir",
       "chapter": 28,
-      "verse": 25,
-      "text": "[This verse does not appear in many manuscripts and may be omitted; see RSVCE numbering.]",
-      "links": "",
-      "comment": ""
-    },
-    {
-      "pk": 28028026,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 28,
       "verse": 26,
       "text": "Take care not to err with your tongue, and fall victim to one lying in wait.",
       "links": "<a href='/AIV/24/21/23'>Prov. 21:23</a>; <a href='/AIV/66/1/26'>Jas. 1:26</a>; <a href='/AIV/23/39/1'>Ps. 39:1</a>",
       "comment": "This verse warns of the dangers of careless speech, echoing the wisdom tradition's emphasis on self-control (cf. Proverbs 13:3; James 3:5-10), and reflects the cultural recognition that words could bring ruin, especially amidst social conflicts."
     }
   ],
-  "translatedAt": "2025-12-28T07:00:21.587Z",
+  "translatedAt": "2026-01-02T21:39:41.569Z",
   "sections": [
     {
       "title": "The Call to Forgive",

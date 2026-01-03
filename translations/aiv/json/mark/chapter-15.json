@@ -338,25 +338,13 @@
       "bookName": "Mark",
       "bookAbbreviation": "Mark",
       "chapter": 15,
-      "verse": 28,
-      "text": "",
-      "links": "Isaiah 53:12; Luke 22:37",
-      "comment": "This verse points to Isaiah 53:12, highlighting that Jesus’ death among criminals was a fulfillment of prophetic scripture, affirming his role as the suffering servant who identifies with sinners."
-    },
-    {
-      "pk": 48015029,
-      "translation": "AIV",
-      "book": 48,
-      "bookName": "Mark",
-      "bookAbbreviation": "Mark",
-      "chapter": 15,
       "verse": 29,
       "text": "Those who passed by insulted him, shaking their heads and saying, 'Ha! You who would destroy the temple and build it in three days,",
       "links": "<a href='/AIV/40/26/61'>Matthew 26:61</a>; <a href='/AIV/43/2/19-21'>John 2:19-21</a>",
       "comment": "The accusation about the temple points to Jesus’ real identity as the new, true temple—his resurrected body."
     },
     {
-      "pk": 48015030,
+      "pk": 48015029,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -368,7 +356,7 @@
       "comment": "This temptation echoes the devil’s challenge in the wilderness (Luke 4:9), but Jesus remains obedient to the Father’s will."
     },
     {
-      "pk": 48015031,
+      "pk": 48015030,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -380,7 +368,7 @@
       "comment": "Their mockery unwittingly affirms the truth: Jesus saves others by refusing to save himself."
     },
     {
-      "pk": 48015032,
+      "pk": 48015031,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -392,7 +380,7 @@
       "comment": "Ironically, true faith will come only when they understand the reason for his suffering and resurrection."
     },
     {
-      "pk": 48015033,
+      "pk": 48015032,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -405,7 +393,7 @@
       "sectionHeader": "The Death of Jesus"
     },
     {
-      "pk": 48015034,
+      "pk": 48015033,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -417,7 +405,7 @@
       "comment": "Jesus quotes Psalm 22, expressing profound abandonment, yet also fulfilling prophecy. This can be seen as the high point of his solidarity with human suffering, but does not mean a break in the divine relationship. He is praying the Psalm on behalf of all."
     },
     {
-      "pk": 48015035,
+      "pk": 48015034,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -429,7 +417,7 @@
       "comment": "There was a Jewish expectation that Elijah would come to help the righteous (see <a href='/AIV/39/4/5'>Malachi 4:5</a>), though they misunderstand Jesus' words."
     },
     {
-      "pk": 48015036,
+      "pk": 48015035,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -441,7 +429,7 @@
       "comment": "Even as Jesus suffers, prophetic Scriptures are fulfilled. The sour wine recalls the suffering of the righteous."
     },
     {
-      "pk": 48015037,
+      "pk": 48015036,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -453,7 +441,7 @@
       "comment": "Jesus’ death is a conscious, willing sacrifice, offering up his spirit. His death fulfills his mission of redemption (<a href='/AIV/49/5/2'>Ephesians 5:2</a>), and this moment is the climax of the Paschal mystery."
     },
     {
-      "pk": 48015038,
+      "pk": 48015037,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -465,7 +453,7 @@
       "comment": "The tearing of the temple veil symbolizes the end of the old order and direct access to God through Jesus, the true High Priest and sacrifice."
     },
     {
-      "pk": 48015039,
+      "pk": 48015038,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -477,7 +465,7 @@
       "comment": "A Gentile soldier recognizes Jesus’ divine identity. This is the climax of Mark’s Gospel, affirming the universality of Jesus’ mission and kingship."
     },
     {
-      "pk": 48015040,
+      "pk": 48015039,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -489,7 +477,7 @@
       "comment": "The women disciples stand faithful, witnessing the passion and later the resurrection. Their presence grounds the account in eyewitness testimony."
     },
     {
-      "pk": 48015041,
+      "pk": 48015040,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -501,7 +489,7 @@
       "comment": "Women as devoted disciples are emphasized, serving Jesus, modeling service as an ongoing reality for the Church throughout history."
     },
     {
-      "pk": 48015042,
+      "pk": 48015041,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -514,7 +502,7 @@
       "sectionHeader": "The Burial of Jesus"
     },
     {
-      "pk": 48015043,
+      "pk": 48015042,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -526,7 +514,7 @@
       "comment": "A member of the council honors Jesus, fulfilling Scripture about the righteous suffering one buried among the rich. Joseph’s courage models reverence for Christ’s body."
     },
     {
-      "pk": 48015044,
+      "pk": 48015043,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -538,7 +526,7 @@
       "comment": "The prompt confirmation of Jesus’ death testifies to the historicity of the event, and supports the reality of his full humanity."
     },
     {
-      "pk": 48015045,
+      "pk": 48015044,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -550,7 +538,7 @@
       "comment": "Even after death, respectful care is given to the body, highlighting the sanctity of the body, which has theological implications for doctrines about resurrection and burial."
     },
     {
-      "pk": 48015046,
+      "pk": 48015045,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -562,7 +550,7 @@
       "comment": "The burial fulfills prophecy and prepares for the full reality of the Resurrection. The attention to burial customs demonstrates the continuity between the Old Testament and the New."
     },
     {
-      "pk": 48015047,
+      "pk": 48015046,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -574,7 +562,7 @@
       "comment": "Women serve as the first witnesses to Jesus' burial—key evidence for the Resurrection accounts. Their faithful presence hints at the ongoing importance of witness and tradition in the life of the Church."
     }
   ],
-  "translatedAt": "2025-12-29T00:34:38.427Z",
+  "translatedAt": "2026-01-02T03:44:29.518Z",
   "sections": [
     {
       "title": "Jesus Before Pilate",

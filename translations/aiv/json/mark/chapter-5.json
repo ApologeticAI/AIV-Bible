@@ -3,6 +3,23 @@
   "bookName": "Mark",
   "bookAbbreviation": "Mark",
   "chapter": 5,
+  "sections": [
+    {
+      "title": "The Healing of the Gerasene Demoniac",
+      "startVerse": 1,
+      "endVerse": 20
+    },
+    {
+      "title": "The Raising of Jairus' Daughter and the Healing of the Hemorrhaging Woman",
+      "startVerse": 21,
+      "endVerse": 40
+    },
+    {
+      "title": "Jesus Raises the Daughter of Jairus",
+      "startVerse": 41,
+      "endVerse": 43
+    }
+  ],
   "verses": [
     {
       "pk": 48005001,
@@ -13,8 +30,8 @@
       "chapter": 5,
       "verse": 1,
       "text": "They came to the other side of the sea, to the region of the Gerasenes.",
-      "links": "<a href='/AIV/40/8/28'>Matt. 8:28</a>; <a href='/AIV/42/8/26'>Luke 8:26</a>",
-      "comment": "The Gerasenes may also be referred to as Gadarenes in some manuscripts. This sets the stage for Jesus' miraculous actions among the Gentiles, showing His mission extends to all peoples (cf. Matt. 28:19).",
+      "links": "<a href='/AIV/40/8/28'>Matthew 8:28</a>",
+      "comment": "Mark notes the location as 'Gerasenes' while some manuscripts and parallel accounts say 'Gadarenes'. The territory refers to a Gentile region, showing Jesus' outreach beyond Israel.",
       "sectionHeader": "The Healing of the Gerasene Demoniac"
     },
     {
@@ -25,9 +42,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 2,
-      "text": "As soon as Jesus stepped out of the boat, a man with an unclean spirit came from the tombs to meet Him.",
-      "links": "<a href='/AIV/42/8/27'>Luke 8:27</a>",
-      "comment": "The term 'unclean spirit' refers to a demon. Meeting Jesus immediately shows the spiritual authority of Christ over darkness (cf. 1 John 3:8)."
+      "text": "As He stepped out of the boat, immediately a man with an unclean spirit came out from the tombs to meet Him.",
+      "links": "<a href='/AIV/40/8/28'>Matthew 8:28</a> <a href='/AIV/42/8/27'>Luke 8:27</a>",
+      "comment": "The prompt confrontation underlines Jesus’ authority over spiritual realms. Tombs symbolize impurity and death, making the miracle more striking.",
+      "sectionHeader": null
     },
     {
       "pk": 48005003,
@@ -37,9 +55,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 3,
-      "text": "This man lived among the tombs, and no one could bind him anymore, not even with chains.",
+      "text": "He lived among the tombs. No one could bind him anymore, not even with chains.",
       "links": "<a href='/AIV/42/8/27'>Luke 8:27</a>",
-      "comment": "Living among tombs signified ritual uncleanness (Num. 19:16). The man's uncontrollable strength demonstrates the destructive nature of demonic oppression."
+      "comment": "The man’s dwelling among the dead marks extreme alienation, which is overcome by Jesus’ intervention.",
+      "sectionHeader": null
     },
     {
       "pk": 48005004,
@@ -49,9 +68,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 4,
-      "text": "He had often been bound with shackles and chains, but he tore the chains apart and broke the shackles to pieces; no one had the strength to subdue him.",
-      "links": "<a href='/AIV/42/8/29'>Luke 8:29</a>",
-      "comment": "His superhuman strength is a further indication of demonic possession. Only Jesus can truly liberate and heal such brokenness."
+      "text": "For he had often been bound with shackles and chains, but he tore the chains apart, and broke the shackles in pieces. No one had strength to subdue him.",
+      "links": "<a href='/AIV/66/20/2'>Revelation 20:2</a>",
+      "comment": "Human efforts failed to control demonic power; only Christ can truly liberate.",
+      "sectionHeader": null
     },
     {
       "pk": 48005005,
@@ -61,9 +81,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 5,
-      "text": "Night and day among the tombs and in the mountains he was always crying out and cutting himself with stones.",
-      "links": "<a href='/AIV/3/19/28'>Lev. 19:28</a>; <a href='/AIV/1/28/18'>Gen. 28:18</a>",
-      "comment": "Self-harm is shown here as a consequence of demonic influence. In a spiritual sense, this foreshadows Christ who would bear the wounds for our healing (Isa. 53:5)."
+      "text": "Night and day, among the tombs and on the mountains, he was always crying out and cutting himself with stones.",
+      "links": "<a href='/AIV/11/18/28'>1 Kings 18:28</a>",
+      "comment": "Self-harm reflects the destructive effect of evil; Jesus’s healing ends the man’s suffering.",
+      "sectionHeader": null
     },
     {
       "pk": 48005006,
@@ -74,8 +95,9 @@
       "chapter": 5,
       "verse": 6,
       "text": "When he saw Jesus from a distance, he ran and bowed down before Him.",
-      "links": "<a href='/AIV/50/2/10-11'>Phil. 2:10-11</a>; <a href='/AIV/59/2/19'>James 2:19</a>",
-      "comment": "Even the demons recognize Christ's divine authority, as shown by his immediate act of homage. This prefigures Philippians 2:10-11, where every knee shall bow to Jesus."
+      "links": "<a href='/AIV/50/2/10'>Philippians 2:10</a>",
+      "comment": "The demon, through the man, recognizes the supremacy of Jesus and shows a form of worship.",
+      "sectionHeader": null
     },
     {
       "pk": 48005007,
@@ -85,9 +107,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 7,
-      "text": "Crying out with a loud voice, he said, 'What have You to do with me, Jesus, Son of the Most High God? I beg You by God, do not torment me!'",
-      "links": "<a href='/AIV/42/8/28'>Luke 8:28</a>; <a href='/AIV/59/2/19'>James 2:19</a>",
-      "comment": "The demon correctly confesses Jesus' divine identity, 'Son of the Most High God.' This is a revelation of high Christology, affirming Jesus’ status beyond a mere prophet."
+      "text": "Crying out with a loud voice, he said, 'What do you want with me, Jesus, Son of the Most High God? I beg you by God, do not torment me!'",
+      "links": "<a href='/AIV/19/2/7'>Psalm 2:7</a> <a href='/AIV/41/1/24'>Mark 1:24</a>",
+      "comment": "The demonic confession of Jesus as 'Son of the Most High God' is a declaration of His divinity. Compare to Old Testament titles for the Messiah.",
+      "sectionHeader": null
     },
     {
       "pk": 48005008,
@@ -97,9 +120,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 8,
-      "text": "For Jesus had said to him, 'Come out of the man, you unclean spirit!'",
-      "links": "<a href='/AIV/42/8/29'>Luke 8:29</a>; <a href='/AIV/40/8/16'>Matt. 8:16</a>",
-      "comment": "Jesus' command shows His authority over spiritual powers. This is a demonstration of His divinity and unique position to liberate humanity from evil."
+      "text": "For He had been saying to him, 'Come out of the man, you unclean spirit!'",
+      "links": "<a href='/AIV/41/1/25'>Mark 1:25</a> <a href='/AIV/40/10/1'>Matthew 10:1</a>",
+      "comment": "Jesus’ authoritative command shows His unique power over evil, echoing God’s creative word in Genesis.",
+      "sectionHeader": null
     },
     {
       "pk": 48005009,
@@ -109,9 +133,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 9,
-      "text": "Then Jesus asked him, 'What is your name?' He replied, 'My name is Legion, for we are many.'",
+      "text": "Then Jesus asked him, 'What is your name?' He answered, 'My name is Legion, for we are many.'",
       "links": "<a href='/AIV/42/8/30'>Luke 8:30</a>",
-      "comment": "'Legion' points to a large number (a Roman legion was thousands of soldiers). This shows the depth of the man’s bondage, further highlighting the magnitude of Christ’s deliverance."
+      "comment": "'Legion' implies a great multitude of demons, indicating a deep spiritual oppression needing a total healing.",
+      "sectionHeader": null
     },
     {
       "pk": 48005010,
@@ -121,9 +146,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 10,
-      "text": "And he repeatedly begged Jesus not to send them out of the region.",
+      "text": "He begged Him earnestly not to send them out of the region.",
       "links": "<a href='/AIV/42/8/31'>Luke 8:31</a>",
-      "comment": "Demons recognize and fear Christ’s authority, begging for mercy. This reveals their complete submission to Jesus’ will."
+      "comment": "Demons display fear of Christ’s authority and judgment. The request reflects their recognition of Jesus as judge of spirits.",
+      "sectionHeader": null
     },
     {
       "pk": 48005011,
@@ -133,9 +159,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 11,
-      "text": "Now a large herd of pigs was feeding there on the hillside.",
-      "links": "<a href='/AIV/42/8/32'>Luke 8:32</a>",
-      "comment": "Pigs, considered unclean under Jewish law (Lev. 11:7), emphasize the Gentile setting. The unclean spirits request to enter unclean animals, which is symbolically significant."
+      "text": "A large herd of pigs was feeding on the hillside nearby.",
+      "links": "<a href='/AIV/40/8/30'>Matthew 8:30</a>",
+      "comment": "Pigs were unclean animals in Jewish law, underscoring the Gentile setting and the nature of evil spirits.",
+      "sectionHeader": null
     },
     {
       "pk": 48005012,
@@ -145,9 +172,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 12,
-      "text": "The demons begged Him, 'Send us to the pigs, so that we may enter them.'",
-      "links": "<a href='/AIV/40/8/31'>Matt. 8:31</a>",
-      "comment": "The demons’ plea underlines that even evil spirits are powerless apart from Christ’s permission."
+      "text": "So the demons begged Him, 'Send us into the pigs, let us enter them.'",
+      "links": "<a href='/AIV/40/8/31'>Matthew 8:31</a>",
+      "comment": "The request reveals the demons’ desire to remain in the physical world and to corrupt what is unclean.",
+      "sectionHeader": null
     },
     {
       "pk": 48005013,
@@ -157,9 +185,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 13,
-      "text": "Jesus gave them permission. The unclean spirits came out and entered the pigs, and the herd—about two thousand—rushed down the steep bank into the sea and drowned.",
-      "links": "<a href='/AIV/40/8/32'>Matt. 8:32</a>; <a href='/AIV/42/8/33'>Luke 8:33</a>",
-      "comment": "Jesus’ granting of permission emphasizes His sovereign power. The destruction of the pigs is a testimony to the destructive aims of evil, while Jesus brings healing."
+      "text": "He gave them permission, and the unclean spirits exited and entered the pigs. The herd, about two thousand, rushed down the steep bank into the sea and drowned.",
+      "links": "<a href='/AIV/41/1/27'>Mark 1:27</a>",
+      "comment": "Jesus's permission demonstrates His mastery over all creation. The destruction of the pigs shows the destructive nature of evil when left unchecked.",
+      "sectionHeader": null
     },
     {
       "pk": 48005014,
@@ -169,9 +198,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 14,
-      "text": "Those tending the pigs ran away and reported it in the city and countryside, and the people came to see what had happened.",
+      "text": "Those tending the pigs ran off and told it in the town and countryside, and people came to see what had happened.",
       "links": "<a href='/AIV/42/8/34'>Luke 8:34</a>",
-      "comment": "This event caused a great stir among the locals. The deliverance of the man takes priority over the economic loss, a model for prioritizing spiritual healing."
+      "comment": "The reaction of the townspeople sets the stage for Jesus' wider impact on Gentile communities.",
+      "sectionHeader": null
     },
     {
       "pk": 48005015,
@@ -181,9 +211,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 15,
-      "text": "They came to Jesus and saw the demon-possessed man, the one who had had the legion, sitting there, clothed and in his right mind; and they were afraid.",
-      "links": "<a href='/AIV/42/8/35'>Luke 8:35</a>",
-      "comment": "The man’s transformation confirms the reality of Jesus’ miracle. Spiritual restoration is also depicted, foreshadowing baptismal renewal (cf. 2 Cor. 5:17)."
+      "text": "They came to Jesus and saw the man who had been possessed sitting there, clothed and in his right mind, and they were afraid.",
+      "links": "<a href='/AIV/40/8/33'>Matthew 8:33</a>",
+      "comment": "Restoration is depicted not only spiritually but physically, echoing themes of new creation (Genesis 1). The people's fear highlights the awe due to divine power.",
+      "sectionHeader": null
     },
     {
       "pk": 48005016,
@@ -193,9 +224,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 16,
-      "text": "Those who had seen it described what had happened to the demon-possessed man and about the pigs.",
+      "text": "Those who had seen it told the others about what happened to the demon-possessed man and to the pigs.",
       "links": "<a href='/AIV/42/8/36'>Luke 8:36</a>",
-      "comment": "Witnesses spread news of the miracle, serving as proto-evangelists. Eyewitness testimony is foundational in apostolic preaching (Acts 1:8)."
+      "comment": "Eyewitness testimony is central to gospel accounts, underlining the historicity of Jesus’ miracles.",
+      "sectionHeader": null
     },
     {
       "pk": 48005017,
@@ -205,9 +237,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 17,
-      "text": "Then the people began to beg Jesus to leave their region.",
-      "links": "<a href='/AIV/42/8/37'>Luke 8:37</a>",
-      "comment": "Fear leads the people to reject Jesus rather than rejoice in the miracle. This shows the complexity of human responses to God's action."
+      "text": "Then they began pleading with Jesus to leave their region.",
+      "links": "<a href='/AIV/40/8/34'>Matthew 8:34</a>",
+      "comment": "The people's request for Jesus to leave hints at the cost of spiritual renewal and human reluctance to embrace the presence of God.",
+      "sectionHeader": null
     },
     {
       "pk": 48005018,
@@ -217,9 +250,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 18,
-      "text": "As He was getting into the boat, the man who had been possessed by demons begged to go with Him.",
+      "text": "As He was getting into the boat, the man who had been possessed begged to go with Him.",
       "links": "<a href='/AIV/42/8/38'>Luke 8:38</a>",
-      "comment": "Those touched by Christ often desire close discipleship. Such longing foreshadows the call to follow Jesus (Luke 9:23)."
+      "comment": "The natural desire to follow the One who brought healing anticipates discipleship themes developed later.",
+      "sectionHeader": null
     },
     {
       "pk": 48005019,
@@ -229,9 +263,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 19,
-      "text": "But Jesus did not let him. He said, 'Go home to your friends and tell them how much the Lord has done for you, and how He had mercy on you.'",
-      "links": "<a href='/AIV/42/8/39'>Luke 8:39</a>",
-      "comment": "Jesus commissions the healed man to proclaim God’s mercy, even before He sends out the Twelve. This is an example of testimony integrated into daily life, a form of lay apostolate."
+      "text": "But Jesus did not let him go, saying, 'Go home to your family and tell them everything the Lord has done for you, and how He had mercy on you.'",
+      "links": "<a href='/AIV/41/1/44'>Mark 1:44</a>",
+      "comment": "Jesus sends the man as a witness of God’s mercy, showing the importance of personal testimony and mission even before formal apostleship.",
+      "sectionHeader": null
     },
     {
       "pk": 48005020,
@@ -241,9 +276,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 20,
-      "text": "So the man went away and began to proclaim in the Decapolis how much Jesus had done for him. And all were amazed.",
-      "links": "<a href='/AIV/40/4/25'>Matt. 4:25</a>; <a href='/AIV/42/8/39'>Luke 8:39</a>",
-      "comment": "The Decapolis was a Gentile region. The first Gentile missionary is a former demoniac, showing God's grace works in unexpected ways."
+      "text": "So he went away and began to proclaim in the Decapolis what Jesus had done for him. And everyone was amazed.",
+      "links": "<a href='/AIV/41/7/31'>Mark 7:31</a>",
+      "comment": "Decapolis, a Gentile region, shows the spreading of the Gospel to all peoples, fulfilling prophecies of the messiah reaching the nations.",
+      "sectionHeader": null
     },
     {
       "pk": 48005021,
@@ -253,10 +289,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 21,
-      "text": "When Jesus had crossed again by boat to the other side, a large crowd gathered around Him, and He stayed by the sea.",
-      "links": "<a href='/AIV/40/9/18'>Matt. 9:18</a>; <a href='/AIV/42/8/40'>Luke 8:40</a>",
-      "comment": "The sea often symbolizes chaos. Jesus’ ministries on both shores illustrate His universal outreach.",
-      "sectionHeader": "The Raising of Jairus' Daughter"
+      "text": "When Jesus had again crossed over by boat to the other side, a large crowd gathered around Him by the sea.",
+      "links": "<a href='/AIV/41/4/1'>Mark 4:1</a>",
+      "comment": "Jesus returns to Jewish territory, showing the continuous movement between Gentile and Jewish mission.",
+      "sectionHeader": "The Raising of Jairus' Daughter and the Healing of the Hemorrhaging Woman"
     },
     {
       "pk": 48005022,
@@ -266,9 +302,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 22,
-      "text": "Then one of the synagogue leaders, named Jairus, came. And when he saw Jesus, he fell at His feet.",
-      "links": "<a href='/AIV/40/9/18'>Matt. 9:18</a>; <a href='/AIV/42/8/41'>Luke 8:41</a>",
-      "comment": "Jairus' act of humility—falling at the feet of Jesus—shows proper submission to divine authority (cf. Matt. 28:9)."
+      "text": "Then one of the synagogue leaders, named Jairus, came, and when he saw Jesus, he fell at His feet.",
+      "links": "<a href='/AIV/42/8/41'>Luke 8:41</a>",
+      "comment": "Jairus, a respected religious leader, approaches Jesus with humility, recognizing His authority.",
+      "sectionHeader": null
     },
     {
       "pk": 48005023,
@@ -278,9 +315,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 23,
-      "text": "He earnestly pleaded, 'My little daughter is dying. Please come and place Your hands on her so that she may be healed and live.'",
-      "links": "<a href='/AIV/40/9/18'>Matt. 9:18</a>",
-      "comment": "Jairus requests the laying on of hands—a gesture that later becomes associated with apostolic ministry and sacramental healing (Acts 9:17)."
+      "text": "He begged Him urgently, saying, 'My little daughter is dying. Please come and lay Your hands on her so she will be healed and live.'",
+      "links": "<a href='/AIV/11/17/21'>1 Kings 17:21</a>",
+      "comment": "Touching and laying on hands are significant in biblical healing, signifying the transmission of divine power.",
+      "sectionHeader": null
     },
     {
       "pk": 48005024,
@@ -290,9 +328,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 24,
-      "text": "So Jesus went with him, and a large crowd followed and pressed around Him.",
-      "links": "<a href='/AIV/49/8/42'>Luke. 8:42</a>; <a href='/AIV/48/3/9'>Mark. 3:9</a>; <a href='/AIV/48/4/1'>Mark. 4:1</a>",
-      "comment": "Crowds thronging Jesus indicate His magnetic pull and earthly ministry, but only personal faith leads to true encounter."
+      "text": "So Jesus went with him. A large crowd followed and pressed around Him.",
+      "links": "<a href='/AIV/41/3/9'>Mark 3:9</a>",
+      "comment": "Crowds frequently surround Jesus, illustrating His growing fame and the desire for His healing power.",
+      "sectionHeader": null
     },
     {
       "pk": 48005025,
@@ -302,10 +341,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 25,
-      "text": "And there was a woman who had suffered from bleeding for twelve years.",
-      "links": "<a href='/AIV/40/9/20'>Matt. 9:20</a>; <a href='/AIV/42/8/43'>Luke 8:43</a>",
-      "comment": "Twelve years matches Jairus’ daughter’s age (v.42), symbolizing completeness and a parallelism in these miracles.",
-      "sectionHeader": "The Healing of a Woman with a Hemorrhage"
+      "text": "Now there was a woman who had suffered from bleeding for twelve years.",
+      "links": "<a href='/AIV/42/8/43'>Luke 8:43</a>",
+      "comment": "Twelve years marks both her suffering and, symbolically, a connection to Israel's twelve tribes.",
+      "sectionHeader": null
     },
     {
       "pk": 48005026,
@@ -315,9 +354,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 26,
-      "text": "She had endured much under many doctors and had spent all she had, but instead of getting better, she grew worse.",
-      "links": "<a href='/AIV/49/8/43'>Luke. 8:43</a>; <a href='/AIV/14/16/12'>2Chr. 16:12</a>; <a href='/AIV/22/13/4'>Job. 13:4</a>",
-      "comment": "Medical remedies failed her; a sign that only Christ offers true healing. Earthly resources are limited, but Christ’s power is limitless."
+      "text": "She had endured much under many physicians, and spent all she had, but instead of getting better she grew worse.",
+      "links": "<a href='/AIV/14/16/12'>2 Chronicles 16:12</a>",
+      "comment": "Her condition only deteriorated, underlining the limits of human means and the need for divine intervention.",
+      "sectionHeader": null
     },
     {
       "pk": 48005027,
@@ -328,8 +368,9 @@
       "chapter": 5,
       "verse": 27,
       "text": "When she heard about Jesus, she came up behind Him in the crowd and touched His cloak.",
-      "links": "<a href='/AIV/40/14/36'>Matt. 14:36</a>",
-      "comment": "Touching the cloak alludes to faith requiring a point of contact. Early Church practice included relic veneration, rooted in New Testament precedent (Acts 19:11-12)."
+      "links": "<a href='/AIV/40/14/36'>Matthew 14:36</a>",
+      "comment": "Touching the garment, a fringe, recalls Numbers 15:38-39, a symbol of holiness and healing.",
+      "sectionHeader": null
     },
     {
       "pk": 48005028,
@@ -339,9 +380,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 28,
-      "text": "For she thought, 'If I just touch His clothes, I will be healed.'",
-      "links": "<a href='/AIV/40/9/21'>Matt. 9:21</a>",
-      "comment": "Her inner faith leads her to act, showing the necessity of personal trust in Christ and outward expression."
+      "text": "For she thought, 'If I just touch his clothes, I will be healed.'",
+      "links": "<a href='/AIV/04/15/39'>Numbers 15:39</a>",
+      "comment": "Faith expressed through action; belief that sacred objects associated with Jesus convey healing.",
+      "sectionHeader": null
     },
     {
       "pk": 48005029,
@@ -351,9 +393,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 29,
-      "text": "Immediately her bleeding stopped, and she felt in her body that she was healed of her disease.",
-      "links": "<a href='/AIV/40/9/22'>Matt. 9:22</a>",
-      "comment": "Immediate healing underscores the power present in Christ’s very person (cf. Ps. 107:20)."
+      "text": "Immediately her bleeding stopped, and she felt in her body that she was healed of her affliction.",
+      "links": "<a href='/AIV/42/8/44'>Luke 8:44</a>",
+      "comment": "Instant healing confirms Jesus' divine authority; parallels Old Testament healings with a new messianic element.",
+      "sectionHeader": null
     },
     {
       "pk": 48005030,
@@ -363,9 +406,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 30,
-      "text": "At once Jesus knew that power had gone out from Him. He turned around in the crowd and asked, 'Who touched My clothes?'",
-      "links": "<a href='/AIV/42/8/45-46'>Luke 8:45-46</a>",
-      "comment": "Jesus’ awareness of power going out reveals both His divinity and His close, personal involvement with each believer."
+      "text": "At once Jesus realized that power had gone out from Him. He turned in the crowd and asked, 'Who touched my clothes?'",
+      "links": "<a href='/AIV/41/6/56'>Mark 6:56</a>",
+      "comment": "Divine power flows from Jesus to those who approach in faith. The question highlights the personal nature of Christ’s healing.",
+      "sectionHeader": null
     },
     {
       "pk": 48005031,
@@ -375,21 +419,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 31,
-      "text": "And his disciples said to him, “You see the crowd pressing in on you; how can you say, ‘Who touched me?’”",
-      "links": "<a href='/AIV/49/8/45'>Luke. 8:45</a>; <a href='/AIV/48/3/9'>Mark. 3:9</a>; <a href='/AIV/50/11/8'>John. 11:8</a>",
-      "comment": "The disciples' response reflects the chaotic atmosphere surrounding Jesus, highlighting his unique ability to sense genuine faith amid the crowd; Jesus' awareness in this moment (cf. Luke 8:45) underscores his divine knowledge and personal concern for individual faith, a theme contrasting physical proximity with spiritual connection."
-    },
-    {
-      "pk": 48005031,
-      "translation": "AIV",
-      "book": 48,
-      "bookName": "Mark",
-      "bookAbbreviation": "Mark",
-      "chapter": 5,
-      "verse": 31,
-      "text": "And his disciples said to him, “You see the crowd pressing in on you; how can you say, ‘Who touched me?’”",
-      "links": "<a href='/AIV/49/8/45'>Luke. 8:45</a>; <a href='/AIV/48/3/9'>Mark. 3:9</a>; <a href='/AIV/50/11/8'>John. 11:8</a>",
-      "comment": "The disciples' response reflects the chaotic atmosphere surrounding Jesus, highlighting his unique ability to sense genuine faith amid the crowd; Jesus' awareness in this moment (cf. Luke 8:45) underscores his divine knowledge and personal concern for individual faith, a theme contrasting physical proximity with spiritual connection."
+      "text": "His disciples said, 'You see the crowd pressing against You, and yet You ask, “Who touched Me?”'",
+      "links": "<a href='/AIV/42/8/45'>Luke 8:45</a>",
+      "comment": "Disciples focus on the physical, but Jesus perceives the spiritual reality behind the touch.",
+      "sectionHeader": null
     },
     {
       "pk": 48005032,
@@ -399,9 +432,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 32,
-      "text": "He looked all around to see who had done it.",
-      "links": "<a href='/AIV/42/8/47'>Luke 8:47</a>",
-      "comment": "Jesus’ persistent search is an image of the Good Shepherd seeking the one in need (John 10:14-15)."
+      "text": "But He kept looking around to see who had done it.",
+      "links": "<a href='/AIV/41/3/34'>Mark 3:34</a>",
+      "comment": "Jesus seeks out the individual, affirming personal relationship and recognition in salvation.",
+      "sectionHeader": null
     },
     {
       "pk": 48005033,
@@ -411,9 +445,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 33,
-      "text": "Then the woman, knowing what had happened to her, came and fell down before Him and told Him the whole truth.",
-      "links": "<a href='/AIV/40/9/22'>Matt. 9:22</a>",
-      "comment": "The woman’s public confession is reminiscent of confession and the healing it brings (James 5:16)."
+      "text": "Then the woman, knowing what had happened to her, came trembling and fell at His feet, and told Him the whole truth.",
+      "links": "<a href='/AIV/42/8/47'>Luke 8:47</a>",
+      "comment": "Fear and reverence are appropriate before divine power; her confession models honest faith.",
+      "sectionHeader": null
     },
     {
       "pk": 48005034,
@@ -423,9 +458,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 34,
-      "text": "He said to her, 'Daughter, your faith has healed you. Go in peace and be freed from your sickness.'",
-      "links": "<a href='/AIV/40/9/22'>Matt. 9:22</a>; <a href='/AIV/42/8/48'>Luke 8:48</a>",
-      "comment": "Jesus calls her 'Daughter,' a term of endearment that reflects adoption into the family of God through faith. ‘Go in peace’ echoes liturgical blessings."
+      "text": "He said to her, 'Daughter, your faith has healed you. Go in peace and be free from your affliction.'",
+      "links": "<a href='/AIV/40/9/22'>Matthew 9:22</a>",
+      "comment": "Jesus calls her 'daughter,' signifying belonging to the family of God; her faith, enacted through contact, leads to complete healing and indicates the efficacy of sacred means, prefiguring sacramental grace.",
+      "sectionHeader": null
     },
     {
       "pk": 48005035,
@@ -435,9 +471,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 35,
-      "text": "While He was still speaking, some people came from the house of the synagogue leader and said, 'Your daughter is dead. Why trouble the Teacher any further?'",
-      "links": "<a href='/AIV/40/9/23'>Matt. 9:23</a>",
-      "comment": "News of death comes as hope seems lost. But Jesus can work even in situations that appear hopeless to man."
+      "text": "While He was still speaking, some people came from the house of the synagogue leader, saying, 'Your daughter is dead. Why bother the Teacher anymore?'",
+      "links": "<a href='/AIV/42/8/49'>Luke 8:49</a>",
+      "comment": "News of death appears to end hope, but Jesus’s authority extends beyond death itself.",
+      "sectionHeader": null
     },
     {
       "pk": 48005036,
@@ -447,9 +484,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 36,
-      "text": "But Jesus, ignoring what they said, told the synagogue leader, 'Do not be afraid; only believe.'",
-      "links": "<a href='/AIV/40/9/23'>Matt. 9:23</a>; <a href='/AIV/42/8/50'>Luke 8:50</a>",
-      "comment": "Jesus’ command to faith in the face of death prefigures the Christian hope of resurrection (1 Cor. 15:20-22)."
+      "text": "But Jesus ignored their words and said to the synagogue leader, 'Do not fear, only believe.'",
+      "links": "<a href='/AIV/41/9/23'>Mark 9:23</a>",
+      "comment": "Faith is the essential response to Christ’s promises, overcoming despair, a theme central to spiritual life.",
+      "sectionHeader": null
     },
     {
       "pk": 48005037,
@@ -459,9 +497,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 37,
-      "text": "He did not allow anyone to come with Him except Peter, James, and John, the brother of James.",
-      "links": "<a href='/AIV/40/17/1'>Matt. 17:1</a>; <a href='/AIV/41/9/2'>Mark 9:2</a>",
-      "comment": "Peter, James, and John often accompany Jesus at key moments, hinting at a special role for these apostles."
+      "text": "He allowed no one to follow Him except Peter, James, and John the brother of James.",
+      "links": "<a href='/AIV/40/17/1'>Matthew 17:1</a>",
+      "comment": "Jesus chooses the three key apostles to witness the coming miracle, foreshadowing their roles in the leadership of the Church.",
+      "sectionHeader": null
     },
     {
       "pk": 48005038,
@@ -471,9 +510,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 38,
-      "text": "They came to the house of the synagogue leader, and Jesus saw a commotion, with people weeping and wailing loudly.",
-      "links": "<a href='/AIV/40/9/23'>Matt. 9:23</a>",
-      "comment": "Professional mourners in Jewish custom signal a recognized death. Jesus enters into the human experience of grief yet brings hope."
+      "text": "When He arrived at the house of the synagogue leader, He saw a commotion, with people weeping and wailing loudly.",
+      "links": "<a href='/AIV/24/9/17'>Jeremiah 9:17</a>",
+      "comment": "Customary mourning practices signify the reality of death; Jesus’s intervention introduces the hope of resurrection.",
+      "sectionHeader": null
     },
     {
       "pk": 48005039,
@@ -483,9 +523,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 39,
-      "text": "He went inside and said to them, 'Why are you making a commotion and weeping? The child is not dead but sleeping.'",
-      "links": "<a href='/AIV/40/9/24'>Matt. 9:24</a>; <a href='/AIV/43/11/11'>John 11:11</a>",
-      "comment": "'Sleeping' is a biblical metaphor for death, used especially in connection with the hope of resurrection (Dan. 12:2)."
+      "text": "He entered and said to them, 'Why are you making a commotion and weeping? The child is not dead but asleep.'",
+      "links": "<a href='/AIV/43/11/11'>John 11:11</a>",
+      "comment": "Jesus describes death as sleep, consistent with His teaching on resurrection and eternal life. This anticipates His own conquering of death and thus the hope of all believers.",
+      "sectionHeader": null
     },
     {
       "pk": 48005040,
@@ -495,9 +536,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 40,
-      "text": "And they laughed at Him. But after He had put them all outside, He took the child's father and mother and those who were with Him, and went in where the child was.",
-      "links": "<a href='/AIV/40/9/25'>Matt. 9:25</a>",
-      "comment": "Christ removes the faithless before performing the miracle, showing the necessity of faith even when God's power is at work."
+      "text": "They laughed at Him. But after He put them all outside, He took the child's father and mother and those who were with Him, and went in where the child was.",
+      "links": "<a href='/AIV/42/8/53'>Luke 8:53</a>",
+      "comment": "Faith and proximity to Jesus are essential for witnessing His power. Excluding the unbelievers highlights the need for spiritual preparation in encountering divine mystery.",
+      "sectionHeader": null
     },
     {
       "pk": 48005041,
@@ -507,9 +549,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 41,
-      "text": "Taking her by the hand, He said to her, 'Talitha koum,' which means, 'Little girl, I say to you, get up.'",
-      "links": "<a href='/AIV/40/9/25'>Matt. 9:25</a>; <a href='/AIV/43/11/43'>John 11:43</a>",
-      "comment": "Jesus’ use of the Aramaic emphasizes the historicity and tenderness of this moment. Direct, personal command is a hallmark of Christ’s miracles."
+      "text": "Taking her by the hand, he said to her, 'Talitha koum,' which means, 'Little girl, I say to you, arise.'",
+      "links": "<a href='/AIV/40/9/6'>Matthew 9:6</a>; <a href='/AIV/42/7/14'>Luke 7:14</a>; <a href='/AIV/11/17/22'>1 Kings 17:22</a>",
+      "comment": "Here, Jesus speaks in Aramaic, personally addressing the child with tenderness. This direct command to 'arise' recalls similar miracles in the Old Testament where prophets, by the power of God, raise the dead (see 1 Kings 17:22, Luke 7:14). Unlike the prophets who pray, Jesus acts by his own authority, affirming his divine power. The literal raising also foreshadows the promise of resurrection to all believers, indicating both physical and spiritual restoration. This moment demonstrates Jesus acting as the true shepherd who cares intimately for each soul.",
+      "sectionHeader": "Jesus Raises the Daughter of Jairus"
     },
     {
       "pk": 48005042,
@@ -519,9 +562,9 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 42,
-      "text": "Immediately the girl got up and began to walk, for she was twelve years old. And they were utterly amazed.",
-      "links": "<a href='/AIV/42/8/55'>Luke 8:55</a>",
-      "comment": "Resurrection themes run throughout the Gospels. Jesus’ authority over death prefigures His own Resurrection and the final raising of the dead (John 5:28-29)."
+      "text": "Immediately the girl got up and began walking around—for she was twelve years old. And they were overcome with great amazement.",
+      "links": "<a href='/AIV/42/8/55'>Luke 8:55</a>; <a href='/AIV/40/28/8'>Matthew 28:8</a>",
+      "comment": "The instantaneous response of the girl getting up shows the completeness of Jesus’ miracle and his authority over life and death. Her age, twelve, is significant; in Jewish tradition, twelve marks the threshold of responsibility and spiritual awakening, paralleling the twelve tribes of Israel and highlighting God’s covenantal faithfulness. Their overwhelming amazement suggests the divine nature of what has taken place, moving their hearts beyond mere intellectual belief toward a deeper, awe-struck faith. Historically, such acts foreshadow the fullness of life found through union with Christ, both now and in eternity."
     },
     {
       "pk": 48005043,
@@ -531,27 +574,10 @@
       "bookAbbreviation": "Mark",
       "chapter": 5,
       "verse": 43,
-      "text": "He strictly charged them that no one should know about this, and told them to give her something to eat.",
-      "links": "<a href='/AIV/40/8/4'>Matt. 8:4</a>; <a href='/AIV/42/8/56'>Luke 8:56</a>",
-      "comment": "The command for secrecy is part of the Messianic Secret motif in Mark. Jesus’ provision for the girl’s care shows concern for both body and soul—a holistic, incarnational approach reflected throughout the ministry of the Church."
+      "text": "He strictly ordered them that no one should know about this, and told them to give her something to eat.",
+      "links": "<a href='/AIV/40/8/4'>Matthew 8:4</a>; <a href='/AIV/42/24/41-43'>Luke 24:41-43</a>",
+      "comment": "Jesus often commands silence after performing a miracle, emphasizing humility and the hidden nature of divine works, and protecting the mystery of his mission until the appointed time. His instruction to feed her demonstrates practical compassion and points to the care for body and soul, reminiscent of post-resurrection appearances (Luke 24:41-43) where Jesus affirms his bodily reality by eating. This detail, subtle yet profound, anticipates the nourishing and sustaining roles entrusted to those who continue his ministry, drawing all believers into fuller participation in the mysteries he inaugurates."
     }
   ],
-  "translatedAt": "2025-12-29T00:34:25.351Z",
-  "sections": [
-    {
-      "title": "The Healing of the Gerasene Demoniac",
-      "startVerse": 1,
-      "endVerse": 24
-    },
-    {
-      "title": "The Healing of a Woman with a Hemorrhage",
-      "startVerse": 25,
-      "endVerse": 20
-    },
-    {
-      "title": "The Raising of Jairus' Daughter",
-      "startVerse": 21,
-      "endVerse": 43
-    }
-  ]
+  "translatedAt": "2026-01-01T05:12:38.868Z"
 }

@@ -193,25 +193,13 @@
       "bookName": "Mark",
       "bookAbbreviation": "Mark",
       "chapter": 7,
-      "verse": 16,
-      "text": "",
-      "links": "<a href='/AIV/47/11/15'>Matt. 11:15</a>; <a href='/AIV/73/2/7'>Rev. 2:7</a>; <a href='/AIV/48/4/9'>Mark. 4:9</a>",
-      "comment": "Omitted, as this verse does not appear in the RSVCE reference."
-    },
-    {
-      "pk": 48007017,
-      "translation": "AIV",
-      "book": 48,
-      "bookName": "Mark",
-      "bookAbbreviation": "Mark",
-      "chapter": 7,
       "verse": 17,
       "text": "When he had entered the house and left the crowd, his disciples asked him about the parable.",
       "links": "<a href='/AIV/47/15/15'>Matt. 15:15</a>; <a href='/AIV/48/4/10'>Mark. 4:10</a>; <a href='/AIV/47/13/36'>Matt. 13:36</a>",
       "comment": "Jesus often explained deeper meanings to his disciples in private, showing the ongoing role of living instruction in understanding faith."
     },
     {
-      "pk": 48007018,
+      "pk": 48007017,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -223,7 +211,7 @@
       "comment": "Jesus’ followers, too, needed guidance in understanding spiritual realities—a reminder that genuine tradition helps interpret revelation."
     },
     {
-      "pk": 48007019,
+      "pk": 48007018,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -235,7 +223,7 @@
       "comment": "'Thus he declared all foods clean': Jesus subtly abolishes Old Testament dietary laws. This anticipation of God’s universal plan finds fuller explanation in Acts 10 and Paul's epistles (see Acts 10:15; Col. 2:16)."
     },
     {
-      "pk": 48007020,
+      "pk": 48007019,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -247,7 +235,7 @@
       "comment": "Jesus emphasizes that true purity is a matter of the heart, not simply external behavior."
     },
     {
-      "pk": 48007021,
+      "pk": 48007020,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -259,7 +247,7 @@
       "comment": "Jesus identifies the heart as the source of sin, shifting emphasis from external observance to inward morality (cf. Jeremiah 17:9; Matthew 15:19), underscoring the theological theme of true defilement arising from within."
     },
     {
-      "pk": 48007022,
+      "pk": 48007021,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -271,7 +259,7 @@
       "comment": "Jesus gives a comprehensive list of sins to show that purity laws cannot cover over the deeper need for inward transformation."
     },
     {
-      "pk": 48007023,
+      "pk": 48007022,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -283,7 +271,7 @@
       "comment": "Here, Jesus clarifies that the righteousness God desires penetrates to the root of the person, not just surface actions."
     },
     {
-      "pk": 48007024,
+      "pk": 48007023,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -296,7 +284,7 @@
       "sectionHeader": "The Syrophoenician Woman's Faith"
     },
     {
-      "pk": 48007025,
+      "pk": 48007024,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -308,7 +296,7 @@
       "comment": "This woman shows extraordinary faith by seeking help for her daughter—falling at Jesus’ feet, an act of humility."
     },
     {
-      "pk": 48007026,
+      "pk": 48007025,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -320,7 +308,7 @@
       "comment": "Mark makes clear she is a Gentile, emphasizing that Jesus' ministry will ultimately include all peoples."
     },
     {
-      "pk": 48007027,
+      "pk": 48007026,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -332,7 +320,7 @@
       "comment": "Jesus’ answer seems harsh, but affirms the primacy of Israel in God's plan; yet his compassion will soon extend to the Gentiles."
     },
     {
-      "pk": 48007028,
+      "pk": 48007027,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -344,7 +332,7 @@
       "comment": "Her humble answer demonstrates remarkable faith, which will be richly rewarded. This is a model for prayer and humility."
     },
     {
-      "pk": 48007029,
+      "pk": 48007028,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -356,7 +344,7 @@
       "comment": "Jesus’ word holds authoritative power—he heals at a distance with a simple declaration. This hints at the spiritual authority he entrusts to his followers (see <a href='/AIV/40/10/1'>Matt. 10:1</a>)."
     },
     {
-      "pk": 48007030,
+      "pk": 48007029,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -368,7 +356,7 @@
       "comment": "The miraculous healing confirms Jesus’ divinity and power over evil spirits. It also shows the universality of salvation."
     },
     {
-      "pk": 48007031,
+      "pk": 48007030,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -381,7 +369,7 @@
       "sectionHeader": "The Healing of the Deaf Mute"
     },
     {
-      "pk": 48007032,
+      "pk": 48007031,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -393,7 +381,7 @@
       "comment": "The gesture of laying on of hands is a sign of blessing and healing that continues in apostolic communities (see <a href='/AIV/44/8/17'>Acts 8:17</a>)."
     },
     {
-      "pk": 48007033,
+      "pk": 48007032,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -405,7 +393,7 @@
       "comment": "Jesus uses physical signs, showing sacramental symbolism—physical actions imparting spiritual grace, a pattern seen later in the apostles."
     },
     {
-      "pk": 48007034,
+      "pk": 48007033,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -417,7 +405,7 @@
       "comment": "Jesus prays, then commands in Aramaic, demonstrating his divine power and personal compassion—foretaste of the opening of hearts to the Gospel."
     },
     {
-      "pk": 48007035,
+      "pk": 48007034,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -429,7 +417,7 @@
       "comment": "Instant healing reflects Old Testament messianic signs: 'the ears of the deaf unstopped… tongue of the mute sing for joy' (<a href='/AIV/23/35/5-6'>Isa. 35:5-6</a>)."
     },
     {
-      "pk": 48007036,
+      "pk": 48007035,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -441,7 +429,7 @@
       "comment": "The 'Messianic secret': Jesus manages the timing of the public revelation of his identity, directing attention to faith over mere spectacle."
     },
     {
-      "pk": 48007037,
+      "pk": 48007036,
       "translation": "AIV",
       "book": 48,
       "bookName": "Mark",
@@ -453,7 +441,7 @@
       "comment": "Their final statement echoes prophetic expectation—Jesus fulfills Old Testament messianic prophecy (Isa. 35:5-6). In him, divine authority and compassion meet, revealing who he truly is."
     }
   ],
-  "translatedAt": "2025-12-29T00:34:29.881Z",
+  "translatedAt": "2026-01-02T03:44:18.406Z",
   "sections": [
     {
       "title": "The Tradition of the Elders",

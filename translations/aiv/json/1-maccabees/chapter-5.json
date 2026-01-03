@@ -5,23 +5,18 @@
   "chapter": 5,
   "sections": [
     {
-      "title": "Wars Against Hostile Neighbors",
+      "title": "Wars Against Neighboring Gentiles",
       "startVerse": 1,
-      "endVerse": 57
+      "endVerse": 54
     },
     {
-      "title": "Cleansing and Rededication of the Sanctuary",
-      "startVerse": 58,
-      "endVerse": 66
+      "title": "Defeat of Joseph and Azariah",
+      "startVerse": 55,
+      "endVerse": 64
     },
     {
-      "title": "Return in Triumph and Thanksgiving",
-      "startVerse": 67,
-      "endVerse": 67
-    },
-    {
-      "title": "Israel’s Peace and Restoration",
-      "startVerse": 68,
+      "title": "Final Campaigns in the South and the Philistine Plain",
+      "startVerse": 65,
       "endVerse": 68
     }
   ],
@@ -34,10 +29,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 1,
-      "text": "When the surrounding nations heard that the altar had been rebuilt and the sanctuary dedicated as it was before, they were greatly angered.",
-      "links": "<a href='/AIV/20/4/46-59'>1 Maccabees 4:46-59</a>",
-      "comment": "The re-dedication of the altar is a focal point showing how acts of public worship can provoke hostility among those opposed to God's people. This theme recurs throughout salvation history, as seen with opposition during the time of Ezra and Nehemiah (<a href='/AIV/15/4/1-5'>Ezra 4:1-5</a>).",
-      "sectionHeader": "Wars Against Hostile Neighbors"
+      "text": "When the nations surrounding them heard that the altar had been rebuilt and the sanctuary rededicated as it was before, they became furious,",
+      "links": "<a href='/AIV/20/4/59'>1 Maccabees 4:59</a>",
+      "comment": "This verse marks the renewed hostility from surrounding Gentile peoples after the restoration of Jerusalem's temple.",
+      "sectionHeader": "Wars Against Neighboring Gentiles"
     },
     {
       "pk": 20005002,
@@ -47,9 +42,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 2,
-      "text": "They plotted together to destroy the descendants of Jacob who lived among them; so they began to kill and expel the people.",
-      "links": "<a href='/AIV/1/27/41-46'>Genesis 27:41-46</a>",
-      "comment": "The language recalls ancient hostility against the descendants of Jacob (Israel), emphasizing the continual struggle experienced by the chosen people."
+      "text": "and made plans to destroy the children of Jacob who lived among them. They began attacking and killing some of the people.",
+      "links": "<a href='/AIV/1/27/41-45'>Genesis 27:41-45</a>",
+      "comment": "Refers to the persecution and violence against Jewish communities scattered among the Gentiles."
     },
     {
       "pk": 20005003,
@@ -59,9 +54,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 3,
-      "text": "Then Judas fought against the descendants of Esau in Idumea, at Akrabattene, because they were besieging Israel. He defeated them greatly, humbled them, and took their spoils.",
-      "links": "<a href='/AIV/13/21/12-15'>1 Chronicles 21:12-15</a> <a href='/AIV/1/36/8'>Genesis 36:8</a>",
-      "comment": "Here, Judas' victory over the Edomites (descendants of Esau) echoes earlier victories of Israel over perennial enemies. Spoils taken from battle also resemble the practice after the conquest of Jericho (<a href='/AIV/6/6/20-21'>Joshua 6:20-21</a>)."
+      "text": "But Judas went out to fight the descendants of Esau in Idumea, at Akrabattene, because they lay in ambush for Israel. He struck them with great force, humbled them, and took their possessions.",
+      "links": "<a href='/AIV/20/4/15'>1 Maccabees 4:15</a>",
+      "comment": "Judas's campaign against the Idumeans continued Israel's hostile history with Edom."
     },
     {
       "pk": 20005004,
@@ -71,9 +66,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 4,
-      "text": "He also remembered the wickedness of the sons of Baean, who had become a snare and trap to the people by ambushing them along the roads.",
-      "links": "<a href='/AIV/19/140/1'>Psalm 140:1</a>",
-      "comment": "The term 'snare' is commonly used in the Psalms to describe spiritual danger and the allure of evil. Here, it describes literal ambush, but also hints at the persistent reality of threat from within and without."
+      "text": "He also recalled the evil deeds of the sons of Baean, who were a constant trap and ambush for the people on the roads.",
+      "links": "",
+      "comment": "The sons of Baean are specifically noted for their harassment and danger to travelers."
     },
     {
       "pk": 20005005,
@@ -83,9 +78,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 5,
-      "text": "He forced them to take refuge in towers and besieged them; he destroyed them all and burned down their towers with fire, along with everyone inside.",
-      "links": "<a href='/AIV/7/9/46-49'>Judges 9:46-49</a>",
-      "comment": "Judas' actions are reminiscent of past judgments where refuge in towers could not save the wicked, symbolizing the futility of seeking security apart from God."
+      "text": "Judas surrounded them in their fortified towers; he set up camp against them, swore to wipe them out, and burned their towers along with all those inside.",
+      "links": "",
+      "comment": "Total destruction was a common approach in holy war narratives."
     },
     {
       "pk": 20005006,
@@ -95,9 +90,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 6,
-      "text": "Then he moved against the Ammonites, and found a strong army and many people led by Timotheus.",
-      "links": "<a href='/AIV/7/10/7-9'>Judges 10:7-9</a>",
-      "comment": "The Ammonites were another traditional enemy of Israel. The reference to Timotheus here is likely to the Seleucid general, reflecting Hellenistic opposition."
+      "text": "Afterward, he turned to attack the Ammonites and found a large force there, led by Timothy.",
+      "links": "",
+      "comment": "The Ammonites lived east of the Jordan; Timothy appears as an enemy leader throughout 1 Maccabees."
     },
     {
       "pk": 20005007,
@@ -107,9 +102,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 7,
-      "text": "He fought many battles with them, defeated them, and struck them down.",
-      "links": "<a href='/AIV/11/18/40'>1 Kings 18:40</a>",
-      "comment": "The summary nature of this victory echoes scriptural patterns where God's servants gain victory over humanly impossible odds, encouraging believers in the power of God's assistance."
+      "text": "He fought many battles against them, defeated them thoroughly, and struck them down.",
+      "links": "",
+      "comment": "Judas's military success echoes victorious accounts in Judges."
     },
     {
       "pk": 20005008,
@@ -119,9 +114,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 8,
-      "text": "He captured Jazer and its surrounding villages, and returned to Judea.",
-      "links": "<a href='/AIV/6/21/39'>Joshua 21:39</a>",
-      "comment": "The places mentioned are ancient, indicating continuous connection to earlier biblical stories and lines."
+      "text": "He captured Jazer with its surrounding villages, then returned to Judea.",
+      "links": "",
+      "comment": "Jazer was a significant town east of the Jordan."
     },
     {
       "pk": 20005009,
@@ -131,9 +126,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 9,
-      "text": "Now the Gentiles in Gilead gathered together against the Israelites who lived in their territory, planning to destroy them. But the Israelites fled to the stronghold of Dathema.",
-      "links": "<a href='/AIV/7/10/8'>Judg. 10:8</a>; <a href='/AIV/6/13/31'>Josh. 13:31</a>; <a href='/AIV/21/12/17'>2Macc. 12:17</a>",
-      "comment": "The Israelites in Gilead faced existential threat from their Gentile neighbors, reflecting the pattern of persecution and flight seen throughout Jewish history (cf. Judges 10:8-9); Dathema served as a fortified refuge in times of crisis."
+      "text": "Meanwhile, the nations in Gilead gathered together against the Israelites who lived in their midst, intending to wipe them out. The Israelites fled to the stronghold at Dathema,",
+      "links": "",
+      "comment": "The Jewish communities in Gilead were under threat from their non-Jewish neighbors."
     },
     {
       "pk": 20005010,
@@ -143,9 +138,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 10,
-      "text": "They sent a letter to Judas and his brothers, saying, \"The Gentiles around us have gathered together to destroy us.\"",
-      "links": "<a href='/AIV/16/4/9'>Neh. 4:9</a>; <a href='/AIV/19/3/6'>Esth. 3:6</a>; <a href='/AIV/9/11/3'>1Sam. 11:3</a>",
-      "comment": "The urgent appeal to Judas and his brothers highlights the nascent leadership role of the Hasmoneans and the unity required among Jewish communities in the diaspora during the Maccabean revolt."
+      "text": "and sent a letter to Judas and his brothers, saying, \"The Gentiles near us have united to destroy us.",
+      "links": "",
+      "comment": "Appeals for help became a key motivation for Maccabean campaigns."
     },
     {
       "pk": 20005011,
@@ -155,9 +150,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 11,
-      "text": "\"They are preparing to come and capture the stronghold to which we have fled, and Timothy is leading their forces.\"",
-      "links": "<a href='/AIV/21/8/32'>2Macc. 8:32</a>; <a href='/AIV/21/10/24'>2Macc. 10:24</a>; <a href='/AIV/7/3/15'>Judg. 3:15</a>",
-      "comment": "Timothy, a Seleucid military leader, orchestrates a coordinated attack, underlining the organized opposition faced by the Jews and the recurring motif of foreign commanders in the Maccabean narrative."
+      "text": "\"They are preparing to storm the stronghold where we have taken refuge, and Timothy leads their army.",
+      "links": "",
+      "comment": "Timothy emerges as the central adversary in Gilead."
     },
     {
       "pk": 20005012,
@@ -167,9 +162,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 12,
-      "text": "\"Now then, come and rescue us from their hands, for many of us have fallen,\"",
-      "links": "<a href='/AIV/23/18/17'>Ps. 18:17</a>; <a href='/AIV/54/1/10'>2Cor. 1:10</a>; <a href='/AIV/5/22/27'>Deut. 22:27</a>",
-      "comment": "The plea for rescue underscores the desperate situation of Jewish enclaves outside Judah and reveals early reliance on Judas as a deliverer figure."
+      "text": "Please come at once and save us from their hands, for many of us have already been killed.",
+      "links": "",
+      "comment": "A plea for rescue in dire circumstances."
     },
     {
       "pk": 20005013,
@@ -179,9 +174,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 13,
-      "text": "\"and all our kindred who were in the land of Tob have been killed; the enemy have captured their wives and children and goods, and have destroyed about a thousand persons there.\"",
-      "links": "<a href='/AIV/7/11/3'>Judg. 11:3</a>; <a href='/AIV/12/15/29'>2Kgs. 15:29</a>; <a href='/AIV/23/44/22'>Ps. 44:22</a>",
-      "comment": "This lament over the destruction in Tob invokes collective mourning, emphasizing the cost of conflict and the vulnerability of scattered Jewish kin, echoing Deuteronomy 28:32-33."
+      "text": "\"All our relatives in the land of Tob have been slaughtered. Their wives, children, and possessions have been taken, and about a thousand people have perished there.\"",
+      "links": "",
+      "comment": "References to the land of Tob may recall Jephthah in Judges 11."
     },
     {
       "pk": 20005014,
@@ -191,9 +186,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 14,
-      "text": "While the letter was still being read, other messengers, with their garments torn, arrived from Galilee, bringing a similar report of distress.",
-      "links": "<a href='/AIV/9/20/1-3'>1 Samuel 20:1-3</a>",
-      "comment": "Judas delegates responsibility according to ability, paralleling Biblical leadership structures and early Christian models of shared ministry."
+      "text": "While the letter was being read, more messengers arrived from Galilee, their clothes torn, bringing a similar report.",
+      "links": "",
+      "comment": "Rending garments was a sign of mourning and distress."
     },
     {
       "pk": 20005015,
@@ -203,9 +198,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 15,
-      "text": "They said that the people of Ptolemais, Tyre, and Sidon, and all Galilee of the Gentiles had gathered together against them, saying, 'They are set to annihilate us.'",
-      "links": "<a href='/AIV/16/7/2'>Nehemiah 7:2</a>",
-      "comment": "Appointing leaders to specific roles for protection and governance is a mark of wise stewardship and anticipates organizational structures in later times."
+      "text": "They told how people from Ptolemais, Tyre, Sidon, and all Gentile Galilee had united against them, with the intention \"to wipe us out.\"",
+      "links": "<a href='/AIV/2/3/3'>Exodus 3:3</a>",
+      "comment": "The threat now extends to Jewish communities in the north as well."
     },
     {
       "pk": 20005016,
@@ -215,9 +210,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 16,
-      "text": "When Judas and the people heard these reports, a great assembly was called to consider what should be done for their kindred who were in trouble and being attacked by enemies.",
-      "links": "<a href='/AIV/4/31/6'>Numbers 31:6</a>",
-      "comment": "Note Judas' caution and reliance on authority; obedience to recognized leadership is vital for the unity and preservation of God's people."
+      "text": "Upon hearing these reports, Judas and the people gathered the assembly to consider how they could help their fellow Israelites in danger and under attack.",
+      "links": "",
+      "comment": "Judas calls a council to respond to simultaneous crises."
     },
     {
       "pk": 20005017,
@@ -227,9 +222,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 17,
-      "text": "Then Judas said to his brother Simon, 'Choose your men and go and rescue your kindred in Galilee; my brother Jonathan and I will go to Gilead.'",
-      "links": "<a href='/AIV/1/14/14'>Genesis 14:14</a>",
-      "comment": "The small number prevailing over many is a recurring biblical motif, showing God's strength through faithfulness."
+      "text": "Judas turned to his brother Simon and said, \"Pick your men and go and rescue our people in Galilee. My brother Jonathan and I will head to Gilead.\"",
+      "links": "",
+      "comment": "The Maccabean leaders divide the rescue mission by region."
     },
     {
       "pk": 20005018,
@@ -239,9 +234,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 18,
-      "text": "He left Joseph, son of Zechariah, and Azariah, a leader of the people, with the rest of the forces in Judea to guard it;",
-      "links": "<a href='/AIV/6/10/20'>Joshua 10:20</a>",
-      "comment": "Taking spoils is often presented as reward for holy zeal, yet with important boundaries as later Christian tradition emphasizes charity and just conduct."
+      "text": "He left Joseph, son of Zechariah, and Azariah, a leader among the people, with the remaining army in Judea to protect it,",
+      "links": "",
+      "comment": "Judea needs to be guarded while the main force is away."
     },
     {
       "pk": 20005019,
@@ -251,9 +246,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 19,
-      "text": "and he gave them this command, 'Take charge of this people, but do not engage in battle with the Gentiles until we return.'",
-      "links": "<a href='/AIV/2/12/35-36'>Exodus 12:35-36</a>",
-      "comment": "The rescue of families and goods reflects deliverance traditions, echoing the Exodus, and foreshadowing rescue and restoration as spiritual realities."
+      "text": "charging them, \"Oversee these forces, but do not fight the Gentiles until we return.\"",
+      "links": "",
+      "comment": "Judas warns his deputies not to act aggressively in his absence."
     },
     {
       "pk": 20005020,
@@ -263,9 +258,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 20,
-      "text": "Three thousand men were assigned to Simon for the campaign in Galilee, and eight thousand to Judas for Gilead.",
-      "links": "<a href='/AIV/6/3/1'>Joshua 3:1</a>",
-      "comment": "Crossing rivers and passing through wilderness connects with biblical images of purification and preparation, seen both in Israel's journey and in the New Testament with John the Baptist (<a href='/AIV/40/3/1-6'>Matthew 3:1-6</a>)."
+      "text": "Three thousand men were assigned to Simon for the Galilean campaign, and eight thousand to Judas for Gilead.",
+      "links": "",
+      "comment": "A clear separation of military resources for each front."
     },
     {
       "pk": 20005021,
@@ -275,9 +270,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 21,
-      "text": "Simon went to Galilee and fought many battles against the Gentiles, and the Gentiles were crushed before him.",
-      "links": "<a href='/AIV/1/25/13-18'>Genesis 25:13-18</a>",
-      "comment": "The mention of the Nabateans—descendants of Ishmael—shows that some Gentiles are not always enemies but sometimes serve as helpers, foreshadowing the universal mission to all nations."
+      "text": "Simon marched into Galilee, fought many battles against the Gentiles, and overcame them.",
+      "links": "",
+      "comment": "Simon's successes echo those of Judas elsewhere."
     },
     {
       "pk": 20005022,
@@ -287,9 +282,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 22,
-      "text": "He pursued them to the gate of Ptolemais; about three thousand of the Gentiles fell, and he took their spoils.",
-      "links": "<a href='/AIV/23/34/6'>Isaiah 34:6</a>",
-      "comment": "Lists of towns emphasize the scope of opposition but also highlight God's power to deliver His people collectively."
+      "text": "He chased them as far as the gate of Ptolemais. Around three thousand Gentiles were killed, and Simon took their spoils.",
+      "links": "<a href='/AIV/6/13/15'>Joshua 13:15</a>",
+      "comment": "Loot taken in battle often provided essential resources."
     },
     {
       "pk": 20005023,
@@ -299,9 +294,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 23,
-      "text": "Then he brought the Jews of Galilee and Arbatta, along with their wives and children and all their possessions, and led them to Judea with great rejoicing.",
-      "links": "<a href='/AIV/23/10/6-7'>Isaiah 10:6-7</a>",
-      "comment": "The notion of destruction in a 'single day' underlines both the urgency and the miraculous deliverances God can provide, making room for spiritual interpretations of divine intervention."
+      "text": "He then gathered up the Jews from Galilee and Arbatta, together with their wives, children, and belongings, and brought them with great joy to Judea.",
+      "links": "",
+      "comment": "The rescue of Jewish exiles is a key victory for Simon."
     },
     {
       "pk": 20005024,
@@ -311,9 +306,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 24,
-      "text": "Judas and his army suddenly turned back into the wilderness, toward Bozrah, and captured the city. He killed every male by the sword, took all their spoils, and set fire to the city.",
-      "links": "<a href='/AIV/6/6/24'>Joshua 6:24</a>",
-      "comment": "These actions mirror Old Testament conquest accounts, reminding the reader of the severity of judgment upon those obstinately opposed to God's will."
+      "text": "Meanwhile, Judas Maccabeus and his brother Jonathan crossed the Jordan and traveled three days into the wilderness.",
+      "links": "",
+      "comment": "Crossing the Jordan recalls earlier Israelite ventures eastward."
     },
     {
       "pk": 20005025,
@@ -323,9 +318,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 25,
-      "text": "He left, by night, from there and headed toward the fortress. At dawn they looked up and saw a great multitude, unable to be counted, setting up ladders, engines, and scaling the fortress to destroy the people within.",
-      "links": "<a href='/AIV/23/29/7-8'>Isaiah 29:7-8</a>",
-      "comment": "Siege warfare and the imagery of countless multitudes draw the mind to spiritual battles faced by the faithful."
+      "text": "They met the Nabateans, who greeted them peacefully and told them everything that had happened to their fellow Jews in Gilead:",
+      "links": "",
+      "comment": "The Nabateans, an Arab people, play a neutral or supportive role here."
     },
     {
       "pk": 20005026,
@@ -335,9 +330,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 26,
-      "text": "Judas saw that the battle had begun and the outcry rose to the heavens. With trumpets and great shouting, he called upon heaven to help the people:",
-      "links": "<a href='/AIV/2/14/15-16'>Exodus 14:15-16</a>",
-      "comment": "Calling upon heaven in the midst of battle reminds us of the role of prayer and faith, especially when worldly strategies seem insufficient."
+      "text": "\"Many of your people have been trapped in Bozrah and Bosor, in Alema, Chaspho, Maked, and Carnaim—all fortified, large towns—",
+      "links": "<a href='/AIV/6/21/21'>Joshua 21:21</a>",
+      "comment": "Lists places of Jewish refuge and siege east of the Jordan."
     },
     {
       "pk": 20005027,
@@ -347,9 +342,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 27,
-      "text": "'Blessed are You, our Savior, who crushed the armies by the hand of Your servant David and delivered the Philistine camp into the power of Jonathan, the son of Saul. Grant us also now deliverance by Your mighty hand.'",
-      "links": "<a href='/AIV/9/17/49-50'>1 Samuel 17:49-50</a> <a href='/AIV/9/14/13-15'>1 Samuel 14:13-15</a>",
-      "comment": "The prayer recalls past deliverances, connecting their present plight to the enduring faithfulness of God through history."
+      "text": "\"and some are being held in the other towns of Gilead. The enemy is preparing to attack tomorrow morning and take all these strongholds, planning to destroy everyone inside in a single day.\"",
+      "links": "",
+      "comment": "The threat of a coordinated massacre raises the stakes."
     },
     {
       "pk": 20005028,
@@ -359,9 +354,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 28,
-      "text": "Then those with Judas launched an attack from outside, and as the trumpets sounded, the armies of Timotheus were routed, and he fled towards the direction of the temple at Carnaim.",
-      "links": "<a href='/AIV/7/7/19-21'>Judges 7:19-21</a>",
-      "comment": "Retreat to a pagan temple in time of crisis highlights the ultimate impotence of idols, a frequent motif in both Old and New Testaments."
+      "text": "At this, Judas and his army quickly took the wilderness road to Bozrah, attacked and conquered the town. He killed every male with the sword, took the spoils, and set the town on fire.",
+      "links": "<a href='/AIV/20/5/35'>1 Maccabees 5:35</a>",
+      "comment": "Follows the pattern of total destruction seen in other holy war stories."
     },
     {
       "pk": 20005029,
@@ -371,9 +366,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 29,
-      "text": "But the Jews captured the city and burned the temple with all inside. Thus Carnaim was subdued, and they could no longer withstand Judas.",
-      "links": "<a href='/AIV/7/6/25-28'>Judges 6:25-28</a>",
-      "comment": "Destruction of idolatrous centers reinforces the exclusive worship owed to the one God, setting a prototype for later Christian insistence on the true Temple."
+      "text": "He departed that night and reached the fortress of Dathema.",
+      "links": "",
+      "comment": "The night march enabled a surprise or urgent approach."
     },
     {
       "pk": 20005030,
@@ -383,9 +378,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 30,
-      "text": "Judas gathered all the Israelites who were in Gilead, from the smallest to the greatest, with their wives and children, and a great army to escort them to Judea.",
-      "links": "<a href='/AIV/13/15/25-28'>1 Chronicles 15:25-28</a>",
-      "comment": "The gathering ‘from the smallest to the greatest’ foreshadows Christ’s call to all, and the Church’s inclusivity, as foretold in the prophets."
+      "text": "At sunrise they saw a countless army approaching, bringing ladders and siege engines to capture the stronghold, and attacking the Jews inside.",
+      "links": "<a href='/AIV/13/17/13'>1 Chronicles 17:13</a>",
+      "comment": "The numerically superior enemy is positioned for a major assault."
     },
     {
       "pk": 20005031,
@@ -395,9 +390,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 31,
-      "text": "They reached Ephron, a large and strongly fortified city on their way. There was no way to turn aside either to the right or the left, but they had to go through.",
-      "links": "<a href='/AIV/4/20/21'>Numbers 20:21</a>",
-      "comment": "The necessity of passing through Ephron recalls Israel’s travels in Exodus and the need for perseverance when faced with obstacles."
+      "text": "Judas saw the battle had begun and heard the cries of the townspeople rising to Heaven, along with trumpets and loud calls.",
+      "links": "",
+      "comment": "Upward cries evoke appeals for divine intervention."
     },
     {
       "pk": 20005032,
@@ -407,9 +402,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 32,
-      "text": "The inhabitants refused to let them pass, and blocked the gates with stones.",
-      "links": "<a href='/AIV/6/6/1'>Joshua 6:1</a>",
-      "comment": "Hostility and closed gates symbolize resistance to God’s people, a recurring theme culminating in Christ’s promise that the gates of hell would not prevail against His Church (<a href='/AIV/40/16/18'>Matthew 16:18</a>)."
+      "text": "So he told his soldiers, \"Fight today for our brothers and sisters!\"",
+      "links": "<a href='/AIV/4/1/26'>Deuteronomy 1:26</a>",
+      "comment": "Motivating his troops by appealing to kinship and duty."
     },
     {
       "pk": 20005033,
@@ -419,9 +414,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 33,
-      "text": "Judas sent them a peaceful request, but they refused.",
-      "links": "<a href='/AIV/4/21/22-24'>Numbers 21:22-24</a>",
-      "comment": "The attempt to negotiate peace before war models a just and merciful approach, paralleling Christian just war tradition."
+      "text": "He advanced on the enemy from behind in three divisions, sounding their trumpets and calling out to God in prayer.",
+      "links": "<a href='/AIV/6/6/20'>Joshua 6:20</a>",
+      "comment": "Battle formation and prayer demonstrate both strategy and reliance on God."
     },
     {
       "pk": 20005034,
@@ -431,9 +426,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 34,
-      "text": "So Judas ordered a proclamation to be made throughout the army that everyone should lodge where they were.",
-      "links": "<a href='/AIV/6/8/10'>Joshua 8:10</a>",
-      "comment": "Organizational care and discipline in the camp were essential, reflecting the importance of order within God’s people."
+      "text": "When Timothy's army realized it was Maccabeus, they ran away in panic. He struck them hard—up to eight thousand died that day.",
+      "links": "",
+      "comment": "Judas's reputation contributed to his enemies' fear and defeat."
     },
     {
       "pk": 20005035,
@@ -443,9 +438,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 35,
-      "text": "The soldiers prepared for battle, and Judas prayed and attacked the city by night. He captured it, killing every male by sword, destroyed it, took the spoils, and led all his people safely through.",
-      "links": "<a href='/AIV/6/8/1-29'>Joshua 8:1-29</a>",
-      "comment": "Judas' night attack and prayer prior to battle highlight a blending of faith and action that is continuously recommended throughout the Scriptures."
+      "text": "Then Judas turned aside to Maapha, attacked it, conquered it, killed every man, looted it, and set it on fire.",
+      "links": "",
+      "comment": "A pattern of total destruction against hostile cities."
     },
     {
       "pk": 20005036,
@@ -455,9 +450,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 36,
-      "text": "They crossed the Jordan into the great plain opposite Beth-shan.",
-      "links": "<a href='/AIV/9/31/10-12'>1 Samuel 31:10-12</a>",
-      "comment": "Beth-shan is a site of both triumph and tragedy in Israel’s story—a reminder that God’s people are called to remember and redeem all that history holds."
+      "text": "From there he advanced and also seized Chaspho, Maked, Bosor, and the other cities of Gilead.",
+      "links": "",
+      "comment": "Lists the successful conquests in Gilead."
     },
     {
       "pk": 20005037,
@@ -467,9 +462,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 37,
-      "text": "Judas was gathering the stragglers and encouraging the people all the way as they came to Judea.",
-      "links": "<a href='/AIV/10/19/11-15'>2 Samuel 19:11-15</a>",
-      "comment": "The image of a leader shepherding and encouraging the people reflects biblical shepherd imagery fulfilled in Christ, the Good Shepherd."
+      "text": "After these events, Timothy raised a new army and set up camp opposite Raphon, across the stream.",
+      "links": "",
+      "comment": "Timothy quickly regroups; Raphon likely east of the Jordan."
     },
     {
       "pk": 20005038,
@@ -479,9 +474,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 38,
-      "text": "They went up to Mount Zion with joy and gladness, offering burnt offerings because not one of them was lost in the journey.",
-      "links": "<a href='/AIV/19/122/1-4'>Psalm 122:1-4</a> <a href='/AIV/43/17/12'>John 17:12</a>",
-      "comment": "Rejoicing at not losing any matches Jesus’ words in John 17:12, 'none of those You gave me have I lost,' hinting at both preservation in faith and Christ’s care."
+      "text": "Judas sent scouts to spy on their camp, who reported, \"All the Gentiles in the area have joined Timothy—a huge force.",
+      "links": "",
+      "comment": "Use of scouts shows advanced military tactics."
     },
     {
       "pk": 20005039,
@@ -491,9 +486,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 39,
-      "text": "They have also hired Arabs to help them, and they are encamped across the stream, ready to come and fight against you.\" So Judas went to meet them.",
-      "links": "<a href='/AIV/9/14/47'>1 Samuel 14:47</a>",
-      "comment": "The actions of leaders in the absence of the main army foreshadow later ecclesiastical tradition, where cooperation and humility among leaders are vital."
+      "text": "\"They've also hired Arabs for support. The enemy is camped across the stream, ready to battle you.\" Judas marched to confront them.",
+      "links": "",
+      "comment": "Highlights use of mercenaries and regional alliances."
     },
     {
       "pk": 20005040,
@@ -503,9 +498,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 40,
-      "text": "Now as Judas and his army drew near to the stream of water, Timothy said to the officers of his forces, 'If he crosses over to us first, we will not be able to withstand him, for he will surely defeat us.'",
-      "links": "<a href='/AIV/1/11/4'>Genesis 11:4</a>",
-      "comment": "The motivation 'to make a name' is reminiscent of Babel (Genesis 11:4) and can be read as a warning against prideful ambition, pointing to God’s desire for faithfully humble leaders."
+      "text": "As Judas and his army approached the stream, Timothy said to his officers, \"If Judas crosses over first, we can’t withstand him—he'll win.",
+      "links": "",
+      "comment": "Shows Timothy's fear and psychological assessment of the encounter."
     },
     {
       "pk": 20005041,
@@ -515,9 +510,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 41,
-      "text": "\"But if he shows fear and camps on the other side of the river, we will cross over to him and defeat him.\"",
-      "links": "<a href='/AIV/6/2/9'>Josh. 2:9</a>; <a href='/AIV/7/7/10'>Judg. 7:10-11</a>; <a href='/AIV/5/20/8'>Deut. 20:8</a>",
-      "comment": "The strategic assessment reflects ancient military tactics; the confidence expressed suggests reliance on courage and faith over numbers, a theme found in Judges 7 with Gideon's victory."
+      "text": "But if he's hesitant and makes camp on the other side, then we'll cross over and defeat him.\"",
+      "links": "",
+      "comment": "A plan based on predicting the enemy leader’s resolve."
     },
     {
       "pk": 20005042,
@@ -527,9 +522,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 42,
-      "text": "When Judas approached the stream of water, he stationed the officers of the army at the stream and gave them this command: \"Permit no one to encamp, but make them all enter the battle.\"",
-      "links": "<a href='/AIV/2/14/13'>Exod. 14:13</a>; <a href='/AIV/7/7/18'>Judg. 7:18</a>; <a href='/AIV/9/17/47'>1Sam. 17:47</a>",
-      "comment": "Judas’s command for immediate engagement rather than encampment demonstrates both his bold leadership and the necessity of decisiveness for victory."
+      "text": "When Judas neared the stream, he stationed army officers there and commanded, \"Don't let anyone stop—everyone must cross for battle.\"",
+      "links": "",
+      "comment": "Demonstrates Judas’s determination to press the attack."
     },
     {
       "pk": 20005043,
@@ -539,9 +534,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 43,
-      "text": "Then he crossed over against them first, and the whole army followed him. All the Gentiles were defeated before him, and they threw away their arms and fled into the sacred precincts at Carnaim.",
-      "links": "<a href='/AIV/6/10/10'>Josh. 10:10</a>; <a href='/AIV/9/7/10'>1Sam. 7:10-11</a>; <a href='/AIV/21/12/21'>2Macc. 12:21</a>",
-      "comment": "The rout of the Gentiles and Judas's personal lead into battle recall earlier Israelite victories attributed to divine favor and leader initiative, such as Joshua at Jericho."
+      "text": "He himself led the charge across first, and the whole force followed. They defeated all the Gentile forces, who threw away their weapons and fled into the temple at Carnaim.",
+      "links": "",
+      "comment": "The enemy seeks sanctuary after being routed."
     },
     {
       "pk": 20005044,
@@ -551,9 +546,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 44,
-      "text": "But he took the town and burned the sacred precincts with fire, together with all who were in them. Thus Carnaim was conquered; they could stand before Judas no longer.",
-      "links": "<a href='/AIV/5/7/5'>Deut. 7:5</a>; <a href='/AIV/7/6/25'>Judg. 6:25-28</a>; <a href='/AIV/12/10/27'>2Kgs. 10:27</a>",
-      "comment": "The burning of Carnaim’s sacred precincts signifies not only military triumph but also the symbolic destruction of idolatry, paralleling Deuteronomy 12:3's instructions to destroy pagan shrines."
+      "text": "Judas captured the city and burned the temple with everyone inside. That’s how Carnaim fell; after this, no one could stand against Judas.",
+      "links": "",
+      "comment": "This destruction signals the complete supremacy of Judas over these foes."
     },
     {
       "pk": 20005045,
@@ -563,9 +558,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 45,
-      "text": "But the citizens of Ephron shut them out and blocked the gates with stones.",
-      "links": "<a href='/AIV/19/118/19'>Psalm 118:19</a>",
-      "comment": "The closed gates represent opposition to God's people, reminiscent of the siege of Jericho and Psalmist prayer for open gates of righteousness."
+      "text": "Judas gathered every Israelite in Gilead, young and old, with their wives, children, and possessions—a very large group—to lead them back to Judah.",
+      "links": "<a href='/AIV/2/12/37'>Exodus 12:37</a>",
+      "comment": "Echoes the Exodus as a people are led to safety."
     },
     {
       "pk": 20005046,
@@ -575,9 +570,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 46,
-      "text": "Judas sent word to them with peaceable intentions, saying, 'Let us cross through your land to reach our own. No one will do you harm; we only want to pass through on foot.' But they would not open to him.",
-      "links": "<a href='/AIV/4/20/17-18'>Numbers 20:17-18</a>",
-      "comment": "Judas echoes Moses' request of Edom. The refusal is a historical motif of opposition to God's chosen, emphasizing both justice and patience."
+      "text": "When they came to Ephron—a fortified, large city on their route—they found it impossible to bypass either on the right or left; they had to pass through it.",
+      "links": "",
+      "comment": "The city blocks the Israelites’ return route."
     },
     {
       "pk": 20005047,
@@ -587,9 +582,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 47,
-      "text": "So Judas commanded it to be proclaimed throughout the army that each man should encamp where he was.",
-      "links": "<a href='/AIV/7/6/11'>Judges 6:11</a>",
-      "comment": "Judas shows restraint, seeking order before escalation. Obedience to the leader here is vital for their survival and unity."
+      "text": "But the townspeople had shut them out and barricaded the gates with stones.",
+      "links": "",
+      "comment": "The city’s resistance presents a final roadblock."
     },
     {
       "pk": 20005048,
@@ -599,9 +594,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 48,
-      "text": "The men of the army took their positions, and Judas fought against the city all day and night, and it was delivered into his hands.",
-      "links": "<a href='/AIV/6/6/20'>Joshua 6:20</a>",
-      "comment": "The victory after patient striving mirrors Joshua’s conquest at Jericho—faith leading to decisive outcome."
+      "text": "Judas sent a peaceful message: \"Let us pass through your land on our way home. We won’t harm anyone; we’ll travel only by foot.\" But they would not open the gates.",
+      "links": "",
+      "comment": "Judas offers assurances, but the city remains hostile."
     },
     {
       "pk": 20005049,
@@ -611,9 +606,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 49,
-      "text": "He destroyed all the males with the sword, razed the city, and took all its spoils. Then he passed through the city over the slain.",
-      "links": "<a href='/AIV/7/15/33-34'>Judges 15:33-34</a>",
-      "comment": "The destruction underscores total judgment, a recurring motif of God's justice, while the passage over the fallen is symbolic of victory and triumph."
+      "text": "Judas then ordered his soldiers to set camp where they were.",
+      "links": "",
+      "comment": "A siege situation develops."
     },
     {
       "pk": 20005050,
@@ -623,9 +618,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 50,
-      "text": "Then they crossed the Jordan into the great plain near Beth-shan.",
-      "links": "<a href='/AIV/6/17/11'>Joshua 17:11</a>",
-      "comment": "Passing the Jordan is tied to Israel’s entry into promise, echoing themes of journey and restoration for the faithful."
+      "text": "The forces camped, and Judas fought against the city all that day and night, until he took it.",
+      "links": "",
+      "comment": "Persistent assault leads to success."
     },
     {
       "pk": 20005051,
@@ -635,9 +630,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 51,
-      "text": "Judas began gathering together all the stragglers, encouraging them and strengthening them, until they came to Judea rejoicing.",
-      "links": "<a href='/AIV/23/35/10'>Isaiah 35:10</a>",
-      "comment": "Encouragement and rejoicing upon return foreshadow messianic restoration and ultimate joy for the redeemed."
+      "text": "He put every male to the sword, destroyed and plundered the city, and passed through over the bodies of the dead.",
+      "links": "",
+      "comment": "Total warfare as a warning and practical measure."
     },
     {
       "pk": 20005052,
@@ -647,9 +642,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 52,
-      "text": "The journey home was blessed; no one fell or was lost among all the people whom he gathered out of Gilead and the territory of Israel.",
-      "links": "<a href='/AIV/19/121/7-8'>Psalm 121:7-8</a>",
-      "comment": "Not one lost reflects divine protection, echoing the Good Shepherd theme (cf. John 10:28) and spiritual security under faithful leadership."
+      "text": "They then crossed the Jordan River into the great plain before Beth-shan.",
+      "links": "<a href='/AIV/7/17/11'>Judges 17:11</a>",
+      "comment": "Beth-shan was a known strategic site near the Jordan."
     },
     {
       "pk": 20005053,
@@ -659,9 +654,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 53,
-      "text": "Now Judas and Jonathan were in Galilee, and Simon his brother was in Galilee before them, fighting to deliver their people.",
-      "links": "<a href='/AIV/43/2/1'>John 2:1</a>",
-      "comment": "The involvement of multiple brothers in rescue is reminiscent of Christ’s sending of apostles throughout Israel, preparing for the fullness of deliverance."
+      "text": "Judas pressed the stragglers forward and encouraged everyone until they reached the land of Judah.",
+      "links": "",
+      "comment": "Judas’s leadership extends to keeping everyone together on the journey."
     },
     {
       "pk": 20005054,
@@ -671,9 +666,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 54,
-      "text": "Simon fought against the inhabitants of Ptolemais, and the citizens came out of the city against him with a great force.",
-      "links": "<a href='/AIV/6/10/1'>Joshua 10:1</a>",
-      "comment": "Opposition to the righteous by a ‘great force’ emphasizes the spiritual reality of conflict and the necessity of steadfast courage."
+      "text": "With joy and gladness, they climbed Mount Zion and offered burnt sacrifices, giving thanks that they all returned in safety; not one of them was lost.",
+      "links": "<a href='/AIV/19/126/1-3'>Psalm 126:1-3</a>",
+      "comment": "A celebratory homecoming; thanksgiving sacrifices mark deliverance."
     },
     {
       "pk": 20005055,
@@ -683,9 +678,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 55,
-      "text": "Simon and his men fought them, and he struck them with many wounds and pursued them to the gates.",
-      "links": "<a href='/AIV/19/118/19-20'>Psalm 118:19-20</a>",
-      "comment": "Pursuing to the gates again recalls the repeated Scripture theme of siege and salvation. Gates symbolize the threshold between oppression and freedom."
+      "text": "While Judas and Jonathan were still in Gilead, and Simon was in Galilee near Ptolemais,",
+      "links": "",
+      "comment": "Places each commander during the ongoing campaigns.",
+      "sectionHeader": "Defeat of Joseph and Azariah"
     },
     {
       "pk": 20005056,
@@ -695,9 +691,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 56,
-      "text": "Many of them fell on that day, and Simon took the spoils from them.",
-      "links": "<a href='/AIV/6/11/14'>Joshua 11:14</a>",
-      "comment": "The spoils taken represent both material reward and the restoration of what was lost to God’s people."
+      "text": "Joseph, son of Zechariah, and Azariah, the army commanders, heard of the brave feats and the battles Judas’s family had fought.",
+      "links": "",
+      "comment": "The deeds of the Maccabees inspire those left in charge."
     },
     {
       "pk": 20005057,
@@ -707,9 +703,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 57,
-      "text": "So they said, \"Let us also make a name for ourselves; let us go and make war on the Gentiles around us.\"",
-      "links": "<a href='/AIV/1/11/4'>Gen. 11:4</a>; <a href='/AIV/10/8/13'>2Sam. 8:13</a>; <a href='/AIV/20/3/43'>1Macc. 3:43</a>",
-      "comment": "This desire for renown reflects both human ambition and a lapse into self-reliance, contrasting with earlier reliance on God's deliverance."
+      "text": "They said to themselves, \"Let’s make a name for ourselves too by attacking the surrounding Gentiles.\"",
+      "links": "",
+      "comment": "Shows the desire for glory—possibly pride or ambition."
     },
     {
       "pk": 20005058,
@@ -719,10 +715,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 58,
-      "text": "So they issued orders to the men of the forces that were with them and marched against Jamnia.",
-      "links": "<a href='/AIV/9/23/1'>1Sam. 23:1-2</a>; <a href='/AIV/21/12/8'>2Macc. 12:8</a>; <a href='/AIV/6/15/56'>Josh. 15:56</a>",
-      "comment": "The campaign against Jamnia signals a proactive phase in the revolt, extending the conflict into Gentile-held territories and invoking the conquest motif from Israel’s earlier history.",
-      "sectionHeader": "Cleansing and Rededication of the Sanctuary"
+      "text": "So they gave the order to their troops and marched against Jamnia.",
+      "links": "",
+      "comment": "Their initiative was not in obedience to Judas’s instructions."
     },
     {
       "pk": 20005059,
@@ -732,9 +727,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 59,
-      "text": "Gorgias and his men came out of the town to meet them in battle.",
-      "links": "<a href='/AIV/20/3/38'>1Macc. 3:38</a>; <a href='/AIV/21/12/32'>2Macc. 12:32</a>; <a href='/AIV/9/17/4'>1Sam. 17:4</a>",
-      "comment": "Gorgias, a recurring figure opposing the Maccabees, represents ongoing Greek resistance to Jewish autonomy."
+      "text": "But Gorgias and his men came out from the town and gave them battle.",
+      "links": "",
+      "comment": "Gorgias was a known Seleucid commander."
     },
     {
       "pk": 20005060,
@@ -744,9 +739,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 60,
-      "text": "Then Joseph and Azariah were routed, and were pursued to the borders of Judea; as many as two thousand of the people of Israel fell that day.",
-      "links": "<a href='/AIV/3/26/17'>Lev. 26:17</a>; <a href='/AIV/5/28/25'>Deut. 28:25</a>; <a href='/AIV/6/7/5'>Josh. 7:5</a>",
-      "comment": "The defeat and heavy losses suffered by Joseph and Azariah warn against presumptuous action and underline the importance of legitimate leadership."
+      "text": "Joseph and Azariah’s forces were defeated and chased all the way to the borders of Judea. About two thousand Israelites died that day.",
+      "links": "",
+      "comment": "Acting independently brought disaster."
     },
     {
       "pk": 20005061,
@@ -756,9 +751,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 61,
-      "text": "Thus the people suffered a great rout because, thinking to do a brave deed, they did not listen to Judas and his brothers.",
-      "links": "<a href='/AIV/24/21/30'>Prov. 21:30</a>; <a href='/AIV/4/14/41'>Num. 14:41-45</a>; <a href='/AIV/7/20/21'>Judg. 20:21</a>",
-      "comment": "Failure is attributed to acting apart from the guidance of Judas, identifying obedience and communal unity as vital to Israel’s preservation, echoing themes from Numbers 14."
+      "text": "So the people suffered a crushing defeat, because instead of obeying Judas and his brothers, they tried to win glory for themselves.",
+      "links": "",
+      "comment": "Lack of obedience resulted in calamity, as in many biblical narratives."
     },
     {
       "pk": 20005062,
@@ -768,9 +763,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 62,
-      "text": "But they did not belong to the family of those men through whom deliverance was given to Israel.",
-      "links": "<a href='/AIV/7/7/2'>Judg. 7:2</a>; <a href='/AIV/23/44/3'>Ps. 44:3</a>; <a href='/AIV/53/1/27'>1Cor. 1:27-29</a>",
-      "comment": "The distinction drawn here locates deliverance through divinely-appointed leaders, reflecting a theology of vocation and God's sovereignty in raising deliverers (cf. Judges 2:16)."
+      "text": "They did not belong to the kind of men through whom God granted deliverance to Israel.",
+      "links": "",
+      "comment": "Only special, chosen leaders brought true victory."
     },
     {
       "pk": 20005063,
@@ -780,9 +775,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 63,
-      "text": "Then he turned toward the land of the Philistines and passed through Marisa.",
-      "links": "<a href='/AIV/9/13/17'>Judges 13:17</a>",
-      "comment": "Passing through Philistine territory ties Judas’ exploits to Israel’s historic battles, showing continuity in the struggle for the promised land."
+      "text": "But Judas and his brothers were greatly honored throughout Israel and among the surrounding nations, wherever their names were known.",
+      "links": "",
+      "comment": "Their renown spread for military prowess and leadership."
     },
     {
       "pk": 20005064,
@@ -792,9 +787,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 64,
-      "text": "People gathered to them and praised them.",
-      "links": "<a href='/AIV/9/18/6'>1Sam. 18:6-7</a>; <a href='/AIV/14/13/12'>2Chr. 13:12</a>; <a href='/AIV/23/44/8'>Ps. 44:8</a>",
-      "comment": "Popular acclaim gathers around Judas and his brothers, affirming them as God’s instruments, a dynamic seen with other biblical leaders such as David (1 Samuel 18:7)."
+      "text": "People flocked to them, giving praise and admiration.",
+      "links": "",
+      "comment": "The Maccabees’ fame attracted supporters."
     },
     {
       "pk": 20005065,
@@ -804,9 +799,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 65,
-      "text": "Judas marched for Azotus, in the land of the Philistines, and destroyed their altars, idols, and burned their carved images. He captured the city and returned into Judea.",
-      "links": "<a href='/AIV/7/6/25'>Judges 6:25</a>, <a href='/AIV/23/2/18'>Isaiah 2:18</a>",
-      "comment": "Destroying idols and altars is an echo of Gideon's actions, and points toward the spiritual call for purity in worship and the removal of false gods."
+      "text": "Then Judas and his brothers went out to fight against the descendants of Esau in southern territory. He struck at Hebron and its surrounding villages, destroyed its fortresses, and set fire to the towers on every side.",
+      "links": "",
+      "comment": "Judas continues his campaigns to secure Judah’s borders.",
+      "sectionHeader": "Final Campaigns in the South and the Philistine Plain"
     },
     {
       "pk": 20005066,
@@ -816,9 +812,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 66,
-      "text": "Then he marched off to go into the land of the Philistines, and passed through Marisa.",
-      "links": "<a href='/AIV/6/15/44'>Josh. 15:44</a>; <a href='/AIV/7/14/1'>Judg. 14:1</a>; <a href='/AIV/9/6/17'>1Sam. 6:17</a>",
-      "comment": "Judas's incursion into Philistine territory recalls ancient Israelite-Philistine conflict and the expansion of Jewish resistance beyond traditional borders."
+      "text": "He then marched into the land of the Philistines, passing through Marisa.",
+      "links": "",
+      "comment": "Judas advances into new enemy territory."
     },
     {
       "pk": 20005067,
@@ -828,10 +824,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 67,
-      "text": "On that day some priests, who wished to do a brave deed, fell in battle, for they went out to battle unwisely.",
-      "links": "<a href='/AIV/4/14/44'>Num. 14:44-45</a>; <a href='/AIV/7/20/21'>Judg. 20:21</a>; <a href='/AIV/13/5/18'>1Chr. 5:18-22</a>",
-      "comment": "The fall of zealous priests in battle suggests that bravery must be coupled with wisdom and proper authorization, resonant with the fate of unauthorized actors in Numbers 16.",
-      "sectionHeader": "Return in Triumph and Thanksgiving"
+      "text": "On that day, some priests, eager to display heroic courage, fell in battle because they went out to fight recklessly.",
+      "links": "",
+      "comment": "A cautionary note—zeal must be tempered with wisdom."
     },
     {
       "pk": 20005068,
@@ -841,11 +836,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 5,
       "verse": 68,
-      "text": "But Judas turned aside to Azotus in the land of the Philistines; he tore down their altars, and the carved images of their gods he burned with fire; he plundered the towns and returned to the land of Judah.",
-      "links": "<a href='/AIV/2/23/24'>Exod. 23:24</a>; <a href='/AIV/5/12/3'>Deut. 12:3</a>; <a href='/AIV/14/14/3'>2Chr. 14:3</a>",
-      "comment": "Judas’s destruction of Philistine idols and altars reaffirms the theme of exclusive fidelity to the God of Israel and the eradication of idolatry, recurring throughout the Deuteronomistic history.",
-      "sectionHeader": "Israel’s Peace and Restoration"
+      "text": "Judas then turned aside to Azotus, in Philistine territory. He destroyed their altars, burned up the images of their gods, plundered the towns, and returned to Judea.",
+      "links": "",
+      "comment": "This demolition of pagan shrines closes the campaign, echoing earlier biblical models of eliminating idolatry."
     }
   ],
-  "translatedAt": "2025-12-28T23:41:43.301Z"
+  "translatedAt": "2026-01-01T21:32:06.707Z"
 }

@@ -448,25 +448,13 @@
       "bookName": "Acts",
       "bookAbbreviation": "Acts",
       "chapter": 8,
-      "verse": 37,
-      "text": "",
-      "links": "<a href='/AIV/47/16/16'>Matt. 16:16</a>; <a href='/AIV/52/10/9'>Rom. 10:9</a>; <a href='/AIV/69/4/15'>1John. 4:15</a>",
-      "comment": "This verse does not appear in the RSVCE and is omitted in accordance with the referenced translation."
-    },
-    {
-      "pk": 51008038,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 8,
       "verse": 38,
       "text": "He ordered the chariot to stop; both Philip and the eunuch went down into the water, and Philip baptized him.",
       "links": "<a href='/AIV/51/8/12'>Acts 8:12</a>; <a href='/AIV/51/9/18'>Acts 9:18</a>",
       "comment": "Physical immersion for baptism mirrors the early Church’s sacramental practice, marking full initiation into the faith community."
     },
     {
-      "pk": 51008039,
+      "pk": 51008038,
       "translation": "AIV",
       "book": 51,
       "bookName": "Acts",
@@ -478,7 +466,7 @@
       "comment": "Philip’s sudden departure emphasizes the mysterious, sovereign work of the Spirit and the lasting joy that follows true incorporation into Christ."
     },
     {
-      "pk": 51008040,
+      "pk": 51008039,
       "translation": "AIV",
       "book": 51,
       "bookName": "Acts",
@@ -490,7 +478,7 @@
       "comment": "Philip’s continued missionary journey models enduring evangelism, connecting regions through the spread of the one apostolic faith."
     }
   ],
-  "translatedAt": "2025-12-29T00:32:59.869Z",
+  "translatedAt": "2026-01-02T03:42:37.462Z",
   "sections": [
     {
       "title": "Persecution and Scattering of the Church",

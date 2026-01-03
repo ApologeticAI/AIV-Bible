@@ -628,9 +628,9 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 52,
-      "text": "Then the three, as with one mouth, praised and glorified and blessed God in the furnace, saying:",
+      "text": "Blessed are you, O Lord, God of our ancestors, and to be praised and highly exalted forever; And blessed is your glorious, holy name, and to be highly praised and highly exalted forever.",
       "links": "<a href='/AIV/23/103/1'>Ps. 103:1</a>; <a href='/AIV/23/33/1'>Ps. 33:1</a>; <a href='/AIV/73/19/6'>Rev. 19:6</a>",
-      "comment": "Corporate, united praise in adversity demonstrates the biblical model for communal worship.",
+      "comment": "This verse opens the Song of the Three with an invocation that links the God of the present with Israel’s ancestors, emphasizing both continuity with the covenant and the transcendence of God’s holy name. The poetic doubling and intensification (“praised and highly exalted forever”) reflect the Hebrew approach to parallelism in worship.",
       "sectionHeader": "The Song of the Three Young Men"
     },
     {
@@ -737,7 +737,7 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 61,
-      "text": "'Bless the Lord, all you waters above the sky, sing praise to him and highly exalt him forever.'",
+      "text": "'Bless the Lord, all you waters above the heavens; sing praise to him and highly exalt him forever.'",
       "links": "<a href='/AIV/1/1/7'>Gen. 1:7</a>",
       "comment": "This call for the waters above the heavens to bless God reflects ancient Hebrew cosmology (Gen 1:6–7) and the unity of all creation in praise."
     },
@@ -821,7 +821,7 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 68,
-      "text": "'Bless the Lord, cold and chill, sing praise to him and highly exalt him forever.'",
+      "text": "'Bless the Lord, dews and falling snow; sing praise to him and highly exalt him forever.'",
       "links": "<a href='/AIV/23/147/16'>Ps. 147:16-17</a>; <a href='/AIV/22/37/10'>Job. 37:10</a>; <a href='/AIV/23/148/8'>Ps. 148:8</a>",
       "comment": "Cold and chill serve as further witnesses to God's greatness, emphasizing the breadth of creation’s call to worship."
     },
@@ -833,7 +833,7 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 69,
-      "text": "'Bless the Lord, dew and snow, sing praise to him and highly exalt him forever.'",
+      "text": "'Bless the Lord, ice and cold; sing praise to him and highly exalt him forever.'",
       "links": "<a href='/AIV/22/38/22'>Job. 38:22-23</a>; <a href='/AIV/23/147/16'>Ps. 147:16</a>; <a href='/AIV/23/148/8'>Ps. 148:8</a>",
       "comment": "Even dew and snow, familiar elements in the ancient Near East, are summoned to participate in the cosmic praise."
     },
@@ -869,7 +869,7 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 72,
-      "text": "'Bless the Lord, ice and frost, sing praise to him and highly exalt him forever.'",
+      "text": "'Bless the Lord, light and darkness; sing praise to him and highly exalt him forever.'",
       "links": "<a href='/AIV/23/147/17'>Ps. 147:17</a>; <a href='/AIV/22/38/29'>Job. 38:29</a>; <a href='/AIV/23/148/8'>Ps. 148:8</a>",
       "comment": "Ice and frost, adverse and sometimes dangerous phenomena, are included, indicating nothing in creation is outside God’s dominion."
     },
@@ -881,9 +881,9 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 73,
-      "text": "'Bless the Lord, frost and cold, sing praise to him and highly exalt him forever.'",
+      "text": "'Bless the Lord, lightnings and clouds; sing praise to him and highly exalt him forever.'",
       "links": "<a href='/AIV/23/147/17'>Ps. 147:17</a>; <a href='/AIV/22/38/29'>Job. 38:29</a>; <a href='/AIV/23/148/8'>Ps. 148:8</a>",
-      "comment": "Again, frost and cold are called to bless, reinforcing the totality of creation’s response to God."
+      "comment": "Corrected to 'lightnings and clouds' from Greek 'ἀστραπαὶ καὶ νεφέλαι,' matching canonical versions."
     },
     {
       "pk": 34003074,
@@ -893,9 +893,9 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 74,
-      "text": "'Bless the Lord, hoarfrost and snow, sing praise to him and highly exalt him forever.'",
+      "text": "Let the earth bless the Lord; let it sing praise to him and highly exalt him forever.",
       "links": "<a href='/AIV/23/147/16'>Ps. 147:16</a>; <a href='/AIV/22/38/29'>Job. 38:29</a>; <a href='/AIV/23/148/8'>Ps. 148:8</a>",
-      "comment": "Hoarfrost and snow’s inclusion further illustrates how every aspect of the natural world testifies to and glorifies its Maker."
+      "comment": "This verse shifts to a direct imperative, inviting all of creation—the earth itself—to join in the unending praise of the Lord, emphasizing the universal scope of worship."
     },
     {
       "pk": 34003075,
@@ -905,9 +905,9 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 75,
-      "text": "'Bless the Lord, nights and days, sing praise to him and highly exalt him forever.'",
+      "text": "Bless the Lord, mountains and hills; sing praise to him and highly exalt him forever.",
       "links": "<a href='/AIV/23/74/16'>Ps. 74:16</a>; <a href='/AIV/1/1/5'>Gen. 1:5</a>; <a href='/AIV/23/148/8'>Ps. 148:8</a>",
-      "comment": "Repeating nights and days stresses perpetual praise—creation's worship is unceasing and cyclical."
+      "comment": "The invocation shifts from cosmic elements to topographical features, inviting mountains and hills—symbols of grandeur—to join the litany of creation’s praise."
     },
     {
       "pk": 34003076,
@@ -917,9 +917,9 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 76,
-      "text": "'Bless the Lord, light and darkness, sing praise to him and highly exalt him forever.'",
+      "text": "Bless the Lord, all that grows in the ground; sing praise to him and highly exalt him forever.",
       "links": "<a href='/AIV/1/1/4'>Gen. 1:4</a>; <a href='/AIV/23/148/8'>Ps. 148:8</a>",
-      "comment": "Repetition of light and darkness underscores the point that every condition of existence glorifies God."
+      "comment": "Vegetation—plants and crops—that cover the earth are summoned, acknowledging the breadth of God’s creative act and provision."
     },
     {
       "pk": 34003077,
@@ -929,9 +929,9 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 77,
-      "text": "'Bless the Lord, lightning and clouds, sing praise to him and highly exalt him forever.'",
+      "text": "Bless the Lord, you springs; sing praise to him and highly exalt him forever.",
       "links": "<a href='/AIV/23/148/8'>Ps. 148:8</a>; <a href='/AIV/2/19/16'>Exod. 19:16</a>; <a href='/AIV/33/1/13'>Ezek. 1:13-14</a>",
-      "comment": "Lightning and clouds, visible signs of divine power, are recognized as subjects of God and instruments of His praise."
+      "comment": "Vital sources of water in ancient life, springs are personified as giving continual praise, emphasizing their life-sustaining role and God’s generosity."
     },
     {
       "pk": 34003078,
@@ -941,9 +941,9 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 78,
-      "text": "'Let the earth bless the Lord, sing praise to him and highly exalt him forever.'",
+      "text": "Bless the Lord, seas and rivers; sing praise to him and highly exalt him forever.",
       "links": "<a href='/AIV/19/24/1'>Ps. 24:1</a>",
-      "comment": "The earth itself is called to bless the Lord, uniting all creation in recognition of His sovereignty (cf. Ps 148:7)."
+      "comment": "Bodies of water, diverse and powerful, are called to worship, illustrating the totality of creation’s participation in exalting God."
     },
     {
       "pk": 34003079,
@@ -953,9 +953,9 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 79,
-      "text": "'Bless the Lord, mountains and hills, sing praise to him and highly exalt him forever.'",
+      "text": "Bless the Lord, you whales and all that swim in the waters; sing praise to him and highly exalt him forever.",
       "links": "<a href='/AIV/23/148/9'>Ps. 148:9</a>; <a href='/AIV/23/65/6'>Ps. 65:6</a>; <a href='/AIV/23/104/32'>Ps. 104:32</a>",
-      "comment": "Mountains and hills, longstanding symbols of stability and grandeur, join the chorus of cosmic praise."
+      "comment": "Sea creatures—whales as archetypes of the depths—are invoked to join the universal chorus, affirming God’s dominion over all living things."
     },
     {
       "pk": 34003080,
@@ -965,9 +965,9 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 80,
-      "text": "'Bless the Lord, all things growing on the earth, sing praise to him and highly exalt him forever.'",
+      "text": "Bless the Lord, all birds of the air; sing praise to him and highly exalt him forever.",
       "links": "<a href='/AIV/1/1/11'>Gen. 1:11-12</a>; <a href='/AIV/23/104/14'>Ps. 104:14</a>; <a href='/AIV/23/148/9'>Ps. 148:9</a>",
-      "comment": "All vegetation—sources of life and sustenance—are included, underscoring God’s provision and creativity."
+      "comment": "Birds, omnipresent and symbolic of freedom, are gathered in the hymn, representing the worship of all flying creatures."
     },
     {
       "pk": 34003081,
@@ -977,9 +977,9 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 81,
-      "text": "'Bless the Lord, springs of water, sing praise to him and highly exalt him forever.'",
+      "text": "Bless the Lord, all wild animals and cattle; sing praise to him and highly exalt him forever.",
       "links": "<a href='/AIV/23/104/10'>Ps. 104:10</a>; <a href='/AIV/23/147/18'>Ps. 147:18</a>; <a href='/AIV/23/148/8'>Ps. 148:8</a>",
-      "comment": "Springs, vital in arid climates, highlight God’s sustenance and ongoing provision for life."
+      "comment": "The scope includes all terrestrial animals, both untamed and domesticated, recognizing the entirety of animate creation."
     },
     {
       "pk": 34003082,
@@ -989,9 +989,9 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 82,
-      "text": "'Bless the Lord, seas and rivers, sing praise to him and highly exalt him forever.'",
+      "text": "Bless the Lord, all people on earth; sing praise to him and highly exalt him forever.",
       "links": "<a href='/AIV/23/104/25'>Ps. 104:25</a>; <a href='/AIV/22/38/16'>Job. 38:16</a>; <a href='/AIV/23/148/7'>Ps. 148:7</a>",
-      "comment": "Seas and rivers, powerful and mysterious in ancient thought, are directed to praise the Creator, not to be feared or worshiped themselves."
+      "comment": "The focus shifts to humanity, calling every person to unite in praise of God, showing creation’s climax in human worship."
     },
     {
       "pk": 34003083,
@@ -1001,9 +1001,9 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 83,
-      "text": "'Bless the Lord, you whales and all that move in the waters, sing praise to him and highly exalt him forever.'",
+      "text": "Bless the Lord, O Israel; sing praise to him and highly exalt him forever.",
       "links": "<a href='/AIV/23/148/7'>Ps. 148:7</a>; <a href='/AIV/1/1/20'>Gen. 1:20-21</a>; <a href='/AIV/23/104/26'>Ps. 104:26</a>",
-      "comment": "Sea creatures, including great whales (monsters of the deep in ancient myth), yield to and praise the sovereign God (cf. Ps 148:7)."
+      "comment": "Israel, God’s chosen people, are singled out with a distinct call to worship, highlighting their covenantal role in salvation history."
     },
     {
       "pk": 34003084,
@@ -1013,9 +1013,9 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 84,
-      "text": "'Bless the Lord, all birds of the air, sing praise to him and highly exalt him forever.'",
+      "text": "Bless the Lord, you priests of the Lord; sing praise to him and highly exalt him forever.",
       "links": "<a href='/AIV/1/1/20'>Gen. 1:20</a>; <a href='/AIV/23/104/12'>Ps. 104:12</a>; <a href='/AIV/23/148/10'>Ps. 148:10</a>",
-      "comment": "Birds of the air, symbols of liberty and diversity, are included in creation’s doxology."
+      "comment": "Priests—spiritual leaders—are addressed, emphasizing their special duty in offering worship and exemplifying praise for all."
     },
     {
       "pk": 34003085,
@@ -1025,9 +1025,9 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 85,
-      "text": "'Bless the Lord, all beasts and cattle, sing praise to him and highly exalt him forever.'",
+      "text": "Bless the Lord, you servants of the Lord; sing praise to him and highly exalt him forever.",
       "links": "<a href='/AIV/1/1/24'>Gen. 1:24</a>; <a href='/AIV/23/104/14'>Ps. 104:14</a>; <a href='/AIV/23/148/10'>Ps. 148:10</a>",
-      "comment": "All beasts and cattle—domesticated and wild—testify to the Lord’s creative power."
+      "comment": "The focus turns to the Lord’s servants, broadening the call to faithful ministry and obedience in honoring God."
     },
     {
       "pk": 34003086,
@@ -1037,9 +1037,9 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 86,
-      "text": "'Bless the Lord, sons of men, sing praise to him and highly exalt him forever.'",
+      "text": "Bless the Lord, spirits and souls of the righteous; sing praise to him and highly exalt him forever.",
       "links": "<a href='/AIV/1/1/26'>Gen. 1:26</a>; <a href='/AIV/23/148/11'>Ps. 148:11-12</a>; <a href='/AIV/23/8/4'>Ps. 8:4-6</a>",
-      "comment": "Humanity is called to join creation in praising God—a foretaste of the fulfillment of man’s calling in Christ."
+      "comment": "By singling out the 'spirits and souls of the righteous,' the hymn acknowledges not just mortal bodies or all humanity, but the living and departed who belong to God in righteousness, thus anticipating later Jewish and Christian understandings of the communion of saints."
     },
     {
       "pk": 34003087,
@@ -1049,9 +1049,9 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 87,
-      "text": "'Bless the Lord, Israel, sing praise to him and highly exalt him forever.'",
+      "text": "Bless the Lord, you who are holy and humble in heart; sing praise to him and highly exalt him forever.",
       "links": "<a href='/AIV/29/44/1'>Isa. 44:1</a>; <a href='/AIV/23/148/14'>Ps. 148:14</a>; <a href='/AIV/52/9/4'>Rom. 9:4</a>",
-      "comment": "Israel is called as God's covenant people to lead in and model praise, reflecting their unique relationship with God."
+      "comment": "The reference to 'holy and humble in heart' underscores the ethical and spiritual requirements for true worship, resonating with prophetic calls to humility and holiness (cf. Micah 6:8), and influencing later Christian spirituality regarding the disposition of worshippers."
     },
     {
       "pk": 34003088,
@@ -1061,9 +1061,9 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 88,
-      "text": "'Bless the Lord, you priests of the Lord, sing praise to him and highly exalt him forever.'",
+      "text": "Bless the Lord, Hananiah, Azariah, and Mishael; sing praise to him and highly exalt him forever. For he has rescued us from Hades and saved us from the power of death, and delivered us from the midst of the burning fiery furnace; from the midst of the fire he has delivered us.",
       "links": "<a href='/AIV/19/134/1'>Ps. 134:1</a>",
-      "comment": "Emphasizes the importance of a priestly order in worship, as would later be further revealed in the history of salvation."
+      "comment": "This verse functions as both a doxology and narrative aside, identifying the three faithful men by their Hebrew names and linking their deliverance to motifs of resurrection and salvation from death, themes prominent in later Jewish apocalyptic and Christian resurrection theology."
     },
     {
       "pk": 34003089,
@@ -1073,7 +1073,7 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 89,
-      "text": "'Bless the Lord, you servants of the Lord, sing praise to him and highly exalt him forever.'",
+      "text": "Give thanks to the Lord, for he is good, for his mercy endures forever.",
       "links": "<a href='/AIV/23/134/1'>Ps. 134:1</a>; <a href='/AIV/23/135/1'>Ps. 135:1-2</a>; <a href='/AIV/73/7/15'>Rev. 7:15</a>",
       "comment": "The servants of the Lord—likely priests and worshippers—are summoned as leaders of communal worship."
     },
@@ -1085,7 +1085,7 @@
       "bookAbbreviation": "Dan",
       "chapter": 3,
       "verse": 90,
-      "text": "'Bless the Lord, spirits and souls of the righteous, sing praise to him and highly exalt him forever.'",
+      "text": "All who worship the Lord, bless the God of gods, sing praise to him and give thanks to him, for his mercy endures forever.",
       "links": "<a href='/AIV/19/16/3'>Ps. 16:3</a>",
       "comment": "Acknowledges the spiritual communion of the faithful—anticipates teaching on the communion of saints."
     },
@@ -1173,45 +1173,9 @@
       "text": "Then the king promoted Shadrach, Meshach, and Abednego in the province of Babylon.",
       "links": "<a href='/AIV/34/2/48'>Dan. 2:48-49</a>; <a href='/AIV/1/41/41'>Gen. 41:41-43</a>; <a href='/AIV/19/6/10'>Esth. 6:10-11</a>",
       "comment": "The promotion is both a reward for faithfulness and evidence of God’s ability to elevate His servants even in exile."
-    },
-    {
-      "pk": 34003098,
-      "translation": "AIV",
-      "book": 34,
-      "bookName": "Daniel",
-      "bookAbbreviation": "Dan",
-      "chapter": 3,
-      "verse": 98,
-      "text": "The satraps, prefects, governors, and the king’s counselors gathered together and saw that the fire had not touched the bodies of those men, nor was the hair of their heads singed, their cloaks unchanged, and no smell of fire on them.",
-      "links": "<a href='/AIV/27/3/27'>Dan. 3:27</a>",
-      "comment": "A repetition for emphasis, highlighting the thoroughness of God’s deliverance and the collective awe it inspired among Babylon’s officials."
-    },
-    {
-      "pk": 34003099,
-      "translation": "AIV",
-      "book": 34,
-      "bookName": "Daniel",
-      "bookAbbreviation": "Dan",
-      "chapter": 3,
-      "verse": 99,
-      "text": "Nebuchadnezzar said, 'Blessed be the God of Shadrach, Meshach, and Abednego, who has sent his angel and delivered his servants that trusted in him and defied the king’s command, and yielded up their bodies rather than serve or worship any god except their own God.'",
-      "links": "<a href='/AIV/27/6/22'>Dan. 6:22</a>",
-      "comment": "The king’s acknowledgment again points to the unique power and glory of the God of Israel."
-    },
-    {
-      "pk": 34003100,
-      "translation": "AIV",
-      "book": 34,
-      "bookName": "Daniel",
-      "bookAbbreviation": "Dan",
-      "chapter": 3,
-      "verse": 100,
-      "text": "'Therefore I make a decree: that any people, nation, or language who say anything against the God of Shadrach, Meshach, and Abednego shall be torn limb from limb, and their houses laid in ruins, because there is no other god who is able to save in this way.'",
-      "links": "<a href='/AIV/27/3/29'>Dan. 3:29</a>",
-      "comment": "The story closes with broad recognition of God’s saving power. The witness of the faithful is vindicated before the world."
     }
   ],
-  "translatedAt": "2025-12-29T00:33:28.318Z",
+  "translatedAt": "2026-01-03T03:35:34.290Z",
   "sections": [
     {
       "title": "The Golden Image and the King's Decree",

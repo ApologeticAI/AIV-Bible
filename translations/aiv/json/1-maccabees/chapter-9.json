@@ -5,13 +5,23 @@
   "chapter": 9,
   "sections": [
     {
-      "title": "Jonathan Succeeds Judas",
-      "startVerse": 30,
-      "endVerse": 52
+      "title": "The Final Campaign Against Judas",
+      "startVerse": 1,
+      "endVerse": 27
     },
     {
-      "title": "The Persecution Intensifies and Jonathan is Raised Up",
-      "startVerse": 53,
+      "title": "Jonathan Becomes Leader",
+      "startVerse": 28,
+      "endVerse": 53
+    },
+    {
+      "title": "Death of Alcimus",
+      "startVerse": 54,
+      "endVerse": 72
+    },
+    {
+      "title": "Jonathan’s Rule Established",
+      "startVerse": 73,
       "endVerse": 73
     }
   ],
@@ -24,9 +34,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 1,
-      "text": "When Demetrius heard that Nicanor and his army had fallen in battle, he sent Bacchides and Alcimus again into the land of Judah, leading with them the right wing of his army.",
-      "links": "<a href='/AIV/10/3/1-7'>2 Maccabees 14:1-2</a>",
-      "comment": "Demetrius, king of the Seleucids, aims to complete the suppression of the Jewish revolt by sending two leaders—Bacchides, a military general, and Alcimus, a high priest aligned with foreign authorities. Their repeated intrusion reflects the persistent external threats to God's people."
+      "text": "When Demetrius learned that Nicanor and his army had been defeated in battle, he sent Bacchides and Alcimus into Judea again, this time together with a division from the army’s right wing.",
+      "links": "<a href='/AIV/20/7/1'>1Macc 7:1</a>",
+      "comment": "Demetrius is the Seleucid king mentioned earlier, and this deployment marks another attempt to crush the Jewish resistance. The right wing of the army typically signifies a strong, elite force.",
+      "sectionHeader": "The Final Campaign Against Judas"
     },
     {
       "pk": 20009002,
@@ -36,9 +47,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 2,
-      "text": "They traveled by the road that leads to Gilgal and set up camp against Mesaloth in Arbela. They seized it and killed many people.",
-      "links": "<a href='/AIV/6/4/19'>Joshua 4:19</a>",
-      "comment": "The violence at Mesaloth highlights the severity of the occupation, reminiscent of earlier times when the land faced invasions. Notice the persistent theme of testing and purification of Israel through trial."
+      "text": "They traveled along the road that leads to Gilgal, set up camp near Mesaloth in Arbela, captured the town, and killed many of its inhabitants.",
+      "links": "<a href='/AIV/20/9/1'>1Macc 9:1</a>",
+      "comment": "The campaign route is specified, showing the strategic advance. Mesaloth’s capture illustrates the severity of the invading force's violence."
     },
     {
       "pk": 20009003,
@@ -48,9 +59,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 3,
-      "text": "In the first month of the one hundred and fifty-second year, they pitched their camp near Jerusalem.",
-      "links": "<a href='/AIV/17/1/1'>Esther 1:1</a>",
-      "comment": "The reference to the 'first month' echoes important feasts like Passover; timing often reveals spiritual meaning in scripture."
+      "text": "In the first month of the one hundred fifty-second year, they laid siege to Jerusalem, encamping nearby.",
+      "links": "<a href='/AIV/20/6/20'>1Macc 6:20</a>",
+      "comment": "The year refers to the Seleucid calendar (springtime). The siege of Jerusalem was a recurring event in this period."
     },
     {
       "pk": 20009004,
@@ -60,9 +71,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 4,
-      "text": "Then they marched out and went to Berea with twenty thousand foot soldiers and two thousand cavalry.",
-      "links": "<a href='/AIV/9/13/1'>1 Samuel 13:1-2</a>",
-      "comment": "The scale of this military force underscores the overwhelming physical danger facing the small faithful remnant."
+      "text": "Afterward, they left for Berea, taking with them twenty thousand infantry and two thousand cavalry.",
+      "links": "<a href='/AIV/20/5/65'>1Macc 5:65</a>",
+      "comment": "This verse underscores the overwhelming numbers against the Jewish defenders. Berea’s location is debated, possibly north of Jerusalem."
     },
     {
       "pk": 20009005,
@@ -72,9 +83,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 5,
-      "text": "Judas camped at Elasa with three thousand men. But there were not enough provisions for them.",
-      "links": "<a href='/AIV/7/7/6-8'>Judges 7:6-8</a>",
-      "comment": "Judas Maccabeus, facing impossible odds, mirrors Israel’s previous experiences where faith must replace purely human strength (<a href='/AIV/7/7/6-8'>Judges 7:6-8</a>). Trust in God’s provision reappears as a theme."
+      "text": "Judas meanwhile had pitched camp at Elasa with about three thousand select men.",
+      "links": "<a href='/AIV/20/4/29'>1Macc 4:29</a>",
+      "comment": "Judas’s forces were relatively small, but they were his best fighters. Elasa’s exact location is unknown, though possibly east of Jerusalem."
     },
     {
       "pk": 20009006,
@@ -84,9 +95,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 6,
-      "text": "When they saw the great size of their enemy’s army, many were terrified and slipped away from the camp; only eight hundred men remained.",
-      "links": "<a href='/AIV/7/7/3'>Judges 7:3</a>",
-      "comment": "Fear and abandonment reduce the number further, echoing the remnant motif: only a small, faithful group stands with God's leader."
+      "text": "But when they saw the size of the enemy army, fear took hold of them, and many deserted the camp, leaving only about eight hundred men behind.",
+      "links": "<a href='/AIV/20/9/5'>1Macc 9:5</a>",
+      "comment": "The drastic reduction in numbers highlights the discouragement and challenge faced by Judas and his loyalists."
     },
     {
       "pk": 20009007,
@@ -96,9 +107,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 7,
-      "text": "When Judas saw that his army had slipped away and that the battle pressed upon him, he was greatly distressed for he had no strength to withstand them.",
-      "links": "<a href='/AIV/19/142/6'>Psalm 142:6</a>",
-      "comment": "Judas' distress is an honest picture of true leadership facing defeat. The psalms often describe such moments that call for reliance on divine help."
+      "text": "When Judas realized his troops had deserted and the battle was near, his heart was deeply troubled, since there was no time to gather them back.",
+      "links": "<a href='/AIV/20/4/27'>1Macc 4:27</a>",
+      "comment": "The narrative shows Judas grappling with the reality of being left nearly alone, facing imminent danger."
     },
     {
       "pk": 20009008,
@@ -108,9 +119,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 8,
-      "text": "But he said to those who remained, 'Let us get up and go up against our enemies. Perhaps we will be able to fight against them.'",
-      "links": "<a href='/AIV/6/10/25'>Joshua 10:25</a>",
-      "comment": "Judas chooses courage even when success seems impossible, exemplifying hope and valor that inspire spiritual leadership."
+      "text": "Exhausted, he turned to those who remained and said, 'Let us rise and confront our enemies. Perhaps we will be strong enough to fight them.'",
+      "links": "<a href='/AIV/20/2/64'>1Macc 2:64</a>",
+      "comment": "Judas’ resolve and encouragement reveal his unwavering faith and courage, even when outnumbered."
     },
     {
       "pk": 20009009,
@@ -120,9 +131,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 9,
-      "text": "But they tried to dissuade him, saying, 'We do not have the strength; let us rather save our lives now and come back with our brothers to fight later. But now we are too few.'",
-      "links": "<a href='/AIV/11/19/3'>1 Kings 19:3</a>",
-      "comment": "The disciples' hesitation mirrors the tendency to rely on numbers over faith. There are times for withdrawal, but also times when God calls for sacrificial action—even to the point of laying down one's life, echoing the pattern Christ will fulfill."
+      "text": "But his companions tried to persuade him otherwise, saying, 'We do not have the strength. Let us save ourselves now and, together with our brothers, return and fight; we are far too few.'",
+      "links": "<a href='/AIV/20/9/8'>1Macc 9:8</a>",
+      "comment": "The hesitancy of Judas’s followers highlights both their realistic fear and the desperate circumstances of the rebels."
     },
     {
       "pk": 20009010,
@@ -132,9 +143,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 10,
-      "text": "But Judas replied, 'Far be it from us to do such a thing as to flee from them! If our time has come, let us die bravely for our kindred and not leave a cause for reproach against our glory.'",
-      "links": "<a href='/AIV/43/15/13'>John 15:13</a>",
-      "comment": "Judas' willingness to die for his people prefigures the greatest expression of love: to lay down one's life for others, as later revealed perfectly in Christ (<a href='/AIV/43/15/13'>John 15:13</a>)."
+      "text": "But Judas replied, 'We should never run away from them. If our time has come, let us die bravely for our people and not leave room for anyone to question our integrity.'",
+      "links": "<a href='/AIV/20/2/50-51'>1Macc 2:50-51</a>",
+      "comment": "Judas’s answer reflects themes of martyrdom and honor, hallmarks of Maccabean ideology."
     },
     {
       "pk": 20009011,
@@ -144,9 +155,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 11,
-      "text": "Then the army marched out from the camp and formed ranks to meet them. The cavalry was divided into two divisions, and the slingers and archers went ahead of the army, followed by all the mighty warriors.",
-      "links": "<a href='/AIV/9/17/47-50'>1 Samuel 17:47-50</a>",
-      "comment": "An organized enemy with archers and cavalry. The contrast between the sizes and equipment of the two sides brings to mind David and Goliath: true victory depends on God, not human power."
+      "text": "Then Bacchides’ army came out of their camp, forming up for battle. The cavalry was divided into two squads, and the slingers and archers led the way, joined by all the key fighters.",
+      "links": "<a href='/AIV/20/9/4'>1Macc 9:4</a>",
+      "comment": "This order of battle describes standard Hellenistic tactics: archers and slingers ahead, with cavalry and special units divided for maneuverability."
     },
     {
       "pk": 20009012,
@@ -156,9 +167,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 12,
-      "text": "Bacchides was on the right wing. The phalanx advanced in both directions, and they sounded the trumpets.",
-      "links": "<a href='/AIV/4/10/9'>Numbers 10:9</a>",
-      "comment": "Trumpets signal battle but were also God’s call for His people in the Torah. The faithfulness of the remnant is underlined, contrasted with the powerful army led by Bacchides."
+      "text": "Bacchides himself took the right wing. With both divisions on either side, the formation advanced to trumpet blasts, while the men with Judas blew their own trumpets as well.",
+      "links": "<a href='/AIV/20/4/13'>1Macc 4:13</a>",
+      "comment": "The phalanx and trumpet signals indicate professional, organized warfare, contrasting the small Jewish force."
     },
     {
       "pk": 20009013,
@@ -168,9 +179,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 13,
-      "text": "The men with Judas also sounded their trumpets, and the earth shook with the noise of the armies. The battle raged from morning till evening.",
-      "links": "<a href='/AIV/2/19/18'>Exodus 19:18</a>",
-      "comment": "The shaking earth and battle noise recall God’s presence at Sinai. Dramatic spiritual realities often accompany Israel’s decisive moments."
+      "text": "The clash of the armies was so loud that the ground shook, and the fighting continued from morning until evening.",
+      "links": "<a href='/AIV/20/5/34'>1Macc 5:34</a>",
+      "comment": "The intensity of the battle is emphasized, showing both its ferocity and duration."
     },
     {
       "pk": 20009014,
@@ -180,9 +191,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 14,
-      "text": "Judas saw that Bacchides and the strongest force was on the right. With his heart fully brave, he gathered together all the bravest men",
-      "links": "<a href='/AIV/6/1/6'>Joshua 1:6</a>",
-      "comment": "Judas rallies his best men for a decisive clash, reminiscent of Joshua’s courage in leading Israel."
+      "text": "Judas saw that Bacchides and his strongest fighters were stationed on the right, and so all the most courageous men followed him there.",
+      "links": "<a href='/AIV/20/4/34'>1Macc 4:34</a>",
+      "comment": "The action focuses on a heroic charge against the main enemy force. The ‘right wing’ maintained a tactical and symbolic significance."
     },
     {
       "pk": 20009015,
@@ -192,9 +203,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 15,
-      "text": "and they attacked the right flank, and broke it. They pursued them as far as Mount Azotus.",
-      "links": "<a href='/AIV/9/14/45'>1 Samuel 14:45</a>",
-      "comment": "A surprising victory in a single sector shows the effect a small faithful group, trusting in God, can have."
+      "text": "Together, they broke through the right wing, chasing them up to Mount Azotus.",
+      "links": "<a href='/AIV/20/4/15'>1Macc 4:15</a>",
+      "comment": "Judas’s initial success recalls earlier Maccabean victories, though the outcome will be different here."
     },
     {
       "pk": 20009016,
@@ -204,9 +215,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 16,
-      "text": "But those on the left wing saw that the right wing was shattered, and they turned around to follow behind Judas and his men.",
-      "links": "<a href='/AIV/7/20/42-43'>Judges 20:42-43</a>",
-      "comment": "Being surrounded is a deadly military position—often a consequence when courage breaks the enemy but full escape is not possible."
+      "text": "When the left wing saw their side was defeated, they changed direction and began to pursue Judas and his men.",
+      "links": "<a href='/AIV/20/5/34'>1Macc 5:34</a>",
+      "comment": "The battle changes momentum, indicating a shifting advantage in the conflict."
     },
     {
       "pk": 20009017,
@@ -216,9 +227,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 17,
-      "text": "So the battle intensified, and many fell on both sides.",
-      "links": "<a href='/AIV/13/20/4'>2 Samuel 20:4-10</a>",
-      "comment": "The high human cost demonstrates the tragic results of division and warfare within God's people. Peace is always to be desired, but faithfulness to the covenant may at times require resistance."
+      "text": "The fighting grew fierce, and heavy casualties were suffered on both sides.",
+      "links": "<a href='/AIV/20/9/13'>1Macc 9:13</a>",
+      "comment": "Both armies endure significant losses in this pitched engagement."
     },
     {
       "pk": 20009018,
@@ -228,9 +239,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 18,
-      "text": "Judas also fell, and the rest fled.",
-      "links": "<a href='/AIV/10/1/19'>2 Samuel 1:19</a>",
-      "comment": "The death of Judas is an end to an era. Like other great deliverers of Israel, his death shows that earthly leaders ultimately pass on, prefiguring the need for a greater, eternal deliverer."
+      "text": "Judas, too, fell in battle, and those who survived fled the field.",
+      "links": "<a href='/AIV/20/4/35'>1Macc 4:35</a>",
+      "comment": "This verse marks the death of the book’s hero, a pivotal moment for the community."
     },
     {
       "pk": 20009019,
@@ -240,9 +251,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 19,
-      "text": "Jonathan and Simon took up the body of their brother Judas and buried him in the tomb of their ancestors at Modein.",
-      "links": "<a href='/AIV/1/23/20'>Genesis 23:20</a>",
-      "comment": "Burying the dead with honor is a hallmark of biblical piety, reminiscent of Sarah’s burial in Genesis. The continuity of the faith of the fathers is seen here."
+      "text": "Jonathan and Simon took the body of their brother Judas and laid him to rest in their ancestral tomb at Modein.",
+      "links": "<a href='/AIV/20/2/70'>1Macc 2:70</a>",
+      "comment": "Modein was the Maccabean family's home and burial place, honoring Judas’ legacy."
     },
     {
       "pk": 20009020,
@@ -252,9 +263,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 20,
-      "text": "And all Israel mourned for him with great lamentation; they mourned for him many days, saying,",
-      "links": "<a href='/AIV/10/1/12'>2 Samuel 1:12</a>",
-      "comment": "Public mourning for a righteous leader continues an Old Testament pattern, showing the importance of leadership and the communal nature of grief."
+      "text": "They mourned over him. All Israel joined in loud lament, grieving for many days.",
+      "links": "<a href='/AIV/20/2/70'>1Macc 2:70</a>",
+      "comment": "The communal mourning reflects Judas’s significance to the nation."
     },
     {
       "pk": 20009021,
@@ -264,9 +275,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 21,
-      "text": "'How is the champion of Israel fallen!'",
-      "links": "<a href='/AIV/10/1/19'>2 Samuel 1:19</a>",
-      "comment": "Echoes David’s lament over Saul and Jonathan, showing that God’s people recognize the price of sacrifice and the pain of loss."
+      "text": "\"How the mighty has fallen, the deliverer of Israel!\"",
+      "links": "<a href='/AIV/10/1/19,25,27'>2 Samuel 1:19,25,27</a>",
+      "comment": "Echoes the lament for Saul and Jonathan in Samuel, portraying Judas as a national hero."
     },
     {
       "pk": 20009022,
@@ -276,9 +287,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 22,
-      "text": "The rest of the acts of Judas, his wars, the brave deeds he performed, and his greatness are not written, because they were very many.",
-      "links": "<a href='/AIV/11/14/19-20'>1 Kings 14:19-20</a>",
-      "comment": "A literary formula common in the Old Testament closes the hero’s story, hinting at a vast legacy. Only the most significant works can be recorded, but the fuller story is hidden, as is often true with the saints."
+      "text": "The events of Judas’s battles, his courageous actions and achievements, were many, though not all are recorded here.",
+      "links": "<a href='/AIV/20/5/70'>1Macc 5:70</a>",
+      "comment": "The author acknowledges there are more deeds than this narrative recounts, typical ancient historiography."
     },
     {
       "pk": 20009023,
@@ -288,9 +299,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 23,
-      "text": "After Judas died, those who broke the law began to emerge everywhere in Israel, and all those who did injustice raised their heads.",
-      "links": "<a href='/AIV/19/12/8'>Psalm 12:8</a>",
-      "comment": "With the loss of righteous leadership, wickedness increases—a clear spiritual lesson: the people need constant, visible leadership to keep the faith."
+      "text": "After Judas’s death, traitors appeared throughout Israel; all sorts of evildoers returned.",
+      "links": "<a href='/AIV/20/7/15'>1Macc 7:15</a>",
+      "comment": "This underscores the political and moral crisis following the loss of a strong leader."
     },
     {
       "pk": 20009024,
@@ -300,9 +311,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 24,
-      "text": "At that time, there was a great famine, and the country went over to their side.",
-      "links": "<a href='/AIV/8/1/1'>Ruth 1:1</a>",
-      "comment": "Famine often accompanies covenant unfaithfulness in the Old Testament, serving as a sign of God’s call to repentance."
+      "text": "A severe famine struck that region at the same time, causing most of the people to join the side of the lawless.",
+      "links": "<a href='/AIV/20/3/29'>1Macc 3:29</a>",
+      "comment": "Material hardship led to greater instability and shifting loyalties."
     },
     {
       "pk": 20009025,
@@ -312,9 +323,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 25,
-      "text": "Then Bacchides chose the ungodly men and made them lords of the land.",
-      "links": "<a href='/AIV/19/12/8'>Psalm 12:8</a>",
-      "comment": "Those who do evil are raised in authority, fulfilling the principle that society reflects the kind of leaders it chooses to follow."
+      "text": "Bacchides chose the ungodly and made them rulers over the land.",
+      "links": "<a href='/AIV/20/1/11-15'>1Macc 1:11-15</a>",
+      "comment": "The author makes a theological judgment on these leaders, connecting their rule with infidelity to God."
     },
     {
       "pk": 20009026,
@@ -324,9 +335,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 26,
-      "text": "These men searched for and hunted the friends of Judas, bringing them to Bacchides, who took vengeance on them and mocked them.",
-      "links": "<a href='/AIV/42/22/63-65'>Luke 22:63-65</a>",
-      "comment": "The persecution of Judas’ followers parallels later persecutions of Jesus and his disciples. Faithful endurance in suffering is a key theme in both Old and New Testament witness."
+      "text": "They searched out Judas’s supporters and brought them to Bacchides, who avenged himself on them with cruelty and ridicule.",
+      "links": "<a href='/AIV/20/9/23'>1Macc 9:23</a>",
+      "comment": "The fate of Judas’s allies is grim, illustrating the dangers of resisting the occupying power."
     },
     {
       "pk": 20009027,
@@ -336,9 +347,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 27,
-      "text": "There was great tribulation in Israel such as had not been since the time when prophets ceased to appear among them.",
-      "links": "<a href='/AIV/30/8/11'>Amos 8:11</a>",
-      "comment": "The loss of prophecy marks a spiritually dark period. The people mourn the silence from God—the longing for prophetic, authoritative direction is clear, foreshadowing the hunger for the coming Anointed One."
+      "text": "Distress in Israel was worse than it had ever been since prophets stopped appearing among them.",
+      "links": "<a href='/AIV/20/4/46'>1Macc 4:46</a>",
+      "comment": "This highlights the perceived lack of divine guidance during this crisis."
     },
     {
       "pk": 20009028,
@@ -348,9 +359,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 28,
-      "text": "Then all of the friends of Judas gathered together and said to Jonathan,",
-      "links": "<a href='/AIV/10/20/17'>2 Samuel 20:17</a>",
-      "comment": "Jonathan steps into leadership as the Maccabean succession continues, affirming the biblical model of visible and continuous headship among God's people."
+      "text": "Then all those loyal to Judas assembled and spoke to Jonathan:",
+      "links": "<a href='/AIV/20/9/19'>1Macc 9:19</a>",
+      "comment": "The narrative now shifts to the rise of Jonathan as successor.",
+      "sectionHeader": "Jonathan Becomes Leader"
     },
     {
       "pk": 20009029,
@@ -360,9 +372,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 29,
-      "text": "'Since your brother Judas died, there is no one like him to go out against our enemies—against Bacchides and those hostile to our nation.'",
-      "links": "<a href='/AIV/7/2/7-8'>Judges 2:7-8</a>",
-      "comment": "Israel’s need for an enduring leader is clear. The spiritual and practical need for united, visible leadership is affirmed."
+      "text": "\"Since your brother Judas died, there has been no one like him to confront our enemies and Bacchides, or to deal with our own people who hate us.\"",
+      "links": "<a href='/AIV/20/2/66'>1Macc 2:66</a>",
+      "comment": "Jonathan is recruited because of his family legacy of leadership and courage."
     },
     {
       "pk": 20009030,
@@ -372,10 +384,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 30,
-      "text": "'Now therefore we have chosen you today to be our leader and ruler in place of Judas your brother, to fight our battle.'",
-      "links": "<a href='/AIV/4/27/18-23'>Numbers 27:18-23</a>",
-      "comment": "The election of Jonathan echoes the appointment of Joshua after Moses, reinforcing the biblical principle of authoritative succession and collective assent under God’s guidance.",
-      "sectionHeader": "Jonathan Succeeds Judas"
+      "text": "\"Today we choose you as our leader and guide, to lead us in battle.\"",
+      "links": "<a href='/AIV/20/5/61'>1Macc 5:61</a>",
+      "comment": "The community turns to Jonathan for protection, showing continuity in leadership."
     },
     {
       "pk": 20009031,
@@ -385,9 +396,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 31,
-      "text": "So Jonathan accepted the leadership at that time and rose to take his brother’s place.",
-      "links": "<a href='/AIV/4/27/22'>Numbers 27:22</a>",
-      "comment": "The theme of legitimate succession continues, a persistent mark of the people of God."
+      "text": "So Jonathan accepted the leadership at that time, stepping into the role of his brother Judas.",
+      "links": "<a href='/AIV/20/2/65'>1Macc 2:65</a>",
+      "comment": "Jonathan’s acceptance signals a new era in the revolt, as the author transitions to his exploits."
     },
     {
       "pk": 20009032,
@@ -397,9 +408,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 32,
-      "text": "Bacchides learned that Jonathan had become leader and was preparing to fight him.",
-      "links": "<a href='/AIV/9/18/6-9'>1 Samuel 18:6-9</a>",
-      "comment": "Threats to faithful leadership always arise, as Satan seeks to destroy the line from which the Messiah will come and the order of the community entrusted with God's promises."
+      "text": "When Bacchides heard about this, he tried to kill Jonathan.",
+      "links": "<a href='/AIV/20/7/25'>1Macc 7:25</a>",
+      "comment": "Bacchides continues aggressive measures against the rebel leadership, showing the cycle of violence."
     },
     {
       "pk": 20009033,
@@ -409,9 +420,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 33,
-      "text": "Jonathan, his brother Simon, and all who were with him established themselves in the desert of Tekoa and camped by the water of the pool of Asphar.",
-      "links": "<a href='/AIV/10/23/14'>2 Samuel 23:14</a>",
-      "comment": "Retreating to the wilderness is a time-honored Biblical theme, often the place where God prepares leaders and manifests His will (see <a href='/AIV/40/4/1'>Matthew 4:1</a> and Moses in Exodus)."
+      "text": "But Jonathan, his brother Simon, and their supporters heard of it and withdrew to the wilderness of Tekoa, setting up camp by the pool of Asphar.",
+      "links": "<a href='/AIV/20/9/32'>1Macc 9:32</a>",
+      "comment": "Tekoa was southeast of Bethlehem; withdrawal to wilderness is a typical tactic for insurgents."
     },
     {
       "pk": 20009034,
@@ -421,9 +432,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 34,
-      "text": "Bacchides heard of it on the Sabbath, and he came with all his army across the Jordan.",
-      "links": "<a href='/AIV/6/3/15-17'>Joshua 3:15-17</a>",
-      "comment": "The enemy attacking on the Sabbath demonstrates the disregard for the holiness of God's law, intensifying the meaning of the conflict."
+      "text": "Bacchides found out about this on the Sabbath, and crossed the Jordan River with his entire army.",
+      "links": "<a href='/AIV/20/2/38'>1Macc 2:38</a>",
+      "comment": "Crossing the Jordan on the Sabbath again highlights the enemy’s disregard for Jewish religious observance."
     },
     {
       "pk": 20009035,
@@ -433,9 +444,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 35,
-      "text": "Jonathan sent his brother as leader of the multitude, and he begged the Nabateans, his friends, for permission to leave their baggage with them.",
-      "links": "<a href='/AIV/1/37/25'>Genesis 37:25-28</a>",
-      "comment": "Jonathan shows diplomatic wisdom, reminding readers of the necessity of prudent alliances in the service of God’s mission."
+      "text": "Jonathan put his brother in charge of the group and asked his Nabatean allies to let them store their large amounts of baggage for safekeeping.",
+      "links": "<a href='/AIV/20/5/25'>1Macc 5:25</a>",
+      "comment": "The Nabateans were a powerful tribe southeast of Judea, often allies but sometimes adversaries."
     },
     {
       "pk": 20009036,
@@ -445,9 +456,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 36,
-      "text": "But the descendants of Jambri from Medeba came out and seized John and all that he had, and went away with it.",
-      "links": "<a href='/AIV/7/18/22'>Judges 18:22</a>",
-      "comment": "Even trusted neighbors can fail; watchfulness is necessary for those entrusted with the people and goods of God."
+      "text": "But the clan of Jambri from Medeba came out and captured John and all that he had, then escaped with the spoils.",
+      "links": "<a href='/AIV/20/5/26'>1Macc 5:26</a>",
+      "comment": "This betrayal by the Jambri illustrates the unpredictable alliances and treacheries of the time."
     },
     {
       "pk": 20009037,
@@ -457,9 +468,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 37,
-      "text": "After these things it was reported to Jonathan and Simon, 'The descendants of Jambri are celebrating a grand wedding, and bringing the bride, a daughter of one of the great nobles of Canaan, from Nadabath with a large procession.'",
-      "links": "<a href='/AIV/1/34/25'>Genesis 34:25</a>",
-      "comment": "A traditional wedding becomes an occasion for retribution in response to injustice."
+      "text": "Some time later, Jonathan and Simon heard that the Jambri were celebrating a grand wedding, escorting a bride—the daughter of a prominent Canaanite noble—from Nadabath with a great retinue.",
+      "links": "<a href='/AIV/20/5/23'>1Macc 5:23</a>",
+      "comment": "The Jambri’s notable status and the wedding procession serve as a backdrop for the coming retribution."
     },
     {
       "pk": 20009038,
@@ -469,9 +480,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 38,
-      "text": "They remembered the blood of their brother John and went up and hid themselves under the cover of the mountain.",
-      "links": "<a href='/AIV/1/34/25-27'>Genesis 34:25-27</a>",
-      "comment": "Justice is pursued for the sake of blood wrongly shed, in harmony with the ancient law, though it always anticipates the higher justice and mercy brought with Christ."
+      "text": "Remembering the death of their brother John, Jonathan and Simon climbed into the mountains and took cover, preparing a surprise attack.",
+      "links": "<a href='/AIV/20/9/36'>1Macc 9:36</a>",
+      "comment": "The ambush is in keeping with the Maccabean style of guerrilla warfare."
     },
     {
       "pk": 20009039,
@@ -481,9 +492,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 39,
-      "text": "As they looked up, they saw a great crowd with much baggage; the bridegroom and his friends were coming out to meet them with drums, musicians, and many weapons.",
-      "links": "<a href='/AIV/19/45/14-15'>Psalm 45:14-15</a>",
-      "comment": "The combination of festivity and weapons demonstrates both the celebration of life and the tension of a land at war."
+      "text": "They saw the noisy wedding procession, loaded with baggage. The bridegroom went out to meet the parade with his companions, family, musicians, tambourines—and many armed men.",
+      "links": "<a href='/AIV/19/68/25'>Psalm 68:25</a>",
+      "comment": "The dramatic wedding scene heightens tension before the ambush."
     },
     {
       "pk": 20009040,
@@ -493,9 +504,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 40,
-      "text": "They rushed down upon them from their hiding places and struck them down. Many were killed, and the rest fled into the mountains. They took all the spoils.",
-      "links": "<a href='/AIV/6/8/24-25'>Joshua 8:24-25</a>",
-      "comment": "Divinely-allowed retribution at a wedding feast is a reminder of Old Testament justice. However, the turning of mourning into joy or joy into mourning often acts as a sign for deeper spiritual realities completed in the coming Kingdom."
+      "text": "Jonathan and Simon sprang out from hiding, attacking and killing many; most others ran to the mountain, and the Jews seized all their belongings.",
+      "links": "<a href='/AIV/20/2/42'>1Macc 2:42</a>",
+      "comment": "The successful ambush is portrayed as a justified retaliation and results in the spoils of war."
     },
     {
       "pk": 20009041,
@@ -505,9 +516,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 41,
-      "text": "So the wedding was turned into mourning and the voice of their musicians into a funeral dirge.",
-      "links": "<a href='/AIV/19/79/8'>Psalm 79:8</a>",
-      "comment": "The text highlights national sorrow after military defeat, echoing lament psalms for Israel’s suffering."
+      "text": "The festive wedding turned into grief; the musicians’ joyful songs became funeral laments.",
+      "links": "<a href='/AIV/24/7/29'>Jeremiah 7:29</a>",
+      "comment": "There is poetic irony in this reversal of celebration to mourning after the slaughter."
     },
     {
       "pk": 20009042,
@@ -517,9 +528,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 42,
-      "text": "After they had fully avenged the blood of their brother, they returned to the marshes of the Jordan.",
-      "links": "<a href='/AIV/10/1/11-12'>2 Samuel 1:11-12</a>",
-      "comment": "National mourning for fallen leaders shows the unity of God's people in suffering, prefiguring later Christian concern for the suffering members of Christ’s Body (<a href='/AIV/46/12/26'>1 Corinthians 12:26</a>)."
+      "text": "When they had finished avenging their brother's death, Jonathan and Simon returned to the marshes along the Jordan.",
+      "links": "<a href='/AIV/20/9/33'>1Macc 9:33</a>",
+      "comment": "The marshes provided cover and a retreat for rebel forces."
     },
     {
       "pk": 20009043,
@@ -529,9 +540,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 43,
-      "text": "When Bacchides heard of this, he came with a large force on the sabbath day to the banks of the Jordan.",
-      "links": "<a href='/AIV/19/83/4'>Psalm 83:4</a>",
-      "comment": "The enemies' desire to erase Israel echoes Psalm 83:4, reflecting the age-old spiritual battle against God’s chosen people."
+      "text": "When Bacchides heard about this, he marched with a large army to the edge of the Jordan on the Sabbath.",
+      "links": "<a href='/AIV/20/9/34'>1Macc 9:34</a>",
+      "comment": "Another Sabbath offensive, pressing the Jewish defenders into danger."
     },
     {
       "pk": 20009044,
@@ -541,9 +552,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 44,
-      "text": "And Jonathan said to those with him, “Let us get up now and fight for our lives, for today things are not as they were before.”",
-      "links": "<a href='/AIV/1/50/13'>Genesis 50:13</a>",
-      "comment": "The gathering and burial of the dead at Modin reflect the Jewish emphasis on honoring the departed, a practice later to be seen in Christian tradition respecting the saints’ remains."
+      "text": "Jonathan rallied his men, saying, 'Let us rise now and fight for our lives, for today we face a different challenge than before.'",
+      "links": "<a href='/AIV/20/9/8'>1Macc 9:8</a>",
+      "comment": "Jonathan takes charge, invoking courage and adaptation in the face of adversity."
     },
     {
       "pk": 20009045,
@@ -553,9 +564,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 45,
-      "text": "For look! the battle is in front of us and behind us; the water of the Jordan is on this side and on that, with marsh and thicket; there is no place to turn.",
-      "links": "<a href='/AIV/10/1/17'>2 Samuel 1:17</a>",
-      "comment": "Extended mourning was a traditional expression of grief, also pointing ahead to communal prayers for the dead in later Christian customs."
+      "text": "'Look—the enemy stands before us and behind; Jordan’s water is on both sides, with marshes and brush all around. There is nowhere to retreat.'",
+      "links": "<a href='/AIV/19/69/15'>Psalm 69:15</a>",
+      "comment": "Jonathan’s tactical assessment highlights their dire predicament."
     },
     {
       "pk": 20009046,
@@ -565,9 +576,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 46,
-      "text": "Cry out now to Heaven that you may be delivered from the hands of our enemies.”",
-      "links": "<a href='/AIV/10/1/19'>2 Samuel 1:19</a>",
-      "comment": "Echoes the lament for Saul and Jonathan, highlighting the theme of fallen deliverers, paralleling Christ’s seeming defeat on the cross, which later became victory."
+      "text": "'Call out now to Heaven that God may deliver us from our enemies!'",
+      "links": "<a href='/AIV/20/4/10'>1Macc 4:10</a>",
+      "comment": "Jonathan urges the people to pray for divine intervention, consistent with Maccabean piety."
     },
     {
       "pk": 20009047,
@@ -577,9 +588,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 47,
-      "text": "So the battle began, and Jonathan stretched out his hand to strike Bacchides, but he eluded him and went to the rear.",
-      "links": "<a href='/AIV/9/4/1'>1 Samuel 4:1-10</a>",
-      "comment": "Israel seeking refuge among the Philistines recalls ancient migrations in time of defeat, yet God preserves a remnant for His purposes."
+      "text": "The fight began; Jonathan reached out to strike Bacchides, but Bacchides dodged and ran to the rear lines.",
+      "links": "<a href='/AIV/20/5/34'>1Macc 5:34</a>",
+      "comment": "Jonathan’s direct attempt to take out the enemy leader is unsuccessful, but shows boldness."
     },
     {
       "pk": 20009048,
@@ -589,9 +600,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 48,
-      "text": "Then Jonathan and the men with him leaped into the Jordan and swam across to the other side, and the enemy did not cross the Jordan to attack them.",
-      "links": "<a href='/AIV/2/20/10'>Exodus 20:10</a>",
-      "comment": "Killing on the Sabbath violated the sanctity of the day, intensifying the grief. This attack on a holy day would fuel deeper resolve to guard God’s commandments."
+      "text": "Then Jonathan and his men dove into the Jordan and swam across; Baconchides’ troops did not pursue them.",
+      "links": "<a href='/AIV/20/9/45'>1Macc 9:45</a>",
+      "comment": "Swimming the Jordan was risky but effective; their narrow escape is highlighted."
     },
     {
       "pk": 20009049,
@@ -601,9 +612,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 49,
-      "text": "And about one thousand of Bacchides’ men fell that day.",
-      "links": "<a href='/AIV/19/74/3-7'>Psalm 74:3-7</a>",
-      "comment": "Defilement and fortifying the land against the Jews showed opposition to God's people; spiritually, it foreshadows attacks on the sanctity of God’s dwelling among His people."
+      "text": "On that day, about a thousand of Bacchides’s soldiers fell.",
+      "links": "<a href='/AIV/20/7/32'>1Macc 7:32</a>",
+      "comment": "Jonathan’s side manages to inflict heavy losses on the enemy."
     },
     {
       "pk": 20009050,
@@ -613,9 +624,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 50,
-      "text": "Then Bacchides returned to Jerusalem and built strong cities in Judea: the fortress in Jericho, and Emmaus, and Beth-horon, and Bethel, and Timnath, and Pharathon, and Tephon, with high walls and gates and bars.",
-      "links": "<a href='/AIV/6/15/60'>Joshua 15:60</a>",
-      "comment": "The occupation of key Judean cities was meant to subjugate Israel; symbolically, these attacks anticipate later trials on the Church, necessitating perseverance."
+      "text": "Bacchides returned to Jerusalem and fortified a series of cities throughout Judea: Jericho, Emmaus, Beth-horon, Bethel, Timnath, Pharathon, and Tephon, surrounding them with strong walls, gates, and bars.",
+      "links": "<a href='/AIV/20/13/33'>1Macc 13:33</a>",
+      "comment": "These fortifications were to secure Seleucid control and restrict rebel activity."
     },
     {
       "pk": 20009051,
@@ -625,9 +636,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 51,
-      "text": "And he placed garrisons in them to harass Israel.",
-      "links": "<a href='/AIV/19/94/20'>Psalm 94:20</a>",
-      "comment": "The phrase 'sons of lawless men' points to those who betray their people for personal gain—a warning against those who divide the faithful from within."
+      "text": "He stationed garrisons in these towns to harass the Jewish population.",
+      "links": "<a href='/AIV/20/5/52'>1Macc 5:52</a>",
+      "comment": "Permanent garrisons ensured ongoing oppression of Israel and protected Seleucid interests."
     },
     {
       "pk": 20009052,
@@ -637,9 +648,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 52,
-      "text": "He also fortified the town of Beth-zur, and Gazara, and the citadel, and in them he put troops and stores of food.",
-      "links": "<a href='/AIV/19/79/11'>Psalm 79:11</a>",
-      "comment": "Taking the leaders captive is a tactic to break the spirit of the people, yet God often raises unexpected leaders to restore hope, as He would do with Jonathan."
+      "text": "He also fortified Beth-zur, Gazara, and the citadel, placing troops and storing provisions in each.",
+      "links": "<a href='/AIV/20/6/7'>1Macc 6:7</a>",
+      "comment": "Specific sites were strategic for controlling the region and maintaining supplies."
     },
     {
       "pk": 20009053,
@@ -649,10 +660,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 53,
-      "text": "And he took the sons of the leading men of the land as hostages and put them under guard in the citadel at Jerusalem.",
-      "links": "<a href='/AIV/15/5/8'>Ezra 5:8</a>",
-      "comment": "Attempts to destroy the sanctuary’s walls attack not just a building, but the continuity of worship and prophecy—parallels the spiritual assaults on the practice and purity of worship in the Church era.",
-      "sectionHeader": "The Persecution Intensifies and Jonathan is Raised Up"
+      "text": "He took the sons of the prominent local families as hostages, locking them up in the citadel in Jerusalem.",
+      "links": "<a href='/AIV/20/1/33'>1Macc 1:33</a>",
+      "comment": "Taking hostages was a common tactic to ensure loyalty among subject peoples."
     },
     {
       "pk": 20009054,
@@ -662,9 +672,10 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 54,
-      "text": "Then Alcimus was stricken, and his work was hindered. He was paralyzed, his mouth was stopped, and he could no longer speak, nor could he give orders about his house.",
-      "links": "<a href='/AIV/4/12/10'>Numbers 12:10</a>",
-      "comment": "Divine judgment befalls Alcimus, reminiscent of Old Testament examples where God strikes leaders who oppose His people, affirming God’s direct intervention in history."
+      "text": "In the one hundred fifty-third year, during the second month, Alcimus ordered the destruction of the inner wall of the sanctuary—the work built by the prophets.",
+      "links": "<a href='/AIV/26/8/43'>Ezekiel 8:43</a>",
+      "comment": "Alcimus’s mandate attacks the sanctity of the Temple, intensifying religious tensions.",
+      "sectionHeader": "Death of Alcimus"
     },
     {
       "pk": 20009055,
@@ -674,9 +685,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 55,
-      "text": "Alcimus died in great agony.",
-      "links": "<a href='/AIV/4/16/35'>Numbers 16:35</a>",
-      "comment": "The death of Alcimus is a sign of God's judgment on those who destroy His sanctuary; spiritual readiness for death remains a key theme in Christian piety."
+      "text": "But as he started to tear it down, Alcimus was suddenly struck powerless; he lost his speech and became paralyzed, unable to speak or direct his affairs.",
+      "links": "<a href='/AIV/19/107/6'>Psalm 107:6</a>",
+      "comment": "Alcimus’s sudden illness was regarded as divine punishment for his sacrilege."
     },
     {
       "pk": 20009056,
@@ -686,9 +697,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 56,
-      "text": "When Bacchides saw that Alcimus was dead, he returned to the king. And Judea was peaceful for two years.",
-      "links": "<a href='/AIV/7/3/11'>Judges 3:11</a>",
-      "comment": "Short periods of peace often follow judgment, giving God's people a time for restoration—foreshadowing Sabbath rests amid tribulation."
+      "text": "He died then in intense suffering.",
+      "links": "<a href='/AIV/20/7/25'>1Macc 7:25</a>",
+      "comment": "The death of Alcimus, an unpopular high priest, is portrayed as retribution."
     },
     {
       "pk": 20009057,
@@ -698,9 +709,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 57,
-      "text": "But the lawless plotted together, saying, “See, Jonathan and his followers live at ease and are secure. Let us bring Bacchides back so he will capture them all in one night.”",
-      "links": "<a href='/AIV/19/2/1'>Psalm 2:1</a>",
-      "comment": "Plots against God’s anointed servants continue, recalling messianic opposition throughout Scripture; God’s ultimate plan prevails despite human schemes."
+      "text": "When Bacchides learned of Alcimus’s death, he returned to the king, and the land of Judah enjoyed peace for two years.",
+      "links": "<a href='/AIV/20/7/47'>1Macc 7:47</a>",
+      "comment": "The withdrawal of Bacchides and interlude of peace allowed for recovery and reorganization."
     },
     {
       "pk": 20009058,
@@ -710,9 +721,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 58,
-      "text": "So they went and consulted with him. And he moved with his army and camped near Bethbasi in the plain.",
-      "links": "<a href='/AIV/19/3/1-2'>Psalm 3:1-2</a>",
-      "comment": "Surrounding army foreshadows the ever-present temptation and attack against the faithful; dependence on God’s deliverance is vital."
+      "text": "But then the lawless gathered and said, 'Look, Jonathan and his followers are living quietly and without fear. Let us summon Bacchides again so he can capture them all in one night.'",
+      "links": "<a href='/AIV/20/9/25'>1Macc 9:25</a>",
+      "comment": "Even in seasons of peace, enemies plot against righteous leadership."
     },
     {
       "pk": 20009059,
@@ -722,9 +733,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 59,
-      "text": "Jonathan sent his brother as leader of the multitude and asked the Nabateans, his friends, if they would store his equipment, which was many.",
-      "links": "<a href='/AIV/1/14/1'>Genesis 14:1-7</a>",
-      "comment": "Seeking allies and safe-keeping of resources emphasizes prudent leadership, the wisdom of seeking relationships for mutual support—prefiguring intercession and reliance on the broader family of faith."
+      "text": "They proceeded to ask Bacchides for support.",
+      "links": "<a href='/AIV/20/7/25'>1Macc 7:25</a>",
+      "comment": "The leadership’s enemies continually seek support from foreign powers."
     },
     {
       "pk": 20009060,
@@ -734,9 +745,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 60,
-      "text": "Yet the sons of Jambri came out from Medeba and captured John and everything he had, and departed with it.",
-      "links": "<a href='/AIV/6/13/9'>Joshua 13:9</a>",
-      "comment": "Loss and betrayal even by those nearby; such adversity refines faith and builds perseverance (see <a href='/AIV/59/1/2-4'>James 1:2-4</a>)."
+      "text": "Bacchides mobilized a large army, secretly sent letters to his allies in Judea, instructing them to seize Jonathan and his men. But they failed, for their plot was discovered.",
+      "links": "<a href='/AIV/20/1/60'>1Macc 1:60</a>",
+      "comment": "Jonathan’s spies or supporters were effective in uncovering the conspiracy."
     },
     {
       "pk": 20009061,
@@ -746,9 +757,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 61,
-      "text": "After these events it was reported to Jonathan and his brother Simon that the sons of Jambri were holding a great wedding, and were bringing the bride, the daughter of one of the great princes of Canaan, with much procession from Nadabath.",
-      "links": "<a href='/AIV/1/34/29'>Genesis 34:29</a>",
-      "comment": "The gathering for a wedding becomes an opportunity for retribution, but also hints at the theme of the bride—echoing nuptial images present throughout the Old and New Testaments (see <a href='/AIV/66/19/7-9'>Revelation 19:7-9</a>)."
+      "text": "Jonathan’s troops tracked down about fifty local leaders behind the treachery and executed them.",
+      "links": "<a href='/AIV/20/7/25'>1Macc 7:25</a>",
+      "comment": "The punishment toward betrayers served as a warning and helped suppress further rebellion."
     },
     {
       "pk": 20009062,
@@ -758,9 +769,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 62,
-      "text": "So they remembered the blood of John their brother, and went up and hid themselves under the cover of the mountain.",
-      "links": "<a href='/AIV/1/27/41'>Genesis 27:41</a>",
-      "comment": "Blood vengeance—while characteristic of the Old Testament—later finds its fulfillment in Christ’s teaching on mercy and forgiveness (see <a href='/AIV/40/5/44'>Matthew 5:44</a>)."
+      "text": "Then Jonathan, Simon, and their group withdrew to Bethbasi in the wilderness; they rebuilt the ruins and reinforced its defenses.",
+      "links": "<a href='/AIV/20/9/33'>1Macc 9:33</a>",
+      "comment": "Bethbasi’s fortification became a new base of operations for the resistance."
     },
     {
       "pk": 20009063,
@@ -770,9 +781,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 63,
-      "text": "They raised their eyes and saw a noisy procession, with much baggage; the bridegroom and his friends and brothers coming with drums and musicians and many weapons.",
-      "links": "<a href='/AIV/19/45/8-15'>Psalm 45:8-15</a>",
-      "comment": "The wedding journey showcases celebration amid enmity, evoking contrasting themes of festivity and impending justice."
+      "text": "When Bacchides heard of this, he assembled his entire force and sent orders to the men of Judea.",
+      "links": "<a href='/AIV/20/9/60'>1Macc 9:60</a>",
+      "comment": "Renewed conflict ensues as Bacchides sets out for an extended siege."
     },
     {
       "pk": 20009064,
@@ -782,9 +793,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 64,
-      "text": "Then Jonathan and those in ambush rose up against them, and killed many. The rest fled into the mountains, and they took all their spoils.",
-      "links": "<a href='/AIV/7/18/27'>Judges 18:27</a>",
-      "comment": "Divine justice is executed, but deeper spiritual sense points to God defending His people when they are wronged."
+      "text": "He camped against Bethbasi, besieged it for many days, and constructed engines of war for the assault.",
+      "links": "<a href='/AIV/20/6/51'>1Macc 6:51</a>",
+      "comment": "Typical ancient siege tactics; engines may refer to battering rams and siege towers."
     },
     {
       "pk": 20009065,
@@ -794,9 +805,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 65,
-      "text": "So the wedding ended in mourning and the music turned into lamentation.",
-      "links": "<a href='/AIV/24/7/34'>Jeremiah 7:34</a>",
-      "comment": "The reversal of joy into sorrow illustrates how sin and violence corrupt what should be good, underscoring the biblical theme that only God ultimately turns mourning into joy (<a href='/AIV/19/30/11'>Psalm 30:11</a>)."
+      "text": "Jonathan left Simon in Bethbasi while he went into the surrounding countryside with just a few men.",
+      "links": "<a href='/AIV/20/9/62'>1Macc 9:62</a>",
+      "comment": "Splitting his forces was a risk, but allowed for attacks against enemy positions."
     },
     {
       "pk": 20009066,
@@ -806,9 +817,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 66,
-      "text": "Afterwards, they avenged the blood of their brother, and returned to the river Jordan.",
-      "links": "<a href='/AIV/6/4/19'>Joshua 4:19</a>",
-      "comment": "Justice sought by Jonathan and Simon demonstrates both the ancient customs and the longing for ultimate divine justice fulfilled in the coming Messiah."
+      "text": "He attacked and struck down Odomera and his relatives, as well as the people of Phasiron where they camped.",
+      "links": "<a href='/AIV/20/7/40'>1Macc 7:40</a>",
+      "comment": "Jonathan’s aggressive tactics continue to erode the enemy’s control."
     },
     {
       "pk": 20009067,
@@ -818,9 +829,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 67,
-      "text": "But Bacchides heard of it, and he assembled a large army and gathered his allies from across the Jordan.",
-      "links": "<a href='/AIV/7/6/33'>Judges 6:33</a>",
-      "comment": "Enemies regroup after setbacks; the pattern of opposition and counter-moves recurs, but God's providence governs the outcome."
+      "text": "Afterward, a larger battle ensued. Simon and his men launched a sortie from Bethbasi, setting fire to the siege machines.",
+      "links": "<a href='/AIV/20/9/64'>1Macc 9:64</a>",
+      "comment": "Destroying siege equipment was essential; Simon’s role becomes prominent here."
     },
     {
       "pk": 20009068,
@@ -830,9 +841,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 68,
-      "text": "Jonathan sent his brother Simon to the people who live in the country of the Nabateans, to ask for their help for the defense of his friends.",
-      "links": "<a href='/AIV/1/14/13'>Genesis 14:13</a>",
-      "comment": "Seeking alliances shows prudent stewardship and themes of fraternity, later found in the workings of the universal Church."
+      "text": "They fought Bacchides, overwhelmed him, and pressed him hard; his campaign and plans had failed.",
+      "links": "<a href='/AIV/20/9/5'>1Macc 9:5</a>",
+      "comment": "This is a turning point, with the Jewish forces gaining the upper hand."
     },
     {
       "pk": 20009069,
@@ -842,9 +853,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 69,
-      "text": "But Bacchides left a detachment at Bethbasi. They fought against Jonathan several days.",
-      "links": "<a href='/AIV/7/20/15-17'>Judges 20:15-17</a>",
-      "comment": "Enduring hostility requires perseverance in the faith, a virtue highly esteemed in Christian tradition."
+      "text": "Furious with the renegades who advised him to invade, Bacchides put many to death, then resolved to return home.",
+      "links": "<a href='/AIV/20/9/25'>1Macc 9:25</a>",
+      "comment": "Internal betrayal and failed advice led Bacchides to take revenge on his own supporters."
     },
     {
       "pk": 20009070,
@@ -854,9 +865,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 70,
-      "text": "He secretly sent word to his allies, asking them to seize Jonathan and his companions. But they failed, because their plan was discovered.",
-      "links": "<a href='/AIV/16/6/12'>Nehemiah 6:12-14</a>",
-      "comment": "God’s providence thwarts the plots of the cunning, echoing the Psalmist’s confidence in deliverance from schemes (<a href='/AIV/19/33/10'>Psalm 33:10</a>)."
+      "text": "When Jonathan heard he was leaving, he sent ambassadors to negotiate peace and secure the release of hostages.",
+      "links": "<a href='/AIV/20/9/53'>1Macc 9:53</a>",
+      "comment": "Making peace and recovering hostages restores some stability and leadership."
     },
     {
       "pk": 20009071,
@@ -866,9 +877,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 71,
-      "text": "Instead, they even caught some leaders of the plot and killed them.",
-      "links": "<a href='/AIV/16/6/16'>Nehemiah 6:16</a>",
-      "comment": "Those who plot against the righteous ultimately face the consequences; justice is a recurring aspect of both Old Testament and Christian ethics."
+      "text": "Bacchides agreed, and swore to Jonathan that he would not harm him for as long as he lived.",
+      "links": "<a href='/AIV/20/7/15'>1Macc 7:15</a>",
+      "comment": "The oath-bound truce provided a rare period of peace for Jonathan."
     },
     {
       "pk": 20009072,
@@ -878,9 +889,9 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 72,
-      "text": "Then Jonathan, Simon, and their men took up residence in Bethbasi in the desert; they repaired the breaches in that place and fortified it.",
-      "links": "<a href='/AIV/16/4/7'>Nehemiah 4:7</a>",
-      "comment": "Rebuilding and fortifying points to the faithfulness in adversity; repairing breaches is both a physical and spiritual metaphor for restoring unity and integrity."
+      "text": "Bacchides returned all the captives he had previously taken from Judea, then withdrew to his own land and did not invade their territory again.",
+      "links": "<a href='/AIV/20/9/70'>1Macc 9:70</a>",
+      "comment": "This marks the effective end of Bacchides’s intervention for the time being."
     },
     {
       "pk": 20009073,
@@ -890,10 +901,11 @@
       "bookAbbreviation": "1Macc",
       "chapter": 9,
       "verse": 73,
-      "text": "Bacchides, seeing that his plans had failed, withdrew to his own land. He did not return again to Judea.",
-      "links": "<a href='/AIV/2/14/30'>Exodus 14:30'>Exodus 14:30</a>",
-      "comment": "God’s providence delivers His people, just as He delivered Israel at the Red Sea. Implicitly, this points toward Christ’s ultimate victory over evil and the security of His Church, infallibly protected through adversity."
+      "text": "Thus warfare ceased in Israel. Jonathan settled at Michmash, began judging the people, and eradicated the wicked from Israel.",
+      "links": "<a href='/AIV/20/2/67'>1Macc 2:67</a>",
+      "comment": "Jonathan’s role as leader was clearly established and peace restored—for now.",
+      "sectionHeader": "Jonathan’s Rule Established"
     }
   ],
-  "translatedAt": "2025-12-29T00:38:21.125Z"
+  "translatedAt": "2026-01-01T21:37:03.837Z"
 }
