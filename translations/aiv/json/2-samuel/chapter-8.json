@@ -1,16 +1,13 @@
 {
-  "book": 10,
+  "translation": "AIV",
+  "bookId": "2-samuel",
   "bookName": "2 Samuel",
-  "bookAbbreviation": "2Sam",
+  "bookAbbreviation": "2 Sam",
+  "bookNumber": 10,
   "chapter": 8,
   "verses": [
     {
       "pk": 10008001,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 8,
       "verse": 1,
       "text": "After this, David struck the Philistines and subdued them, and David took control of Metheg-ammah from the hand of the Philistines.",
       "links": "<a href='/AIV/9/7/13'>1 Sam 7:13</a>; <a href='/AIV/19/18/1'>Ps. 18:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 10008002,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 8,
       "verse": 2,
       "text": "He defeated Moab and measured them with a line, making them lie down on the ground; two lines he measured to be put to death, and one full line to be kept alive. So the Moabites became servants to David and brought tribute.",
       "links": "<a href='/AIV/4/24/17'>Num 24:17</a>; <a href='/AIV/19/60/8'>Ps. 60:8</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 10008003,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 8,
       "verse": 3,
       "text": "David also struck Hadadezer son of Rehob, king of Zobah, as he went to restore his control at the River Euphrates.",
       "links": "<a href='/AIV/13/18/3'>1 Chr 18:3</a>; <a href='/AIV/1/15/18'>Gen 15:18</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 10008004,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 8,
       "verse": 4,
       "text": "David captured from him seventeen hundred horsemen and twenty thousand foot soldiers. David hamstrung all the chariot horses, but left enough for a hundred chariots.",
       "links": "<a href='/AIV/13/18/4'>1 Chr 18:4</a>; <a href='/AIV/5/17/16'>Deut 17:16</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 10008005,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 8,
       "verse": 5,
       "text": "When the Arameans of Damascus came to help Hadadezer king of Zobah, David struck down twenty-two thousand men of the Arameans.",
       "links": "<a href='/AIV/13/18/5'>1 Chr 18:5</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 10008006,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 8,
       "verse": 6,
       "text": "Then David set garrisons among the Arameans of Damascus, and the Arameans became servants to David, bringing tribute. And the LORD gave David victory wherever he went.",
       "links": "<a href='/AIV/13/18/6'>1 Chr 18:6</a>; <a href='/AIV/19/18/39'>Ps. 18:39</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 10008007,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 8,
       "verse": 7,
       "text": "David took the shields of gold carried by the servants of Hadadezer and brought them to Jerusalem.",
       "links": "<a href='/AIV/13/18/7'>1 Chr 18:7</a>; <a href='/AIV/19/72/10'>Ps. 72:10</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 10008008,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 8,
       "verse": 8,
       "text": "From Betah and Berothai, cities of Hadadezer, King David took very much bronze.",
       "links": "<a href='/AIV/13/18/8'>1 Chr 18:8</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 10008009,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 8,
       "verse": 9,
       "text": "When Toi king of Hamath heard that David had defeated the entire army of Hadadezer,",
       "links": "<a href='/AIV/13/18/9'>1 Chr 18:9</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 10008010,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 8,
       "verse": 10,
       "text": "he sent his son Joram to King David, to greet him and to bless him, because he had fought against Hadadezer and defeated him. For Hadadezer had been at war with Toi. Joram brought articles of silver, gold, and bronze.",
       "links": "<a href='/AIV/19/72/10'>Ps. 72:10</a>; <a href='/AIV/60/2/12'>1 Pet 2:12</a>",
@@ -127,11 +79,6 @@
     },
     {
       "pk": 10008011,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 8,
       "verse": 11,
       "text": "King David dedicated these to the LORD, along with the silver and gold that he had dedicated from all the nations he subdued:",
       "links": "<a href='/AIV/13/18/11'>1 Chr 18:11</a>; <a href='/AIV/19/68/18'>Ps. 68:18</a>",
@@ -139,11 +86,6 @@
     },
     {
       "pk": 10008012,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 8,
       "verse": 12,
       "text": "from Edom, Moab, the Ammonites, the Philistines, Amalek, and from the spoil of King Hadadezer son of Rehob of Zobah.",
       "links": "<a href='/AIV/13/18/11'>1Chr. 18:11</a>; <a href='/AIV/23/60/8'>Ps. 60:8</a>; <a href='/AIV/10/8/2'>2Sam. 8:2</a>",
@@ -151,11 +93,6 @@
     },
     {
       "pk": 10008013,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 8,
       "verse": 13,
       "text": "David made a name for himself when he returned after striking eighteen thousand Edomites in the Valley of Salt.",
       "links": "<a href='/AIV/19/60/1'>Ps. 60:1</a>; <a href='/AIV/13/18/12'>1 Chr 18:12</a>",
@@ -163,11 +100,6 @@
     },
     {
       "pk": 10008014,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 8,
       "verse": 14,
       "text": "He put garrisons in Edom; all Edom became servants to David. And the LORD gave victory to David wherever he went.",
       "links": "<a href='/AIV/19/44/1-3'>Ps. 44:1-3</a>",
@@ -175,11 +107,6 @@
     },
     {
       "pk": 10008015,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 8,
       "verse": 15,
       "text": "So David reigned over all Israel, and David executed justice and righteousness for all his people.",
       "links": "<a href='/AIV/19/72/1-2'>Ps. 72:1-2</a>; <a href='/AIV/23/11/4'>Isa 11:4</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 10008016,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 8,
       "verse": 16,
       "text": "Joab son of Zeruiah was over the army; Jehoshaphat son of Ahilud was recorder;",
       "links": "<a href='/AIV/13/18/15'>1 Chr 18:15</a>",
@@ -200,11 +122,6 @@
     },
     {
       "pk": 10008017,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 8,
       "verse": 17,
       "text": "Zadok son of Ahitub and Ahimelech son of Abiathar were priests; Seraiah was secretary;",
       "links": "<a href='/AIV/13/18/16'>1 Chr 18:16</a>; <a href='/AIV/19/110/4'>Ps. 110:4</a>",
@@ -212,28 +129,10 @@
     },
     {
       "pk": 10008018,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 8,
       "verse": 18,
       "text": "Benaiah son of Jehoiada was over the Cherethites and Pelethites; and David’s sons were priests.",
       "links": "<a href='/AIV/13/18/17'>1 Chr 18:17</a>; <a href='/AIV/19/132/11'>Ps. 132:11</a>",
       "comment": "David’s sons serving as priests suggests a royal priesthood, linking kingship and priesthood, later echoed in Christ as both King and High Priest. The presence of trusted guardians (Cherethites and Pelethites) points to the enduring protection and leadership within God’s people."
-    }
-  ],
-  "translatedAt": "2025-12-28T06:56:15.300Z",
-  "sections": [
-    {
-      "title": "David’s Victories over His Enemies",
-      "startVerse": 1,
-      "endVerse": 14
-    },
-    {
-      "title": "David’s Officers",
-      "startVerse": 15,
-      "endVerse": 18
     }
   ]
 }

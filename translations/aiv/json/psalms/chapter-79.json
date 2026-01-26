@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 79,
   "verses": [
     {
       "pk": 23079001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 79,
       "verse": 1,
       "text": "O God, the nations have entered Your inheritance; they have defiled Your holy temple; they have made Jerusalem a heap of ruins.",
       "links": "<a href='/AIV/19/74/3-7'>Ps. 74:3-7</a>; <a href='/AIV/25/1/10'>Lam. 1:10</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23079002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 79,
       "verse": 2,
       "text": "They have given the dead bodies of Your servants as food for the birds of the heavens, the flesh of Your faithful to the beasts of the earth.",
       "links": "<a href='/AIV/24/7/33'>Jer. 7:33</a>; <a href='/AIV/19/44/22'>Ps. 44:22</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23079003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 79,
       "verse": 3,
       "text": "They have poured out their blood like water all around Jerusalem, and there was no one to bury them.",
       "links": "<a href='/AIV/25/2/21'>Lam. 2:21</a>; <a href='/AIV/24/14/16'>Jer. 14:16</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23079004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 79,
       "verse": 4,
       "text": "We have become a reproach to our neighbors, mocked and scorned by those around us.",
       "links": "<a href='/AIV/19/44/13-14'>Ps. 44:13-14</a>; <a href='/AIV/25/2/15'>Lam. 2:15</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23079005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 79,
       "verse": 5,
       "text": "How long, O LORD? Will You be angry forever? Will Your jealousy burn like fire?",
       "links": "<a href='/AIV/19/13/1'>Ps. 13:1</a>; <a href='/AIV/24/21/12'>Jer. 21:12</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23079006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 79,
       "verse": 6,
       "text": "Pour out Your wrath on the nations that do not know You, and on kingdoms that do not call on Your name.",
       "links": "<a href='/AIV/24/10/25'>Jer. 10:25</a>; <a href='/AIV/19/69/24'>Ps. 69:24</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23079007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 79,
       "verse": 7,
       "text": "For they have devoured Jacob and laid waste his dwelling place.",
       "links": "<a href='/AIV/25/2/2'>Lam. 2:2</a>; <a href='/AIV/19/53/4'>Ps. 53:4</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 23079008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 79,
       "verse": 8,
       "text": "Do not remember against us the iniquities of our ancestors; let Your compassion come quickly to meet us, for we are brought very low.",
       "links": "<a href='/AIV/19/106/6'>Ps. 106:6</a>; <a href='/AIV/27/9/16'>Dan. 9:16</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 23079009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 79,
       "verse": 9,
       "text": "Help us, O God of our salvation, for the glory of Your name; deliver us and atone for our sins, for Your name’s sake.",
       "links": "<a href='/AIV/19/25/11'>Ps. 25:11</a>; <a href='/AIV/26/36/22'>Ezek. 36:22</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 23079010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 79,
       "verse": 10,
       "text": "Why should the nations say, 'Where is their God?' Let the avenging of the outpoured blood of Your servants be known among the nations before our eyes.",
       "links": "<a href='/AIV/19/115/2'>Ps. 115:2</a>; <a href='/AIV/05/32/43'>Deut. 32:43</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 23079011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 79,
       "verse": 11,
       "text": "Let the groaning of the prisoners come before You; according to the greatness of Your power, preserve those doomed to die.",
       "links": "<a href='/AIV/19/102/20'>Ps. 102:20</a>; <a href='/AIV/23/42/7'>Isa. 42:7</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 23079012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 79,
       "verse": 12,
       "text": "And return to our neighbors sevenfold into their lap the reproach with which they have reproached you, O Lord.",
       "links": "<a href='/AIV/01/04/15'>Gen. 4:15</a>; <a href='/AIV/07/16/28'>Judg. 16:28</a>",
@@ -152,34 +94,11 @@
     },
     {
       "pk": 23079013,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 79,
       "verse": 13,
       "text": "Then we Your people, the sheep of Your pasture, will give thanks to You forever; from generation to generation we will proclaim Your praise.",
       "links": "<a href='/AIV/19/100/3'>Ps. 100:3</a>; <a href='/AIV/23/40/11'>Isa. 40:11</a>",
       "comment": "God’s people as sheep is a powerful image fulfilled in Christ the Good Shepherd (John 10:11), who cares for, gathers, and feeds His flock, inviting the redeemed to an unending praise.",
       "sectionHeader": "Promise of Praise and Thanksgiving"
-    }
-  ],
-  "translatedAt": "2025-12-24T06:27:17.433Z",
-  "sections": [
-    {
-      "title": "Lament Over the Destruction of Jerusalem",
-      "startVerse": 1,
-      "endVerse": 7
-    },
-    {
-      "title": "Prayer for Mercy and Deliverance",
-      "startVerse": 8,
-      "endVerse": 12
-    },
-    {
-      "title": "Promise of Praise and Thanksgiving",
-      "startVerse": 13,
-      "endVerse": 13
     }
   ]
 }

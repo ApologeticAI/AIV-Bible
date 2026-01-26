@@ -1,16 +1,13 @@
 {
-  "book": 17,
+  "translation": "AIV",
+  "bookId": "tobit",
   "bookName": "Tobit",
   "bookAbbreviation": "Tob",
+  "bookNumber": 17,
   "chapter": 2,
   "verses": [
     {
       "pk": 17002001,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 2,
       "verse": 1,
       "text": "Then during the reign of Esar-haddon I returned home, and my wife Anna and my son Tobias were restored to me. At our festival of Pentecost, which is the sacred festival of weeks, a good dinner was prepared for me and I reclined to eat.",
       "links": "<a href='/AIV/3/23/15'>Lev. 23:15-21</a>; <a href='/AIV/5/16/9'>Deut. 16:9-12</a>; <a href='/AIV/51/2/1'>Acts. 2:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 17002002,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 2,
       "verse": 2,
       "text": "When the table was set for me and an abundance of food placed before me, I said to my son Tobias, 'Go, my child, and bring whatever poor person you may find of our people among the exiles in Nineveh, who is wholeheartedly mindful of God, and he shall eat together with me. I will wait for you, until you come back.'",
       "links": "<a href='/AIV/5/15/7'>Deut. 15:7</a>; <a href='/AIV/20/19/17'>Prov. 19:17</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 17002003,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 2,
       "verse": 3,
       "text": "So Tobias went to look for some poor person of our people. When he had returned he said, 'Father!' And I replied, 'Here I am, my child.' Then he went on to say, 'Look, father, one of our own people has been murdered and thrown into the market place, and now he lies there strangled.'",
       "links": "<a href='/AIV/11/21/16'>Judg. 21:16</a>; <a href='/AIV/19/79/3'>Ps. 79:3</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 17002004,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 2,
       "verse": 4,
       "text": "I immediately rose from the meal, left the food untouched, and took the body from the marketplace. I laid it in a room until sunset so I could bury it.",
       "links": "<a href='/AIV/3/19/17'>Lev. 19:17</a>; <a href='/AIV/41/15/46'>Mark 15:46</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 17002005,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 2,
       "verse": 5,
       "text": "When I returned, I washed myself and ate my food in sorrow.",
       "links": "<a href='/AIV/23/102/4'>Ps. 102:4</a>; <a href='/AIV/22/3/24'>Job. 3:24</a>; <a href='/AIV/23/42/3'>Ps. 42:3</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 17002006,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 2,
       "verse": 6,
       "text": "Then I remembered the prophecy of Amos, how he said against Bethel, 'Your festivals shall be turned into mourning, and all your songs into lamentation.' And I wept.",
       "links": "<a href='/AIV/37/8/10'>Amos. 8:10</a>; <a href='/AIV/36/1/16'>Joel. 1:16</a>; <a href='/AIV/31/5/15'>Lam. 5:15</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 17002007,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 2,
       "verse": 7,
       "text": "When the sun had set, I went and dug a grave and buried him.",
       "links": "<a href='/AIV/17/1/17'>Tob. 1:17-18</a>; <a href='/AIV/28/7/33'>Sir. 7:33</a>; <a href='/AIV/47/25/35'>Matt. 25:35-36</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 17002008,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 2,
       "verse": 8,
       "text": "And my neighbors laughed and said, 'Is he still not afraid? He has already been hunted down to be put to death for doing this, and he ran away; yet here he is again burying the dead!'",
       "links": "<a href='/AIV/34/6/10'>Dan. 6:10-13</a>; <a href='/AIV/47/5/10'>Matt. 5:10-12</a>; <a href='/AIV/65/11/36'>Heb. 11:36-38</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 17002009,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 2,
       "verse": 9,
       "text": "That same night I washed myself and went into my courtyard and slept by the wall of the courtyard, with my face uncovered because of the heat.",
       "links": "<a href='/AIV/22/2/8'>Job. 2:8</a>; <a href='/AIV/5/24/13'>Deut. 24:13</a>; <a href='/AIV/23/32/4'>Ps. 32:4</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 17002010,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 2,
       "verse": 10,
       "text": "I did not know that there were sparrows on the wall; their fresh droppings fell into my eyes and produced white films. I went to physicians to be healed, but the more they treated me with ointments, the more my vision was obscured by the white films, until I became completely blind. For four years I remained unable to see. All my kindred were sorry for me, and Ahikar took care of me for two years before he went to Elymais.",
       "links": "<a href='/AIV/50/9/1'>John. 9:1-3</a>; <a href='/AIV/12/5/10'>2Kgs. 5:10-14</a>; <a href='/AIV/23/69/20'>Ps. 69:20</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 17002011,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 2,
       "verse": 11,
       "text": "She would deliver what she made to the owners, and they would pay her wages.",
       "links": "<a href='/AIV/20/31/24'>Prov. 31:24</a>; <a href='/AIV/3/19/13'>Lev. 19:13</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 17002012,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 2,
       "verse": 12,
       "text": "She used to send what she made to the owners and they would pay wages to her. One day, the seventh of Dystrus, when she cut off a piece she had woven and sent it to the owners, they paid her full wages and also gave her a young goat for a meal.",
       "links": "<a href='/AIV/3/23/12'>Lev. 23:12</a>; <a href='/AIV/26/45/17'>Ezek. 45:17</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 17002013,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 2,
       "verse": 13,
       "text": "But when she came home, the goat began to bleat. I said to her, 'Where did you get this goat? Is it stolen? Return it to the owners, for we must not eat anything unlawfully taken.'",
       "links": "<a href='/AIV/2/20/15'>Ex. 20:15</a>; <a href='/AIV/3/19/11'>Lev. 19:11</a>",
@@ -165,33 +102,10 @@
     },
     {
       "pk": 17002014,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 2,
       "verse": 14,
       "text": "But she said to me, 'It was given to me as a gift in addition to my wages.' But I did not believe her, and told her to return it to the owners. I became flushed with anger against her over this. Then she replied to me, 'Where are your acts of charity? Where are your righteous deeds? These things are known about you!'",
       "links": "<a href='/AIV/20/19/17'>Prov. 19:17</a>; <a href='/AIV/40/6/1-4'>Matt. 6:1-4</a>",
       "comment": "Anna’s defense highlights recognition of good deeds among the community. Authentic righteousness is known by fruit, as Christ taught (Matt. 7:16). Personal conflict teaches humility and the reality of virtue practiced in hidden ways."
-    }
-  ],
-  "translatedAt": "2025-12-28T23:45:03.467Z",
-  "sections": [
-    {
-      "title": "Tobit's Burial of the Murdered Israelite",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "Tobit's Blindness",
-      "startVerse": 7,
-      "endVerse": 9
-    },
-    {
-      "title": "Anna Earns a Living and Tobit's Dispute over the Goat",
-      "startVerse": 10,
-      "endVerse": 14
     }
   ]
 }

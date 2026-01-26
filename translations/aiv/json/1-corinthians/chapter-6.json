@@ -1,16 +1,13 @@
 {
-  "book": 53,
+  "translation": "AIV",
+  "bookId": "1-corinthians",
   "bookName": "1 Corinthians",
-  "bookAbbreviation": "1Cor",
+  "bookAbbreviation": "1 Cor",
+  "bookNumber": 53,
   "chapter": 6,
   "verses": [
     {
       "pk": 53006001,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 6,
       "verse": 1,
       "text": "If any of you has a dispute with another, does he dare to take it before the unrighteous instead of the saints?",
       "links": "<a href='/AIV/40/18/15-17'>Matt. 18:15-17</a>; <a href='/AIV/19/82/1-2'>Ps. 82:1-2</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 53006002,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 6,
       "verse": 2,
       "text": "Do you not know that the saints will judge the world? And if the world is judged by you, are you unworthy to judge trivial cases?",
       "links": "<a href='/AIV/40/19/28'>Matt. 19:28</a>; <a href='/AIV/66/20/4'>Rev. 20:4</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 53006003,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 6,
       "verse": 3,
       "text": "Do you not know that we will judge angels? How much more, then, matters of this life!",
       "links": "<a href='/AIV/65/1/6'>Jude 1:6</a>; <a href='/AIV/66/2/26'>Rev. 2:26</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 53006004,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 6,
       "verse": 4,
       "text": "If you have ordinary cases, do you appoint as judges those who mean nothing in the church?",
       "links": "<a href='/AIV/44/4/35'>Acts 4:35</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 53006005,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 6,
       "verse": 5,
       "text": "I say this to shame you. Is it really so that there is no one wise among you who is able to judge between his brothers?",
       "links": "<a href='/AIV/20/2/6'>Prov. 2:6</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 53006006,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 6,
       "verse": 6,
       "text": "But brother goes to law against brother, and that before unbelievers.",
       "links": "<a href='/AIV/40/5/23-24'>Matt. 5:23-24</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 53006007,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 6,
       "verse": 7,
       "text": "To have lawsuits at all among you is already a defeat for you. Why not rather suffer wrong? Why not rather be defrauded?",
       "links": "<a href='/AIV/40/5/39-40'>Matt. 5:39-40</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 53006008,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 6,
       "verse": 8,
       "text": "Instead, you yourselves do wrong and defraud—even your own brothers.",
       "links": "<a href='/AIV/20/20/23'>Prov. 20:23</a>; <a href='/AIV/40/7/12'>Matt. 7:12</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 53006009,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 6,
       "verse": 9,
       "text": "Do you not know that the unrighteous will not inherit the kingdom of God? Do not be deceived: neither the sexually immoral, nor idolaters, nor adulterers, nor men who practice sexual immorality with others,",
       "links": "<a href='/AIV/48/5/19-21'>Gal. 5:19-21</a>; <a href='/AIV/66/21/8'>Rev. 21:8</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 53006010,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 6,
       "verse": 10,
       "text": "Nor thieves, nor the greedy, nor drunkards, nor slanderers, nor swindlers will inherit the kingdom of God.",
       "links": "<a href='/AIV/19/15/1-3'>Ps. 15:1-3</a>; <a href='/AIV/66/22/15'>Rev. 22:15</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 53006011,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 6,
       "verse": 11,
       "text": "And such were some of you. But you were washed, you were sanctified, you were justified in the name of the Lord Jesus Christ and by the Spirit of our God.",
       "links": "<a href='/AIV/44/2/38'>Acts 2:38</a>; <a href='/AIV/56/3/5'>Titus 3:5</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 53006012,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 6,
       "verse": 12,
       "text": "All things are lawful for me, but not all things are beneficial. All things are lawful for me, but I will not be mastered by anything.",
       "links": "<a href='/AIV/48/5/13'>Gal. 5:13</a>; <a href='/AIV/45/6/14'>Rom. 6:14</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 53006013,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 6,
       "verse": 13,
       "text": "Food is for the stomach and the stomach for food, but God will destroy both one and the other. The body is not for sexual immorality but for the Lord, and the Lord for the body.",
       "links": "<a href='/AIV/45/12/1'>Rom. 12:1</a>; <a href='/AIV/43/6/27'>John 6:27</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 53006014,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 6,
       "verse": 14,
       "text": "And God raised the Lord and will also raise us up through his power.",
       "links": "<a href='/AIV/45/8/11'>Rom. 8:11</a>; <a href='/AIV/43/11/25'>John 11:25</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 53006015,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 6,
       "verse": 15,
       "text": "Do you not know that your bodies are members of Christ? Shall I then take the members of Christ and make them members of a prostitute? Never!",
       "links": "<a href='/AIV/45/12/5'>Rom. 12:5</a>; <a href='/AIV/49/5/30'>Eph. 5:30</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 53006016,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 6,
       "verse": 16,
       "text": "Do you not know that he who is joined to a prostitute becomes one body with her? For as it is written, 'The two will become one flesh.'",
       "links": "<a href='/AIV/1/2/24'>Gen. 2:24</a>; <a href='/AIV/40/19/5'>Matt. 19:5</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 53006017,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 6,
       "verse": 17,
       "text": "But he who is joined to the Lord becomes one spirit with him.",
       "links": "<a href='/AIV/43/17/21-23'>John 17:21-23</a>; <a href='/AIV/45/8/9'>Rom. 8:9</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 53006018,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 6,
       "verse": 18,
       "text": "Flee from sexual immorality. Every other sin a person commits is outside the body, but the sexually immoral person sins against his own body.",
       "links": "<a href='/AIV/52/4/3-4'>1 Thess. 4:3-4</a>; <a href='/AIV/40/5/28'>Matt. 5:28</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 53006019,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 6,
       "verse": 19,
       "text": "Or do you not know that your body is a temple of the Holy Spirit who is in you, whom you have from God? You are not your own,",
       "links": "<a href='/AIV/46/3/16'>1 Cor. 3:16</a>; <a href='/AIV/43/14/17'>John 14:17</a>",
@@ -237,33 +144,10 @@
     },
     {
       "pk": 53006020,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 6,
       "verse": 20,
       "text": "For you were bought with a price. Therefore glorify God in your body.",
       "links": "<a href='/AIV/60/1/18-19'>1 Pet. 1:18-19</a>; <a href='/AIV/45/6/13'>Rom. 6:13</a>",
       "comment": "Salvation is costly, accomplished by Christ’s sacrifice. Therefore, living out one’s faith bodily is a spiritual act of worship, pointing to the continuing call to holiness rooted in the redemption brought by Christ."
-    }
-  ],
-  "translatedAt": "2025-12-24T11:46:12.871Z",
-  "sections": [
-    {
-      "title": "Lawsuits Before Unbelievers",
-      "startVerse": 1,
-      "endVerse": 8
-    },
-    {
-      "title": "Warning Against Unrighteousness",
-      "startVerse": 9,
-      "endVerse": 11
-    },
-    {
-      "title": "Glorify God in Your Body",
-      "startVerse": 12,
-      "endVerse": 20
     }
   ]
 }

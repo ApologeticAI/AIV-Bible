@@ -1,16 +1,13 @@
 {
-  "book": 69,
+  "translation": "AIV",
+  "bookId": "1-john",
   "bookName": "1 John",
-  "bookAbbreviation": "1John",
+  "bookAbbreviation": "1 John",
+  "bookNumber": 69,
   "chapter": 5,
   "verses": [
     {
       "pk": 69005001,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 5,
       "verse": 1,
       "text": "Everyone who believes that Jesus is the Christ has been born of God, and everyone who loves the Father also loves the one born of Him.",
       "links": "<a href='/AIV/43/20/31'>John 20:31</a>; <a href='/AIV/43/1/12-13'>John 1:12-13</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 69005002,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 5,
       "verse": 2,
       "text": "By this we know that we love the children of God: when we love God and obey His commandments.",
       "links": "<a href='/AIV/43/14/21'>John 14:21</a>; <a href='/AIV/62/2/5'>1 John 2:5</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 69005003,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 5,
       "verse": 3,
       "text": "For this is the love of God: that we keep His commandments. And His commandments are not burdensome.",
       "links": "<a href='/AIV/40/11/30'>Matthew 11:30</a>; <a href='/AIV/19/119/165'>Psalm 119:165</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 69005004,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 5,
       "verse": 4,
       "text": "For everyone who has been born of God overcomes the world. And this is the victory that has overcome the world—our faith.",
       "links": "<a href='/AIV/43/16/33'>John 16:33</a>; <a href='/AIV/45/8/37'>Romans 8:37</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 69005005,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 5,
       "verse": 5,
       "text": "Who is it that overcomes the world except the one who believes that Jesus is the Son of God?",
       "links": "<a href='/AIV/43/1/49'>John 1:49</a>; <a href='/AIV/58/4/14'>Hebrews 4:14</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 69005006,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 5,
       "verse": 6,
       "text": "This is He who came by water and blood—Jesus Christ; not by water only, but by water and blood. And the Spirit is the one who testifies, because the Spirit is truth.",
       "links": "<a href='/AIV/43/19/34'>John 19:34</a>; <a href='/AIV/40/3/16'>Matthew 3:16</a>; <a href='/AIV/43/15/26'>John 15:26</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 69005007,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 5,
       "verse": 7,
       "text": "For there are three that testify:",
       "links": "<a href='/AIV/05/19/15'>Deuteronomy 19:15</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 69005008,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 5,
       "verse": 8,
       "text": "the Spirit and the water and the blood; and these three agree as one.",
       "links": "<a href='/AIV/43/19/34-35'>John 19:34-35</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 69005009,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 5,
       "verse": 9,
       "text": "If we receive the testimony of men, the testimony of God is greater, for this is the testimony of God that He has borne concerning His Son.",
       "links": "<a href='/AIV/40/3/17'>Matthew 3:17</a>; <a href='/AIV/43/5/37'>John 5:37</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 69005010,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 5,
       "verse": 10,
       "text": "The one who believes in the Son of God has the testimony in himself. The one who does not believe God has made Him a liar, because he has not believed in the testimony that God has given concerning His Son.",
       "links": "<a href='/AIV/43/3/18'>John 3:18</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 69005011,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 5,
       "verse": 11,
       "text": "And this is the testimony: that God has given us eternal life, and this life is in His Son.",
       "links": "<a href='/AIV/43/5/24'>John 5:24</a>; <a href='/AIV/43/11/25'>John 11:25</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 69005012,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 5,
       "verse": 12,
       "text": "Whoever has the Son has life; whoever does not have the Son of God does not have life.",
       "links": "<a href='/AIV/43/14/6'>John 14:6</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 69005013,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 5,
       "verse": 13,
       "text": "I write these things to you who believe in the name of the Son of God, so that you may know that you have eternal life.",
       "links": "<a href='/AIV/43/20/31'>John 20:31</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 69005014,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 5,
       "verse": 14,
       "text": "And this is the confidence that we have toward Him: that if we ask anything according to His will, He hears us.",
       "links": "<a href='/AIV/40/7/7'>Matthew 7:7</a>; <a href='/AIV/43/14/13'>John 14:13</a>",
@@ -178,11 +110,6 @@
     },
     {
       "pk": 69005015,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 5,
       "verse": 15,
       "text": "And if we know that He hears us in whatever we ask, we know that we have the requests that we have asked of Him.",
       "links": "<a href='/AIV/43/15/7'>John 15:7</a>",
@@ -190,11 +117,6 @@
     },
     {
       "pk": 69005016,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 5,
       "verse": 16,
       "text": "If anyone sees his brother committing a sin not leading to death, he shall ask, and God will give him life—to those who commit sins not leading to death. There is sin that leads to death; I do not say that one should pray for that.",
       "links": "<a href='/AIV/58/6/4-6'>Hebrews 6:4-6</a>; <a href='/AIV/40/12/31-32'>Matthew 12:31-32</a>",
@@ -202,11 +124,6 @@
     },
     {
       "pk": 69005017,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 5,
       "verse": 17,
       "text": "All wrongdoing is sin, but there is sin that does not lead to death.",
       "links": "<a href='/AIV/40/12/32'>Matthew 12:32</a>",
@@ -214,11 +131,6 @@
     },
     {
       "pk": 69005018,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 5,
       "verse": 18,
       "text": "We know that anyone born of God does not keep on sinning, but the one who is born of God keeps him safe, and the evil one does not touch him.",
       "links": "<a href='/AIV/62/3/9'>1 John 3:9</a>; <a href='/AIV/40/6/13'>Matthew 6:13</a>",
@@ -227,11 +139,6 @@
     },
     {
       "pk": 69005019,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 5,
       "verse": 19,
       "text": "We know that we are from God, and the whole world lies under the power of the evil one.",
       "links": "<a href='/AIV/43/17/15-16'>John 17:15-16</a>",
@@ -239,11 +146,6 @@
     },
     {
       "pk": 69005020,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 5,
       "verse": 20,
       "text": "And we know that the Son of God has come and has given us understanding, so that we may know Him who is true; and we are in Him who is true, in His Son Jesus Christ. He is the true God and eternal life.",
       "links": "<a href='/AIV/43/17/3'>John 17:3</a>; <a href='/AIV/43/1/1-2'>John 1:1-2</a>",
@@ -251,43 +153,10 @@
     },
     {
       "pk": 69005021,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 5,
       "verse": 21,
       "text": "Little children, keep yourselves from idols.",
       "links": "<a href='/AIV/02/20/3-5'>Exodus 20:3-5</a>; <a href='/AIV/46/10/14'>1 Corinthians 10:14</a>",
       "comment": "The epistle closes with an exhortation to remain faithful and to avoid idolatry—anything that would rival God’s exclusive claim on the believer’s heart. In the early Church, idolatry could refer to both external images and internal attachments, reminding the faithful to keep true worship and full devotion."
-    }
-  ],
-  "translatedAt": "2025-12-24T12:32:00.106Z",
-  "sections": [
-    {
-      "title": "Faith in Jesus and Love for God",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "The Witness to Jesus Christ",
-      "startVerse": 6,
-      "endVerse": 12
-    },
-    {
-      "title": "Assurance of Eternal Life",
-      "startVerse": 13,
-      "endVerse": 13
-    },
-    {
-      "title": "Confidence in Prayer and Sin Leading to Death",
-      "startVerse": 14,
-      "endVerse": 17
-    },
-    {
-      "title": "Final Exhortations",
-      "startVerse": 18,
-      "endVerse": 21
     }
   ]
 }

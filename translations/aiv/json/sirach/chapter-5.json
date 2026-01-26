@@ -1,16 +1,13 @@
 {
-  "book": 28,
+  "translation": "AIV",
+  "bookId": "sirach",
   "bookName": "Sirach",
   "bookAbbreviation": "Sir",
+  "bookNumber": 28,
   "chapter": 5,
   "verses": [
     {
       "pk": 28005001,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 5,
       "verse": 1,
       "text": "Do not rely on your wealth, and do not say, 'I have enough.'",
       "links": "<a href='/AIV/19/49/6-7'>Ps. 49:6-7</a>; <a href='/AIV/20/11/28'>Prov. 11:28</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 28005002,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 5,
       "verse": 2,
       "text": "Do not follow your strength to walk in the desires of your heart.",
       "links": "<a href='/AIV/24/17/9'>Jer. 17:9</a>; <a href='/AIV/19/81/12'>Ps. 81:12</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 28005003,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 5,
       "verse": 3,
       "text": "Do not say, 'Who can overpower me?' For the Lord will surely punish you.",
       "links": "<a href='/AIV/19/10/4'>Ps. 10:4</a>; <a href='/AIV/20/16/18'>Prov. 16:18</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 28005004,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 5,
       "verse": 4,
       "text": "Do not say, 'I have sinned, and nothing bad happened to me,' for the Lord is patient.",
       "links": "<a href='/AIV/45/2/4'>Rom. 2:4</a>; <a href='/AIV/19/103/8-10'>Ps. 103:8-10</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 28005005,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 5,
       "verse": 5,
       "text": "Do not be so confident in forgiveness that you keep adding sin upon sin.",
       "links": "<a href='/AIV/45/6/1'>Rom. 6:1</a>; <a href='/AIV/19/19/13'>Ps. 19:13</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 28005006,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 5,
       "verse": 6,
       "text": "Do not say, 'His mercy is great, He will forgive the abundance of my sins.' For both mercy and wrath come from Him, and His anger rests on sinners.",
       "links": "<a href='/AIV/56/2/11'>Titus 2:11</a>; <a href='/AIV/40/3/7'>Matt. 3:7</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 28005007,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 5,
       "verse": 7,
       "text": "Do not delay to turn to the Lord, and do not put off repentance from day to day.",
       "links": "<a href='/AIV/61/3/9'>2 Pet 3:9</a>; <a href='/AIV/19/95/7-8'>Ps. 95:7-8</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 28005008,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 5,
       "verse": 8,
       "text": "Do not depend on dishonest wealth, for it will not benefit you on the day of calamity.",
       "links": "<a href='/AIV/24/11/4'>Prov. 11:4</a>; <a href='/AIV/23/49/6'>Ps. 49:6-7</a>; <a href='/AIV/49/12/20'>Luke. 12:20-21</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 28005009,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 5,
       "verse": 9,
       "text": "Do not winnow in every wind, or follow every path.",
       "links": "<a href='/AIV/56/4/14'>Eph. 4:14</a>; <a href='/AIV/66/1/6'>Jas. 1:6</a>; <a href='/AIV/24/4/14'>Prov. 4:14-15</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 28005010,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 5,
       "verse": 10,
       "text": "Stand firm for what you know, and let your speech be consistent.",
       "links": "<a href='/AIV/53/15/58'>1Cor. 15:58</a>; <a href='/AIV/47/5/37'>Matt. 5:37</a>; <a href='/AIV/66/3/17'>Jas. 3:17</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 28005011,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 5,
       "verse": 11,
       "text": "Be quick to hear, but deliberate in answering.",
       "links": "<a href='/AIV/66/1/19'>Jas. 1:19</a>; <a href='/AIV/24/18/13'>Prov. 18:13</a>; <a href='/AIV/24/13/3'>Prov. 13:3</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 28005012,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 5,
       "verse": 12,
       "text": "If you know what to say, answer your neighbor; but if not, put your hand over your mouth.",
       "links": "<a href='/AIV/24/17/28'>Prov. 17:28</a>; <a href='/AIV/22/29/9'>Job. 29:9-10</a>; <a href='/AIV/66/3/2'>Jas. 3:2</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 28005013,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 5,
       "verse": 13,
       "text": "Honor and dishonor come from speaking, and the tongue of mortals may be their downfall.",
       "links": "<a href='/AIV/66/3/8'>Jas. 3:8-10</a>; <a href='/AIV/24/18/21'>Prov. 18:21</a>; <a href='/AIV/47/12/36'>Matt. 12:36-37</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 28005014,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 5,
       "verse": 14,
       "text": "Do not be called double-tongued and do not lay traps with your tongue; for shame comes to the thief, and severe condemnation to the double-tongued.",
       "links": "<a href='/AIV/66/1/8'>Jas. 1:8</a>; <a href='/AIV/24/6/16'>Prov. 6:16-17</a>; <a href='/AIV/23/52/2'>Ps. 52:2-4</a>",
@@ -176,28 +108,10 @@
     },
     {
       "pk": 28005015,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 5,
       "verse": 15,
       "text": "In great and small matters cause no harm.",
       "links": "<a href='/AIV/47/7/12'>Matt. 7:12</a>; <a href='/AIV/52/13/10'>Rom. 13:10</a>; <a href='/AIV/49/16/10'>Luke. 16:10</a>",
       "comment": "Sirach enjoins a universal ethic of non-maleficence, emphasizing that one should avoid causing harm in matters both great and small (cf. Romans 12:17-18)."
-    }
-  ],
-  "translatedAt": "2025-12-28T04:58:59.430Z",
-  "sections": [
-    {
-      "title": "Warnings Against Presumption and Delay in Repentance",
-      "startVerse": 1,
-      "endVerse": 9
-    },
-    {
-      "title": "Guard Your Speech and Actions",
-      "startVerse": 10,
-      "endVerse": 15
     }
   ]
 }

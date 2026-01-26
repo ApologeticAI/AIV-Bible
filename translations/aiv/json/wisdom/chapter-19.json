@@ -1,16 +1,13 @@
 {
-  "book": 27,
+  "translation": "AIV",
+  "bookId": "wisdom",
   "bookName": "Wisdom",
   "bookAbbreviation": "Wis",
+  "bookNumber": 27,
   "chapter": 19,
   "verses": [
     {
       "pk": 27019001,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 19,
       "verse": 1,
       "text": "But the wicked were merciless until the very end, for God knew beforehand even their future actions.",
       "links": "<a href='/AIV/02/14/4'>Ex. 14:4</a>; <a href='/AIV/19/94/11'>Ps. 94:11</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 27019002,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 19,
       "verse": 2,
       "text": "When they allowed Your people to depart and hurried them away, they quickly changed their minds and pursued them.",
       "links": "<a href='/AIV/02/14/5-9'>Ex. 14:5-9</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 27019003,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 19,
       "verse": 3,
       "text": "Indeed, while they were still mourning at the graves and lamenting the burial of the dead, they undertook another foolish plan—driven by madness, they pursued as fugitives those whom they had begged to leave.",
       "links": "<a href='/AIV/02/12/30-34'>Ex. 12:30-34</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 27019004,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 19,
       "verse": 4,
       "text": "For the fate they deserved drew them on to this end, and made them forget what had happened, in order that they might fill up the punishment that their torments still lacked,",
       "links": "<a href='/AIV/02/9/16'>Ex. 9:16</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 27019005,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 19,
       "verse": 5,
       "text": "and that your people might experience an incredible journey, but they themselves might meet a strange death.",
       "links": "<a href='/AIV/02/14/17-18'>Ex. 14:17-18</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 27019006,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 19,
       "verse": 6,
       "text": "For the whole creation, in its own nature, was fashioned anew, obeying Your commands, so that Your servants could be unharmed.",
       "links": "<a href='/AIV/02/14/21-22'>Ex. 14:21-22</a>; <a href='/AIV/19/114/3-7'>Ps. 114:3-7</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 27019007,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 19,
       "verse": 7,
       "text": "A cloud overshadowed the camp, and dry land appeared where before was water; a safe road opened amid the waves, and a green plain sprang out from the surging sea.",
       "links": "<a href='/AIV/02/13/21-22'>Ex. 13:21-22</a>; <a href='/AIV/19/77/19-20'>Ps. 77:19-20</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 27019008,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 19,
       "verse": 8,
       "text": "Through which an entire nation passed, protected by Your hand, seeing marvelous wonders.",
       "links": "<a href='/AIV/02/14/29-31'>Ex. 14:29-31</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 27019009,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 19,
       "verse": 9,
       "text": "They were nourished like horses in a pasture, leaped like lambs, giving You praise, O Lord, their Deliverer.",
       "links": "<a href='/AIV/19/114/1-2'>Ps. 114:1-2</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 27019010,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 19,
       "verse": 10,
       "text": "For they still remembered what had happened during their stay: how the earth itself gave birth to swarms of insects instead of cattle, and how the river spewed forth multitudes of frogs instead of fish.",
       "links": "<a href='/AIV/02/8/5-6'>Ex. 8:5-6</a>; <a href='/AIV/02/8/17-18'>Ex. 8:17-18</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 27019011,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 19,
       "verse": 11,
       "text": "Later, they saw a new kind of bird, when, led by desire, birds rose up out of the sea to meet their need.",
       "links": "<a href='/AIV/02/16/13'>Ex. 16:13</a>; <a href='/AIV/19/78/27-28'>Ps. 78:27-28</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 27019012,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 19,
       "verse": 12,
       "text": "for, to give them relief, quails came up from the sea.",
       "links": "<a href='/AIV/2/16/13'>Exod. 16:13</a>; <a href='/AIV/4/11/31'>Num. 11:31-32</a>; <a href='/AIV/23/78/26'>Ps. 78:26-29</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 27019013,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 19,
       "verse": 13,
       "text": "The punishments did not come upon the sinners without prior signs in the violence of thunder, for they justly suffered because of their wicked acts; for they practiced a more bitter hatred of strangers.",
       "links": "<a href='/AIV/2/9/23'>Exod. 9:23-26</a>; <a href='/AIV/2/22/21'>Exod. 22:21</a>; <a href='/AIV/5/10/19'>Deut. 10:19</a>",
@@ -166,11 +103,6 @@
     },
     {
       "pk": 27019014,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 19,
       "verse": 14,
       "text": "Others had refused to receive strangers when they came to them, but these made slaves of guests who were their benefactors.",
       "links": "<a href='/AIV/02/1/13-14'>Ex. 1:13-14</a>",
@@ -178,11 +110,6 @@
     },
     {
       "pk": 27019015,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 19,
       "verse": 15,
       "text": "And not only so — but, while punishment of some sort will come upon the former for having received strangers with hostility,",
       "links": "<a href='/AIV/01/47/11-12'>Gen. 47:11-12</a>",
@@ -190,11 +117,6 @@
     },
     {
       "pk": 27019016,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 19,
       "verse": 16,
       "text": "the latter, having first received them with festal celebrations, afterward afflicted with terrible sufferings those who had already shared the same rights.",
       "links": "<a href='/AIV/01/47/1-6'>Gen. 47:1-6</a>",
@@ -202,11 +124,6 @@
     },
     {
       "pk": 27019017,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 19,
       "verse": 17,
       "text": "They were stricken also with loss of sight — just as were those at the door of the righteous man — when, surrounded by yawning darkness, all of them tried to find the way through their own doors.",
       "links": "<a href='/AIV/01/47/27'>Gen. 47:27</a>",
@@ -214,11 +131,6 @@
     },
     {
       "pk": 27019018,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 19,
       "verse": 18,
       "text": "For the elements changed places with one another, as on a harp the notes vary the nature of the rhythm, while each note remains the same. This may be clearly inferred from the sight of what took place.",
       "links": "<a href='/AIV/2/14/20'>Exod. 14:20-22</a>; <a href='/AIV/27/19/6'>Wis. 19:6</a>; <a href='/AIV/23/114/3'>Ps. 114:3-5</a>",
@@ -227,11 +139,6 @@
     },
     {
       "pk": 27019019,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 19,
       "verse": 19,
       "text": "For land animals were transformed into water creatures, and creatures that swim moved over to the land.",
       "links": "<a href='/AIV/2/7/19'>Exod. 7:19-21</a>; <a href='/AIV/23/104/29'>Ps. 104:29-30</a>; <a href='/AIV/27/16/24'>Wis. 16:24</a>",
@@ -239,11 +146,6 @@
     },
     {
       "pk": 27019020,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 19,
       "verse": 20,
       "text": "Fire even in water retained its normal power, and water forgot its fire-quenching nature.",
       "links": "<a href='/AIV/02/16/14-15'>Ex. 16:14-15</a>",
@@ -251,11 +153,6 @@
     },
     {
       "pk": 27019021,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 19,
       "verse": 21,
       "text": "Flames, on the contrary, failed to consume the flesh of perishable creatures that walked among them, nor did they melt the crystalline, quick-melting kind of heavenly food.",
       "links": "<a href='/AIV/19/136/24'>Ps. 136:24</a>; <a href='/AIV/40/28/20'>Matt. 28:20</a>",
@@ -263,43 +160,10 @@
     },
     {
       "pk": 27019022,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 19,
       "verse": 22,
       "text": "For in every way, O Lord, You have exalted and glorified Your people, and You have not neglected those who are with You at any time or place.",
       "links": "<a href='/AIV/19/94/14'>Ps. 94:14</a>",
       "comment": "The promise of God never abandoning His people anticipates Christ’s promise to build and preserve His Church (see Matt. 16:18; 28:20). This endures as a sign of divine faithfulness."
-    }
-  ],
-  "translatedAt": "2026-01-02T06:04:50.109Z",
-  "sections": [
-    {
-      "title": "The Pursuit of the Israelites by the Egyptians",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "God's Protection and Wonders at the Red Sea",
-      "startVerse": 6,
-      "endVerse": 9
-    },
-    {
-      "title": "Remembrance of the Plagues and God's Provision",
-      "startVerse": 10,
-      "endVerse": 12
-    },
-    {
-      "title": "Retribution for Inhospitality",
-      "startVerse": 13,
-      "endVerse": 17
-    },
-    {
-      "title": "Creation Serving God's Justice",
-      "startVerse": 18,
-      "endVerse": 22
     }
   ]
 }

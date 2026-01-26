@@ -1,28 +1,13 @@
 {
-  "book": 20,
+  "translation": "AIV",
+  "bookId": "1-maccabees",
   "bookName": "1 Maccabees",
-  "bookAbbreviation": "1Macc",
+  "bookAbbreviation": "1 Macc",
+  "bookNumber": 20,
   "chapter": 6,
-  "sections": [
-    {
-      "title": "Death of King Antiochus",
-      "startVerse": 1,
-      "endVerse": 62
-    },
-    {
-      "title": "Death of Antiochus and Accession of Eupator",
-      "startVerse": 63,
-      "endVerse": 63
-    }
-  ],
   "verses": [
     {
       "pk": 20006001,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 1,
       "text": "King Antiochus was traveling through the eastern provinces when he heard that there was a city in Persia called Elymais, celebrated for its wealth, silver and gold.",
       "links": "<a href='/AIV/24/49/34'>Jeremiah 49:34</a>",
@@ -31,769 +16,438 @@
     },
     {
       "pk": 20006002,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 2,
       "text": "This city had a very rich temple, where armor and weapons left by Alexander, son of Philip, king of Macedonia, who first reigned over the Greeks, had been deposited.",
       "links": "<a href='/AIV/27/8/20-21'>Daniel 8:20-21</a>",
-      "comment": "Alexander the Great’s legacy and historic conquests echo in this reference, showing how secular power, for all its glory, is fleeting compared to the eternal.",
-      "sectionHeader": null
+      "comment": "Alexander the Great’s legacy and historic conquests echo in this reference, showing how secular power, for all its glory, is fleeting compared to the eternal."
     },
     {
       "pk": 20006003,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 3,
       "text": "Antiochus tried to enter the city and take it, planning to plunder it. But he could not, because his plan was known to the people of the city.",
       "links": "<a href='/AIV/19/21/11'>Psalm 21:11</a>",
-      "comment": "Despite his intentions, God’s providence prevents Antiochus from success, a theme recurring throughout scripture.",
-      "sectionHeader": null
+      "comment": "Despite his intentions, God’s providence prevents Antiochus from success, a theme recurring throughout scripture."
     },
     {
       "pk": 20006004,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 4,
       "text": "They rose up against him in battle, and he fled and withdrew from there with great grief, returning to Babylon.",
       "links": "<a href='/AIV/23/13/14'>Isaiah 13:14</a>",
-      "comment": "The king’s defeat and sorrow are reminiscent of the consequences visited upon prideful rulers throughout the Old Testament.",
-      "sectionHeader": null
+      "comment": "The king’s defeat and sorrow are reminiscent of the consequences visited upon prideful rulers throughout the Old Testament."
     },
     {
       "pk": 20006005,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 5,
       "text": "While he was in Persia, messengers came and reported to him that the armies sent against the land of Judea had been put to flight;",
       "links": "<a href='/AIV/20/8/10'>Proverbs 8:10</a>",
-      "comment": "News of defeat serves as a humbling moment, reinforcing the importance of humility and dependence not on military might but on deeper foundations.",
-      "sectionHeader": null
+      "comment": "News of defeat serves as a humbling moment, reinforcing the importance of humility and dependence not on military might but on deeper foundations."
     },
     {
       "pk": 20006006,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 6,
       "text": "that Lysias, who had gone first with a strong force, was driven back by the people of Judea who grew in strength by means of arms, troops, and much spoil captured from the defeated armies.",
       "links": "<a href='/AIV/7/7/13'>Judges 7:13</a>",
-      "comment": "The people’s victory echoes the recurring scriptural theme where a smaller, faithful group overcomes larger foes. Spiritual application: faithfulness is more crucial than numbers.",
-      "sectionHeader": null
+      "comment": "The people’s victory echoes the recurring scriptural theme where a smaller, faithful group overcomes larger foes. Spiritual application: faithfulness is more crucial than numbers."
     },
     {
       "pk": 20006007,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 7,
       "text": "They had torn down the abomination he had built on the altar in Jerusalem, and surrounded the sanctuary with high walls as it had been before, and also fortified his city Beth-zur.",
       "links": "<a href='/AIV/27/9/27'>Daniel 9:27</a>",
-      "comment": "Restoration of the altar and sanctuary highlights the importance of safeguarding sacred space and right worship. This aligns with the principle that true worship is central to the people’s identity and relationship with God.",
-      "sectionHeader": null
+      "comment": "Restoration of the altar and sanctuary highlights the importance of safeguarding sacred space and right worship. This aligns with the principle that true worship is central to the people’s identity and relationship with God."
     },
     {
       "pk": 20006008,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 8,
       "text": "When the king heard these things, he was astonished and profoundly shaken. He lay down on his bed, and fell into deep grief from his disappointment.",
       "links": "<a href='/AIV/19/107/10'>Psalm 107:10</a>",
-      "comment": "Antiochus’s deep sorrow reflects the spiritual agony of estrangement from God, and the futility of prideful rebellion.",
-      "sectionHeader": null
+      "comment": "Antiochus’s deep sorrow reflects the spiritual agony of estrangement from God, and the futility of prideful rebellion."
     },
     {
       "pk": 20006009,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 9,
       "text": "He remained sick for many days, and grew more and more depressed, thinking he was going to die.",
       "links": "<a href='/AIV/18/30/23'>Job 30:23</a>",
-      "comment": "Physical and spiritual sickness often go hand in hand in biblical literature, emphasizing the need for repentance and restoration.",
-      "sectionHeader": null
+      "comment": "Physical and spiritual sickness often go hand in hand in biblical literature, emphasizing the need for repentance and restoration."
     },
     {
       "pk": 20006010,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 10,
       "text": "He called all his friends together and said, 'Sleep has left my eyes, and my heart is burdened with anxiety.'",
       "links": "<a href='/AIV/19/38/10'>Psalm 38:10</a>",
-      "comment": "The image of insomnia caused by guilt aligns with numerous Psalms describing the conscience wrestling with the consequences of sin.",
-      "sectionHeader": null
+      "comment": "The image of insomnia caused by guilt aligns with numerous Psalms describing the conscience wrestling with the consequences of sin."
     },
     {
       "pk": 20006011,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 11,
       "text": "'I said to myself: To what trouble have I come, and how great is the storm that now surrounds me, for I was loved and respected in my power.'",
       "links": "<a href='/AIV/21/2/11'>Ecclesiastes 2:11</a>",
-      "comment": "A reminder of the fleeting nature of worldly power—only God’s kingdom endures.",
-      "sectionHeader": null
+      "comment": "A reminder of the fleeting nature of worldly power—only God’s kingdom endures."
     },
     {
       "pk": 20006012,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 12,
       "text": "'But now I remember the evils I did in Jerusalem: seizing all the silver and gold, sending men to destroy the inhabitants of Judea without cause.'",
       "links": "<a href='/AIV/19/51/3-5'>Psalm 51:3-5</a>",
-      "comment": "Antiochus’s confession mirrors the penitential prayers throughout scripture, demonstrating repentance is possible even for powerful sinners.",
-      "sectionHeader": null
+      "comment": "Antiochus’s confession mirrors the penitential prayers throughout scripture, demonstrating repentance is possible even for powerful sinners."
     },
     {
       "pk": 20006013,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 13,
       "text": "'I realize that it is because of this I am suffering these misfortunes, and I am dying in deep grief in a foreign land.'",
       "links": "<a href='/AIV/19/137/1'>Psalm 137:1</a>",
-      "comment": "Death in exile is a symbol of spiritual separation from God and true worship.",
-      "sectionHeader": null
+      "comment": "Death in exile is a symbol of spiritual separation from God and true worship."
     },
     {
       "pk": 20006014,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 14,
       "text": "He then called for Philip, one of his trusted friends, and made him regent over his entire kingdom.",
       "links": "<a href='/AIV/11/19/15'>1 Kings 19:15</a>",
-      "comment": "Antiochus’s appointment of a regent echoes biblical precedents of succession and stewardship.",
-      "sectionHeader": null
+      "comment": "Antiochus’s appointment of a regent echoes biblical precedents of succession and stewardship."
     },
     {
       "pk": 20006015,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 15,
       "text": "He gave him the diadem, his robe, and his signet so that Philip could educate Antiochus’s son and prepare him to reign.",
       "links": "<a href='/AIV/1/41/42'>Genesis 41:42</a>",
-      "comment": "Passing on royalty and authority recalls Joseph’s investiture in Egypt, underlying the importance of tradition and orderly transition.",
-      "sectionHeader": null
+      "comment": "Passing on royalty and authority recalls Joseph’s investiture in Egypt, underlying the importance of tradition and orderly transition."
     },
     {
       "pk": 20006016,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 16,
       "text": "King Antiochus died in that place in the year one hundred forty-nine.",
       "links": "<a href='/AIV/15/6/16'>Ezra 6:16</a>",
-      "comment": "The year marks a pivotal change; historical context is key to understanding God’s faithfulness through periods of crisis.",
-      "sectionHeader": null
+      "comment": "The year marks a pivotal change; historical context is key to understanding God’s faithfulness through periods of crisis."
     },
     {
       "pk": 20006017,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 17,
       "text": "But when Lysias learned that the king was dead, he appointed his son Antiochus, whom he raised as a child, to be king in his father’s place. He called him Eupator.",
       "links": "<a href='/AIV/11/1/32'>1 Kings 1:32</a>",
-      "comment": "Succession of leadership is a recurring motif emphasizing continuity and the enduring nature of legitimate stewardship.",
-      "sectionHeader": null
+      "comment": "Succession of leadership is a recurring motif emphasizing continuity and the enduring nature of legitimate stewardship."
     },
     {
       "pk": 20006018,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 18,
       "text": "Meanwhile, the enemies in the stronghold were harassing the Israelites around the sanctuary, always seeking harm.",
       "links": "<a href='/AIV/19/22/16'>Psalm 22:16</a>",
-      "comment": "Opposition to true worship and God's people is a constant challenge, foreshadowing persecution and the need for perseverance.",
-      "sectionHeader": null
+      "comment": "Opposition to true worship and God's people is a constant challenge, foreshadowing persecution and the need for perseverance."
     },
     {
       "pk": 20006019,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 19,
       "text": "Judas planned to destroy them and assembled all the people to lay siege to the stronghold.",
       "links": "<a href='/AIV/7/20/15'>Judges 20:15</a>",
-      "comment": "The righteous stand against evil echoes the call for spiritual warfare and steadfastness in faith.",
-      "sectionHeader": null
+      "comment": "The righteous stand against evil echoes the call for spiritual warfare and steadfastness in faith."
     },
     {
       "pk": 20006020,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 20,
       "text": "They gathered together and attacked the stronghold in the year one hundred fifty, building siege platforms and engines.",
       "links": "<a href='/AIV/10/20/15'>2 Samuel 20:15</a>",
-      "comment": "The use of technology and preparation in spiritual battles invites reflection on the need for diligence, discipline, and intentional action in faith.",
-      "sectionHeader": null
+      "comment": "The use of technology and preparation in spiritual battles invites reflection on the need for diligence, discipline, and intentional action in faith."
     },
     {
       "pk": 20006021,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 21,
       "text": "But some of Israel’s enemies escaped from the siege and reported to the king that the people of Judea had laid siege to the stronghold.",
       "links": "<a href='/AIV/7/2/16'>Judges 2:16</a>",
-      "comment": "Internal division and betrayal often undermine God’s people—unity and obedience are key themes in both Old and New Testament teaching.",
-      "sectionHeader": null
+      "comment": "Internal division and betrayal often undermine God’s people—unity and obedience are key themes in both Old and New Testament teaching."
     },
     {
       "pk": 20006022,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 22,
       "text": "Some of the ungodly Israelites went to the king and said, “How long will you fail to do justice and to avenge our kindred?”",
-      "comment": "Some Hellenizing Jews, labeled 'ungodly,' seek the Seleucid king's intervention against their own people, illustrating internal conflict and the motif of collaboration with foreign oppressors (cf. 1 Macc. 1:11; John 11:48).",
-      "links": "<a href='/AIV/19/3/8'>Esth. 3:8</a>; <a href='/AIV/34/3/8'>Dan. 3:8</a>; <a href='/AIV/51/24/1'>Acts. 24:1</a>"
+      "links": "<a href='/AIV/19/3/8'>Esth. 3:8</a>; <a href='/AIV/34/3/8'>Dan. 3:8</a>; <a href='/AIV/51/24/1'>Acts. 24:1</a>",
+      "comment": "Some Hellenizing Jews, labeled 'ungodly,' seek the Seleucid king's intervention against their own people, illustrating internal conflict and the motif of collaboration with foreign oppressors (cf. 1 Macc. 1:11; John 11:48)."
     },
     {
       "pk": 20006023,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 23,
       "text": "We were happy to serve your father, to live by what he said, and to follow his commands.",
-      "comment": "Their appeal to loyalty under the previous king shows how some Jews had accommodated Hellenistic rule, contrasting with the Maccabean emphasis on faithfulness to the Law.",
-      "links": "<a href='/AIV/19/3/2'>Esth. 3:2</a>; <a href='/AIV/30/27/12'>Jer. 27:12</a>; <a href='/AIV/21/4/11'>2Macc. 4:11</a>"
+      "links": "<a href='/AIV/19/3/2'>Esth. 3:2</a>; <a href='/AIV/30/27/12'>Jer. 27:12</a>; <a href='/AIV/21/4/11'>2Macc. 4:11</a>",
+      "comment": "Their appeal to loyalty under the previous king shows how some Jews had accommodated Hellenistic rule, contrasting with the Maccabean emphasis on faithfulness to the Law."
     },
     {
       "pk": 20006024,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 24,
       "text": "For this reason our own people have besieged the citadel and turned against us; they have put to death as many of us as they have found, and have seized our inheritances.",
-      "comment": "The Hellenists lament loss of status and property due to the Jewish revolt, revealing how civil strife turned personal and intensified divisions (cf. Neh 4:1-3).",
-      "links": "<a href='/AIV/16/4/1'>Neh. 4:1-2</a>; <a href='/AIV/19/8/11'>Esth. 8:11</a>; <a href='/AIV/23/79/7'>Ps. 79:7</a>"
+      "links": "<a href='/AIV/16/4/1'>Neh. 4:1-2</a>; <a href='/AIV/19/8/11'>Esth. 8:11</a>; <a href='/AIV/23/79/7'>Ps. 79:7</a>",
+      "comment": "The Hellenists lament loss of status and property due to the Jewish revolt, revealing how civil strife turned personal and intensified divisions (cf. Neh 4:1-3)."
     },
     {
       "pk": 20006025,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 25,
       "text": "It is not against us alone that they have stretched out their hands; they have also attacked all the neighboring lands.",
-      "comment": "The claim that the rebels attacked neighboring lands shows the widespread impact of the revolt, and is likely an exaggeration to prompt the king’s intervention.",
-      "links": "<a href='/AIV/6/10/1'>Josh. 10:1</a>; <a href='/AIV/7/1/9'>Judg. 1:9</a>; <a href='/AIV/21/8/9'>2Macc. 8:9</a>"
+      "links": "<a href='/AIV/6/10/1'>Josh. 10:1</a>; <a href='/AIV/7/1/9'>Judg. 1:9</a>; <a href='/AIV/21/8/9'>2Macc. 8:9</a>",
+      "comment": "The claim that the rebels attacked neighboring lands shows the widespread impact of the revolt, and is likely an exaggeration to prompt the king’s intervention."
     },
     {
       "pk": 20006026,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 26,
       "text": "And now they have encamped against the citadel in Jerusalem to take it; they have fortified both the sanctuary and Beth-zur.",
-      "comment": "The citadel (Akra) in Jerusalem and Beth-zur were strategic locations; the rebels' fortifications signal their military strength and resolve (cf. 1 Macc. 4:28-29).",
-      "links": "<a href='/AIV/20/4/61'>1Macc. 4:61</a>; <a href='/AIV/14/11/5'>2Chr. 11:5</a>; <a href='/AIV/16/4/7'>Neh. 4:7</a>"
+      "links": "<a href='/AIV/20/4/61'>1Macc. 4:61</a>; <a href='/AIV/14/11/5'>2Chr. 11:5</a>; <a href='/AIV/16/4/7'>Neh. 4:7</a>",
+      "comment": "The citadel (Akra) in Jerusalem and Beth-zur were strategic locations; the rebels' fortifications signal their military strength and resolve (cf. 1 Macc. 4:28-29)."
     },
     {
       "pk": 20006027,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 27,
       "text": "Unless you quickly prevent them, they will do even greater things, and you will not be able to stop them.”",
-      "comment": "The urgency and warning of unstoppable revolt aim to press the king into swift military action, emphasizing the perceived threat to Seleucid authority.",
-      "links": "<a href='/AIV/23/83/4'>Ps. 83:4</a>; <a href='/AIV/51/5/38'>Acts. 5:38-39</a>; <a href='/AIV/29/8/9'>Isa. 8:9-10</a>"
+      "links": "<a href='/AIV/23/83/4'>Ps. 83:4</a>; <a href='/AIV/51/5/38'>Acts. 5:38-39</a>; <a href='/AIV/29/8/9'>Isa. 8:9-10</a>",
+      "comment": "The urgency and warning of unstoppable revolt aim to press the king into swift military action, emphasizing the perceived threat to Seleucid authority."
     },
     {
       "pk": 20006028,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 28,
       "text": "The king was enraged when he heard this. He assembled all his Friends, the commanders of his forces, and those in authority.",
-      "comment": "The king's anger and gathering of his advisers and army depict an imperial response to rebellion and foreshadow the coming large-scale conflict.",
-      "links": "<a href='/AIV/19/3/15'>Esth. 3:15</a>; <a href='/AIV/34/6/6'>Dan. 6:6</a>; <a href='/AIV/47/2/16'>Matt. 2:16</a>"
+      "links": "<a href='/AIV/19/3/15'>Esth. 3:15</a>; <a href='/AIV/34/6/6'>Dan. 6:6</a>; <a href='/AIV/47/2/16'>Matt. 2:16</a>",
+      "comment": "The king's anger and gathering of his advisers and army depict an imperial response to rebellion and foreshadow the coming large-scale conflict."
     },
     {
       "pk": 20006029,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 29,
       "text": "Mercenary forces also came to him from other kingdoms and from islands of the seas.",
-      "comment": "Recruitment of mercenaries—including from distant islands—reflects the cosmopolitan makeup of Seleucid forces and the gravity of the campaign.",
-      "links": "<a href='/AIV/30/46/21'>Jer. 46:21</a>; <a href='/AIV/13/19/6'>1Chr. 19:6</a>; <a href='/AIV/21/11/4'>2Macc. 11:4</a>"
+      "links": "<a href='/AIV/30/46/21'>Jer. 46:21</a>; <a href='/AIV/13/19/6'>1Chr. 19:6</a>; <a href='/AIV/21/11/4'>2Macc. 11:4</a>",
+      "comment": "Recruitment of mercenaries—including from distant islands—reflects the cosmopolitan makeup of Seleucid forces and the gravity of the campaign."
     },
     {
       "pk": 20006030,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 30,
       "text": "His forces numbered one hundred thousand foot soldiers, twenty thousand horsemen, and thirty-two elephants accustomed to war.",
-      "comment": "The listing of massive forces, including war elephants, emphasizes both the intimidation factor and the advanced military resources of the Seleucid army (cf. 2 Macc. 11:4, warfare practices from India).",
-      "links": "<a href='/AIV/13/21/5'>1Chr. 21:5</a>; <a href='/AIV/34/11/13'>Dan. 11:13</a>; <a href='/AIV/21/13/2'>2Macc. 13:2</a>"
+      "links": "<a href='/AIV/13/21/5'>1Chr. 21:5</a>; <a href='/AIV/34/11/13'>Dan. 11:13</a>; <a href='/AIV/21/13/2'>2Macc. 13:2</a>",
+      "comment": "The listing of massive forces, including war elephants, emphasizes both the intimidation factor and the advanced military resources of the Seleucid army (cf. 2 Macc. 11:4, warfare practices from India)."
     },
     {
       "pk": 20006031,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 31,
       "text": "They advanced through Idumea and encamped against Beth-zur, and for many days they fought and built engines of war; but the Jews sallied out and burned them with fire, and fought bravely.",
-      "comment": "Marching through Idumea and the besieging of Beth-zur highlight both the geographical scope of the conflict and the Jews’ resourcefulness in countering advanced siege engines.",
-      "links": "<a href='/AIV/16/4/17'>Neh. 4:17</a>; <a href='/AIV/7/7/22'>Judg. 7:22</a>; <a href='/AIV/21/11/7'>2Macc. 11:7</a>"
+      "links": "<a href='/AIV/16/4/17'>Neh. 4:17</a>; <a href='/AIV/7/7/22'>Judg. 7:22</a>; <a href='/AIV/21/11/7'>2Macc. 11:7</a>",
+      "comment": "Marching through Idumea and the besieging of Beth-zur highlight both the geographical scope of the conflict and the Jews’ resourcefulness in countering advanced siege engines."
     },
     {
       "pk": 20006032,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 32,
       "text": "Then Judas marched away from the citadel and encamped at Beth-zechariah, opposite the camp of the king.",
-      "comment": "Judas's strategic move to Beth-zechariah shifts the theater of battle, setting the stage for direct confrontation with the king’s forces.",
-      "links": "<a href='/AIV/20/4/29'>1Macc. 4:29</a>; <a href='/AIV/9/17/2'>1Sam. 17:2</a>; <a href='/AIV/21/13/23'>2Macc. 13:23</a>"
+      "links": "<a href='/AIV/20/4/29'>1Macc. 4:29</a>; <a href='/AIV/9/17/2'>1Sam. 17:2</a>; <a href='/AIV/21/13/23'>2Macc. 13:23</a>",
+      "comment": "Judas's strategic move to Beth-zechariah shifts the theater of battle, setting the stage for direct confrontation with the king’s forces."
     },
     {
       "pk": 20006033,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 33,
       "text": "Early in the morning the king set out and took his army by a forced march along the road to Beth-zechariah, and his troops made ready for battle and sounded their trumpets.",
-      "comment": "The early morning march and battle preparation reflect standard ancient military tactics and the seriousness of the impending conflict.",
-      "links": "<a href='/AIV/6/6/5'>Josh. 6:5</a>; <a href='/AIV/36/2/1'>Joel. 2:1</a>; <a href='/AIV/4/10/9'>Num. 10:9</a>"
+      "links": "<a href='/AIV/6/6/5'>Josh. 6:5</a>; <a href='/AIV/36/2/1'>Joel. 2:1</a>; <a href='/AIV/4/10/9'>Num. 10:9</a>",
+      "comment": "The early morning march and battle preparation reflect standard ancient military tactics and the seriousness of the impending conflict."
     },
     {
       "pk": 20006034,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 34,
       "text": "They offered the elephants the juice of grapes and mulberries, to arouse them for battle.",
-      "comment": "Feeding elephants intoxicants to excite them for battle is an attested ancient practice, showing the lengths to which the Seleucids went to weaponize animals.",
-      "links": "<a href='/AIV/22/39/21'>Job. 39:21-25</a>; <a href='/AIV/36/3/9'>Joel. 3:9</a>; <a href='/AIV/21/15/20'>2Macc. 15:20</a>"
+      "links": "<a href='/AIV/22/39/21'>Job. 39:21-25</a>; <a href='/AIV/36/3/9'>Joel. 3:9</a>; <a href='/AIV/21/15/20'>2Macc. 15:20</a>",
+      "comment": "Feeding elephants intoxicants to excite them for battle is an attested ancient practice, showing the lengths to which the Seleucids went to weaponize animals."
     },
     {
       "pk": 20006035,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 35,
       "text": "They distributed the animals among the phalanxes; with each elephant they stationed a thousand men armed with coats of mail and brass helmets on their heads; and five hundred picked horsemen were assigned to each beast.",
-      "comment": "The elaborate arrangement of infantry and cavalry around each elephant underlines the formidable, organized nature of the Seleucid military machine.",
-      "links": "<a href='/AIV/11/10/22'>1Kgs. 10:22</a>; <a href='/AIV/34/11/31'>Dan. 11:31</a>; <a href='/AIV/21/13/15'>2Macc. 13:15</a>"
+      "links": "<a href='/AIV/11/10/22'>1Kgs. 10:22</a>; <a href='/AIV/34/11/31'>Dan. 11:31</a>; <a href='/AIV/21/13/15'>2Macc. 13:15</a>",
+      "comment": "The elaborate arrangement of infantry and cavalry around each elephant underlines the formidable, organized nature of the Seleucid military machine."
     },
     {
       "pk": 20006036,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 36,
       "text": "These took their position wherever each animal was; wherever it went, they went with it, and they never left it.",
-      "comment": "The close coordination of troops with elephants illustrates the tactical sophistication and reliance on war animals in Hellenistic warfare.",
-      "links": "<a href='/AIV/4/10/14'>Num. 10:14</a>; <a href='/AIV/13/12/33'>1Chr. 12:33</a>; <a href='/AIV/14/17/17'>2Chr. 17:17</a>"
+      "links": "<a href='/AIV/4/10/14'>Num. 10:14</a>; <a href='/AIV/13/12/33'>1Chr. 12:33</a>; <a href='/AIV/14/17/17'>2Chr. 17:17</a>",
+      "comment": "The close coordination of troops with elephants illustrates the tactical sophistication and reliance on war animals in Hellenistic warfare."
     },
     {
       "pk": 20006037,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 37,
       "text": "On the elephants were wooden towers, strong and covered, fastened on each animal by special harness, and on each were four armed men who fought from there, along with its Indian driver.",
-      "comment": "Wooden towers on elephants with armed men and Indian drivers reveal international influences and the impressive, if terrifying, spectacle of such armies.",
-      "links": "<a href='/AIV/14/9/21'>2Chr. 9:21</a>; <a href='/AIV/34/8/4'>Dan. 8:4</a>; <a href='/AIV/21/13/15'>2Macc. 13:15</a>"
+      "links": "<a href='/AIV/14/9/21'>2Chr. 9:21</a>; <a href='/AIV/34/8/4'>Dan. 8:4</a>; <a href='/AIV/21/13/15'>2Macc. 13:15</a>",
+      "comment": "Wooden towers on elephants with armed men and Indian drivers reveal international influences and the impressive, if terrifying, spectacle of such armies."
     },
     {
       "pk": 20006038,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 38,
       "text": "The rest of the cavalry were stationed on either side, on the two flanks of the army, to harass the enemy while being themselves protected by the phalanxes.",
-      "comment": "Cavalry on the flanks provided protection and offensive power, highlighting elite Hellenistic battle formations.",
-      "links": "<a href='/AIV/7/7/16'>Judg. 7:16</a>; <a href='/AIV/14/13/13'>2Chr. 13:13</a>; <a href='/AIV/21/13/14'>2Macc. 13:14</a>"
+      "links": "<a href='/AIV/7/7/16'>Judg. 7:16</a>; <a href='/AIV/14/13/13'>2Chr. 13:13</a>; <a href='/AIV/21/13/14'>2Macc. 13:14</a>",
+      "comment": "Cavalry on the flanks provided protection and offensive power, highlighting elite Hellenistic battle formations."
     },
     {
       "pk": 20006039,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 39,
       "text": "When the sun shone on the shields of gold and brass, the hills gleamed and blazed like flaming torches.",
-      "comment": "The dazzling reflection from shields creates an awe-inspiring and intimidating sight, reinforcing the overwhelming presence of the Seleucid army.",
-      "links": "<a href='/AIV/33/1/4'>Ezek. 1:4</a>; <a href='/AIV/73/4/5'>Rev. 4:5</a>; <a href='/AIV/47/17/2'>Matt. 17:2</a>"
+      "links": "<a href='/AIV/33/1/4'>Ezek. 1:4</a>; <a href='/AIV/73/4/5'>Rev. 4:5</a>; <a href='/AIV/47/17/2'>Matt. 17:2</a>",
+      "comment": "The dazzling reflection from shields creates an awe-inspiring and intimidating sight, reinforcing the overwhelming presence of the Seleucid army."
     },
     {
       "pk": 20006040,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 40,
       "text": "A division of the king’s army was spread out on the high hills, and some troops were on the plain; they advanced steadily and in good order.",
-      "comment": "The deployment on hills and plains illustrates careful, disciplined military strategy and the advantage of elevated terrain.",
-      "links": "<a href='/AIV/4/2/3'>Num. 2:3</a>; <a href='/AIV/14/20/21'>2Chr. 20:21</a>; <a href='/AIV/36/2/7'>Joel. 2:7</a>"
+      "links": "<a href='/AIV/4/2/3'>Num. 2:3</a>; <a href='/AIV/14/20/21'>2Chr. 20:21</a>; <a href='/AIV/36/2/7'>Joel. 2:7</a>",
+      "comment": "The deployment on hills and plains illustrates careful, disciplined military strategy and the advantage of elevated terrain."
     },
     {
       "pk": 20006041,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 41,
       "text": "All who heard the sound of the multitude, the marching, and the clanking of their arms trembled, for the army was very large and strong.",
-      "comment": "The size, sound, and strength of the Seleucid army instilled fear—an intentional motif, contrasting with the faith and courage of the Maccabean resistance (cf. Deut 20:1, psychological warfare).",
-      "links": "<a href='/AIV/6/2/9'>Josh. 2:9</a>; <a href='/AIV/2/15/15'>Exod. 15:15-16</a>; <a href='/AIV/30/6/24'>Jer. 6:24</a>"
+      "links": "<a href='/AIV/6/2/9'>Josh. 2:9</a>; <a href='/AIV/2/15/15'>Exod. 15:15-16</a>; <a href='/AIV/30/6/24'>Jer. 6:24</a>",
+      "comment": "The size, sound, and strength of the Seleucid army instilled fear—an intentional motif, contrasting with the faith and courage of the Maccabean resistance (cf. Deut 20:1, psychological warfare)."
     },
     {
       "pk": 20006042,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 42,
       "text": "But Judas and his army advanced to the battle, and six hundred of the king’s army fell.",
-      "comment": "Despite being heavily outnumbered, Judas’s forces inflict significant casualties, exemplifying zeal and military prowess.",
-      "links": "<a href='/AIV/20/3/13'>1Macc. 3:13-24</a>; <a href='/AIV/7/15/15'>Judg. 15:15</a>; <a href='/AIV/21/8/23'>2Macc. 8:23</a>"
+      "links": "<a href='/AIV/20/3/13'>1Macc. 3:13-24</a>; <a href='/AIV/7/15/15'>Judg. 15:15</a>; <a href='/AIV/21/8/23'>2Macc. 8:23</a>",
+      "comment": "Despite being heavily outnumbered, Judas’s forces inflict significant casualties, exemplifying zeal and military prowess."
     },
     {
       "pk": 20006043,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 43,
       "text": "Now Eleazar, called Avaran, saw that one of the animals was equipped with royal armor. It was taller than all the others, and he supposed that the king was riding on it.",
-      "comment": "Eleazar identifies the largest, most ornate elephant as carrying the king, a calculation based on status symbols, leading to his heroic but ultimately tragic action.",
-      "links": "<a href='/AIV/10/21/20'>2Sam. 21:20</a>; <a href='/AIV/9/17/4'>1Sam. 17:4</a>; <a href='/AIV/21/14/19'>2Macc. 14:19</a>"
+      "links": "<a href='/AIV/10/21/20'>2Sam. 21:20</a>; <a href='/AIV/9/17/4'>1Sam. 17:4</a>; <a href='/AIV/21/14/19'>2Macc. 14:19</a>",
+      "comment": "Eleazar identifies the largest, most ornate elephant as carrying the king, a calculation based on status symbols, leading to his heroic but ultimately tragic action."
     },
     {
       "pk": 20006044,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 44,
       "text": "He gave his life to save his people and to win for himself an everlasting name.",
-      "comment": "Eleazar's self-sacrificial attack is celebrated as martyrdom, seeking lasting honor through devotion to the nation (cf. 2 Macc. 6:18-31; John 15:13).",
-      "links": "<a href='/AIV/50/15/13'>John. 15:13</a>; <a href='/AIV/10/23/16'>2Sam. 23:16-17</a>; <a href='/AIV/65/11/32'>Heb. 11:32-34</a>"
+      "links": "<a href='/AIV/50/15/13'>John. 15:13</a>; <a href='/AIV/10/23/16'>2Sam. 23:16-17</a>; <a href='/AIV/65/11/32'>Heb. 11:32-34</a>",
+      "comment": "Eleazar's self-sacrificial attack is celebrated as martyrdom, seeking lasting honor through devotion to the nation (cf. 2 Macc. 6:18-31; John 15:13)."
     },
     {
       "pk": 20006045,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 45,
       "text": "He courageously ran into the midst of the phalanx to reach it; he killed men right and left, and they parted before him on both sides.",
-      "comment": "His assault through the phalanx displays extraordinary bravery, with the enemy parting before his determined charge.",
-      "links": "<a href='/AIV/10/23/20'>2Sam. 23:20</a>; <a href='/AIV/13/11/22'>1Chr. 11:22</a>; <a href='/AIV/21/6/19'>2Macc. 6:19</a>"
+      "links": "<a href='/AIV/10/23/20'>2Sam. 23:20</a>; <a href='/AIV/13/11/22'>1Chr. 11:22</a>; <a href='/AIV/21/6/19'>2Macc. 6:19</a>",
+      "comment": "His assault through the phalanx displays extraordinary bravery, with the enemy parting before his determined charge."
     },
     {
       "pk": 20006046,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 46,
       "text": "He got under the elephant, stabbed it from beneath, and killed it; but it fell to the ground upon him, and he died there.",
-      "comment": "His lethal blow kills the elephant but costs him his life, a poignant reminder of both the high stakes of the conflict and the ambiguous outcome of even heroic acts.",
-      "links": "<a href='/AIV/7/16/30'>Judg. 16:30</a>; <a href='/AIV/50/12/24'>John. 12:24</a>; <a href='/AIV/57/1/20'>Phil. 1:20</a>"
+      "links": "<a href='/AIV/7/16/30'>Judg. 16:30</a>; <a href='/AIV/50/12/24'>John. 12:24</a>; <a href='/AIV/57/1/20'>Phil. 1:20</a>",
+      "comment": "His lethal blow kills the elephant but costs him his life, a poignant reminder of both the high stakes of the conflict and the ambiguous outcome of even heroic acts."
     },
     {
       "pk": 20006047,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 47,
       "text": "When the Jews saw the royal might and the fierce attack of the enemy forces, they turned away in flight.",
-      "comment": "The sight of overwhelming royal power demoralizes the Jewish forces, leading to a necessary retreat and underscoring human limitations.",
-      "links": "<a href='/AIV/6/7/5'>Josh. 7:5</a>; <a href='/AIV/5/1/42'>Deut. 1:42</a>; <a href='/AIV/14/13/14'>2Chr. 13:14</a>"
+      "links": "<a href='/AIV/6/7/5'>Josh. 7:5</a>; <a href='/AIV/5/1/42'>Deut. 1:42</a>; <a href='/AIV/14/13/14'>2Chr. 13:14</a>",
+      "comment": "The sight of overwhelming royal power demoralizes the Jewish forces, leading to a necessary retreat and underscoring human limitations."
     },
     {
       "pk": 20006048,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 48,
       "text": "The soldiers of the king’s army went up to Jerusalem, and the king encamped in Judea and at Mount Zion.",
-      "comment": "The king’s army advances on Jerusalem, besieging key locations and further tightening Seleucid control of Judea.",
-      "links": "<a href='/AIV/34/9/26'>Dan. 9:26</a>; <a href='/AIV/49/21/20'>Luke. 21:20</a>; <a href='/AIV/16/2/10'>Neh. 2:10</a>"
+      "links": "<a href='/AIV/34/9/26'>Dan. 9:26</a>; <a href='/AIV/49/21/20'>Luke. 21:20</a>; <a href='/AIV/16/2/10'>Neh. 2:10</a>",
+      "comment": "The king’s army advances on Jerusalem, besieging key locations and further tightening Seleucid control of Judea."
     },
     {
       "pk": 20006049,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 49,
       "text": "He made peace with the people of Beth-zur, who evacuated the town because they had no provisions there to withstand a siege, since it was a sabbatical year for the land.",
-      "comment": "The sabbatical year, in which the land lay fallow (Lev 25:1-7), creates food shortages, forcing Beth-zur’s surrender despite a negotiated peace.",
-      "links": "<a href='/AIV/3/25/4'>Lev. 25:4</a>; <a href='/AIV/12/25/3'>2Kgs. 25:3</a>; <a href='/AIV/16/5/2'>Neh. 5:2</a>"
+      "links": "<a href='/AIV/3/25/4'>Lev. 25:4</a>; <a href='/AIV/12/25/3'>2Kgs. 25:3</a>; <a href='/AIV/16/5/2'>Neh. 5:2</a>",
+      "comment": "The sabbatical year, in which the land lay fallow (Lev 25:1-7), creates food shortages, forcing Beth-zur’s surrender despite a negotiated peace."
     },
     {
       "pk": 20006050,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 50,
       "text": "So the king took Beth-zur and stationed a guard there to hold it.",
-      "comment": "Beth-zur’s occupation secures a strategic stronghold for the Seleucids and minimises further Jewish resistance in the region.",
-      "links": "<a href='/AIV/11/15/17'>1Kgs. 15:17</a>; <a href='/AIV/14/11/11'>2Chr. 11:11</a>; <a href='/AIV/34/9/27'>Dan. 9:27</a>"
+      "links": "<a href='/AIV/11/15/17'>1Kgs. 15:17</a>; <a href='/AIV/14/11/11'>2Chr. 11:11</a>; <a href='/AIV/34/9/27'>Dan. 9:27</a>",
+      "comment": "Beth-zur’s occupation secures a strategic stronghold for the Seleucids and minimises further Jewish resistance in the region."
     },
     {
       "pk": 20006051,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 51,
       "text": "Then he encamped before the sanctuary for many days. He set up siege towers, engines of war to throw fire and stones, machines to shoot arrows, and catapults.",
-      "comment": "The protracted siege of the Temple reflects the centrality of the sanctuary and highlights the escalation in military technology used by both sides.",
-      "links": "<a href='/AIV/12/25/4'>2Kgs. 25:4</a>; <a href='/AIV/16/4/17'>Neh. 4:17</a>; <a href='/AIV/20/11/20'>1Macc. 11:20</a>"
+      "links": "<a href='/AIV/12/25/4'>2Kgs. 25:4</a>; <a href='/AIV/16/4/17'>Neh. 4:17</a>; <a href='/AIV/20/11/20'>1Macc. 11:20</a>",
+      "comment": "The protracted siege of the Temple reflects the centrality of the sanctuary and highlights the escalation in military technology used by both sides."
     },
     {
       "pk": 20006052,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 52,
       "text": "The Jews also made engines of war to match theirs, and they fought for many days.",
-      "comment": "The Jews’ capacity to build comparable siege engines demonstrates their resilience and ingenuity, though ultimately resource limitations prevail.",
-      "links": "<a href='/AIV/14/26/15'>2Chr. 26:15</a>; <a href='/AIV/16/4/18'>Neh. 4:18</a>; <a href='/AIV/20/9/44'>1Macc. 9:44</a>"
+      "links": "<a href='/AIV/14/26/15'>2Chr. 26:15</a>; <a href='/AIV/16/4/18'>Neh. 4:18</a>; <a href='/AIV/20/9/44'>1Macc. 9:44</a>",
+      "comment": "The Jews’ capacity to build comparable siege engines demonstrates their resilience and ingenuity, though ultimately resource limitations prevail."
     },
     {
       "pk": 20006053,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 53,
       "text": "But they had no food in storage, because it was the seventh year; those who had found safety in Judea from the Gentiles had consumed the last of the stores.",
-      "comment": "The compounded effects of war and the sabbatical year result in famine, dramatically weakening the defenders and underscoring the intersection of faith and practical hardship.",
-      "links": "<a href='/AIV/3/25/5'>Lev. 25:5</a>; <a href='/AIV/1/41/54'>Gen. 41:54</a>; <a href='/AIV/31/2/19'>Lam. 2:19</a>"
+      "links": "<a href='/AIV/3/25/5'>Lev. 25:5</a>; <a href='/AIV/1/41/54'>Gen. 41:54</a>; <a href='/AIV/31/2/19'>Lam. 2:19</a>",
+      "comment": "The compounded effects of war and the sabbatical year result in famine, dramatically weakening the defenders and underscoring the intersection of faith and practical hardship."
     },
     {
       "pk": 20006054,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 54,
       "text": "Only a few men were left in the sanctuary; the rest scattered to their own homes, for the famine was very severe.",
-      "comment": "Severe famine causes the defenders to disperse, further weakening the Jewish position at a critical moment.",
-      "links": "<a href='/AIV/7/7/3'>Judg. 7:3</a>; <a href='/AIV/12/25/3'>2Kgs. 25:3</a>; <a href='/AIV/30/52/6'>Jer. 52:6</a>"
+      "links": "<a href='/AIV/7/7/3'>Judg. 7:3</a>; <a href='/AIV/12/25/3'>2Kgs. 25:3</a>; <a href='/AIV/30/52/6'>Jer. 52:6</a>",
+      "comment": "Severe famine causes the defenders to disperse, further weakening the Jewish position at a critical moment."
     },
     {
       "pk": 20006055,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 55,
       "text": "Then Lysias heard that Philip, whom King Antiochus, while still living, had appointed to bring up his son Antiochus to be king,",
-      "comment": "Lysias hears of Philip, whom the late Antiochus appointed as regent, returning—an event threatening Lysias’s own power and forcing a reevaluation of priorities.",
-      "links": "<a href='/AIV/20/3/32'>1Macc. 3:32</a>; <a href='/AIV/21/9/29'>2Macc. 9:29</a>; <a href='/AIV/51/23/18'>Acts. 23:18</a>"
+      "links": "<a href='/AIV/20/3/32'>1Macc. 3:32</a>; <a href='/AIV/21/9/29'>2Macc. 9:29</a>; <a href='/AIV/51/23/18'>Acts. 23:18</a>",
+      "comment": "Lysias hears of Philip, whom the late Antiochus appointed as regent, returning—an event threatening Lysias’s own power and forcing a reevaluation of priorities."
     },
     {
       "pk": 20006056,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 56,
       "text": "had returned from Persia and Media with the forces that had gone with the king, and that he was trying to seize control of the government.",
-      "comment": "The movement of forces and political instability in the empire (Philip’s return from Persia and Media) disrupts the focus on the Judean campaign.",
-      "links": "<a href='/AIV/19/8/15'>Esth. 8:15</a>; <a href='/AIV/20/6/14'>1Macc. 6:14</a>; <a href='/AIV/34/6/28'>Dan. 6:28</a>"
+      "links": "<a href='/AIV/19/8/15'>Esth. 8:15</a>; <a href='/AIV/20/6/14'>1Macc. 6:14</a>; <a href='/AIV/34/6/28'>Dan. 6:28</a>",
+      "comment": "The movement of forces and political instability in the empire (Philip’s return from Persia and Media) disrupts the focus on the Judean campaign."
     },
     {
       "pk": 20006057,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 57,
       "text": "So Lysias quickly gave orders to withdraw, and said to the king, the commanders of the forces, and the troops, “Daily we grow weaker, our food supply is scant, the place against which we are fighting is strong, and the affairs of the kingdom are urgent.",
-      "comment": "Lysias pragmatically recognizes the untenable situation—weakening troops, insufficient supplies, and pressing political concerns—prompting moves toward negotiation.",
-      "links": "<a href='/AIV/24/21/30'>Prov. 21:30</a>; <a href='/AIV/23/127/1'>Ps. 127:1</a>; <a href='/AIV/49/14/31'>Luke. 14:31-32</a>"
+      "links": "<a href='/AIV/24/21/30'>Prov. 21:30</a>; <a href='/AIV/23/127/1'>Ps. 127:1</a>; <a href='/AIV/49/14/31'>Luke. 14:31-32</a>",
+      "comment": "Lysias pragmatically recognizes the untenable situation—weakening troops, insufficient supplies, and pressing political concerns—prompting moves toward negotiation."
     },
     {
       "pk": 20006058,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 58,
       "text": "Now then let us come to terms with these people, and make peace with them and with all their nation.",
-      "comment": "A shift occurs as Lysias advocates peace, preferring stability and compromise over prolonged conflict with the Jews.",
-      "links": "<a href='/AIV/12/6/22'>2Kgs. 6:22-23</a>; <a href='/AIV/52/12/18'>Rom. 12:18</a>; <a href='/AIV/23/34/14'>Ps. 34:14</a>"
+      "links": "<a href='/AIV/12/6/22'>2Kgs. 6:22-23</a>; <a href='/AIV/52/12/18'>Rom. 12:18</a>; <a href='/AIV/23/34/14'>Ps. 34:14</a>",
+      "comment": "A shift occurs as Lysias advocates peace, preferring stability and compromise over prolonged conflict with the Jews."
     },
     {
       "pk": 20006059,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 59,
       "text": "Let us agree to let them live by their laws as they did before; for it was on account of their laws, which we abolished, that they became angry and did all these things.”",
-      "comment": "Restoring the Jews’ right to their ancestral laws is framed as a remedy for rebellion, echoing the Deuteronomic principle of blessing upon faithfulness and the futility of forced apostasy.",
-      "links": "<a href='/AIV/15/7/25'>Ezra. 7:25-26</a>; <a href='/AIV/51/18/15'>Acts. 18:15</a>; <a href='/AIV/34/6/5'>Dan. 6:5</a>"
+      "links": "<a href='/AIV/15/7/25'>Ezra. 7:25-26</a>; <a href='/AIV/51/18/15'>Acts. 18:15</a>; <a href='/AIV/34/6/5'>Dan. 6:5</a>",
+      "comment": "Restoring the Jews’ right to their ancestral laws is framed as a remedy for rebellion, echoing the Deuteronomic principle of blessing upon faithfulness and the futility of forced apostasy."
     },
     {
       "pk": 20006060,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 60,
       "text": "The speech pleased the king and the commanders, and he sent to the Jews an offer of peace, which they accepted.",
-      "comment": "A fragile peace agreement is reached, mirroring earlier episodes where oaths and negotiation provide temporary respite (cf. 2 Kings 25:27–30).",
-      "links": "<a href='/AIV/9/11/15'>1Sam. 11:15</a>; <a href='/AIV/52/12/18'>Rom. 12:18</a>; <a href='/AIV/21/13/23'>2Macc. 13:23-24</a>"
+      "links": "<a href='/AIV/9/11/15'>1Sam. 11:15</a>; <a href='/AIV/52/12/18'>Rom. 12:18</a>; <a href='/AIV/21/13/23'>2Macc. 13:23-24</a>",
+      "comment": "A fragile peace agreement is reached, mirroring earlier episodes where oaths and negotiation provide temporary respite (cf. 2 Kings 25:27–30)."
     },
     {
       "pk": 20006061,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 61,
       "text": "So the king and the commanders gave them their oath. On these conditions the Jews evacuated the stronghold.",
-      "comment": "Oaths and guarantees of peace underscore the seriousness of the accord, though the narrative soon shows how such agreements can be broken by cynical power.",
-      "links": "<a href='/AIV/6/9/15'>Josh. 9:15</a>; <a href='/AIV/23/15/4'>Ps. 15:4</a>; <a href='/AIV/65/6/16'>Heb. 6:16-18</a>"
+      "links": "<a href='/AIV/6/9/15'>Josh. 9:15</a>; <a href='/AIV/23/15/4'>Ps. 15:4</a>; <a href='/AIV/65/6/16'>Heb. 6:16-18</a>",
+      "comment": "Oaths and guarantees of peace underscore the seriousness of the accord, though the narrative soon shows how such agreements can be broken by cynical power."
     },
     {
       "pk": 20006062,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 62,
       "text": "But when the king entered Mount Zion and saw what a strong fortress the place was, he broke the oath he had sworn and gave orders to tear down the wall all around.",
-      "comment": "The king’s breach of his oath by dismantling Zion’s wall reflects both the unreliability of imperial promises and the vulnerability of the Jewish state (cf. Ps 15:4; Zech 2:5).",
-      "links": "<a href='/AIV/6/2/14'>Josh. 2:14</a>; <a href='/AIV/23/89/34'>Ps. 89:34</a>; <a href='/AIV/21/13/22'>2Macc. 13:22</a>"
+      "links": "<a href='/AIV/6/2/14'>Josh. 2:14</a>; <a href='/AIV/23/89/34'>Ps. 89:34</a>; <a href='/AIV/21/13/22'>2Macc. 13:22</a>",
+      "comment": "The king’s breach of his oath by dismantling Zion’s wall reflects both the unreliability of imperial promises and the vulnerability of the Jewish state (cf. Ps 15:4; Zech 2:5)."
     },
     {
       "pk": 20006063,
-      "translation": "AIV",
-      "book": 20,
-      "bookName": "1 Maccabees",
-      "bookAbbreviation": "1Macc",
-      "chapter": 6,
       "verse": 63,
       "text": "Then he set off in haste and returned to Antioch. He found Philip in control of the city, but he fought against him and took the city by force.",
-      "sectionHeader": "Death of Antiochus and Accession of Eupator",
+      "links": "<a href='/AIV/34/11/27'>Dan. 11:27</a>; <a href='/AIV/11/15/20'>1Kgs. 15:20</a>; <a href='/AIV/21/13/23'>2Macc. 13:23</a>",
       "comment": "The king’s hurried withdrawal to Antioch to contest Philip’s coup highlights ongoing turmoil within the Seleucid Empire and demonstrates how external threats often shape policy toward Judea.",
-      "links": "<a href='/AIV/34/11/27'>Dan. 11:27</a>; <a href='/AIV/11/15/20'>1Kgs. 15:20</a>; <a href='/AIV/21/13/23'>2Macc. 13:23</a>"
+      "sectionHeader": "Death of Antiochus and Accession of Eupator"
     }
-  ],
-  "translatedAt": "2025-12-28T06:53:03.241Z"
+  ]
 }

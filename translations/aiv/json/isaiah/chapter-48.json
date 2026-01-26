@@ -1,16 +1,13 @@
 {
-  "book": 29,
+  "translation": "AIV",
+  "bookId": "isaiah",
   "bookName": "Isaiah",
   "bookAbbreviation": "Isa",
+  "bookNumber": 29,
   "chapter": 48,
   "verses": [
     {
       "pk": 29048001,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 48,
       "verse": 1,
       "text": "Hear this, O house of Jacob, you who are called by the name of Israel, and who came out from the waters of Judah, who swear by the name of the Lord and invoke the God of Israel—but not in truth or in righteousness.",
       "links": "<a href='/AIV/02/19/5-6'>Ex. 19:5-6</a>; <a href='/AIV/23/29/13'>Isa. 29:13</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 29048002,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 48,
       "verse": 2,
       "text": "For they call themselves after the holy city and rely upon the God of Israel—the Lord of hosts is his name.",
       "links": "<a href='/AIV/24/7/4'>Jer. 7:4</a>; <a href='/AIV/19/46/7'>Ps. 46:7</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 29048003,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 48,
       "verse": 3,
       "text": "The former things I declared long ago; they went out from my mouth and I made them known; then suddenly I did them, and they came to pass.",
       "links": "<a href='/AIV/23/42/9'>Isa. 42:9</a>; <a href='/AIV/23/46/10'>Isa. 46:10</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 29048004,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 48,
       "verse": 4,
       "text": "Because I knew that you are obstinate, and your neck is an iron sinew, and your forehead is bronze,",
       "links": "<a href='/AIV/05/09/6'>Deut. 9:6</a>; <a href='/AIV/23/30/1'>Isa. 30:1</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 29048005,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 48,
       "verse": 5,
       "text": "So I declared them to you from of old, before they came to pass I announced them to you, lest you say, 'My idol did them, my carved image and my cast figure commanded them.'",
       "links": "<a href='/AIV/23/41/22-23'>Isa. 41:22-23</a>; <a href='/AIV/23/42/8'>Isa. 42:8</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 29048006,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 48,
       "verse": 6,
       "text": "You have heard; now see all this, and will you not declare it? From this time I announce to you new things, hidden things that you have not known.",
       "links": "<a href='/AIV/23/42/9'>Isa. 42:9</a>; <a href='/AIV/24/33/3'>Jer. 33:3</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 29048007,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 48,
       "verse": 7,
       "text": "They are created now, not long ago; before today you have never heard of them, lest you should say, 'Behold, I knew them.'",
       "links": "<a href='/AIV/23/48/6'>Isa. 48:6</a>; <a href='/AIV/23/65/17'>Isa. 65:17</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 29048008,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 48,
       "verse": 8,
       "text": "You have never heard, you have never known, from of old your ear has not been opened. For I knew that you would surely deal treacherously, and that from birth you were called a rebel.",
       "links": "<a href='/AIV/05/31/27'>Deut. 31:27</a>; <a href='/AIV/19/58/3'>Ps. 58:3</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 29048009,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 48,
       "verse": 9,
       "text": "For my name's sake I defer my anger, and for the sake of my praise I restrain it for you, so that I do not cut you off.",
       "links": "<a href='/AIV/23/42/14'>Isa. 42:14</a>; <a href='/AIV/26/36/22'>Ezek. 36:22</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 29048010,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 48,
       "verse": 10,
       "text": "Behold, I have refined you, but not as silver; I have tested you in the furnace of affliction.",
       "links": "<a href='/AIV/19/66/10'>Ps. 66:10</a>; <a href='/AIV/38/13/9'>Zech. 13:9</a>",
@@ -127,11 +79,6 @@
     },
     {
       "pk": 29048011,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 48,
       "verse": 11,
       "text": "For my own sake, for my own sake, I do it, for how should my name be profaned? My glory I will not give to another.",
       "links": "<a href='/AIV/23/42/8'>Isa. 42:8</a>; <a href='/AIV/19/115/1'>Ps. 115:1</a>",
@@ -139,11 +86,6 @@
     },
     {
       "pk": 29048012,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 48,
       "verse": 12,
       "text": "Listen to me, O Jacob, and Israel, whom I called: I am He; I am the first, and I am the last.",
       "links": "<a href='/AIV/23/41/4'>Isa. 41:4</a>; <a href='/AIV/66/1/17'>Rev. 1:17</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 29048013,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 48,
       "verse": 13,
       "text": "My hand founded the earth, and my right hand spread out the heavens; when I call to them, they stand forth together.",
       "links": "<a href='/AIV/01/1/1'>Gen. 1:1</a>; <a href='/AIV/19/102/25'>Ps. 102:25</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 29048014,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 48,
       "verse": 14,
       "text": "Assemble, all of you, and listen: Who among them has declared these things? The Lord loves him; he shall perform his purpose on Babylon, and his arm shall be against the Chaldeans.",
       "links": "<a href='/AIV/23/44/26-28'>Isa. 44:26-28</a>; <a href='/AIV/24/50/18'>Jer. 50:18</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 29048015,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 48,
       "verse": 15,
       "text": "I, even I, have spoken; yes, I have called him, I have brought him, and he will prosper in his way.",
       "links": "<a href='/AIV/23/45/1-6'>Isa. 45:1-6</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 29048016,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 48,
       "verse": 16,
       "text": "Draw near to me, hear this: from the beginning I have not spoken in secret, from the time it came to be I have been there. And now the Lord God has sent me, and His Spirit.",
       "links": "<a href='/AIV/23/61/1'>Isa. 61:1</a>; <a href='/AIV/43/12/49'>John 12:49</a>",
@@ -200,11 +122,6 @@
     },
     {
       "pk": 29048017,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 48,
       "verse": 17,
       "text": "Thus says the Lord, your Redeemer, the Holy One of Israel: 'I am the Lord your God, who teaches you to profit, who leads you in the way you should go.'",
       "links": "<a href='/AIV/23/43/14'>Isa. 43:14</a>; <a href='/AIV/19/32/8'>Ps. 32:8</a>",
@@ -212,11 +129,6 @@
     },
     {
       "pk": 29048018,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 48,
       "verse": 18,
       "text": "Oh, that you had paid attention to my commandments! Then your peace would have been like a river, and your righteousness like the waves of the sea;",
       "links": "<a href='/AIV/19/119/165'>Ps. 119:165</a>; <a href='/AIV/23/57/19'>Isa. 57:19-21</a>",
@@ -224,11 +136,6 @@
     },
     {
       "pk": 29048019,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 48,
       "verse": 19,
       "text": "your offspring would have been like the sand, and your descendants like its grains; their name would never be cut off or destroyed from before me.",
       "links": "<a href='/AIV/01/22/17'>Gen. 22:17</a>; <a href='/AIV/24/33/22'>Jer. 33:22</a>",
@@ -236,11 +143,6 @@
     },
     {
       "pk": 29048020,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 48,
       "verse": 20,
       "text": "Go out from Babylon, flee from Chaldea, declare this with a shout of joy, proclaim it, send it out to the end of the earth; say, 'The Lord has redeemed his servant Jacob!'",
       "links": "<a href='/AIV/23/52/11'>Isa. 52:11</a>; <a href='/AIV/24/50/8'>Jer. 50:8</a>",
@@ -249,11 +151,6 @@
     },
     {
       "pk": 29048021,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 48,
       "verse": 21,
       "text": "They did not thirst when he led them through deserts; he made water flow for them from the rock; he split the rock and the water gushed out.",
       "links": "<a href='/AIV/02/17/6'>Ex. 17:6</a>; <a href='/AIV/19/78/15-16'>Ps. 78:15-16</a>; <a href='/AIV/46/10/4'>1 Cor. 10:4</a>",
@@ -261,33 +158,10 @@
     },
     {
       "pk": 29048022,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 48,
       "verse": 22,
       "text": "'There is no peace,' says the Lord, 'for the wicked.'",
       "links": "<a href='/AIV/23/57/21'>Isa. 57:21</a>; <a href='/AIV/58/10/26-27'>Heb. 10:26-27</a>",
       "comment": "This warning underscores the necessity of repentance and perseverance. True peace is found only in union with God, upheld and mediated through the ongoing worship and sacramental life of the Church."
-    }
-  ],
-  "translatedAt": "2025-12-24T08:13:28.667Z",
-  "sections": [
-    {
-      "title": "God Rebukes Israel's Idolatry and Unfaithfulness",
-      "startVerse": 1,
-      "endVerse": 11
-    },
-    {
-      "title": "The Lord's Sovereign Purpose and Mission",
-      "startVerse": 12,
-      "endVerse": 19
-    },
-    {
-      "title": "Call to Leave Babylon and The Promise of Redemption",
-      "startVerse": 20,
-      "endVerse": 22
     }
   ]
 }

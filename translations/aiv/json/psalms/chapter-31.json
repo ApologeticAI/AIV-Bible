@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 31,
   "verses": [
     {
       "pk": 23031001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 31,
       "verse": 1,
       "text": "In you, O LORD, I seek refuge; let me never be put to shame. Deliver me in your righteousness.",
       "links": "<a href='/AIV/19/25/2'>Ps. 25:2</a>; <a href='/AIV/19/71/1'>Ps. 71:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23031002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 31,
       "verse": 2,
       "text": "Incline your ear to me; rescue me quickly. Be for me a strong rock, a fortress to save me.",
       "links": "<a href='/AIV/19/18/2'>Ps. 18:2</a>; <a href='/AIV/19/71/3'>Ps. 71:3</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23031003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 31,
       "verse": 3,
       "text": "For you are my rock and my fortress; for the sake of your name, lead me and guide me.",
       "links": "<a href='/AIV/19/23/3'>Ps. 23:3</a>; <a href='/AIV/19/143/10'>Ps. 143:10</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23031004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 31,
       "verse": 4,
       "text": "Free me from the net that they have secretly set for me, for you are my refuge.",
       "links": "<a href='/AIV/19/25/15'>Ps. 25:15</a>; <a href='/AIV/19/71/4'>Ps. 71:4</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23031005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 31,
       "verse": 5,
       "text": "Into your hand I commit my spirit; you redeem me, O LORD, faithful God.",
       "links": "<a href='/AIV/42/23/46'>Luke 23:46</a>; <a href='/AIV/19/16/10'>Ps. 16:10</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23031006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 31,
       "verse": 6,
       "text": "I hate those who cling to worthless idols, but I trust wholly in the LORD.",
       "links": "<a href='/AIV/19/97/7'>Ps. 97:7</a>; <a href='/AIV/19/115/8'>Ps. 115:8</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23031007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 31,
       "verse": 7,
       "text": "I will rejoice and be glad in your steadfast love, because you have seen my affliction; you have known the troubles of my soul.",
       "links": "<a href='/AIV/19/13/5'>Ps. 13:5</a>; <a href='/AIV/19/90/14'>Ps. 90:14</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 23031008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 31,
       "verse": 8,
       "text": "You have not handed me over to the enemy, but have set my feet in a wide place.",
       "links": "<a href='/AIV/19/18/19'>Ps. 18:19</a>; <a href='/AIV/19/66/12'>Ps. 66:12</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 23031009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 31,
       "verse": 9,
       "text": "Be gracious to me, O LORD, for I am in distress; my eyes are wasted with grief, my soul and my body also.",
       "links": "<a href='/AIV/19/6/7'>Ps. 6:7</a>; <a href='/AIV/19/38/9'>Ps. 38:9</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 23031010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 31,
       "verse": 10,
       "text": "For my life is spent with sorrow, and my years with sighing; my strength fails because of my iniquity, and my bones waste away.",
       "links": "<a href='/AIV/19/32/3'>Ps. 32:3</a>; <a href='/AIV/19/39/2'>Ps. 39:2</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 23031011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 31,
       "verse": 11,
       "text": "Because of all my adversaries I am a reproach, especially to my neighbors, and an object of dread to my acquaintances; those who see me outside flee from me.",
       "links": "<a href='/AIV/19/38/11'>Ps. 38:11</a>; <a href='/AIV/23/53/3'>Isa. 53:3</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 23031012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 31,
       "verse": 12,
       "text": "I am forgotten like one dead, out of mind; I have become like a broken vessel.",
       "links": "<a href='/AIV/19/88/5'>Ps. 88:5</a>; <a href='/AIV/23/53/3'>Isa. 53:3</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 23031013,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 31,
       "verse": 13,
       "text": "For I hear the whispering of many—terror on every side!—as they scheme together against me, plotting to take my life.",
       "links": "<a href='/AIV/19/27/12'>Ps. 27:12</a>; <a href='/AIV/19/41/7'>Ps. 41:7</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 23031014,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 31,
       "verse": 14,
       "text": "But I trust in you, O LORD; I say, 'You are my God.'",
       "links": "<a href='/AIV/19/16/2'>Ps. 16:2</a>; <a href='/AIV/19/31/6'>Ps. 31:6</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 23031015,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 31,
       "verse": 15,
       "text": "My times are in your hand; deliver me from the hands of my enemies and from those pursuing me.",
       "links": "<a href='/AIV/19/37/5'>Ps. 37:5</a>; <a href='/AIV/19/71/4'>Ps. 71:4</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 23031016,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 31,
       "verse": 16,
       "text": "Let your face shine upon your servant; save me in your steadfast love.",
       "links": "<a href='/AIV/04/6/25'>Num. 6:25</a>; <a href='/AIV/19/80/3'>Ps. 80:3</a>",
@@ -200,11 +122,6 @@
     },
     {
       "pk": 23031017,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 31,
       "verse": 17,
       "text": "Let me not be put to shame, O LORD, for I call upon you; but let the wicked be put to shame; let them be silent in Sheol.",
       "links": "<a href='/AIV/19/6/10'>Ps. 6:10</a>; <a href='/AIV/19/115/17'>Ps. 115:17</a>",
@@ -212,11 +129,6 @@
     },
     {
       "pk": 23031018,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 31,
       "verse": 18,
       "text": "Let lying lips be silenced, which speak arrogantly against the righteous with pride and contempt.",
       "links": "<a href='/AIV/19/12/3'>Ps. 12:3</a>; <a href='/AIV/19/109/2'>Ps. 109:2</a>",
@@ -224,11 +136,6 @@
     },
     {
       "pk": 23031019,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 31,
       "verse": 19,
       "text": "How great is your goodness, which you have stored up for those who fear you, and worked for those who take refuge in you, in the sight of everyone!",
       "links": "<a href='/AIV/19/34/8'>Ps. 34:8</a>; <a href='/AIV/19/147/11'>Ps. 147:11</a>",
@@ -237,11 +144,6 @@
     },
     {
       "pk": 23031020,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 31,
       "verse": 20,
       "text": "You hide them in the shelter of your presence, safe from the plots of men; you conceal them in your tent from accusing tongues.",
       "links": "<a href='/AIV/19/27/5'>Ps. 27:5</a>; <a href='/AIV/19/61/4'>Ps. 61:4</a>",
@@ -249,11 +151,6 @@
     },
     {
       "pk": 23031021,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 31,
       "verse": 21,
       "text": "Blessed be the LORD, for He has shown his steadfast love wonderfully to me when I was besieged, in a fortified city.",
       "links": "<a href='/AIV/19/17/7'>Ps. 17:7</a>; <a href='/AIV/19/28/6'>Ps. 28:6</a>",
@@ -261,11 +158,6 @@
     },
     {
       "pk": 23031022,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 31,
       "verse": 22,
       "text": "I said in my alarm, 'I am cut off from your sight.' Yet you heard my cry when I called to you for help.",
       "links": "<a href='/AIV/19/116/2'>Ps. 116:2</a>; <a href='/AIV/19/142/4'>Ps. 142:4</a>",
@@ -273,11 +165,6 @@
     },
     {
       "pk": 23031023,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 31,
       "verse": 23,
       "text": "Love the LORD, all you his saints! The LORD preserves the faithful, but abundantly repays the one who acts in pride.",
       "links": "<a href='/AIV/19/97/10'>Ps. 97:10</a>; <a href='/AIV/19/145/20'>Ps. 145:20</a>",
@@ -286,38 +173,10 @@
     },
     {
       "pk": 23031024,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 31,
       "verse": 24,
       "text": "Be strong, and let your heart take courage, all you who hope in the LORD.",
       "links": "<a href='/AIV/19/27/14'>Ps. 27:14</a>; <a href='/AIV/43/16/33'>John 16:33</a>",
       "comment": "The final verse is a rallying call to steadfast faith and hope, reminiscent of Christ’s exhortation to his disciples (<a href='/AIV/43/16/33'>John 16:33</a>). Both literal and spiritual meanings call believers to perseverance, echoing the journey of sanctification within the spiritual community."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:08:48.195Z",
-  "sections": [
-    {
-      "title": "Prayer for Refuge and Deliverance",
-      "startVerse": 1,
-      "endVerse": 8
-    },
-    {
-      "title": "A Plea Amid Distress and Persecution",
-      "startVerse": 9,
-      "endVerse": 18
-    },
-    {
-      "title": "Confident Trust and Praise",
-      "startVerse": 19,
-      "endVerse": 22
-    },
-    {
-      "title": "Exhortation to Love and Courage",
-      "startVerse": 23,
-      "endVerse": 24
     }
   ]
 }

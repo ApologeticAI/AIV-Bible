@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 88,
   "verses": [
     {
       "pk": 23088001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 88,
       "verse": 1,
       "text": "Lord, God of my salvation, I cry out day and night before you.",
       "links": "<a href='/AIV/19/27/9'>Ps. 27:9</a>; <a href='/AIV/19/143/6-7'>Ps. 143:6-7</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23088002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 88,
       "verse": 2,
       "text": "Let my prayer come before you; incline your ear to my cry.",
       "links": "<a href='/AIV/19/130/2'>Ps. 130:2</a>; <a href='/AIV/19/61/1'>Ps. 61:1</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23088003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 88,
       "verse": 3,
       "text": "For my soul is full of troubles, and my life draws near to Sheol.",
       "links": "<a href='/AIV/19/18/5'>Ps. 18:5</a>; <a href='/AIV/19/6/5'>Ps. 6:5</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23088004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 88,
       "verse": 4,
       "text": "I am counted among those who go down to the pit; I am like a man without strength,",
       "links": "<a href='/AIV/19/28/1'>Ps. 28:1</a>; <a href='/AIV/19/143/7'>Ps. 143:7</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23088005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 88,
       "verse": 5,
       "text": "abandoned among the dead, like the slain who lie in the grave, whom you remember no more, for they are cut off from your hand.",
       "links": "<a href='/AIV/20/2/18'>Prov. 2:18</a>; <a href='/AIV/19/31/12'>Ps. 31:12</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23088006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 88,
       "verse": 6,
       "text": "You have put me in the lowest pit, in dark places, in the depths.",
       "links": "<a href='/AIV/25/3/6'>Lam. 3:6</a>; <a href='/AIV/19/69/15'>Ps. 69:15</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23088007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 88,
       "verse": 7,
       "text": "Your wrath lies heavy upon me, and you have afflicted me with all your waves. Selah.",
       "links": "<a href='/AIV/19/42/7'>Ps. 42:7</a>; <a href='/AIV/19/38/2-3'>Ps. 38:2-3</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 23088008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 88,
       "verse": 8,
       "text": "You have taken my friends far from me; you have made me an abomination to them. I am shut in and cannot escape.",
       "links": "<a href='/AIV/19/31/11'>Ps. 31:11</a>; <a href='/AIV/18/19/13-19'>Job 19:13-19</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 23088009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 88,
       "verse": 9,
       "text": "My eyes grow weak from affliction; I call to you, Lord, every day; I spread out my hands to you.",
       "links": "<a href='/AIV/19/28/2'>Ps. 28:2</a>; <a href='/AIV/19/141/2'>Ps. 141:2</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 23088010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 88,
       "verse": 10,
       "text": "Do you do wonders for the dead? Do the departed rise up to praise you? Selah.",
       "links": "<a href='/AIV/19/6/5'>Ps. 6:5</a>; <a href='/AIV/23/26/19'>Isa. 26:19</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 23088011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 88,
       "verse": 11,
       "text": "Is your steadfast love declared in the grave, or your faithfulness in Abaddon?",
       "links": "<a href='/AIV/20/15/11'>Prov. 15:11</a>; <a href='/AIV/66/9/11'>Rev. 9:11</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 23088012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 88,
       "verse": 12,
       "text": "Are your wonders known in the darkness, or your righteousness in the land of forgetfulness?",
       "links": "<a href='/AIV/19/31/12'>Ps. 31:12</a>; <a href='/AIV/19/143/3'>Ps. 143:3</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 23088013,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 88,
       "verse": 13,
       "text": "But I, O Lord, cry to you; in the morning my prayer comes before you.",
       "links": "<a href='/AIV/19/5/3'>Ps. 5:3</a>; <a href='/AIV/19/55/17'>Ps. 55:17</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 23088014,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 88,
       "verse": 14,
       "text": "Lord, why do you cast off my soul? Why do you hide your face from me?",
       "links": "<a href='/AIV/19/13/1-2'>Ps. 13:1-2</a>; <a href='/AIV/19/22/1'>Ps. 22:1</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 23088015,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 88,
       "verse": 15,
       "text": "Afflicted and close to death from my youth up, I suffer your terrors; I am helpless.",
       "links": "<a href='/AIV/18/7/15-16'>Job 7:15-16</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 23088016,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 88,
       "verse": 16,
       "text": "Your fierce anger has swept over me; your terrors have destroyed me.",
       "links": "<a href='/AIV/19/38/2'>Ps. 38:2</a>; <a href='/AIV/19/90/7'>Ps. 90:7</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 23088017,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 88,
       "verse": 17,
       "text": "They surround me like water all day long; they close in on me together.",
       "links": "<a href='/AIV/19/18/4'>Ps. 18:4</a>; <a href='/AIV/19/124/4-5'>Ps. 124:4-5</a>",
@@ -213,33 +130,10 @@
     },
     {
       "pk": 23088018,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 88,
       "verse": 18,
       "text": "You have taken my companions and loved ones far from me; my only friend is darkness.",
       "links": "<a href='/AIV/19/38/11'>Ps. 38:11</a>; <a href='/AIV/19/102/7'>Ps. 102:7</a>",
       "comment": "The psalm ends with unresolved sorrow, a rare lament in the Psalter. Yet it represents the honesty of faith and the endurance of hope, even in darkness. The reality of suffering and abandonment is met with perseverance in prayer—a pattern fulfilled perfectly in the life and passion of Christ, who draws all suffering into redemptive meaning through His Church and sacraments."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:30:21.909Z",
-  "sections": [
-    {
-      "title": "A Cry from the Depths",
-      "startVerse": 1,
-      "endVerse": 9
-    },
-    {
-      "title": "Questioning God in Distress",
-      "startVerse": 10,
-      "endVerse": 13
-    },
-    {
-      "title": "Abandoned in Darkness",
-      "startVerse": 14,
-      "endVerse": 18
     }
   ]
 }

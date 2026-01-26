@@ -1,16 +1,13 @@
 {
-  "book": 15,
+  "translation": "AIV",
+  "bookId": "ezra",
   "bookName": "Ezra",
   "bookAbbreviation": "Ezra",
+  "bookNumber": 15,
   "chapter": 6,
   "verses": [
     {
       "pk": 15006001,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 6,
       "verse": 1,
       "text": "Then King Darius issued an order, and a search was made in the archives stored in Babylon.",
       "links": "<a href='/AIV/15/5/17'>Ezra 5:17</a>; <a href='/AIV/14/36/22'>2 Chron. 36:22</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 15006002,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 6,
       "verse": 2,
       "text": "A scroll was found in the fortress of Ecbatana, in the province of Media, containing this record:",
       "links": "<a href='/AIV/27/6/2'>Dan. 6:2</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 15006003,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 6,
       "verse": 3,
       "text": "'In the first year of King Cyrus, a decree was issued concerning the house of God in Jerusalem: Let the house be rebuilt as a place for offering sacrifices, and let its foundations be laid. Its height shall be sixty cubits and its width sixty cubits,",
       "links": "<a href='/AIV/15/1/2-4'>Ezra 1:2-4</a>; <a href='/AIV/11/6/2'>1 Kings 6:2</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 15006004,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 6,
       "verse": 4,
       "text": "with three layers of large stones and one layer of new timber. Let the costs be paid from the royal treasury.",
       "links": "<a href='/AIV/11/5/17'>1 Kings 5:17</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 15006005,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 6,
       "verse": 5,
       "text": "Also let the gold and silver vessels of the house of God, which Nebuchadnezzar took from the temple in Jerusalem and brought to Babylon, be returned and taken back to the temple in Jerusalem, each to its place, and you shall deposit them in the house of God.'",
       "links": "<a href='/AIV/27/1/2'>Dan. 1:2</a>; <a href='/AIV/12/25/13-15'>2 Kings 25:13-15</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 15006006,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 6,
       "verse": 6,
       "text": "Now therefore, Tattenai, governor of the region west of the Euphrates, Shethar-Bozenai, and your associates, the officials who are in that land, keep away from there.",
       "links": "<a href='/AIV/15/5/3'>Ezra 5:3</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 15006007,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 6,
       "verse": 7,
       "text": "Let the work of this house of God alone; let the governor of the Jews and the elders of the Jews build this house of God on its site.",
       "links": "<a href='/AIV/15/4/3'>Ezra 4:3</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 15006008,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 6,
       "verse": 8,
       "text": "Moreover, I issue a decree regarding what you shall do for the elders of these Jews for the rebuilding of this house of God: The full cost is to be paid to these men from the royal treasury, from the taxes collected from the region west of the Euphrates, so that the work will not stop.",
       "links": "<a href='/AIV/15/1/4'>Ezra 1:4</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 15006009,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 6,
       "verse": 9,
       "text": "And whatever is needed—young bulls, rams, and lambs for burnt offerings to the God of heaven; wheat, salt, wine, and oil, as requested by the priests in Jerusalem—let it be given to them daily without fail,",
       "links": "<a href='/AIV/03/2/1-2'>Lev. 2:1-2</a>; <a href='/AIV/04/28/3-8'>Num. 28:3-8</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 15006010,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 6,
       "verse": 10,
       "text": "so that they may offer pleasing sacrifices to the God of heaven and pray for the life of the king and his sons.",
       "links": "<a href='/AIV/54/2/1-2'>1 Tim. 2:1-2</a>",
@@ -127,11 +79,6 @@
     },
     {
       "pk": 15006011,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 6,
       "verse": 11,
       "text": "Furthermore, I issue a decree that if anyone alters this edict, a beam shall be pulled from his house and he shall be impaled on it, and his house shall be made a heap of rubble.",
       "links": "<a href='/AIV/17/7/9-10'>Est. 7:9-10</a>; <a href='/AIV/27/6/24'>Dan. 6:24</a>",
@@ -139,11 +86,6 @@
     },
     {
       "pk": 15006012,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 6,
       "verse": 12,
       "text": "May the God who has caused His name to dwell there overthrow any king or peoples who attempt to destroy this house of God in Jerusalem. I, Darius, have issued this decree; let it be carried out with diligence.",
       "links": "<a href='/AIV/11/8/29'>1 Kings 8:29</a>",
@@ -151,11 +93,6 @@
     },
     {
       "pk": 15006013,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 6,
       "verse": 13,
       "text": "Then Tattenai, governor of the region west of the Euphrates, Shethar-Bozenai, and their associates diligently carried out everything King Darius had commanded.",
       "links": "<a href='/AIV/15/5/6'>Ezra 5:6</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 15006014,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 6,
       "verse": 14,
       "text": "So the elders of the Jews continued building and prospered through the prophesying of Haggai the prophet and Zechariah son of Iddo. They finished building the temple, according to the command of the God of Israel and the decrees of Cyrus, Darius, and Artaxerxes, kings of Persia.",
       "links": "<a href='/AIV/37/1/1'>Hag. 1:1</a>; <a href='/AIV/38/1/1'>Zech. 1:1</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 15006015,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 6,
       "verse": 15,
       "text": "This temple was completed on the third day of the month of Adar, in the sixth year of King Darius.",
       "links": "<a href='/AIV/15/3/8'>Ezra 3:8</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 15006016,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 6,
       "verse": 16,
       "text": "And the people of Israel, the priests, the Levites, and the rest of the exiles celebrated the dedication of this house of God with joy.",
       "links": "<a href='/AIV/14/7/9-10'>2 Chron. 7:9-10</a>",
@@ -200,11 +122,6 @@
     },
     {
       "pk": 15006017,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 6,
       "verse": 17,
       "text": "At the dedication of this house of God, they offered a hundred bulls, two hundred rams, four hundred lambs, and as a sin offering for all Israel, twelve male goats, according to the number of the tribes of Israel.",
       "links": "<a href='/AIV/03/4/13-21'>Lev. 4:13-21</a>; <a href='/AIV/04/7/87'>Num. 7:87</a>",
@@ -212,11 +129,6 @@
     },
     {
       "pk": 15006018,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 6,
       "verse": 18,
       "text": "And they set the priests in their divisions and the Levites in their orders for the service of God at Jerusalem, as it is written in the Book of Moses.",
       "links": "<a href='/AIV/04/3/6-10'>Num. 3:6-10</a>; <a href='/AIV/13/23/6-32'>1 Chron. 23:6-32</a>",
@@ -224,11 +136,6 @@
     },
     {
       "pk": 15006019,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 6,
       "verse": 19,
       "text": "On the fourteenth day of the first month, the exiles celebrated the Passover.",
       "links": "<a href='/AIV/02/12/6'>Exod. 12:6</a>; <a href='/AIV/46/5/7-8'>1 Cor. 5:7-8</a>",
@@ -237,11 +144,6 @@
     },
     {
       "pk": 15006020,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 6,
       "verse": 20,
       "text": "For the priests and Levites had purified themselves together; all of them were ritually clean. They slaughtered the Passover lamb for all the exiles, for their brothers the priests, and for themselves.",
       "links": "<a href='/AIV/04/9/6-14'>Num. 9:6-14</a>; <a href='/AIV/58/9/13-14'>Heb. 9:13-14</a>",
@@ -249,11 +151,6 @@
     },
     {
       "pk": 15006021,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 6,
       "verse": 21,
       "text": "The Israelites who had returned from exile ate it, together with all who had separated themselves from the impurity of the peoples of the land in order to seek the LORD, the God of Israel.",
       "links": "<a href='/AIV/19/24/3-6'>Ps. 24:3-6</a>; <a href='/AIV/44/15/9'>Acts 15:9</a>",
@@ -261,33 +158,10 @@
     },
     {
       "pk": 15006022,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 6,
       "verse": 22,
       "text": "They celebrated the Feast of Unleavened Bread for seven days with joy, for the LORD had made them joyful by turning the heart of the king of Assyria toward them, so that he helped them in the work on the house of God, the God of Israel.",
       "links": "<a href='/AIV/02/12/15-20'>Exod. 12:15-20</a>; <a href='/AIV/20/21/1'>Prov. 21:1</a>",
       "comment": "The seven-day festival of Unleavened Bread represents full restoration and joy after exile. God’s turning the heart of rulers for His purposes signifies divine sovereignty over history and nations."
-    }
-  ],
-  "translatedAt": "2025-12-24T04:43:05.193Z",
-  "sections": [
-    {
-      "title": "The Decree of Darius",
-      "startVerse": 1,
-      "endVerse": 12
-    },
-    {
-      "title": "Completion and Dedication of the Temple",
-      "startVerse": 13,
-      "endVerse": 18
-    },
-    {
-      "title": "The Passover Celebrated",
-      "startVerse": 19,
-      "endVerse": 22
     }
   ]
 }

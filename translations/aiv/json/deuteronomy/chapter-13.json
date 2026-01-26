@@ -1,16 +1,13 @@
 {
-  "book": 5,
+  "translation": "AIV",
+  "bookId": "deuteronomy",
   "bookName": "Deuteronomy",
   "bookAbbreviation": "Deut",
+  "bookNumber": 5,
   "chapter": 13,
   "verses": [
     {
       "pk": 5013001,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 13,
       "verse": 1,
       "text": "If a prophet or a dreamer of dreams arises among you and gives you a sign or a wonder,",
       "links": "<a href='/AIV/24/23/25'>Jer. 23:25</a>; <a href='/AIV/40/7/15'>Matt. 7:15</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 5013002,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 13,
       "verse": 2,
       "text": "and the sign or the wonder comes to pass, of which he spoke to you, saying, ‘Let us go after other gods,’ which you have not known, and let us serve them,",
       "links": "<a href='/AIV/05/18/20-22'>Deut. 18:20-22</a>; <a href='/AIV/02/32/1'>Ex. 32:1</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 5013003,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 13,
       "verse": 3,
       "text": "you must not listen to the words of that prophet or dreamer of dreams. For the LORD your God is testing you, to know whether you love the LORD your God with all your heart and with all your soul.",
       "links": "<a href='/AIV/05/06/5'>Deut. 6:5</a>; <a href='/AIV/09/16/7'>1 Sam. 16:7</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 5013004,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 13,
       "verse": 4,
       "text": "You shall walk after the LORD your God and fear Him and keep His commandments and obey His voice. You shall serve Him and cling to Him.",
       "links": "<a href='/AIV/05/10/20'>Deut. 10:20</a>; <a href='/AIV/40/22/37-38'>Matt. 22:37-38</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 5013005,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 13,
       "verse": 5,
       "text": "But that prophet or dreamer of dreams must be put to death, because he has taught rebellion against the LORD your God, who brought you out of the land of Egypt and redeemed you out of the house of slavery, to lead you astray from the way the LORD your God commanded you to walk. So you shall purge the evil from among you.",
       "links": "<a href='/AIV/05/17/7'>Deut. 17:7</a>; <a href='/AIV/40/18/7-9'>Matt. 18:7-9</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 5013006,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 13,
       "verse": 6,
       "text": "If your brother, the son of your mother, or your son or your daughter, or the wife you embrace, or your friend who is as your own soul, entices you secretly, saying, ‘Let us go and serve other gods,’ which neither you nor your fathers have known,",
       "links": "<a href='/AIV/40/10/37'>Matt. 10:37</a>; <a href='/AIV/07/2/11-13'>Judg. 2:11-13</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 5013007,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 13,
       "verse": 7,
       "text": "namely, of the gods of the peoples who are around you, whether near or far from you, from one end of the earth to the other,",
       "links": "<a href='/AIV/02/23/13'>Ex. 23:13</a>; <a href='/AIV/05/12/30'>Deut. 12:30</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 5013008,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 13,
       "verse": 8,
       "text": "you shall not yield to him or listen to him. Your eye must not pity him, nor shall you spare him or conceal him.",
       "links": "<a href='/AIV/05/07/2'>Deut. 7:2</a>; <a href='/AIV/40/5/29-30'>Matt. 5:29-30</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 5013009,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 13,
       "verse": 9,
       "text": "But you shall surely put him to death; your hand shall be first against him to put him to death, and afterwards the hand of all the people.",
       "links": "<a href='/AIV/05/17/7'>Deut. 17:7</a>; <a href='/AIV/43/8/7'>John 8:7</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 5013010,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 13,
       "verse": 10,
       "text": "You must stone him to death with stones, because he sought to draw you away from the LORD your God, who brought you out of the land of Egypt, out of the house of slavery.",
       "links": "<a href='/AIV/03/24/16'>Lev. 24:16</a>; <a href='/AIV/44/7/35-39'>Acts 7:35-39</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 5013011,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 13,
       "verse": 11,
       "text": "Then all Israel shall hear and fear and never again do any such evil as this among you.",
       "links": "<a href='/AIV/05/17/13'>Deut. 17:13</a>; <a href='/AIV/44/5/11'>Acts 5:11</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 5013012,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 13,
       "verse": 12,
       "text": "If you hear in one of your cities, which the LORD your God gives you to dwell there,",
       "links": "<a href='/AIV/05/16/18'>Deut. 16:18</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 5013013,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 13,
       "verse": 13,
       "text": "that certain worthless men have gone out from among you and led the inhabitants of their city astray, saying, ‘Let us go and serve other gods’—which you have not known—",
       "links": "<a href='/AIV/07/19/22'>Judg. 19:22</a>; <a href='/AIV/09/2/12'>1 Sam. 2:12</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 5013014,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 13,
       "verse": 14,
       "text": "then you shall inquire, investigate, and ask diligently; and if it is true and certain that such an abomination has been done among you,",
       "links": "<a href='/AIV/05/17/4'>Deut. 17:4</a>; <a href='/AIV/41/14/55-56'>Mark 14:55-56</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 5013015,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 13,
       "verse": 15,
       "text": "you shall surely strike the inhabitants of that city with the sword, devoting it to destruction—all who are in it and its livestock—with the edge of the sword.",
       "links": "<a href='/AIV/06/6/21'>Josh. 6:21</a>; <a href='/AIV/05/07/2'>Deut. 7:2</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 5013016,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 13,
       "verse": 16,
       "text": "You shall gather all its spoil into the middle of its open square and burn the city and all its spoil with fire, as a whole burnt offering to the LORD your God. It shall be a heap forever. It shall never be rebuilt.",
       "links": "<a href='/AIV/06/8/28'>Josh. 8:28</a>; <a href='/AIV/66/18/8-10'>Rev. 18:8-10</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 5013017,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 13,
       "verse": 17,
       "text": "None of the devoted things shall cling to your hand, so that the LORD may turn from the fierceness of His anger and show you mercy, have compassion on you, and multiply you, just as He promised to your fathers,",
       "links": "<a href='/AIV/05/7/16'>Deut. 7:16</a>; <a href='/AIV/01/12/2-3'>Gen. 12:2-3</a>",
@@ -213,33 +130,10 @@
     },
     {
       "pk": 5013018,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 13,
       "verse": 18,
       "text": "if you obey the voice of the LORD your God by keeping all His commandments that I am commanding you today, and do what is right in the eyes of the LORD your God.",
       "links": "<a href='/AIV/05/05/32'>Deut. 5:32</a>; <a href='/AIV/43/14/15'>John 14:15</a>",
       "comment": "Doing what is right in the sight of God means full obedience, not just outward acts. Christ interprets obedience as love for God (John 14:15). The call to unity and pure faith is underscored throughout Scripture."
-    }
-  ],
-  "translatedAt": "2025-12-24T02:04:11.078Z",
-  "sections": [
-    {
-      "title": "The False Prophet or Dreamer",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "Enticement by Family or Friend",
-      "startVerse": 6,
-      "endVerse": 11
-    },
-    {
-      "title": "Apostasy in a City",
-      "startVerse": 12,
-      "endVerse": 18
     }
   ]
 }

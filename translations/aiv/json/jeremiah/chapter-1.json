@@ -1,16 +1,13 @@
 {
-  "book": 30,
+  "translation": "AIV",
+  "bookId": "jeremiah",
   "bookName": "Jeremiah",
   "bookAbbreviation": "Jer",
+  "bookNumber": 30,
   "chapter": 1,
   "verses": [
     {
       "pk": 30001001,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 1,
       "verse": 1,
       "text": "The words of Jeremiah, son of Hilkiah, one of the priests living in Anathoth, in the land of Benjamin.",
       "links": "<a href='/AIV/09/21/18-19'>1 Sam. 21:18–19</a>; <a href='/AIV/13/06/60'>1 Chr. 6:60</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 30001002,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 1,
       "verse": 2,
       "text": "The word of the LORD came to him in the thirteenth year of Josiah, son of Amon, king of Judah.",
       "links": "<a href='/AIV/12/22/1'>2 Kgs. 22:1</a>; <a href='/AIV/14/34/3'>2 Chr. 34:3</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 30001003,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 1,
       "verse": 3,
       "text": "It also came in the days of Jehoiakim, son of Josiah, king of Judah, until the end of the eleventh year of Zedekiah, son of Josiah, king of Judah, through the exile of Jerusalem in the fifth month.",
       "links": "<a href='/AIV/12/23/36'>2 Kgs. 23:36</a>; <a href='/AIV/12/25/8-11'>2 Kgs. 25:8–11</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 30001004,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 1,
       "verse": 4,
       "text": "The word of the LORD came to me, saying:",
       "links": "<a href='/AIV/26/03/16'>Ezek. 3:16</a>; <a href='/AIV/01/15/1'>Gen. 15:1</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 30001005,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 1,
       "verse": 5,
       "text": "\"Before I formed you in the womb, I knew you. Before you were born, I set you apart; I appointed you as a prophet to the nations.\"",
       "links": "<a href='/AIV/19/139/13-16'>Ps. 139:13-16</a>; <a href='/AIV/48/01/15'>Gal. 1:15</a>; <a href='/AIV/42/01/15'>Luke 1:15</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 30001006,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 1,
       "verse": 6,
       "text": "Then I said, \"Oh, Lord GOD! Look, I do not know how to speak; I am only a youth.\"",
       "links": "<a href='/AIV/02/04/10'>Ex. 4:10</a>; <a href='/AIV/07/06/15'>Judg. 6:15</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 30001007,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 1,
       "verse": 7,
       "text": "But the LORD said to me, \"Do not say, 'I am only a youth.' For you must go to everyone I send you to. And whatever I command you, you must speak.\"",
       "links": "<a href='/AIV/11/17/1-2'>1 Kgs. 17:1-2</a>; <a href='/AIV/42/12/12'>Luke 12:12</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 30001008,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 1,
       "verse": 8,
       "text": "\"Do not be afraid of them, for I am with you to deliver you,\" declares the LORD.",
       "links": "<a href='/AIV/06/01/5'>Josh. 1:5</a>; <a href='/AIV/40/28/20'>Matt. 28:20</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 30001009,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 1,
       "verse": 9,
       "text": "Then the LORD stretched out His hand and touched my mouth, and the LORD said to me, \"See, I have put My words in your mouth.\"",
       "links": "<a href='/AIV/02/04/12'>Ex. 4:12</a>; <a href='/AIV/23/06/7'>Isa. 6:7</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 30001010,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 1,
       "verse": 10,
       "text": "\"See, today I have set you over nations and kingdoms to uproot and to tear down, to destroy and to overthrow, to build and to plant.\"",
       "links": "<a href='/AIV/24/18/7-9'>Jer. 18:7–9</a>; <a href='/AIV/26/01/10'>Ezek. 1:10</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 30001011,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 1,
       "verse": 11,
       "text": "The word of the LORD came to me: \"What do you see, Jeremiah?\" And I said, \"I see a branch of an almond tree.\"",
       "links": "<a href='/AIV/04/17/8'>Num. 17:8</a>; <a href='/AIV/24/01/12'>Jer. 1:12</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 30001012,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 1,
       "verse": 12,
       "text": "Then the LORD said to me, \"You have seen well; for I am watching over My word to perform it.\"",
       "links": "<a href='/AIV/24/31/28'>Jer. 31:28</a>; <a href='/AIV/10/07/25'>2 Sam. 7:25</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 30001013,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 1,
       "verse": 13,
       "text": "The word of the LORD came to me a second time, saying, \"What do you see?\" And I said, \"I see a boiling pot, tilting away from the north.\"",
       "links": "<a href='/AIV/24/04/6'>Jer. 4:6</a>; <a href='/AIV/26/24/3-5'>Ezek. 24:3–5</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 30001014,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 1,
       "verse": 14,
       "text": "And the LORD said to me, \"From the north disaster will pour out on all who live in the land.\"",
       "links": "<a href='/AIV/24/06/22'>Jer. 6:22</a>; <a href='/AIV/23/41/25'>Isa. 41:25</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 30001015,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 1,
       "verse": 15,
       "text": "\"See, I am calling all the families of the kingdoms of the north,\" declares the LORD; \"They will come and set each throne at the entrance of the gates of Jerusalem. They will attack all her walls and all the cities of Judah.\"",
       "links": "<a href='/AIV/24/39/3'>Jer. 39:3</a>; <a href='/AIV/24/21/4'>Jer. 21:4</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 30001016,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 1,
       "verse": 16,
       "text": "\"I will pronounce My judgments against them for all their wickedness, for they have forsaken Me, burned incense to other gods, and worshiped the works of their own hands.\"",
       "links": "<a href='/AIV/05/29/25-28'>Deut. 29:25–28</a>; <a href='/AIV/19/115/4-8'>Ps. 115:4–8</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 30001017,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 1,
       "verse": 17,
       "text": "\"But you, prepare yourself; stand and speak to them everything that I command you. Do not be terrified by them, or I will terrify you before them.\"",
       "links": "<a href='/AIV/26/02/6'>Ezek. 2:6</a>; <a href='/AIV/40/10/19-20'>Matt. 10:19–20</a>",
@@ -214,11 +131,6 @@
     },
     {
       "pk": 30001018,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 1,
       "verse": 18,
       "text": "\"Now I have made you today a fortified city, an iron pillar, and bronze walls against the whole land—against the kings of Judah, its princes, priests, and the people of the land.\"",
       "links": "<a href='/AIV/24/15/20'>Jer. 15:20</a>; <a href='/AIV/01/15/1'>Gen. 15:1</a>",
@@ -226,38 +138,10 @@
     },
     {
       "pk": 30001019,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 1,
       "verse": 19,
       "text": "\"They will fight against you but will not overcome you, for I am with you to deliver you,\" declares the LORD.",
       "links": "<a href='/AIV/24/15/20-21'>Jer. 15:20-21</a>; <a href='/AIV/40/16/18'>Matt. 16:18</a>",
       "comment": "God promises protection and ultimate victory, even amid fierce opposition. The assurance parallels the promise given to Peter and the apostles that the gates of hell will not prevail against the Church. This enduring protection reflects God’s faithfulness throughout salvation history."
-    }
-  ],
-  "translatedAt": "2025-12-24T08:21:19.821Z",
-  "sections": [
-    {
-      "title": "Introduction: Jeremiah’s Call and Historical Setting",
-      "startVerse": 1,
-      "endVerse": 3
-    },
-    {
-      "title": "The Call and Commissioning of Jeremiah",
-      "startVerse": 4,
-      "endVerse": 10
-    },
-    {
-      "title": "Visions of the Almond Branch and Boiling Pot",
-      "startVerse": 11,
-      "endVerse": 16
-    },
-    {
-      "title": "Warning of Coming Judgment and Jeremiah’s Strength",
-      "startVerse": 17,
-      "endVerse": 19
     }
   ]
 }

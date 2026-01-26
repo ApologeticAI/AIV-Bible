@@ -1,16 +1,13 @@
 {
-  "book": 30,
+  "translation": "AIV",
+  "bookId": "jeremiah",
   "bookName": "Jeremiah",
   "bookAbbreviation": "Jer",
+  "bookNumber": 30,
   "chapter": 47,
   "verses": [
     {
       "pk": 30047001,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 47,
       "verse": 1,
       "text": "This is the word of the LORD that came to Jeremiah the prophet about the Philistines, before Pharaoh attacked Gaza:",
       "links": "<a href='/AIV/23/14/29-31'>Isa. 14:29-31</a>; <a href='/AIV/24/25/20'>Jer. 25:20</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 30047002,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 47,
       "verse": 2,
       "text": "The LORD says: Look, waters are rising from the north, becoming an overflowing torrent, flooding the land and all that is in it, the city and its people. Everyone in the land will cry out, and all who live there will wail.",
       "links": "<a href='/AIV/23/8/7'>Isa. 8:7</a>; <a href='/AIV/24/6/22-23'>Jer. 6:22-23</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 30047003,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 47,
       "verse": 3,
       "text": "At the noise of the stomping hooves of his strong horses, at the rushing of his chariots, the rumble of his wheels, fathers do not turn back for their children, their hands go limp,",
       "links": "<a href='/AIV/07/05/28'>Judg. 5:28</a>; <a href='/AIV/24/46/9'>Jer. 46:9</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 30047004,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 47,
       "verse": 4,
       "text": "Because the day has come to destroy all the Philistines, to cut off from Tyre and Sidon every ally that remains. For the LORD is destroying the Philistines, the remnant from the coastland of Caphtor.",
       "links": "<a href='/AIV/05/02/23'>Deut. 2:23</a>; <a href='/AIV/30/09/07'>Amos 9:7</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 30047005,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 47,
       "verse": 5,
       "text": "Baldness has come upon Gaza, Ashkelon is silenced. The remnant of their valley—how long will you gash yourselves?",
       "links": "<a href='/AIV/23/15/2'>Isa. 15:2</a>; <a href='/AIV/24/16/6'>Jer. 16:6</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 30047006,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 47,
       "verse": 6,
       "text": "Ah, sword of the LORD, how long until you are quiet? Put yourself back into your scabbard; rest and be still!",
       "links": "<a href='/AIV/23/34/6'>Isa. 34:6</a>; <a href='/AIV/26/21/28'>Ezek. 21:28</a>",
@@ -79,23 +51,10 @@
     },
     {
       "pk": 30047007,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 47,
       "verse": 7,
       "text": "But how can it be quiet, when the LORD has commanded it? Against Ashkelon and the sea coast, there He has appointed it.",
       "links": "<a href='/AIV/24/48/10'>Jer. 48:10</a>; <a href='/AIV/24/50/25'>Jer. 50:25</a>",
       "comment": "The inevitability of God’s purposes is emphasized. The sword cannot rest when God has appointed judgment. Spiritually, this points to the certainty of divine justice and the assurance that God’s decrees come to pass—an idea echoed in the perpetual mission of the Church to carry out God's will until His purposes are accomplished (<a href='/AIV/40/16/18'>Matt. 16:18</a>)."
-    }
-  ],
-  "translatedAt": "2025-12-24T08:47:00.775Z",
-  "sections": [
-    {
-      "title": "Oracle Against the Philistines",
-      "startVerse": 1,
-      "endVerse": 7
     }
   ]
 }

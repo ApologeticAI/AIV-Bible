@@ -1,16 +1,13 @@
 {
-  "book": 52,
+  "translation": "AIV",
+  "bookId": "romans",
   "bookName": "Romans",
   "bookAbbreviation": "Rom",
+  "bookNumber": 52,
   "chapter": 4,
   "verses": [
     {
       "pk": 52004001,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 4,
       "verse": 1,
       "text": "What then shall we say that Abraham, our forefather according to the flesh, has found?",
       "links": "<a href='/AIV/01/15/6'>Gen. 15:6</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 52004002,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 4,
       "verse": 2,
       "text": "For if Abraham was justified by works, he has reason to boast—but not before God.",
       "links": "<a href='/AIV/49/2/8-9'>Eph. 2:8-9</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 52004003,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 4,
       "verse": 3,
       "text": "For what does the Scripture say? 'Abraham believed God, and it was credited to him as righteousness.'",
       "links": "<a href='/AIV/01/15/6'>Gen. 15:6</a>; <a href='/AIV/59/2/23'>James 2:23</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 52004004,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 4,
       "verse": 4,
       "text": "Now to the one who works, his wage is not credited as a gift but as something owed.",
       "links": "<a href='/AIV/11/17/10'>Luke 17:10</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 52004005,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 4,
       "verse": 5,
       "text": "But to the one who does not work but trusts in Him who justifies the ungodly, his faith is credited as righteousness.",
       "links": "<a href='/AIV/19/32/1-2'>Ps. 32:1-2</a>; <a href='/AIV/48/3/6-9'>Gal. 3:6-9</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 52004006,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 4,
       "verse": 6,
       "text": "Just as David also speaks of the blessing on the man to whom God credits righteousness apart from works:",
       "links": "<a href='/AIV/19/32/1-2'>Ps. 32:1-2</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 52004007,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 4,
       "verse": 7,
       "text": "\"Blessed are those whose lawless deeds are forgiven, and whose sins are covered;",
       "links": "<a href='/AIV/19/32/1'>Ps. 32:1</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 52004008,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 4,
       "verse": 8,
       "text": "blessed is the man against whom the Lord will not count his sin.\"",
       "links": "<a href='/AIV/19/32/2'>Ps. 32:2</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 52004009,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 4,
       "verse": 9,
       "text": "Is this blessing only for the circumcised, or also for the uncircumcised? For we say that faith was credited to Abraham as righteousness.",
       "links": "<a href='/AIV/01/15/6'>Gen. 15:6</a>; <a href='/AIV/48/3/7-9'>Gal. 3:7-9</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 52004010,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 4,
       "verse": 10,
       "text": "How then was it credited? Was it after he had been circumcised, or before? It was not after, but before he was circumcised.",
       "links": "<a href='/AIV/01/17/9-14'>Gen. 17:9-14</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 52004011,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 4,
       "verse": 11,
       "text": "He received the sign of circumcision as a seal of the righteousness that he had by faith while he was still uncircumcised. So he is the father of all who believe without being circumcised, so that righteousness would be credited to them as well,",
       "links": "<a href='/AIV/01/17/10-11'>Gen. 17:10-11</a>; <a href='/AIV/48/3/14'>Gal. 3:14</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 52004012,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 4,
       "verse": 12,
       "text": "and also the father of the circumcised who not only are circumcised but who also walk in the steps of the faith that our father Abraham had before he was circumcised.",
       "links": "<a href='/AIV/01/17/23-27'>Gen. 17:23-27</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 52004013,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 4,
       "verse": 13,
       "text": "For the promise to Abraham or to his descendants that he would inherit the world was not through the law, but through the righteousness of faith.",
       "links": "<a href='/AIV/01/12/3'>Gen. 12:3</a>; <a href='/AIV/01/17/5-6'>Gen. 17:5-6</a>",
@@ -166,11 +103,6 @@
     },
     {
       "pk": 52004014,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 4,
       "verse": 14,
       "text": "For if those who are of the law are heirs, faith is made empty and the promise is canceled;",
       "links": "<a href='/AIV/48/3/18'>Gal. 3:18</a>",
@@ -178,11 +110,6 @@
     },
     {
       "pk": 52004015,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 4,
       "verse": 15,
       "text": "for the law produces wrath, but where there is no law, neither is there transgression.",
       "links": "<a href='/AIV/45/5/20'>Rom. 5:20</a>; <a href='/AIV/48/3/19'>Gal. 3:19</a>",
@@ -190,11 +117,6 @@
     },
     {
       "pk": 52004016,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 4,
       "verse": 16,
       "text": "For this reason, it depends on faith, so that it may be by grace—that the promise may be guaranteed to all the descendants, not only to those who are of the law but also to those who share the faith of Abraham, who is the father of us all.",
       "links": "<a href='/AIV/01/17/4-5'>Gen. 17:4-5</a>; <a href='/AIV/48/3/7'>Gal. 3:7</a>",
@@ -202,11 +124,6 @@
     },
     {
       "pk": 52004017,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 4,
       "verse": 17,
       "text": "As it is written: 'I have made you the father of many nations.' He is our father in the presence of God, in whom he believed—the God who gives life to the dead and calls into being things that do not exist.",
       "links": "<a href='/AIV/01/17/5'>Gen. 17:5</a>; <a href='/AIV/58/11/19'>Heb. 11:19</a>",
@@ -214,11 +131,6 @@
     },
     {
       "pk": 52004018,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 4,
       "verse": 18,
       "text": "In hope against hope, he believed, so that he might become the father of many nations, according to what was spoken: 'So shall your offspring be.'",
       "links": "<a href='/AIV/01/15/5'>Gen. 15:5</a>; <a href='/AIV/58/11/11-12'>Heb. 11:11-12</a>",
@@ -227,11 +139,6 @@
     },
     {
       "pk": 52004019,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 4,
       "verse": 19,
       "text": "He did not weaken in faith when he considered his own body, which was already as good as dead—since he was about a hundred years old—or when he considered the barrenness of Sarah’s womb.",
       "links": "<a href='/AIV/01/17/17'>Gen. 17:17</a>; <a href='/AIV/01/18/11-14'>Gen. 18:11-14</a>",
@@ -239,11 +146,6 @@
     },
     {
       "pk": 52004020,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 4,
       "verse": 20,
       "text": "No unbelief made him waver concerning the promise of God, but he grew strong in faith, giving glory to God,",
       "links": "<a href='/AIV/58/10/23'>Heb. 10:23</a>; <a href='/AIV/58/11/11'>Heb. 11:11</a>",
@@ -251,11 +153,6 @@
     },
     {
       "pk": 52004021,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 4,
       "verse": 21,
       "text": "being fully convinced that God was able to do what He had promised.",
       "links": "<a href='/AIV/01/18/14'>Gen. 18:14</a>; <a href='/AIV/58/11/19'>Heb. 11:19</a>",
@@ -263,11 +160,6 @@
     },
     {
       "pk": 52004022,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 4,
       "verse": 22,
       "text": "Therefore it was credited to him as righteousness.",
       "links": "<a href='/AIV/01/15/6'>Gen. 15:6</a>",
@@ -275,11 +167,6 @@
     },
     {
       "pk": 52004023,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 4,
       "verse": 23,
       "text": "But the words 'it was credited to him' were not written for his sake alone,",
       "links": "<a href='/AIV/45/15/4'>Rom. 15:4</a>",
@@ -287,11 +174,6 @@
     },
     {
       "pk": 52004024,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 4,
       "verse": 24,
       "text": "but also for ours. It will be credited to us who believe in Him who raised Jesus our Lord from the dead.",
       "links": "<a href='/AIV/43/20/27-29'>John 20:27-29</a>; <a href='/AIV/46/15/17'>1 Cor. 15:17</a>",
@@ -299,43 +181,10 @@
     },
     {
       "pk": 52004025,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 4,
       "verse": 25,
       "text": "He was delivered up for our trespasses and raised for our justification.",
       "links": "<a href='/AIV/23/53/5-11'>Isa. 53:5-11</a>; <a href='/AIV/46/15/3-4'>1 Cor. 15:3-4</a>",
       "comment": "Jesus' passion and resurrection fulfill the prophecy of Isaiah 53 and serve as the foundation of Christian faith, uniting believers throughout history in Christ and the grace administered through Him."
-    }
-  ],
-  "translatedAt": "2025-12-24T11:37:48.038Z",
-  "sections": [
-    {
-      "title": "Abraham Justified by Faith",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "The Blessing of Righteousness Apart from Works",
-      "startVerse": 6,
-      "endVerse": 8
-    },
-    {
-      "title": "Abraham, Father of All Who Believe",
-      "startVerse": 9,
-      "endVerse": 12
-    },
-    {
-      "title": "The Promise Realized Through Faith",
-      "startVerse": 13,
-      "endVerse": 17
-    },
-    {
-      "title": "The Example of Abraham's Faith",
-      "startVerse": 18,
-      "endVerse": 25
     }
   ]
 }

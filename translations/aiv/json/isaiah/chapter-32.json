@@ -1,16 +1,13 @@
 {
-  "book": 29,
+  "translation": "AIV",
+  "bookId": "isaiah",
   "bookName": "Isaiah",
   "bookAbbreviation": "Isa",
+  "bookNumber": 29,
   "chapter": 32,
   "verses": [
     {
       "pk": 29032001,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 32,
       "verse": 1,
       "text": "See, a king will reign in righteousness, and princes will rule with justice.",
       "links": "<a href='/AIV/23/9/6-7'>Isa. 9:6-7</a>; <a href='/AIV/24/23/5'>Jer. 23:5</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 29032002,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 32,
       "verse": 2,
       "text": "Each one will be like a shelter from the wind, and a refuge from the storm, like streams of water in a dry place, like the shade of a mighty rock in a weary land.",
       "links": "<a href='/AIV/23/4/6'>Isa. 4:6</a>; <a href='/AIV/19/63/1'>Ps. 63:1</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 29032003,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 32,
       "verse": 3,
       "text": "Then the eyes of those who see will not be shut, and the ears of those who hear will pay attention.",
       "links": "<a href='/AIV/23/29/18'>Isa. 29:18</a>; <a href='/AIV/40/13/16'>Matt. 13:16</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 29032004,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 32,
       "verse": 4,
       "text": "The mind of the hasty will comprehend knowledge, and the tongue of the stammerers will speak clearly and fluently.",
       "links": "<a href='/AIV/23/33/19'>Isa. 33:19</a>; <a href='/AIV/24/31/33-34'>Jer. 31:33-34</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 29032005,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 32,
       "verse": 5,
       "text": "No longer will the fool be called noble, or the scoundrel said to be honorable.",
       "links": "<a href='/AIV/19/12/8'>Ps. 12:8</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 29032006,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 32,
       "verse": 6,
       "text": "For the fool speaks folly, his heart plans evil: to practice godlessness, and to speak error against the Lord, to let the hungry go empty, and withhold drink from the thirsty.",
       "links": "<a href='/AIV/19/14/1'>Ps. 14:1</a>; <a href='/AIV/40/25/42-43'>Matt. 25:42-43</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 29032007,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 32,
       "verse": 7,
       "text": "The actions of the scoundrel are evil; he makes wicked plans to destroy the poor with lies, even when the needy speak rightly.",
       "links": "<a href='/AIV/19/10/2'>Ps. 10:2</a>; <a href='/AIV/20/22/22-23'>Prov. 22:22-23</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 29032008,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 32,
       "verse": 8,
       "text": "But the noble man plans noble things, and by noble deeds he stands.",
       "links": "<a href='/AIV/19/15/2'>Ps. 15:2</a>; <a href='/AIV/59/2/18'>Jas. 2:18</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 29032009,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 32,
       "verse": 9,
       "text": "Rise up, you women who are at ease, hear my voice; you complacent daughters, listen to what I say.",
       "links": "<a href='/AIV/23/3/16'>Isa. 3:16</a>; <a href='/AIV/30/6/1'>Amos 6:1</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 29032010,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 32,
       "verse": 10,
       "text": "In little more than a year you will shudder, you complacent women; for the grape harvest will fail and the fruit harvest will not come.",
       "links": "<a href='/AIV/23/7/23'>Isa. 7:23</a>; <a href='/AIV/29/1/10'>Joel 1:10</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 29032011,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 32,
       "verse": 11,
       "text": "Tremble, you women who are at ease; shudder, you complacent ones; strip yourselves bare and put sackcloth around your waists.",
       "links": "<a href='/AIV/23/20/2'>Isa. 20:2</a>; <a href='/AIV/29/1/13'>Joel 1:13</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 29032012,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 32,
       "verse": 12,
       "text": "Beat your breasts for the pleasant fields, for the fruitful vine,",
       "links": "<a href='/AIV/23/24/7-9'>Isa. 24:7-9</a>; <a href='/AIV/42/23/27'>Luke 23:27</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 29032013,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 32,
       "verse": 13,
       "text": "for the land of my people, thorns and briers will come up, yes, for all the houses of joy in the jubilant city.",
       "links": "<a href='/AIV/23/5/6'>Isa. 5:6</a>; <a href='/AIV/01/3/18'>Gen. 3:18</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 29032014,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 32,
       "verse": 14,
       "text": "For the palace will be forsaken, the bustling city deserted; the hill and watchtower will become caves forever, a joy for wild donkeys, a pasture for flocks;",
       "links": "<a href='/AIV/23/6/11-12'>Isa. 6:11-12</a>; <a href='/AIV/23/27/10'>Isa. 27:10</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 29032015,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 32,
       "verse": 15,
       "text": "Until the Spirit is poured upon us from on high, and the desert becomes a fertile field, and the fertile field is counted as a forest.",
       "links": "<a href='/AIV/29/2/28'>Joel 2:28</a>; <a href='/AIV/44/2/17'>Acts 2:17</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 29032016,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 32,
       "verse": 16,
       "text": "Then justice will dwell in the wilderness, and righteousness abide in the fertile field.",
       "links": "<a href='/AIV/23/11/4-5'>Isa. 11:4-5</a>; <a href='/AIV/19/85/11'>Ps. 85:11</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 29032017,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 32,
       "verse": 17,
       "text": "The work of righteousness will be peace, and the effect of righteousness quietness and confidence forever.",
       "links": "<a href='/AIV/23/26/3'>Isa. 26:3</a>; <a href='/AIV/59/3/18'>Jas. 3:18</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 29032018,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 32,
       "verse": 18,
       "text": "My people will dwell in a peaceful habitation, in secure dwellings, and in quiet resting places.",
       "links": "<a href='/AIV/19/4/8'>Ps. 4:8</a>; <a href='/AIV/58/4/9'>Heb. 4:9</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 29032019,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 32,
       "verse": 19,
       "text": "But hail will flatten the forest and the city will be laid low.",
       "links": "<a href='/AIV/26/13/13'>Ezek. 13:13</a>; <a href='/AIV/66/16/21'>Rev. 16:21</a>",
@@ -237,33 +144,10 @@
     },
     {
       "pk": 29032020,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 32,
       "verse": 20,
       "text": "Blessed are you who sow beside all waters, who let the feet of the ox and the donkey roam free.",
       "links": "<a href='/AIV/19/126/6'>Ps. 126:6</a>; <a href='/AIV/23/30/23-24'>Isa. 30:23-24</a>",
       "comment": "This last verse proclaims the blessing of abundance and peace upon those who live according to God’s renewed order. Spiritual productivity results from remaining faithful and cooperating with God’s grace."
-    }
-  ],
-  "translatedAt": "2025-12-24T08:05:35.827Z",
-  "sections": [
-    {
-      "title": "The Righteous Reign and Its Blessings",
-      "startVerse": 1,
-      "endVerse": 8
-    },
-    {
-      "title": "Judgment on the Complacent Women",
-      "startVerse": 9,
-      "endVerse": 14
-    },
-    {
-      "title": "Renewal by the Spirit and the Fruits of Righteousness",
-      "startVerse": 15,
-      "endVerse": 20
     }
   ]
 }

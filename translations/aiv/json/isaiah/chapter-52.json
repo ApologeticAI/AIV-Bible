@@ -1,16 +1,13 @@
 {
-  "book": 29,
+  "translation": "AIV",
+  "bookId": "isaiah",
   "bookName": "Isaiah",
   "bookAbbreviation": "Isa",
+  "bookNumber": 29,
   "chapter": 52,
   "verses": [
     {
       "pk": 29052001,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 52,
       "verse": 1,
       "text": "Awake, awake, put on your strength, O Zion; put on your beautiful garments, Jerusalem, the holy city. For the uncircumcised and the unclean shall never enter you again.",
       "links": "<a href='/AIV/23/51/9'>Isa. 51:9</a>; <a href='/AIV/26/44/9'>Ezek. 44:9</a>; <a href='/AIV/66/60/1'>Isa. 60:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 29052002,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 52,
       "verse": 2,
       "text": "Shake yourself from the dust; arise, sit down, O Jerusalem; loose yourself from the bonds of your neck, O captive daughter of Zion.",
       "links": "<a href='/AIV/19/113/7'>Ps. 113:7</a>; <a href='/AIV/23/51/17'>Isa. 51:17</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 29052003,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 52,
       "verse": 3,
       "text": "For thus says the LORD: You were sold for nothing, and you shall be redeemed without money.",
       "links": "<a href='/AIV/19/44/12'>Ps. 44:12</a>; <a href='/AIV/46/6/20'>1 Cor. 6:20</a>; <a href='/AIV/60/1/18-19'>1 Pet. 1:18-19</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 29052004,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 52,
       "verse": 4,
       "text": "For thus says the Lord GOD: My people went down at first into Egypt to dwell there; then Assyria oppressed them without cause.",
       "links": "<a href='/AIV/02/1/1-8'>Ex. 1:1-8</a>; <a href='/AIV/12/17/6'>2 Kings 17:6</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 29052005,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 52,
       "verse": 5,
       "text": "Now therefore, what have I here, says the LORD, that My people are taken away for nothing? Those who rule over them mock, declares the LORD, and continually My name is despised.",
       "links": "<a href='/AIV/26/36/20-23'>Ezek. 36:20-23</a>; <a href='/AIV/19/22/7'>Ps. 22:7</a>; <a href='/AIV/45/2/24'>Rom. 2:24</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 29052006,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 52,
       "verse": 6,
       "text": "Therefore My people shall know My name; in that day they shall know that it is I who speak; behold, it is I.",
       "links": "<a href='/AIV/23/41/4'>Isa. 41:4</a>; <a href='/AIV/43/8/24'>John 8:24</a>; <a href='/AIV/02/3/14'>Ex. 3:14</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 29052007,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 52,
       "verse": 7,
       "text": "How beautiful upon the mountains are the feet of the one who brings good news, who announces peace, who brings glad tidings of good things, who proclaims salvation, who says to Zion, 'Your God reigns.'",
       "links": "<a href='/AIV/45/10/15'>Rom. 10:15</a>; <a href='/AIV/23/40/9'>Isa. 40:9</a>; <a href='/AIV/19/96/10'>Ps. 96:10</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 29052008,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 52,
       "verse": 8,
       "text": "The voice of your watchmen—they lift up their voices, together they sing for joy; for eye to eye they see the return of the LORD to Zion.",
       "links": "<a href='/AIV/19/126/2'>Ps. 126:2</a>; <a href='/AIV/23/62/6'>Isa. 62:6</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 29052009,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 52,
       "verse": 9,
       "text": "Break forth together into singing, you waste places of Jerusalem, for the LORD has comforted His people; He has redeemed Jerusalem.",
       "links": "<a href='/AIV/23/40/1'>Isa. 40:1</a>; <a href='/AIV/42/2/38'>Luke 2:38</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 29052010,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 52,
       "verse": 10,
       "text": "The LORD has bared His holy arm in the sight of all the nations, and all the ends of the earth shall see the salvation of our God.",
       "links": "<a href='/AIV/23/53/1'>Isa. 53:1</a>; <a href='/AIV/19/98/2-3'>Ps. 98:2-3</a>; <a href='/AIV/42/2/30-31'>Luke 2:30-31</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 29052011,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 52,
       "verse": 11,
       "text": "Depart, depart, go out from there; touch no unclean thing; go out from the midst of her, purify yourselves, you who carry the vessels of the LORD.",
       "links": "<a href='/AIV/47/6/17'>2 Cor. 6:17</a>; <a href='/AIV/15/2/2'>Ezra 2:2</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 29052012,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 52,
       "verse": 12,
       "text": "For you shall not go out in haste, nor go as fugitives; for the LORD will go before you, and the God of Israel will be your rear guard.",
       "links": "<a href='/AIV/02/13/21'>Ex. 13:21</a>; <a href='/AIV/23/58/8'>Isa. 58:8</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 29052013,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 52,
       "verse": 13,
       "text": "Behold, My servant shall act wisely; he shall be exalted, lifted up, and shall be very high.",
       "links": "<a href='/AIV/50/2/9'>Phil. 2:9</a>; <a href='/AIV/23/53/10'>Isa. 53:10</a>",
@@ -166,11 +103,6 @@
     },
     {
       "pk": 29052014,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 52,
       "verse": 14,
       "text": "Just as many were astonished at him—so marred was his appearance, beyond human semblance, and his form beyond that of mortals—",
       "links": "<a href='/AIV/29/53/2'>Isa. 53:2-3</a>; <a href='/AIV/23/22/6'>Ps. 22:6-7</a>; <a href='/AIV/47/26/67'>Matt. 26:67</a>",
@@ -178,38 +110,10 @@
     },
     {
       "pk": 29052015,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 52,
       "verse": 15,
       "text": "so he shall startle many nations; kings shall shut their mouths because of him; for that which had not been told them they shall see, and that which they had not heard they shall contemplate.",
       "links": "<a href='/AIV/23/53/11'>Isa. 53:11</a>; <a href='/AIV/18/29/22'>Job 29:22</a>; <a href='/AIV/45/15/21'>Rom. 15:21</a>",
       "comment": "‘Sprinkle’ alludes to priestly purification (see Lev. 16:14), fulfilled in Christ’s atoning blood which cleanses and makes holy. The astonishment of kings points to the conversion of nations and the universal scope of Christ’s redemptive work (Rom. 15:21)."
-    }
-  ],
-  "translatedAt": "2026-01-01T04:05:02.044Z",
-  "sections": [
-    {
-      "title": "Jerusalem Awakened and Redeemed",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "The Messenger of Good News",
-      "startVerse": 7,
-      "endVerse": 10
-    },
-    {
-      "title": "Departure from Babylon",
-      "startVerse": 11,
-      "endVerse": 12
-    },
-    {
-      "title": "The Exaltation and Suffering of the Servant",
-      "startVerse": 13,
-      "endVerse": 15
     }
   ]
 }

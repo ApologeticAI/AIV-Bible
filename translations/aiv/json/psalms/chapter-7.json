@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 7,
   "verses": [
     {
       "pk": 23007001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 7,
       "verse": 1,
       "text": "O LORD my God, I take refuge in you; save me from all who pursue me and rescue me.",
       "links": "<a href='/AIV/19/3/1-2'>Ps. 3:1-2</a>; <a href='/AIV/19/71/2'>Ps. 71:2</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23007002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 7,
       "verse": 2,
       "text": "Or they will tear my soul apart like a lion, dragging me away with no one to rescue.",
       "links": "<a href='/AIV/19/10/9'>Ps. 10:9</a>; <a href='/AIV/19/22/13'>Ps. 22:13</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23007003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 7,
       "verse": 3,
       "text": "O LORD my God, if I have done this—if there is injustice in my hands,",
       "links": "<a href='/AIV/19/17/3'>Ps. 17:3</a>; <a href='/AIV/19/26/2'>Ps. 26:2</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23007004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 7,
       "verse": 4,
       "text": "If I have repaid my friend with evil or plundered my enemy without cause,",
       "links": "<a href='/AIV/19/35/12'>Ps. 35:12</a>; <a href='/AIV/19/55/20'>Ps. 55:20</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23007005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 7,
       "verse": 5,
       "text": "Then let my enemy pursue and overtake my soul, let him trample my life to the ground, and lay my honor in the dust. Selah.",
       "links": "<a href='/AIV/19/3/7'>Ps. 3:7</a>; <a href='/AIV/19/44/25'>Ps. 44:25</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23007006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 7,
       "verse": 6,
       "text": "Arise, O LORD, in your anger; lift yourself up against the fury of my adversaries; awake for me! You have commanded judgment.",
       "links": "<a href='/AIV/19/3/7'>Ps. 3:7</a>; <a href='/AIV/19/35/23'>Ps. 35:23</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 23007007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 7,
       "verse": 7,
       "text": "Let the assembly of peoples surround you; and over them return on high.",
       "links": "<a href='/AIV/19/22/27'>Ps. 22:27</a>; <a href='/AIV/19/82/1'>Ps. 82:1</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 23007008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 7,
       "verse": 8,
       "text": "The LORD judges the peoples; judge me, O LORD, according to my righteousness and the integrity that is in me.",
       "links": "<a href='/AIV/19/26/1'>Ps. 26:1</a>; <a href='/AIV/19/35/24'>Ps. 35:24</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 23007009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 7,
       "verse": 9,
       "text": "Let the evil of the wicked come to an end, but establish the righteous—you who test the hearts and minds, O righteous God.",
       "links": "<a href='/AIV/19/11/5'>Ps. 11:5</a>; <a href='/AIV/19/139/23'>Ps. 139:23</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 23007010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 7,
       "verse": 10,
       "text": "My shield is with God, who saves the upright in heart.",
       "links": "<a href='/AIV/19/3/3'>Ps. 3:3</a>; <a href='/AIV/19/18/30'>Ps. 18:30</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 23007011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 7,
       "verse": 11,
       "text": "God is a righteous judge, and a God who feels indignation every day.",
       "links": "<a href='/AIV/19/9/8'>Ps. 9:8</a>; <a href='/AIV/19/94/1'>Ps. 94:1</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 23007012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 7,
       "verse": 12,
       "text": "If a man does not repent, God will sharpen his sword; he has bent and readied his bow.",
       "links": "<a href='/AIV/19/11/2'>Ps. 11:2</a>; <a href='/AIV/19/64/7'>Ps. 64:7</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 23007013,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 7,
       "verse": 13,
       "text": "He has prepared his deadly weapons, making his arrows fiery.",
       "links": "<a href='/AIV/19/18/14'>Ps. 18:14</a>; <a href='/AIV/19/21/12'>Ps. 21:12</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 23007014,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 7,
       "verse": 14,
       "text": "Behold, the wicked conceives evil, is pregnant with trouble, and gives birth to lies.",
       "links": "<a href='/AIV/19/36/4'>Ps. 36:4</a>; <a href='/AIV/59/1/15'>James 1:15</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 23007015,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 7,
       "verse": 15,
       "text": "He digs a pit and makes it deep, but falls into the hole he has made.",
       "links": "<a href='/AIV/19/9/15'>Ps. 9:15</a>; <a href='/AIV/19/35/8'>Ps. 35:8</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 23007016,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 7,
       "verse": 16,
       "text": "His trouble returns upon his own head, and his violence descends on his own skull.",
       "links": "<a href='/AIV/19/140/9'>Ps. 140:9</a>; <a href='/AIV/19/94/23'>Ps. 94:23</a>",
@@ -201,39 +123,11 @@
     },
     {
       "pk": 23007017,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 7,
       "verse": 17,
       "text": "I will give thanks to the LORD for his righteousness and sing praise to the name of the LORD Most High.",
       "links": "<a href='/AIV/19/9/2'>Ps. 9:2</a>; <a href='/AIV/19/92/1'>Ps. 92:1</a>",
       "comment": "Praise and thanksgiving to God are fitting responses to His justice and mercy. The 'Most High' points to worship that encompasses both awe and intimacy, as fulfilled in Christ’s reign (Philippians 2:9-11).",
       "sectionHeader": "Thanksgiving for God’s Justice"
-    }
-  ],
-  "translatedAt": "2025-12-24T06:00:54.161Z",
-  "sections": [
-    {
-      "title": "Prayer for Deliverance from Enemies",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "Appeal for Divine Judgment",
-      "startVerse": 6,
-      "endVerse": 11
-    },
-    {
-      "title": "The Fate of the Wicked",
-      "startVerse": 12,
-      "endVerse": 16
-    },
-    {
-      "title": "Thanksgiving for God’s Justice",
-      "startVerse": 17,
-      "endVerse": 17
     }
   ]
 }

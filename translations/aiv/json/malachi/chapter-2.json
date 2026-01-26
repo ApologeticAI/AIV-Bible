@@ -1,16 +1,13 @@
 {
-  "book": 46,
+  "translation": "AIV",
+  "bookId": "malachi",
   "bookName": "Malachi",
   "bookAbbreviation": "Mal",
+  "bookNumber": 46,
   "chapter": 2,
   "verses": [
     {
       "pk": 46002001,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 2,
       "verse": 1,
       "text": "And now, this command is for you, O priests.",
       "links": "<a href='/AIV/3/8/35'>Lev. 8:35</a>; <a href='/AIV/39/15/2'>Ezek. 15:2</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 46002002,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 2,
       "verse": 2,
       "text": "If you do not listen, and if you do not resolve to honor My name, says the LORD of hosts, then I will send a curse upon you, and I will curse your blessings. Indeed, I have already cursed them, because you do not lay it to heart.",
       "links": "<a href='/AIV/5/28/15'>Deut. 28:15</a>; <a href='/AIV/4/6/23'>Num. 6:23-27</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 46002003,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 2,
       "verse": 3,
       "text": "See, I will rebuke your descendants, and I will spread refuse from your festival sacrifices upon your faces, and you will be taken away with it.",
       "links": "<a href='/AIV/23/1/13'>Isa. 1:13</a>; <a href='/AIV/3/6/11'>Lev. 6:11</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 46002004,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 2,
       "verse": 4,
       "text": "Then you will know that I have sent this command to you, so that My covenant with Levi may continue, says the LORD of hosts.",
       "links": "<a href='/AIV/3/8/1-12'>Lev. 8:1-12</a>; <a href='/AIV/4/25/13'>Num. 25:13</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 46002005,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 2,
       "verse": 5,
       "text": "My covenant with him was one of life and peace, and I gave these to him; it was a covenant of fear, and he feared Me and stood in awe of My name.",
       "links": "<a href='/AIV/1/17/7'>Gen. 17:7</a>; <a href='/AIV/3/25/12'>Lev. 25:12</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 46002006,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 2,
       "verse": 6,
       "text": "True instruction was in his mouth, and no unrighteousness was found on his lips. He walked with Me in peace and uprightness, and he turned many from iniquity.",
       "links": "<a href='/AIV/19/15/2'>Ps. 15:2</a>; <a href='/AIV/20/10/11'>Prov. 10:11</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 46002007,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 2,
       "verse": 7,
       "text": "For the lips of a priest should guard knowledge, and men should seek instruction from his mouth, because he is a messenger of the LORD of hosts.",
       "links": "<a href='/AIV/19/37/30'>Ps. 37:30</a>; <a href='/AIV/24/18/18'>Jer. 18:18</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 46002008,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 2,
       "verse": 8,
       "text": "But you have turned aside from the way; you have caused many to stumble by your teaching. You have corrupted the covenant of Levi, says the LORD of hosts.",
       "links": "<a href='/AIV/28/4/6'>Hos. 4:6</a>; <a href='/AIV/19/119/126'>Ps. 119:126</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 46002009,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 2,
       "verse": 9,
       "text": "So I have made you despised and humiliated before all the people, because you do not keep My ways but show partiality in your instruction.",
       "links": "<a href='/AIV/3/19/15'>Lev. 19:15</a>; <a href='/AIV/20/28/21'>Prov. 28:21</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 46002010,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 2,
       "verse": 10,
       "text": "Have we not all one Father? Has not one God created us? Why then do we deal faithlessly with one another, profaning the covenant of our fathers?",
       "links": "<a href='/AIV/1/1/27'>Gen. 1:27</a>; <a href='/AIV/23/64/8'>Isa. 64:8</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 46002011,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 2,
       "verse": 11,
       "text": "Judah has acted treacherously, and an abomination has been committed in Israel and Jerusalem. For Judah has profaned the sanctuary of the LORD, which He loves, and has married the daughter of a foreign god.",
       "links": "<a href='/AIV/16/13/23'>Neh. 13:23-27</a>; <a href='/AIV/4/25/1'>Num. 25:1-3</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 46002012,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 2,
       "verse": 12,
       "text": "May the LORD cut off from the tents of Jacob anyone who does this, whether he brings offerings to the LORD of hosts or not.",
       "links": "<a href='/AIV/19/101/7'>Ps. 101:7</a>; <a href='/AIV/3/17/9'>Lev. 17:9</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 46002013,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 2,
       "verse": 13,
       "text": "And this you do as well: you cover the altar of the LORD with tears, with weeping and groaning, so that He no longer regards the offering nor accepts it with favor from your hands.",
       "links": "<a href='/AIV/23/1/15'>Isa. 1:15</a>; <a href='/AIV/19/66/18'>Ps. 66:18</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 46002014,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 2,
       "verse": 14,
       "text": "Yet you say, 'Why?' Because the LORD has been a witness between you and the wife of your youth, against whom you have been faithless, though she is your companion and your wife by covenant.",
       "links": "<a href='/AIV/1/2/24'>Gen. 2:24</a>; <a href='/AIV/19/127/3'>Ps. 127:3</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 46002015,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 2,
       "verse": 15,
       "text": "Did He not make them one, with spirit in their union? And why one? He was seeking godly offspring. So guard yourselves in your spirit, and do not be faithless to the wife of your youth.",
       "links": "<a href='/AIV/19/78/8'>Ps. 78:8</a>; <a href='/AIV/19/139/13'>Ps. 139:13</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 46002016,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 2,
       "verse": 16,
       "text": "'For I hate divorce,' says the LORD, the God of Israel, 'and covering one’s garment with violence,' says the LORD of hosts. So guard yourselves in your spirit, and do not be faithless.",
       "links": "<a href='/AIV/5/24/1'>Deut. 24:1</a>; <a href='/AIV/40/19/6'>Matt. 19:6</a>",
@@ -201,39 +123,11 @@
     },
     {
       "pk": 46002017,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 2,
       "verse": 17,
       "text": "You have wearied the LORD with your words. Yet you ask, 'How have we wearied Him?' By saying, 'Everyone who does evil is good in the sight of the LORD, and He delights in them,' or by asking, 'Where is the God of justice?'",
       "links": "<a href='/AIV/19/73/11'>Ps. 73:11</a>; <a href='/AIV/23/5/19-20'>Isa. 5:19–20</a>",
       "comment": "The people's complaints reveal misunderstandings of God's justice and holiness, denying objective morality. This anticipates the New Testament's call to see Christ as the fulfillment of God's justice and righteousness.",
       "sectionHeader": "The Lord Accused of Injustice"
-    }
-  ],
-  "translatedAt": "2025-12-24T10:00:51.185Z",
-  "sections": [
-    {
-      "title": "Warning to the Priests",
-      "startVerse": 1,
-      "endVerse": 9
-    },
-    {
-      "title": "Infidelity of the People and Priests",
-      "startVerse": 10,
-      "endVerse": 12
-    },
-    {
-      "title": "Condemnation of Divorce",
-      "startVerse": 13,
-      "endVerse": 16
-    },
-    {
-      "title": "The Lord Accused of Injustice",
-      "startVerse": 17,
-      "endVerse": 17
     }
   ]
 }

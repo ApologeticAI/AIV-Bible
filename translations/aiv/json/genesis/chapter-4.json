@@ -1,16 +1,13 @@
 {
-  "book": 1,
+  "translation": "AIV",
+  "bookId": "genesis",
   "bookName": "Genesis",
   "bookAbbreviation": "Gen",
+  "bookNumber": 1,
   "chapter": 4,
   "verses": [
     {
       "pk": 1004001,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 4,
       "verse": 1,
       "text": "Now Adam knew Eve his wife, and she conceived and bore Cain, saying, 'I have gotten a man with the help of the Lord.'",
       "links": "<a href='/AIV/1/3/20'>Gen. 3:20</a>; <a href='/AIV/19/127/3'>Ps. 127:3</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 1004002,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 4,
       "verse": 2,
       "text": "And again, she bore his brother Abel. Now Abel was a keeper of sheep, and Cain was a worker of the ground.",
       "links": "<a href='/AIV/1/46/32'>Gen. 46:32</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 1004003,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 4,
       "verse": 3,
       "text": "In the course of time Cain brought to the Lord an offering of the fruit of the ground.",
       "links": "<a href='/AIV/3/2/12'>Lev. 2:12</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 1004004,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 4,
       "verse": 4,
       "text": "And Abel also brought an offering—of the firstborn of his flock and of their fat portions. The Lord looked with favor on Abel and his offering,",
       "links": "<a href='/AIV/58/11/4'>Heb. 11:4</a>; <a href='/AIV/3/3/16'>Lev. 3:16</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 1004005,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 4,
       "verse": 5,
       "text": "but for Cain and his offering he had no regard. So Cain was very angry, and his face fell.",
       "links": "<a href='/AIV/20/15/8'>Prov. 15:8</a>; <a href='/AIV/62/3/12'>1 John 3:12</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 1004006,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 4,
       "verse": 6,
       "text": "The Lord said to Cain, 'Why are you angry? And why has your face fallen?'",
       "links": "<a href='/AIV/19/42/5'>Ps. 42:5</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 1004007,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 4,
       "verse": 7,
       "text": "'If you do well, will you not be accepted? But if you do not do well, sin is crouching at the door. Its desire is for you, but you must rule over it.'",
       "links": "<a href='/AIV/45/6/12'>Rom. 6:12</a>; <a href='/AIV/60/5/8'>1 Pet. 5:8</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 1004008,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 4,
       "verse": 8,
       "text": "Cain spoke to Abel his brother. And when they were in the field, Cain rose up against his brother Abel and killed him.",
       "links": "<a href='/AIV/62/3/12'>1 John 3:12</a>; <a href='/AIV/40/23/35'>Matt. 23:35</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 1004009,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 4,
       "verse": 9,
       "text": "Then the Lord said to Cain, 'Where is Abel your brother?' He said, 'I do not know; am I my brother’s keeper?'",
       "links": "<a href='/AIV/40/22/39'>Matt. 22:39</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 1004010,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 4,
       "verse": 10,
       "text": "And the Lord said, 'What have you done? The voice of your brother’s blood cries out to me from the ground.'",
       "links": "<a href='/AIV/58/12/24'>Heb. 12:24</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 1004011,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 4,
       "verse": 11,
       "text": "And now you are cursed from the ground, which has opened its mouth to receive your brother’s blood from your hand.",
       "links": "<a href='/AIV/1/3/17'>Gen. 3:17</a>; <a href='/AIV/19/106/18'>Ps. 106:18</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 1004012,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 4,
       "verse": 12,
       "text": "When you work the ground, it shall no longer yield its strength to you. You shall be a fugitive and a wanderer on the earth.",
       "links": "<a href='/AIV/1/3/18'>Gen. 3:18</a>; <a href='/AIV/19/119/176'>Ps. 119:176</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 1004013,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 4,
       "verse": 13,
       "text": "Cain said to the Lord, 'My punishment is greater than I can bear.'",
       "links": "<a href='/AIV/19/38/4'>Ps. 38:4</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 1004014,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 4,
       "verse": 14,
       "text": "'Behold, you have driven me this day away from the ground, and from your face I shall be hidden. I shall be a fugitive and a wanderer on the earth, and whoever finds me will kill me.'",
       "links": "<a href='/AIV/1/3/8'>Gen. 3:8</a>; <a href='/AIV/23/59/2'>Isa. 59:2</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 1004015,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 4,
       "verse": 15,
       "text": "Then the Lord said to him, 'Not so! If anyone kills Cain, vengeance shall be taken on him sevenfold.' And the Lord put a mark on Cain, lest any who found him should kill him.",
       "links": "<a href='/AIV/1/9/6'>Gen. 9:6</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 1004016,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 4,
       "verse": 16,
       "text": "So Cain went out from the presence of the Lord and settled in the land of Nod, east of Eden.",
       "links": "<a href='/AIV/1/3/24'>Gen. 3:24</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 1004017,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 4,
       "verse": 17,
       "text": "Cain knew his wife, and she conceived and bore Enoch. Cain was building a city, and he named the city after his son Enoch.",
       "links": "<a href='/AIV/1/5/18'>Gen. 5:18</a>",
@@ -214,11 +131,6 @@
     },
     {
       "pk": 1004018,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 4,
       "verse": 18,
       "text": "To Enoch was born Irad; and Irad fathered Mehujael, and Mehujael fathered Methushael, and Methushael fathered Lamech.",
       "links": "<a href='/AIV/1/5/25'>Gen. 5:25</a>",
@@ -226,11 +138,6 @@
     },
     {
       "pk": 1004019,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 4,
       "verse": 19,
       "text": "And Lamech took two wives: the name of one was Adah, and the name of the other Zillah.",
       "links": "<a href='/AIV/1/2/24'>Gen. 2:24</a>",
@@ -238,11 +145,6 @@
     },
     {
       "pk": 1004020,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 4,
       "verse": 20,
       "text": "Adah bore Jabal; he was the father of those who dwell in tents and have livestock.",
       "links": "<a href='/AIV/1/25/27'>Gen. 25:27</a>",
@@ -250,11 +152,6 @@
     },
     {
       "pk": 1004021,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 4,
       "verse": 21,
       "text": "His brother’s name was Jubal; he was the father of all those who play the lyre and pipe.",
       "links": "<a href='/AIV/19/150/4'>Ps. 150:4</a>",
@@ -262,11 +159,6 @@
     },
     {
       "pk": 1004022,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 4,
       "verse": 22,
       "text": "Zillah bore Tubal-cain; he was the forger of all instruments of bronze and iron. The sister of Tubal-cain was Naamah.",
       "links": "<a href='/AIV/29/3/10'>Joel 3:10</a>",
@@ -274,11 +166,6 @@
     },
     {
       "pk": 1004023,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 4,
       "verse": 23,
       "text": "Lamech said to his wives, 'Adah and Zillah, hear my voice; you wives of Lamech, listen to what I say: I have killed a man for wounding me, a young man for striking me.'",
       "links": "<a href='/AIV/1/9/6'>Gen. 9:6</a>",
@@ -286,11 +173,6 @@
     },
     {
       "pk": 1004024,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 4,
       "verse": 24,
       "text": "'If Cain is avenged sevenfold, then Lamech seventy-sevenfold.'",
       "links": "<a href='/AIV/40/18/22'>Matt. 18:22</a>",
@@ -298,11 +180,6 @@
     },
     {
       "pk": 1004025,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 4,
       "verse": 25,
       "text": "And Adam knew his wife again, and she bore a son and named him Seth, for she said, 'God has appointed for me another offspring instead of Abel, for Cain killed him.'",
       "links": "<a href='/AIV/1/5/3'>Gen. 5:3</a>; <a href='/AIV/42/3/38'>Luke 3:38</a>",
@@ -311,43 +188,10 @@
     },
     {
       "pk": 1004026,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 4,
       "verse": 26,
       "text": "To Seth also a son was born, and he called his name Enosh. At that time people began to call upon the name of the Lord.",
       "links": "<a href='/AIV/19/116/13'>Ps. 116:13</a>; <a href='/AIV/45/10/13'>Rom. 10:13</a>",
       "comment": "The beginning of public worship here anticipates both individual and communal prayer traditions, later developed in the history of the church, which carries this calling forward through centuries of liturgy and prayer."
-    }
-  ],
-  "translatedAt": "2025-12-24T00:12:30.916Z",
-  "sections": [
-    {
-      "title": "Cain and Abel",
-      "startVerse": 1,
-      "endVerse": 7
-    },
-    {
-      "title": "Cain Murders Abel",
-      "startVerse": 8,
-      "endVerse": 10
-    },
-    {
-      "title": "The Curse of Cain",
-      "startVerse": 11,
-      "endVerse": 16
-    },
-    {
-      "title": "The Descendants of Cain",
-      "startVerse": 17,
-      "endVerse": 24
-    },
-    {
-      "title": "Birth of Seth and Enosh",
-      "startVerse": 25,
-      "endVerse": 26
     }
   ]
 }

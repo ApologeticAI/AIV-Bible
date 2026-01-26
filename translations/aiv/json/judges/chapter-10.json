@@ -1,16 +1,13 @@
 {
-  "book": 7,
+  "translation": "AIV",
+  "bookId": "judges",
   "bookName": "Judges",
   "bookAbbreviation": "Judg",
+  "bookNumber": 7,
   "chapter": 10,
   "verses": [
     {
       "pk": 7010001,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 10,
       "verse": 1,
       "text": "After Abimelech, Tola son of Puah, son of Dodo, a man of Issachar, arose to rescue Israel. He lived in Shamir, in the hill country of Ephraim.",
       "links": "<a href='/AIV/1/46/13'>Gen. 46:13</a>; <a href='/AIV/7/2/16'>Judg. 2:16</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 7010002,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 10,
       "verse": 2,
       "text": "He judged Israel for twenty-three years; then he died and was buried at Shamir.",
       "links": "<a href='/AIV/7/4/4'>Judg. 4:4</a>; <a href='/AIV/7/12/7'>Judg. 12:7</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 7010003,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 10,
       "verse": 3,
       "text": "After him arose Jair the Gileadite, who judged Israel for twenty-two years.",
       "links": "<a href='/AIV/7/12/13'>Judg. 12:13</a>; <a href='/AIV/4/3/14'>Num. 32:41</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 7010004,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 10,
       "verse": 4,
       "text": "He had thirty sons who rode on thirty donkeys. They had thirty towns in Gilead, which are called Havvoth-jair to this day.",
       "links": "<a href='/AIV/4/32/41'>Num. 32:41</a>; <a href='/AIV/5/3/14'>Deut. 3:14</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 7010005,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 10,
       "verse": 5,
       "text": "Jair died and was buried in Kamon.",
       "links": "<a href='/AIV/7/12/13'>Judg. 12:13</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 7010006,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 10,
       "verse": 6,
       "text": "Once again, the people of Israel did evil in the sight of the LORD, serving the Baals and the Ashtaroth, and the gods of Aram, Sidon, Moab, Ammon, and the Philistines. They abandoned the LORD and did not serve Him.",
       "links": "<a href='/AIV/7/3/7'>Judg. 3:7</a>; <a href='/AIV/2/2/11-13'>Judg. 2:11-13</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 7010007,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 10,
       "verse": 7,
       "text": "The anger of the LORD burned against Israel, so He gave them over to the Philistines and the Ammonites.",
       "links": "<a href='/AIV/7/2/14'>Judg. 2:14</a>; <a href='/AIV/5/32/20-21'>Deut. 32:20-21</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 7010008,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 10,
       "verse": 8,
       "text": "That year, they crushed and oppressed the Israelites for eighteen years—all the Israelites who lived beyond the Jordan in Gilead, the land of the Amorites.",
       "links": "<a href='/AIV/7/3/14'>Judg. 3:14</a>; <a href='/AIV/4/21/13'>Num. 21:13'>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 7010009,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 10,
       "verse": 9,
       "text": "The Ammonites also crossed the Jordan to fight against Judah, Benjamin, and Ephraim, and Israel was in great distress.",
       "links": "<a href='/AIV/7/2/15'>Judg. 2:15</a>; <a href='/AIV/7/3/13'>Judg. 3:13</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 7010010,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 10,
       "verse": 10,
       "text": "Then the people of Israel cried out to the LORD, saying, 'We have sinned against You, because we have abandoned our God and served the Baals.'",
       "links": "<a href='/AIV/7/3/9'>Judg. 3:9</a>; <a href='/AIV/19/106/6'>Ps. 106:6</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 7010011,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 10,
       "verse": 11,
       "text": "The LORD replied to the Israelites: 'Did I not deliver you from Egypt, the Amorites, the Ammonites, the Philistines,'",
       "links": "<a href='/AIV/2/14/30'>Exod. 14:30</a>; <a href='/AIV/7/3/31'>Judg. 3:31</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 7010012,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 10,
       "verse": 12,
       "text": "'And when the Sidonians, Amalekites, and Maonites oppressed you, you cried out to Me, and I rescued you from their hands.'",
       "links": "<a href='/AIV/7/3/13'>Judg. 3:13</a>; <a href='/AIV/9/6/20-21'>1 Sam. 6:20-21</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 7010013,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 10,
       "verse": 13,
       "text": "'Yet you have forsaken Me and served other gods; therefore, I will save you no more.'",
       "links": "<a href='/AIV/7/2/13'>Judg. 2:13</a>; <a href='/AIV/5/31/17-18'>Deut. 31:17-18</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 7010014,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 10,
       "verse": 14,
       "text": "'Go and cry out to the gods you have chosen; let them save you in your time of distress.'",
       "links": "<a href='/AIV/7/2/12'>Judg. 2:12</a>; <a href='/AIV/23/45/20'>Isa. 45:20</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 7010015,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 10,
       "verse": 15,
       "text": "And the Israelites said to the LORD, 'We have sinned; do to us whatever seems good to You. Only please rescue us this day.'",
       "links": "<a href='/AIV/19/51/4'>Ps. 51:4</a>; <a href='/AIV/7/3/9'>Judg. 3:9</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 7010016,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 10,
       "verse": 16,
       "text": "So they removed the foreign gods from among them and served the LORD, and He could no longer bear Israel's suffering.",
       "links": "<a href='/AIV/7/6/25'>Judg. 6:25</a>; <a href='/AIV/20/14/9'>Prov. 14:9</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 7010017,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 10,
       "verse": 17,
       "text": "Then the Ammonites were called together and camped in Gilead, and the Israelites assembled and camped at Mizpah.",
       "links": "<a href='/AIV/7/11/11'>Judg. 11:11</a>; <a href='/AIV/1/31/49'>Gen. 31:49</a>",
@@ -213,33 +130,10 @@
     },
     {
       "pk": 7010018,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 10,
       "verse": 18,
       "text": "The people and the leaders of Gilead said to one another, 'Who will be the man to begin the fight against the Ammonites? He shall be the head of all the inhabitants of Gilead.'",
       "links": "<a href='/AIV/7/11/6-11'>Judg. 11:6-11</a>; <a href='/AIV/9/10/24'>1 Sam. 10:24</a>",
       "comment": "The desire for a leader foreshadows the coming of a savior-figure, ultimately fulfilled perfectly in Christ as head and mediator (see <a href='/AIV/45/5/10-11'>Rom. 5:10-11</a>). The role of single leadership in salvation history points ultimately to the unity of God’s people under a divinely appointed and singular head."
-    }
-  ],
-  "translatedAt": "2025-12-24T02:36:26.399Z",
-  "sections": [
-    {
-      "title": "Tola and Jair Judge Israel",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "Israel's Apostasy and Oppression",
-      "startVerse": 6,
-      "endVerse": 9
-    },
-    {
-      "title": "Repentance and Preparations for Battle",
-      "startVerse": 10,
-      "endVerse": 18
     }
   ]
 }

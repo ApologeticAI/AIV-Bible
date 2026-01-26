@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 15,
   "verses": [
     {
       "pk": 23015001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 15,
       "verse": 1,
       "text": "O LORD, who may dwell in your tent? Who may live on your holy mountain?",
       "links": "<a href='/AIV/02/25/8'>Ex. 25:8</a>; <a href='/AIV/23/24/3'>Ps. 24:3</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23015002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 15,
       "verse": 2,
       "text": "He who walks blamelessly, does what is right, and speaks the truth from his heart,",
       "links": "<a href='/AIV/01/17/1'>Gen. 17:1</a>; <a href='/AIV/20/28/18'>Prov. 28:18</a>; <a href='/AIV/49/4/25'>Eph. 4:25</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23015003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 15,
       "verse": 3,
       "text": "who does not slander with his tongue, does no evil to his neighbor, and does not bring shame upon his friend;",
       "links": "<a href='/AIV/03/19/16'>Lev. 19:16</a>; <a href='/AIV/59/4/11'>Jas. 4:11</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23015004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 15,
       "verse": 4,
       "text": "in whose eyes a vile person is rejected, but who honors those who fear the LORD; who keeps an oath even when it hurts, and does not change their word;",
       "links": "<a href='/AIV/20/14/2'>Prov. 14:2</a>; <a href='/AIV/19/119/113'>Ps. 119:113</a>",
@@ -55,23 +37,10 @@
     },
     {
       "pk": 23015005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 15,
       "verse": 5,
       "text": "who does not lend out his money at interest or take a bribe against the innocent. Whoever does these things will never be shaken.",
       "links": "<a href='/AIV/02/22/25'>Ex. 22:25</a>; <a href='/AIV/19/112/6'>Ps. 112:6</a>",
       "comment": "This verse emphasizes social justice and integrity, which reflect God's own character. The prohibition against usury and bribes shows that faithfulness is holistic, touching on economic and social life as an expression of genuine faith. Those rooted in truth and charity stand firm forever, prefiguring those who will inherit God's Kingdom (<a href='/AIV/40/25/34'>Matt. 25:34</a>)."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:03:04.673Z",
-  "sections": [
-    {
-      "title": "The Righteous in the Presence of God",
-      "startVerse": 1,
-      "endVerse": 5
     }
   ]
 }

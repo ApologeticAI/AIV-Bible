@@ -1,16 +1,13 @@
 {
-  "book": 4,
+  "translation": "AIV",
+  "bookId": "numbers",
   "bookName": "Numbers",
   "bookAbbreviation": "Num",
+  "bookNumber": 4,
   "chapter": 36,
   "verses": [
     {
       "pk": 4036001,
-      "translation": "AIV",
-      "book": 4,
-      "bookName": "Numbers",
-      "bookAbbreviation": "Num",
-      "chapter": 36,
       "verse": 1,
       "text": "The family heads from the clan of the descendants of Gilead, the son of Machir, the son of Manasseh, from the clans of the sons of Joseph, came and spoke before Moses, and before the leaders, the heads of the fathers' houses of the people of Israel.",
       "links": "<a href='/AIV/4/27/1'>Num. 27:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 4036002,
-      "translation": "AIV",
-      "book": 4,
-      "bookName": "Numbers",
-      "bookAbbreviation": "Num",
-      "chapter": 36,
       "verse": 2,
       "text": "They said, 'The LORD commanded my lord to give the land as an inheritance by lot to the people of Israel; and my lord was commanded by the LORD to give the inheritance of our brother Zelophehad to his daughters.'",
       "links": "<a href='/AIV/4/26/56'>Num. 26:56</a>; <a href='/AIV/4/27/7'>Num. 27:7</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 4036003,
-      "translation": "AIV",
-      "book": 4,
-      "bookName": "Numbers",
-      "bookAbbreviation": "Num",
-      "chapter": 36,
       "verse": 3,
       "text": "'But if they marry any of the sons from the other tribes of the people of Israel, then their inheritance will be taken away from the inheritance of our fathers and added to the inheritance of the tribe into which they marry; so it will be taken away from our allotted inheritance.'",
       "links": "<a href='/AIV/3/27/1-11'>Num. 27:1-11</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 4036004,
-      "translation": "AIV",
-      "book": 4,
-      "bookName": "Numbers",
-      "bookAbbreviation": "Num",
-      "chapter": 36,
       "verse": 4,
       "text": "And when the Jubilee of the people of Israel comes, their inheritance will be added to the tribe into which they marry, so their inheritance will be taken away from the inheritance of the tribe of our fathers.",
       "links": "<a href='/AIV/3/25/10-13'>Lev. 25:10-13</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 4036005,
-      "translation": "AIV",
-      "book": 4,
-      "bookName": "Numbers",
-      "bookAbbreviation": "Num",
-      "chapter": 36,
       "verse": 5,
       "text": "Then Moses commanded the people of Israel by the word of the LORD, saying, 'The tribe of the sons of Joseph is right in what they say.'",
       "links": "<a href='/AIV/5/6/6'>Deut. 6:6</a>; <a href='/AIV/1/18/15'>Ex. 18:15</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 4036006,
-      "translation": "AIV",
-      "book": 4,
-      "bookName": "Numbers",
-      "bookAbbreviation": "Num",
-      "chapter": 36,
       "verse": 6,
       "text": "'This is what the LORD commands concerning the daughters of Zelophehad: “Let them marry whom they think best, only they must marry within the clan of the tribe of their father.”'",
       "links": "<a href='/AIV/4/27/8'>Num. 27:8</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 4036007,
-      "translation": "AIV",
-      "book": 4,
-      "bookName": "Numbers",
-      "bookAbbreviation": "Num",
-      "chapter": 36,
       "verse": 7,
       "text": "'So no inheritance of the people of Israel shall be transferred from one tribe to another, for every one of the people of Israel shall hold on to the inheritance of the tribe of his fathers.'",
       "links": "<a href='/AIV/4/26/53'>Num. 26:53</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 4036008,
-      "translation": "AIV",
-      "book": 4,
-      "bookName": "Numbers",
-      "bookAbbreviation": "Num",
-      "chapter": 36,
       "verse": 8,
       "text": "'And every daughter who possesses an inheritance among the tribes of the people of Israel shall be wife to one of the clan of the tribe of her father, so that every Israelite may possess the inheritance of his fathers.'",
       "links": "<a href='/AIV/3/25/46'>Lev. 25:46</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 4036009,
-      "translation": "AIV",
-      "book": 4,
-      "bookName": "Numbers",
-      "bookAbbreviation": "Num",
-      "chapter": 36,
       "verse": 9,
       "text": "'So no inheritance shall pass from one tribe to another tribe; for each of the tribes of the people of Israel shall hold on to its own inheritance.'",
       "links": "<a href='/AIV/4/36/7'>Num. 36:7</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 4036010,
-      "translation": "AIV",
-      "book": 4,
-      "bookName": "Numbers",
-      "bookAbbreviation": "Num",
-      "chapter": 36,
       "verse": 10,
       "text": "The daughters of Zelophehad did as the LORD commanded Moses;",
       "links": "<a href='/AIV/4/27/1-11'>Num. 27:1-11</a>",
@@ -127,11 +79,6 @@
     },
     {
       "pk": 4036011,
-      "translation": "AIV",
-      "book": 4,
-      "bookName": "Numbers",
-      "bookAbbreviation": "Num",
-      "chapter": 36,
       "verse": 11,
       "text": "for Mahlah, Tirzah, Hoglah, Milcah, and Noah, the daughters of Zelophehad, were married to the sons of their father's brothers.",
       "links": "<a href='/AIV/1/24/4'>Gen. 24:4</a>",
@@ -139,11 +86,6 @@
     },
     {
       "pk": 4036012,
-      "translation": "AIV",
-      "book": 4,
-      "bookName": "Numbers",
-      "bookAbbreviation": "Num",
-      "chapter": 36,
       "verse": 12,
       "text": "They married those from the clans of the sons of Manasseh the son of Joseph, and their inheritance remained in the tribe of the clan of their father.",
       "links": "<a href='/AIV/6/17/3'>Josh. 17:3</a>",
@@ -151,23 +93,10 @@
     },
     {
       "pk": 4036013,
-      "translation": "AIV",
-      "book": 4,
-      "bookName": "Numbers",
-      "bookAbbreviation": "Num",
-      "chapter": 36,
       "verse": 13,
       "text": "These are the commandments and the judgments that the LORD commanded through Moses to the people of Israel in the plains of Moab by the Jordan at Jericho.",
       "links": "<a href='/AIV/5/1/5'>Deut. 1:5</a>; <a href='/AIV/4/22/1'>Num. 22:1</a>",
       "comment": "This closing summary reminds readers that all these statutes are divinely revealed, through the mediation of Moses, as the people are about to enter the Promised Land. This foreshadows how Christ mediates the New Covenant—delivering the fullness of God’s law and inheritance to his people (cf. Heb. 8:6–13)."
-    }
-  ],
-  "translatedAt": "2025-12-24T01:55:50.787Z",
-  "sections": [
-    {
-      "title": "Inheritance of Zelophehad’s Daughters",
-      "startVerse": 1,
-      "endVerse": 13
     }
   ]
 }

@@ -1,16 +1,13 @@
 {
-  "book": 24,
+  "translation": "AIV",
+  "bookId": "proverbs",
   "bookName": "Proverbs",
   "bookAbbreviation": "Prov",
+  "bookNumber": 24,
   "chapter": 9,
   "verses": [
     {
       "pk": 24009001,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 9,
       "verse": 1,
       "text": "Wisdom has built her house; she has set up her seven pillars.",
       "links": "<a href='/AIV/20/8/22-31'>Prov. 8:22-31</a>; <a href='/AIV/13/16/14'>1 Chron. 16:14</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 24009002,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 9,
       "verse": 2,
       "text": "She has prepared her food, she has mixed her wine; she has set her table.",
       "links": "<a href='/AIV/19/23/5'>Ps. 23:5</a>; <a href='/AIV/43/2/1-10'>John 2:1-10</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 24009003,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 9,
       "verse": 3,
       "text": "She has sent out her servant girls; she calls from the highest points of the city:",
       "links": "<a href='/AIV/20/1/20-21'>Prov. 1:20-21</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 24009004,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 9,
       "verse": 4,
       "text": "\"Whoever is simple, let him turn in here!\" To the one without understanding she says,",
       "links": "<a href='/AIV/20/8/5'>Prov. 8:5</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 24009005,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 9,
       "verse": 5,
       "text": "\"Come, eat my food, and drink the wine I have mixed.\"",
       "links": "<a href='/AIV/40/26/26-28'>Matt. 26:26-28</a>; <a href='/AIV/43/6/51-56'>John 6:51-56</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 24009006,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 9,
       "verse": 6,
       "text": "\"Leave behind your simple ways and live; walk in the way of understanding.\"",
       "links": "<a href='/AIV/20/4/4-7'>Prov. 4:4-7</a>; <a href='/AIV/51/3/9-10'>Col. 3:9-10</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 24009007,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 9,
       "verse": 7,
       "text": "Whoever corrects a scoffer gets insult for himself, and he who rebukes a wicked person receives abuse.",
       "links": "<a href='/AIV/20/15/12'>Prov. 15:12</a>; <a href='/AIV/40/7/6'>Matt. 7:6</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 24009008,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 9,
       "verse": 8,
       "text": "Do not reprove a scoffer, or he will hate you; reprove a wise person, and he will love you.",
       "links": "<a href='/AIV/19/141/5'>Ps. 141:5</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 24009009,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 9,
       "verse": 9,
       "text": "Give instruction to a wise person, and he will become wiser; teach a righteous person, and he will increase in learning.",
       "links": "<a href='/AIV/20/1/5'>Prov. 1:5</a>; <a href='/AIV/42/24/27'>Luke 24:27</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 24009010,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 9,
       "verse": 10,
       "text": "The fear of the Lord is the beginning of wisdom, and knowledge of the Holy One is understanding.",
       "links": "<a href='/AIV/20/1/7'>Prov. 1:7</a>; <a href='/AIV/19/111/10'>Ps. 111:10</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 24009011,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 9,
       "verse": 11,
       "text": "For through me your days will be many, and years will be added to your life.",
       "links": "<a href='/AIV/20/3/2'>Prov. 3:2</a>; <a href='/AIV/49/6/2-3'>Eph. 6:2-3</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 24009012,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 9,
       "verse": 12,
       "text": "If you are wise, you are wise for yourself; if you scoff, you alone will bear it.",
       "links": "<a href='/AIV/20/14/14'>Prov. 14:14</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 24009013,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 9,
       "verse": 13,
       "text": "A foolish woman is chaotic; she is simple and knows nothing.",
       "links": "<a href='/AIV/20/7/11'>Prov. 7:11</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 24009014,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 9,
       "verse": 14,
       "text": "She sits at the door of her house, on a seat at the heights of the city,",
       "links": "<a href='/AIV/20/7/12'>Prov. 7:12</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 24009015,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 9,
       "verse": 15,
       "text": "Calling to those who pass by, who are going straight on their ways:",
       "links": "<a href='/AIV/20/7/8'>Prov. 7:8</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 24009016,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 9,
       "verse": 16,
       "text": "\"Whoever is simple, let him turn in here!\" To the one without understanding she says,",
       "links": "<a href='/AIV/20/9/4'>Prov. 9:4</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 24009017,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 9,
       "verse": 17,
       "text": "\"Stolen water is sweet, and bread eaten in secret is pleasant.\"",
       "links": "<a href='/AIV/20/5/15-17'>Prov. 5:15-17</a>",
@@ -213,33 +130,10 @@
     },
     {
       "pk": 24009018,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 9,
       "verse": 18,
       "text": "But he does not know that the dead are there, that her guests are in the depths of Sheol.",
       "links": "<a href='/AIV/20/2/18-19'>Prov. 2:18-19</a>; <a href='/AIV/19/55/15'>Ps. 55:15</a>",
       "comment": "The path of folly leads to death and separation from God—a dire warning. Spiritual death is the ultimate result of rejecting wisdom, but the way of life remains open to those who heed the call."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:54:50.715Z",
-  "sections": [
-    {
-      "title": "The Invitation of Wisdom",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "The Way of Wisdom and Folly",
-      "startVerse": 7,
-      "endVerse": 12
-    },
-    {
-      "title": "The Invitation of Folly",
-      "startVerse": 13,
-      "endVerse": 18
     }
   ]
 }

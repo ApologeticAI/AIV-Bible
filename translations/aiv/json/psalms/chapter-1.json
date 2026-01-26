@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 1,
   "verses": [
     {
       "pk": 23001001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 1,
       "verse": 1,
       "text": "Blessed is the man who does not walk in the counsel of the wicked, nor stand in the way of sinners, nor sit in the seat of scoffers;",
       "links": "<a href='/AIV/19/26/4-5'>Ps. 26:4-5</a>; <a href='/AIV/20/4/14'>Prov. 4:14</a>; <a href='/AIV/19/119/1'>Ps. 119:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23001002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 1,
       "verse": 2,
       "text": "but his delight is in the law of the LORD, and on his law he meditates day and night.",
       "links": "<a href='/AIV/19/119/97'>Ps. 119:97</a>; <a href='/AIV/06/1/8'>Josh. 1:8</a>; <a href='/AIV/19/40/8'>Ps. 40:8</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23001003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 1,
       "verse": 3,
       "text": "He is like a tree planted by streams of water, which yields its fruit in season, and whose leaf does not wither. In all that he does, he prospers.",
       "links": "<a href='/AIV/24/17/7-8'>Jer. 17:7-8</a>; <a href='/AIV/19/92/12-14'>Ps. 92:12-14</a>; <a href='/AIV/42/6/43-44'>Luke 6:43-44</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23001004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 1,
       "verse": 4,
       "text": "The wicked are not so, but are like chaff that the wind drives away.",
       "links": "<a href='/AIV/23/17/13'>Isa. 17:13</a>; <a href='/AIV/29/2/5'>Joel 2:5</a>; <a href='/AIV/40/3/12'>Matt. 3:12</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23001005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 1,
       "verse": 5,
       "text": "Therefore, the wicked will not stand in the judgment, nor sinners in the assembly of the righteous.",
       "links": "<a href='/AIV/19/5/5'>Ps. 5:5</a>; <a href='/AIV/40/25/32-33'>Matt. 25:32-33</a>; <a href='/AIV/66/20/12'>Rev. 20:12</a>",
@@ -67,23 +44,10 @@
     },
     {
       "pk": 23001006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 1,
       "verse": 6,
       "text": "For the LORD knows the way of the righteous, but the way of the wicked will perish.",
       "links": "<a href='/AIV/19/37/18'>Ps. 37:18</a>; <a href='/AIV/19/146/9'>Ps. 146:9</a>; <a href='/AIV/40/7/13-14'>Matt. 7:13-14</a>",
       "comment": "To 'know' in Hebrew carries the sense of loving knowledge, approval, and watchful care. God guides and preserves the righteous, while the wicked end up in destruction. The double path reflects Jesus' later teaching on the narrow and broad way (Matt. 7:13-14). The psalm, beginning with 'blessed' and ending with the fate of the wicked, gives a foundational vision of the two ways open to every soul: one within the gathered people of God, nourished and fruitful; the other apart from God's blessing, leading to loss. Christ is seen as the truly righteous man and the true way (John 14:6) that leads to life."
-    }
-  ],
-  "translatedAt": "2025-12-24T05:59:18.208Z",
-  "sections": [
-    {
-      "title": "The Two Ways",
-      "startVerse": 1,
-      "endVerse": 6
     }
   ]
 }

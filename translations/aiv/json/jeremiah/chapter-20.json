@@ -1,16 +1,13 @@
 {
-  "book": 30,
+  "translation": "AIV",
+  "bookId": "jeremiah",
   "bookName": "Jeremiah",
   "bookAbbreviation": "Jer",
+  "bookNumber": 30,
   "chapter": 20,
   "verses": [
     {
       "pk": 30020001,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 20,
       "verse": 1,
       "text": "Now Pashhur the son of Immer, the priest who was chief officer in the house of the Lord, heard Jeremiah prophesying these things.",
       "links": "<a href='/AIV/30/19/14-15'>Jer. 19:14-15</a>; <a href='/AIV/15/2/36-39'>Ezra 2:36-39</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 30020002,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 20,
       "verse": 2,
       "text": "Then Pashhur struck Jeremiah the prophet and put him in the stocks that were at the Upper Benjamin Gate of the house of the Lord.",
       "links": "<a href='/AIV/44/4/3'>Acts 4:3</a>; <a href='/AIV/19/69/7'>Ps. 69:7</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 30020003,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 20,
       "verse": 3,
       "text": "On the next day, when Pashhur released Jeremiah from the stocks, Jeremiah said to him, 'The Lord does not call you Pashhur, but Terror on Every Side.'",
       "links": "<a href='/AIV/19/31/13'>Ps. 31:13</a>; <a href='/AIV/30/6/25'>Jer. 6:25</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 30020004,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 20,
       "verse": 4,
       "text": "For thus says the Lord: 'Behold, I will make you a terror to yourself and to all your friends, and they shall fall by the sword of their enemies while you look on. And I will give all Judah into the hand of the king of Babylon, who will take them captive to Babylon and kill them with the sword.'",
       "links": "<a href='/AIV/25/1/8'>Lam. 1:8</a>; <a href='/AIV/12/24/10-11'>2 Kings 24:10-11</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 30020005,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 20,
       "verse": 5,
       "text": "'And I will give all the wealth of this city, all its gains, all its prized possessions, and all the treasures of the kings of Judah, into the hand of their enemies, who will plunder them, seize them, and carry them to Babylon.'",
       "links": "<a href='/AIV/12/25/13-16'>2 Kings 25:13-16</a>; <a href='/AIV/23/39/6'>Isaiah 39:6</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 30020006,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 20,
       "verse": 6,
       "text": "'And you, Pashhur, and all who dwell in your house, shall go into captivity. You shall go to Babylon, and there you shall die, and there you shall be buried, you and all your friends, to whom you have prophesied falsely.'",
       "links": "<a href='/AIV/24/29/9'>Jer. 29:9</a>; <a href='/AIV/24/27/22'>Jer. 27:22</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 30020007,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 20,
       "verse": 7,
       "text": "O Lord, you have deceived me, and I was deceived; you are stronger than I, and you have prevailed. I have become a laughingstock all day; everyone mocks me.",
       "links": "<a href='/AIV/19/22/6-7'>Ps. 22:6-7</a>; <a href='/AIV/30/15/15'>Jer. 15:15</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 30020008,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 20,
       "verse": 8,
       "text": "For whenever I speak, I cry out, I shout, 'Violence and destruction!' Because the word of the Lord has become for me a reproach and derision all day long.",
       "links": "<a href='/AIV/30/11/19'>Jer. 11:19</a>; <a href='/AIV/19/69/10'>Ps. 69:10</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 30020009,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 20,
       "verse": 9,
       "text": "If I say, 'I will not mention him or speak anymore in his name,' then there is in my heart as it were a burning fire shut up in my bones, and I am weary of holding it in, and I cannot.",
       "links": "<a href='/AIV/19/39/3'>Ps. 39:3</a>; <a href='/AIV/44/4/20'>Acts 4:20</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 30020010,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 20,
       "verse": 10,
       "text": "For I have heard many whispering, 'Terror on every side! Report him, let us report him!' All my close friends are watching for me to stumble, saying, 'Perhaps he will be deceived, and then we can prevail against him and take our revenge on him.'",
       "links": "<a href='/AIV/19/41/8-9'>Ps. 41:8-9</a>; <a href='/AIV/30/18/18'>Jer. 18:18</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 30020011,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 20,
       "verse": 11,
       "text": "But the Lord is with me as a mighty warrior; therefore my persecutors shall stumble, and they shall not prevail. They will be greatly shamed, for they will not succeed. Their eternal dishonor will never be forgotten.",
       "links": "<a href='/AIV/19/118/6'>Ps. 118:6</a>; <a href='/AIV/19/35/4'>Ps. 35:4</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 30020012,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 20,
       "verse": 12,
       "text": "O Lord of hosts, you test the righteous; you see the heart and the mind. Let me see your vengeance on them, for to you I have committed my cause.",
       "links": "<a href='/AIV/19/7/9'>Ps. 7:9</a>; <a href='/AIV/66/2/23'>Rev. 2:23</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 30020013,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 20,
       "verse": 13,
       "text": "Sing to the Lord; praise the Lord! For he has delivered the life of the needy from the hand of evildoers.",
       "links": "<a href='/AIV/19/34/6-7'>Ps. 34:6-7</a>; <a href='/AIV/19/107/13'>Ps. 107:13</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 30020014,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 20,
       "verse": 14,
       "text": "Cursed be the day on which I was born! The day when my mother bore me, let it not be blessed!",
       "links": "<a href='/AIV/18/3/1-3'>Job 3:1-3</a>; <a href='/AIV/19/51/5'>Ps. 51:5</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 30020015,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 20,
       "verse": 15,
       "text": "Cursed be the man who brought the news to my father, saying, 'A son is born to you,' making him very glad.",
       "links": "<a href='/AIV/18/3/3'>Job 3:3</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 30020016,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 20,
       "verse": 16,
       "text": "Let that man be like the cities that the Lord overthrew and did not relent; let him hear a cry in the morning and an alarm at noon,",
       "links": "<a href='/AIV/01/19/25'>Gen. 19:25</a>; <a href='/AIV/19/59/6'>Ps. 59:6</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 30020017,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 20,
       "verse": 17,
       "text": "because he did not kill me in the womb; so my mother would have been my grave, and her womb forever great.",
       "links": "<a href='/AIV/18/3/10-11'>Job 3:10-11</a>",
@@ -213,33 +130,10 @@
     },
     {
       "pk": 30020018,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 20,
       "verse": 18,
       "text": "Why did I come out from the womb to see trouble and sorrow, and that my days should end in shame?",
       "links": "<a href='/AIV/18/14/1'>Job 14:1</a>; <a href='/AIV/19/88/15'>Ps. 88:15</a>",
       "comment": "Jeremiah’s lament concludes with an existential question about suffering. This nonetheless foreshadows Christ’s own passion and recalls how redemptive suffering can bring salvation to many."
-    }
-  ],
-  "translatedAt": "2025-12-24T08:32:12.886Z",
-  "sections": [
-    {
-      "title": "Jeremiah Persecuted by Pashhur",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "Jeremiah’s Lament and Complaint",
-      "startVerse": 7,
-      "endVerse": 13
-    },
-    {
-      "title": "Jeremiah’s Curse on His Birth",
-      "startVerse": 14,
-      "endVerse": 18
     }
   ]
 }

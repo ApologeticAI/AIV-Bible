@@ -1,16 +1,13 @@
 {
-  "book": 10,
+  "translation": "AIV",
+  "bookId": "2-samuel",
   "bookName": "2 Samuel",
-  "bookAbbreviation": "2Sam",
+  "bookAbbreviation": "2 Sam",
+  "bookNumber": 10,
   "chapter": 16,
   "verses": [
     {
       "pk": 10016001,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 16,
       "verse": 1,
       "text": "When David had passed a little beyond the summit, Ziba, the servant of Mephibosheth, met him with a pair of saddled donkeys, and on them two hundred loaves of bread, one hundred clusters of raisins, one hundred cakes of figs, and a skin of wine.",
       "links": "<a href='/AIV/10/9/2-10'>2Sam 9:2-10</a>; <a href='/AIV/10/19/17,27'>2Sam 19:17,27</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 10016002,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 16,
       "verse": 2,
       "text": "The king asked Ziba, 'Why have you brought these?' Ziba answered, 'The donkeys are for the king’s household to ride on. The bread and summer fruit are for the young men to eat, and the wine is for those who become weary in the wilderness to drink.'",
       "links": "<a href='/AIV/10/15/23,28'>2Sam 15:23,28</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 10016003,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 16,
       "verse": 3,
       "text": "Then the king said, 'And where is your master’s son?' Ziba replied to the king, 'He is staying in Jerusalem, for he said, “Today the house of Israel will restore the kingdom of my father to me.”'",
       "links": "<a href='/AIV/10/9/7'>2Sam 9:7</a>; <a href='/AIV/10/19/27'>2Sam 19:27</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 10016004,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 16,
       "verse": 4,
       "text": "So the king said to Ziba, 'Behold, all that belonged to Mephibosheth is now yours.' Ziba said, 'I bow before you; may I find favor in your sight, my lord the king.'",
       "links": "<a href='/AIV/10/9/9-10'>2Sam 9:9-10</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 10016005,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 16,
       "verse": 5,
       "text": "When King David came to Bahurim, behold, a man from the family of Saul came out—his name was Shimei son of Gera. He came out and cursed continuously as he came.",
       "links": "<a href='/AIV/11/2/8'>1Kings 2:8</a>; <a href='/AIV/10/19/16'>2Sam 19:16</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 10016006,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 16,
       "verse": 6,
       "text": "He threw stones at David and at all the servants of King David, and all the people and all the mighty men who were at his right hand and at his left.",
       "links": "<a href='/AIV/10/19/21'>2Sam 19:21</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 10016007,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 16,
       "verse": 7,
       "text": "Shimei said as he cursed, 'Get out, get out, you man of blood, you worthless man!'",
       "links": "<a href='/AIV/10/21/1'>2Sam 21:1</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 10016008,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 16,
       "verse": 8,
       "text": "'The LORD has returned upon you all the blood of the house of Saul, in whose place you have reigned, and the LORD has given the kingdom into the hand of Absalom your son. See, you are caught in your own evil, for you are a man of blood.'",
       "links": "<a href='/AIV/10/12/10'>2Sam 12:10</a>; <a href='/AIV/09/15/28'>1Sam 15:28</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 10016009,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 16,
       "verse": 9,
       "text": "Then Abishai son of Zeruiah said to the king, 'Why should this dead dog curse my lord the king? Let me go over and take off his head.'",
       "links": "<a href='/AIV/10/19/21'>2Sam 19:21</a>; <a href='/AIV/10/3/39'>2Sam 3:39</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 10016010,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 16,
       "verse": 10,
       "text": "But the king said, 'What have I to do with you, sons of Zeruiah? If he curses, and if the LORD has said to him, “Curse David,” who then shall say, “Why have you done so?”'",
       "links": "<a href='/AIV/10/19/22'>2Sam 19:22</a>; <a href='/AIV/09/24/15'>1Sam 24:15</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 10016011,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 16,
       "verse": 11,
       "text": "David said to Abishai and to all his servants, 'See how my own son, who came out from me, seeks my life; how much more now this Benjaminite? Let him curse, for the LORD has told him to.'",
       "links": "<a href='/AIV/10/12/11'>2Sam 12:11</a>; <a href='/AIV/10/19/22'>2Sam 19:22</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 10016012,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 16,
       "verse": 12,
       "text": "Perhaps the LORD will look upon my affliction, and restore good to me instead of his curse today.",
       "links": "<a href='/AIV/19/25/18'>Ps. 25:18</a>; <a href='/AIV/19/109/28'>Ps. 109:28</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 10016013,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 16,
       "verse": 13,
       "text": "So David and his men went on the way, but Shimei went along the hillside across from him, cursing as he went, throwing stones and flinging dust at him.",
       "links": "<a href='/AIV/10/19/18'>2Sam 19:18</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 10016014,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 16,
       "verse": 14,
       "text": "The king and all the people who were with him became weary, and he refreshed himself there.",
       "links": "<a href='/AIV/19/69/3'>Ps. 69:3</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 10016015,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 16,
       "verse": 15,
       "text": "Now Absalom and all the people, the men of Israel, came to Jerusalem, and Ahithophel was with him.",
       "links": "<a href='/AIV/10/15/12'>2Sam 15:12</a>; <a href='/AIV/10/17/1'>2Sam 17:1</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 10016016,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 16,
       "verse": 16,
       "text": "When Hushai the Arkite, David’s friend, came to Absalom, Hushai said to Absalom, 'Long live the king! Long live the king!'",
       "links": "<a href='/AIV/10/15/32-37'>2Sam 15:32-37</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 10016017,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 16,
       "verse": 17,
       "text": "Absalom said to Hushai, 'Is this your loyalty to your friend? Why did you not go with your friend?'",
       "links": "<a href='/AIV/10/15/37'>2Sam 15:37</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 10016018,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 16,
       "verse": 18,
       "text": "Hushai said to Absalom, 'No, but whom the LORD, and this people, and all the men of Israel have chosen—his I will be, and with him I will remain.'",
       "links": "<a href='/AIV/10/5/3'>2Sam 5:3</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 10016019,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 16,
       "verse": 19,
       "text": "'And again, whom should I serve? Should it not be his son? As I have served your father, so will I serve you.'",
       "links": "<a href='/AIV/10/15/34'>2Sam 15:34</a>",
@@ -237,11 +144,6 @@
     },
     {
       "pk": 10016020,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 16,
       "verse": 20,
       "text": "Absalom then said to Ahithophel, 'Give us your advice about what we should do.'",
       "links": "<a href='/AIV/10/15/31'>2Sam 15:31</a>",
@@ -250,11 +152,6 @@
     },
     {
       "pk": 10016021,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 16,
       "verse": 21,
       "text": "Ahithophel answered Absalom, 'Go in to your father’s concubines, whom he left to take care of the house, and all Israel will hear that you have made yourself abhorrent to your father; then the hands of all who are with you will be strengthened.'",
       "links": "<a href='/AIV/10/12/11-12'>2Sam 12:11-12</a>; <a href='/AIV/10/15/16'>2Sam 15:16</a>",
@@ -262,11 +159,6 @@
     },
     {
       "pk": 10016022,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 16,
       "verse": 22,
       "text": "So they set up a tent on the roof for Absalom, and Absalom went in to his father’s concubines in the sight of all Israel.",
       "links": "<a href='/AIV/10/12/12'>2Sam 12:12</a>; <a href='/AIV/03/18/8'>Lev. 18:8</a>",
@@ -274,38 +166,10 @@
     },
     {
       "pk": 10016023,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 16,
       "verse": 23,
       "text": "Now in those days the advice Ahithophel gave was regarded as if one was consulting the word of God; so was all the advice of Ahithophel to both David and Absalom.",
       "links": "<a href='/AIV/10/17/14'>2Sam 17:14</a>; <a href='/AIV/10/15/31'>2Sam 15:31</a>",
       "comment": "Ahithophel’s wisdom was esteemed like divine oracle, yet his counsel ultimately failed, showing that even the greatest human insight must bow before the higher plans of God. True wisdom is found not just in knowledge, but in obedience to divine will—a lesson that shapes the spiritual life of every disciple."
-    }
-  ],
-  "translatedAt": "2025-12-24T03:20:21.192Z",
-  "sections": [
-    {
-      "title": "Ziba Deceives David",
-      "startVerse": 1,
-      "endVerse": 4
-    },
-    {
-      "title": "Shimei Curses David",
-      "startVerse": 5,
-      "endVerse": 14
-    },
-    {
-      "title": "Absalom Enters Jerusalem",
-      "startVerse": 15,
-      "endVerse": 19
-    },
-    {
-      "title": "Ahithophel's Advice to Absalom",
-      "startVerse": 20,
-      "endVerse": 23
     }
   ]
 }

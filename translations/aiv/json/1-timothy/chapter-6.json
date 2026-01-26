@@ -1,16 +1,13 @@
 {
-  "book": 61,
+  "translation": "AIV",
+  "bookId": "1-timothy",
   "bookName": "1 Timothy",
-  "bookAbbreviation": "1Tim",
+  "bookAbbreviation": "1 Tim",
+  "bookNumber": 61,
   "chapter": 6,
   "verses": [
     {
       "pk": 61006001,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 6,
       "verse": 1,
       "text": "Let all who are under the yoke of slavery regard their own masters as worthy of all respect, so that the name of God and the teaching may not be blasphemed.",
       "links": "<a href='/AIV/49/6/5'>Eph. 6:5</a>; <a href='/AIV/56/2/9-10'>Titus 2:9-10</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 61006002,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 6,
       "verse": 2,
       "text": "And those who have believing masters must not despise them because they are brothers; instead, they must serve them even better, since those who benefit from their good service are believers and beloved. Teach and urge these things.",
       "links": "<a href='/AIV/57/1/16'>Philemon 16</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 61006003,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 6,
       "verse": 3,
       "text": "If anyone teaches different doctrine and does not agree with the sound words of our Lord Jesus Christ, and the teaching that accords with godliness,",
       "links": "<a href='/AIV/48/1/6-9'>Gal. 1:6-9</a>; <a href='/AIV/55/1/13'>2 Tim. 1:13</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 61006004,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 6,
       "verse": 4,
       "text": "he is puffed up with pride and understands nothing. He has an unhealthy craving for disputes and arguments about words, from which come envy, strife, abusive talk, evil suspicions,",
       "links": "<a href='/AIV/54/1/6-7'>1 Tim. 1:6-7</a>; <a href='/AIV/55/2/23'>2 Tim. 2:23</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 61006005,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 6,
       "verse": 5,
       "text": "and constant friction among people corrupted in mind and deprived of the truth, who imagine that godliness is a means of profit.",
       "links": "<a href='/AIV/56/1/11'>Titus 1:11</a>; <a href='/AIV/60/5/2'>1 Pet. 5:2</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 61006006,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 6,
       "verse": 6,
       "text": "But godliness with contentment is great gain.",
       "links": "<a href='/AIV/50/4/11'>Phil. 4:11</a>; <a href='/AIV/58/13/5'>Heb. 13:5</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 61006007,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 6,
       "verse": 7,
       "text": "For we brought nothing into the world, and we cannot take anything out of it.",
       "links": "<a href='/AIV/18/1/21'>Job 1:21</a>; <a href='/AIV/19/49/16-17'>Ps. 49:16-17</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 61006008,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 6,
       "verse": 8,
       "text": "But if we have food and clothing, let us be content with that.",
       "links": "<a href='/AIV/20/30/8'>Prov. 30:8</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 61006009,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 6,
       "verse": 9,
       "text": "But those who desire to be rich fall into temptation, into a trap, and into many foolish and harmful desires that plunge people into ruin and destruction.",
       "links": "<a href='/AIV/40/13/22'>Matt. 13:22</a>; <a href='/AIV/18/31/24-25'>Job 31:24-25</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 61006010,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 6,
       "verse": 10,
       "text": "For the love of money is a root of all kinds of evil, and some people, eager for it, have wandered away from the faith and pierced themselves with many pains.",
       "links": "<a href='/AIV/20/15/27'>Prov. 15:27</a>; <a href='/AIV/40/6/24'>Matt. 6:24</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 61006011,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 6,
       "verse": 11,
       "text": "But you, man of God, flee these things. Pursue righteousness, godliness, faith, love, endurance, and gentleness.",
       "links": "<a href='/AIV/55/2/22'>2 Tim. 2:22</a>; <a href='/AIV/48/5/22-23'>Gal. 5:22-23</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 61006012,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 6,
       "verse": 12,
       "text": "Fight the good fight of faith; take hold of the eternal life to which you were called and about which you made the good confession in the presence of many witnesses.",
       "links": "<a href='/AIV/46/9/25-27'>1 Cor. 9:25-27</a>; <a href='/AIV/58/12/1-2'>Heb. 12:1-2</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 61006013,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 6,
       "verse": 13,
       "text": "I charge you in the presence of God, who gives life to all things, and of Christ Jesus, who made the good confession before Pontius Pilate,",
       "links": "<a href='/AIV/43/18/36-37'>John 18:36-37</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 61006014,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 6,
       "verse": 14,
       "text": "to keep the commandment unstained and free from reproach until the appearing of our Lord Jesus Christ,",
       "links": "<a href='/AIV/54/1/18-19'>1 Tim. 1:18-19</a>; <a href='/AIV/60/1/7'>1 Pet. 1:7</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 61006015,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 6,
       "verse": 15,
       "text": "which he will display at the proper time—he who is the blessed and only Sovereign, the King of kings and Lord of lords,",
       "links": "<a href='/AIV/66/17/14'>Rev. 17:14</a>; <a href='/AIV/05/10/17'>Deut. 10:17</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 61006016,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 6,
       "verse": 16,
       "text": "who alone possesses immortality, dwelling in unapproachable light, whom no one has ever seen or can see. To him be honor and eternal power. Amen.",
       "links": "<a href='/AIV/43/1/18'>John 1:18</a>; <a href='/AIV/02/33/20'>Ex. 33:20</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 61006017,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 6,
       "verse": 17,
       "text": "Instruct those who are rich in this present age not to be proud, nor to put their hope in the uncertainty of riches, but in God, who richly provides us with all things to enjoy.",
       "links": "<a href='/AIV/19/52/7'>Ps. 52:7</a>; <a href='/AIV/40/6/19-21'>Matt. 6:19-21</a>",
@@ -214,11 +131,6 @@
     },
     {
       "pk": 61006018,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 6,
       "verse": 18,
       "text": "They are to do good, to be rich in good works, generous and ready to share,",
       "links": "<a href='/AIV/58/13/16'>Heb. 13:16</a>; <a href='/AIV/44/20/35'>Acts 20:35</a>",
@@ -226,11 +138,6 @@
     },
     {
       "pk": 61006019,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 6,
       "verse": 19,
       "text": "thus storing up treasure for themselves as a good foundation for the future, so that they may take hold of that which is truly life.",
       "links": "<a href='/AIV/40/6/20'>Matt. 6:20</a>; <a href='/AIV/42/12/33-34'>Luke 12:33-34</a>",
@@ -238,11 +145,6 @@
     },
     {
       "pk": 61006020,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 6,
       "verse": 20,
       "text": "O Timothy, guard what has been entrusted to you. Avoid the empty chatter and the contradictions of what is falsely called knowledge,",
       "links": "<a href='/AIV/54/1/11'>1 Tim. 1:11</a>; <a href='/AIV/52/2/15'>2 Thess. 2:15</a>",
@@ -251,43 +153,10 @@
     },
     {
       "pk": 61006021,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 6,
       "verse": 21,
       "text": "which some have professed and thus wandered away from the faith. Grace be with you.",
       "links": "<a href='/AIV/54/1/6'>1 Tim. 1:6</a>",
       "comment": "Paul closes with a warning about those who departed from true faith by following novel teachings. His blessing, 'Grace be with you,' is both a personal and communal benediction, consistent with apostolic letters."
-    }
-  ],
-  "translatedAt": "2025-12-24T12:13:03.850Z",
-  "sections": [
-    {
-      "title": "Duties of Slaves",
-      "startVerse": 1,
-      "endVerse": 2
-    },
-    {
-      "title": "False Teaching and Love of Money",
-      "startVerse": 3,
-      "endVerse": 10
-    },
-    {
-      "title": "The Good Fight of Faith",
-      "startVerse": 11,
-      "endVerse": 16
-    },
-    {
-      "title": "Instructions to the Rich",
-      "startVerse": 17,
-      "endVerse": 19
-    },
-    {
-      "title": "Final Exhortation",
-      "startVerse": 20,
-      "endVerse": 21
     }
   ]
 }

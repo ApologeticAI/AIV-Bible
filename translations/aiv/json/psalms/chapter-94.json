@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 94,
   "verses": [
     {
       "pk": 23094001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 94,
       "verse": 1,
       "text": "O LORD, God of vengeance, God of vengeance, shine forth!",
       "links": "<a href='/AIV/19/50/2'>Ps. 50:2</a>; <a href='/AIV/19/99/4'>Ps. 99:4</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23094002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 94,
       "verse": 2,
       "text": "Rise up, O Judge of the earth; repay the proud what they deserve!",
       "links": "<a href='/AIV/19/82/8'>Ps. 82:8</a>; <a href='/AIV/23/2/11'>Is. 2:11</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23094003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 94,
       "verse": 3,
       "text": "How long, O LORD, shall the wicked, how long shall the wicked exult?",
       "links": "<a href='/AIV/19/73/3'>Ps. 73:3</a>; <a href='/AIV/35/1/2'>Hab. 1:2</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23094004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 94,
       "verse": 4,
       "text": "They pour out arrogant words; all evildoers boast.",
       "links": "<a href='/AIV/19/73/8-9'>Ps. 73:8-9</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23094005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 94,
       "verse": 5,
       "text": "They crush your people, O LORD, and afflict your inheritance.",
       "links": "<a href='/AIV/19/79/1'>Ps. 79:1</a>; <a href='/AIV/19/28/9'>Ps. 28:9</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23094006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 94,
       "verse": 6,
       "text": "They kill the widow and the foreigner, and murder the fatherless.",
       "links": "<a href='/AIV/19/82/3'>Ps. 82:3</a>; <a href='/AIV/02/22/21-22'>Ex. 22:21-22</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23094007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 94,
       "verse": 7,
       "text": "And they say, 'The LORD does not see; the God of Jacob does not notice.'",
       "links": "<a href='/AIV/19/10/11'>Ps. 10:11</a>; <a href='/AIV/26/8/12'>Ezek. 8:12</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 23094008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 94,
       "verse": 8,
       "text": "Understand, O dullest of the people! Fools, when will you be wise?",
       "links": "<a href='/AIV/19/92/6'>Ps. 92:6</a>; <a href='/AIV/20/1/22'>Prov. 1:22</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 23094009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 94,
       "verse": 9,
       "text": "He who planted the ear, does he not hear? He who formed the eye, does he not see?",
       "links": "<a href='/AIV/19/94/7'>Ps. 94:7</a>; <a href='/AIV/23/40/28'>Is. 40:28</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 23094010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 94,
       "verse": 10,
       "text": "He who disciplines nations, does he not rebuke? He who teaches man knowledge?",
       "links": "<a href='/AIV/19/2/10'>Ps. 2:10</a>; <a href='/AIV/19/99/8'>Ps. 99:8</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 23094011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 94,
       "verse": 11,
       "text": "The LORD knows the thoughts of man, that they are but breath.",
       "links": "<a href='/AIV/19/39/5'>Ps. 39:5</a>; <a href='/AIV/46/3/20'>1 Cor. 3:20</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 23094012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 94,
       "verse": 12,
       "text": "Blessed is the man whom you discipline, O LORD, and whom you teach out of your law,",
       "links": "<a href='/AIV/20/3/11-12'>Prov. 3:11-12</a>; <a href='/AIV/58/12/6'>Heb. 12:6</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 23094013,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 94,
       "verse": 13,
       "text": "to give him rest from days of trouble, until a pit is dug for the wicked.",
       "links": "<a href='/AIV/19/37/39'>Ps. 37:39</a>; <a href='/AIV/19/57/6'>Ps. 57:6</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 23094014,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 94,
       "verse": 14,
       "text": "For the LORD will not abandon his people; he will not forsake his inheritance.",
       "links": "<a href='/AIV/19/94/5'>Ps. 94:5</a>; <a href='/AIV/19/94/16'>Ps. 94:16</a>; <a href='/AIV/42/1/33'>Lk. 1:33</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 23094015,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 94,
       "verse": 15,
       "text": "For judgment will return to righteousness, and all the upright in heart will follow it.",
       "links": "<a href='/AIV/19/33/5'>Ps. 33:5</a>; <a href='/AIV/19/37/6'>Ps. 37:6</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 23094016,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 94,
       "verse": 16,
       "text": "Who rises up for me against the wicked? Who stands up for me against evildoers?",
       "links": "<a href='/AIV/19/59/9'>Ps. 59:9</a>; <a href='/AIV/19/27/1'>Ps. 27:1</a>",
@@ -202,11 +124,6 @@
     },
     {
       "pk": 23094017,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 94,
       "verse": 17,
       "text": "If the LORD had not been my help, my soul would soon have lived in the land of silence.",
       "links": "<a href='/AIV/19/115/17'>Ps. 115:17</a>; <a href='/AIV/19/30/9'>Ps. 30:9</a>",
@@ -214,11 +131,6 @@
     },
     {
       "pk": 23094018,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 94,
       "verse": 18,
       "text": "When I said, 'My foot is slipping,' your steadfast love, O LORD, held me up.",
       "links": "<a href='/AIV/19/37/23-24'>Ps. 37:23-24</a>; <a href='/AIV/19/18/35'>Ps. 18:35</a>",
@@ -226,11 +138,6 @@
     },
     {
       "pk": 23094019,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 94,
       "verse": 19,
       "text": "When the cares of my heart are many, your consolations cheer my soul.",
       "links": "<a href='/AIV/19/23/4'>Ps. 23:4</a>; <a href='/AIV/40/11/28'>Matt. 11:28</a>",
@@ -238,11 +145,6 @@
     },
     {
       "pk": 23094020,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 94,
       "verse": 20,
       "text": "Can wicked rulers be allied with you, those who frame injustice by statute?",
       "links": "<a href='/AIV/19/58/2'>Ps. 58:2</a>; <a href='/AIV/19/2/2'>Ps. 2:2</a>",
@@ -250,11 +152,6 @@
     },
     {
       "pk": 23094021,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 94,
       "verse": 21,
       "text": "They band together against the life of the righteous and condemn the innocent to death.",
       "links": "<a href='/AIV/19/37/32'>Ps. 37:32</a>; <a href='/AIV/40/27/24'>Matt. 27:24</a>",
@@ -262,11 +159,6 @@
     },
     {
       "pk": 23094022,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 94,
       "verse": 22,
       "text": "But the LORD has become my stronghold, and my God the rock of my refuge.",
       "links": "<a href='/AIV/19/18/2'>Ps. 18:2</a>; <a href='/AIV/19/31/3'>Ps. 31:3</a>",
@@ -274,38 +166,10 @@
     },
     {
       "pk": 23094023,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 94,
       "verse": 23,
       "text": "He will bring back on them their own wickedness and destroy them in their evil; the LORD our God will wipe them out.",
       "links": "<a href='/AIV/19/7/16'>Ps. 7:16</a>; <a href='/AIV/19/9/16'>Ps. 9:16</a>",
       "comment": "God's perfect justice ensures that evil is ultimately overcome. The finality of God’s judgment points toward the eschatological hope in the New Testament."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:32:33.874Z",
-  "sections": [
-    {
-      "title": "Prayer for Vengeance upon the Wicked",
-      "startVerse": 1,
-      "endVerse": 7
-    },
-    {
-      "title": "The Folly of the Wicked and God’s Omniscience",
-      "startVerse": 8,
-      "endVerse": 11
-    },
-    {
-      "title": "Blessings of Divine Discipline",
-      "startVerse": 12,
-      "endVerse": 15
-    },
-    {
-      "title": "The Lord Our Refuge Against Evildoers",
-      "startVerse": 16,
-      "endVerse": 23
     }
   ]
 }

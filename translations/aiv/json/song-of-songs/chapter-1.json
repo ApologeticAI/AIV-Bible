@@ -1,16 +1,13 @@
 {
-  "book": 26,
+  "translation": "AIV",
+  "bookId": "song-of-songs",
   "bookName": "Song of Songs",
   "bookAbbreviation": "Song",
+  "bookNumber": 26,
   "chapter": 1,
   "verses": [
     {
       "pk": 26001001,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 1,
       "verse": 1,
       "text": "The Song of Songs, which is Solomon's.",
       "links": "<a href='/AIV/11/4/32'>1 Kings 4:32</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 26001002,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 1,
       "verse": 2,
       "text": "Let him kiss me with the kisses of his mouth! For your love is better than wine.",
       "links": "<a href='/AIV/19/63/3'>Psalm 63:3</a>; <a href='/AIV/28/14/7'>Hosea 14:7</a>",
@@ -32,11 +24,6 @@
     },
     {
       "pk": 26001003,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 1,
       "verse": 3,
       "text": "Your anointing oils are fragrant; your name is poured out like oil; therefore the maidens love you.",
       "links": "<a href='/AIV/19/45/7'>Psalm 45:7-8</a>; <a href='/AIV/42/7/46'>Luke 7:46</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 26001004,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 1,
       "verse": 4,
       "text": "Draw me after you, let us run! The king has brought me into his chambers. We rejoice and are glad in you; we will extol your love more than wine; rightly do they love you.",
       "links": "<a href='/AIV/19/45/14-15'>Psalm 45:14-15</a>; <a href='/AIV/23/26/20'>Isaiah 26:20</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 26001005,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 1,
       "verse": 5,
       "text": "I am dark, but lovely, O daughters of Jerusalem, like the tents of Kedar, like the curtains of Solomon.",
       "links": "<a href='/AIV/19/120/5'>Psalm 120:5</a>; <a href='/AIV/23/60/2'>Isaiah 60:2</a>",
@@ -69,11 +46,6 @@
     },
     {
       "pk": 26001006,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 1,
       "verse": 6,
       "text": "Do not gaze at me because I am dark, because the sun has looked upon me. My mother's sons were angry with me; they made me keeper of the vineyards, but my own vineyard I have not kept!",
       "links": "<a href='/AIV/19/69/8'>Psalm 69:8</a>; <a href='/AIV/23/5/1-7'>Isaiah 5:1-7</a>",
@@ -81,11 +53,6 @@
     },
     {
       "pk": 26001007,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 1,
       "verse": 7,
       "text": "Tell me, you whom my soul loves, where you pasture your flock, where you make it lie down at noon. For why should I be like one who wanders beside the flocks of your companions?",
       "links": "<a href='/AIV/19/23/1-2'>Psalm 23:1-2</a>; <a href='/AIV/43/10/11'>John 10:11</a>",
@@ -93,11 +60,6 @@
     },
     {
       "pk": 26001008,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 1,
       "verse": 8,
       "text": "If you do not know, most beautiful among women, follow the tracks of the flock, and pasture your young goats beside the shepherds' tents.",
       "links": "<a href='/AIV/26/34/15'>Ezekiel 34:15</a>; <a href='/AIV/41/6/34'>Mark 6:34</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 26001009,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 1,
       "verse": 9,
       "text": "I compare you, my love, to a mare among Pharaoh’s chariots.",
       "links": "<a href='/AIV/02/14/6-7'>Exodus 14:6-7</a>",
@@ -118,11 +75,6 @@
     },
     {
       "pk": 26001010,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 1,
       "verse": 10,
       "text": "Your cheeks are lovely with ornaments, your neck with strings of jewels.",
       "links": "<a href='/AIV/19/45/13'>Psalm 45:13</a>",
@@ -130,11 +82,6 @@
     },
     {
       "pk": 26001011,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 1,
       "verse": 11,
       "text": "We will make for you ornaments of gold, studded with silver.",
       "links": "<a href='/AIV/02/39/2-6'>Exodus 39:2-6</a>",
@@ -142,11 +89,6 @@
     },
     {
       "pk": 26001012,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 1,
       "verse": 12,
       "text": "While the king was at his table, my perfume spread its fragrance.",
       "links": "<a href='/AIV/19/141/2'>Psalm 141:2</a>; <a href='/AIV/43/12/3'>John 12:3</a>",
@@ -154,11 +96,6 @@
     },
     {
       "pk": 26001013,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 1,
       "verse": 13,
       "text": "My beloved is to me a sachet of myrrh that lies between my breasts.",
       "links": "<a href='/AIV/19/45/8'>Psalm 45:8</a>; <a href='/AIV/40/2/11'>Matthew 2:11</a>",
@@ -166,11 +103,6 @@
     },
     {
       "pk": 26001014,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 1,
       "verse": 14,
       "text": "My beloved is to me a cluster of henna blossoms in the vineyards of En Gedi.",
       "links": "<a href='/AIV/09/23/29'>1 Samuel 23:29</a>",
@@ -178,11 +110,6 @@
     },
     {
       "pk": 26001015,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 1,
       "verse": 15,
       "text": "Behold, you are beautiful, my love; behold, you are beautiful; your eyes are doves.",
       "links": "<a href='/AIV/40/3/16'>Matthew 3:16</a>",
@@ -190,11 +117,6 @@
     },
     {
       "pk": 26001016,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 1,
       "verse": 16,
       "text": "Behold, you are handsome, my beloved, truly delightful. Our couch is green;",
       "links": "<a href='/AIV/19/23/2'>Psalm 23:2</a>",
@@ -202,38 +124,10 @@
     },
     {
       "pk": 26001017,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 1,
       "verse": 17,
       "text": "the beams of our house are cedar; our rafters are cypress.",
       "links": "<a href='/AIV/11/5/6-8'>1 Kings 5:6-8</a>",
       "comment": "Cedar and cypress were used for building the temple (1 Kings 5:6-8). The durability and fragrance of these woods symbolize the strength, beauty, and permanence of the union between God and His people, paralleling the everlasting dwelling prepared for those who love God."
-    }
-  ],
-  "translatedAt": "2025-12-24T07:12:05.849Z",
-  "sections": [
-    {
-      "title": "Title and Introduction",
-      "startVerse": 1,
-      "endVerse": 1
-    },
-    {
-      "title": "The Bride’s Yearning for Love",
-      "startVerse": 2,
-      "endVerse": 4
-    },
-    {
-      "title": "The Bride’s Self-Description and Search",
-      "startVerse": 5,
-      "endVerse": 8
-    },
-    {
-      "title": "The Lover’s Praise and Mutual Delight",
-      "startVerse": 9,
-      "endVerse": 17
     }
   ]
 }

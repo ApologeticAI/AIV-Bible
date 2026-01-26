@@ -1,16 +1,13 @@
 {
-  "book": 45,
+  "translation": "AIV",
+  "bookId": "zechariah",
   "bookName": "Zechariah",
   "bookAbbreviation": "Zech",
+  "bookNumber": 45,
   "chapter": 4,
   "verses": [
     {
       "pk": 45004001,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 4,
       "verse": 1,
       "text": "Then the angel who spoke with me returned and woke me up, as one who is wakened from sleep.",
       "links": "<a href='/AIV/38/1/19'>Zech. 1:19</a>; <a href='/AIV/26/2/2'>Ezek. 2:2</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 45004002,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 4,
       "verse": 2,
       "text": "He said to me, 'What do you see?' And I said, 'I see a lampstand all of gold, with a bowl on top of it, and seven lamps on it, with seven pipes to the seven lamps that are on top of it.'",
       "links": "<a href='/AIV/02/25/31'>Ex. 25:31</a>; <a href='/AIV/66/1/12'>Rev. 1:12</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 45004003,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 4,
       "verse": 3,
       "text": "And there are two olive trees by it, one on the right side of the bowl and the other on its left.",
       "links": "<a href='/AIV/66/11/4'>Rev. 11:4</a>; <a href='/AIV/45/11/17'>Rom. 11:17</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 45004004,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 4,
       "verse": 4,
       "text": "So I asked the angel who spoke with me, 'What are these, my lord?'",
       "links": "<a href='/AIV/38/1/9'>Zech. 1:9</a>; <a href='/AIV/24/1/11'>Jer. 1:11</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 45004005,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 4,
       "verse": 5,
       "text": "Then the angel who spoke with me answered, 'Do you not know what these are?' And I said, 'No, my lord.'",
       "links": "<a href='/AIV/66/7/13'>Rev. 7:13</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 45004006,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 4,
       "verse": 6,
       "text": "So he said to me, 'This is the word of the LORD to Zerubbabel: Not by might, nor by power, but by my Spirit, says the LORD of hosts.'",
       "links": "<a href='/AIV/07/7/2'>Judg. 7:2</a>; <a href='/AIV/44/1/8'>Acts 1:8</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 45004007,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 4,
       "verse": 7,
       "text": "'Who are you, O great mountain? Before Zerubbabel you shall become a plain. And he shall bring forth the top stone with shouts of 'Grace, grace to it!''",
       "links": "<a href='/AIV/23/40/4'>Isa. 40:4</a>; <a href='/AIV/19/118/22'>Ps. 118:22</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 45004008,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 4,
       "verse": 8,
       "text": "Then the word of the LORD came to me, saying:",
       "links": "<a href='/AIV/38/1/1'>Zech. 1:1</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 45004009,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 4,
       "verse": 9,
       "text": "'The hands of Zerubbabel have laid the foundation of this house. His hands shall also finish it. Then you will know that the LORD of hosts has sent me to you.'",
       "links": "<a href='/AIV/15/3/10'>Ezra 3:10</a>; <a href='/AIV/43/2/19'>John 2:19</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 45004010,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 4,
       "verse": 10,
       "text": "'For who has despised the day of small things? For these will rejoice when they see the plumb line in the hand of Zerubbabel. These seven are the eyes of the LORD, which range through the whole earth.'",
       "links": "<a href='/AIV/38/3/9'>Zech. 3:9</a>; <a href='/AIV/20/15/3'>Prov. 15:3</a>; <a href='/AIV/66/5/6'>Rev. 5:6</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 45004011,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 4,
       "verse": 11,
       "text": "Then I asked him, 'What are these two olive trees, on the right side and the left side of the lampstand?'",
       "links": "<a href='/AIV/38/4/3'>Zech. 4:3</a>; <a href='/AIV/66/11/4'>Rev. 11:4</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 45004012,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 4,
       "verse": 12,
       "text": "Again I asked him, 'What are these two olive branches, which pour out golden oil through two golden pipes?'",
       "links": "<a href='/AIV/38/4/3'>Zech. 4:3</a>; <a href='/AIV/19/52/8'>Ps. 52:8</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 45004013,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 4,
       "verse": 13,
       "text": "He replied, 'Do you not know what these are?' And I said, 'No, my lord.'",
       "links": "<a href='/AIV/38/4/5'>Zech. 4:5</a>",
@@ -165,33 +102,10 @@
     },
     {
       "pk": 45004014,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 4,
       "verse": 14,
       "text": "Then he said, 'These are the two anointed ones who stand by the Lord of all the earth.'",
       "links": "<a href='/AIV/66/11/4'>Rev. 11:4</a>; <a href='/AIV/19/2/2'>Ps. 2:2</a>",
       "comment": "The two anointed ones traditionally refer to Zerubbabel and Joshua, but spiritually symbolize divinely authorized leaders and witnesses, a theme reflected in Revelation 11. This foreshadows the greater reality of spiritual anointing and apostolic authority, connecting the sacred leadership across salvation history."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:55:44.994Z",
-  "sections": [
-    {
-      "title": "The Vision of the Golden Lampstand and Olive Trees",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "Zerubbabel Encouraged to Complete the Temple",
-      "startVerse": 6,
-      "endVerse": 10
-    },
-    {
-      "title": "The Meaning of the Olive Trees Revealed",
-      "startVerse": 11,
-      "endVerse": 14
     }
   ]
 }

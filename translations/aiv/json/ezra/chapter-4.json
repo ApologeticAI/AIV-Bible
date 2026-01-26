@@ -1,16 +1,13 @@
 {
-  "book": 15,
+  "translation": "AIV",
+  "bookId": "ezra",
   "bookName": "Ezra",
   "bookAbbreviation": "Ezra",
+  "bookNumber": 15,
   "chapter": 4,
   "verses": [
     {
       "pk": 15004001,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 4,
       "verse": 1,
       "text": "When the enemies of Judah and Benjamin heard that the exiles were rebuilding a temple to the LORD, the God of Israel,",
       "links": "<a href='/AIV/15/5/3'>Ezra 5:3</a>; <a href='/AIV/16/2/19'>Neh. 2:19</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 15004002,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 4,
       "verse": 2,
       "text": "they approached Zerubbabel and the heads of the fathers’ houses and said to them, 'Let us build with you, for we seek your God as you do, and we have been sacrificing to him since the days of Esarhaddon king of Assyria who brought us here.'",
       "links": "<a href='/AIV/12/17/24'>2 Kings 17:24</a>; <a href='/AIV/23/36/2'>Isa. 36:2</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 15004003,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 4,
       "verse": 3,
       "text": "But Zerubbabel, Jeshua, and the rest of the heads of Israel’s families said to them, 'You have nothing to do with us in building a house to our God; but we alone will build to the LORD, the God of Israel, as King Cyrus the king of Persia has commanded us.'",
       "links": "<a href='/AIV/23/44/28'>Isa. 44:28</a>; <a href='/AIV/15/1/1-4'>Ezra 1:1-4</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 15004004,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 4,
       "verse": 4,
       "text": "Then the people of the land discouraged the people of Judah and frightened them from building.",
       "links": "<a href='/AIV/16/4/1-3'>Neh. 4:1-3</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 15004005,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 4,
       "verse": 5,
       "text": "They bribed counselors against them to frustrate their plans all the days of Cyrus king of Persia, even until the reign of Darius king of Persia.",
       "links": "<a href='/AIV/15/6/1-15'>Ezra 6:1-15</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 15004006,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 4,
       "verse": 6,
       "text": "In the reign of Ahasuerus, at the beginning of his reign, they wrote an accusation against the inhabitants of Judah and Jerusalem.",
       "links": "<a href='/AIV/17/1/1'>Esther 1:1</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 15004007,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 4,
       "verse": 7,
       "text": "And in the days of Artaxerxes, Bishlam, Mithredath, Tabeel and the rest of their associates wrote to Artaxerxes king of Persia. The letter was written in Aramaic script and translated into the Aramaic language.",
       "links": "<a href='/AIV/15/7/11-26'>Ezra 7:11-26</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 15004008,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 4,
       "verse": 8,
       "text": "Rehum the commander and Shimshai the scribe wrote a letter against Jerusalem to King Artaxerxes as follows—",
       "links": "<a href='/AIV/15/4/17'>Ezra 4:17</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 15004009,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 4,
       "verse": 9,
       "text": "'Rehum the commander, Shimshai the scribe, and the rest of their colleagues—the judges, the officials, the Persians, the men of Erech, the Babylonians, the men of Susa (that is, the Elamites),",
       "links": "<a href='/AIV/01/10/10'>Gen. 10:10</a>; <a href='/AIV/23/21/2'>Isa. 21:2</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 15004010,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 4,
       "verse": 10,
       "text": "and the rest of the nations whom the great and honorable Osnappar deported and settled in the cities of Samaria, and in the rest of the province Beyond the River.'",
       "links": "<a href='/AIV/12/17/24'>2 Kings 17:24</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 15004011,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 4,
       "verse": 11,
       "text": "This is a copy of the letter they sent: 'To King Artaxerxes. Your servants, the men of the province Beyond the River, and so forth.'",
       "links": "<a href='/AIV/15/5/6'>Ezra 5:6</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 15004012,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 4,
       "verse": 12,
       "text": "Let it be known to the king that the Jews who came up from you to us have arrived at Jerusalem and are rebuilding that rebellious and wicked city. They are completing the walls and repairing the foundations.",
       "links": "<a href='/AIV/16/2/17'>Neh. 2:17</a>; <a href='/AIV/16/6/6'>Neh. 6:6</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 15004013,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 4,
       "verse": 13,
       "text": "Now be it known to the king that if this city is rebuilt and the walls are completed, they will not pay tribute, tax, or toll, and the royal revenue will suffer.",
       "links": "<a href='/AIV/15/7/24'>Ezra 7:24</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 15004014,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 4,
       "verse": 14,
       "text": "Now because we eat the salt of the palace and it is not fitting for us to see the king dishonored, we send and inform the king,",
       "links": "<a href='/AIV/15/7/22'>Ezra 7:22</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 15004015,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 4,
       "verse": 15,
       "text": "so that a search may be made in the record books of your fathers. In the record books you will find and learn that this city is a rebellious city, harmful to kings and provinces, and that sedition has been stirred up in it from ancient times. That is why this city was destroyed.",
       "links": "<a href='/AIV/12/24/3'>2 Kings 24:3</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 15004016,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 4,
       "verse": 16,
       "text": "We make known to the king that if this city is rebuilt and its walls completed, by this means you will have no portion in the province Beyond the River.'",
       "links": "<a href='/AIV/16/2/19'>Neh. 2:19</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 15004017,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 4,
       "verse": 17,
       "text": "The king sent an answer: 'To Rehum the commander, Shimshai the scribe, and the rest of their colleagues who live in Samaria, and the rest of the province Beyond the River: Peace.'",
       "links": "<a href='/AIV/15/4/8'>Ezra 4:8</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 15004018,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 4,
       "verse": 18,
       "text": "'The letter you sent to us has been plainly read before me.'",
       "links": "<a href='/AIV/34/6/12'>Dan. 6:12</a>; <a href='/AIV/19/6/1'>Esth. 6:1</a>; <a href='/AIV/15/4/9'>Ezra. 4:9</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 15004019,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 4,
       "verse": 19,
       "text": "'I issued a decree, and search has been made, and it is found that this city from of old has risen against kings, and rebellion and sedition have been made in it.'",
       "links": "<a href='/AIV/16/2/19'>Neh. 2:19</a>",
@@ -237,11 +144,6 @@
     },
     {
       "pk": 15004020,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 4,
       "verse": 20,
       "text": "'Powerful kings have ruled over Jerusalem, governing all the province Beyond the River, and tribute, tax, and toll were paid to them.'",
       "links": "<a href='/AIV/11/4/21'>1 Kings 4:21</a>",
@@ -249,11 +151,6 @@
     },
     {
       "pk": 15004021,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 4,
       "verse": 21,
       "text": "'Therefore, give an order for these men to stop, so that this city is not rebuilt until a decree is issued by me.'",
       "links": "<a href='/AIV/15/4/23'>Ezra 4:23</a>",
@@ -261,11 +158,6 @@
     },
     {
       "pk": 15004022,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 4,
       "verse": 22,
       "text": "'Be careful not to be negligent in doing this. Why should damage grow to the hurt of the kings?'",
       "links": "<a href='/AIV/34/6/2'>Dan. 6:2</a>; <a href='/AIV/19/3/13'>Esth. 3:13</a>; <a href='/AIV/24/16/14'>Prov. 16:14</a>",
@@ -273,11 +165,6 @@
     },
     {
       "pk": 15004023,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 4,
       "verse": 23,
       "text": "Then, as soon as the copy of the letter from King Artaxerxes was read before Rehum, Shimshai the scribe, and their associates, they went in haste to the Jews in Jerusalem and forced them to stop by power and force.",
       "links": "<a href='/AIV/15/4/21'>Ezra 4:21</a>",
@@ -286,38 +173,10 @@
     },
     {
       "pk": 15004024,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 4,
       "verse": 24,
       "text": "Thus the work on the house of God in Jerusalem stopped, and it remained halted until the second year of the reign of Darius king of Persia.",
       "links": "<a href='/AIV/15/5/1-2'>Ezra 5:1-2</a>; <a href='/AIV/37/1/1'>Haggai 1:1</a>",
       "comment": "The work on God’s house, though halted, will be restored in God’s providential timing. The theme of overcoming obstacles appears throughout salvation history (see Matt. 16:18; Rev. 21:2)."
-    }
-  ],
-  "translatedAt": "2025-12-24T04:42:14.832Z",
-  "sections": [
-    {
-      "title": "Opposition to the Rebuilding of the Temple",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "Accusation Against Jerusalem",
-      "startVerse": 6,
-      "endVerse": 7
-    },
-    {
-      "title": "The Letter to King Artaxerxes",
-      "startVerse": 8,
-      "endVerse": 22
-    },
-    {
-      "title": "Work on the Temple Ceases",
-      "startVerse": 23,
-      "endVerse": 24
     }
   ]
 }

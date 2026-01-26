@@ -1,16 +1,13 @@
 {
-  "book": 29,
+  "translation": "AIV",
+  "bookId": "isaiah",
   "bookName": "Isaiah",
   "bookAbbreviation": "Isa",
+  "bookNumber": 29,
   "chapter": 57,
   "verses": [
     {
       "pk": 29057001,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 57,
       "verse": 1,
       "text": "The righteous man perishes, and no one takes it to heart; generous men are taken away, while no one understands that the righteous are taken away from calamity.",
       "links": "<a href='/AIV/19/12/1'>Ps. 12:1</a>; <a href='/AIV/23/57/2'>Isa. 57:2</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 29057002,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 57,
       "verse": 2,
       "text": "They enter into peace; those who walk uprightly rest in their beds.",
       "links": "<a href='/AIV/23/26/20'>Isa. 26:20</a>; <a href='/AIV/58/4/9'>Heb. 4:9</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 29057003,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 57,
       "verse": 3,
       "text": "But you, draw near, sons of the sorceress, offspring of the adulterer and prostitute.",
       "links": "<a href='/AIV/24/2/20'>Jer. 2:20</a>; <a href='/AIV/26/16/45'>Ezek. 16:45</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 29057004,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 57,
       "verse": 4,
       "text": "Whom are you mocking? Against whom do you open your mouth wide and stick out your tongue? Are you not children of rebellion, offspring of deceit?",
       "links": "<a href='/AIV/05/32/5'>Deut. 32:5</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 29057005,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 57,
       "verse": 5,
       "text": "You burn with lust among the oaks, under every green tree, you slaughter your children in the valleys, under the clefts of the rocks.",
       "links": "<a href='/AIV/24/2/20'>Jer. 2:20</a>; <a href='/AIV/12/17/10'>2 Kgs. 17:10-17</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 29057006,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 57,
       "verse": 6,
       "text": "Among the smooth stones of the valley is your portion; they, they are your lot; even to them you have poured out drink offerings and brought grain offerings. Shall I be appeased for these things?",
       "links": "<a href='/AIV/24/3/9'>Jer. 3:9</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 29057007,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 57,
       "verse": 7,
       "text": "On a high and lofty mountain you have set your bed, and there you went up to offer sacrifice.",
       "links": "<a href='/AIV/11/14/23'>1 Kgs. 14:23</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 29057008,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 57,
       "verse": 8,
       "text": "Behind the door and the doorpost you have set up your memorial; for, far from Me, you have uncovered your bed, climbed into it, and made it wide, and made a covenant with them. You loved their bed, and you saw their nakedness.",
       "links": "<a href='/AIV/26/23/17'>Ezek. 23:17</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 29057009,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 57,
       "verse": 9,
       "text": "You went to the king with oil, and multiplied your perfumes; you sent your envoys far away, and made yourselves low, even to Sheol.",
       "links": "<a href='/AIV/12/16/7-9'>2 Kgs. 16:7-9</a>; <a href='/AIV/23/30/1-5'>Isa. 30:1-5</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 29057010,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 57,
       "verse": 10,
       "text": "You were wearied by your many ways, yet you did not say, 'It is hopeless.' You found renewed strength, so you did not faint.",
       "links": "<a href='/AIV/24/2/25'>Jer. 2:25</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 29057011,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 57,
       "verse": 11,
       "text": "Whom did you dread and fear, so that you lied, and did not remember Me, nor take it to heart? Have I not kept silent, even for a long time, so you do not fear Me?",
       "links": "<a href='/AIV/19/50/21'>Ps. 50:21</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 29057012,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 57,
       "verse": 12,
       "text": "I will declare your righteousness and your works, but they will not profit you.",
       "links": "<a href='/AIV/23/1/11'>Isa. 1:11</a>; <a href='/AIV/45/3/20'>Rom. 3:20</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 29057013,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 57,
       "verse": 13,
       "text": "When you cry out, let your collection of idols deliver you! The wind will carry them all off, a breath will take them away. But whoever takes refuge in Me shall inherit the land and possess My holy mountain.",
       "links": "<a href='/AIV/05/32/37-38'>Deut. 32:37-38</a>; <a href='/AIV/40/5/5'>Matt. 5:5</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 29057014,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 57,
       "verse": 14,
       "text": "And it will be said, 'Build up, build up, prepare the way, remove every obstacle from the way of My people.'",
       "links": "<a href='/AIV/23/40/3'>Isa. 40:3</a>; <a href='/AIV/40/3/3'>Matt. 3:3</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 29057015,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 57,
       "verse": 15,
       "text": "For thus says the One who is high and lifted up, who inhabits eternity, whose name is Holy: 'I dwell in the high and holy place, but also with the one who is contrite and lowly in spirit, to revive the spirit of the lowly and to revive the heart of the contrite.'",
       "links": "<a href='/AIV/19/34/18'>Ps. 34:18</a>; <a href='/AIV/40/5/3'>Matt. 5:3</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 29057016,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 57,
       "verse": 16,
       "text": "'For I will not contend forever, nor will I always be angry; for the spirit would grow faint before Me, the breath of life that I made.'",
       "links": "<a href='/AIV/19/103/9'>Ps. 103:9</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 29057017,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 57,
       "verse": 17,
       "text": "'Because of the iniquity of his unjust gain I was angry, I struck him; I hid My face and was angry, but he kept turning away in the way of his own heart.'",
       "links": "<a href='/AIV/19/32/4'>Ps. 32:4</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 29057018,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 57,
       "verse": 18,
       "text": "'I have seen his ways, but I will heal him; I will lead him and restore comfort to him and to his mourners,'",
       "links": "<a href='/AIV/23/61/2-3'>Isa. 61:2-3</a>; <a href='/AIV/40/5/4'>Matt. 5:4</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 29057019,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 57,
       "verse": 19,
       "text": "'Peace, peace, to the far and to the near,' says the Lord, 'and I will heal him.'",
       "links": "<a href='/AIV/49/2/17'>Eph. 2:17</a>",
@@ -237,11 +144,6 @@
     },
     {
       "pk": 29057020,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 57,
       "verse": 20,
       "text": "But the wicked are like the tossing sea, for it cannot be quiet, and its waters toss up mire and dirt.",
       "links": "<a href='/AIV/65/13/8'>Jude 1:13</a>",
@@ -250,38 +152,10 @@
     },
     {
       "pk": 29057021,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 57,
       "verse": 21,
       "text": "'There is no peace,' says my God, 'for the wicked.'",
       "links": "<a href='/AIV/23/48/22'>Isa. 48:22</a>",
       "comment": "This somber statement is both a warning and an invitation—to seek the true peace that only God can provide. The ultimate fulfillment comes in the peace Christ offers those who abide in Him (<a href='/AIV/43/14/27'>John 14:27</a>)."
-    }
-  ],
-  "translatedAt": "2025-12-24T08:16:56.032Z",
-  "sections": [
-    {
-      "title": "The Death of the Righteous and the Promise of Peace",
-      "startVerse": 1,
-      "endVerse": 2
-    },
-    {
-      "title": "Condemnation of Idolatry and Spiritual Adultery",
-      "startVerse": 3,
-      "endVerse": 13
-    },
-    {
-      "title": "A Promise to the Contrite and Restoration of the Penitent",
-      "startVerse": 14,
-      "endVerse": 19
-    },
-    {
-      "title": "No Peace for the Wicked",
-      "startVerse": 20,
-      "endVerse": 21
     }
   ]
 }

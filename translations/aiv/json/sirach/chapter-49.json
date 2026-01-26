@@ -1,16 +1,13 @@
 {
-  "book": 28,
+  "translation": "AIV",
+  "bookId": "sirach",
   "bookName": "Sirach",
   "bookAbbreviation": "Sir",
+  "bookNumber": 28,
   "chapter": 49,
   "verses": [
     {
       "pk": 28049001,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 49,
       "verse": 1,
       "text": "The memory of Josiah is like a blend of incense prepared by the work of a perfumer; it is sweet as honey in every mouth, and as music at a banquet of wine.",
       "links": "<a href='/AIV/12/23/25'>2 Kings 23:25</a>; <a href='/AIV/21/7/1'>Eccl. 7:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 28049002,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 49,
       "verse": 2,
       "text": "He did what was right by reforming the people, and removing the wicked abominations.",
       "links": "<a href='/AIV/02/30/34-35'>Exodus 30:34-35</a>; <a href='/AIV/19/141/2'>Ps. 141:2</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 28049003,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 49,
       "verse": 3,
       "text": "He kept his heart fixed on the Lord; in lawless times he made godliness prevail.",
       "links": "<a href='/AIV/12/23/21-23'>2 Kings 23:21-23</a>; <a href='/AIV/19/51/13'>Ps. 51:13</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 28049004,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 49,
       "verse": 4,
       "text": "All but a few kings—those who ruled—sinned; they abandoned the Law of the Most High, bringing the people to destruction.",
       "links": "<a href='/AIV/12/17/7-18/12'>2 Kings 17:7–18:12</a>; <a href='/AIV/19/106/43'>Ps. 106:43</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 28049005,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 49,
       "verse": 5,
       "text": "They gave up their power to others, and their glory to a foreign nation.",
       "links": "<a href='/AIV/25/1/6'>Lam. 1:6</a>; <a href='/AIV/24/52/27-30'>Jer 52:27-30</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 28049006,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 49,
       "verse": 6,
       "text": "They burned the chosen city of the sanctuary, and left its streets desolate, as Jeremiah had foretold.",
       "links": "<a href='/AIV/24/7/14'>Jer. 7:14</a>; <a href='/AIV/25/2/9'>Lam. 2:9</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 28049007,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 49,
       "verse": 7,
       "text": "For they treated Jeremiah badly, who was even designated a prophet before his mother's womb, to uproot and to destroy, but also to build up and to plant.",
       "links": "<a href='/AIV/24/1/5,10'>Jer. 1:5, 1:10</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 28049008,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 49,
       "verse": 8,
       "text": "Ezekiel saw a glorious vision, which was shown to him upon the chariot of cherubim.",
       "links": "<a href='/AIV/26/1/4-28'>Ezek. 1:4-28</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 28049009,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 49,
       "verse": 9,
       "text": "For indeed, he made mention of Job, who always kept to the way of righteousness.",
       "links": "<a href='/AIV/18/1/1'>Job 1:1</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 28049010,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 49,
       "verse": 10,
       "text": "The twelve prophets—may their bones flourish again from their resting places!—they comforted Jacob and delivered him with confident hope.",
       "links": "<a href='/AIV/28/1/1'>Hosea 1:1</a>; <a href='/AIV/39/4/4'>Mal. 4:4</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 28049011,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 49,
       "verse": 11,
       "text": "How shall we magnify Zerubbabel? He was like a signet ring on the right hand,",
       "links": "<a href='/AIV/37/2/21-23'>Haggai 2:21-23</a>; <a href='/AIV/15/5/2'>Ezra 5:2</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 28049012,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 49,
       "verse": 12,
       "text": "and so was Jeshua son of Jozadak; in their days they built the house and raised a temple holy to the Lord, destined for everlasting glory.",
       "links": "<a href='/AIV/16/2/17'>Neh. 2:17</a>; <a href='/AIV/16/6/15-16'>Neh. 6:15-16</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 28049013,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 49,
       "verse": 13,
       "text": "The memory of Nehemiah also is lasting; he raised our fallen walls, and set up gates and bars, and rebuilt our ruined houses.",
       "links": "<a href='/AIV/01/5/24'>Gen. 5:24</a>; <a href='/AIV/58/11/5'>Heb. 11:5</a>",
@@ -166,11 +103,6 @@
     },
     {
       "pk": 28049014,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 49,
       "verse": 14,
       "text": "Few have ever been created on earth like Enoch, for he was taken up from the earth.",
       "links": "<a href='/AIV/01/41/41'>Gen. 41:41</a>; <a href='/AIV/01/50/25'>Gen. 50:25</a>",
@@ -178,11 +110,6 @@
     },
     {
       "pk": 28049015,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 49,
       "verse": 15,
       "text": "Nor was anyone ever born like Joseph; even his bones were cared for.",
       "links": "<a href='/AIV/01/5/3-8'>Gen. 5:3-8</a>; <a href='/AIV/45/5/14'>Rom. 5:14</a>",
@@ -190,38 +117,10 @@
     },
     {
       "pk": 28049016,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 49,
       "verse": 16,
       "text": "Shem and Seth and Enosh were honored, but above every other created living being was Adam.",
       "links": "<a href='/AIV/01/1/26-31'>Gen. 1:26-31</a>; <a href='/AIV/45/5/12'>Rom. 5:12</a>",
       "comment": "Shem, Seth, and Enosh are esteemed ancestors in the righteous line, but Adam’s unique primacy as the first human underscores his foundational role in humanity’s origin."
-    }
-  ],
-  "translatedAt": "2026-01-02T06:04:30.387Z",
-  "sections": [
-    {
-      "title": "The Memory of Josiah and the Downfall of Kings",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "Praise of the Prophets",
-      "startVerse": 7,
-      "endVerse": 10
-    },
-    {
-      "title": "Praise of Zerubbabel, Jeshua, and Nehemiah",
-      "startVerse": 11,
-      "endVerse": 12
-    },
-    {
-      "title": "The Glory of Enoch, Joseph, and Adam",
-      "startVerse": 13,
-      "endVerse": 16
     }
   ]
 }

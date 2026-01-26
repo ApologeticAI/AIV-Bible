@@ -1,16 +1,13 @@
 {
-  "book": 53,
+  "translation": "AIV",
+  "bookId": "1-corinthians",
   "bookName": "1 Corinthians",
-  "bookAbbreviation": "1Cor",
+  "bookAbbreviation": "1 Cor",
+  "bookNumber": 53,
   "chapter": 4,
   "verses": [
     {
       "pk": 53004001,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 4,
       "verse": 1,
       "text": "Let a man regard us in this way: as servants of Christ and stewards of the mysteries of God.",
       "links": "<a href='/AIV/42/12/42'>Luke 12:42</a>; <a href='/AIV/51/1/25'>Col. 1:25-26</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 53004002,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 4,
       "verse": 2,
       "text": "Now, moreover, it is required of stewards that they be found faithful.",
       "links": "<a href='/AIV/42/16/10'>Luke 16:10-12</a>; <a href='/AIV/60/4/10'>1 Pet. 4:10</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 53004003,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 4,
       "verse": 3,
       "text": "But to me it is a very small thing that I should be judged by you or by a human court; indeed, I do not even judge myself.",
       "links": "<a href='/AIV/45/14/4'>Rom. 14:4</a>; <a href='/AIV/50/3/13'>Phil. 3:13</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 53004004,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 4,
       "verse": 4,
       "text": "For I am not aware of anything against myself, yet I am not justified by this. It is the Lord who judges me.",
       "links": "<a href='/AIV/18/27/6'>Job 27:6</a>; <a href='/AIV/45/2/16'>Rom. 2:16</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 53004005,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 4,
       "verse": 5,
       "text": "Therefore do not pronounce judgment before the time, before the Lord comes, who will both bring to light the hidden things of darkness and will disclose the purposes of the hearts. Then each will receive praise from God.",
       "links": "<a href='/AIV/40/7/1'>Matt. 7:1</a>; <a href='/AIV/45/2/16'>Rom. 2:16</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 53004006,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 4,
       "verse": 6,
       "text": "Now these things, brothers, I have applied to myself and Apollos for your benefit, so that you may learn not to go beyond what is written, so that none of you may be puffed up in favor of one against another.",
       "links": "<a href='/AIV/45/12/3'>Rom. 12:3</a>; <a href='/AIV/60/5/5'>1 Pet. 5:5</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 53004007,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 4,
       "verse": 7,
       "text": "For who makes you differ from another? And what do you have that you did not receive? But if you did receive it, why do you boast as if you had not received it?",
       "links": "<a href='/AIV/43/3/27'>John 3:27</a>; <a href='/AIV/59/1/17'>Jas. 1:17</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 53004008,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 4,
       "verse": 8,
       "text": "Already you have all you want! Already you have become rich! Without us you have become kings! And would that you did reign, so that we might reign with you.",
       "links": "<a href='/AIV/66/20/6'>Rev. 20:6</a>; <a href='/AIV/40/5/3'>Matt. 5:3</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 53004009,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 4,
       "verse": 9,
       "text": "For I think that God has exhibited us apostles last of all, as men sentenced to death, because we have become a spectacle to the world, to angels, and to men.",
       "links": "<a href='/AIV/47/6/9'>2 Cor. 6:9</a>; <a href='/AIV/58/10/33'>Heb. 10:33</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 53004010,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 4,
       "verse": 10,
       "text": "We are fools for Christ’s sake, but you are wise in Christ; we are weak, but you are strong; you are honored, but we are despised.",
       "links": "<a href='/AIV/46/1/27'>1 Cor. 1:27</a>; <a href='/AIV/47/11/23'>2 Cor. 11:23</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 53004011,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 4,
       "verse": 11,
       "text": "To this very hour we hunger and thirst, we are poorly clothed, roughly treated, and are homeless,",
       "links": "<a href='/AIV/47/6/5'>2 Cor. 6:5</a>; <a href='/AIV/58/11/37'>Heb. 11:37</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 53004012,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 4,
       "verse": 12,
       "text": "and we labor, working with our own hands. When reviled, we bless; when persecuted, we endure;",
       "links": "<a href='/AIV/40/5/44'>Matt. 5:44</a>; <a href='/AIV/45/12/14'>Rom. 12:14</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 53004013,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 4,
       "verse": 13,
       "text": "when slandered, we entreat. We have become like the scum of the world and the refuse of all things, even now.",
       "links": "<a href='/AIV/47/6/8'>2 Cor. 6:8</a>; <a href='/AIV/19/44/13'>Ps. 44:13</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 53004014,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 4,
       "verse": 14,
       "text": "I do not write these things to shame you, but to admonish you as my beloved children.",
       "links": "<a href='/AIV/47/6/13'>2 Cor. 6:13</a>; <a href='/AIV/54/5/1'>1 Tim. 5:1</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 53004015,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 4,
       "verse": 15,
       "text": "For though you have countless guides in Christ, you do not have many fathers. For in Christ Jesus I became your father through the gospel.",
       "links": "<a href='/AIV/50/2/22'>Phil. 2:22</a>; <a href='/AIV/57/1/10'>Philem. 10</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 53004016,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 4,
       "verse": 16,
       "text": "Therefore I urge you, be imitators of me.",
       "links": "<a href='/AIV/46/11/1'>1 Cor. 11:1</a>; <a href='/AIV/50/3/17'>Phil. 3:17</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 53004017,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 4,
       "verse": 17,
       "text": "That is why I sent you Timothy, my beloved and faithful child in the Lord, to remind you of my ways in Christ, as I teach everywhere in every church.",
       "links": "<a href='/AIV/44/16/1'>Acts 16:1</a>; <a href='/AIV/54/1/2'>1 Tim. 1:2</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 53004018,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 4,
       "verse": 18,
       "text": "Now some are arrogant, as though I were not coming to you.",
       "links": "<a href='/AIV/46/5/2'>1 Cor. 5:2</a>; <a href='/AIV/47/10/2'>2 Cor. 10:2</a>",
@@ -226,11 +138,6 @@
     },
     {
       "pk": 53004019,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 4,
       "verse": 19,
       "text": "But I will come to you soon, if the Lord wills, and I will find out not the talk of these arrogant ones but their power.",
       "links": "<a href='/AIV/59/4/15'>Jas. 4:15</a>; <a href='/AIV/44/18/21'>Acts 18:21</a>",
@@ -238,11 +145,6 @@
     },
     {
       "pk": 53004020,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 4,
       "verse": 20,
       "text": "For the kingdom of God is not a matter of talk but of power.",
       "links": "<a href='/AIV/45/14/17'>Rom. 14:17</a>; <a href='/AIV/52/1/5'>1 Thess. 1:5</a>",
@@ -250,38 +152,10 @@
     },
     {
       "pk": 53004021,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 4,
       "verse": 21,
       "text": "What do you wish? Shall I come to you with a rod, or with love and a spirit of gentleness?",
       "links": "<a href='/AIV/47/13/10'>2 Cor. 13:10</a>; <a href='/AIV/48/6/1'>Gal. 6:1</a>",
       "comment": "Paul employs the imagery of a 'rod' (symbolizing disciplinary authority, as in Proverbs 13:24) versus gentleness to emphasize the choice before the Corinthians: their response will determine if his next visit is corrective or compassionate, reflecting apostolic concern for spiritual maturity (see Galatians 6:1 and 2 Corinthians 13:10)."
-    }
-  ],
-  "translatedAt": "2025-12-24T11:45:34.973Z",
-  "sections": [
-    {
-      "title": "Servants of Christ and Stewards of God's Mysteries",
-      "startVerse": 1,
-      "endVerse": 7
-    },
-    {
-      "title": "Apostolic Humility and Suffering",
-      "startVerse": 8,
-      "endVerse": 13
-    },
-    {
-      "title": "Paul's Fatherly Admonition",
-      "startVerse": 14,
-      "endVerse": 17
-    },
-    {
-      "title": "Paul's Plans and Warning",
-      "startVerse": 18,
-      "endVerse": 21
     }
   ]
 }

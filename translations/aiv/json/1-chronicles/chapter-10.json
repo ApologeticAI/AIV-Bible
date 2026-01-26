@@ -1,16 +1,13 @@
 {
-  "book": 13,
+  "translation": "AIV",
+  "bookId": "1-chronicles",
   "bookName": "1 Chronicles",
-  "bookAbbreviation": "1Chr",
+  "bookAbbreviation": "1 Chr",
+  "bookNumber": 13,
   "chapter": 10,
   "verses": [
     {
       "pk": 13010001,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 10,
       "verse": 1,
       "text": "Now the Philistines fought against Israel. The Israelites fled from before the Philistines, and many of them fell slain on Mount Gilboa.",
       "links": "<a href='/AIV/9/31/1'>1 Sam. 31:1</a>; <a href='/AIV/19/44/9-10'>Ps. 44:9-10</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 13010002,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 10,
       "verse": 2,
       "text": "The Philistines pursued Saul and his sons and killed Jonathan, Abinadab, and Malchishua, Saul’s sons.",
       "links": "<a href='/AIV/9/31/2'>1 Sam. 31:2</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 13010003,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 10,
       "verse": 3,
       "text": "The battle grew fierce around Saul, and the archers overtook him, and he was severely wounded by the archers.",
       "links": "<a href='/AIV/9/31/3'>1 Sam. 31:3</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 13010004,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 10,
       "verse": 4,
       "text": "Then Saul said to his armor-bearer, 'Draw your sword and pierce me with it, or else these uncircumcised will come and make sport of me.' But his armor-bearer would not, because he was very afraid. So Saul took his own sword and fell upon it.",
       "links": "<a href='/AIV/9/31/4'>1 Sam. 31:4</a>; <a href='/AIV/7/16/30'>Judg. 16:30</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 13010005,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 10,
       "verse": 5,
       "text": "When his armor-bearer saw that Saul was dead, he also fell on his sword and died.",
       "links": "<a href='/AIV/9/31/5'>1 Sam. 31:5</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 13010006,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 10,
       "verse": 6,
       "text": "So Saul died, and his three sons, and all his household died together.",
       "links": "<a href='/AIV/9/31/6'>1 Sam. 31:6</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 13010007,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 10,
       "verse": 7,
       "text": "When all the men of Israel who were in the valley saw that the army had fled and that Saul and his sons were dead, they abandoned their cities and fled. So the Philistines came and lived in them.",
       "links": "<a href='/AIV/9/31/7'>1 Sam. 31:7</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 13010008,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 10,
       "verse": 8,
       "text": "The next day, when the Philistines came to strip the slain, they discovered Saul and his sons fallen on Mount Gilboa.",
       "links": "<a href='/AIV/9/31/8'>1 Sam. 31:8</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 13010009,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 10,
       "verse": 9,
       "text": "They stripped him, took his head and his armor, and sent word throughout the land of the Philistines, to carry the news to their idols and to their people.",
       "links": "<a href='/AIV/9/31/9'>1 Sam. 31:9</a>; <a href='/AIV/19/44/13-14'>Ps. 44:13-14</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 13010010,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 10,
       "verse": 10,
       "text": "They placed his armor in the house of their gods and fastened his head in the temple of Dagon.",
       "links": "<a href='/AIV/9/31/10'>1 Sam. 31:10</a>; <a href='/AIV/9/5/2-7'>1 Sam. 5:2-7</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 13010011,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 10,
       "verse": 11,
       "text": "When all Jabesh-Gilead heard everything the Philistines had done to Saul,",
       "links": "<a href='/AIV/9/31/11'>1 Sam. 31:11</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 13010012,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 10,
       "verse": 12,
       "text": "all their valiant men rose up, took the bodies of Saul and his sons, brought them to Jabesh, and buried their bones under the oak in Jabesh. Then they fasted seven days.",
       "links": "<a href='/AIV/9/31/12-13'>1 Sam. 31:12-13</a>; <a href='/AIV/6/24/26'>Josh. 24:26</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 13010013,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 10,
       "verse": 13,
       "text": "So Saul died for his unfaithfulness against the LORD, because he did not keep the word of the LORD and also consulted a medium for guidance.",
       "links": "<a href='/AIV/9/28/7'>1 Sam. 28:7</a>; <a href='/AIV/3/19/31'>Lev. 19:31</a>",
@@ -166,38 +103,10 @@
     },
     {
       "pk": 13010014,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 10,
       "verse": 14,
       "text": "He did not inquire of the LORD; therefore, He put him to death and turned the kingdom over to David son of Jesse.",
       "links": "<a href='/AIV/9/13/14'>1 Sam. 13:14</a>; <a href='/AIV/19/78/70-71'>Ps. 78:70-71</a>",
       "comment": "Saul’s failure to seek the LORD is contrasted with David’s chosen status. The text subtly underscores the transition of divine authority and kingship, prefiguring David as a forerunner to the eternal king (see Ps. 78:70-71). This theme draws spiritual attention to the importance of succession in spiritual leadership, echoing the line of spiritual authority and apostolic tradition in the church’s foundation."
-    }
-  ],
-  "translatedAt": "2025-12-24T04:10:49.692Z",
-  "sections": [
-    {
-      "title": "The Death of Saul and His Sons",
-      "startVerse": 1,
-      "endVerse": 7
-    },
-    {
-      "title": "The Philistines Triumph Over Saul",
-      "startVerse": 8,
-      "endVerse": 10
-    },
-    {
-      "title": "Burial of Saul and His Sons",
-      "startVerse": 11,
-      "endVerse": 12
-    },
-    {
-      "title": "The Reason for Saul’s Death",
-      "startVerse": 13,
-      "endVerse": 14
     }
   ]
 }

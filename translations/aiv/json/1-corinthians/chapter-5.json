@@ -1,16 +1,13 @@
 {
-  "book": 53,
+  "translation": "AIV",
+  "bookId": "1-corinthians",
   "bookName": "1 Corinthians",
-  "bookAbbreviation": "1Cor",
+  "bookAbbreviation": "1 Cor",
+  "bookNumber": 53,
   "chapter": 5,
   "verses": [
     {
       "pk": 53005001,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 5,
       "verse": 1,
       "text": "It is widely reported that among you there is sexual immorality, and a kind that is not even found among the Gentiles—a man has his father’s wife.",
       "links": "<a href='/AIV/3/18/8'>Lev. 18:8</a>; <a href='/AIV/46/5/9-10'>1Cor. 5:9-10</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 53005002,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 5,
       "verse": 2,
       "text": "And you are proud! Should you not rather have mourned, so that he who has done this might be removed from among you?",
       "links": "<a href='/AIV/40/5/4'>Matt. 5:4</a>; <a href='/AIV/16/13/17'>Neh. 13:17</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 53005003,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 5,
       "verse": 3,
       "text": "For though I am absent in body, I am present in spirit; and as if present, I have already passed judgment on the one who did this.",
       "links": "<a href='/AIV/51/2/5'>Col. 2:5</a>; <a href='/AIV/40/18/18'>Matt. 18:18</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 53005004,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 5,
       "verse": 4,
       "text": "When you are assembled in the name of our Lord Jesus, and my spirit is with you, with the power of our Lord Jesus—",
       "links": "<a href='/AIV/40/18/20'>Matt. 18:20</a>; <a href='/AIV/44/2/42'>Acts 2:42</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 53005005,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 5,
       "verse": 5,
       "text": "You are to hand this man over to Satan for the destruction of the flesh, so that his spirit may be saved in the day of the Lord.",
       "links": "<a href='/AIV/54/1/20'>1Tim. 1:20</a>; <a href='/AIV/47/2/6'>2Cor. 2:6</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 53005006,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 5,
       "verse": 6,
       "text": "Your boasting is not good. Do you not know that a little yeast leavens the whole batch of dough?",
       "links": "<a href='/AIV/40/16/6-12'>Matt. 16:6-12</a>; <a href='/AIV/2/12/15-20'>Ex. 12:15-20</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 53005007,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 5,
       "verse": 7,
       "text": "Clean out the old yeast, so that you may be a new batch, as you really are unleavened. For Christ, our Passover lamb, has been sacrificed.",
       "links": "<a href='/AIV/2/12/5-11'>Ex. 12:5-11</a>; <a href='/AIV/43/1/29'>John 1:29</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 53005008,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 5,
       "verse": 8,
       "text": "Therefore, let us keep the festival, not with the old yeast—the yeast of malice and wickedness—but with unleavened bread of sincerity and truth.",
       "links": "<a href='/AIV/2/12/17'>Ex. 12:17</a>; <a href='/AIV/47/1/12'>2Cor. 1:12</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 53005009,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 5,
       "verse": 9,
       "text": "I wrote to you in my letter not to associate with sexually immoral people—",
       "links": "<a href='/AIV/53/6/18'>1Cor. 6:18</a>; <a href='/AIV/53/15/33'>1Cor. 15:33</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 53005010,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 5,
       "verse": 10,
       "text": "Not at all meaning the sexually immoral of this world, or the greedy and swindlers, or idolaters—otherwise you would have to leave the world.",
       "links": "<a href='/AIV/43/17/15'>John 17:15</a>; <a href='/AIV/19/1/1'>Ps. 1:1</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 53005011,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 5,
       "verse": 11,
       "text": "But now I am writing to you not to associate with anyone who claims to be a brother or sister and is sexually immoral or greedy, an idolater, reviler, drunkard, or swindler. Do not even eat with such a person.",
       "links": "<a href='/AIV/40/18/17'>Matt. 18:17</a>; <a href='/AIV/61/2/20-21'>2Pet. 2:20-21</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 53005012,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 5,
       "verse": 12,
       "text": "For what have I to do with judging outsiders? Is it not those who are inside that you are to judge?",
       "links": "<a href='/AIV/40/7/1'>Matt. 7:1</a>; <a href='/AIV/16/13/23-27'>Neh. 13:23-27</a>",
@@ -153,33 +95,10 @@
     },
     {
       "pk": 53005013,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 5,
       "verse": 13,
       "text": "God will judge those outside. 'Expel the wicked person from among you.'",
       "links": "<a href='/AIV/5/13/5'>Deut. 13:5</a>; <a href='/AIV/19/1/6'>Ps. 1:6</a>",
       "comment": "Paul quotes the Old Testament (Deut. 13:5) to stress the Church’s responsibility to remove evil from its midst. The repeated theme of communal purity, based on authoritative decisions, anticipates how the visible Church guards doctrine and discipline for the salvation of souls."
-    }
-  ],
-  "translatedAt": "2025-12-24T11:45:53.375Z",
-  "sections": [
-    {
-      "title": "Immorality Rebuked",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "Purging the Evil from Among You",
-      "startVerse": 6,
-      "endVerse": 8
-    },
-    {
-      "title": "Judging Those Within the Church",
-      "startVerse": 9,
-      "endVerse": 13
     }
   ]
 }

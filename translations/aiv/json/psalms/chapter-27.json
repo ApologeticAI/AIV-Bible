@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 27,
   "verses": [
     {
       "pk": 23027001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 27,
       "verse": 1,
       "text": "The LORD is my light and my salvation—whom shall I fear? The LORD is the fortress of my life—of whom shall I be afraid?",
       "links": "<a href='/AIV/19/18/28'>Ps. 18:28</a>; <a href='/AIV/23/60/19'>Isa. 60:19</a>; <a href='/AIV/43/8/12'>John 8:12</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23027002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 27,
       "verse": 2,
       "text": "When evil men rise up against me to devour my flesh—my adversaries and enemies—they will stumble and fall.",
       "links": "<a href='/AIV/19/3/6'>Ps. 3:6</a>; <a href='/AIV/19/118/12-13'>Ps. 118:12-13</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23027003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 27,
       "verse": 3,
       "text": "Though an army encamps against me, my heart will not fear; though war arises against me, even then I will remain confident.",
       "links": "<a href='/AIV/19/23/4'>Ps. 23:4</a>; <a href='/AIV/40/10/28'>Matt. 10:28</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23027004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 27,
       "verse": 4,
       "text": "One thing I have asked of the LORD, this is what I seek: that I may dwell in the house of the LORD all the days of my life, to gaze upon the beauty of the LORD and to seek Him in His temple.",
       "links": "<a href='/AIV/19/26/8'>Ps. 26:8</a>; <a href='/AIV/19/84/4'>Ps. 84:4</a>; <a href='/AIV/42/2/37'>Luke 2:37</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23027005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 27,
       "verse": 5,
       "text": "For in the day of trouble He will keep me safe in His shelter; He will hide me in the shelter of His tent; He will set me high upon a rock.",
       "links": "<a href='/AIV/19/31/20'>Ps. 31:20</a>; <a href='/AIV/19/40/2'>Ps. 40:2</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23027006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 27,
       "verse": 6,
       "text": "Now my head will be lifted up above my enemies around me; I will offer sacrifices in His tent with shouts of joy; I will sing and make music to the LORD.",
       "links": "<a href='/AIV/19/3/3'>Ps. 3:3</a>; <a href='/AIV/19/107/22'>Ps. 107:22</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23027007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 27,
       "verse": 7,
       "text": "Hear, O LORD, when I cry with my voice; be gracious to me and answer me.",
       "links": "<a href='/AIV/19/4/1'>Ps. 4:1</a>; <a href='/AIV/19/69/16'>Ps. 69:16</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 23027008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 27,
       "verse": 8,
       "text": "You said, 'Seek my face.' My heart says to you, 'Your face, O LORD, I will seek.'",
       "links": "<a href='/AIV/19/24/6'>Ps. 24:6</a>; <a href='/AIV/19/105/4'>Ps. 105:4</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 23027009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 27,
       "verse": 9,
       "text": "Do not hide your face from me; do not turn your servant away in anger, you who have been my help. Do not abandon me or forsake me, O God of my salvation!",
       "links": "<a href='/AIV/19/22/24'>Ps. 22:24</a>; <a href='/AIV/19/94/14'>Ps. 94:14</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 23027010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 27,
       "verse": 10,
       "text": "For though my father and my mother forsake me, the LORD will receive me.",
       "links": "<a href='/AIV/23/49/15'>Isa. 49:15</a>; <a href='/AIV/40/28/20'>Matt. 28:20</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 23027011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 27,
       "verse": 11,
       "text": "Teach me your way, O LORD, and lead me on a straight path because of my enemies.",
       "links": "<a href='/AIV/19/25/4'>Ps. 25:4</a>; <a href='/AIV/19/119/35'>Ps. 119:35</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 23027012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 27,
       "verse": 12,
       "text": "Do not deliver me to the will of my adversaries, for false witnesses have risen against me, breathing out violence.",
       "links": "<a href='/AIV/19/35/11'>Ps. 35:11</a>; <a href='/AIV/40/26/59-60'>Matt. 26:59-60</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 23027013,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 27,
       "verse": 13,
       "text": "I remain confident of this: I will see the goodness of the LORD in the land of the living.",
       "links": "<a href='/AIV/19/52/8'>Ps. 52:8</a>; <a href='/AIV/19/116/9'>Ps. 116:9</a>",
@@ -165,33 +102,10 @@
     },
     {
       "pk": 23027014,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 27,
       "verse": 14,
       "text": "Wait for the LORD; be strong, and let your heart take courage; wait for the LORD.",
       "links": "<a href='/AIV/19/31/24'>Ps. 31:24</a>; <a href='/AIV/23/40/31'>Isa. 40:31</a>",
       "comment": "The Psalm ends with a call to patience and courage. Waiting on the Lord is not passive but active trust—an enduring theme throughout the Scriptures, urging God’s people to live in hopeful expectation, sustained by faith and participation in the community of believers."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:07:32.015Z",
-  "sections": [
-    {
-      "title": "The Lord is My Light and Salvation",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "Prayer for God’s Presence and Guidance",
-      "startVerse": 7,
-      "endVerse": 12
-    },
-    {
-      "title": "Confidence and Exhortation to Wait on the Lord",
-      "startVerse": 13,
-      "endVerse": 14
     }
   ]
 }

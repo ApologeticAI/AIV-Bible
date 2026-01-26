@@ -1,16 +1,13 @@
 {
-  "book": 13,
+  "translation": "AIV",
+  "bookId": "1-chronicles",
   "bookName": "1 Chronicles",
-  "bookAbbreviation": "1Chr",
+  "bookAbbreviation": "1 Chr",
+  "bookNumber": 13,
   "chapter": 14,
   "verses": [
     {
       "pk": 13014001,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 14,
       "verse": 1,
       "text": "King Hiram of Tyre sent messengers to David, along with cedar trees, masons, and carpenters to build a house for him.",
       "links": "<a href='/AIV/10/5/11'>2 Sam. 5:11</a>; <a href='/AIV/11/5/1'>1 Kings 5:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 13014002,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 14,
       "verse": 2,
       "text": "And David understood that the LORD had established him as king over Israel, because his kingdom was highly exalted for the sake of His people Israel.",
       "links": "<a href='/AIV/10/5/12'>2 Sam. 5:12</a>; <a href='/AIV/19/89/20-29'>Ps. 89:20-29</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 13014003,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 14,
       "verse": 3,
       "text": "David took more wives in Jerusalem; and David fathered more sons and daughters.",
       "links": "<a href='/AIV/10/5/13'>2 Sam. 5:13</a>; <a href='/AIV/05/17/17'>Deut. 17:17</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 13014004,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 14,
       "verse": 4,
       "text": "These are the names of the children born to him in Jerusalem: Shammua, Shobab, Nathan, Solomon,",
       "links": "<a href='/AIV/10/5/14'>2 Sam. 5:14</a>; <a href='/AIV/40/1/6'>Matt. 1:6</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 13014005,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 14,
       "verse": 5,
       "text": "Ibhar, Elishua, Elpelet,",
       "links": "<a href='/AIV/10/5/15-16'>2 Sam. 5:15-16</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 13014006,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 14,
       "verse": 6,
       "text": "Nogah, Nepheg, Japhia,",
       "links": "<a href='/AIV/10/5/15-16'>2 Sam. 5:15-16</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 13014007,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 14,
       "verse": 7,
       "text": "Elishama, Beeliada, and Eliphelet.",
       "links": "<a href='/AIV/10/5/16'>2 Sam. 5:16</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 13014008,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 14,
       "verse": 8,
       "text": "When the Philistines heard that David had been anointed king over all Israel, all the Philistines went up to seek out David. But when David heard about it, he went out against them.",
       "links": "<a href='/AIV/10/5/17'>2 Sam. 5:17</a>; <a href='/AIV/09/16/13'>1 Sam. 16:13</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 13014009,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 14,
       "verse": 9,
       "text": "Now the Philistines came and made a raid in the Valley of Rephaim.",
       "links": "<a href='/AIV/10/5/18'>2 Sam. 5:18</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 13014010,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 14,
       "verse": 10,
       "text": "So David inquired of God, saying, 'Shall I go up against the Philistines? Will You deliver them into my hand?' The LORD said to him, 'Go up, for I will deliver them into your hand.'",
       "links": "<a href='/AIV/10/5/19'>2 Sam. 5:19</a>; <a href='/AIV/09/23/2'>1 Sam. 23:2</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 13014011,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 14,
       "verse": 11,
       "text": "So they went up to Baal-perazim, and David struck them there. Then David said, 'God has burst out against my enemies by my hand like the bursting out of waters.' Therefore, they called the name of that place Baal-perazim.",
       "links": "<a href='/AIV/10/5/20'>2 Sam. 5:20</a>; <a href='/AIV/23/28/21'>Isa. 28:21</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 13014012,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 14,
       "verse": 12,
       "text": "The Philistines abandoned their gods there, and David gave a command, and they were burned with fire.",
       "links": "<a href='/AIV/05/7/5,25'>Deut. 7:5,25</a>; <a href='/AIV/23/44/15'>Isa. 44:15</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 13014013,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 14,
       "verse": 13,
       "text": "Again the Philistines made a raid in the valley.",
       "links": "<a href='/AIV/10/5/22'>2 Sam. 5:22</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 13014014,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 14,
       "verse": 14,
       "text": "So David again inquired of God, and God said to him, 'You shall not go up after them. Circle around behind them and come upon them opposite the balsam trees.'",
       "links": "<a href='/AIV/10/5/23'>2 Sam. 5:23</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 13014015,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 14,
       "verse": 15,
       "text": "'And when you hear the sound of marching in the tops of the balsam trees, then go out to battle. For God will go out before you to strike the army of the Philistines.'",
       "links": "<a href='/AIV/02/14/14'>Exod. 14:14</a>; <a href='/AIV/10/5/24'>2 Sam. 5:24</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 13014016,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 14,
       "verse": 16,
       "text": "So David did as God commanded him, and they struck down the Philistine army from Gibeon to Gezer.",
       "links": "<a href='/AIV/10/5/25'>2 Sam. 5:25</a>",
@@ -201,33 +123,10 @@
     },
     {
       "pk": 13014017,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 14,
       "verse": 17,
       "text": "And the fame of David went out into all lands, and the LORD brought the fear of him upon all nations.",
       "links": "<a href='/AIV/10/7/9'>2 Sam. 7:9</a>; <a href='/AIV/19/18/43'>Ps. 18:43</a>",
       "comment": "David’s growing fame is attributed to the Lord. He is exalted for the sake of God’s people, ultimately pointing to Christ’s universal kingship (<a href='/AIV/50/2/9-11'>Phil. 2:9-11</a>), who is to be feared and honored by all nations."
-    }
-  ],
-  "translatedAt": "2025-12-24T04:12:58.147Z",
-  "sections": [
-    {
-      "title": "David’s House Built in Jerusalem",
-      "startVerse": 1,
-      "endVerse": 2
-    },
-    {
-      "title": "David’s Sons Born in Jerusalem",
-      "startVerse": 3,
-      "endVerse": 7
-    },
-    {
-      "title": "David Defeats the Philistines",
-      "startVerse": 8,
-      "endVerse": 17
     }
   ]
 }

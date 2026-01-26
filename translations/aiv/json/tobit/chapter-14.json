@@ -1,23 +1,13 @@
 {
-  "book": 17,
+  "translation": "AIV",
+  "bookId": "tobit",
   "bookName": "Tobit",
   "bookAbbreviation": "Tob",
+  "bookNumber": 17,
   "chapter": 14,
-  "sections": [
-    {
-      "title": "The End of Tobit and His Legacy",
-      "startVerse": 1,
-      "endVerse": 15
-    }
-  ],
   "verses": [
     {
       "pk": 17014001,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 14,
       "verse": 1,
       "text": "So ended Tobit’s words of praise.",
       "links": "<a href='/AIV/23/34/1'>Ps. 34:1</a>; <a href='/AIV/23/145/2'>Ps. 145:2</a>; <a href='/AIV/28/39/12'>Sir. 39:12</a>",
@@ -26,11 +16,6 @@
     },
     {
       "pk": 17014002,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 14,
       "verse": 2,
       "text": "Tobit died in peace when he was one hundred twelve years old, and was buried with great honor in Nineveh. He was sixty-two years old when he lost his eyesight, and after regaining it he lived in prosperity, giving alms and continually blessing God and acknowledging God’s majesty.",
       "links": "<a href='/AIV/1/25/8'>Gen. 25:8</a>; <a href='/AIV/23/92/12'>Ps. 92:12-15</a>; <a href='/AIV/28/17/18'>Sir. 17:18</a>",
@@ -38,11 +23,6 @@
     },
     {
       "pk": 17014003,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 14,
       "verse": 3,
       "text": "When he was dying, he called his son Tobias and the seven sons of Tobias, and instructed him:",
       "links": "<a href='/AIV/17/4/1-21'>Tob. 4:1-21</a>",
@@ -50,11 +30,6 @@
     },
     {
       "pk": 17014004,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 14,
       "verse": 4,
       "text": "and hurry off to Media, for I believe the word of God that Nahum spoke about Nineveh, that all these things will take place and overtake Assyria and Nineveh. Indeed, everything that was spoken by the prophets of Israel, whom God sent, will occur. None of all their words will fail, but all will come true at their appointed times. So it will be safer in Media than in Assyria and Babylon. For I know and believe that whatever God has said will be fulfilled and will come true; not a single word of the prophecies will fail. All of our kindred, inhabitants of the land of Israel, will be scattered and taken as captives from the good land; and the whole land of Israel will be desolate, even Samaria and Jerusalem will be desolate. And the temple of God in it will be burned to the ground, and it will be desolate for a while.",
       "links": "<a href='/AIV/41/1/1'>Nah. 1:1</a>; <a href='/AIV/30/25/11'>Jer. 25:11</a>; <a href='/AIV/34/9/2'>Dan. 9:2</a>",
@@ -62,11 +37,6 @@
     },
     {
       "pk": 17014005,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 14,
       "verse": 5,
       "text": "But God will again have mercy on them, and God will bring them back into the land of Israel; and they will rebuild the temple of God, though not like the first one until the time of fulfillment comes. After this, they will all return from their exile and will rebuild Jerusalem in splendor, and in it the temple of God will be rebuilt, just as the prophets of Israel have foretold.",
       "links": "<a href='/AIV/05/6/5'>Deut. 6:5</a>; <a href='/AIV/17/4/5-7'>Tob. 4:5-7</a>",
@@ -74,11 +44,6 @@
     },
     {
       "pk": 17014006,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 14,
       "verse": 6,
       "text": "Then the nations in the whole world will all be converted and worship God in truth. They will all abandon their idols, which deceitfully have led them into their error;",
       "links": "<a href='/AIV/23/2/2-4'>Isa. 2:2-4</a>; <a href='/AIV/26/37/25-28'>Ezek. 37:25-28</a>; <a href='/AIV/40/24/2'>Matt. 24:2</a>",
@@ -86,11 +51,6 @@
     },
     {
       "pk": 17014007,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 14,
       "verse": 7,
       "text": "and in righteousness they will praise the eternal God. All the Israelites who are saved in those days and are truly mindful of God will be gathered together; they will go to Jerusalem and live in safety forever in the land of Abraham, and it will be given over to them. Those who sincerely love God will rejoice, but those who commit sin and injustice will vanish from all the earth.",
       "links": "<a href='/AIV/23/2/18-21'>Isa. 2:18-21</a>; <a href='/AIV/19/86/9'>Ps. 86:9</a>",
@@ -98,11 +58,6 @@
     },
     {
       "pk": 17014008,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 14,
       "verse": 8,
       "text": "So now, my children, I command you, serve God faithfully and do what is pleasing in his sight. Command your children to do what is right and to give alms, and to always remember God and bless his name sincerely and with all their strength. So now, my son, leave Nineveh; do not remain here.",
       "links": "<a href='/AIV/19/67/4-5'>Ps. 67:4-5</a>; <a href='/AIV/66/7/9'>Rev. 7:9</a>",
@@ -110,11 +65,6 @@
     },
     {
       "pk": 17014009,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 14,
       "verse": 10,
       "text": "On whatever day you bury your mother beside me, do not remain overnight within the boundaries of the city. For I see that there is much wickedness in it, and much deceit is practiced there, and the people are unashamed. Consider, my son, what Nadab did to Ahikar who raised him: was he not, while still alive, brought down into the earth? For God repaid him for his shameful treatment. Ahikar came again into the light, but Nadab went into everlasting darkness because he tried to kill Ahikar. Because Ahikar gave alms, he escaped the deadly trap that Nadab set for him, but Nadab fell into it himself and was destroyed.",
       "links": "<a href='/AIV/17/1/22'>Tob. 1:22</a>; <a href='/AIV/17/2/10'>Tob. 2:10</a>",
@@ -122,11 +72,6 @@
     },
     {
       "pk": 17014010,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 14,
       "verse": 11,
       "text": "So now, my children, see what almsgiving accomplishes, and what injustice does—it brings death! But now my breath fails me.” Then they laid him on his bed, and he died; and he received an honorable funeral.",
       "links": "<a href='/AIV/17/4/10-11'>Tob. 4:10-11</a>; <a href='/AIV/19/41/1'>Ps. 41:1</a>",
@@ -134,11 +79,6 @@
     },
     {
       "pk": 17014011,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 14,
       "verse": 12,
       "text": "When Tobias’s mother died, he buried her beside his father. Then he and his wife and his children returned to Media and settled in Ecbatana with Raguel, his father-in-law.",
       "links": "<a href='/AIV/20/8/36'>Prov. 8:36</a>; <a href='/AIV/45/6/23'>Rom. 6:23</a>",
@@ -146,11 +86,6 @@
     },
     {
       "pk": 17014012,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 14,
       "verse": 13,
       "text": "He treated his parents-in-law with great respect in their old age, and buried them in Ecbatana of Media. He inherited both the property of Raguel and that of his father Tobit.",
       "links": "<a href='/AIV/17/9/2'>Tob. 9:2</a>",
@@ -158,11 +93,6 @@
     },
     {
       "pk": 17014013,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 14,
       "verse": 14,
       "text": "He died highly respected at the age of one hundred seventeen years.",
       "links": "<a href='/AIV/17/2/7'>Tob. 2:7</a>",
@@ -170,16 +100,10 @@
     },
     {
       "pk": 17014015,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 14,
       "verse": 15,
       "text": "Before he died he heard of the destruction of Nineveh, and he saw its prisoners being led into Media, those whom King Cyaxares of Media had taken captive. Tobias praised God for all he had done to the people of Nineveh and Assyria; before he died he rejoiced over Nineveh, and he blessed the Lord God forever and ever. Amen.",
       "links": "<a href='/AIV/41/3/7'>Nah. 3:7</a>; <a href='/AIV/29/13/17'>Isa. 13:17-19</a>; <a href='/AIV/32/1/1'>Bar. 1:1-5</a>",
       "comment": "Tobias witnesses Nineveh’s downfall as prophesied, reinforcing the fulfillment of God’s word; his praise reflects a Jewish perspective on divine justice and sovereignty over nations (cf. Daniel 2:21, Isaiah 10:5–19)."
     }
-  ],
-  "translatedAt": "2025-12-29T00:37:52.748Z"
+  ]
 }

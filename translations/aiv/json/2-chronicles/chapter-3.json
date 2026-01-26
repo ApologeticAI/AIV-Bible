@@ -1,16 +1,13 @@
 {
-  "book": 14,
+  "translation": "AIV",
+  "bookId": "2-chronicles",
   "bookName": "2 Chronicles",
-  "bookAbbreviation": "2Chr",
+  "bookAbbreviation": "2 Chr",
+  "bookNumber": 14,
   "chapter": 3,
   "verses": [
     {
       "pk": 14003001,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 3,
       "verse": 1,
       "text": "Then Solomon began to build the house of the LORD in Jerusalem on Mount Moriah, where the LORD had appeared to David his father, on the place that David had prepared on the threshing floor of Ornan the Jebusite.",
       "links": "<a href='/AIV/10/24/16'>2 Sam. 24:16</a>; <a href='/AIV/01/22/2'>Gen. 22:2</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 14003002,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 3,
       "verse": 2,
       "text": "He began to build on the second day of the second month, in the fourth year of his reign.",
       "links": "<a href='/AIV/11/06/1'>1 Kgs. 6:1</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 14003003,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 3,
       "verse": 3,
       "text": "Now these are the foundations which Solomon laid for building the house of God: the length, in cubits by the former measure, was sixty cubits, and the width twenty cubits.",
       "links": "<a href='/AIV/11/06/2'>1 Kgs. 6:2</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 14003004,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 3,
       "verse": 4,
       "text": "The vestibule in front of the house was twenty cubits long, equal to the width of the house, and its height was one hundred and twenty cubits. He overlaid it inside with pure gold.",
       "links": "<a href='/AIV/11/06/3'>1 Kgs. 6:3</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 14003005,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 3,
       "verse": 5,
       "text": "He paneled the main hall with cypress wood, overlaid it with fine gold, and carved palm trees and chain patterns on it.",
       "links": "<a href='/AIV/11/06/15'>1 Kgs. 6:15</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 14003006,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 3,
       "verse": 6,
       "text": "He adorned the house with precious stones for beauty, and the gold used was gold from Parvaim.",
       "links": "<a href='/AIV/13/29/2'>1 Chr. 29:2</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 14003007,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 3,
       "verse": 7,
       "text": "He overlaid the house, the beams, the thresholds, its walls and its doors with gold, and carved cherubim on the walls.",
       "links": "<a href='/AIV/02/25/18'>Ex. 25:18-20</a>; <a href='/AIV/11/06/29'>1 Kgs. 6:29</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 14003008,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 3,
       "verse": 8,
       "text": "He made the Most Holy Place, its length equal to the width of the house, twenty cubits, and its width twenty cubits. He overlaid it with six hundred talents of fine gold.",
       "links": "<a href='/AIV/11/06/20'>1 Kgs. 6:20-21</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 14003009,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 3,
       "verse": 9,
       "text": "The weight of the nails was fifty shekels of gold. He also overlaid the upper rooms with gold.",
       "links": "<a href='/AIV/11/06/21'>1 Kgs. 6:21-22</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 14003010,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 3,
       "verse": 10,
       "text": "In the Most Holy Place he made two cherubim of sculptured work, and overlaid them with gold.",
       "links": "<a href='/AIV/02/25/18'>Ex. 25:18-20</a>; <a href='/AIV/11/06/23'>1 Kgs. 6:23</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 14003011,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 3,
       "verse": 11,
       "text": "The wings of the cherubim had a total length of twenty cubits: one wing of the first cherub was five cubits, touching the wall of the house; its other wing was also five cubits, touching the wing of the other cherub.",
       "links": "<a href='/AIV/11/06/24'>1 Kgs. 6:24</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 14003012,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 3,
       "verse": 12,
       "text": "The wing of the other cherub was five cubits, touching the wall of the house; and its other wing, also five cubits, was touching the wing of the first cherub.",
       "links": "<a href='/AIV/11/06/25'>1 Kgs. 6:25</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 14003013,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 3,
       "verse": 13,
       "text": "The wings of these cherubim spread out to twenty cubits in total. They stood on their feet, and their faces were turned toward the main hall.",
       "links": "<a href='/AIV/11/06/27'>1 Kgs. 6:27</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 14003014,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 3,
       "verse": 14,
       "text": "He made the veil of blue, purple, crimson, and fine linen, and worked cherubim into it.",
       "links": "<a href='/AIV/02/26/31'>Ex. 26:31</a>; <a href='/AIV/58/10/20'>Heb. 10:20</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 14003015,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 3,
       "verse": 15,
       "text": "In front of the house he made two pillars, thirty-five cubits high, and the capital that was on the top of each was five cubits.",
       "links": "<a href='/AIV/11/07/15'>1 Kgs. 7:15-16</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 14003016,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 3,
       "verse": 16,
       "text": "He made chains as in the inner sanctuary, and placed them on the tops of the pillars; and he made one hundred pomegranates, and put them on the chains.",
       "links": "<a href='/AIV/11/07/17'>1 Kgs. 7:17-20</a>",
@@ -201,33 +123,10 @@
     },
     {
       "pk": 14003017,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 3,
       "verse": 17,
       "text": "He set up the pillars in front of the temple, one on the right and the other on the left. He named the one on the right Jachin, and the one on the left Boaz.",
       "links": "<a href='/AIV/11/07/21'>1 Kgs. 7:21</a>",
       "comment": "‘Jachin’ means 'He establishes' and ‘Boaz’ means 'In Him is strength.’ The names signify God's faithfulness in establishing His people firmly in His promises, a theme carried on through Christ and the enduring foundation of His Church. See also <a href='/AIV/40/16/18'>Matt. 16:18</a>."
-    }
-  ],
-  "translatedAt": "2025-12-24T04:22:42.268Z",
-  "sections": [
-    {
-      "title": "Solomon Begins Building the Temple",
-      "startVerse": 1,
-      "endVerse": 7
-    },
-    {
-      "title": "The Most Holy Place and Its Furnishings",
-      "startVerse": 8,
-      "endVerse": 14
-    },
-    {
-      "title": "The Pillars Before the Temple",
-      "startVerse": 15,
-      "endVerse": 17
     }
   ]
 }

@@ -1,16 +1,13 @@
 {
-  "book": 53,
+  "translation": "AIV",
+  "bookId": "1-corinthians",
   "bookName": "1 Corinthians",
-  "bookAbbreviation": "1Cor",
+  "bookAbbreviation": "1 Cor",
+  "bookNumber": 53,
   "chapter": 3,
   "verses": [
     {
       "pk": 53003001,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 3,
       "verse": 1,
       "text": "Brothers and sisters, I could not speak to you as spiritual people but as people of the flesh, as infants in Christ.",
       "links": "<a href='/AIV/58/5/12'>Heb. 5:12</a>; <a href='/AIV/46/2/14'>1 Cor. 2:14</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 53003002,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 3,
       "verse": 2,
       "text": "I fed you with milk, not solid food, for you were not ready for it. And even now you are not yet ready,",
       "links": "<a href='/AIV/58/5/13'>Heb. 5:13</a>; <a href='/AIV/60/2/2'>1 Pet. 2:2</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 53003003,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 3,
       "verse": 3,
       "text": "for you are still fleshly. For since there is jealousy and strife among you, are you not fleshly, and behaving as mere humans?",
       "links": "<a href='/AIV/48/5/19-21'>Gal. 5:19-21</a>; <a href='/AIV/59/3/16'>Jas. 3:16</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 53003004,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 3,
       "verse": 4,
       "text": "For when one says, “I follow Paul,” and another, “I follow Apollos,” are you not acting like humans?",
       "links": "<a href='/AIV/46/1/12'>1 Cor. 1:12</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 53003005,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 3,
       "verse": 5,
       "text": "What then is Apollos? And what is Paul? Servants through whom you believed, as the Lord assigned to each.",
       "links": "<a href='/AIV/46/4/1'>1 Cor. 4:1</a>; <a href='/AIV/45/12/6-8'>Rom. 12:6-8</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 53003006,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 3,
       "verse": 6,
       "text": "I planted, Apollos watered, but God gave the growth.",
       "links": "<a href='/AIV/46/15/10'>1 Cor. 15:10</a>; <a href='/AIV/60/4/10-11'>1 Pet. 4:10-11</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 53003007,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 3,
       "verse": 7,
       "text": "So neither the one who plants nor the one who waters is anything, but only God who gives growth.",
       "links": "<a href='/AIV/54/2/10'>2 Tim. 2:10</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 53003008,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 3,
       "verse": 8,
       "text": "The one who plants and the one who waters are one, and each will receive his own reward according to his labor.",
       "links": "<a href='/AIV/58/6/10'>Heb. 6:10</a>; <a href='/AIV/40/16/27'>Matt. 16:27</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 53003009,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 3,
       "verse": 9,
       "text": "For we are God’s co-workers; you are God’s field, God’s building.",
       "links": "<a href='/AIV/47/6/1'>2 Cor. 6:1</a>; <a href='/AIV/49/2/20-22'>Eph. 2:20-22</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 53003010,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 3,
       "verse": 10,
       "text": "According to the grace God gave me, like a skilled master builder, I laid a foundation, and another builds upon it. Let each one be careful how he builds upon it.",
       "links": "<a href='/AIV/45/15/20'>Rom. 15:20</a>; <a href='/AIV/49/2/20'>Eph. 2:20</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 53003011,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 3,
       "verse": 11,
       "text": "For no one can lay any foundation other than the one already laid, which is Jesus Christ.",
       "links": "<a href='/AIV/19/118/22'>Ps. 118:22</a>; <a href='/AIV/49/2/20'>Eph. 2:20</a>; <a href='/AIV/40/7/24-25'>Matt. 7:24-25</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 53003012,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 3,
       "verse": 12,
       "text": "Now if anyone builds on the foundation with gold, silver, precious stones, wood, hay, or straw,",
       "links": "<a href='/AIV/24/23/28-29'>Jer. 23:28-29</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 53003013,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 3,
       "verse": 13,
       "text": "each one’s work will become evident, for the Day will disclose it, because it will be revealed with fire, and the fire will test what sort of work each has done.",
       "links": "<a href='/AIV/39/3/2-3'>Mal. 3:2-3</a>; <a href='/AIV/60/1/7'>1 Pet. 1:7</a>; <a href='/AIV/41/9/49'>Mark 9:49</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 53003014,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 3,
       "verse": 14,
       "text": "If the work that someone has built on the foundation remains, he will receive a reward.",
       "links": "<a href='/AIV/40/25/21'>Matt. 25:21</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 53003015,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 3,
       "verse": 15,
       "text": "If anyone’s work is burned up, he will suffer loss, but he himself will be saved, though only as through fire.",
       "links": "<a href='/AIV/39/3/2-3'>Mal. 3:2-3</a>; <a href='/AIV/19/66/12'>Ps. 66:12</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 53003016,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 3,
       "verse": 16,
       "text": "Do you not know that you are God’s temple and that God’s Spirit dwells in you?",
       "links": "<a href='/AIV/47/6/16'>2 Cor. 6:16</a>; <a href='/AIV/46/6/19'>1 Cor. 6:19</a>; <a href='/AIV/26/37/27'>Ezek. 37:27</a>",
@@ -202,11 +124,6 @@
     },
     {
       "pk": 53003017,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 3,
       "verse": 17,
       "text": "If anyone destroys God’s temple, God will destroy him. For God’s temple is holy, and you are that temple.",
       "links": "<a href='/AIV/51/1/22'>Col. 1:22</a>; <a href='/AIV/19/11/4'>Ps. 11:4</a>",
@@ -214,11 +131,6 @@
     },
     {
       "pk": 53003018,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 3,
       "verse": 18,
       "text": "Let no one deceive himself. If anyone among you thinks he is wise in this age, let him become a fool, that he may become wise.",
       "links": "<a href='/AIV/20/3/7'>Prov. 3:7</a>; <a href='/AIV/46/1/20-21'>1 Cor. 1:20-21</a>",
@@ -227,11 +139,6 @@
     },
     {
       "pk": 53003019,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 3,
       "verse": 19,
       "text": "For the wisdom of this world is foolishness with God. For it is written, 'He catches the wise in their craftiness,'",
       "links": "<a href='/AIV/18/5/13'>Job 5:13</a>",
@@ -239,11 +146,6 @@
     },
     {
       "pk": 53003020,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 3,
       "verse": 20,
       "text": "and again, 'The Lord knows the reasoning of the wise, that it is futile.'",
       "links": "<a href='/AIV/19/94/11'>Ps. 94:11</a>",
@@ -251,11 +153,6 @@
     },
     {
       "pk": 53003021,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 3,
       "verse": 21,
       "text": "So then, let no one boast in men. For all things are yours,",
       "links": "<a href='/AIV/45/8/32'>Rom. 8:32</a>; <a href='/AIV/40/5/5'>Matt. 5:5</a>",
@@ -263,11 +160,6 @@
     },
     {
       "pk": 53003022,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 3,
       "verse": 22,
       "text": "whether Paul or Apollos or Cephas, or the world or life or death, or the present or the future—all are yours,",
       "links": "<a href='/AIV/45/8/38-39'>Rom. 8:38-39</a>",
@@ -275,43 +167,10 @@
     },
     {
       "pk": 53003023,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 3,
       "verse": 23,
       "text": "and you are Christ’s, and Christ is God’s.",
       "links": "<a href='/AIV/43/17/21'>John 17:21</a>; <a href='/AIV/43/10/30'>John 10:30</a>; <a href='/AIV/43/20/17'>John 20:17</a>",
       "comment": "Final emphasis that Christians belong to Christ, who Himself is in perfect unity with the Father. This passage reveals both Christ’s divinity and His filial relationship to God, a key point in Christian doctrine about the Trinity and the church’s unity."
-    }
-  ],
-  "translatedAt": "2025-12-24T11:45:01.975Z",
-  "sections": [
-    {
-      "title": "Divisions in the Church",
-      "startVerse": 1,
-      "endVerse": 4
-    },
-    {
-      "title": "God’s Fellow Workers and the True Foundation",
-      "startVerse": 5,
-      "endVerse": 9
-    },
-    {
-      "title": "Christ the Only Foundation",
-      "startVerse": 10,
-      "endVerse": 15
-    },
-    {
-      "title": "The Temple of God",
-      "startVerse": 16,
-      "endVerse": 17
-    },
-    {
-      "title": "True Wisdom and Boasting in the Lord",
-      "startVerse": 18,
-      "endVerse": 23
     }
   ]
 }

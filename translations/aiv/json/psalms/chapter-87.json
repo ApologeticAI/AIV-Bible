@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 87,
   "verses": [
     {
       "pk": 23087001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 87,
       "verse": 1,
       "text": "He has founded His city on the holy mountains;",
       "links": "<a href='/AIV/24/51/19'>Jer. 51:19</a>; <a href='/AIV/19/48/1-2'>Ps. 48:1-2</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23087002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 87,
       "verse": 2,
       "text": "The LORD loves the gates of Zion more than all the dwellings of Jacob.",
       "links": "<a href='/AIV/19/132/13-14'>Ps. 132:13-14</a>; <a href='/AIV/19/78/68-69'>Ps. 78:68-69</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23087003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 87,
       "verse": 3,
       "text": "Glorious things are spoken of you, O city of God. Selah",
       "links": "<a href='/AIV/19/46/4-5'>Ps. 46:4-5</a>; <a href='/AIV/23/2/2-3'>Isa. 2:2-3</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23087004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 87,
       "verse": 4,
       "text": "I will mention Rahab and Babylon among those who know Me—Philistia, Tyre, and Cush—'This one was born there,' they say.",
       "links": "<a href='/AIV/23/19/24-25'>Isa. 19:24-25</a>; <a href='/AIV/45/9/24-26'>Rom. 9:24-26</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 23087005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 87,
       "verse": 5,
       "text": "But of Zion it will be said, 'This one and that one were born in her.' And the Most High Himself will establish her.",
       "links": "<a href='/AIV/48/4/26-28'>Gal. 4:26-28</a>; <a href='/AIV/58/12/22-23'>Heb. 12:22-23</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 23087006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 87,
       "verse": 6,
       "text": "The LORD will record, when He counts the peoples, 'This one was born there.' Selah",
       "links": "<a href='/AIV/19/22/27'>Ps. 22:27</a>; <a href='/AIV/66/20/12'>Rev. 20:12</a>",
@@ -80,28 +52,10 @@
     },
     {
       "pk": 23087007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 87,
       "verse": 7,
       "text": "Both singers and dancers will say, 'All my springs are in you.'",
       "links": "<a href='/AIV/19/46/4'>Ps. 46:4</a>; <a href='/AIV/43/4/13-14'>John 4:13-14</a>",
       "comment": "The springs symbolize the source of life and joy found within God’s city. This connects with Christ’s promise of living water (<a href='/AIV/43/7/37-39'>John 7:37-39</a>), which flows from God’s presence to the believer. The image also prefigures the liturgical life and worship at the heart of the Christian community."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:29:57.988Z",
-  "sections": [
-    {
-      "title": "The Glory of Zion",
-      "startVerse": 1,
-      "endVerse": 3
-    },
-    {
-      "title": "The Nations Enrolled in Zion",
-      "startVerse": 4,
-      "endVerse": 7
     }
   ]
 }

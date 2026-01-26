@@ -1,16 +1,13 @@
 {
-  "book": 33,
+  "translation": "AIV",
+  "bookId": "ezekiel",
   "bookName": "Ezekiel",
   "bookAbbreviation": "Ezek",
+  "bookNumber": 33,
   "chapter": 3,
   "verses": [
     {
       "pk": 33003001,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 3,
       "verse": 1,
       "text": "Then He said to me, 'Son of man, eat what you find here. Eat this scroll, and go, speak to the house of Israel.'",
       "links": "<a href='/AIV/26/2/8'>Ezek. 2:8</a>; <a href='/AIV/24/15/16'>Jer. 15:16</a>; <a href='/AIV/66/10/9'>Rev. 10:9</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 33003002,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 3,
       "verse": 2,
       "text": "So I opened my mouth, and He made me eat the scroll.",
       "links": "<a href='/AIV/26/2/9'>Ezek. 2:9</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 33003003,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 3,
       "verse": 3,
       "text": "And He said to me, 'Son of man, feed your belly and fill your stomach with this scroll that I give you.' So I ate, and it was in my mouth as sweet as honey.",
       "links": "<a href='/AIV/19/119/103'>Ps. 119:103</a>; <a href='/AIV/66/10/10'>Rev. 10:10</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 33003004,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 3,
       "verse": 4,
       "text": "And He said to me, 'Son of man, go to the house of Israel and speak My words to them.'",
       "links": "<a href='/AIV/26/2/3'>Ezek. 2:3</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 33003005,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 3,
       "verse": 5,
       "text": "For you are not sent to a people of obscure speech or of a difficult language, but to the house of Israel—",
       "links": "<a href='/AIV/23/28/11'>Isa. 28:11</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 33003006,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 3,
       "verse": 6,
       "text": "Not to many peoples of obscure speech or of a difficult language, whose words you cannot understand. If I sent you to them, surely they would listen to you.",
       "links": "<a href='/AIV/40/11/21-22'>Matt. 11:21-22</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 33003007,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 3,
       "verse": 7,
       "text": "But the house of Israel will not be willing to listen to you, because they are not willing to listen to Me; for all the house of Israel are hard of forehead and stubborn of heart.",
       "links": "<a href='/AIV/26/2/4'>Ezek. 2:4</a>; <a href='/AIV/44/7/51'>Acts 7:51</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 33003008,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 3,
       "verse": 8,
       "text": "See, I have made your face as hard as their faces, and your forehead as hard as their foreheads.",
       "links": "<a href='/AIV/26/3/9'>Ezek. 3:9</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 33003009,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 3,
       "verse": 9,
       "text": "Like diamond harder than flint, I have made your forehead. Do not be afraid of them, nor dismayed at their looks, for they are a rebellious house.'",
       "links": "<a href='/AIV/26/2/6'>Ezek. 2:6</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 33003010,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 3,
       "verse": 10,
       "text": "Moreover, He said to me, 'Son of man, receive in your heart all My words that I speak to you, and hear them with your ears.'",
       "links": "<a href='/AIV/19/119/11'>Ps. 119:11</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 33003011,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 3,
       "verse": 11,
       "text": "'And go to the exiles, to the children of your people, and speak to them—whether they listen or not—and say to them, \"Thus says the Lord GOD.\"'",
       "links": "<a href='/AIV/26/2/5'>Ezek. 2:5</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 33003012,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 3,
       "verse": 12,
       "text": "Then the Spirit lifted me up, and I heard behind me the voice of a great earthquake saying, 'Blessed be the glory of the LORD from His place!'",
       "links": "<a href='/AIV/23/6/1-4'>Isa. 6:1-4</a>; <a href='/AIV/26/1/28'>Ezek. 1:28</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 33003013,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 3,
       "verse": 13,
       "text": "I also heard the sound of the wings of the living creatures brushing against one another, and the sound of the wheels beside them, and the sound of a great earthquake.",
       "links": "<a href='/AIV/26/1/15'>Ezek. 1:15</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 33003014,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 3,
       "verse": 14,
       "text": "So the Spirit lifted me up and took me away, and I went in bitterness and in the anger of my spirit, and the hand of the LORD was strong upon me.",
       "links": "<a href='/AIV/26/1/3'>Ezek. 1:3</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 33003015,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 3,
       "verse": 15,
       "text": "And I came to the exiles at Tel-abib, who lived by the river Chebar, and I stayed there for seven days, sitting among them, overwhelmed.",
       "links": "<a href='/AIV/26/1/1'>Ezek. 1:1</a>; <a href='/AIV/26/3/16'>Ezek. 3:16</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 33003016,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 3,
       "verse": 16,
       "text": "And at the end of seven days the word of the LORD came to me:",
       "links": "<a href='/AIV/26/1/3'>Ezek. 1:3</a>",
@@ -202,11 +124,6 @@
     },
     {
       "pk": 33003017,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 3,
       "verse": 17,
       "text": "'Son of man, I have made you a watchman for the house of Israel; whenever you hear a word from My mouth, give them warning from Me.'",
       "links": "<a href='/AIV/26/33/7'>Ezek. 33:7</a>",
@@ -214,11 +131,6 @@
     },
     {
       "pk": 33003018,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 3,
       "verse": 18,
       "text": "'When I say to the wicked, \"You will surely die,\" and you do not warn him, or speak to warn the wicked from his wicked way, to save his life, that wicked person will die in his guilt, but I will require his blood at your hand.'",
       "links": "<a href='/AIV/26/33/8'>Ezek. 33:8</a>",
@@ -226,11 +138,6 @@
     },
     {
       "pk": 33003019,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 3,
       "verse": 19,
       "text": "'But if you warn the wicked, and he does not turn from his wickedness or from his wicked way, he will die in his guilt; but you will have delivered your soul.'",
       "links": "<a href='/AIV/26/33/9'>Ezek. 33:9</a>",
@@ -238,11 +145,6 @@
     },
     {
       "pk": 33003020,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 3,
       "verse": 20,
       "text": "'Again, if a righteous person turns from his righteousness and does evil, and I place a stumbling block before him, he will die. Since you have not warned him, he will die in his sin, and his righteous deeds that he has done will not be remembered, and I will require his blood at your hand.'",
       "links": "<a href='/AIV/26/18/24'>Ezek. 18:24</a>; <a href='/AIV/58/3/12-14'>Heb. 3:12-14</a>",
@@ -250,11 +152,6 @@
     },
     {
       "pk": 33003021,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 3,
       "verse": 21,
       "text": "'But if you warn the righteous not to sin, and he does not sin, he will surely live because he took warning, and you will have delivered your soul.'",
       "links": "<a href='/AIV/26/18/9'>Ezek. 18:9</a>",
@@ -262,11 +159,6 @@
     },
     {
       "pk": 33003022,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 3,
       "verse": 22,
       "text": "And the hand of the LORD was upon me there, and He said to me, 'Arise, go out into the plain, and I will speak with you there.'",
       "links": "<a href='/AIV/11/19/11'>1 Kings 19:11</a>",
@@ -275,11 +167,6 @@
     },
     {
       "pk": 33003023,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 3,
       "verse": 23,
       "text": "So I arose and went out into the plain, and there the glory of the LORD stood, like the glory that I had seen by the river Chebar. And I fell on my face.",
       "links": "<a href='/AIV/26/1/28'>Ezek. 1:28</a>",
@@ -287,11 +174,6 @@
     },
     {
       "pk": 33003024,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 3,
       "verse": 24,
       "text": "Then the Spirit entered into me and set me on my feet, and He spoke with me and said to me: 'Go, shut yourself inside your house.'",
       "links": "<a href='/AIV/26/2/2'>Ezek. 2:2</a>",
@@ -299,11 +181,6 @@
     },
     {
       "pk": 33003025,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 3,
       "verse": 25,
       "text": "'But you, O son of man, behold, cords will be placed upon you, and you will be bound with them, so that you cannot go out among the people.'",
       "links": "<a href='/AIV/26/4/8'>Ezek. 4:8</a>",
@@ -311,11 +188,6 @@
     },
     {
       "pk": 33003026,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 3,
       "verse": 26,
       "text": "'And I will make your tongue stick to the roof of your mouth, so that you will be mute and unable to rebuke them, for they are a rebellious house.'",
       "links": "<a href='/AIV/26/24/27'>Ezek. 24:27</a>; <a href='/AIV/42/1/20'>Luke 1:20</a>",
@@ -323,43 +195,10 @@
     },
     {
       "pk": 33003027,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 3,
       "verse": 27,
       "text": "'But when I speak with you, I will open your mouth, and you shall say to them, \"Thus says the Lord GOD.\" Whoever listens, let him listen; and whoever refuses, let him refuse, for they are a rebellious house.'",
       "links": "<a href='/AIV/26/2/7'>Ezek. 2:7</a>",
       "comment": "Ultimately, it is God who gives His servant utterance. The free response of the hearers shows God’s respect for human freedom, even while He patiently offers repeated invitations to repentance. This emphasizes the power and necessity of authoritative, Spirit-led proclamation."
-    }
-  ],
-  "translatedAt": "2025-12-24T08:59:49.294Z",
-  "sections": [
-    {
-      "title": "Ezekiel Eats the Scroll",
-      "startVerse": 1,
-      "endVerse": 3
-    },
-    {
-      "title": "Ezekiel's Commission and Hardness of Israel",
-      "startVerse": 4,
-      "endVerse": 11
-    },
-    {
-      "title": "The Spirit Lifts Ezekiel to the Exiles",
-      "startVerse": 12,
-      "endVerse": 15
-    },
-    {
-      "title": "Ezekiel Appointed as Watchman",
-      "startVerse": 16,
-      "endVerse": 21
-    },
-    {
-      "title": "Ezekiel Rendered Mute",
-      "startVerse": 22,
-      "endVerse": 27
     }
   ]
 }

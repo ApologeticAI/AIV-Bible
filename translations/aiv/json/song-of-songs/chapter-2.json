@@ -1,16 +1,13 @@
 {
-  "book": 26,
+  "translation": "AIV",
+  "bookId": "song-of-songs",
   "bookName": "Song of Songs",
   "bookAbbreviation": "Song",
+  "bookNumber": 26,
   "chapter": 2,
   "verses": [
     {
       "pk": 26002001,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 2,
       "verse": 1,
       "text": "I am a rose of Sharon, a lily of the valleys.",
       "links": "<a href='/AIV/23/35/1'>Isa. 35:1</a>; <a href='/AIV/28/14/5'>Hos. 14:5</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 26002002,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 2,
       "verse": 2,
       "text": "Like a lily among thorns, so is my beloved among the young women.",
       "links": "<a href='/AIV/19/45/13'>Ps. 45:13</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 26002003,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 2,
       "verse": 3,
       "text": "As an apple tree among the trees of the forest, so is my beloved among the young men. I delight to sit in his shade, and his fruit is sweet to my taste.",
       "links": "<a href='/AIV/19/34/8'>Ps. 34:8</a>; <a href='/AIV/22/1/16'>Song 1:16</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 26002004,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 2,
       "verse": 4,
       "text": "He brought me to the banquet hall, and his banner over me is love.",
       "links": "<a href='/AIV/19/23/5'>Ps. 23:5</a>; <a href='/AIV/22/6/10'>Song 6:10</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 26002005,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 2,
       "verse": 5,
       "text": "Strengthen me with raisins, refresh me with apples, for I am faint with love.",
       "links": "<a href='/AIV/10/6/19'>2 Sam. 6:19</a>; <a href='/AIV/22/1/2'>Song 1:2</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 26002006,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 2,
       "verse": 6,
       "text": "His left hand is under my head, and his right hand embraces me.",
       "links": "<a href='/AIV/22/8/3'>Song 8:3</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 26002007,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 2,
       "verse": 7,
       "text": "I charge you, daughters of Jerusalem, by the gazelles and the does of the field: Do not stir up or awaken love until it pleases.",
       "links": "<a href='/AIV/22/3/5'>Song 3:5</a>; <a href='/AIV/19/127/2'>Ps. 127:2</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 26002008,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 2,
       "verse": 8,
       "text": "Listen! My beloved! Behold, he comes, leaping over the mountains, bounding over the hills.",
       "links": "<a href='/AIV/19/114/4'>Ps. 114:4</a>; <a href='/AIV/23/52/7'>Isa. 52:7</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 26002009,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 2,
       "verse": 9,
       "text": "My beloved is like a gazelle or a young stag. Behold, he stands behind our wall, gazing through the windows, peering through the lattice.",
       "links": "<a href='/AIV/22/2/17'>Song 2:17</a>; <a href='/AIV/22/4/8'>Song 4:8</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 26002010,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 2,
       "verse": 10,
       "text": "My beloved spoke and said to me: 'Arise, my love, my beautiful one, and come away.'",
       "links": "<a href='/AIV/19/45/10-11'>Ps. 45:10-11</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 26002011,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 2,
       "verse": 11,
       "text": "For behold, the winter is past; the rain is over and gone.",
       "links": "<a href='/AIV/24/8/20'>Jer. 8:20</a>; <a href='/AIV/23/55/10-13'>Isa. 55:10-13</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 26002012,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 2,
       "verse": 12,
       "text": "Flowers appear on the earth; the season of singing has come, and the voice of the turtledove is heard in our land.",
       "links": "<a href='/AIV/19/96/1-2'>Ps. 96:1-2</a>; <a href='/AIV/23/35/2'>Isa. 35:2</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 26002013,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 2,
       "verse": 13,
       "text": "The fig tree puts forth its figs, and the vines are in blossom; they give off their fragrance. Arise, my love, my beautiful one, and come away.",
       "links": "<a href='/AIV/24/24/7'>Jer. 24:7</a>; <a href='/AIV/19/1/3'>Ps. 1:3</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 26002014,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 2,
       "verse": 14,
       "text": "O my dove, hidden in the clefts of the rock, in the secret places of the cliff, let me see your face, let me hear your voice; for your voice is sweet, and your face is lovely.",
       "links": "<a href='/AIV/19/27/5'>Ps. 27:5</a>; <a href='/AIV/19/91/1'>Ps. 91:1</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 26002015,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 2,
       "verse": 15,
       "text": "Catch for us the foxes, the little foxes that ruin the vineyards—for our vineyards are in blossom.",
       "links": "<a href='/AIV/19/80/12-13'>Ps. 80:12-13</a>; <a href='/AIV/23/5/2'>Isa. 5:2</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 26002016,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 2,
       "verse": 16,
       "text": "My beloved is mine and I am his; he grazes among the lilies.",
       "links": "<a href='/AIV/19/100/3'>Ps. 100:3</a>; <a href='/AIV/22/6/3'>Song 6:3</a>",
@@ -200,28 +122,10 @@
     },
     {
       "pk": 26002017,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 2,
       "verse": 17,
       "text": "Until the day breathes and the shadows flee, turn, my beloved, and be like a gazelle or a young stag on the cleft mountains.",
       "links": "<a href='/AIV/19/46/5'>Ps. 46:5</a>; <a href='/AIV/19/42/1'>Ps. 42:1</a>",
       "comment": "The imagery points to awaiting the fullness of union at dawn, a metaphor for longing for Christ’s final coming. The appeal for the beloved to 'turn' can be seen as both a prayer for presence and a hopeful expectation of future reunion."
-    }
-  ],
-  "translatedAt": "2025-12-24T07:12:27.558Z",
-  "sections": [
-    {
-      "title": "The Beloved’s Admiration",
-      "startVerse": 1,
-      "endVerse": 7
-    },
-    {
-      "title": "Longing for Love",
-      "startVerse": 8,
-      "endVerse": 17
     }
   ]
 }

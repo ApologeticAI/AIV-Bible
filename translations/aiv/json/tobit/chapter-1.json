@@ -1,16 +1,13 @@
 {
-  "book": 17,
+  "translation": "AIV",
+  "bookId": "tobit",
   "bookName": "Tobit",
   "bookAbbreviation": "Tob",
+  "bookNumber": 17,
   "chapter": 1,
   "verses": [
     {
       "pk": 17001001,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 1,
       "verse": 1,
       "text": "The words of Tobit, son of Tobiel, son of Hananiel, son of Aduel, son of Gabael, of the descendants of Asiel and the tribe of Naphtali,",
       "links": "<a href='/AIV/06/19/32-39'>Josh. 19:32–39</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 17001002,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 1,
       "verse": 2,
       "text": "who was taken captive from Thisbe, which is south of Kedesh Naphtali in Upper Galilee above Asher toward the west and north of Phogor.",
       "links": "<a href='/AIV/12/15/29'>2 Kgs 15:29</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 17001003,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 1,
       "verse": 3,
       "text": "I, Tobit, walked in honesty and righteousness all the days of my life; I gave much in alms to my brothers and to my nation, who came with me to Nineveh in the land of the Assyrians.",
       "links": "<a href='/AIV/19/112/9'>Ps 112:9</a>; <a href='/AIV/40/6/1-4'>Matt 6:1-4</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 17001004,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 1,
       "verse": 4,
       "text": "When I was young, I lived in the land of Israel, but all my tribe of Naphtali, my forefathers, and their house fell away from the house of David and Jerusalem,",
       "links": "<a href='/AIV/11/12/16-19'>1 Kgs 12:16-19</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 17001005,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 1,
       "verse": 5,
       "text": "All my kindred and our ancestral house of Naphtali sacrificed to the calf that King Jeroboam of Israel had erected in Dan and on all the mountains of Galilee.",
       "links": "<a href='/AIV/11/8/44'>1 Kgs 8:44</a>; <a href='/AIV/13/7/12'>2 Chr 7:12</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 17001006,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 1,
       "verse": 6,
       "text": "But I alone went often to Jerusalem for the festivals, as it is prescribed for all Israel by an everlasting decree. I would hurry off to Jerusalem with the first fruits of the crops and the firstlings of the flock, the tithes of the cattle, and the first shearings of the sheep.",
       "links": "<a href='/AIV/11/12/28-30'>1 Kgs 12:28-30</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 17001007,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 1,
       "verse": 7,
       "text": "But I alone often journeyed to Jerusalem for the feasts, as it is prescribed for all Israel by an everlasting decree, bringing the firstfruits and tithes of my produce and the first fleece, and giving them to the priests, the sons of Aaron, at the altar.",
       "links": "<a href='/AIV/03/23/1-44'>Lev 23</a>; <a href='/AIV/05/18/4-5'>Deut 18:4-5</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 17001008,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 1,
       "verse": 8,
       "text": "To the Levites I gave a tithe of grain, wine, olive oil, pomegranates, and other fruits. Every third year I would give the tithe to the orphans, widows, and immigrants living among the Israelites, as commanded in the Mosaic Law.",
       "links": "<a href='/AIV/05/14/28-29'>Deut 14:28-29</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 17001009,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 1,
       "verse": 9,
       "text": "I grew up with my wife Anna, and when we were married, I had a son named Tobias.",
       "links": "<a href='/AIV/01/2/24'>Gen 2:24</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 17001010,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 1,
       "verse": 10,
       "text": "When I was taken captive and brought to Assyria, I went to Nineveh; all my brothers and those of my people ate the food of the Gentiles,",
       "links": "<a href='/AIV/27/1/8'>Dan 1:8</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 17001011,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 1,
       "verse": 11,
       "text": "but I kept myself from eating that food,",
       "links": "<a href='/AIV/27/1/8'>Dan 1:8</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 17001012,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 1,
       "verse": 12,
       "text": "because I remembered God with all my heart.",
       "links": "<a href='/AIV/05/6/5'>Deut 6:5</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 17001013,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 1,
       "verse": 13,
       "text": "The Most High gave me favor and grace before Shalmaneser, and I became his purchasing agent.",
       "links": "<a href='/AIV/01/39/4'>Gen 39:4</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 17001014,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 1,
       "verse": 14,
       "text": "Until his death, I would travel to Media to buy and sell for him, and I left in trust with Gabael, a kinsman in Rages of Media, ten talents of silver.",
       "links": "<a href='/AIV/17/2/7'>Tob 2:7</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 17001015,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 1,
       "verse": 15,
       "text": "When Shalmaneser died, Sennacherib his son became king. The roads to Media were closed, so I could no longer travel there.",
       "links": "<a href='/AIV/12/18/13'>2 Kgs 18:13</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 17001016,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 1,
       "verse": 16,
       "text": "In the days of Shalmaneser I performed many acts of charity to my kindred, those of my tribe.",
       "links": "<a href='/AIV/19/41/1'>Ps 41:1</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 17001017,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 1,
       "verse": 17,
       "text": "I would give my bread to the hungry, clothing to the naked, and, if I saw the dead among my people thrown outside the walls of Nineveh, I would bury them.",
       "links": "<a href='/AIV/23/58/7'>Isa 58:7</a>; <a href='/AIV/40/25/35-36'>Matt 25:35-36</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 17001018,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 1,
       "verse": 18,
       "text": "I also buried any whom King Sennacherib put to death when he came fleeing from Judea in those days of judgment that the king of heaven executed upon him because of his blasphemies. For in his anger he put to death many Israelites; but I would secretly remove the bodies and bury them. So when Sennacherib looked for them he could not find them.",
       "links": "<a href='/AIV/19/37/28'>Ps 37:28</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 17001019,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 1,
       "verse": 19,
       "text": "Then one of the people of Nineveh told the king about me, and I hid myself, realizing I was being sought to be put to death.",
       "links": "<a href='/AIV/09/19/2'>1 Sam 19:2</a>",
@@ -237,11 +144,6 @@
     },
     {
       "pk": 17001020,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 1,
       "verse": 20,
       "text": "All my possessions were seized and nothing was left to me except my wife Anna and my son Tobias.",
       "links": "<a href='/AIV/18/1/21'>Job 1:21</a>",
@@ -249,11 +151,6 @@
     },
     {
       "pk": 17001021,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 1,
       "verse": 21,
       "text": "But forty days later, Sennacherib was killed by his two sons, and they fled to the mountains of Ararat. Then Esarhaddon his son became king, and he appointed Ahikar, the son of my brother Anael, over all the accounts of his kingdom.",
       "links": "<a href='/AIV/12/19/37'>2 Kgs 19:37</a>",
@@ -262,38 +159,10 @@
     },
     {
       "pk": 17001022,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 1,
       "verse": 22,
       "text": "Ahikar then interceded for me, and I returned to Nineveh, for Ahikar was chief cupbearer, keeper of the seal, controller of the accounts, and treasurer under Esarhaddon the king. And Ahikar was my nephew and maintained good relations with me.",
       "links": "<a href='/AIV/40/10/32'>Matt 10:32</a>",
       "comment": "Ahikar’s intercession models the power of faithful mediation, which foreshadows Christ’s mediation and the importance of intercessory prayer among the faithful."
-    }
-  ],
-  "translatedAt": "2025-12-29T00:37:07.816Z",
-  "sections": [
-    {
-      "title": "Tobit’s Ancestry and Faithfulness",
-      "startVerse": 1,
-      "endVerse": 9
-    },
-    {
-      "title": "Tobit in Captivity and Service to the King",
-      "startVerse": 10,
-      "endVerse": 15
-    },
-    {
-      "title": "Charity and Persecution under Sennacherib",
-      "startVerse": 16,
-      "endVerse": 20
-    },
-    {
-      "title": "Restoration through Ahikar",
-      "startVerse": 21,
-      "endVerse": 22
     }
   ]
 }

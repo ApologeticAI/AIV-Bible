@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 21,
   "verses": [
     {
       "pk": 23021001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 21,
       "verse": 1,
       "text": "O Lord, the king rejoices in Your strength; how greatly he celebrates Your deliverance!",
       "links": "<a href='/AIV/19/20/6'>Ps 20:6</a>; <a href='/AIV/19/28/7'>Ps 28:7</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23021002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 21,
       "verse": 2,
       "text": "You have given him his heart’s desire and have not withheld the request of his lips. Selah.",
       "links": "<a href='/AIV/19/37/4'>Ps 37:4</a>; <a href='/AIV/10/7/27'>2 Sam 7:27</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23021003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 21,
       "verse": 3,
       "text": "You come to meet him with rich blessings; upon his head You place a crown of pure gold.",
       "links": "<a href='/AIV/13/29/25'>1 Chron 29:25</a>; <a href='/AIV/19/132/18'>Ps 132:18</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23021004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 21,
       "verse": 4,
       "text": "He asked You for life, and You gave it to him—length of days forever and ever.",
       "links": "<a href='/AIV/19/61/6-7'>Ps 61:6-7</a>; <a href='/AIV/19/16/10-11'>Ps 16:10-11</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23021005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 21,
       "verse": 5,
       "text": "His glory is great through Your salvation; You have bestowed on him splendor and majesty.",
       "links": "<a href='/AIV/19/8/5'>Ps 8:5</a>; <a href='/AIV/19/45/3'>Ps 45:3</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23021006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 21,
       "verse": 6,
       "text": "For You make him most blessed forever; You make him glad with the joy of Your presence.",
       "links": "<a href='/AIV/19/16/11'>Ps 16:11</a>; <a href='/AIV/19/89/28'>Ps 89:28</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23021007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 21,
       "verse": 7,
       "text": "For the king trusts in the Lord; through the steadfast love of the Most High, he will not be shaken.",
       "links": "<a href='/AIV/19/16/8'>Ps 16:8</a>; <a href='/AIV/19/112/6-7'>Ps 112:6-7</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 23021008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 21,
       "verse": 8,
       "text": "Your hand will find all Your enemies; Your right hand will seize those who hate You.",
       "links": "<a href='/AIV/19/2/9'>Ps 2:9</a>; <a href='/AIV/19/110/5'>Ps 110:5</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 23021009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 21,
       "verse": 9,
       "text": "You will make them like a blazing oven at the time of Your appearing. The Lord will swallow them up in His wrath, and fire will consume them.",
       "links": "<a href='/AIV/19/18/8'>Ps 18:8</a>; <a href='/AIV/23/66/15-16'>Isa 66:15-16</a>; <a href='/AIV/40/13/42'>Matt 13:42</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 23021010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 21,
       "verse": 10,
       "text": "You will destroy their offspring from the earth, and their descendants from among the children of men.",
       "links": "<a href='/AIV/19/109/13'>Ps 109:13</a>; <a href='/AIV/18/18/19'>Job 18:19</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 23021011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 21,
       "verse": 11,
       "text": "Though they intend evil against You and devise wicked plans, they cannot succeed.",
       "links": "<a href='/AIV/19/2/1'>Ps 2:1</a>; <a href='/AIV/19/33/10'>Ps 33:10</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 23021012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 21,
       "verse": 12,
       "text": "For You will put them to flight; You will aim at their faces with Your bow.",
       "links": "<a href='/AIV/19/7/12-13'>Ps 7:12-13</a>; <a href='/AIV/19/18/14'>Ps 18:14</a>",
@@ -152,34 +94,11 @@
     },
     {
       "pk": 23021013,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 21,
       "verse": 13,
       "text": "Be exalted, O Lord, in Your strength! We will sing and praise Your power.",
       "links": "<a href='/AIV/19/18/46'>Ps 18:46</a>; <a href='/AIV/19/22/22'>Ps 22:22</a>",
       "comment": "The psalm closes in doxology, focusing worship on God’s power and exaltation, a theme picked up in the New Testament’s worship of Christ, the victorious King (Phil 2:11; Rev 5:12-13).",
       "sectionHeader": "Praise for God's Power"
-    }
-  ],
-  "translatedAt": "2025-12-24T06:05:29.170Z",
-  "sections": [
-    {
-      "title": "Thanksgiving for Victory and Kingship",
-      "startVerse": 1,
-      "endVerse": 7
-    },
-    {
-      "title": "Judgment on the King’s Enemies",
-      "startVerse": 8,
-      "endVerse": 12
-    },
-    {
-      "title": "Praise for God's Power",
-      "startVerse": 13,
-      "endVerse": 13
     }
   ]
 }

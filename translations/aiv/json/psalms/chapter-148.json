@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 148,
   "verses": [
     {
       "pk": 23148001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 148,
       "verse": 1,
       "text": "Praise the Lord from the heavens; praise Him in the heights above.",
       "links": "<a href='/AIV/19/103/20'>Ps. 103:20</a>; <a href='/AIV/19/19/1'>Ps. 19:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23148002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 148,
       "verse": 2,
       "text": "Praise Him, all His angels; praise Him, all His hosts.",
       "links": "<a href='/AIV/19/103/21'>Ps. 103:21</a>; <a href='/AIV/19/29/1'>Ps. 29:1</a>; <a href='/AIV/66/4/8'>Rev. 4:8</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23148003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 148,
       "verse": 3,
       "text": "Praise Him, sun and moon; praise Him, all you shining stars.",
       "links": "<a href='/AIV/19/19/1'>Ps. 19:1</a>; <a href='/AIV/01/1/16'>Gen. 1:16</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23148004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 148,
       "verse": 4,
       "text": "Praise Him, you highest heavens, and you waters above the skies.",
       "links": "<a href='/AIV/01/1/7'>Gen. 1:7</a>; <a href='/AIV/19/104/3'>Ps. 104:3</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23148005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 148,
       "verse": 5,
       "text": "Let them praise the name of the Lord, for He commanded and they were created.",
       "links": "<a href='/AIV/19/33/6-9'>Ps. 33:6-9</a>; <a href='/AIV/19/104/30'>Ps. 104:30</a>; <a href='/AIV/01/1/3'>Gen. 1:3</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23148006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 148,
       "verse": 6,
       "text": "And He established them forever and ever; He gave a decree, and it shall not pass away.",
       "links": "<a href='/AIV/19/119/90-91'>Ps. 119:90-91</a>; <a href='/AIV/01/8/22'>Gen. 8:22</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23148007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 148,
       "verse": 7,
       "text": "Praise the Lord from the earth, you great sea creatures and all ocean depths,",
       "links": "<a href='/AIV/19/104/25-26'>Ps. 104:25-26</a>; <a href='/AIV/01/1/21'>Gen. 1:21</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 23148008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 148,
       "verse": 8,
       "text": "Fire and hail, snow and clouds; stormy wind fulfilling His command;",
       "links": "<a href='/AIV/19/147/16-18'>Ps. 147:16-18</a>; <a href='/AIV/19/104/4'>Ps. 104:4</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 23148009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 148,
       "verse": 9,
       "text": "Mountains and all hills, fruit trees and all cedars;",
       "links": "<a href='/AIV/19/65/12-13'>Ps. 65:12-13</a>; <a href='/AIV/19/104/16'>Ps. 104:16</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 23148010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 148,
       "verse": 10,
       "text": "Wild animals and all livestock, crawling creatures and flying birds;",
       "links": "<a href='/AIV/01/1/24-25'>Gen. 1:24-25</a>; <a href='/AIV/19/104/18-20'>Ps. 104:18-20</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 23148011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 148,
       "verse": 11,
       "text": "Kings of the earth and all peoples, princes and all judges of the earth,",
       "links": "<a href='/AIV/19/2/10-12'>Ps. 2:10-12</a>; <a href='/AIV/19/72/11'>Ps. 72:11</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 23148012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 148,
       "verse": 12,
       "text": "Young men and young women, old men and children together—",
       "links": "<a href='/AIV/19/145/4'>Ps. 145:4</a>; <a href='/AIV/19/96/1'>Ps. 96:1</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 23148013,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 148,
       "verse": 13,
       "text": "Let them praise the name of the Lord, for His name alone is exalted; His majesty is above earth and heaven.",
       "links": "<a href='/AIV/19/8/1'>Ps. 8:1</a>; <a href='/AIV/19/113/4'>Ps. 113:4</a>; <a href='/AIV/66/5/13'>Rev. 5:13</a>",
@@ -164,28 +101,10 @@
     },
     {
       "pk": 23148014,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 148,
       "verse": 14,
       "text": "He has raised up a horn for His people, praise for all His faithful, for the people of Israel, the people close to Him. Praise the Lord!",
       "links": "<a href='/AIV/19/132/17'>Ps. 132:17</a>; <a href='/AIV/42/1/69'>Luke 1:69</a>; <a href='/AIV/19/149/1'>Ps. 149:1</a>",
       "comment": "‘Horn’ is a symbol of strength and salvation, anticipating the messianic hope fulfilled in Jesus (see Luke 1:69). Israel’s close relationship to God is spiritualized in the Church, composed of the faithful who are brought near by redemption through Christ."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:49:41.775Z",
-  "sections": [
-    {
-      "title": "Praise to God from the Heavens",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "Praise to God from the Earth",
-      "startVerse": 7,
-      "endVerse": 14
     }
   ]
 }

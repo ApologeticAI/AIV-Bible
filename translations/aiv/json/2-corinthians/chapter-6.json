@@ -1,16 +1,13 @@
 {
-  "book": 54,
+  "translation": "AIV",
+  "bookId": "2-corinthians",
   "bookName": "2 Corinthians",
-  "bookAbbreviation": "2Cor",
+  "bookAbbreviation": "2 Cor",
+  "bookNumber": 54,
   "chapter": 6,
   "verses": [
     {
       "pk": 54006001,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 6,
       "verse": 1,
       "text": "Working together with Him, we urge you not to receive God’s grace in vain.",
       "links": "<a href='/AIV/45/3/24'>Rom. 3:24</a>; <a href='/AIV/47/5/20'>2Cor. 5:20</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 54006002,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 6,
       "verse": 2,
       "text": "For He says, 'At the acceptable time I listened to you, and in the day of salvation I helped you.' Look, now is the acceptable time; now is the day of salvation.",
       "links": "<a href='/AIV/23/49/8'>Isa. 49:8</a>; <a href='/AIV/45/13/11'>Rom. 13:11</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 54006003,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 6,
       "verse": 3,
       "text": "We put no obstacle in anyone’s way, so that our ministry will not be blamed.",
       "links": "<a href='/AIV/44/24/16'>Acts 24:16</a>; <a href='/AIV/54/3/7'>1Tim. 3:7</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 54006004,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 6,
       "verse": 4,
       "text": "Rather, in everything we commend ourselves as servants of God: in great endurance, in afflictions, in hardships, in distresses,",
       "links": "<a href='/AIV/47/11/23-28'>2Cor. 11:23-28</a>; <a href='/AIV/50/1/29'>Phil. 1:29</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 54006005,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 6,
       "verse": 5,
       "text": "in beatings, in imprisonments, in riots, in labors, in sleepless nights, in times of hunger;",
       "links": "<a href='/AIV/44/16/22-23'>Acts 16:22-23</a>; <a href='/AIV/47/11/27'>2Cor. 11:27</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 54006006,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 6,
       "verse": 6,
       "text": "in purity, in knowledge, in patience, in kindness, in the Holy Spirit, in genuine love,",
       "links": "<a href='/AIV/46/12/9'>1Cor. 12:9</a>; <a href='/AIV/48/5/22'>Gal. 5:22</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 54006007,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 6,
       "verse": 7,
       "text": "in the word of truth and the power of God; with the weapons of righteousness in the right hand and in the left;",
       "links": "<a href='/AIV/49/6/13-17'>Eph. 6:13-17</a>; <a href='/AIV/47/4/2'>2Cor. 4:2</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 54006008,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 6,
       "verse": 8,
       "text": "through glory and dishonor, through slander and praise. We are considered as deceivers, yet true;",
       "links": "<a href='/AIV/44/28/22'>Acts 28:22</a>; <a href='/AIV/50/2/8'>Phil. 2:8</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 54006009,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 6,
       "verse": 9,
       "text": "as unknown, yet well known; as dying, and see—we live; as punished, yet not killed;",
       "links": "<a href='/AIV/47/4/10-11'>2Cor. 4:10-11</a>; <a href='/AIV/19/118/18'>Ps. 118:18</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 54006010,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 6,
       "verse": 10,
       "text": "as sorrowful yet always rejoicing, as poor yet making many rich, as having nothing yet possessing everything.",
       "links": "<a href='/AIV/40/5/3'>Matt. 5:3</a>; <a href='/AIV/47/8/9'>2Cor. 8:9</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 54006011,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 6,
       "verse": 11,
       "text": "We have spoken freely to you, Corinthians; our hearts are open wide.",
       "links": "<a href='/AIV/47/3/2'>2Cor. 3:2</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 54006012,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 6,
       "verse": 12,
       "text": "You are not restricted by us, but you are restricted in your own affections.",
       "links": "<a href='/AIV/47/7/2'>2Cor. 7:2</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 54006013,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 6,
       "verse": 13,
       "text": "Now, as a fair exchange—I speak as to children—open wide your hearts also.",
       "links": "<a href='/AIV/47/12/14'>2Cor. 12:14</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 54006014,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 6,
       "verse": 14,
       "text": "Do not be unequally yoked with unbelievers. For what partnership is there between righteousness and lawlessness? Or what fellowship does light have with darkness?",
       "links": "<a href='/AIV/05/22/10'>Deut. 22:10</a>; <a href='/AIV/49/5/7-11'>Eph. 5:7-11</a>",
@@ -178,11 +110,6 @@
     },
     {
       "pk": 54006015,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 6,
       "verse": 15,
       "text": "What agreement does Christ have with Belial? Or what does a believer share with an unbeliever?",
       "links": "<a href='/AIV/09/2/12'>1Sam. 2:12</a>; <a href='/AIV/46/10/21'>1Cor. 10:21</a>",
@@ -190,11 +117,6 @@
     },
     {
       "pk": 54006016,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 6,
       "verse": 16,
       "text": "And what agreement has the temple of God with idols? For we are the temple of the living God, just as God said: 'I will dwell in them and walk among them, and I will be their God, and they will be my people.'",
       "links": "<a href='/AIV/03/26/11-12'>Lev. 26:11-12</a>; <a href='/AIV/24/31/33'>Jer. 31:33</a>; <a href='/AIV/26/37/27'>Ezek. 37:27</a>; <a href='/AIV/46/3/16'>1Cor. 3:16</a>",
@@ -202,11 +124,6 @@
     },
     {
       "pk": 54006017,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 6,
       "verse": 17,
       "text": "'Therefore, come out from among them and be separate,' says the Lord. 'Touch no unclean thing, and I will receive you.'",
       "links": "<a href='/AIV/23/52/11'>Isa. 52:11</a>; <a href='/AIV/03/11/45'>Lev. 11:45</a>",
@@ -214,38 +131,10 @@
     },
     {
       "pk": 54006018,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 6,
       "verse": 18,
       "text": "'And I will be a father to you, and you shall be my sons and daughters,' says the Lord Almighty.",
       "links": "<a href='/AIV/10/7/14'>2Sam. 7:14</a>; <a href='/AIV/23/43/6'>Isa. 43:6</a>; <a href='/AIV/43/1/12'>John 1:12</a>",
       "comment": "Adoption as children of God fulfills Old Testament types (2Sam. 7:14; Isa. 43:6), realized now in Christ (see John 1:12). The promise points to the intimate family relationship offered to believers, culminating in union with God through participation in His life."
-    }
-  ],
-  "translatedAt": "2025-12-24T11:55:07.139Z",
-  "sections": [
-    {
-      "title": "Exhortation to Live Worthily of God's Grace",
-      "startVerse": 1,
-      "endVerse": 2
-    },
-    {
-      "title": "The Marks of Paul’s Apostolic Ministry",
-      "startVerse": 3,
-      "endVerse": 10
-    },
-    {
-      "title": "A Plea for Mutual Openness",
-      "startVerse": 11,
-      "endVerse": 13
-    },
-    {
-      "title": "Call to Holiness and Separation from Unbelievers",
-      "startVerse": 14,
-      "endVerse": 18
     }
   ]
 }

@@ -1,16 +1,13 @@
 {
-  "book": 12,
+  "translation": "AIV",
+  "bookId": "2-kings",
   "bookName": "2 Kings",
-  "bookAbbreviation": "2Kgs",
+  "bookAbbreviation": "2 Kgs",
+  "bookNumber": 12,
   "chapter": 16,
   "verses": [
     {
       "pk": 12016001,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 16,
       "verse": 1,
       "text": "In the seventeenth year of Pekah son of Remaliah, Ahaz son of Jotham, king of Judah, began to reign.",
       "links": "<a href='/AIV/12/15/32'>2 Kgs 15:32</a>; <a href='/AIV/14/27/9'>2 Chr 27:9</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 12016002,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 16,
       "verse": 2,
       "text": "Ahaz was twenty years old when he began to reign, and he reigned sixteen years in Jerusalem. He did not do what was right in the eyes of the LORD his God, as David his father had done.",
       "links": "<a href='/AIV/12/15/3'>2 Kgs 15:3</a>; <a href='/AIV/14/28/1'>2 Chr 28:1</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 12016003,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 16,
       "verse": 3,
       "text": "But he walked in the ways of the kings of Israel. He even made his son pass through the fire, according to the abominations of the nations whom the LORD had driven out from before the sons of Israel.",
       "links": "<a href='/AIV/12/21/6'>2 Kgs 21:6</a>; <a href='/AIV/3/18/21'>Lev 18:21</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 12016004,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 16,
       "verse": 4,
       "text": "He sacrificed and burned incense on the high places, on the hills, and under every green tree.",
       "links": "<a href='/AIV/24/3/6'>Jer 3:6</a>; <a href='/AIV/5/12/2'>Deut 12:2</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 12016005,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 16,
       "verse": 5,
       "text": "Then Rezin king of Aram and Pekah son of Remaliah, king of Israel, came up to wage war against Jerusalem. They besieged Ahaz, but could not overcome him.",
       "links": "<a href='/AIV/23/7/1'>Isa 7:1</a>; <a href='/AIV/14/28/5'>2 Chr 28:5</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 12016006,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 16,
       "verse": 6,
       "text": "At that time, Rezin king of Aram recovered Elath for Aram, and drove out the people of Judah. The Edomites came to Elath and lived there to this day.",
       "links": "<a href='/AIV/12/14/22'>2 Kgs 14:22</a>; <a href='/AIV/14/28/17'>2 Chr 28:17'</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 12016007,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 16,
       "verse": 7,
       "text": "So Ahaz sent messengers to Tiglath-Pileser king of Assyria, saying, 'I am your servant and your son. Come up and deliver me from the hand of the king of Aram and from the king of Israel, who are rising up against me.'",
       "links": "<a href='/AIV/14/28/16'>2 Chr 28:16</a>; <a href='/AIV/23/8/4'>Isa 8:4</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 12016008,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 16,
       "verse": 8,
       "text": "Ahaz took the silver and gold that was found in the house of the LORD and in the treasuries of the king’s house, and sent it as a present to the king of Assyria.",
       "links": "<a href='/AIV/12/12/18'>2 Kgs 12:18</a>; <a href='/AIV/14/28/21'>2 Chr 28:21</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 12016009,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 16,
       "verse": 9,
       "text": "So the king of Assyria listened to him. The king of Assyria went against Damascus and captured it, carried its people captive to Kir, and killed Rezin.",
       "links": "<a href='/AIV/23/8/4'>Isa 8:4</a>; <a href='/AIV/30/1/5'>Amos 1:5</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 12016010,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 16,
       "verse": 10,
       "text": "Then King Ahaz went to Damascus to meet Tiglath-Pileser king of Assyria, and saw an altar that was in Damascus. King Ahaz sent to Uriah the priest the pattern of the altar and its design, exactly as he had seen it.",
       "links": "<a href='/AIV/12/16/16'>2 Kgs 16:16</a>; <a href='/AIV/3/1/7-8'>Lev 1:7-8</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 12016011,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 16,
       "verse": 11,
       "text": "Uriah the priest built an altar according to all that King Ahaz had sent from Damascus. So Uriah the priest made it before King Ahaz arrived back from Damascus.",
       "links": "<a href='/AIV/12/16/16'>2 Kgs 16:16</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 12016012,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 16,
       "verse": 12,
       "text": "When the king came from Damascus, the king viewed the altar. Then the king approached the altar and offered sacrifices on it.",
       "links": "<a href='/AIV/3/9/7'>Lev 9:7</a>; <a href='/AIV/12/12/3'>2 Kgs 12:3</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 12016013,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 16,
       "verse": 13,
       "text": "He burned his burnt offering and his grain offering and poured out his drink offering, and sprinkled the blood of his peace offerings on the altar.",
       "links": "<a href='/AIV/3/1/10-13'>Lev 1:10-13</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 12016014,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 16,
       "verse": 14,
       "text": "The bronze altar that was before the LORD, he brought from the front of the house—from between his new altar and the house of the LORD—and placed it on the north side of his altar.",
       "links": "<a href='/AIV/2/27/1-2'>Exod 27:1-2</a>; <a href='/AIV/12/8/22'>2 Kgs 8:22</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 12016015,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 16,
       "verse": 15,
       "text": "Then King Ahaz commanded Uriah the priest, saying, 'On the great altar burn the morning burnt offering and the evening grain offering, the king’s burnt offering and his grain offering, and the burnt offering of all the people of the land, their grain offering and their drink offerings. Also, sprinkle on it all the blood of the burnt offering and all the blood of the sacrifice. But the bronze altar shall be for me to inquire by.'",
       "links": "<a href='/AIV/4/28/1-8'>Num 28:1-8</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 12016016,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 16,
       "verse": 16,
       "text": "Uriah the priest did all that King Ahaz commanded.",
       "links": "<a href='/AIV/12/16/11'>2 Kgs 16:11</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 12016017,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 16,
       "verse": 17,
       "text": "King Ahaz cut off the frames of the stands, and removed the basins from them; he took down the sea from the bronze oxen that were under it, and put it on a stone pedestal.",
       "links": "<a href='/AIV/11/7/27-39'>1 Kgs 7:27-39</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 12016018,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 16,
       "verse": 18,
       "text": "He removed the Sabbath canopy that had been built in the house, and he took away the king’s outer entrance to the house of the LORD, because of the king of Assyria.",
       "links": "<a href='/AIV/26/8/14-16'>Ezek 8:14-16</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 12016019,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 16,
       "verse": 19,
       "text": "Now the rest of the acts of Ahaz which he did, are they not written in the Book of the Chronicles of the Kings of Judah?",
       "links": "<a href='/AIV/14/28/22-27'>2 Chr 28:22-27</a>",
@@ -238,38 +145,10 @@
     },
     {
       "pk": 12016020,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 16,
       "verse": 20,
       "text": "So Ahaz slept with his fathers and was buried with his ancestors in the city of David; and Hezekiah his son reigned in his place.",
       "links": "<a href='/AIV/23/38/1'>Isa 38:1</a>; <a href='/AIV/14/29/1'>2 Chr 29:1</a>",
       "comment": "Hezekiah’s succession brings hope for renewal, as he is known for restoration. The reference to burial in the city of David ties to the ongoing messianic promise and continuity in the Davidic line (see <a href='/AIV/42/3/31'>Luke 3:31</a>)."
-    }
-  ],
-  "translatedAt": "2025-12-24T03:57:00.074Z",
-  "sections": [
-    {
-      "title": "The Reign and Wickedness of Ahaz",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "Ahaz Seeks Assyrian Aid",
-      "startVerse": 7,
-      "endVerse": 9
-    },
-    {
-      "title": "Ahaz’s Idolatry and Alteration of the Temple",
-      "startVerse": 10,
-      "endVerse": 18
-    },
-    {
-      "title": "Death of Ahaz",
-      "startVerse": 19,
-      "endVerse": 20
     }
   ]
 }

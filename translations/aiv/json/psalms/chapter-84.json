@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 84,
   "verses": [
     {
       "pk": 23084001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 84,
       "verse": 1,
       "text": "How lovely are your dwelling places, LORD of hosts!",
       "links": "<a href='/AIV/23/27/4'>Ps. 27:4</a>; <a href='/AIV/23/46/4'>Ps. 46:4</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23084002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 84,
       "verse": 2,
       "text": "My soul longs, yes, even faints, for the courts of the LORD; my heart and my flesh cry out for the living God.",
       "links": "<a href='/AIV/23/42/2'>Ps. 42:2</a>; <a href='/AIV/23/63/1'>Ps. 63:1</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23084003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 84,
       "verse": 3,
       "text": "Even the sparrow finds a home, and the swallow a nest for herself where she may lay her young—at your altars, LORD of hosts, my King and my God.",
       "links": "<a href='/AIV/23/5/11'>Ps. 5:11</a>; <a href='/AIV/23/36/7'>Ps. 36:7</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23084004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 84,
       "verse": 4,
       "text": "Blessed are those who dwell in your house; they will always be praising you. Selah.",
       "links": "<a href='/AIV/23/65/4'>Ps. 65:4</a>; <a href='/AIV/23/135/1-2'>Ps. 135:1-2</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23084005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 84,
       "verse": 5,
       "text": "Blessed is the man whose strength is in you, whose heart is set on pilgrimage.",
       "links": "<a href='/AIV/23/28/7'>Ps. 28:7</a>; <a href='/AIV/23/119/1-2'>Ps. 119:1-2</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 23084006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 84,
       "verse": 6,
       "text": "As they pass through the Valley of Baca, they make it a place of springs; the early rain also covers it with blessings.",
       "links": "<a href='/AIV/23/23/4'>Ps. 23:4</a>; <a href='/AIV/23/107/35'>Ps. 107:35</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 23084007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 84,
       "verse": 7,
       "text": "They go from strength to strength; each one appears before God in Zion.",
       "links": "<a href='/AIV/23/42/2'>Ps. 42:2</a>; <a href='/AIV/58/12/22'>Heb. 12:22</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 23084008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 84,
       "verse": 8,
       "text": "LORD God of hosts, listen to my prayer; give ear, O God of Jacob! Selah.",
       "links": "<a href='/AIV/23/59/5'>Ps. 59:5</a>; <a href='/AIV/23/80/1'>Ps. 80:1</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 23084009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 84,
       "verse": 9,
       "text": "Look upon our shield, O God, and behold the face of your anointed.",
       "links": "<a href='/AIV/23/2/2'>Ps. 2:2</a>; <a href='/AIV/23/89/38'>Ps. 89:38</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 23084010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 84,
       "verse": 10,
       "text": "For a day in your courts is better than a thousand elsewhere. I would rather stand at the threshold of the house of my God than dwell in the tents of wickedness.",
       "links": "<a href='/AIV/23/27/4'>Ps. 27:4</a>; <a href='/AIV/23/26/8'>Ps. 26:8</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 23084011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 84,
       "verse": 11,
       "text": "For the LORD God is a sun and shield; the LORD bestows grace and glory; he withholds no good thing from those who walk uprightly.",
       "links": "<a href='/AIV/23/84/9'>Ps. 84:9</a>; <a href='/AIV/23/3/3'>Ps. 3:3</a>",
@@ -141,33 +88,10 @@
     },
     {
       "pk": 23084012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 84,
       "verse": 12,
       "text": "LORD of hosts, how blessed is the man who trusts in you!",
       "links": "<a href='/AIV/23/2/12'>Ps. 2:12</a>; <a href='/AIV/23/34/8'>Ps. 34:8</a>",
       "comment": "The Psalm ends by highlighting the blessing of faith—trust in God brings true happiness, drawing believers into deeper fellowship with God, which forms the foundation of both prayer and the entire spiritual life."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:29:00.741Z",
-  "sections": [
-    {
-      "title": "Longing for the House of the Lord",
-      "startVerse": 1,
-      "endVerse": 4
-    },
-    {
-      "title": "Blessedness of Those Who Trust in God",
-      "startVerse": 5,
-      "endVerse": 7
-    },
-    {
-      "title": "Prayer for God’s Favor",
-      "startVerse": 8,
-      "endVerse": 12
     }
   ]
 }

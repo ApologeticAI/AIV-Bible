@@ -1,16 +1,13 @@
 {
-  "book": 6,
+  "translation": "AIV",
+  "bookId": "joshua",
   "bookName": "Joshua",
   "bookAbbreviation": "Josh",
+  "bookNumber": 6,
   "chapter": 5,
   "verses": [
     {
       "pk": 6005001,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 5,
       "verse": 1,
       "text": "When all the kings of the Amorites west of the Jordan, and all the kings of the Canaanites who were by the sea, heard how the LORD had dried up the waters of the Jordan before the people of Israel until they had crossed over, their hearts melted; no courage remained in them because of the Israelites.",
       "links": "<a href='/AIV/02/15/14'>Ex. 15:14</a>; <a href='/AIV/06/2/10'>Josh. 2:10-11</a>",
@@ -18,11 +15,6 @@
     },
     {
       "pk": 6005002,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 5,
       "verse": 2,
       "text": "At that time the LORD said to Joshua, 'Make for yourself flint knives and circumcise again the sons of Israel a second time.'",
       "links": "<a href='/AIV/01/17/10'>Gen. 17:10-14</a>; <a href='/AIV/02/4/24-26'>Ex. 4:24-26</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 6005003,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 5,
       "verse": 3,
       "text": "So Joshua made flint knives and circumcised the sons of Israel at Gibeath-haaraloth.",
       "links": "<a href='/AIV/06/5/8'>Josh. 5:8</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 6005004,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 5,
       "verse": 4,
       "text": "This is the reason Joshua circumcised them: all the people who came out of Egypt, all the males, all the men of war, had died in the wilderness after they had come out of Egypt.",
       "links": "<a href='/AIV/04/14/29-30'>Num. 14:29-30</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 6005005,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 5,
       "verse": 5,
       "text": "For all the people who came out had been circumcised, but all the people born in the wilderness along the way after leaving Egypt had not been circumcised.",
       "links": "<a href='/AIV/01/17/12'>Gen. 17:12</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 6005006,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 5,
       "verse": 6,
       "text": "For the people of Israel walked forty years in the wilderness, until all the nation, the men of war who came out of Egypt, perished, because they did not obey the voice of the LORD; the LORD swore to them that He would not let them see the land He promised to their ancestors—a land flowing with milk and honey.",
       "links": "<a href='/AIV/04/14/33-35'>Num. 14:33-35</a>; <a href='/AIV/02/3/8'>Ex. 3:8</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 6005007,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 5,
       "verse": 7,
       "text": "And it was their children, whom He raised up in their place, that Joshua circumcised. For they were uncircumcised because they had not been circumcised on the way.",
       "links": "<a href='/AIV/06/5/4-5'>Josh. 5:4-5</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 6005008,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 5,
       "verse": 8,
       "text": "When all the nation had completed circumcision, they remained in their places in the camp until they were healed.",
       "links": "<a href='/AIV/06/5/2-3'>Josh. 5:2-3</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 6005009,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 5,
       "verse": 9,
       "text": "The LORD said to Joshua, 'Today I have rolled away from you the reproach of Egypt.' So the name of that place is called Gilgal to this day.",
       "links": "<a href='/AIV/09/7/16'>1 Sam. 7:16</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 6005010,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 5,
       "verse": 10,
       "text": "While the people of Israel were encamped at Gilgal, they kept the Passover on the fourteenth day of the month, at evening, on the plains of Jericho.",
       "links": "<a href='/AIV/02/12/6-8'>Ex. 12:6-8</a>; <a href='/AIV/04/9/5'>Num. 9:5</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 6005011,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 5,
       "verse": 11,
       "text": "The day after the Passover, on that very day, they ate some of the produce of the land—unleavened bread and roasted grain.",
       "links": "<a href='/AIV/02/12/39'>Ex. 12:39</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 6005012,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 5,
       "verse": 12,
       "text": "And the manna ceased the day after they ate from the produce of the land. There was no longer manna for the Israelites, but they ate of the yield of the land of Canaan that year.",
       "links": "<a href='/AIV/02/16/35'>Ex. 16:35</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 6005013,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 5,
       "verse": 13,
       "text": "When Joshua was near Jericho, he looked up and saw a Man standing opposite him with His sword drawn in His hand. Joshua approached Him and said, 'Are You for us or for our adversaries?'",
       "links": "<a href='/AIV/01/18/2'>Gen. 18:2</a>; <a href='/AIV/07/6/11-12'>Judg. 6:11-12</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 6005014,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 5,
       "verse": 14,
       "text": "He replied, 'No; but I am the commander of the army of the LORD. Now I have come.' Then Joshua fell on his face to the ground and worshiped, and said to Him, 'What does my lord say to His servant?'",
       "links": "<a href='/AIV/02/3/2'>Ex. 3:2</a>; <a href='/AIV/06/6/2'>Josh. 6:2</a>",
@@ -177,33 +109,10 @@
     },
     {
       "pk": 6005015,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 5,
       "verse": 15,
       "text": "The commander of the LORD's army said to Joshua, 'Take off your sandals from your feet, for the place where you are standing is holy.' And Joshua did so.",
       "links": "<a href='/AIV/02/3/5'>Ex. 3:5</a>; <a href='/AIV/01/28/16'>Gen. 28:16</a>",
       "comment": "Echoing the call to Moses at the burning bush, this moment underlines God's presence in sacred space. Joshua's obedience models reverence, linking to themes of sacred tradition and the honoring of holy places—an enduring principle in worship and sacramental life."
-    }
-  ],
-  "translatedAt": "2025-12-24T02:18:46.714Z",
-  "sections": [
-    {
-      "title": "The Circumcision at Gilgal",
-      "startVerse": 2,
-      "endVerse": 9
-    },
-    {
-      "title": "The Passover Celebrated at Gilgal",
-      "startVerse": 10,
-      "endVerse": 12
-    },
-    {
-      "title": "The Commander of the Lord Appears to Joshua",
-      "startVerse": 13,
-      "endVerse": 15
     }
   ]
 }

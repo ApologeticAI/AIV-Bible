@@ -1,16 +1,13 @@
 {
-  "book": 30,
+  "translation": "AIV",
+  "bookId": "jeremiah",
   "bookName": "Jeremiah",
   "bookAbbreviation": "Jer",
+  "bookNumber": 30,
   "chapter": 24,
   "verses": [
     {
       "pk": 30024001,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 24,
       "verse": 1,
       "text": "After Nebuchadnezzar king of Babylon took Jeconiah son of Jehoiakim, king of Judah, and the officials, along with the craftsmen and the metalworkers from Jerusalem and brought them to Babylon, the LORD showed me two baskets of figs set before the temple of the LORD.",
       "links": "<a href='/AIV/12/24/15-16'>2 Kings 24:15-16</a>; <a href='/AIV/14/36/10-20'>2 Chron. 36:10-20</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 30024002,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 24,
       "verse": 2,
       "text": "One basket had very good figs, like those first ripe; but the other basket had very bad figs, so bad they could not be eaten.",
       "links": "<a href='/AIV/23/5/1-7'>Isa. 5:1-7</a>; <a href='/AIV/40/21/18-19'>Matt. 21:18-19</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 30024003,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 24,
       "verse": 3,
       "text": "Then the LORD said to me, 'What do you see, Jeremiah?' I answered, 'Figs. The good figs are very good, but the bad ones are so bad they cannot be eaten.'",
       "links": "<a href='/AIV/26/8/6'>Ezek. 8:6</a>; <a href='/AIV/30/7/8'>Amos 7:8</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 30024004,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 24,
       "verse": 4,
       "text": "Then the word of the LORD came to me:",
       "links": "<a href='/AIV/30/1/4'>Jer. 1:4</a>; <a href='/AIV/33/3/16'>Ezek. 3:16</a>; <a href='/AIV/29/38/4'>Isa. 38:4</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 30024005,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 24,
       "verse": 5,
       "text": "'This is what the LORD, the God of Israel, says: As for the good figs, so I regard as good the exiles from Judah, whom I have sent away from this place to the land of the Chaldeans.'",
       "links": "<a href='/AIV/24/29/4-14'>Jer. 29:4-14</a>; <a href='/AIV/05/30/3-5'>Deut. 30:3-5</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 30024006,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 24,
       "verse": 6,
       "text": "'I will set my eyes on them for good, and I will bring them back to this land. I will build them up and not tear them down; I will plant them and not uproot them.'",
       "links": "<a href='/AIV/24/31/28'>Jer. 31:28</a>; <a href='/AIV/24/32/41'>Jer. 32:41</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 30024007,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 24,
       "verse": 7,
       "text": "'I will give them a heart to know Me, that I am the LORD. They will be My people, and I will be their God, for they will return to Me with all their heart.'",
       "links": "<a href='/AIV/24/31/33'>Jer. 31:33</a>; <a href='/AIV/24/32/38'>Jer. 32:38</a>; <a href='/AIV/26/11/19'>Ezek. 11:19</a>; <a href='/AIV/43/17/3'>John 17:3</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 30024008,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 24,
       "verse": 8,
       "text": "'But as for the bad figs, so bad they cannot be eaten—this is what the LORD says—so will I treat Zedekiah king of Judah, his officials, and the remnant of Jerusalem, those who remain in this land and those living in Egypt.'",
       "links": "<a href='/AIV/24/29/15-19'>Jer. 29:15-19</a>; <a href='/AIV/24/43/7'>Jer. 43:7</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 30024009,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 24,
       "verse": 9,
       "text": "'I will make them a horror, a disaster to all the kingdoms of the earth, a reproach and a byword, a taunt and a curse, wherever I drive them.'",
       "links": "<a href='/AIV/24/29/18'>Jer. 29:18</a>; <a href='/AIV/05/28/37'>Deut. 28:37</a>",
@@ -116,28 +73,10 @@
     },
     {
       "pk": 30024010,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 24,
       "verse": 10,
       "text": "'I will send sword, famine, and pestilence among them until they are consumed from the land that I gave to them and to their ancestors.'",
       "links": "<a href='/AIV/03/26/25'>Lev. 26:25</a>; <a href='/AIV/05/28/21'>Deut. 28:21</a>; <a href='/AIV/24/21/6-7'>Jer. 21:6-7</a>",
       "comment": "The triple judgment underscores the gravity of separation from God's covenant. Loss of land represents broken relationship. Restoration, hinted in previous verses, depends on renewal of heart and acceptance of God's merciful plan through sacrificial grace, which is fully revealed in Christ’s New Covenant (cf. Jer. 31:31-34)."
-    }
-  ],
-  "translatedAt": "2025-12-24T08:34:24.937Z",
-  "sections": [
-    {
-      "title": "The Vision of the Two Baskets of Figs",
-      "startVerse": 1,
-      "endVerse": 3
-    },
-    {
-      "title": "The Meaning of the Good and Bad Figs",
-      "startVerse": 4,
-      "endVerse": 10
     }
   ]
 }

@@ -1,16 +1,13 @@
 {
-  "book": 68,
+  "translation": "AIV",
+  "bookId": "2-peter",
   "bookName": "2 Peter",
-  "bookAbbreviation": "2Pet",
+  "bookAbbreviation": "2 Pet",
+  "bookNumber": 68,
   "chapter": 3,
   "verses": [
     {
       "pk": 68003001,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 3,
       "verse": 1,
       "text": "Beloved, this is now the second letter I am writing to you. In both of them I am stirring up your sincere mind by way of reminder,",
       "links": "<a href='/AIV/61/1/13'>2 Pet. 1:13</a>; <a href='/AIV/60/1/1'>1 Pet. 1:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 68003002,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 3,
       "verse": 2,
       "text": "that you should remember the words spoken beforehand by the holy prophets and the commandment of the Lord and Savior, through your apostles.",
       "links": "<a href='/AIV/42/24/44'>Luke 24:44</a>; <a href='/AIV/45/16/26'>Rom 16:26</a>; <a href='/AIV/61/1/16'>2 Pet. 1:16-21</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 68003003,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 3,
       "verse": 3,
       "text": "Know this first: In the last days mockers will come with their mocking, following after their own desires,",
       "links": "<a href='/AIV/65/1/18'>Jude 1:18</a>; <a href='/AIV/55/3/1-5'>2 Tim 3:1-5</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 68003004,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 3,
       "verse": 4,
       "text": "and saying, 'Where is the promise of His coming? For ever since the fathers fell asleep, all things continue as they have from the beginning of creation.'",
       "links": "<a href='/AIV/40/24/48'>Matt 24:48</a>; <a href='/AIV/43/14/3'>John 14:3</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 68003005,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 3,
       "verse": 5,
       "text": "For they deliberately overlook this fact: that by the word of God, the heavens existed long ago and the earth was formed out of water and through water,",
       "links": "<a href='/AIV/01/1/6-10'>Gen 1:6-10</a>; <a href='/AIV/58/11/3'>Heb 11:3</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 68003006,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 3,
       "verse": 6,
       "text": "through which the world at that time was destroyed, being flooded with water.",
       "links": "<a href='/AIV/01/7/6'>Gen 7:6</a>; <a href='/AIV/42/17/27'>Luke 17:27</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 68003007,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 3,
       "verse": 7,
       "text": "But by the same word, the present heavens and earth are being reserved for fire, kept for the day of judgment and the destruction of ungodly men.",
       "links": "<a href='/AIV/23/66/15-16'>Isa 66:15-16</a>; <a href='/AIV/66/20/14-15'>Rev 20:14-15</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 68003008,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 3,
       "verse": 8,
       "text": "But do not overlook this one thing, beloved: that with the Lord one day is as a thousand years, and a thousand years as one day.",
       "links": "<a href='/AIV/19/90/4'>Ps 90:4</a>; <a href='/AIV/66/20/2-4'>Rev 20:2-4</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 68003009,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 3,
       "verse": 9,
       "text": "The Lord is not slow about His promise, as some count slowness, but is patient toward you, not wishing that any should perish but that all should come to repentance.",
       "links": "<a href='/AIV/26/18/23'>Ezek 18:23</a>; <a href='/AIV/54/2/4'>1 Tim 2:4</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 68003010,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 3,
       "verse": 10,
       "text": "But the day of the Lord will come like a thief, and then the heavens will pass away with a roar, and the heavenly bodies will be burned up and dissolved, and the earth and the works done on it will be exposed.",
       "links": "<a href='/AIV/40/24/43'>Matt 24:43</a>; <a href='/AIV/66/21/1'>Rev 21:1</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 68003011,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 3,
       "verse": 11,
       "text": "Since all these things are thus to be dissolved, what sort of people ought you to be in holy conduct and godliness,",
       "links": "<a href='/AIV/45/12/1-2'>Rom 12:1-2</a>; <a href='/AIV/61/1/5-7'>2 Pet 1:5-7</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 68003012,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 3,
       "verse": 12,
       "text": "as you look for and hasten the coming of the day of God, because of which the heavens will be set on fire and dissolved, and the elements will melt with intense heat.",
       "links": "<a href='/AIV/66/22/20'>Rev 22:20</a>; <a href='/AIV/23/34/4'>Isa 34:4</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 68003013,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 3,
       "verse": 13,
       "text": "But according to His promise, we are looking for new heavens and a new earth, in which righteousness dwells.",
       "links": "<a href='/AIV/23/65/17'>Isa 65:17</a>; <a href='/AIV/66/21/1'>Rev 21:1</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 68003014,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 3,
       "verse": 14,
       "text": "Therefore, beloved, since you are looking for these things, be diligent to be found by Him in peace, without spot or blemish.",
       "links": "<a href='/AIV/49/5/27'>Eph 5:27</a>; <a href='/AIV/61/1/10'>2 Pet 1:10</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 68003015,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 3,
       "verse": 15,
       "text": "And consider the patience of our Lord as salvation, just as our beloved brother Paul also wrote to you according to the wisdom given him.",
       "links": "<a href='/AIV/45/2/4'>Rom 2:4</a>; <a href='/AIV/60/3/15'>1 Pet 3:15</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 68003016,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 3,
       "verse": 16,
       "text": "As he does in all his letters when he speaks in them of these matters. There are some things in them that are hard to understand, which the ignorant and unstable twist to their own destruction, as they do the other Scriptures.",
       "links": "<a href='/AIV/44/20/30'>Acts 20:30</a>; <a href='/AIV/55/2/15'>2 Tim 2:15</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 68003017,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 3,
       "verse": 17,
       "text": "You therefore, beloved, knowing this beforehand, be on your guard so that you are not carried away by the error of the lawless and fall from your own steadfastness.",
       "links": "<a href='/AIV/46/15/58'>1 Cor 15:58</a>; <a href='/AIV/48/5/4'>Gal 5:4</a>",
@@ -213,33 +130,10 @@
     },
     {
       "pk": 68003018,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 3,
       "verse": 18,
       "text": "But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To Him be glory both now and forever. Amen.",
       "links": "<a href='/AIV/43/17/3'>John 17:3</a>; <a href='/AIV/66/1/6'>Rev 1:6</a>",
       "comment": "The Christian life is a journey of growing in grace, pointing to both doctrinal growth and participation in God’s life through faith and the sacraments. Christ’s glory is both present and eternal."
-    }
-  ],
-  "translatedAt": "2025-12-24T12:29:39.828Z",
-  "sections": [
-    {
-      "title": "Warning Against Scoffers",
-      "startVerse": 1,
-      "endVerse": 7
-    },
-    {
-      "title": "The Day of the Lord",
-      "startVerse": 8,
-      "endVerse": 13
-    },
-    {
-      "title": "Final Exhortations and Conclusion",
-      "startVerse": 14,
-      "endVerse": 18
     }
   ]
 }

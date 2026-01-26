@@ -1,16 +1,13 @@
 {
-  "book": 9,
+  "translation": "AIV",
+  "bookId": "1-samuel",
   "bookName": "1 Samuel",
-  "bookAbbreviation": "1Sam",
+  "bookAbbreviation": "1 Sam",
+  "bookNumber": 9,
   "chapter": 19,
   "verses": [
     {
       "pk": 9019001,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 19,
       "verse": 1,
       "text": "Saul spoke to Jonathan his son and to all his servants, telling them to put David to death. But Jonathan, Saul’s son, greatly delighted in David.",
       "links": "<a href='/AIV/9/18/1'>1Sam 18:1</a>; <a href='/AIV/10/1/26'>2Sam 1:26</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 9019002,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 19,
       "verse": 2,
       "text": "So Jonathan told David, 'My father Saul seeks to kill you. Now, please be on your guard in the morning. Stay in a secret place and hide yourself.'",
       "links": "<a href='/AIV/9/18/3'>1Sam 18:3</a>; <a href='/AIV/19/64/2-4'>Ps. 64:2-4</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 9019003,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 19,
       "verse": 3,
       "text": "'I will go out and stand beside my father in the field where you are. I will speak about you to my father. If I find out anything, I will tell you.'",
       "links": "<a href='/AIV/9/20/9-13'>1Sam 20:9-13</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 9019004,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 19,
       "verse": 4,
       "text": "Jonathan spoke well of David to Saul his father and said to him, 'Let the king not sin against his servant David, because he has not sinned against you and his deeds have greatly benefited you.'",
       "links": "<a href='/AIV/9/17/50'>1Sam 17:50</a>; <a href='/AIV/9/18/14'>1Sam 18:14</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 9019005,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 19,
       "verse": 5,
       "text": "'He took his life in his hand and struck down the Philistine, and the LORD brought about a great deliverance for all Israel. You saw it and rejoiced. Why then would you sin against innocent blood by killing David without cause?'",
       "links": "<a href='/AIV/9/17/49-51'>1Sam 17:49-51</a>; <a href='/AIV/9/25/31'>1Sam 25:31</a>; <a href='/AIV/5/19/10-13'>Deut. 19:10-13</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 9019006,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 19,
       "verse": 6,
       "text": "Saul listened to the voice of Jonathan. Saul swore, 'As the Lord lives, he shall not be put to death.'",
       "links": "<a href='/AIV/7/21/7'>Judg. 21:7</a>; <a href='/AIV/2/20/7'>Exod. 20:7</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 9019007,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 19,
       "verse": 7,
       "text": "Jonathan called David, and Jonathan reported to him all these things. Then Jonathan brought David to Saul, and he was in his presence as before.",
       "links": "<a href='/AIV/9/16/21'>1Sam 16:21</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 9019008,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 19,
       "verse": 8,
       "text": "Once again, there was war. David went out and fought with the Philistines and struck them with a great blow, so they fled before him.",
       "links": "<a href='/AIV/9/17/32'>1Sam 17:32</a>; <a href='/AIV/9/18/27'>1Sam 18:27</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 9019009,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 19,
       "verse": 9,
       "text": "Then an evil spirit from the LORD came upon Saul as he was sitting in his house with his spear in his hand. David was playing the lyre.",
       "links": "<a href='/AIV/9/16/14'><1Sam 16:14</a>; <a href='/AIV/9/18/10'>1Sam 18:10</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 9019010,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 19,
       "verse": 10,
       "text": "Saul tried to pin David to the wall with the spear, but David slipped away from Saul. So Saul struck the spear into the wall, and David fled and escaped that night.",
       "links": "<a href='/AIV/9/18/11'>1Sam 18:11</a>; <a href='/AIV/19/59/1-2'>Ps. 59:1-2</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 9019011,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 19,
       "verse": 11,
       "text": "Saul sent messengers to David’s house to watch him and to kill him in the morning. But Michal, David’s wife, told him, 'If you don’t save your life tonight, tomorrow you’ll be killed.'",
       "links": "<a href='/AIV/9/18/20-21'>1Sam 18:20-21</a>; <a href='/AIV/9/19/17'>1Sam 19:17</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 9019012,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 19,
       "verse": 12,
       "text": "So Michal let David down through the window. He fled and escaped.",
       "links": "<a href='/AIV/6/2/15'>Josh 2:15</a>; <a href='/AIV/44/9/25'>Acts 9:25</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 9019013,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 19,
       "verse": 13,
       "text": "Michal took an idol, laid it in the bed, put a cushion of goats’ hair at its head, and covered it with clothes.",
       "links": "<a href='/AIV/9/19/16'>1Sam 19:16</a>; <a href='/AIV/1/31/19'>Gen. 31:19</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 9019014,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 19,
       "verse": 14,
       "text": "And when Saul sent messengers to take David, she said, 'He is sick.'",
       "links": "<a href='/AIV/9/19/17'>1Sam 19:17</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 9019015,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 19,
       "verse": 15,
       "text": "Then Saul sent the messengers to see David, saying, 'Bring him up to me in the bed, that I may put him to death.'",
       "links": "<a href='/AIV/9/19/11'>1Sam 19:11</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 9019016,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 19,
       "verse": 16,
       "text": "When the messengers entered, there was the idol in the bed, with the cushion of goats’ hair at its head.",
       "links": "<a href='/AIV/9/19/13'>1Sam 19:13</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 9019017,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 19,
       "verse": 17,
       "text": "Saul said to Michal, 'Why have you deceived me like this and let my enemy go, so that he has escaped?' Michal answered Saul, 'He said to me, ‘Let me go! Why should I kill you?’'",
       "links": "<a href='/AIV/2/1/17-20'>Exod. 1:17-20</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 9019018,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 19,
       "verse": 18,
       "text": "Now David fled and escaped, and he went to Samuel at Ramah, and told him all that Saul had done to him. He and Samuel went and stayed at Naioth.",
       "links": "<a href='/AIV/9/7/17'>1Sam 7:17</a>; <a href='/AIV/9/19/19'>1Sam 19:19</a>",
@@ -226,11 +138,6 @@
     },
     {
       "pk": 9019019,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 19,
       "verse": 19,
       "text": "It was told Saul, 'David is at Naioth in Ramah.'",
       "links": "<a href='/AIV/9/19/18'>1Sam 19:18</a>",
@@ -238,11 +145,6 @@
     },
     {
       "pk": 9019020,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 19,
       "verse": 20,
       "text": "Then Saul sent messengers to take David, but when they saw the group of prophets prophesying, with Samuel standing as ruler over them, the Spirit of God came upon Saul’s messengers, and they also prophesied.",
       "links": "<a href='/AIV/9/10/10-13'>1Sam 10:10-13</a>; <a href='/AIV/4/11/25'>Num. 11:25</a>",
@@ -250,11 +152,6 @@
     },
     {
       "pk": 9019021,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 19,
       "verse": 21,
       "text": "When Saul was told, he sent other messengers, and they also prophesied. Saul sent messengers again the third time, and they also prophesied.",
       "links": "<a href='/AIV/9/10/10'>1Sam 10:10</a>",
@@ -262,11 +159,6 @@
     },
     {
       "pk": 9019022,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 19,
       "verse": 22,
       "text": "Then he himself went to Ramah and came to the great well that is in Secu, and he asked, 'Where are Samuel and David?' Someone said, 'Behold, they are at Naioth in Ramah.'",
       "links": "<a href='/AIV/9/7/17'>1Sam 7:17</a>; <a href='/AIV/9/19/18'>1Sam 19:18</a>",
@@ -275,11 +167,6 @@
     },
     {
       "pk": 9019023,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 19,
       "verse": 23,
       "text": "He went there to Naioth in Ramah, and the Spirit of God came even upon him, and as he walked on, he prophesied until he came to Naioth in Ramah.",
       "links": "<a href='/AIV/9/10/10'>1Sam 10:10</a>; <a href='/AIV/4/24/2'>Num. 24:2</a>",
@@ -287,43 +174,10 @@
     },
     {
       "pk": 9019024,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 19,
       "verse": 24,
       "text": "He also stripped off his clothes and prophesied before Samuel, and lay down naked all that day and all that night. Therefore it is said, 'Is Saul also among the prophets?'",
       "links": "<a href='/AIV/9/10/11-12'>1Sam 10:11-12</a>; <a href='/AIV/18/24/10'>Job 24:10</a>",
       "comment": "Saul’s loss of royal dignity and prophetic compulsion shows the reversal of man’s pride. God humbles the mighty and exalts the lowly, a pattern culminating in the Gospel (Luke 1:52). The question 'Is Saul among the prophets?' becomes proverbial for God’s surprising choice and the cost of resisting His will."
-    }
-  ],
-  "translatedAt": "2025-12-24T03:00:03.882Z",
-  "sections": [
-    {
-      "title": "Jonathan Intercedes for David",
-      "startVerse": 1,
-      "endVerse": 8
-    },
-    {
-      "title": "Saul Attempts to Kill David",
-      "startVerse": 9,
-      "endVerse": 10
-    },
-    {
-      "title": "David Escapes with Michal’s Help",
-      "startVerse": 11,
-      "endVerse": 17
-    },
-    {
-      "title": "David Flees to Samuel at Ramah",
-      "startVerse": 18,
-      "endVerse": 21
-    },
-    {
-      "title": "Saul Prophesies at Naioth",
-      "startVerse": 22,
-      "endVerse": 24
     }
   ]
 }

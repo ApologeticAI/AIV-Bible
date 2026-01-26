@@ -1,16 +1,13 @@
 {
-  "book": 68,
+  "translation": "AIV",
+  "bookId": "2-peter",
   "bookName": "2 Peter",
-  "bookAbbreviation": "2Pet",
+  "bookAbbreviation": "2 Pet",
+  "bookNumber": 68,
   "chapter": 1,
   "verses": [
     {
       "pk": 68001001,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 1,
       "verse": 1,
       "text": "Simon Peter, a servant and apostle of Jesus Christ, to those who have obtained a faith as precious as ours by the righteousness of our God and Savior Jesus Christ:",
       "links": "<a href='/AIV/45/1/17'>Rom. 1:17</a>; <a href='/AIV/56/1/1'>Titus 1:1</a>; <a href='/AIV/50/3/9'>Phil. 3:9</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 68001002,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 1,
       "verse": 2,
       "text": "May grace and peace be multiplied to you in the knowledge of God and of Jesus our Lord.",
       "links": "<a href='/AIV/60/1/2'>1 Pet. 1:2</a>; <a href='/AIV/45/1/7'>Rom. 1:7</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 68001003,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 1,
       "verse": 3,
       "text": "His divine power has granted us all things that pertain to life and godliness, through the knowledge of Him who called us by His own glory and excellence.",
       "links": "<a href='/AIV/49/1/19-21'>Eph. 1:19-21</a>; <a href='/AIV/45/8/28-30'>Rom. 8:28-30</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 68001004,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 1,
       "verse": 4,
       "text": "Through these He has given us His very great and precious promises, so that through them you may become partners in the divine nature, having escaped from the corruption that is in the world because of evil desire.",
       "links": "<a href='/AIV/46/3/16'>1 Cor. 3:16</a>; <a href='/AIV/62/3/2'>1 John 3:2</a>; <a href='/AIV/01/3/6'>Gen. 3:6</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 68001005,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 1,
       "verse": 5,
       "text": "For this very reason, make every effort to supplement your faith with virtue, and virtue with knowledge,",
       "links": "<a href='/AIV/50/2/12-13'>Phil. 2:12-13</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 68001006,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 1,
       "verse": 6,
       "text": "and knowledge with self-control, and self-control with steadfastness, and steadfastness with godliness,",
       "links": "<a href='/AIV/48/5/22-23'>Gal. 5:22-23</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 68001007,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 1,
       "verse": 7,
       "text": "and godliness with brotherly affection, and brotherly affection with love.",
       "links": "<a href='/AIV/46/13/1-13'>1 Cor. 13:1-13</a>; <a href='/AIV/43/13/34-35'>John 13:34-35</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 68001008,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 1,
       "verse": 8,
       "text": "For if these qualities are yours and are increasing, they keep you from being ineffective or unfruitful in the knowledge of our Lord Jesus Christ.",
       "links": "<a href='/AIV/43/15/2-8'>John 15:2-8</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 68001009,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 1,
       "verse": 9,
       "text": "For whoever lacks these qualities is blind, short-sighted, having forgotten that he was cleansed from his past sins.",
       "links": "<a href='/AIV/58/10/22'>Heb. 10:22</a>; <a href='/AIV/60/3/21'>1 Pet. 3:21</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 68001010,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 1,
       "verse": 10,
       "text": "Therefore, brothers, be all the more diligent to confirm your calling and election, for if you practice these things, you will never stumble.",
       "links": "<a href='/AIV/50/2/12'>Phil. 2:12</a>; <a href='/AIV/60/1/2'>1 Pet. 1:2</a>",
@@ -127,11 +79,6 @@
     },
     {
       "pk": 68001011,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 1,
       "verse": 11,
       "text": "For in this way there will be richly provided for you an entrance into the eternal kingdom of our Lord and Savior Jesus Christ.",
       "links": "<a href='/AIV/40/25/34'>Matt. 25:34</a>; <a href='/AIV/45/5/21'>Rom. 5:21</a>",
@@ -139,11 +86,6 @@
     },
     {
       "pk": 68001012,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 1,
       "verse": 12,
       "text": "Therefore I intend to remind you of these things, though you know them and are established in the truth that is present with you.",
       "links": "<a href='/AIV/54/4/6'>2 Tim. 4:6</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 68001013,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 1,
       "verse": 13,
       "text": "I think it is right, as long as I am in this earthly tent, to stir you up by way of reminder,",
       "links": "<a href='/AIV/47/5/1-4'>2 Cor. 5:1-4</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 68001014,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 1,
       "verse": 14,
       "text": "since I know that the putting off of my tent will come soon, just as our Lord Jesus Christ has made clear to me.",
       "links": "<a href='/AIV/43/21/18-19'>John 21:18-19</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 68001015,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 1,
       "verse": 15,
       "text": "And I will make every effort, so that after my departure you may always be able to recall these things.",
       "links": "<a href='/AIV/55/4/6-8'>2 Tim. 4:6-8</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 68001016,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 1,
       "verse": 16,
       "text": "For we did not follow cleverly devised myths when we made known to you the power and coming of our Lord Jesus Christ, but we were eyewitnesses of His majesty.",
       "links": "<a href='/AIV/40/17/1-6'>Matt. 17:1-6</a>; <a href='/AIV/43/1/14'>John 1:14</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 68001017,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 1,
       "verse": 17,
       "text": "For He received honor and glory from God the Father when the voice was conveyed to Him by the Majestic Glory, 'This is My beloved Son, with whom I am well pleased.'",
       "links": "<a href='/AIV/40/17/5'>Matt. 17:5</a>; <a href='/AIV/19/2/7'>Ps. 2:7</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 68001018,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 1,
       "verse": 18,
       "text": "And we ourselves heard this voice carried from heaven when we were with Him on the holy mountain.",
       "links": "<a href='/AIV/40/17/6'>Matt. 17:6</a>; <a href='/AIV/42/9/28-36'>Luke 9:28-36</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 68001019,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 1,
       "verse": 19,
       "text": "And we have the prophetic word made more certain, to which you do well to pay attention as to a lamp shining in a dark place, until the day dawns and the morning star rises in your hearts.",
       "links": "<a href='/AIV/66/22/16'>Rev. 22:16</a>; <a href='/AIV/19/119/105'>Ps. 119:105</a>",
@@ -237,11 +144,6 @@
     },
     {
       "pk": 68001020,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 1,
       "verse": 20,
       "text": "Above all, you must understand this: no prophecy of Scripture comes from someone’s own private interpretation.",
       "links": "<a href='/AIV/04/12/6-8'>Num. 12:6-8</a>; <a href='/AIV/54/3/15-16'>2 Tim. 3:15-16</a>",
@@ -249,33 +151,10 @@
     },
     {
       "pk": 68001021,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 1,
       "verse": 21,
       "text": "For no prophecy was ever produced by human will, but men carried by the Holy Spirit spoke from God.",
       "links": "<a href='/AIV/10/23/2'>2 Sam. 23:2</a>; <a href='/AIV/44/28/25'>Acts 28:25</a>",
       "comment": "Scripture’s divine inspiration means that the Spirit leads the apostles and prophets. Divine guidance, not human initiative, brings about true prophecy. This continues the emphasis on the importance of apostolic and authorized transmission."
-    }
-  ],
-  "translatedAt": "2025-12-24T12:28:49.867Z",
-  "sections": [
-    {
-      "title": "Growth in Christian Virtue",
-      "startVerse": 1,
-      "endVerse": 11
-    },
-    {
-      "title": "Peter’s Reminder of His Imminent Departure",
-      "startVerse": 12,
-      "endVerse": 15
-    },
-    {
-      "title": "Eyewitnesses of Christ’s Glory and the Reliability of Prophecy",
-      "startVerse": 16,
-      "endVerse": 21
     }
   ]
 }

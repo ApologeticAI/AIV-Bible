@@ -1,16 +1,13 @@
 {
-  "book": 14,
+  "translation": "AIV",
+  "bookId": "2-chronicles",
   "bookName": "2 Chronicles",
-  "bookAbbreviation": "2Chr",
+  "bookAbbreviation": "2 Chr",
+  "bookNumber": 14,
   "chapter": 17,
   "verses": [
     {
       "pk": 14017001,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 17,
       "verse": 1,
       "text": "Jehoshaphat, his son, became king after him, and strengthened himself against Israel.",
       "links": "<a href='/AIV/11/15/24'>1 Kings 15:24</a>; <a href='/AIV/14/16/14'>2 Chr. 16:14</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 14017002,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 17,
       "verse": 2,
       "text": "He placed troops in all the fortified cities of Judah, and set garrisons in the land of Judah and in the cities of Ephraim that Asa his father had taken.",
       "links": "<a href='/AIV/14/15/8'>2 Chr. 15:8</a>; <a href='/AIV/11/15/16-22'>1 Kings 15:16-22</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 14017003,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 17,
       "verse": 3,
       "text": "The Lord was with Jehoshaphat, because he walked in the early ways of his father David, and did not seek the Baals.",
       "links": "<a href='/AIV/19/18/1'>Ps. 18:1</a>; <a href='/AIV/11/9/4'>1 Kings 9:4</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 14017004,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 17,
       "verse": 4,
       "text": "Instead, he sought the God of his father, and followed His commandments, and did not act as Israel did.",
       "links": "<a href='/AIV/14/16/12'>2 Chr. 16:12</a>; <a href='/AIV/19/119/2'>Ps. 119:2</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 14017005,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 17,
       "verse": 5,
       "text": "The Lord established the kingdom in his hand; all Judah gave gifts to Jehoshaphat, and he had wealth and honor in abundance.",
       "links": "<a href='/AIV/19/112/3'>Ps. 112:3</a>; <a href='/AIV/14/1/12'>2 Chr. 1:12</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 14017006,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 17,
       "verse": 6,
       "text": "His heart was lifted up in the ways of the Lord; furthermore, he removed the high places and Asherim from Judah.",
       "links": "<a href='/AIV/14/15/17'>2 Chr. 15:17</a>; <a href='/AIV/11/22/43'>1 Kings 22:43</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 14017007,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 17,
       "verse": 7,
       "text": "In the third year of his reign, he sent his officials—Ben-Hail, Obadiah, Zechariah, Nethanel, and Micaiah—to teach in the cities of Judah.",
       "links": "<a href='/AIV/14/35/3'>2 Chr. 35:3</a>; <a href='/AIV/16/8/1-8'>Neh. 8:1-8</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 14017008,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 17,
       "verse": 8,
       "text": "With them were the Levites: Shemaiah, Nethaniah, Zebadiah, Asahel, Shemiramoth, Jehonathan, Adonijah, Tobijah, and Tob-Adonijah; and the priests Elishama and Jehoram.",
       "links": "<a href='/AIV/13/6/16-30'>1 Chr. 6:16-30</a>; <a href='/AIV/14/31/4'>2 Chr. 31:4</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 14017009,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 17,
       "verse": 9,
       "text": "They taught throughout Judah, carrying the Book of the Law of the Lord, and they went around all the cities of Judah and taught among the people.",
       "links": "<a href='/AIV/5/6/6-9'>Deut. 6:6-9</a>; <a href='/AIV/16/8/7-8'>Neh. 8:7-8</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 14017010,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 17,
       "verse": 10,
       "text": "The fear of the Lord fell upon all the kingdoms of the lands surrounding Judah, and they did not wage war against Jehoshaphat.",
       "links": "<a href='/AIV/2/23/27'>Ex. 23:27</a>; <a href='/AIV/14/20/29'>2 Chr. 20:29</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 14017011,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 17,
       "verse": 11,
       "text": "Some of the Philistines brought Jehoshaphat gifts and silver as tribute, and the Arabs brought him flocks—seven thousand seven hundred rams and the same number of goats.",
       "links": "<a href='/AIV/10/8/2'>2 Sam. 8:2</a>; <a href='/AIV/14/26/8'>2 Chr. 26:8</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 14017012,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 17,
       "verse": 12,
       "text": "Jehoshaphat grew increasingly powerful; he built fortresses and storage cities throughout Judah.",
       "links": "<a href='/AIV/13/29/1'>1 Chr. 29:1</a>; <a href='/AIV/14/11/11'>2 Chr. 11:11</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 14017013,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 17,
       "verse": 13,
       "text": "He had many workers in Jerusalem, and brave warriors throughout Judah, all under his command.",
       "links": "<a href='/AIV/13/12/38'>1 Chr. 12:38</a>; <a href='/AIV/14/26/11-13'>2 Chr. 26:11-13</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 14017014,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 17,
       "verse": 14,
       "text": "This was their muster according to their ancestral houses: Judah’s commanders were Adnah the chief, with three hundred thousand valiant warriors;",
       "links": "<a href='/AIV/13/27/1'>1 Chr. 27:1</a>; <a href='/AIV/13/5/24'>1 Chr. 5:24</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 14017015,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 17,
       "verse": 15,
       "text": "Next to him, Jehohanan, the captain, with two hundred eighty thousand;",
       "links": "<a href='/AIV/13/7/10'>1 Chr. 7:10</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 14017016,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 17,
       "verse": 16,
       "text": "Amasiah son of Zikri, who voluntarily offered himself to the Lord, with two hundred thousand valiant warriors;",
       "links": "<a href='/AIV/14/29/31'>2 Chr. 29:31</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 14017017,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 17,
       "verse": 17,
       "text": "From Benjamin: Eliada, a mighty man of valor, with two hundred thousand men, armed with bow and shield;",
       "links": "<a href='/AIV/13/8/27'>1 Chr. 8:27</a>; <a href='/AIV/14/13/2'>2 Chr. 13:2</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 14017018,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 17,
       "verse": 18,
       "text": "And next to him, Jehozabad, with one hundred eighty thousand equipped for war.",
       "links": "<a href='/AIV/14/20/26'>2 Chr. 20:26</a>",
@@ -225,33 +137,10 @@
     },
     {
       "pk": 14017019,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 17,
       "verse": 19,
       "text": "These were the men who served the king, besides those whom he had placed in the fortified cities throughout all Judah.",
       "links": "<a href='/AIV/14/11/12'>2 Chr. 11:12</a>; <a href='/AIV/13/26/32'>1 Chr. 26:32</a>",
       "comment": "Jehoshaphat’s reign demonstrates strong, centralized leadership, preparing the way for a united worship and pointing towards the ideal of unity and continuity in the people of God."
-    }
-  ],
-  "translatedAt": "2025-12-24T04:29:46.109Z",
-  "sections": [
-    {
-      "title": "Jehoshaphat’s Reign and Religious Reforms",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "Teaching of the Law in Judah",
-      "startVerse": 7,
-      "endVerse": 11
-    },
-    {
-      "title": "Jehoshaphat’s Power and Military Strength",
-      "startVerse": 12,
-      "endVerse": 19
     }
   ]
 }

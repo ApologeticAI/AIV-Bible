@@ -1,16 +1,13 @@
 {
-  "book": 5,
+  "translation": "AIV",
+  "bookId": "deuteronomy",
   "bookName": "Deuteronomy",
   "bookAbbreviation": "Deut",
+  "bookNumber": 5,
   "chapter": 24,
   "verses": [
     {
       "pk": 5024001,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 24,
       "verse": 1,
       "text": "If a man takes a wife and marries her, but she does not find favor in his eyes because he has found something indecent about her, and he writes her a certificate of divorce, puts it in her hand, and sends her out of his house,",
       "links": "<a href='/AIV/40/19/7-9'>Matt. 19:7-9</a>; <a href='/AIV/24/3/8'>Jer. 3:8</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 5024002,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 24,
       "verse": 2,
       "text": "and she leaves his house and goes and becomes the wife of another man,",
       "links": "<a href='/AIV/24/3/1'>Jer. 3:1</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 5024003,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 24,
       "verse": 3,
       "text": "and the second husband dislikes her and writes her a certificate of divorce, puts it in her hand, and sends her out of his house, or if the second husband who took her as wife dies,",
       "links": "<a href='/AIV/24/3/8'>Jer. 3:8</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 5024004,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 24,
       "verse": 4,
       "text": "then her former husband who sent her away may not take her again to be his wife after she has been defiled, for that is an abomination before the LORD. And you shall not bring sin upon the land that the LORD your God is giving you as an inheritance.",
       "links": "<a href='/AIV/24/3/1'>Jer. 3:1</a>; <a href='/AIV/3/18/21-30'>Lev. 18:21-30</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 5024005,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 24,
       "verse": 5,
       "text": "When a man has taken a new wife, he shall not go out with the army or be charged with any business; he shall be free at home for one year to bring happiness to the wife he has taken.",
       "links": "<a href='/AIV/5/20/7'>Deut. 20:7</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 5024006,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 24,
       "verse": 6,
       "text": "No one shall take a mill or an upper millstone as a pledge, for he would be taking a life in pledge.",
       "links": "<a href='/AIV/2/22/26-27'>Ex. 22:26-27</a>",
@@ -81,11 +53,6 @@
     },
     {
       "pk": 5024007,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 24,
       "verse": 7,
       "text": "If anyone is found kidnapping one of his Israelite brothers, treating him as a slave or selling him, then that kidnapper shall die. So you shall purge the evil from among you.",
       "links": "<a href='/AIV/2/21/16'>Ex. 21:16</a>",
@@ -93,11 +60,6 @@
     },
     {
       "pk": 5024008,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 24,
       "verse": 8,
       "text": "Be careful in a case of leprous disease, to follow carefully all that the Levitical priests shall direct you. As I have commanded them, so you shall be careful to do.",
       "links": "<a href='/AIV/3/13/1-59'>Lev. 13:1-59</a>; <a href='/AIV/40/8/4'>Matt. 8:4</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 5024009,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 24,
       "verse": 9,
       "text": "Remember what the LORD your God did to Miriam on the way as you came out of Egypt.",
       "links": "<a href='/AIV/4/12/10-15'>Num. 12:10-15</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 5024010,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 24,
       "verse": 10,
       "text": "When you make your neighbor a loan of any kind, you shall not go into his house to take his pledge.",
       "links": "<a href='/AIV/2/22/25-27'>Ex. 22:25-27</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 5024011,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 24,
       "verse": 11,
       "text": "You shall stand outside, and the man to whom you make the loan shall bring out the pledge to you.",
       "links": "<a href='/AIV/2/22/26-27'>Ex. 22:26-27</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 5024012,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 24,
       "verse": 12,
       "text": "If he is a poor man, you shall not sleep with his pledge.",
       "links": "<a href='/AIV/2/22/26'>Ex. 22:26</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 5024013,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 24,
       "verse": 13,
       "text": "You shall restore to him the pledge as the sun sets, so that he may sleep in his cloak and bless you. And it shall be righteousness for you before the LORD your God.",
       "links": "<a href='/AIV/6/6/25'>Josh. 6:25</a>; <a href='/AIV/19/106/31'>Ps. 106:31</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 5024014,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 24,
       "verse": 14,
       "text": "You shall not oppress a hired worker who is poor and needy, whether he is one of your brothers or a sojourner who is in your land within your gates.",
       "links": "<a href='/AIV/3/19/13'>Lev. 19:13</a>; <a href='/AIV/59/5/4'>Jas. 5:4</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 5024015,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 24,
       "verse": 15,
       "text": "You shall give him his wages on the same day, before the sun sets (for he is poor and counts on it), so that he does not cry out against you to the LORD, and you become guilty of sin.",
       "links": "<a href='/AIV/3/19/13'>Lev. 19:13</a>; <a href='/AIV/59/5/4'>Jas. 5:4</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 5024016,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 24,
       "verse": 16,
       "text": "Fathers shall not be put to death for their children, nor shall children be put to death for their fathers. Each person shall be put to death for his own sin.",
       "links": "<a href='/AIV/26/18/20'>Ezek. 18:20</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 5024017,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 24,
       "verse": 17,
       "text": "You shall not pervert the justice due to the sojourner or to the fatherless, nor take a widow's garment as a pledge.",
       "links": "<a href='/AIV/2/22/21-22'>Ex. 22:21-22</a>; <a href='/AIV/3/19/33-34'>Lev. 19:33-34</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 5024018,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 24,
       "verse": 18,
       "text": "But you shall remember that you were a slave in Egypt, and the LORD your God redeemed you from there; therefore I command you to do this.",
       "links": "<a href='/AIV/2/13/3'>Ex. 13:3</a>; <a href='/AIV/5/15/15'>Deut. 15:15</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 5024019,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 24,
       "verse": 19,
       "text": "When you reap your harvest in your field and forget a sheaf in the field, you shall not go back to get it. It shall be for the sojourner, the fatherless, and the widow, so that the LORD your God may bless you in all the work of your hands.",
       "links": "<a href='/AIV/3/19/9-10'>Lev. 19:9-10</a>; <a href='/AIV/8/2/2'>Ruth 2:2</a>",
@@ -238,11 +145,6 @@
     },
     {
       "pk": 5024020,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 24,
       "verse": 20,
       "text": "When you beat your olive trees, you shall not go over the boughs again. It shall be for the sojourner, the fatherless, and the widow.",
       "links": "<a href='/AIV/3/19/10'>Lev. 19:10</a>",
@@ -250,11 +152,6 @@
     },
     {
       "pk": 5024021,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 24,
       "verse": 21,
       "text": "When you gather the grapes of your vineyard, you shall not glean it afterward. It shall be for the sojourner, the fatherless, and the widow.",
       "links": "<a href='/AIV/3/19/10'>Lev. 19:10</a>",
@@ -262,38 +159,10 @@
     },
     {
       "pk": 5024022,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 24,
       "verse": 22,
       "text": "You shall remember that you were a slave in the land of Egypt; therefore I command you to do this.",
       "links": "<a href='/AIV/5/24/18'>Deut. 24:18</a>",
       "comment": "God's people are to act with compassion because of God's salvation—reminding us that grace received is meant to be shared, culminating in the new commandment of love given by Jesus (John 13:34-35)."
-    }
-  ],
-  "translatedAt": "2025-12-24T02:09:50.107Z",
-  "sections": [
-    {
-      "title": "Laws Concerning Divorce and Remarriage",
-      "startVerse": 1,
-      "endVerse": 4
-    },
-    {
-      "title": "The Newlywed Soldier Exempted from Duty",
-      "startVerse": 5,
-      "endVerse": 5
-    },
-    {
-      "title": "Various Laws of Justice and Compassion",
-      "startVerse": 6,
-      "endVerse": 18
-    },
-    {
-      "title": "Laws of Gleaning and Care for the Poor",
-      "startVerse": 19,
-      "endVerse": 22
     }
   ]
 }

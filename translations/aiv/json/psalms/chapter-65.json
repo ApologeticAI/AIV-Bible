@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 65,
   "verses": [
     {
       "pk": 23065001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 65,
       "verse": 1,
       "text": "Praise awaits You, O God, in Zion; to You vows will be fulfilled.",
       "links": "<a href='/AIV/19/61/8'>Ps. 61:8</a>; <a href='/AIV/19/66/13-14'>Ps. 66:13-14</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23065002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 65,
       "verse": 2,
       "text": "O You who hear prayer, to You all flesh will come.",
       "links": "<a href='/AIV/19/86/9'>Ps. 86:9</a>; <a href='/AIV/23/66/23'>Isa. 66:23</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23065003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 65,
       "verse": 3,
       "text": "When sins overwhelm us, You atone for our transgressions.",
       "links": "<a href='/AIV/19/51/1-2'>Ps. 51:1-2</a>; <a href='/AIV/23/53/5'>Isa. 53:5</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23065004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 65,
       "verse": 4,
       "text": "Blessed is the one You choose and bring near, to dwell in Your courts! We will be satisfied with the goodness of Your house, the holiness of Your temple.",
       "links": "<a href='/AIV/19/84/4'>Ps. 84:4</a>; <a href='/AIV/19/36/8'>Ps. 36:8</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23065005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 65,
       "verse": 5,
       "text": "By awesome deeds in righteousness You answer us, O God of our salvation, the hope of all the ends of the earth and of the farthest seas.",
       "links": "<a href='/AIV/19/46/8'>Ps. 46:8</a>; <a href='/AIV/42/1/68-69'>Luke 1:68-69</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 23065006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 65,
       "verse": 6,
       "text": "Who established the mountains by His strength, being clothed with power;",
       "links": "<a href='/AIV/19/104/5-9'>Ps. 104:5-9</a>; <a href='/AIV/01/1/9-10'>Gen. 1:9-10</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 23065007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 65,
       "verse": 7,
       "text": "Who stills the roaring of the seas, the roaring of their waves, and the tumult of the peoples.",
       "links": "<a href='/AIV/19/89/9'>Ps. 89:9</a>; <a href='/AIV/40/8/26-27'>Matt. 8:26-27</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 23065008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 65,
       "verse": 8,
       "text": "Those who dwell at the ends of the earth are in awe of Your signs. You make the sunrise and the sunset shout for joy.",
       "links": "<a href='/AIV/19/46/10'>Ps. 46:10</a>; <a href='/AIV/19/113/3'>Ps. 113:3</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 23065009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 65,
       "verse": 9,
       "text": "You visit the earth and water it; You greatly enrich it. The river of God is full of water; You provide their grain, for so You have prepared it.",
       "links": "<a href='/AIV/19/104/13-15'>Ps. 104:13-15</a>; <a href='/AIV/44/14/17'>Acts 14:17</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 23065010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 65,
       "verse": 10,
       "text": "You water its furrows abundantly, soften its ridges, You bless its growth.",
       "links": "<a href='/AIV/19/147/8'>Ps. 147:8</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 23065011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 65,
       "verse": 11,
       "text": "You crown the year with Your goodness; Your paths overflow with abundance.",
       "links": "<a href='/AIV/19/23/5-6'>Ps. 23:5-6</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 23065012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 65,
       "verse": 12,
       "text": "The pastures of the wilderness overflow, and the hills are clothed with joy.",
       "links": "<a href='/AIV/19/98/8'>Ps. 98:8</a>; <a href='/AIV/23/55/12'>Isa. 55:12</a>",
@@ -153,33 +95,10 @@
     },
     {
       "pk": 23065013,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 65,
       "verse": 13,
       "text": "The meadows are covered with flocks, the valleys are dressed with grain; they shout and sing together for joy.",
       "links": "<a href='/AIV/19/96/12'>Ps. 96:12</a>; <a href='/AIV/19/104/27-28'>Ps. 104:27-28</a>",
       "comment": "Creation united in praise to God prefigures the harmonious worship of the redeemed. This unity of land and people joyfully responding anticipates the eschatological fulfillment when all things are brought together in perfect order."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:20:48.005Z",
-  "sections": [
-    {
-      "title": "Praise and Thanksgiving in Zion",
-      "startVerse": 1,
-      "endVerse": 4
-    },
-    {
-      "title": "The God of Creation and Salvation",
-      "startVerse": 5,
-      "endVerse": 8
-    },
-    {
-      "title": "The Blessings of God Upon the Earth",
-      "startVerse": 9,
-      "endVerse": 13
     }
   ]
 }

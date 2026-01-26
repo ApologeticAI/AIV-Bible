@@ -1,16 +1,13 @@
 {
-  "book": 60,
+  "translation": "AIV",
+  "bookId": "2-thessalonians",
   "bookName": "2 Thessalonians",
-  "bookAbbreviation": "2Thess",
+  "bookAbbreviation": "2 Thess",
+  "bookNumber": 60,
   "chapter": 2,
   "verses": [
     {
       "pk": 60002001,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 2,
       "verse": 1,
       "text": "Now, brothers, concerning the coming of our Lord Jesus Christ and our gathering together to Him, we urge you,",
       "links": "<a href='/AIV/40/24/31'>Matt. 24:31</a>; <a href='/AIV/46/15/51-52'>1 Cor. 15:51-52</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 60002002,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 2,
       "verse": 2,
       "text": "not to be quickly shaken in mind or troubled, either by a spirit or by a message or by a letter seeming to be from us, as though the day of the Lord has come.",
       "links": "<a href='/AIV/46/1/8'>1 Cor. 1:8</a>; <a href='/AIV/53/4/13-18'>1 Thess. 4:13-18</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 60002003,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 2,
       "verse": 3,
       "text": "Let no one deceive you in any way. For that day will not come unless the falling away comes first, and the man of lawlessness is revealed, the son of destruction,",
       "links": "<a href='/AIV/54/4/1'>1 Tim. 4:1</a>; <a href='/AIV/27/7/25'>Dan. 7:25</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 60002004,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 2,
       "verse": 4,
       "text": "who opposes and exalts himself above every so-called god or object of worship, so that he sits in the temple of God, displaying himself as God.",
       "links": "<a href='/AIV/27/11/36'>Dan. 11:36</a>; <a href='/AIV/40/24/15'>Matt. 24:15</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 60002005,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 2,
       "verse": 5,
       "text": "Do you not remember that when I was still with you, I told you these things?",
       "links": "<a href='/AIV/54/6/20'>1 Tim. 6:20</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 60002006,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 2,
       "verse": 6,
       "text": "And now you know what restrains him, so that he may be revealed in his own time.",
       "links": "<a href='/AIV/45/1/18'>Rom. 1:18</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 60002007,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 2,
       "verse": 7,
       "text": "For the mystery of lawlessness is already at work, but only until he who now restrains is taken out of the way.",
       "links": "<a href='/AIV/62/4/3'>1 John 4:3</a>; <a href='/AIV/27/8/23'>Dan. 8:23</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 60002008,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 2,
       "verse": 8,
       "text": "Then the lawless one will be revealed, whom the Lord Jesus will kill with the breath of His mouth and destroy by the brightness of His coming.",
       "links": "<a href='/AIV/23/11/4'>Isa. 11:4</a>; <a href='/AIV/66/19/15-21'>Rev. 19:15-21</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 60002009,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 2,
       "verse": 9,
       "text": "The coming of the lawless one is by the working of Satan, with all power and false signs and wonders,",
       "links": "<a href='/AIV/40/24/24'>Matt. 24:24</a>; <a href='/AIV/66/13/13-14'>Rev. 13:13-14</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 60002010,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 2,
       "verse": 10,
       "text": "and with every wicked deception for those who are perishing, because they did not receive the love of the truth, that they might be saved.",
       "links": "<a href='/AIV/45/1/25'>Rom. 1:25</a>; <a href='/AIV/40/13/15'>Matt. 13:15</a>",
@@ -127,11 +79,6 @@
     },
     {
       "pk": 60002011,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 2,
       "verse": 11,
       "text": "For this reason God sends them a powerful delusion, so that they will believe what is false,",
       "links": "<a href='/AIV/23/6/9-10'>Isa. 6:9-10</a>; <a href='/AIV/45/1/28'>Rom. 1:28</a>",
@@ -139,11 +86,6 @@
     },
     {
       "pk": 60002012,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 2,
       "verse": 12,
       "text": "so that all may be condemned who did not believe the truth but delighted in unrighteousness.",
       "links": "<a href='/AIV/19/52/3'>Ps. 52:3</a>; <a href='/AIV/45/2/8'>Rom. 2:8</a>",
@@ -151,11 +93,6 @@
     },
     {
       "pk": 60002013,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 2,
       "verse": 13,
       "text": "But we ought always to give thanks to God for you, brothers beloved by the Lord, because God chose you as the firstfruits for salvation through sanctification by the Spirit and belief in the truth.",
       "links": "<a href='/AIV/49/1/4'>Eph. 1:4</a>; <a href='/AIV/60/1/2'>1 Pet. 1:2</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 60002014,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 2,
       "verse": 14,
       "text": "To this He called you through our gospel, so that you may obtain the glory of our Lord Jesus Christ.",
       "links": "<a href='/AIV/43/17/22'>John 17:22</a>; <a href='/AIV/45/8/17'>Rom. 8:17</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 60002015,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 2,
       "verse": 15,
       "text": "So then, brothers, stand firm and hold to the traditions that you were taught by us, whether by word of mouth or by letter.",
       "links": "<a href='/AIV/53/3/6'>2 Thess. 3:6</a>; <a href='/AIV/54/6/20'>1 Tim. 6:20</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 60002016,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 2,
       "verse": 16,
       "text": "Now may our Lord Jesus Christ Himself, and God our Father, who loved us and gave us eternal comfort and good hope through grace,",
       "links": "<a href='/AIV/43/3/16'>John 3:16</a>; <a href='/AIV/45/15/13'>Rom. 15:13</a>",
@@ -200,28 +122,10 @@
     },
     {
       "pk": 60002017,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 2,
       "verse": 17,
       "text": "encourage your hearts and strengthen you in every good work and word.",
       "links": "<a href='/AIV/49/6/10'>Eph. 6:10</a>; <a href='/AIV/58/13/20-21'>Heb. 13:20-21</a>",
       "comment": "Paul ties comfort and strength with fruitful life—living faith in both works and words. Encouragement to persevere in sanctifying grace and service, echoing themes of faith shown by action, not mere belief."
-    }
-  ],
-  "translatedAt": "2025-12-24T12:10:05.028Z",
-  "sections": [
-    {
-      "title": "The Coming of the Lord and the Man of Lawlessness",
-      "startVerse": 1,
-      "endVerse": 12
-    },
-    {
-      "title": "Exhortation to Stand Firm",
-      "startVerse": 13,
-      "endVerse": 17
     }
   ]
 }

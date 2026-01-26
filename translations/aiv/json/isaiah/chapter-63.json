@@ -1,16 +1,13 @@
 {
-  "book": 29,
+  "translation": "AIV",
+  "bookId": "isaiah",
   "bookName": "Isaiah",
   "bookAbbreviation": "Isa",
+  "bookNumber": 29,
   "chapter": 63,
   "verses": [
     {
       "pk": 29063001,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 63,
       "verse": 1,
       "text": "Who is this coming from Edom, from Bozrah, with garments stained crimson? Who is this, splendid in his clothing, striding in his great strength? 'It is I, speaking with righteousness, mighty to save.'",
       "links": "<a href='/AIV/23/34/6'>Isa. 34:6</a>; <a href='/AIV/66/19/13-15'>Rev. 19:13-15</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 29063002,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 63,
       "verse": 2,
       "text": "Why are your garments red, and your clothes like one who treads the winepress?",
       "links": "<a href='/AIV/25/1/15'>Lam. 1:15</a>; <a href='/AIV/66/14/19-20'>Rev. 14:19-20</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 29063003,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 63,
       "verse": 3,
       "text": "'I have trodden the winepress alone, and from the peoples no one was with me. I trampled them in my anger and crushed them in my wrath; their lifeblood spattered my garments, and I stained all my clothing.'",
       "links": "<a href='/AIV/23/59/16'>Isa. 59:16</a>; <a href='/AIV/66/19/15'>Rev. 19:15</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 29063004,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 63,
       "verse": 4,
       "text": "'For the day of vengeance was in my heart, and the year of my redemption had come.'",
       "links": "<a href='/AIV/23/61/2'>Isa. 61:2</a>; <a href='/AIV/42/4/19'>Luke 4:19</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 29063005,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 63,
       "verse": 5,
       "text": "'I looked, but there was no one to help; I was appalled, and there was no one to uphold. So my own arm brought me salvation, and my wrath sustained me.'",
       "links": "<a href='/AIV/23/59/16'>Isa. 59:16</a>; <a href='/AIV/19/98/1'>Ps. 98:1</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 29063006,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 63,
       "verse": 6,
       "text": "'I trampled down the peoples in my anger; I made them drunk with my wrath, and I poured out their lifeblood on the ground.'",
       "links": "<a href='/AIV/19/75/8'>Ps. 75:8</a>; <a href='/AIV/66/16/6'>Rev. 16:6</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 29063007,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 63,
       "verse": 7,
       "text": "I will recount the steadfast love of the Lord, the praises of the Lord, according to all that the Lord has granted us, and the great goodness to the house of Israel that he has given them according to his compassion, according to the abundance of his steadfast love.",
       "links": "<a href='/AIV/19/89/1'>Ps. 89:1</a>; <a href='/AIV/25/3/22'>Lam. 3:22</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 29063008,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 63,
       "verse": 8,
       "text": "For he said, 'Surely, they are my people, children who will not deal falsely.' And he became their Savior.",
       "links": "<a href='/AIV/28/11/1'>Hos. 11:1</a>; <a href='/AIV/40/2/15'>Matt. 2:15</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 29063009,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 63,
       "verse": 9,
       "text": "In all their distress, it was no messenger or angel but his presence that saved them; in his love and in his pity he redeemed them; he lifted them up and carried them all the days of old.",
       "links": "<a href='/AIV/02/23/20'>Ex. 23:20</a>; <a href='/AIV/28/11/3-4'>Hos. 11:3-4</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 29063010,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 63,
       "verse": 10,
       "text": "But they rebelled and grieved his Holy Spirit; so he turned to become their enemy, and he himself fought against them.",
       "links": "<a href='/AIV/19/78/40'>Ps. 78:40</a>; <a href='/AIV/49/4/30'>Eph. 4:30</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 29063011,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 63,
       "verse": 11,
       "text": "Then his people remembered the days of old, of Moses and his people. Where is he who brought them up out of the sea with the shepherds of his flock? Where is he who put in the midst of them his Holy Spirit?",
       "links": "<a href='/AIV/02/14/30'>Ex. 14:30</a>; <a href='/AIV/04/11/16-17'>Num. 11:16-17</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 29063012,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 63,
       "verse": 12,
       "text": "Who led them by the right hand of Moses with his glorious arm, dividing the waters before them to make for himself an everlasting name?",
       "links": "<a href='/AIV/02/14/21-22'>Ex. 14:21-22</a>; <a href='/AIV/23/52/10'>Isa. 52:10</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 29063013,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 63,
       "verse": 13,
       "text": "Who led them through the depths? Like a horse in the desert, they did not stumble.",
       "links": "<a href='/AIV/05/1/31-33'>Deut. 1:31-33</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 29063014,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 63,
       "verse": 14,
       "text": "As livestock go down into the valley, the Spirit of the Lord gave them rest. So you led your people, to make for yourself a glorious name.",
       "links": "<a href='/AIV/19/23/2-3'>Ps. 23:2-3</a>; <a href='/AIV/40/11/28-29'>Matt. 11:28-29</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 29063015,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 63,
       "verse": 15,
       "text": "Look down from heaven and see, from your holy and glorious habitation. Where are your zeal and your might? The yearning of your heart and your compassion are held back from me.",
       "links": "<a href='/AIV/05/26/15'>Deut. 26:15</a>; <a href='/AIV/19/80/14'>Ps. 80:14</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 29063016,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 63,
       "verse": 16,
       "text": "For you are our Father, though Abraham does not know us, and Israel does not acknowledge us; you, O Lord, are our Father, our Redeemer from everlasting is your Name.",
       "links": "<a href='/AIV/23/64/8'>Isa. 64:8</a>; <a href='/AIV/40/6/9'>Matt. 6:9</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 29063017,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 63,
       "verse": 17,
       "text": "Why, O Lord, do you make us wander from your ways and harden our heart, so that we fear you not? Return for the sake of your servants, the tribes of your heritage.",
       "links": "<a href='/AIV/02/4/21'>Ex. 4:21</a>; <a href='/AIV/19/74/2'>Ps. 74:2</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 29063018,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 63,
       "verse": 18,
       "text": "Your holy people possessed your sanctuary but for a little while; our adversaries have trampled down your holy place.",
       "links": "<a href='/AIV/19/79/1'>Ps. 79:1</a>; <a href='/AIV/23/64/11'>Isa. 64:11</a>",
@@ -225,33 +137,10 @@
     },
     {
       "pk": 29063019,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 63,
       "verse": 19,
       "text": "We have long been like those whom you do not rule, like those not called by your name.",
       "links": "<a href='/AIV/23/64/1'>Isa. 64:1</a>; <a href='/AIV/40/3/16'>Matt. 3:16</a>",
       "comment": "This lament reflects the people’s sense of estrangement from God, longing for the restoration of relationship and covenant identity."
-    }
-  ],
-  "translatedAt": "2026-01-02T07:10:33.112Z",
-  "sections": [
-    {
-      "title": "The Lord’s Day of Vengeance",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "The Lord’s Mercy Remembered",
-      "startVerse": 7,
-      "endVerse": 14
-    },
-    {
-      "title": "Prayer for Mercy and Deliverance",
-      "startVerse": 15,
-      "endVerse": 19
     }
   ]
 }

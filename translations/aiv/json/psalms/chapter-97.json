@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 97,
   "verses": [
     {
       "pk": 23097001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 97,
       "verse": 1,
       "text": "The LORD reigns; let the earth rejoice; let the many coastlands be glad.",
       "links": "<a href='/AIV/19/96/10'>Ps. 96:10</a>; <a href='/AIV/19/99/1'>Ps. 99:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23097002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 97,
       "verse": 2,
       "text": "Clouds and thick darkness are all around Him; righteousness and justice are the foundation of His throne.",
       "links": "<a href='/AIV/19/89/14'>Ps. 89:14</a>; <a href='/AIV/2/20/21'>Ex. 20:21</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23097003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 97,
       "verse": 3,
       "text": "Fire goes before Him and burns up His adversaries all around.",
       "links": "<a href='/AIV/19/50/3'>Ps. 50:3</a>; <a href='/AIV/2/24/17'>Ex. 24:17</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23097004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 97,
       "verse": 4,
       "text": "His lightnings light up the world; the earth sees and trembles.",
       "links": "<a href='/AIV/19/77/18'>Ps. 77:18</a>; <a href='/AIV/19/18/14'>Ps. 18:14</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23097005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 97,
       "verse": 5,
       "text": "The mountains melt like wax before the LORD, before the Lord of all the earth.",
       "links": "<a href='/AIV/19/46/6'>Ps. 46:6</a>; <a href='/AIV/33/1/4'>Mic. 1:4</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23097006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 97,
       "verse": 6,
       "text": "The heavens declare His righteousness, and all the peoples see His glory.",
       "links": "<a href='/AIV/19/19/1'>Ps. 19:1</a>; <a href='/AIV/19/98/2'>Ps. 98:2</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23097007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 97,
       "verse": 7,
       "text": "Let all who serve carved images and boast in idols be put to shame; all gods bow down before Him.",
       "links": "<a href='/AIV/19/96/5'>Ps. 96:5</a>; <a href='/AIV/58/1/6'>Heb. 1:6</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 23097008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 97,
       "verse": 8,
       "text": "Zion hears and is glad, and the daughters of Judah rejoice because of Your judgments, O LORD.",
       "links": "<a href='/AIV/19/48/11'>Ps. 48:11</a>; <a href='/AIV/19/122/4'>Ps. 122:4</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 23097009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 97,
       "verse": 9,
       "text": "For You, O LORD, are Most High over all the earth; You are exalted far above all gods.",
       "links": "<a href='/AIV/19/83/18'>Ps. 83:18</a>; <a href='/AIV/19/95/3'>Ps. 95:3</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 23097010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 97,
       "verse": 10,
       "text": "O you who love the LORD, hate evil! He guards the lives of His saints; He delivers them from the hand of the wicked.",
       "links": "<a href='/AIV/19/34/14'>Ps. 34:14</a>; <a href='/AIV/20/2/8'>Prov. 2:8</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 23097011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 97,
       "verse": 11,
       "text": "Light is sown for the righteous, and gladness for the upright in heart.",
       "links": "<a href='/AIV/19/112/4'>Ps. 112:4</a>; <a href='/AIV/23/60/1-2'>Isa. 60:1-2</a>",
@@ -141,33 +88,10 @@
     },
     {
       "pk": 23097012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 97,
       "verse": 12,
       "text": "Rejoice in the LORD, you righteous, and give thanks to His holy Name!",
       "links": "<a href='/AIV/19/30/4'>Ps. 30:4</a>; <a href='/AIV/19/32/11'>Ps. 32:11</a>",
       "comment": "A call to praise and thanksgiving concludes the psalm. To rejoice and give thanks is central to true worship, celebrated fully in the gathered worshiping community before God’s holy name; reminiscent of the liturgical praise found in God’s people assembled."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:33:32.234Z",
-  "sections": [
-    {
-      "title": "The Lord’s Universal Kingship",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "Idols Confounded; Zion Rejoices",
-      "startVerse": 7,
-      "endVerse": 9
-    },
-    {
-      "title": "Blessings for the Righteous",
-      "startVerse": 10,
-      "endVerse": 12
     }
   ]
 }

@@ -1,16 +1,13 @@
 {
-  "book": 72,
+  "translation": "AIV",
+  "bookId": "jude",
   "bookName": "Jude",
   "bookAbbreviation": "Jude",
+  "bookNumber": 72,
   "chapter": 1,
   "verses": [
     {
       "pk": 72001001,
-      "translation": "AIV",
-      "book": 72,
-      "bookName": "Jude",
-      "bookAbbreviation": "Jude",
-      "chapter": 1,
       "verse": 1,
       "text": "Jude, a servant of Jesus Christ and brother of James, to those who are called, beloved in God the Father and kept for Jesus Christ:",
       "links": "<a href='/AIV/59/1/1'>James 1:1</a>; <a href='/AIV/45/1/7'>Rom. 1:7</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 72001002,
-      "translation": "AIV",
-      "book": 72,
-      "bookName": "Jude",
-      "bookAbbreviation": "Jude",
-      "chapter": 1,
       "verse": 2,
       "text": "May mercy, peace, and love be multiplied to you.",
       "links": "<a href='/AIV/52/1/2'>1 Thess. 1:2</a>; <a href='/AIV/60/1/2'>1 Pet. 1:2</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 72001003,
-      "translation": "AIV",
-      "book": 72,
-      "bookName": "Jude",
-      "bookAbbreviation": "Jude",
-      "chapter": 1,
       "verse": 3,
       "text": "Beloved, although I was very eager to write to you about our common salvation, I felt compelled to write and urge you to contend earnestly for the faith which was once for all delivered to the saints.",
       "links": "<a href='/AIV/50/1/27'>Phil. 1:27</a>; <a href='/AIV/44/2/42'>Acts 2:42</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 72001004,
-      "translation": "AIV",
-      "book": 72,
-      "bookName": "Jude",
-      "bookAbbreviation": "Jude",
-      "chapter": 1,
       "verse": 4,
       "text": "For certain people have slipped in unnoticed, who long ago were marked out for condemnation, ungodly ones who twist the grace of our God into a license for immorality and deny our only Master and Lord, Jesus Christ.",
       "links": "<a href='/AIV/61/2/1'>2 Pet. 2:1</a>; <a href='/AIV/54/4/1'>1 Tim. 4:1</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 72001005,
-      "translation": "AIV",
-      "book": 72,
-      "bookName": "Jude",
-      "bookAbbreviation": "Jude",
-      "chapter": 1,
       "verse": 5,
       "text": "Now I want to remind you, though you once knew it, that the Lord saved a people out of the land of Egypt, but afterward destroyed those who did not believe.",
       "links": "<a href='/AIV/4/14/29-30'>Num. 14:29-30</a>; <a href='/AIV/60/3/20'>1 Pet. 3:20</a>",
@@ -69,11 +46,6 @@
     },
     {
       "pk": 72001006,
-      "translation": "AIV",
-      "book": 72,
-      "bookName": "Jude",
-      "bookAbbreviation": "Jude",
-      "chapter": 1,
       "verse": 6,
       "text": "And the angels who did not keep their own position but abandoned their proper dwelling, He has kept in eternal chains under darkness for judgment on the great day.",
       "links": "<a href='/AIV/1/6/1-4'>Gen. 6:1-4</a>; <a href='/AIV/61/2/4'>2 Pet. 2:4</a>",
@@ -81,11 +53,6 @@
     },
     {
       "pk": 72001007,
-      "translation": "AIV",
-      "book": 72,
-      "bookName": "Jude",
-      "bookAbbreviation": "Jude",
-      "chapter": 1,
       "verse": 7,
       "text": "Just as Sodom and Gomorrah and the surrounding cities, which, in sexual immorality and unnatural desire, serve as an example by suffering the punishment of eternal fire.",
       "links": "<a href='/AIV/1/19/24-25'>Gen. 19:24-25</a>; <a href='/AIV/66/20/10'>Rev. 20:10</a>",
@@ -93,11 +60,6 @@
     },
     {
       "pk": 72001008,
-      "translation": "AIV",
-      "book": 72,
-      "bookName": "Jude",
-      "bookAbbreviation": "Jude",
-      "chapter": 1,
       "verse": 8,
       "text": "Yet in the same way these people also, relying on their dreams, defile the flesh, reject authority, and blaspheme glorious beings.",
       "links": "<a href='/AIV/61/2/10'>2 Pet. 2:10</a>; <a href='/AIV/45/13/1-2'>Rom. 13:1-2</a>",
@@ -106,11 +68,6 @@
     },
     {
       "pk": 72001009,
-      "translation": "AIV",
-      "book": 72,
-      "bookName": "Jude",
-      "bookAbbreviation": "Jude",
-      "chapter": 1,
       "verse": 9,
       "text": "But when the archangel Michael, disputing with the devil about the body of Moses, did not dare to pronounce a blasphemous judgment, but said, 'The Lord rebuke you.'",
       "links": "<a href='/AIV/27/10/13'>Dan. 10:13</a>; <a href='/AIV/66/12/7'>Rev. 12:7</a>",
@@ -118,11 +75,6 @@
     },
     {
       "pk": 72001010,
-      "translation": "AIV",
-      "book": 72,
-      "bookName": "Jude",
-      "bookAbbreviation": "Jude",
-      "chapter": 1,
       "verse": 10,
       "text": "But these people blaspheme what they do not understand and are destroyed by all that they, like unreasoning animals, understand instinctively.",
       "links": "<a href='/AIV/61/2/12'>2 Pet. 2:12</a>",
@@ -130,11 +82,6 @@
     },
     {
       "pk": 72001011,
-      "translation": "AIV",
-      "book": 72,
-      "bookName": "Jude",
-      "bookAbbreviation": "Jude",
-      "chapter": 1,
       "verse": 11,
       "text": "Woe to them! For they have gone the way of Cain, rushed headlong into Balaam’s error for profit, and perished in Korah’s rebellion.",
       "links": "<a href='/AIV/1/4/8'>Gen. 4:8</a>; <a href='/AIV/4/22/7'>Num. 22:7</a>; <a href='/AIV/4/16/32'>Num. 16:32</a>",
@@ -142,11 +89,6 @@
     },
     {
       "pk": 72001012,
-      "translation": "AIV",
-      "book": 72,
-      "bookName": "Jude",
-      "bookAbbreviation": "Jude",
-      "chapter": 1,
       "verse": 12,
       "text": "These are hidden reefs at your love feasts, feasting with you without fear, shepherds who care only for themselves; clouds without water, carried by the winds; autumn trees without fruit, twice dead, uprooted;",
       "links": "<a href='/AIV/61/2/13'>2 Pet. 2:13</a>; <a href='/AIV/58/13/9'>Heb. 13:9</a>",
@@ -154,11 +96,6 @@
     },
     {
       "pk": 72001013,
-      "translation": "AIV",
-      "book": 72,
-      "bookName": "Jude",
-      "bookAbbreviation": "Jude",
-      "chapter": 1,
       "verse": 13,
       "text": "Wild waves of the sea, casting up the foam of their own shame; wandering stars, for whom the gloom of deep darkness has been reserved forever.",
       "links": "<a href='/AIV/23/57/20'>Isa. 57:20</a>; <a href='/AIV/40/8/12'>Matt. 8:12</a>",
@@ -166,11 +103,6 @@
     },
     {
       "pk": 72001014,
-      "translation": "AIV",
-      "book": 72,
-      "bookName": "Jude",
-      "bookAbbreviation": "Jude",
-      "chapter": 1,
       "verse": 14,
       "text": "It was also about these that Enoch, the seventh from Adam, prophesied, saying, 'Behold, the Lord comes with tens of thousands of His holy ones,'",
       "links": "<a href='/AIV/1/5/24'>Gen. 5:24</a>; <a href='/AIV/27/7/10'>Dan. 7:10</a>; <a href='/AIV/66/19/14'>Rev. 19:14</a>",
@@ -178,11 +110,6 @@
     },
     {
       "pk": 72001015,
-      "translation": "AIV",
-      "book": 72,
-      "bookName": "Jude",
-      "bookAbbreviation": "Jude",
-      "chapter": 1,
       "verse": 15,
       "text": "to execute judgment on all and to convict all the ungodly for all their works of ungodliness which they have committed and for all the harsh things that ungodly sinners have spoken against Him.",
       "links": "<a href='/AIV/40/25/31-46'>Matt. 25:31-46</a>; <a href='/AIV/66/20/11-15'>Rev. 20:11-15</a>",
@@ -190,11 +117,6 @@
     },
     {
       "pk": 72001016,
-      "translation": "AIV",
-      "book": 72,
-      "bookName": "Jude",
-      "bookAbbreviation": "Jude",
-      "chapter": 1,
       "verse": 16,
       "text": "These are grumblers, fault-finders, following their own passions; their mouths speak boastful words, flattering people for their own advantage.",
       "links": "<a href='/AIV/19/106/25'>Ps. 106:25</a>; <a href='/AIV/45/16/18'>Rom. 16:18</a>",
@@ -202,11 +124,6 @@
     },
     {
       "pk": 72001017,
-      "translation": "AIV",
-      "book": 72,
-      "bookName": "Jude",
-      "bookAbbreviation": "Jude",
-      "chapter": 1,
       "verse": 17,
       "text": "But you, beloved, remember the words spoken beforehand by the apostles of our Lord Jesus Christ.",
       "links": "<a href='/AIV/44/20/29-31'>Acts 20:29-31</a>; <a href='/AIV/61/3/2'>2 Pet. 3:2</a>",
@@ -215,11 +132,6 @@
     },
     {
       "pk": 72001018,
-      "translation": "AIV",
-      "book": 72,
-      "bookName": "Jude",
-      "bookAbbreviation": "Jude",
-      "chapter": 1,
       "verse": 18,
       "text": "They said to you, 'In the last time there will be scoffers, following their own ungodly desires.'",
       "links": "<a href='/AIV/55/3/1-5'>2 Tim. 3:1-5</a>; <a href='/AIV/61/3/3'>2 Pet. 3:3</a>",
@@ -227,11 +139,6 @@
     },
     {
       "pk": 72001019,
-      "translation": "AIV",
-      "book": 72,
-      "bookName": "Jude",
-      "bookAbbreviation": "Jude",
-      "chapter": 1,
       "verse": 19,
       "text": "These are the ones who cause divisions, worldly people, devoid of the Spirit.",
       "links": "<a href='/AIV/46/3/3'>1 Cor. 3:3</a>; <a href='/AIV/45/8/9'>Rom. 8:9</a>",
@@ -239,11 +146,6 @@
     },
     {
       "pk": 72001020,
-      "translation": "AIV",
-      "book": 72,
-      "bookName": "Jude",
-      "bookAbbreviation": "Jude",
-      "chapter": 1,
       "verse": 20,
       "text": "But you, beloved, building yourselves up in your most holy faith and praying in the Holy Spirit,",
       "links": "<a href='/AIV/46/14/15'>1 Cor. 14:15</a>; <a href='/AIV/49/6/18'>Eph. 6:18</a>",
@@ -251,11 +153,6 @@
     },
     {
       "pk": 72001021,
-      "translation": "AIV",
-      "book": 72,
-      "bookName": "Jude",
-      "bookAbbreviation": "Jude",
-      "chapter": 1,
       "verse": 21,
       "text": "keep yourselves in the love of God, waiting for the mercy of our Lord Jesus Christ that leads to eternal life.",
       "links": "<a href='/AIV/45/8/35-39'>Rom. 8:35-39</a>; <a href='/AIV/56/2/13'>Titus 2:13</a>",
@@ -263,11 +160,6 @@
     },
     {
       "pk": 72001022,
-      "translation": "AIV",
-      "book": 72,
-      "bookName": "Jude",
-      "bookAbbreviation": "Jude",
-      "chapter": 1,
       "verse": 22,
       "text": "And have mercy on those who doubt;",
       "links": "<a href='/AIV/48/6/1'>Gal. 6:1</a>",
@@ -275,11 +167,6 @@
     },
     {
       "pk": 72001023,
-      "translation": "AIV",
-      "book": 72,
-      "bookName": "Jude",
-      "bookAbbreviation": "Jude",
-      "chapter": 1,
       "verse": 23,
       "text": "save others by snatching them out of the fire; to others show mercy with fear, hating even the garment stained by the flesh.",
       "links": "<a href='/AIV/38/3/2'>Zech. 3:2</a>; <a href='/AIV/66/3/4'>Rev. 3:4</a>",
@@ -287,11 +174,6 @@
     },
     {
       "pk": 72001024,
-      "translation": "AIV",
-      "book": 72,
-      "bookName": "Jude",
-      "bookAbbreviation": "Jude",
-      "chapter": 1,
       "verse": 24,
       "text": "Now to Him who is able to keep you from stumbling and to present you blameless before the presence of His glory with great joy,",
       "links": "<a href='/AIV/51/1/22'>Col. 1:22</a>; <a href='/AIV/45/14/4'>Rom. 14:4</a>",
@@ -300,48 +182,10 @@
     },
     {
       "pk": 72001025,
-      "translation": "AIV",
-      "book": 72,
-      "bookName": "Jude",
-      "bookAbbreviation": "Jude",
-      "chapter": 1,
       "verse": 25,
       "text": "to the only God, our Savior, through Jesus Christ our Lord, be glory, majesty, power, and authority, before all time and now and forever. Amen.",
       "links": "<a href='/AIV/54/1/17'>1 Tim. 1:17</a>; <a href='/AIV/45/16/27'>Rom. 16:27</a>",
       "comment": "The conclusion exalts God’s eternal dominion through Jesus, echoing the worship and recognition of God's sovereignty in the life of the church. The high Christology (identifying Jesus as Lord and Savior) mirrors ancient hymns and points to the centrality of liturgical prayer."
-    }
-  ],
-  "translatedAt": "2025-12-24T12:33:05.598Z",
-  "sections": [
-    {
-      "title": "Greeting and Blessing",
-      "startVerse": 1,
-      "endVerse": 2
-    },
-    {
-      "title": "The Warning Against False Teachers",
-      "startVerse": 3,
-      "endVerse": 4
-    },
-    {
-      "title": "Examples of Judgment on the Ungodly",
-      "startVerse": 5,
-      "endVerse": 7
-    },
-    {
-      "title": "Characteristics and Fate of the False Teachers",
-      "startVerse": 8,
-      "endVerse": 16
-    },
-    {
-      "title": "Exhortation to the Faithful",
-      "startVerse": 17,
-      "endVerse": 23
-    },
-    {
-      "title": "Doxology",
-      "startVerse": 24,
-      "endVerse": 25
     }
   ]
 }

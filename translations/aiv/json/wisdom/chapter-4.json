@@ -1,16 +1,13 @@
 {
-  "book": 27,
+  "translation": "AIV",
+  "bookId": "wisdom",
   "bookName": "Wisdom",
   "bookAbbreviation": "Wis",
+  "bookNumber": 27,
   "chapter": 4,
   "verses": [
     {
       "pk": 27004001,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 4,
       "verse": 1,
       "text": "Better is virtue that stands alone than offspring without it; for virtue is immortal, and it is recognized both by God and by men.",
       "links": "<a href='/AIV/20/22/1'>Prov. 22:1</a>; <a href='/AIV/19/112/6'>Ps. 112:6</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 27004002,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 4,
       "verse": 2,
       "text": "When virtue is present, people imitate it; and when it has been taken away, they eagerly seek it. In life, virtue leads to victory and in death, it leaves an enduring remembrance.",
       "links": "<a href='/AIV/58/11/4'>Heb. 11:4</a>; <a href='/AIV/19/37/37'>Ps. 37:37</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 27004003,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 4,
       "verse": 3,
       "text": "But the numerous families of the ungodly shall not flourish, nor will illegitimate shoots take root, nor will they put down secure foundations.",
       "links": "<a href='/AIV/19/92/7'>Ps. 92:7</a>; <a href='/AIV/18/18/16-19'>Job 18:16-19</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 27004004,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 4,
       "verse": 4,
       "text": "For even if they grow rich for a time, in the end they will be unregarded and their offshoots will be cursed and their roots will be forgotten.",
       "links": "<a href='/AIV/19/37/2'>Ps. 37:2</a>; <a href='/AIV/19/1/4'>Ps. 1:4</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 27004005,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 4,
       "verse": 5,
       "text": "For they bear fruit that is worthless, which will not ripen or be profitable, and will be consumed before harvest.",
       "links": "<a href='/AIV/40/13/7'>Matt. 13:7</a>; <a href='/AIV/66/14/19'>Rev. 14:19</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 27004006,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 4,
       "verse": 6,
       "text": "For children born of unlawful unions bear witness to evil, against their parents when examined.",
       "links": "<a href='/AIV/05/23/2'>Deut. 23:2</a>; <a href='/AIV/23/65/20'>Isa. 65:20</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 27004007,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 4,
       "verse": 7,
       "text": "But the righteous, though they die early, shall be at rest.",
       "links": "<a href='/AIV/23/57/2'>Isa. 57:2</a>; <a href='/AIV/66/14/13'>Rev. 14:13</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 27004008,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 4,
       "verse": 8,
       "text": "For old age is not honored by long life, nor measured by the number of years;",
       "links": "<a href='/AIV/19/90/10'>Ps. 90:10</a>; <a href='/AIV/23/65/20'>Isa. 65:20</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 27004009,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 4,
       "verse": 9,
       "text": "but understanding is gray hair for men, and a blameless life is ripe old age.",
       "links": "<a href='/AIV/20/16/31'>Prov. 16:31</a>; <a href='/AIV/20/3/2'>Prov. 3:2</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 27004010,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 4,
       "verse": 10,
       "text": "He pleased God and was beloved by Him; living among sinners, he was taken up.",
       "links": "<a href='/AIV/01/5/24'>Gen. 5:24</a>; <a href='/AIV/58/11/5'>Heb. 11:5</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 27004011,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 4,
       "verse": 11,
       "text": "He was removed so that evil might not change his understanding or deceit beguile his soul.",
       "links": "<a href='/AIV/19/121/7'>Ps. 121:7</a>; <a href='/AIV/60/2/9'>1 Pet. 2:9</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 27004012,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 4,
       "verse": 12,
       "text": "For the fascination of wickedness obscures what is good, and the wantonness of desire perverts an innocent mind.",
       "links": "<a href='/AIV/23/5/20'>Isa. 5:20</a>; <a href='/AIV/20/5/22-23'>Prov. 5:22-23</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 27004013,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 4,
       "verse": 13,
       "text": "Being perfected in a short time, he fulfilled long years; for his soul was pleasing to the Lord.",
       "links": "<a href='/AIV/19/84/10'>Ps. 84:10</a>; <a href='/AIV/66/2/10'>Rev. 2:10</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 27004014,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 4,
       "verse": 14,
       "text": "Therefore He hurried him out of the midst of wickedness. But the people see it and do not understand, nor do they take such things to heart:",
       "links": "<a href='/AIV/23/6/9-10'>Isa. 6:9-10</a>; <a href='/AIV/40/13/14-15'>Matt. 13:14-15</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 27004015,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 4,
       "verse": 15,
       "text": "that God’s grace and mercy are with His chosen, and care for His holy ones.",
       "links": "<a href='/AIV/19/103/17'>Ps. 103:17</a>; <a href='/AIV/45/8/28-30'>Rom. 8:28-30</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 27004016,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 4,
       "verse": 16,
       "text": "But the righteous who die will condemn the ungodly who live long lives, and youth quickly perfected will judge the many years of the aged unrighteous.",
       "links": "<a href='/AIV/19/49/14'>Ps. 49:14</a>; <a href='/AIV/40/19/30'>Matt. 19:30</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 27004017,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 4,
       "verse": 17,
       "text": "For the unrighteous will see the end of the wise and will not understand what the Lord has purposed concerning them, nor why He has kept them safe.",
       "links": "<a href='/AIV/19/73/17'>Ps. 73:17</a>; <a href='/AIV/45/11/33'>Rom. 11:33</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 27004018,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 4,
       "verse": 18,
       "text": "They will look upon him and mock, but the Lord will laugh them to scorn.",
       "links": "<a href='/AIV/19/2/4'>Ps. 2:4</a>; <a href='/AIV/19/37/13'>Ps. 37:13</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 27004019,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 4,
       "verse": 19,
       "text": "Afterward they will be a dishonored corpse and an everlasting disgrace among the dead;",
       "links": "<a href='/AIV/23/66/24'>Isa. 66:24</a>; <a href='/AIV/27/12/2'>Dan. 12:2</a>",
@@ -237,33 +144,10 @@
     },
     {
       "pk": 27004020,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 4,
       "verse": 20,
       "text": "for He will cast them down speechless, and pull them from the foundations. They will be utterly wasted; and they will be in sorrow, and their memory will perish.",
       "links": "<a href='/AIV/19/9/5-6'>Ps. 9:5-6</a>; <a href='/AIV/66/20/11-15'>Rev. 20:11-15</a>",
       "comment": "Judgment and erasure of memory for the wicked is part of biblical teaching on ultimate justice, encouraging perseverance in virtue and living as part of the holy people of God."
-    }
-  ],
-  "translatedAt": "2025-12-24T07:15:48.826Z",
-  "sections": [
-    {
-      "title": "The Immortality of Virtue and the Fate of the Wicked",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "The Blessed Death of the Righteous",
-      "startVerse": 7,
-      "endVerse": 15
-    },
-    {
-      "title": "Judgment Upon the Ungodly",
-      "startVerse": 16,
-      "endVerse": 20
     }
   ]
 }

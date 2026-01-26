@@ -1,16 +1,13 @@
 {
-  "book": 22,
+  "translation": "AIV",
+  "bookId": "job",
   "bookName": "Job",
   "bookAbbreviation": "Job",
+  "bookNumber": 22,
   "chapter": 11,
   "verses": [
     {
       "pk": 22011001,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 11,
       "verse": 1,
       "text": "Then Zophar the Naamathite answered and said:",
       "links": "<a href='/AIV/22/2/11'>Job. 2:11</a>; <a href='/AIV/22/20/1'>Job. 20:1</a>; <a href='/AIV/22/42/7'>Job. 42:7</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 22011002,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 11,
       "verse": 2,
       "text": "Should a multitude of words go unanswered, and should a man full of talk be justified?",
       "links": "<a href='/AIV/18/8/2'>Job 8:2</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 22011003,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 11,
       "verse": 3,
       "text": "Should your boasting silence men, and when you mock, shall no one make you ashamed?",
       "links": "<a href='/AIV/18/15/2-6'>Job 15:2-6</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 22011004,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 11,
       "verse": 4,
       "text": "For you say, 'My doctrine is pure, and I am clean in your eyes.'",
       "links": "<a href='/AIV/18/9/21-22'>Job 9:21-22</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 22011005,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 11,
       "verse": 5,
       "text": "But oh, that God would speak and open His lips against you,",
       "links": "<a href='/AIV/22/33/14'>Job. 33:14</a>; <a href='/AIV/23/50/21'>Ps. 50:21</a>; <a href='/AIV/22/38/1'>Job. 38:1</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 22011006,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 11,
       "verse": 6,
       "text": "and that He would show you the secrets of wisdom! For true wisdom has two sides. Know then that God exacts of you less than your guilt deserves.",
       "links": "<a href='/AIV/18/9/2'>Job 9:2</a>; <a href='/AIV/19/103/10'>Ps. 103:10</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 22011007,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 11,
       "verse": 7,
       "text": "Can you find out the deep things of God? Can you find out the limit of the Almighty?",
       "links": "<a href='/AIV/45/11/33'>Rom. 11:33</a>; <a href='/AIV/18/36/26'>Job 36:26</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 22011008,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 11,
       "verse": 8,
       "text": "They are higher than heaven—what can you do? They are deeper than Sheol—what can you know?",
       "links": "<a href='/AIV/19/139/8'>Ps. 139:8</a>; <a href='/AIV/20/25/3'>Prov. 25:3</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 22011009,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 11,
       "verse": 9,
       "text": "Its measure is longer than the earth and broader than the sea.",
       "links": "<a href='/AIV/19/103/11'>Ps. 103:11</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 22011010,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 11,
       "verse": 10,
       "text": "If He passes by, and imprisons, and calls to judgment, who can hinder Him?",
       "links": "<a href='/AIV/19/135/6'>Ps. 135:6</a>; <a href='/AIV/45/9/19-20'>Rom. 9:19-20</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 22011011,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 11,
       "verse": 11,
       "text": "For He knows worthless men; when He sees iniquity, will He not consider it?",
       "links": "<a href='/AIV/19/94/9-11'>Ps. 94:9-11</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 22011012,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 11,
       "verse": 12,
       "text": "But a foolish man will become wise when a wild donkey’s colt is born a man.",
       "links": "<a href='/AIV/23/49/20'>Ps. 49:20</a>; <a href='/AIV/24/27/22'>Prov. 27:22</a>; <a href='/AIV/30/13/23'>Jer. 13:23</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 22011013,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 11,
       "verse": 13,
       "text": "If you prepare your heart, and stretch out your hands toward Him,",
       "links": "<a href='/AIV/19/143/6'>Ps. 143:6</a>; <a href='/AIV/54/2/8'>1 Tim. 2:8</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 22011014,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 11,
       "verse": 14,
       "text": "if iniquity is in your hand, put it far away, and do not let wickedness dwell in your tents.",
       "links": "<a href='/AIV/19/34/14'>Ps. 34:14</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 22011015,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 11,
       "verse": 15,
       "text": "Surely then you will lift up your face without blemish; you will be steadfast, and will not fear.",
       "links": "<a href='/AIV/19/119/6'>Ps. 119:6</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 22011016,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 11,
       "verse": 16,
       "text": "For you will forget your misery; you will remember it as waters that have passed away.",
       "links": "<a href='/AIV/23/65/16'>Isa. 65:16</a>; <a href='/AIV/66/21/4'>Rev. 21:4</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 22011017,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 11,
       "verse": 17,
       "text": "And your life will be brighter than noonday; though there is darkness, it will be like the morning.",
       "links": "<a href='/AIV/19/37/6'>Ps. 37:6</a>; <a href='/AIV/23/58/10'>Isa. 58:10</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 22011018,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 11,
       "verse": 18,
       "text": "And you will feel secure, because there is hope; you will look around and lie down in safety.",
       "links": "<a href='/AIV/19/4/8'>Ps. 4:8</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 22011019,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 11,
       "verse": 19,
       "text": "You will lie down, and none will make you afraid; many will seek your favor.",
       "links": "<a href='/AIV/19/3/5'>Ps. 3:5</a>",
@@ -237,39 +144,11 @@
     },
     {
       "pk": 22011020,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 11,
       "verse": 20,
       "text": "But the eyes of the wicked will fail; they shall have no escape, and their hope is but giving up the spirit.",
       "links": "<a href='/AIV/19/112/10'>Ps. 112:10</a>; <a href='/AIV/20/10/28'>Prov. 10:28</a>",
       "comment": "The theme of hopelessness for the wicked returns. Ultimately, Job’s story points toward the necessity of redemption—fully realized only in Christ, who brings hope even into judgment (<a href='/AIV/43/5/24'>John 5:24</a>).",
       "sectionHeader": "The Fate of the Wicked"
-    }
-  ],
-  "translatedAt": "2025-12-24T05:44:19.348Z",
-  "sections": [
-    {
-      "title": "Zophar Rebukes Job's Words",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "The Incomprehensibility of God's Wisdom",
-      "startVerse": 7,
-      "endVerse": 12
-    },
-    {
-      "title": "Exhortation to Repentance and Promise of Restoration",
-      "startVerse": 13,
-      "endVerse": 19
-    },
-    {
-      "title": "The Fate of the Wicked",
-      "startVerse": 20,
-      "endVerse": 20
     }
   ]
 }

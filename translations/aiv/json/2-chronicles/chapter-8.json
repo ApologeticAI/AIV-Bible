@@ -1,16 +1,13 @@
 {
-  "book": 14,
+  "translation": "AIV",
+  "bookId": "2-chronicles",
   "bookName": "2 Chronicles",
-  "bookAbbreviation": "2Chr",
+  "bookAbbreviation": "2 Chr",
+  "bookNumber": 14,
   "chapter": 8,
   "verses": [
     {
       "pk": 14008001,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 8,
       "verse": 1,
       "text": "After twenty years, during which Solomon had built the house of the LORD and his own royal palace,",
       "links": "<a href='/AIV/11/9/10'>1 Kgs. 9:10</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 14008002,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 8,
       "verse": 2,
       "text": "Solomon rebuilt the cities that Huram had given him, and settled Israelites there.",
       "links": "<a href='/AIV/11/9/11'>1 Kgs. 9:11-13</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 14008003,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 8,
       "verse": 3,
       "text": "Then Solomon went to Hamath-zobah and took it.",
       "links": "<a href='/AIV/10/8/3'>2 Sam. 8:3</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 14008004,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 8,
       "verse": 4,
       "text": "He built Tadmor in the wilderness, as well as all the storage cities that he built in Hamath.",
       "links": "<a href='/AIV/11/9/18'>1 Kgs. 9:18</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 14008005,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 8,
       "verse": 5,
       "text": "He also built Upper Beth-horon and Lower Beth-horon, fortified cities with walls, gates, and bars,",
       "links": "<a href='/AIV/11/9/17'>1 Kgs. 9:17; <a href='/AIV/6/10/10'>Josh. 10:10-11</a></a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 14008006,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 8,
       "verse": 6,
       "text": "and Baalath, and all the storage cities that belonged to Solomon, and all the cities for his chariots and horses, and whatever Solomon desired to build in Jerusalem, Lebanon, and throughout all the land of his dominion.",
       "links": "<a href='/AIV/11/9/19'>1 Kgs. 9:19</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 14008007,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 8,
       "verse": 7,
       "text": "All the people who were left of the Hittites, Amorites, Perizzites, Hivites, and Jebusites, who were not of Israel,",
       "links": "<a href='/AIV/11/9/20'>1 Kgs. 9:20</a>; <a href='/AIV/6/13/13'>Josh. 13:13</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 14008008,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 8,
       "verse": 8,
       "text": "their descendants who had been left in the land, whom the people of Israel had not destroyed—Solomon made them do forced labor to this day.",
       "links": "<a href='/AIV/1/9/27'>Gen. 9:27</a>; <a href='/AIV/6/16/10'>Josh. 16:10</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 14008009,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 8,
       "verse": 9,
       "text": "But of the Israelites Solomon did not make slaves for his work; they were soldiers, commanders, officers, and captains of his chariots and horsemen.",
       "links": "<a href='/AIV/11/9/22'>1 Kgs. 9:22</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 14008010,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 8,
       "verse": 10,
       "text": "These were the chief officers of King Solomon, two hundred and fifty, who ruled over the people.",
       "links": "<a href='/AIV/11/9/23'>1 Kgs. 9:23</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 14008011,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 8,
       "verse": 11,
       "text": "Solomon brought Pharaoh’s daughter up from the city of David to the house he had built for her, for he said, 'My wife shall not live in the house of David king of Israel, because the places have become holy, where the ark of the LORD has entered.'",
       "links": "<a href='/AIV/11/3/1'>1 Kgs. 3:1</a>; <a href='/AIV/16/13/7'>Neh. 13:7-9</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 14008012,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 8,
       "verse": 12,
       "text": "Then Solomon offered burnt offerings to the LORD on the altar of the LORD which he had built before the porch,",
       "links": "<a href='/AIV/14/7/7'>2 Chr. 7:7</a>; <a href='/AIV/3/1/9'>Lev. 1:9</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 14008013,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 8,
       "verse": 13,
       "text": "according to the daily requirement of each day, offering according to the commandment of Moses, for the Sabbaths, the New Moons, and the fixed feasts, three times a year: the Feast of Unleavened Bread, the Feast of Weeks, and the Feast of Booths.",
       "links": "<a href='/AIV/3/23/4-44'>Lev. 23:4-44</a>; <a href='/AIV/4/28/9-15'>Num. 28:9-15</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 14008014,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 8,
       "verse": 14,
       "text": "According to the order of his father David, he appointed the divisions of the priests for their service, and the Levites for their offices of praise and ministry beside the priests, as the daily duty required. And the gatekeepers by their divisions at each gate, for so David the man of God had commanded.",
       "links": "<a href='/AIV/13/24/3'>1 Chr. 24:3</a>; <a href='/AIV/13/25/1'>1 Chr. 25:1</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 14008015,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 8,
       "verse": 15,
       "text": "They did not turn aside from what the king commanded to the priests and Levites, in any matter concerning the treasuries.",
       "links": "<a href='/AIV/16/12/45'>Neh. 12:45</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 14008016,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 8,
       "verse": 16,
       "text": "Now all the work of Solomon was accomplished from the day the foundation of the house of the LORD was laid until it was finished. So the house of the LORD was completed.",
       "links": "<a href='/AIV/14/3/2'>2 Chr. 3:2</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 14008017,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 8,
       "verse": 17,
       "text": "Then Solomon went to Ezion-geber and Eloth on the shore of the sea, in the land of Edom.",
       "links": "<a href='/AIV/11/9/26'>1 Kgs. 9:26</a>; <a href='/AIV/5/2/8'>Deut. 2:8</a>",
@@ -214,38 +131,10 @@
     },
     {
       "pk": 14008018,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 8,
       "verse": 18,
       "text": "And Huram sent to him by his servants ships and servants who understood the sea. They went to Ophir along with Solomon’s servants, and brought from there 450 talents of gold, and brought it to King Solomon.",
       "links": "<a href='/AIV/11/9/28'>1 Kgs. 9:28</a>; <a href='/AIV/18/28/16'>Job 28:16</a>",
       "comment": "The procurement of gold from Ophir shows the prosperity that flowed to Israel under Solomon, attracting Gentile collaboration. Israel’s blessing foreshadows the gathering of all nations into the worship of the one true God."
-    }
-  ],
-  "translatedAt": "2025-12-24T04:25:28.280Z",
-  "sections": [
-    {
-      "title": "Solomon’s Building Projects and Fortifications",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "Solomon’s Treatment of Foreign Peoples and Officials",
-      "startVerse": 7,
-      "endVerse": 10
-    },
-    {
-      "title": "Pharaoh’s Daughter and Religious Duties Instituted",
-      "startVerse": 11,
-      "endVerse": 16
-    },
-    {
-      "title": "Solomon’s Expedition to Ophir",
-      "startVerse": 17,
-      "endVerse": 18
     }
   ]
 }

@@ -1,16 +1,13 @@
 {
-  "book": 35,
+  "translation": "AIV",
+  "bookId": "hosea",
   "bookName": "Hosea",
   "bookAbbreviation": "Hos",
+  "bookNumber": 35,
   "chapter": 5,
   "verses": [
     {
       "pk": 35005001,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 5,
       "verse": 1,
       "text": "Hear this, O priests! Pay attention, O house of Israel! Listen, O house of the king! For the judgment is directed to you: for you have become a snare at Mizpah, and a net spread upon Tabor.",
       "links": "<a href='/AIV/23/28/1'>Isa. 28:1</a>; <a href='/AIV/28/9/8'>Hos. 9:8</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 35005002,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 5,
       "verse": 2,
       "text": "Those who have rebelled have gone deep into slaughter, but I will discipline all of them.",
       "links": "<a href='/AIV/19/94/7'>Ps. 94:7</a>; <a href='/AIV/24/8/6'>Jer. 8:6</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 35005003,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 5,
       "verse": 3,
       "text": "I know Ephraim, and Israel is not hidden from me. For now, O Ephraim, you have turned to prostitution; Israel has become defiled.",
       "links": "<a href='/AIV/19/139/1'>Ps. 139:1</a>; <a href='/AIV/23/1/21'>Isa. 1:21</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 35005004,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 5,
       "verse": 4,
       "text": "Their deeds do not permit them to return to their God, for a spirit of prostitution is within them, and they do not know the LORD.",
       "links": "<a href='/AIV/23/29/13'>Isa. 29:13</a>; <a href='/AIV/28/4/12'>Hos. 4:12</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 35005005,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 5,
       "verse": 5,
       "text": "The pride of Israel testifies against him; Israel and Ephraim stumble in their guilt; even Judah stumbles with them.",
       "links": "<a href='/AIV/20/16/18'>Prov. 16:18</a>; <a href='/AIV/23/3/8'>Isa. 3:8</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 35005006,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 5,
       "verse": 6,
       "text": "With their flocks and herds they go to seek the LORD, but they will not find Him; He has withdrawn from them.",
       "links": "<a href='/AIV/19/66/18'>Ps. 66:18</a>; <a href='/AIV/23/1/15'>Isa. 1:15</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 35005007,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 5,
       "verse": 7,
       "text": "They have betrayed the LORD; for they have borne illegitimate children. Now the new moon will devour them with their fields.",
       "links": "<a href='/AIV/28/1/2'>Hos. 1:2</a>; <a href='/AIV/23/9/16'>Isa. 9:16</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 35005008,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 5,
       "verse": 8,
       "text": "Blow the horn in Gibeah, the trumpet in Ramah. Sound an alarm at Beth-aven: 'Behind you, Benjamin!'",
       "links": "<a href='/AIV/07/5/14'>Judg. 5:14</a>; <a href='/AIV/28/8/1'>Hos. 8:1</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 35005009,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 5,
       "verse": 9,
       "text": "Ephraim shall become a desolation in the day of rebuke; among the tribes of Israel I make known what is certain.",
       "links": "<a href='/AIV/28/9/3'>Hos. 9:3</a>; <a href='/AIV/05/28/45'>Deut. 28:45</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 35005010,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 5,
       "verse": 10,
       "text": "The princes of Judah have become like those who move boundary stones; upon them I will pour out my wrath like water.",
       "links": "<a href='/AIV/05/19/14'>Deut. 19:14</a>; <a href='/AIV/23/10/1'>Isa. 10:1</a>",
@@ -127,11 +79,6 @@
     },
     {
       "pk": 35005011,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 5,
       "verse": 11,
       "text": "Ephraim is oppressed, crushed in judgment, because he was determined to follow human commands.",
       "links": "<a href='/AIV/23/29/13'>Isa. 29:13</a>; <a href='/AIV/40/15/9'>Matt. 15:9</a>",
@@ -139,11 +86,6 @@
     },
     {
       "pk": 35005012,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 5,
       "verse": 12,
       "text": "Therefore I am like a moth to Ephraim, and like rottenness to the house of Judah.",
       "links": "<a href='/AIV/19/39/11'>Ps. 39:11</a>; <a href='/AIV/23/51/8'>Isa. 51:8</a>",
@@ -151,11 +93,6 @@
     },
     {
       "pk": 35005013,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 5,
       "verse": 13,
       "text": "When Ephraim saw his sickness, and Judah his wound, Ephraim went to Assyria and sent to the great king. But he cannot heal you, nor cure your wound.",
       "links": "<a href='/AIV/28/7/11'>Hos. 7:11</a>; <a href='/AIV/23/30/2'>Isa. 30:2</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 35005014,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 5,
       "verse": 14,
       "text": "For I will be like a lion to Ephraim, and like a young lion to the house of Judah. I, even I, will tear and go away; I will carry off, and no one will rescue.",
       "links": "<a href='/AIV/23/31/4'>Isa. 31:4</a>; <a href='/AIV/25/3/10'>Lam. 3:10</a>",
@@ -176,34 +108,11 @@
     },
     {
       "pk": 35005015,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 5,
       "verse": 15,
       "text": "I will return to my place until they admit their guilt and seek my face; in their distress they will earnestly seek me.",
       "links": "<a href='/AIV/28/6/1'>Hos. 6:1</a>; <a href='/AIV/24/29/13'>Jer. 29:13</a>",
       "comment": "Divine withdrawal is temporary and aims at conversion and restoration. Repentance is the necessary response, pointing ahead to God’s mercy in Christ, where full reconciliation is made possible through both individual contrition and communal confession.",
       "sectionHeader": "God Awaits Their Repentance"
-    }
-  ],
-  "translatedAt": "2025-12-24T09:36:38.494Z",
-  "sections": [
-    {
-      "title": "Judgment Against Israel and Judah",
-      "startVerse": 1,
-      "endVerse": 12
-    },
-    {
-      "title": "Israel and Judah Seek Help in Vain",
-      "startVerse": 13,
-      "endVerse": 14
-    },
-    {
-      "title": "God Awaits Their Repentance",
-      "startVerse": 15,
-      "endVerse": 15
     }
   ]
 }

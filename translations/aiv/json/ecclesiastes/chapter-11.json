@@ -1,16 +1,13 @@
 {
-  "book": 25,
+  "translation": "AIV",
+  "bookId": "ecclesiastes",
   "bookName": "Ecclesiastes",
   "bookAbbreviation": "Eccl",
+  "bookNumber": 25,
   "chapter": 11,
   "verses": [
     {
       "pk": 25011001,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 11,
       "verse": 1,
       "text": "Cast your bread upon the waters, for you will find it again after many days.",
       "links": "<a href='/AIV/19/112/9'>Ps. 112:9</a>; <a href='/AIV/42/6/38'>Luke 6:38</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 25011002,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 11,
       "verse": 2,
       "text": "Give a portion to seven, or even to eight, for you do not know what disaster may happen on earth.",
       "links": "<a href='/AIV/20/6/16'>Prov. 6:16</a>; <a href='/AIV/42/12/33'>Luke 12:33</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 25011003,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 11,
       "verse": 3,
       "text": "If the clouds are full of rain, they empty themselves upon the earth; and whether a tree falls to the south or to the north, in the place where the tree falls, there it will lie.",
       "links": "<a href='/AIV/18/37/11'>Job 37:11</a>; <a href='/AIV/40/7/17'>Matt. 7:17</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 25011004,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 11,
       "verse": 4,
       "text": "Whoever watches the wind will not plant, and whoever looks at the clouds will not reap.",
       "links": "<a href='/AIV/40/25/24-27'>Matt. 25:24-27</a>; <a href='/AIV/19/126/5'>Ps. 126:5</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 25011005,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 11,
       "verse": 5,
       "text": "As you do not know the path of the wind, or how the bones grow in the womb of a pregnant woman, so you do not know the work of God, who makes all things.",
       "links": "<a href='/AIV/18/10/11'>Job 10:11</a>; <a href='/AIV/43/3/8'>John 3:8</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 25011006,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 11,
       "verse": 6,
       "text": "Sow your seed in the morning, and do not be idle in the evening, for you do not know which will succeed, whether this or that, or whether both will be equally good.",
       "links": "<a href='/AIV/19/90/17'>Ps. 90:17</a>; <a href='/AIV/48/6/9'>Gal. 6:9</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 25011007,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 11,
       "verse": 7,
       "text": "Light is sweet, and it is pleasant for the eyes to see the sun.",
       "links": "<a href='/AIV/19/36/9'>Ps. 36:9</a>; <a href='/AIV/43/1/4-9'>John 1:4-9</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 25011008,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 11,
       "verse": 8,
       "text": "So if a person lives many years, let him rejoice in them all, but let him remember that the days of darkness will be many. All that comes is vapor.",
       "links": "<a href='/AIV/19/39/5'>Ps. 39:5</a>; <a href='/AIV/59/4/14'>James 4:14</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 25011009,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 11,
       "verse": 9,
       "text": "Rejoice, young person, in your youth, and let your heart be glad in the days of your youth. Follow the ways of your heart and whatever your eyes see, but know that for all these things God will bring you into judgment.",
       "links": "<a href='/AIV/21/12/14'>Eccl. 12:14</a>; <a href='/AIV/40/12/36'>Matt. 12:36</a>",
@@ -116,28 +73,10 @@
     },
     {
       "pk": 25011010,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 11,
       "verse": 10,
       "text": "Remove sorrow from your heart and put away pain from your body, for youth and the dawn of life are vapor.",
       "links": "<a href='/AIV/19/103/15-16'>Ps. 103:15-16</a>; <a href='/AIV/60/5/7'>1 Pet. 5:7</a>",
       "comment": "Closure is given to the chapter with advice to guard one’s heart and health, recognizing the fleeting nature of youthful days. This has spiritual meaning: just as life passes quickly, so do opportunities for holiness and grace. The example points to a life of prudent living and detachment from what is fleeting, aligning with the call to surrender burdens to God (1 Pet. 5:7) and focus on spiritual growth."
-    }
-  ],
-  "translatedAt": "2025-12-24T07:11:16.476Z",
-  "sections": [
-    {
-      "title": "Counsel on Generosity and Diligence",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "The Joy and Vanity of Youth",
-      "startVerse": 7,
-      "endVerse": 10
     }
   ]
 }

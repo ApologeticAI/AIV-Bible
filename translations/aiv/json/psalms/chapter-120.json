@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 120,
   "verses": [
     {
       "pk": 23120001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 120,
       "verse": 1,
       "text": "In my distress I called to the LORD, and He answered me.",
       "links": "<a href='/AIV/19/18/6'>Ps. 18:6</a>; <a href='/AIV/19/34/4'>Ps. 34:4</a>; <a href='/AIV/32/2/2'>Jonah 2:2</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23120002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 120,
       "verse": 2,
       "text": "LORD, deliver my soul from lying lips, from a deceitful tongue.",
       "links": "<a href='/AIV/19/31/18'>Ps. 31:18</a>; <a href='/AIV/19/140/3'>Ps. 140:3</a>; <a href='/AIV/20/6/17'>Prov. 6:17</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23120003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 120,
       "verse": 3,
       "text": "What shall be given to you, and what more shall be done to you, you deceitful tongue?",
       "links": "<a href='/AIV/19/52/4-5'>Ps. 52:4-5</a>; <a href='/AIV/20/12/19'>Prov. 12:19</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23120004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 120,
       "verse": 4,
       "text": "Sharp arrows of a warrior, with burning coals of the broom tree.",
       "links": "<a href='/AIV/19/7/12-13'>Ps. 7:12-13</a>; <a href='/AIV/19/64/3'>Ps. 64:3</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23120005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 120,
       "verse": 5,
       "text": "Woe to me, that I sojourn in Meshech, that I dwell among the tents of Kedar!",
       "links": "<a href='/AIV/19/56/8'>Ps. 56:8</a>; <a href='/AIV/01/10/2'>Gen. 10:2</a>; <a href='/AIV/01/25/13'>Gen. 25:13</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23120006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 120,
       "verse": 6,
       "text": "For too long my soul has dwelt with those who hate peace.",
       "links": "<a href='/AIV/19/109/5'>Ps. 109:5</a>; <a href='/AIV/19/55/6'>Ps. 55:6</a>",
@@ -79,23 +51,10 @@
     },
     {
       "pk": 23120007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 120,
       "verse": 7,
       "text": "I am for peace, but when I speak, they are for war.",
       "links": "<a href='/AIV/19/35/20'>Ps. 35:20</a>; <a href='/AIV/19/38/20'>Ps. 38:20</a>",
       "comment": "This final verse highlights the contrast between the desire for peace and the conflict in the world. It captures both the suffering of God’s people and the example of Christ, who is the true Prince of Peace (<a href='/AIV/23/9/6'>Isa. 9:6</a>; <a href='/AIV/40/5/9'>Matt. 5:9</a>). The spiritual interpretation urges unity and the pursuit of reconciliation—key marks of authentic faith."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:42:12.541Z",
-  "sections": [
-    {
-      "title": "Prayer for Deliverance from Falsehood",
-      "startVerse": 1,
-      "endVerse": 7
     }
   ]
 }

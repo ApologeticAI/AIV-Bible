@@ -1,16 +1,13 @@
 {
-  "book": 41,
+  "translation": "AIV",
+  "bookId": "nahum",
   "bookName": "Nahum",
   "bookAbbreviation": "Nah",
+  "bookNumber": 41,
   "chapter": 3,
   "verses": [
     {
       "pk": 41003001,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 3,
       "verse": 1,
       "text": "Woe to the city of blood, full of lies, full of plunder—never without victims!",
       "links": "<a href='/AIV/19/55/23'>Ps. 55:23</a>; <a href='/AIV/34/2/12'>Nah. 2:12</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 41003002,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 3,
       "verse": 2,
       "text": "The crack of whips, the rumble of wheels, galloping horses and charging chariots.",
       "links": "<a href='/AIV/34/2/4'>Nah. 2:4</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 41003003,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 3,
       "verse": 3,
       "text": "Horsemen charging, swords flashing and spears gleaming; many fallen, heaps of corpses, countless dead bodies—they stumble over the bodies.",
       "links": "<a href='/AIV/26/39/11'>Ezek. 39:11</a>; <a href='/AIV/24/25/33'>Jer. 25:33</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 41003004,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 3,
       "verse": 4,
       "text": "All this because of the countless acts of prostitution by the prostitute, alluring and skilled in sorcery, who enslaves nations with her prostitution and peoples by her witchcraft.",
       "links": "<a href='/AIV/23/47/9'>Isa. 47:9</a>; <a href='/AIV/66/17/2'>Rev. 17:2</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 41003005,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 3,
       "verse": 5,
       "text": "\"I am against you,\" declares the LORD of Armies, \"I will lift your skirts over your face; I will show the nations your nakedness and the kingdoms your shame.\"",
       "links": "<a href='/AIV/23/47/3'>Isa. 47:3</a>; <a href='/AIV/34/2/13'>Nah. 2:13</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 41003006,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 3,
       "verse": 6,
       "text": "I will throw filth on you, treat you with contempt, and make you a spectacle.",
       "links": "<a href='/AIV/17/6/12'>Esther 6:12</a>; <a href='/AIV/36/3/6'>Zeph. 3:6</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 41003007,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 3,
       "verse": 7,
       "text": "All who see you will flee from you and say, 'Nineveh is devastated. Who will mourn for her?' Where can I find anyone to comfort you?",
       "links": "<a href='/AIV/24/16/5'>Jer. 16:5</a>; <a href='/AIV/23/51/19'>Isa. 51:19</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 41003008,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 3,
       "verse": 8,
       "text": "Are you better than No-Amon, which was situated among the rivers, surrounded by waters, with the river as her rampart, whose wall was the water?",
       "links": "<a href='/AIV/24/46/25'>Jer. 46:25</a>; <a href='/AIV/26/30/14-16'>Ezek. 30:14–16</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 41003009,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 3,
       "verse": 9,
       "text": "Cush and Egypt were her strength—without limit; Put and the Libyans were her allies.",
       "links": "<a href='/AIV/23/20/3-5'>Isa. 20:3–5</a>; <a href='/AIV/26/30/5'>Ezek. 30:5</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 41003010,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 3,
       "verse": 10,
       "text": "Yet she was exiled, she went into captivity; her infants were dashed to pieces at every street corner. Lots were cast for her nobles, and all her great ones were bound in chains.",
       "links": "<a href='/AIV/19/137/9'>Ps. 137:9</a>; <a href='/AIV/24/51/20'>Jer. 51:20</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 41003011,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 3,
       "verse": 11,
       "text": "You too will become drunk; you will go into hiding and seek refuge from the enemy.",
       "links": "<a href='/AIV/23/19/14'>Isa. 19:14</a>; <a href='/AIV/24/25/27'>Jer. 25:27</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 41003012,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 3,
       "verse": 12,
       "text": "All your fortresses are like fig trees with the first ripe figs; when shaken, they fall into the mouth of the eater.",
       "links": "<a href='/AIV/24/24/2'>Jer. 24:2</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 41003013,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 3,
       "verse": 13,
       "text": "Look at your troops—they are all women! The gates of your land are wide open to your enemies; fire devours the bars of your gates.",
       "links": "<a href='/AIV/23/1/31'>Isa. 1:31</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 41003014,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 3,
       "verse": 14,
       "text": "Draw water for the siege! Strengthen your defenses! Work with clay, tread the mortar; repair the brickwork!",
       "links": "<a href='/AIV/23/22/10'>Isa. 22:10</a>; <a href='/AIV/24/6/1'>Jer. 6:1</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 41003015,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 3,
       "verse": 15,
       "text": "There the fire will consume you; the sword will cut you down. It will devour you like locusts. Multiply like grasshoppers, multiply like locusts!",
       "links": "<a href='/AIV/29/1/4'>Joel 1:4</a>; <a href='/AIV/07/6/5'>Judg. 6:5</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 41003016,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 3,
       "verse": 16,
       "text": "You have increased your merchants more than the stars of the heavens—yet the locusts strip all and fly away.",
       "links": "<a href='/AIV/01/15/5'>Gen. 15:5</a>; <a href='/AIV/20/23/5'>Prov. 23:5</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 41003017,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 3,
       "verse": 17,
       "text": "Your guards are like locusts, your officials like swarms of grasshoppers settling on the walls on a cold day—when the sun rises, they fly away, and no one knows where they have gone.",
       "links": "<a href='/AIV/29/2/25'>Joel 2:25</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 41003018,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 3,
       "verse": 18,
       "text": "King of Assyria, your shepherds slumber; your nobles rest. Your people are scattered on the mountains with no one to gather them.",
       "links": "<a href='/AIV/11/22/17'>1 Kgs. 22:17</a>; <a href='/AIV/26/34/5'>Ezek. 34:5</a>",
@@ -225,33 +137,10 @@
     },
     {
       "pk": 41003019,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 3,
       "verse": 19,
       "text": "There is no healing for your wound; your injury is fatal. All who hear the news about you will clap their hands over you, for upon whom has not your wickedness passed continually?",
       "links": "<a href='/AIV/24/51/64'>Jer. 51:64</a>; <a href='/AIV/23/14/7'>Isa. 14:7</a>",
       "comment": "The doom of Nineveh stands as a sobering reminder of the wages of persistent sin. But God's justice is ultimately united with mercy for all who repent and seek Him in truth and order."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:50:44.713Z",
-  "sections": [
-    {
-      "title": "The Doom of Nineveh Announced",
-      "startVerse": 1,
-      "endVerse": 7
-    },
-    {
-      "title": "Judgment Compared to No-Amon",
-      "startVerse": 8,
-      "endVerse": 13
-    },
-    {
-      "title": "Nineveh's Final Ruin",
-      "startVerse": 14,
-      "endVerse": 19
     }
   ]
 }

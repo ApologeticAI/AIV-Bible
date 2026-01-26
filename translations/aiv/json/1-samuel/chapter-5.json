@@ -1,16 +1,13 @@
 {
-  "book": 9,
+  "translation": "AIV",
+  "bookId": "1-samuel",
   "bookName": "1 Samuel",
-  "bookAbbreviation": "1Sam",
+  "bookAbbreviation": "1 Sam",
+  "bookNumber": 9,
   "chapter": 5,
   "verses": [
     {
       "pk": 9005001,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 5,
       "verse": 1,
       "text": "After the Philistines had captured the ark of God, they brought it from Ebenezer to Ashdod.",
       "links": "<a href='/AIV/9/4/11'>1Sam 4:11</a>; <a href='/AIV/9/7/12'>1Sam 7:12</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 9005002,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 5,
       "verse": 2,
       "text": "The Philistines took the ark of God and brought it into the temple of Dagon and set it beside Dagon.",
       "links": "<a href='/AIV/7/16/23'>Judg. 16:23</a>; <a href='/AIV/1/31/10'>Gen. 31:10</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 9005003,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 5,
       "verse": 3,
       "text": "Early the next morning, when the people of Ashdod came into the temple of Dagon, they found Dagon fallen with his face to the ground before the ark of the Lord. They took Dagon and set him back in his place.",
       "links": "<a href='/AIV/9/5/4'>1Sam 5:4</a>; <a href='/AIV/23/19/1'>Isa. 19:1</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 9005004,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 5,
       "verse": 4,
       "text": "But the next morning, when they rose early, Dagon had fallen again, face down before the ark of the Lord. This time, Dagon's head and both hands were broken off, lying on the threshold; only the trunk of Dagon was left.",
       "links": "<a href='/AIV/23/19/1'>Isa. 19:1</a>; <a href='/AIV/64/3/8'>1 John 3:8</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 9005005,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 5,
       "verse": 5,
       "text": "That is why, even to this day, the priests of Dagon and all who enter Dagon's house in Ashdod do not step on the threshold.",
       "links": "<a href='/AIV/36/1/9'>Zeph. 1:9</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 9005006,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 5,
       "verse": 6,
       "text": "The hand of the Lord was heavy against the people of Ashdod. He devastated them and struck them with tumors, both in Ashdod and its surrounding territory.",
       "links": "<a href='/AIV/9/6/4'>1Sam 6:4</a>; <a href='/AIV/2/9/3'>Exod. 9:3</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 9005007,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 5,
       "verse": 7,
       "text": "When the people of Ashdod saw what was happening, they said, 'The ark of the God of Israel must not stay with us, for his hand is severe against us and against Dagon our god.'",
       "links": "<a href='/AIV/9/4/8'>1Sam 4:8</a>; <a href='/AIV/9/6/5'>1Sam 6:5</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 9005008,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 5,
       "verse": 8,
       "text": "So they summoned all the rulers of the Philistines and asked, 'What shall we do with the ark of the God of Israel?' They replied, 'Let the ark be moved to Gath.' So they moved the ark of the God of Israel there.",
       "links": "<a href='/AIV/9/6/2'>1Sam 6:2</a>; <a href='/AIV/9/17/4'>1Sam 17:4</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 9005009,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 5,
       "verse": 9,
       "text": "After they had brought it to Gath, the hand of the Lord was against that city and struck it with a very great panic. He afflicted the men of the city, both young and old, so that tumors broke out on them.",
       "links": "<a href='/AIV/9/6/17'>1Sam 6:17</a>; <a href='/AIV/2/12/29'>Exod. 12:29</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 9005010,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 5,
       "verse": 10,
       "text": "So they sent the ark of God to Ekron. But as soon as the ark entered Ekron, the people cried out, 'They have brought the ark of the God of Israel to kill us and our people!'",
       "links": "<a href='/AIV/9/7/1'>1Sam 7:1</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 9005011,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 5,
       "verse": 11,
       "text": "So they gathered together all the rulers of the Philistines and said, 'Send the ark of the God of Israel away; let it go back to its own place, so that it does not kill us and our people.' For there was a deadly panic throughout the whole city; the hand of God was very heavy there.",
       "links": "<a href='/AIV/9/6/2-4'>1Sam 6:2-4</a>",
@@ -140,28 +87,10 @@
     },
     {
       "pk": 9005012,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 5,
       "verse": 12,
       "text": "Those who did not die were struck with tumors, and the outcry of the city went up to heaven.",
       "links": "<a href='/AIV/2/3/7'>Exod. 3:7</a>; <a href='/AIV/66/6/10'>Rev. 6:10</a>",
       "comment": "This verse concludes with the city’s lament rising heavenward, echoing Israel's cries in Egypt (Exod. 3:7). Throughout salvation history, God hears the cries of afflicted people. In light of Christ, we recall that true healing and reconciliation are found in approaching God with humility, with the fullness of God's presence available not merely in symbols but in reality (John 1:14; Heb. 9:11-12)."
-    }
-  ],
-  "translatedAt": "2025-12-24T02:51:12.821Z",
-  "sections": [
-    {
-      "title": "The Ark in the Temple of Dagon",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "Plagues on the Philistines",
-      "startVerse": 6,
-      "endVerse": 12
     }
   ]
 }

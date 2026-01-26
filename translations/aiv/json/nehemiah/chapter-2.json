@@ -1,16 +1,13 @@
 {
-  "book": 16,
+  "translation": "AIV",
+  "bookId": "nehemiah",
   "bookName": "Nehemiah",
   "bookAbbreviation": "Neh",
+  "bookNumber": 16,
   "chapter": 2,
   "verses": [
     {
       "pk": 16002001,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 2,
       "verse": 1,
       "text": "In the month of Nisan, in the twentieth year of King Artaxerxes, when wine was set before him, I took the wine and gave it to the king. Now I had never been sad in his presence before.",
       "links": "<a href='/AIV/17/3/7'>Esth. 3:7</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 16002002,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 2,
       "verse": 2,
       "text": "And the king said to me, 'Why is your face sad, since you are not sick? This can be nothing but sadness of heart.' Then I was very much afraid.",
       "links": "<a href='/AIV/20/15/13'>Prov. 15:13</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 16002003,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 2,
       "verse": 3,
       "text": "I said to the king, 'Let the king live forever! Why should my face not be sad, when the city where my ancestors are buried lies in ruins, and its gates have been destroyed by fire?'",
       "links": "<a href='/AIV/19/137/1'>Ps. 137:1</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 16002004,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 2,
       "verse": 4,
       "text": "Then the king said to me, 'What are you requesting?' So I prayed to the God of heaven.",
       "links": "<a href='/AIV/16/1/4'>Neh. 1:4</a>; <a href='/AIV/19/34/4'>Ps. 34:4</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 16002005,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 2,
       "verse": 5,
       "text": "And I said to the king, 'If it pleases the king, and if your servant has found favor before you, send me to Judah, to the city of my ancestors’ tombs, so that I may rebuild it.'",
       "links": "<a href='/AIV/16/1/3-11'>Neh. 1:3-11</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 16002006,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 2,
       "verse": 6,
       "text": "And the king said to me—with the queen sitting beside him—'How long will your journey take, and when will you return?' So it pleased the king to send me, and I gave him a time.",
       "links": "<a href='/AIV/17/1/9-19'>Esth. 1:9-19</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 16002007,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 2,
       "verse": 7,
       "text": "And I said to the king, 'If it pleases the king, may letters be given to me for the governors of the region beyond the River, so that they may permit me to pass through until I come to Judah;",
       "links": "<a href='/AIV/15/7/21-22'>Ezra 7:21-22</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 16002008,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 2,
       "verse": 8,
       "text": "and a letter to Asaph, the keeper of the king’s forest, that he may give me timber to make beams for the gates of the fortress adjoining the temple, and for the city wall, and for the house I will occupy.’ And the king granted me what I asked, because the gracious hand of my God was upon me.",
       "links": "<a href='/AIV/19/23/6'>Ps. 23:6</a>; <a href='/AIV/16/7/2-3'>Neh. 7:2-3</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 16002009,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 2,
       "verse": 9,
       "text": "Then I came to the governors of the region beyond the River and gave them the king’s letters. Now the king had sent with me officers of the army and horsemen.",
       "links": "<a href='/AIV/15/8/22'>Ezra 8:22</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 16002010,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 2,
       "verse": 10,
       "text": "But when Sanballat the Horonite and Tobiah the Ammonite official heard, it was very displeasing to them that someone had come to seek the well-being of the Israelites.",
       "links": "<a href='/AIV/16/4/1'>Neh. 4:1</a>; <a href='/AIV/19/83/4'>Ps. 83:4</a>",
@@ -127,11 +79,6 @@
     },
     {
       "pk": 16002011,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 2,
       "verse": 11,
       "text": "So I arrived in Jerusalem, and after being there three days,",
       "links": "<a href='/AIV/19/122/1-2'>Ps. 122:1-2</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 16002012,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 2,
       "verse": 12,
       "text": "I arose in the night, I and a few men with me, and I told no one what my God had put in my heart to do for Jerusalem. There was no animal with me except the one upon which I rode.",
       "links": "<a href='/AIV/40/21/2-7'>Matt. 21:2-7</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 16002013,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 2,
       "verse": 13,
       "text": "I went out by night through the Valley Gate toward the Dragon’s Well and to the Dung Gate, inspecting the walls of Jerusalem that were broken down and its gates destroyed by fire.",
       "links": "<a href='/AIV/16/1/3'>Neh. 1:3</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 16002014,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 2,
       "verse": 14,
       "text": "Then I passed on to the Fountain Gate and to the King’s Pool, but there was no room for my animal to pass.",
       "links": "<a href='/AIV/19/36/9'>Ps. 36:9</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 16002015,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 2,
       "verse": 15,
       "text": "So I went up by night through the valley and inspected the wall. Then I turned back and entered through the Valley Gate, and so returned.",
       "links": "<a href='/AIV/19/48/12-14'>Ps. 48:12-14</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 16002016,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 2,
       "verse": 16,
       "text": "The officials did not know where I had gone or what I was doing, and I had not yet told the Jews, the priests, the nobles, the officials, or the rest who would work on the task.",
       "links": "<a href='/AIV/40/16/20'>Matt. 16:20</a>",
@@ -200,11 +122,6 @@
     },
     {
       "pk": 16002017,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 2,
       "verse": 17,
       "text": "Then I said to them, 'You see the trouble we are in—how Jerusalem lies in ruins and its gates are burned. Come, let us rebuild the wall of Jerusalem, that we may no longer be a disgrace.'",
       "links": "<a href='/AIV/19/51/18'>Ps. 51:18</a>; <a href='/AIV/58/13/13'>Heb. 13:13</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 16002018,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 2,
       "verse": 18,
       "text": "And I told them how the gracious hand of my God had been upon me, and also the words the king had spoken to me. And they said, 'Let us rise up and build.' So they strengthened their hands for this good work.",
       "links": "<a href='/AIV/16/6/16'>Neh. 6:16</a>; <a href='/AIV/46/3/9'>1 Cor. 3:9</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 16002019,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 2,
       "verse": 19,
       "text": "But when Sanballat the Horonite, Tobiah the Ammonite official, and Geshem the Arab heard, they mocked and despised us, saying, 'What is this thing you are doing? Are you rebelling against the king?'",
       "links": "<a href='/AIV/42/23/35'>Luke 23:35</a>",
@@ -237,33 +144,10 @@
     },
     {
       "pk": 16002020,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 2,
       "verse": 20,
       "text": "Then I replied to them, 'The God of heaven will make us prosper, and we, His servants, will arise and build. But you have no share or right or memorial in Jerusalem.'",
       "links": "<a href='/AIV/19/127/1'>Ps. 127:1</a>; <a href='/AIV/66/21/27'>Rev. 21:27</a>",
       "comment": "Assurance comes from belonging to God’s people, having a share in God’s city. Only those joined to His covenant participate in the fullness of restoration."
-    }
-  ],
-  "translatedAt": "2025-12-24T04:46:27.290Z",
-  "sections": [
-    {
-      "title": "Nehemiah Before King Artaxerxes",
-      "startVerse": 1,
-      "endVerse": 10
-    },
-    {
-      "title": "Nehemiah Inspects Jerusalem's Walls",
-      "startVerse": 11,
-      "endVerse": 16
-    },
-    {
-      "title": "Nehemiah Calls the People to Rebuild",
-      "startVerse": 17,
-      "endVerse": 20
     }
   ]
 }

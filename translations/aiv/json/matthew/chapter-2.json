@@ -1,16 +1,13 @@
 {
-  "book": 47,
+  "translation": "AIV",
+  "bookId": "matthew",
   "bookName": "Matthew",
   "bookAbbreviation": "Matt",
+  "bookNumber": 47,
   "chapter": 2,
   "verses": [
     {
       "pk": 47002001,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 2,
       "verse": 1,
       "text": "After Jesus was born in Bethlehem of Judea, during the days of King Herod, wise men from the east arrived in Jerusalem,",
       "links": "<a href='/AIV/33/5/2'>Mic. 5:2</a>; <a href='/AIV/42/2/4-7'>Luke 2:4-7</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 47002002,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 2,
       "verse": 2,
       "text": "saying, \"Where is the one who has been born King of the Jews? For we saw his star in the east and have come to worship him.\"",
       "links": "<a href='/AIV/04/24/17'>Num. 24:17</a>; <a href='/AIV/19/72/10-11'>Ps. 72:10-11</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 47002003,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 2,
       "verse": 3,
       "text": "When King Herod heard this, he was deeply troubled, and all Jerusalem with him.",
       "links": "<a href='/AIV/2/1/8'>Exod. 1:8-10</a>; <a href='/AIV/47/21/10'>Matt. 21:10</a>; <a href='/AIV/49/23/5'>Luke. 23:5</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 47002004,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 2,
       "verse": 4,
       "text": "He gathered all the chief priests and scribes of the people and asked them where the Messiah was to be born.",
       "links": "<a href='/AIV/33/5/2'>Mic. 5:2</a>; <a href='/AIV/42/2/4'>Luke 2:4</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 47002005,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 2,
       "verse": 5,
       "text": "They replied, \"In Bethlehem of Judea, because this is what was written by the prophet:",
       "links": "<a href='/AIV/33/5/2'>Mic. 5:2</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 47002006,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 2,
       "verse": 6,
       "text": "\"And you, Bethlehem, land of Judah, are by no means least among the rulers of Judah; for out of you will come a ruler who will shepherd my people Israel.\"",
       "links": "<a href='/AIV/33/5/2'>Mic. 5:2</a>; <a href='/AIV/26/34/23'>Ezek. 34:23</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 47002007,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 2,
       "verse": 7,
       "text": "Then Herod secretly called the wise men and learned from them the exact time the star had appeared.",
       "links": "<a href='/AIV/4/24/17'>Num. 24:17</a>; <a href='/AIV/47/2/16'>Matt. 2:16</a>; <a href='/AIV/49/2/15'>Luke. 2:15</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 47002008,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 2,
       "verse": 8,
       "text": "He sent them to Bethlehem and said, \"Go and search carefully for the child. When you have found him, report to me, so that I may also go and worship him.\"",
       "links": "<a href='/AIV/47/2/13'>Matt. 2:13</a>; <a href='/AIV/23/55/21'>Ps. 55:21</a>; <a href='/AIV/48/14/1'>Mark. 14:1</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 47002009,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 2,
       "verse": 9,
       "text": "After they had heard the king, they went their way. The star that they had seen in the east went ahead of them, until it stopped over the place where the child was.",
       "links": "<a href='/AIV/02/13/21'>Ex. 13:21</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 47002010,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 2,
       "verse": 10,
       "text": "When they saw the star, they rejoiced with great joy.",
       "links": "<a href='/AIV/49/2/10'>Luke. 2:10</a>; <a href='/AIV/50/16/22'>John. 16:22</a>; <a href='/AIV/23/119/162'>Ps. 119:162</a>",
@@ -127,11 +79,6 @@
     },
     {
       "pk": 47002011,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 2,
       "verse": 11,
       "text": "Entering the house, they saw the child with Mary, his mother, and they bowed down and worshiped him. They opened their treasures and presented gifts of gold, frankincense, and myrrh.",
       "links": "<a href='/AIV/19/72/10'>Ps. 72:10</a>; <a href='/AIV/23/60/6'>Isa. 60:6</a>",
@@ -139,11 +86,6 @@
     },
     {
       "pk": 47002012,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 2,
       "verse": 12,
       "text": "And being warned in a dream not to return to Herod, they departed for their own country by another route.",
       "links": "<a href='/AIV/01/20/3'>Gen. 20:3</a>; <a href='/AIV/40/1/20'>Matt. 1:20</a>",
@@ -151,11 +93,6 @@
     },
     {
       "pk": 47002013,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 2,
       "verse": 13,
       "text": "After they departed, an angel of the Lord appeared to Joseph in a dream and said, \"Get up, take the child and his mother, and flee to Egypt. Stay there until I tell you, for Herod is about to search for the child to destroy him.\"",
       "links": "<a href='/AIV/02/3/7'>Ex. 3:7</a>; <a href='/AIV/28/11/1'>Hos. 11:1</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 47002014,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 2,
       "verse": 14,
       "text": "So he got up, took the child and his mother by night, and departed to Egypt.",
       "links": "<a href='/AIV/02/12/42'>Ex. 12:42</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 47002015,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 2,
       "verse": 15,
       "text": "He stayed there until the death of Herod. This was to fulfill what the Lord had spoken through the prophet: \"Out of Egypt I called my son.\"",
       "links": "<a href='/AIV/28/11/1'>Hos. 11:1</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 47002016,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 2,
       "verse": 16,
       "text": "When Herod realized he had been deceived by the wise men, he became furious. He sent and killed all the boys in Bethlehem and all the surrounding area who were two years old and under, according to the time he had learned from the wise men.",
       "links": "<a href='/AIV/02/1/22'>Ex. 1:22</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 47002017,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 2,
       "verse": 17,
       "text": "Then what was spoken by Jeremiah the prophet was fulfilled:",
       "links": "<a href='/AIV/24/31/15'>Jer. 31:15</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 47002018,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 2,
       "verse": 18,
       "text": "\"A voice was heard in Ramah, weeping and great mourning, Rachel weeping for her children; she refused to be comforted, because they are no more.\"",
       "links": "<a href='/AIV/24/31/15'>Jer. 31:15</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 47002019,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 2,
       "verse": 19,
       "text": "But when Herod died, an angel of the Lord appeared in a dream to Joseph in Egypt,",
       "links": "<a href='/AIV/40/1/20'>Matt. 1:20</a>; <a href='/AIV/02/4/19'>Ex. 4:19</a>",
@@ -238,23 +145,13 @@
     },
     {
       "pk": 47002020,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 2,
       "verse": 20,
-      "text": "saying, \"Get up, take the child and his mother, and go to the land of Israel. For those who sought the child’s life are dead.\"",
+      "text": "saying, \"Get up, take the child and his mother, and go to the land of Israel. For those who sought the child's life are dead.\"",
       "links": "<a href='/AIV/02/4/19'>Ex. 4:19</a>",
       "comment": "The instruction mirrors God's command to Moses, emphasizing obedience and the protection of the Messiah for his future mission."
     },
     {
       "pk": 47002021,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 2,
       "verse": 21,
       "text": "So he got up, took the child and his mother, and entered the land of Israel.",
       "links": "<a href='/AIV/2/4/19'>Exod. 4:19</a>; <a href='/AIV/47/2/14'>Matt. 2:14</a>; <a href='/AIV/49/2/39'>Luke. 2:39</a>",
@@ -262,11 +159,6 @@
     },
     {
       "pk": 47002022,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 2,
       "verse": 22,
       "text": "But when he heard that Archelaus was ruling over Judea in place of his father Herod, he was afraid to go there. Having been warned in a dream, he withdrew to the region of Galilee.",
       "links": "<a href='/AIV/47/2/12'>Matt. 2:12</a>; <a href='/AIV/49/3/1'>Luke. 3:1</a>; <a href='/AIV/50/7/1'>John. 7:1</a>",
@@ -274,38 +166,10 @@
     },
     {
       "pk": 47002023,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 2,
       "verse": 23,
       "text": "He went and lived in a town called Nazareth, so that what was spoken through the prophets might be fulfilled: \"He will be called a Nazarene.\"",
       "links": "<a href='/AIV/23/11/1'>Isa. 11:1</a>; <a href='/AIV/43/1/45-46'>John 1:45-46</a>",
       "comment": "Nazareth’s lowly status fulfills the prophets’ message that the Messiah would be humble and despised, yet divinely chosen (‘branch’–Heb. netzer, Isa. 11:1). Christ’s upbringing in Nazareth sets the stage for his universal mission and connects to the prophetic tradition of the coming king from David’s line."
-    }
-  ],
-  "translatedAt": "2025-12-24T10:02:23.021Z",
-  "sections": [
-    {
-      "title": "The Visit of the Magi",
-      "startVerse": 1,
-      "endVerse": 12
-    },
-    {
-      "title": "The Flight into Egypt",
-      "startVerse": 13,
-      "endVerse": 15
-    },
-    {
-      "title": "The Massacre of the Infants",
-      "startVerse": 16,
-      "endVerse": 18
-    },
-    {
-      "title": "The Return from Egypt",
-      "startVerse": 19,
-      "endVerse": 23
     }
   ]
 }

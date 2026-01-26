@@ -1,16 +1,13 @@
 {
-  "book": 45,
+  "translation": "AIV",
+  "bookId": "zechariah",
   "bookName": "Zechariah",
   "bookAbbreviation": "Zech",
+  "bookNumber": 45,
   "chapter": 7,
   "verses": [
     {
       "pk": 45007001,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 7,
       "verse": 1,
       "text": "In the fourth year of King Darius, the word of the Lord came to Zechariah on the fourth day of the ninth month, which is Kislev.",
       "links": "<a href='/AIV/37/1/1'>Hag. 1:1</a>; <a href='/AIV/45/1/1'>Zech. 1:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 45007002,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 7,
       "verse": 2,
       "text": "Now the people of Bethel had sent Sharezer and Regem-Melech and their men to plead for the Lord’s favor,",
       "links": "<a href='/AIV/45/8/21'>Zech. 8:21</a>; <a href='/AIV/43/11/52'>Jn. 11:52</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 45007003,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 7,
       "verse": 3,
       "text": "asking the priests of the house of the Lord of hosts and the prophets, 'Should I mourn and fast in the fifth month, as I have done for so many years?'",
       "links": "<a href='/AIV/24/52/12'>Jer. 52:12-13</a>; <a href='/AIV/38/58/3-5'>Isa. 58:3-5</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 45007004,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 7,
       "verse": 4,
       "text": "Then the word of the Lord of hosts came to me, saying:",
       "links": "<a href='/AIV/45/1/1'>Zech. 1:1</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 45007005,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 7,
       "verse": 5,
       "text": "'Say to all the people of the land and to the priests, “When you fasted and mourned in the fifth and in the seventh month, these seventy years, was it truly for Me that you fasted?",
       "links": "<a href='/AIV/24/52/12'>Jer. 52:12</a>; <a href='/AIV/23/1/11-17'>Isa. 1:11-17</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 45007006,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 7,
       "verse": 6,
       "text": "And when you ate and drank, were you not eating and drinking for yourselves?",
       "links": "<a href='/AIV/23/58/3-5'>Isa. 58:3-5</a>; <a href='/AIV/46/11/20-22'>1 Cor. 11:20-22</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 45007007,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 7,
       "verse": 7,
       "text": "Are these not the words which the Lord proclaimed through the former prophets, when Jerusalem was inhabited and prosperous, and its towns around her, and the Negev and the Shephelah were inhabited?'”",
       "links": "<a href='/AIV/23/1/10-17'>Isa. 1:10-17</a>; <a href='/AIV/24/7/5-7'>Jer. 7:5-7</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 45007008,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 7,
       "verse": 8,
       "text": "And the word of the Lord came to Zechariah, saying:",
       "links": "<a href='/AIV/45/1/1'>Zech. 1:1</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 45007009,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 7,
       "verse": 9,
       "text": "Thus says the Lord of hosts: 'Act with true justice, show kindness and mercy to one another;",
       "links": "<a href='/AIV/33/6/8'>Mic. 6:8</a>; <a href='/AIV/23/58/6-7'>Isa. 58:6-7</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 45007010,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 7,
       "verse": 10,
       "text": "and do not oppress the widow, the orphan, the foreigner, or the poor. Do not plot evil in your hearts against one another.'",
       "links": "<a href='/AIV/24/7/6'>Jer. 7:6</a>; <a href='/AIV/19/82/3'>Ps. 82:3</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 45007011,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 7,
       "verse": 11,
       "text": "But they refused to pay attention and stubbornly turned their backs; they stopped up their ears so they would not hear.",
       "links": "<a href='/AIV/23/6/9-10'>Isa. 6:9-10</a>; <a href='/AIV/44/7/51-52'>Acts 7:51-52</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 45007012,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 7,
       "verse": 12,
       "text": "They made their hearts as hard as stone, so they could not hear the law or the words that the Lord of hosts had sent by his Spirit through the former prophets. Therefore great wrath came from the Lord of hosts.",
       "links": "<a href='/AIV/26/11/19'>Ezek. 11:19</a>; <a href='/AIV/58/3/7'>Heb. 3:7-8</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 45007013,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 7,
       "verse": 13,
       "text": "'So just as I called and they would not listen, so they called, and I would not listen,' says the Lord of hosts.",
       "links": "<a href='/AIV/20/1/24-28'>Prov. 1:24-28</a>; <a href='/AIV/23/1/15'>Isa. 1:15</a>",
@@ -164,28 +101,10 @@
     },
     {
       "pk": 45007014,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 7,
       "verse": 14,
       "text": "I scattered them with a whirlwind among all the nations they had not known. So the land was left desolate behind them, with no one going or returning, and they made the pleasant land a waste.”",
       "links": "<a href='/AIV/05/28/64'>Deut. 28:64</a>; <a href='/AIV/26/12/15'>Ezek. 12:15</a>",
       "comment": "This verse refers to God’s judgment in the exile as the direct result of persistent disobedience. The scattering among the nations connects with both literal history and a spiritual lesson: God’s people are called to faithfulness, kept in unity by the Spirit and truth."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:56:55.595Z",
-  "sections": [
-    {
-      "title": "The Question About Fasting",
-      "startVerse": 1,
-      "endVerse": 7
-    },
-    {
-      "title": "True Worship and Obedience",
-      "startVerse": 8,
-      "endVerse": 14
     }
   ]
 }

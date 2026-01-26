@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 140,
   "verses": [
     {
       "pk": 23140001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 140,
       "verse": 1,
       "text": "Rescue me, O LORD, from evil men; keep me safe from violent men.",
       "links": "<a href='/AIV/19/17/8-9'>Ps. 17:8-9</a>; <a href='/AIV/19/140/4'>Ps. 140:4</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23140002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 140,
       "verse": 2,
       "text": "They plan evil things in their heart; they continually stir up wars.",
       "links": "<a href='/AIV/19/36/4'>Ps. 36:4</a>; <a href='/AIV/20/6/14'>Prov. 6:14</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23140003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 140,
       "verse": 3,
       "text": "They make their tongues sharp like a serpent's; the venom of vipers is under their lips. Selah.",
       "links": "<a href='/AIV/19/58/4'>Ps. 58:4</a>; <a href='/AIV/45/3/13'>Rom. 3:13</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23140004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 140,
       "verse": 4,
       "text": "Guard me, O LORD, from the hands of the wicked; keep me safe from violent men, who plan to trip me up.",
       "links": "<a href='/AIV/19/71/4'>Ps. 71:4</a>; <a href='/AIV/19/141/9'>Ps. 141:9</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23140005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 140,
       "verse": 5,
       "text": "The proud have hidden a trap for me, and cords; they have spread a net by the path; they have set snares for me. Selah.",
       "links": "<a href='/AIV/19/35/7'>Ps. 35:7</a>; <a href='/AIV/19/142/3'>Ps. 142:3</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23140006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 140,
       "verse": 6,
       "text": "I say to the LORD, 'You are my God.' Listen, O LORD, to the cry of my pleas for mercy.",
       "links": "<a href='/AIV/19/31/14'>Ps. 31:14</a>; <a href='/AIV/19/28/2'>Ps. 28:2</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 23140007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 140,
       "verse": 7,
       "text": "O LORD, my Lord, you are the strength of my salvation; you have covered my head in the day of battle.",
       "links": "<a href='/AIV/19/28/7'>Ps. 28:7</a>; <a href='/AIV/49/6/17'>Eph. 6:17</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 23140008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 140,
       "verse": 8,
       "text": "Do not grant, O LORD, the desires of the wicked; do not allow their plans to succeed, or they will be exalted. Selah.",
       "links": "<a href='/AIV/19/27/12'>Ps. 27:12</a>; <a href='/AIV/19/10/2'>Ps. 10:2</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 23140009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 140,
       "verse": 9,
       "text": "As for the head of those who surround me, let the trouble they planned overwhelm them.",
       "links": "<a href='/AIV/19/7/16'>Ps. 7:16</a>; <a href='/AIV/19/64/8'>Ps. 64:8</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 23140010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 140,
       "verse": 10,
       "text": "Let burning coals fall upon them! Let them be cast into the fire, into deep pits, so they may never rise again.",
       "links": "<a href='/AIV/19/11/6'>Ps. 11:6</a>; <a href='/AIV/66/20/10'>Rev. 20:10</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 23140011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 140,
       "verse": 11,
       "text": "Let slanderers not be established in the land; let disaster hunt down violent men relentlessly.",
       "links": "<a href='/AIV/19/34/21'>Ps. 34:21</a>; <a href='/AIV/19/101/5'>Ps. 101:5</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 23140012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 140,
       "verse": 12,
       "text": "I know that the LORD will maintain the cause of the afflicted, and justice for the needy.",
       "links": "<a href='/AIV/19/9/18'>Ps. 9:18</a>; <a href='/AIV/19/82/3'>Ps. 82:3</a>; <a href='/AIV/40/5/3'>Matt. 5:3</a>",
@@ -153,33 +95,10 @@
     },
     {
       "pk": 23140013,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 140,
       "verse": 13,
       "text": "Surely the righteous will give thanks to your name; the upright will dwell in your presence.",
       "links": "<a href='/AIV/19/11/7'>Ps. 11:7</a>; <a href='/AIV/19/16/11'>Ps. 16:11</a>; <a href='/AIV/66/22/3-5'>Rev. 22:3-5</a>",
       "comment": "The Psalm concludes with the hope of fellowship with God for the righteous, looking forward to the ultimate reward of communion with God forever (see Revelation 22:3–5). This verse can be seen as an anticipation of the heavenly reality where the faithful share in God’s glory. A note on 'dwell in your presence': the idea points to not just temporary visitation, but an ongoing, intimate fellowship—an image that has been understood as both a present spiritual reality and a future hope."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:47:10.748Z",
-  "sections": [
-    {
-      "title": "Prayer for Deliverance from Evil Men",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "Petition for Protection and Justice",
-      "startVerse": 6,
-      "endVerse": 11
-    },
-    {
-      "title": "Confidence in God's Righteous Judgment",
-      "startVerse": 12,
-      "endVerse": 13
     }
   ]
 }

@@ -1,16 +1,13 @@
 {
-  "book": 62,
+  "translation": "AIV",
+  "bookId": "2-timothy",
   "bookName": "2 Timothy",
-  "bookAbbreviation": "2Tim",
+  "bookAbbreviation": "2 Tim",
+  "bookNumber": 62,
   "chapter": 3,
   "verses": [
     {
       "pk": 62003001,
-      "translation": "AIV",
-      "book": 62,
-      "bookName": "2 Timothy",
-      "bookAbbreviation": "2Tim",
-      "chapter": 3,
       "verse": 1,
       "text": "But understand this: In the last days there will come times of difficulty.",
       "links": "<a href='/AIV/40/24/12'>Matt. 24:12</a>; <a href='/AIV/54/4/1'>1 Tim. 4:1</a>; <a href='/AIV/61/2/3'>2 Pet. 3:3</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 62003002,
-      "translation": "AIV",
-      "book": 62,
-      "bookName": "2 Timothy",
-      "bookAbbreviation": "2Tim",
-      "chapter": 3,
       "verse": 2,
       "text": "For people will be lovers of themselves, lovers of money, boastful, arrogant, abusive, disobedient to parents, ungrateful, unholy,",
       "links": "<a href='/AIV/45/1/30'>Rom. 1:30</a>; <a href='/AIV/49/6/2'>Eph. 6:2</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 62003003,
-      "translation": "AIV",
-      "book": 62,
-      "bookName": "2 Timothy",
-      "bookAbbreviation": "2Tim",
-      "chapter": 3,
       "verse": 3,
       "text": "unloving, unforgiving, slanderous, without self-control, brutal, not loving good,",
       "links": "<a href='/AIV/45/1/31'>Rom. 1:31</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 62003004,
-      "translation": "AIV",
-      "book": 62,
-      "bookName": "2 Timothy",
-      "bookAbbreviation": "2Tim",
-      "chapter": 3,
       "verse": 4,
       "text": "treacherous, reckless, conceited, lovers of pleasure rather than lovers of God,",
       "links": "<a href='/AIV/50/3/19'>Phil. 3:19</a>; <a href='/AIV/50/2/21'>Phil. 2:21</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 62003005,
-      "translation": "AIV",
-      "book": 62,
-      "bookName": "2 Timothy",
-      "bookAbbreviation": "2Tim",
-      "chapter": 3,
       "verse": 5,
       "text": "having a form of godliness but denying its power. Avoid such people as these.",
       "links": "<a href='/AIV/40/23/28'>Matt. 23:28</a>; <a href='/AIV/56/1/16'>Titus 1:16</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 62003006,
-      "translation": "AIV",
-      "book": 62,
-      "bookName": "2 Timothy",
-      "bookAbbreviation": "2Tim",
-      "chapter": 3,
       "verse": 6,
       "text": "For among them are those who creep into households and capture weak women, burdened with sins and led astray by various passions,",
       "links": "<a href='/AIV/55/5/15'>1 Tim. 5:15</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 62003007,
-      "translation": "AIV",
-      "book": 62,
-      "bookName": "2 Timothy",
-      "bookAbbreviation": "2Tim",
-      "chapter": 3,
       "verse": 7,
       "text": "always learning but never able to come to the knowledge of the truth.",
       "links": "<a href='/AIV/45/1/21-22'>Rom. 1:21-22</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 62003008,
-      "translation": "AIV",
-      "book": 62,
-      "bookName": "2 Timothy",
-      "bookAbbreviation": "2Tim",
-      "chapter": 3,
       "verse": 8,
       "text": "Just as Jannes and Jambres opposed Moses, so these men also oppose the truth—men corrupted in mind and disqualified regarding the faith.",
       "links": "<a href='/AIV/2/7/11'>Exod. 7:11</a>; <a href='/AIV/56/1/16'>Titus 1:16</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 62003009,
-      "translation": "AIV",
-      "book": 62,
-      "bookName": "2 Timothy",
-      "bookAbbreviation": "2Tim",
-      "chapter": 3,
       "verse": 9,
       "text": "But they will not progress much further, for their folly will be obvious to all, just as it was with those men.",
       "links": "<a href='/AIV/2/8/18-19'>Exod. 8:18-19</a>; <a href='/AIV/46/4/5'>1 Cor. 4:5</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 62003010,
-      "translation": "AIV",
-      "book": 62,
-      "bookName": "2 Timothy",
-      "bookAbbreviation": "2Tim",
-      "chapter": 3,
       "verse": 10,
       "text": "But you have followed my teaching, my conduct, my purpose, my faith, my patience, my love, my endurance,",
       "links": "<a href='/AIV/54/4/6'>1 Tim. 4:6</a>; <a href='/AIV/46/4/16'>1 Cor. 4:16</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 62003011,
-      "translation": "AIV",
-      "book": 62,
-      "bookName": "2 Timothy",
-      "bookAbbreviation": "2Tim",
-      "chapter": 3,
       "verse": 11,
       "text": "my persecutions and sufferings—what happened to me at Antioch, at Iconium, and at Lystra—which persecutions I endured. Yet from all of them the Lord rescued me.",
       "links": "<a href='/AIV/44/13/50'>Acts 13:50</a>; <a href='/AIV/44/14/19-20'>Acts 14:19-20</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 62003012,
-      "translation": "AIV",
-      "book": 62,
-      "bookName": "2 Timothy",
-      "bookAbbreviation": "2Tim",
-      "chapter": 3,
       "verse": 12,
       "text": "Indeed, all who desire to live a godly life in Christ Jesus will be persecuted.",
       "links": "<a href='/AIV/40/5/10-12'>Matt. 5:10-12</a>; <a href='/AIV/43/15/20'>John 15:20</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 62003013,
-      "translation": "AIV",
-      "book": 62,
-      "bookName": "2 Timothy",
-      "bookAbbreviation": "2Tim",
-      "chapter": 3,
       "verse": 13,
       "text": "But evil people and impostors will go from bad to worse, deceiving and being deceived.",
       "links": "<a href='/AIV/40/7/15'>Matt. 7:15</a>; <a href='/AIV/54/4/1'>1 Tim. 4:1</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 62003014,
-      "translation": "AIV",
-      "book": 62,
-      "bookName": "2 Timothy",
-      "bookAbbreviation": "2Tim",
-      "chapter": 3,
       "verse": 14,
       "text": "But as for you, continue in what you have learned and firmly believed, knowing from whom you learned it",
       "links": "<a href='/AIV/52/2/15'>2 Thess. 2:15</a>; <a href='/AIV/54/6/20'>1 Tim. 6:20</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 62003015,
-      "translation": "AIV",
-      "book": 62,
-      "bookName": "2 Timothy",
-      "bookAbbreviation": "2Tim",
-      "chapter": 3,
       "verse": 15,
       "text": "and how from childhood you have known the sacred writings, which are able to make you wise for salvation through faith in Christ Jesus.",
       "links": "<a href='/AIV/19/119/98-100'>Ps. 119:98-100</a>; <a href='/AIV/43/5/39'>John 5:39</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 62003016,
-      "translation": "AIV",
-      "book": 62,
-      "bookName": "2 Timothy",
-      "bookAbbreviation": "2Tim",
-      "chapter": 3,
       "verse": 16,
       "text": "All Scripture is God-breathed and useful for teaching, for rebuking, for correcting, and for training in righteousness,",
       "links": "<a href='/AIV/61/1/20-21'>2 Pet. 1:20-21</a>; <a href='/AIV/45/15/4'>Rom. 15:4</a>",
@@ -201,33 +123,10 @@
     },
     {
       "pk": 62003017,
-      "translation": "AIV",
-      "book": 62,
-      "bookName": "2 Timothy",
-      "bookAbbreviation": "2Tim",
-      "chapter": 3,
       "verse": 17,
       "text": "so that the man of God may be complete, equipped for every good work.",
       "links": "<a href='/AIV/54/6/11'>1 Tim. 6:11</a>; <a href='/AIV/49/4/12'>Eph. 4:12</a>",
       "comment": "The Scriptures prepare believers for holiness and service. Yet, completeness is found in being equipped not only with the Bible but in the whole life of faith, handed on and lived out together in the one Church founded by Christ."
-    }
-  ],
-  "translatedAt": "2025-12-24T12:14:24.598Z",
-  "sections": [
-    {
-      "title": "Perilous Times in the Last Days",
-      "startVerse": 1,
-      "endVerse": 9
-    },
-    {
-      "title": "Paul’s Example of Faithfulness",
-      "startVerse": 10,
-      "endVerse": 13
-    },
-    {
-      "title": "The Value of Sacred Scripture",
-      "startVerse": 14,
-      "endVerse": 17
     }
   ]
 }

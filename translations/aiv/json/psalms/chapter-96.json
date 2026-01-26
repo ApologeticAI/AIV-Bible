@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 96,
   "verses": [
     {
       "pk": 23096001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 96,
       "verse": 1,
       "text": "Sing to the LORD a new song; sing to the LORD, all the earth!",
       "links": "<a href='/AIV/23/33/3'>Ps. 33:3</a>; <a href='/AIV/23/98/1'>Ps. 98:1</a>; <a href='/AIV/23/149/1'>Ps. 149:1</a>; <a href='/AIV/26/40/3'>Isa. 42:10</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23096002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 96,
       "verse": 2,
       "text": "Sing to the LORD, bless his name; proclaim his salvation day after day.",
       "links": "<a href='/AIV/13/16/23'>1 Chr. 16:23</a>; <a href='/AIV/19/68/19'>Ps. 68:19</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23096003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 96,
       "verse": 3,
       "text": "Declare his glory among the nations, his marvelous works among all peoples.",
       "links": "<a href='/AIV/23/72/19'>Ps. 72:19</a>; <a href='/AIV/23/9/11'>Ps. 9:11</a>; <a href='/AIV/26/66/19'>Isa. 66:19</a>; <a href='/AIV/40/28/19'>Matt. 28:19</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23096004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 96,
       "verse": 4,
       "text": "For the LORD is great and greatly to be praised; he is to be feared above all gods.",
       "links": "<a href='/AIV/23/95/3'>Ps. 95:3</a>; <a href='/AIV/23/145/3'>Ps. 145:3</a>; <a href='/AIV/2/15/11'>Ex. 15:11</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23096005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 96,
       "verse": 5,
       "text": "For all the gods of the peoples are idols, but the LORD made the heavens.",
       "links": "<a href='/AIV/23/115/4'>Ps. 115:4</a>; <a href='/AIV/1/1/1'>Gen. 1:1</a>; <a href='/AIV/23/135/15'>Ps. 135:15</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23096006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 96,
       "verse": 6,
       "text": "Splendor and majesty are before him; strength and beauty fill his sanctuary.",
       "links": "<a href='/AIV/23/104/1'>Ps. 104:1</a>; <a href='/AIV/13/16/27'>1 Chr. 16:27</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23096007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 96,
       "verse": 7,
       "text": "Ascribe to the LORD, O families of the nations, ascribe to the LORD glory and strength.",
       "links": "<a href='/AIV/19/29/1'>Ps. 29:1</a>; <a href='/AIV/13/16/28'>1 Chr. 16:28</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 23096008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 96,
       "verse": 8,
       "text": "Ascribe to the LORD the glory due his name; bring an offering and come into his courts.",
       "links": "<a href='/AIV/23/95/2'>Ps. 95:2</a>; <a href='/AIV/13/16/29'>1 Chr. 16:29</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 23096009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 96,
       "verse": 9,
       "text": "Worship the LORD in holy splendor; tremble before him, all the earth.",
       "links": "<a href='/AIV/19/29/2'>Ps. 29:2</a>; <a href='/AIV/23/99/5'>Ps. 99:5</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 23096010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 96,
       "verse": 10,
       "text": "Say among the nations, 'The LORD reigns!' The world is firmly established, it will not be moved; he will judge the peoples with equity.",
       "links": "<a href='/AIV/13/16/31'>1 Chr. 16:31</a>; <a href='/AIV/23/93/1'>Ps. 93:1</a>; <a href='/AIV/27/7/14'>Dan. 7:14</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 23096011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 96,
       "verse": 11,
       "text": "Let the heavens rejoice, and let the earth be glad; let the sea resound, and all that is in it.",
       "links": "<a href='/AIV/23/98/7'>Ps. 98:7</a>; <a href='/AIV/19/69/34'>Ps. 69:34</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 23096012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 96,
       "verse": 12,
       "text": "Let the fields be joyful, and everything in them; then all the trees of the forest will sing for joy",
       "links": "<a href='/AIV/23/148/9'>Ps. 148:9</a>; <a href='/AIV/26/55/12'>Isa. 55:12</a>",
@@ -153,33 +95,10 @@
     },
     {
       "pk": 23096013,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 96,
       "verse": 13,
       "text": "before the LORD: for he comes, he comes to judge the earth. He will judge the world in righteousness, and the peoples in his faithfulness.",
       "links": "<a href='/AIV/23/98/9'>Ps. 98:9</a>; <a href='/AIV/26/11/4'>Isa. 11:4</a>; <a href='/AIV/40/25/31'>Matt. 25:31</a>",
       "comment": "The expectation of the coming Judge prefigures the return of Christ, whose judgment is righteous and faithful. This verse echoes in the later teaching on the Last Judgment and the hope of ultimate justice."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:33:11.437Z",
-  "sections": [
-    {
-      "title": "A Hymn of Praise to God the Creator",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "Universal Worship and Proclamation of God's Kingship",
-      "startVerse": 7,
-      "endVerse": 10
-    },
-    {
-      "title": "Rejoicing of Creation at the Lord’s Coming",
-      "startVerse": 11,
-      "endVerse": 13
     }
   ]
 }

@@ -1,16 +1,13 @@
 {
-  "book": 15,
+  "translation": "AIV",
+  "bookId": "ezra",
   "bookName": "Ezra",
   "bookAbbreviation": "Ezra",
+  "bookNumber": 15,
   "chapter": 5,
   "verses": [
     {
       "pk": 15005001,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 5,
       "verse": 1,
       "text": "Now the prophets Haggai and Zechariah, son of Iddo, spoke to the Jews in Judah and Jerusalem in the name of the God of Israel who was over them.",
       "links": "<a href='/AIV/37/1/1'>Haggai 1:1</a>; <a href='/AIV/38/1/1'>Zechariah 1:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 15005002,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 5,
       "verse": 2,
       "text": "Then Zerubbabel son of Shealtiel and Jeshua son of Jozadak arose and began to rebuild the house of God in Jerusalem, and the prophets of God were with them, supporting them.",
       "links": "<a href='/AIV/37/1/12'>Haggai 1:12</a>; <a href='/AIV/38/4/6-10'>Zechariah 4:6-10</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 15005003,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 5,
       "verse": 3,
       "text": "At that time, Tattenai, the governor of the province west of the Euphrates, and Shethar-bozenai and their associates came to them and said, 'Who issued you a decree to rebuild this house and to repair this structure?'",
       "links": "<a href='/AIV/15/4/9'>Ezra 4:9</a>; <a href='/AIV/15/6/6'>Ezra 6:6</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 15005004,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 5,
       "verse": 4,
       "text": "They also asked, 'What are the names of the men who are building this structure?'",
       "links": "<a href='/AIV/15/4/17'>Ezra 4:17</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 15005005,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 5,
       "verse": 5,
       "text": "But the eye of their God was upon the elders of the Jews, and they were not stopped until a report could go to Darius and his reply was received.",
       "links": "<a href='/AIV/19/33/18'>Psalm 33:18</a>; <a href='/AIV/15/6/7'>Ezra 6:7</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 15005006,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 5,
       "verse": 6,
       "text": "This is the copy of the letter that Tattenai, governor of the province west of the Euphrates, and Shethar-bozenai and their associates, the officials of the province, sent to King Darius.",
       "links": "<a href='/AIV/15/6/6'>Ezra 6:6</a>",
@@ -81,11 +53,6 @@
     },
     {
       "pk": 15005007,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 5,
       "verse": 7,
       "text": "They sent a report to him, in which it was written, 'To King Darius, all peace.'",
       "links": "<a href='/AIV/15/4/17'>Ezra 4:17</a>",
@@ -93,11 +60,6 @@
     },
     {
       "pk": 15005008,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 5,
       "verse": 8,
       "text": "'Let it be known to the king, that we went to the province of Judah, to the house of the great God. It is being rebuilt with large stones, and timber is being laid in the walls. The work is going forward rapidly and is prospering in their hands.'",
       "links": "<a href='/AIV/15/6/4'>Ezra 6:4</a>; <a href='/AIV/21/9/10'>Ecclesiastes 9:10</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 15005009,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 5,
       "verse": 9,
       "text": "'We asked those elders, \"Who gave you a decree to build this house and to finish this structure?\"'",
       "links": "<a href='/AIV/15/5/3'>Ezra 5:3</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 15005010,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 5,
       "verse": 10,
       "text": "'We also asked them their names, so we could write down the names of their leaders for you.'",
       "links": "<a href='/AIV/15/2/2'>Ezra 2:2</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 15005011,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 5,
       "verse": 11,
       "text": "'And this is their reply to us: \"We are servants of the God of heaven and earth, and we are rebuilding the house that was built many years ago, which a great king of Israel built and finished.\"'",
       "links": "<a href='/AIV/11/6/38'>1 Kings 6:38</a>; <a href='/AIV/19/135/4-5'>Psalm 135:4-5</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 15005012,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 5,
       "verse": 12,
       "text": "\"But because our ancestors angered the God of heaven, He gave them into the hand of Nebuchadnezzar king of Babylon, the Chaldean, who destroyed this house and carried the people away to Babylon.\"",
       "links": "<a href='/AIV/12/24/10-16'>2 Kings 24:10-16</a>; <a href='/AIV/27/1/1-2'>Daniel 1:1-2</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 15005013,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 5,
       "verse": 13,
       "text": "\"But in the first year of King Cyrus of Babylon, King Cyrus issued a decree to rebuild this house of God.\"",
       "links": "<a href='/AIV/15/1/2'>Ezra 1:2</a>; <a href='/AIV/23/44/28'>Isaiah 44:28</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 15005014,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 5,
       "verse": 14,
       "text": "\"Also, the gold and silver vessels of the house of God, which Nebuchadnezzar had taken from the temple in Jerusalem and brought into the temple of Babylon, these King Cyrus took out from the temple of Babylon, and they were given to a man named Sheshbazzar, whom he had made governor.\"",
       "links": "<a href='/AIV/15/1/7-8'>Ezra 1:7-8</a>; <a href='/AIV/27/5/2-3'>Daniel 5:2-3</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 15005015,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 5,
       "verse": 15,
       "text": "\"And he said to him, ‘Take these vessels. Go and put them in the temple in Jerusalem and let the house of God be rebuilt on its site.’\"",
       "links": "<a href='/AIV/15/1/7-11'>Ezra 1:7-11</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 15005016,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 5,
       "verse": 16,
       "text": "\"So this Sheshbazzar came and laid the foundations of the house of God in Jerusalem. And from that time until now, it has been under construction, and is not yet finished.\"",
       "links": "<a href='/AIV/15/3/8'>Ezra 3:8</a>; <a href='/AIV/37/2/18'>Haggai 2:18</a>",
@@ -201,33 +123,10 @@
     },
     {
       "pk": 15005017,
-      "translation": "AIV",
-      "book": 15,
-      "bookName": "Ezra",
-      "bookAbbreviation": "Ezra",
-      "chapter": 5,
       "verse": 17,
       "text": "\"Now therefore, if it pleases the king, let a search be made in the royal archives of Babylon to see if a decree was issued by King Cyrus to rebuild this house of God in Jerusalem. Then let the king send us his decision concerning this matter.\"",
       "links": "<a href='/AIV/15/6/1-2'>Ezra 6:1-2</a>",
       "comment": "Seeking confirmation from the royal archives reflects the legitimacy and safeguarding of tradition. This principle is echoed later in Christian history through the appeal to apostolic tradition and documentary evidence for governance and doctrine (2 Thessalonians 2:15)."
-    }
-  ],
-  "translatedAt": "2025-12-24T04:42:36.656Z",
-  "sections": [
-    {
-      "title": "The Prophets Encourage the Rebuilding of the Temple",
-      "startVerse": 1,
-      "endVerse": 2
-    },
-    {
-      "title": "Opposition from Tattenai and the Officials",
-      "startVerse": 3,
-      "endVerse": 5
-    },
-    {
-      "title": "The Letter to King Darius",
-      "startVerse": 6,
-      "endVerse": 17
     }
   ]
 }

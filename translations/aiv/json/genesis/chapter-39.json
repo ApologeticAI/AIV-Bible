@@ -1,16 +1,13 @@
 {
-  "book": 1,
+  "translation": "AIV",
+  "bookId": "genesis",
   "bookName": "Genesis",
   "bookAbbreviation": "Gen",
+  "bookNumber": 1,
   "chapter": 39,
   "verses": [
     {
       "pk": 1039001,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 39,
       "verse": 1,
       "text": "Now Joseph was taken down to Egypt, and Potiphar, an officer of Pharaoh, the captain of the guard, an Egyptian, bought him from the Ishmaelites who had brought him down there.",
       "links": "<a href='/AIV/1/37/36'>Gen. 37:36</a>; <a href='/AIV/1/41/12'>Gen. 41:12</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 1039002,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 39,
       "verse": 2,
       "text": "The LORD was with Joseph, and he became a successful man. He was in the house of his Egyptian master.",
       "links": "<a href='/AIV/1/21/22'>Gen. 21:22</a>; <a href='/AIV/44/7/9'>Acts 7:9</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 1039003,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 39,
       "verse": 3,
       "text": "His master saw that the LORD was with him and that the LORD made all that he did succeed in his hand.",
       "links": "<a href='/AIV/1/30/27'>Gen. 30:27</a>; <a href='/AIV/18/29/3'>Job 29:3</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 1039004,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 39,
       "verse": 4,
       "text": "So Joseph found favor in his sight and ministered to him. He made him overseer of his house and put all that he owned under his authority.",
       "links": "<a href='/AIV/1/24/2'>Gen. 24:2</a>; <a href='/AIV/1/41/40'>Gen. 41:40</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 1039005,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 39,
       "verse": 5,
       "text": "From the time that he made him overseer in his house and over all that he owned, the LORD blessed the Egyptian's house for Joseph's sake; the blessing of the LORD was on all that he had, in the house and in the field.",
       "links": "<a href='/AIV/1/30/27'>Gen. 30:27</a>; <a href='/AIV/1/12/3'>Gen. 12:3</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 1039006,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 39,
       "verse": 6,
       "text": "So he left all that he had in Joseph's hand. He did not concern himself with anything except the food that he ate. Now Joseph was handsome in form and appearance.",
       "links": "<a href='/AIV/1/29/17'>Gen. 29:17</a>; <a href='/AIV/1/41/46'>Gen. 41:46</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 1039007,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 39,
       "verse": 7,
       "text": "And after these things, his master's wife fixed her eyes on Joseph and said, 'Lie with me.'",
       "links": "<a href='/AIV/1/2/24'>Gen. 2:24</a>; <a href='/AIV/20/7/21'>Prov. 7:21</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 1039008,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 39,
       "verse": 8,
       "text": "But he refused and said to his master's wife, 'See, with me here, my master does not concern himself with anything in the house, and he has put all that he has into my hand.'",
       "links": "<a href='/AIV/1/39/6'>Gen. 39:6</a>; <a href='/AIV/54/6/20'>1 Tim. 6:20</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 1039009,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 39,
       "verse": 9,
       "text": "'He is not greater in this house than I am, nor has he kept back anything from me except you, because you are his wife. How then could I do this great evil and sin against God?'",
       "links": "<a href='/AIV/1/20/6'>Gen. 20:6</a>; <a href='/AIV/19/51/4'>Ps. 51:4</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 1039010,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 39,
       "verse": 10,
       "text": "As she spoke to Joseph day after day, he did not listen to her, to lie beside her or to be with her.",
       "links": "<a href='/AIV/20/1/10'>Prov. 1:10</a>; <a href='/AIV/59/4/7'>James 4:7</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 1039011,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 39,
       "verse": 11,
       "text": "But one day, when he went into the house to do his work, and none of the men of the house was there inside,",
       "links": "<a href='/AIV/1/39/7'>Gen. 39:7</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 1039012,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 39,
       "verse": 12,
       "text": "she caught him by his garment, saying, 'Lie with me!' But he left his garment in her hand, and fled outside.",
       "links": "<a href='/AIV/54/6/11'>1 Tim. 6:11</a>; <a href='/AIV/55/2/22'>2 Tim. 2:22</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 1039013,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 39,
       "verse": 13,
       "text": "When she saw that he had left his garment in her hand and had fled outside,",
       "links": "<a href='/AIV/1/39/15'>Gen. 39:15</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 1039014,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 39,
       "verse": 14,
       "text": "she called to the men of her house and spoke to them, saying, 'See, he has brought us a Hebrew to mock us! He came in to lie with me, but I cried out with a loud voice.'",
       "links": "<a href='/AIV/1/39/17'>Gen. 39:17</a>; <a href='/AIV/19/35/11'>Ps. 35:11</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 1039015,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 39,
       "verse": 15,
       "text": "'As soon as he heard that I lifted up my voice and cried out, he left his garment beside me and fled outside.'",
       "links": "<a href='/AIV/1/39/12'>Gen. 39:12</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 1039016,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 39,
       "verse": 16,
       "text": "She kept his garment beside her until his master came home.",
       "links": "<a href='/AIV/1/39/7'>Gen. 39:7</a>",
@@ -200,11 +122,6 @@
     },
     {
       "pk": 1039017,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 39,
       "verse": 17,
       "text": "She spoke to him with these words, saying, 'The Hebrew servant whom you brought among us came in to mock me.'",
       "links": "<a href='/AIV/1/39/14'>Gen. 39:14</a>",
@@ -212,11 +129,6 @@
     },
     {
       "pk": 1039018,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 39,
       "verse": 18,
       "text": "'But as soon as I lifted up my voice and cried, he left his garment beside me and fled outside.'",
       "links": "<a href='/AIV/1/39/15'>Gen. 39:15</a>",
@@ -224,11 +136,6 @@
     },
     {
       "pk": 1039019,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 39,
       "verse": 19,
       "text": "When his master heard the words his wife spoke to him, saying, 'This is what your servant did to me,' his anger was kindled.",
       "links": "<a href='/AIV/1/39/14'>Gen. 39:14</a>",
@@ -237,11 +144,6 @@
     },
     {
       "pk": 1039020,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 39,
       "verse": 20,
       "text": "Joseph's master took him and put him into the prison, the place where the king's prisoners were confined. And he was there in the prison.",
       "links": "<a href='/AIV/1/40/3'>Gen. 40:3</a>; <a href='/AIV/19/105/18'>Ps. 105:18</a>",
@@ -249,11 +151,6 @@
     },
     {
       "pk": 1039021,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 39,
       "verse": 21,
       "text": "But the LORD was with Joseph and showed him steadfast love and gave him favor in the sight of the keeper of the prison.",
       "links": "<a href='/AIV/1/39/2'>Gen. 39:2</a>; <a href='/AIV/19/105/19'>Ps. 105:19</a>",
@@ -262,11 +159,6 @@
     },
     {
       "pk": 1039022,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 39,
       "verse": 22,
       "text": "And the keeper of the prison put Joseph in charge of all the prisoners who were in the prison; whatever was done there, he was the one who did it.",
       "links": "<a href='/AIV/1/39/4'>Gen. 39:4</a>; <a href='/AIV/1/41/40'>Gen. 41:40</a>",
@@ -274,38 +166,10 @@
     },
     {
       "pk": 1039023,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 39,
       "verse": 23,
       "text": "The keeper of the prison paid no attention to anything that was in Joseph’s care, because the LORD was with him. And whatever he did, the LORD made it prosper.",
       "links": "<a href='/AIV/1/39/2'>Gen. 39:2</a>; <a href='/AIV/1/39/6'>Gen. 39:6</a>",
       "comment": "The recurring theme: God’s presence brings blessing and success. Even in prison, Joseph acts with faithfulness—foreshadowing Christ, who suffered unjustly but was ultimately glorified. Note here the implicit connection to the sacredness of suffering, and how God uses both success and adversity to prepare His servants for saving missions."
-    }
-  ],
-  "translatedAt": "2025-12-24T00:36:29.553Z",
-  "sections": [
-    {
-      "title": "Joseph in Potiphar’s House",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "Joseph Is Tempted by Potiphar’s Wife",
-      "startVerse": 7,
-      "endVerse": 18
-    },
-    {
-      "title": "Joseph Is Imprisoned",
-      "startVerse": 19,
-      "endVerse": 20
-    },
-    {
-      "title": "Joseph Prospers in Prison",
-      "startVerse": 21,
-      "endVerse": 23
     }
   ]
 }

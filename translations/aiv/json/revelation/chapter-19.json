@@ -1,16 +1,13 @@
 {
-  "book": 73,
+  "translation": "AIV",
+  "bookId": "revelation",
   "bookName": "Revelation",
   "bookAbbreviation": "Rev",
+  "bookNumber": 73,
   "chapter": 19,
   "verses": [
     {
       "pk": 73019001,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 19,
       "verse": 1,
       "text": "After this, I heard what sounded like a great multitude in heaven, shouting, 'Hallelujah! Salvation and glory and power belong to our God,",
       "links": "<a href='/AIV/19/3/8'>Ps. 3:8</a>; <a href='/AIV/42/2/13'>Luke 2:13</a>; <a href='/AIV/19/104/35'>Ps. 104:35</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 73019002,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 19,
       "verse": 2,
       "text": "because His judgments are true and just. He has condemned the great prostitute who corrupted the earth with her immorality, and has avenged the blood of His servants shed by her.'",
       "links": "<a href='/AIV/19/19/9'>Ps. 19:9</a>; <a href='/AIV/24/51/24'>Jer. 51:24</a>; <a href='/AIV/66/17/6'>Rev. 17:6</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 73019003,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 19,
       "verse": 3,
       "text": "Again they shouted, 'Hallelujah! The smoke from her goes up forever and ever.'",
       "links": "<a href='/AIV/23/34/9-10'>Isa. 34:9-10</a>; <a href='/AIV/19/104/35'>Ps. 104:35</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 73019004,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 19,
       "verse": 4,
       "text": "The twenty-four elders and the four living creatures fell down and worshipped God, who sits on the throne, saying, 'Amen. Hallelujah!'",
       "links": "<a href='/AIV/66/4/4'>Rev. 4:4</a>; <a href='/AIV/19/106/48'>Ps. 106:48</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 73019005,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 19,
       "verse": 5,
       "text": "And a voice came from the throne, saying, 'Praise our God, all you His servants, you who fear Him, small and great!'",
       "links": "<a href='/AIV/19/134/1'>Ps. 134:1</a>; <a href='/AIV/66/11/18'>Rev. 11:18</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 73019006,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 19,
       "verse": 6,
       "text": "Then I heard something like the sound of a large crowd, like the roar of many waters and loud thunder, shouting, 'Hallelujah! For the Lord our God, the Almighty, reigns.'",
       "links": "<a href='/AIV/26/1/24'>Ezek. 1:24</a>; <a href='/AIV/19/97/1'>Ps. 97:1</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 73019007,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 19,
       "verse": 7,
       "text": "Let us rejoice and be glad and give Him glory, because the marriage of the Lamb has come, and His bride has made herself ready.",
       "links": "<a href='/AIV/23/61/10'>Isa. 61:10</a>; <a href='/AIV/40/22/2'>Matt. 22:2</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 73019008,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 19,
       "verse": 8,
       "text": "She was given fine linen to wear, bright and pure. For the fine linen is the righteous deeds of the saints.",
       "links": "<a href='/AIV/23/61/10'>Isa. 61:10</a>; <a href='/AIV/66/3/5'>Rev. 3:5</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 73019009,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 19,
       "verse": 9,
       "text": "And the angel said to me, 'Write this: Blessed are those who are invited to the wedding supper of the Lamb.' And he said, 'These are the true words of God.'",
       "links": "<a href='/AIV/40/22/2-10'>Matt. 22:2-10</a>; <a href='/AIV/42/14/15'>Luke 14:15</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 73019010,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 19,
       "verse": 10,
       "text": "At this I fell at his feet to worship him. But he said to me, 'Don’t do that! I am a servant with you and your brothers, who hold to the testimony of Jesus. Worship God! For the testimony of Jesus is the spirit of prophecy.'",
       "links": "<a href='/AIV/44/10/25-26'>Acts 10:25-26</a>; <a href='/AIV/66/22/8-9'>Rev. 22:8-9</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 73019011,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 19,
       "verse": 11,
       "text": "Then I saw heaven opened, and there was a white horse. Its rider is called Faithful and True, and He judges and makes war in righteousness.",
       "links": "<a href='/AIV/19/45/4'>Ps. 45:4</a>; <a href='/AIV/23/11/4'>Isa. 11:4</a>; <a href='/AIV/66/6/2'>Rev. 6:2</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 73019012,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 19,
       "verse": 12,
       "text": "His eyes are like blazing fire, and on His head are many crowns. He has a name written that no one knows except Himself.",
       "links": "<a href='/AIV/27/10/6'>Dan. 10:6</a>; <a href='/AIV/66/1/14'>Rev. 1:14</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 73019013,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 19,
       "verse": 13,
       "text": "He is dressed in a robe dipped in blood, and His name is called The Word of God.",
       "links": "<a href='/AIV/23/63/2-3'>Isa. 63:2-3</a>; <a href='/AIV/43/1/1'>John 1:1</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 73019014,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 19,
       "verse": 14,
       "text": "The armies of heaven, clothed in fine linen, white and pure, were following Him on white horses.",
       "links": "<a href='/AIV/19/68/17'>Ps. 68:17</a>; <a href='/AIV/66/17/14'>Rev. 17:14</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 73019015,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 19,
       "verse": 15,
       "text": "Out of His mouth comes a sharp sword with which to strike down the nations, and He will rule them with a rod of iron. He treads the winepress of the fury of the wrath of God Almighty.",
       "links": "<a href='/AIV/19/2/9'>Ps. 2:9</a>; <a href='/AIV/23/63/3'>Isa. 63:3</a>; <a href='/AIV/66/12/5'>Rev. 12:5</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 73019016,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 19,
       "verse": 16,
       "text": "And on His robe and on His thigh He has a name written: KING OF KINGS AND LORD OF LORDS.",
       "links": "<a href='/AIV/27/2/47'>Dan. 2:47</a>; <a href='/AIV/54/6/15'>1 Tim. 6:15</a>; <a href='/AIV/66/17/14'>Rev. 17:14</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 73019017,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 19,
       "verse": 17,
       "text": "Then I saw an angel standing in the sun, and he cried with a loud voice to all the birds flying high in the sky, 'Come, gather together for the great supper of God,",
       "links": "<a href='/AIV/26/39/17'>Ezek. 39:17</a>; <a href='/AIV/40/24/28'>Matt. 24:28</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 73019018,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 19,
       "verse": 18,
       "text": "so that you may eat the flesh of kings, generals, mighty men, horses and riders, and all people, free and slave, small and great.'",
       "links": "<a href='/AIV/26/39/18-20'>Ezek. 39:18-20</a>; <a href='/AIV/66/6/15'>Rev. 6:15</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 73019019,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 19,
       "verse": 19,
       "text": "Then I saw the beast and the kings of the earth and their armies gathered together to wage war against Him who sat on the horse and His army.",
       "links": "<a href='/AIV/66/16/14'>Rev. 16:14</a>; <a href='/AIV/19/2/2'>Ps. 2:2</a>",
@@ -238,11 +145,6 @@
     },
     {
       "pk": 73019020,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 19,
       "verse": 20,
       "text": "But the beast was captured, and with him the false prophet who performed signs in his presence, by which he deceived those who had received the mark of the beast and worshiped his image. They were both thrown alive into the lake of fire that burns with sulfur.",
       "links": "<a href='/AIV/66/13/13-14'>Rev. 13:13-14</a>; <a href='/AIV/66/20/10'>Rev. 20:10</a>",
@@ -250,38 +152,10 @@
     },
     {
       "pk": 73019021,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 19,
       "verse": 21,
       "text": "The rest were killed with the sword coming from the mouth of Him who sat on the horse, and all the birds gorged themselves on their flesh.",
       "links": "<a href='/AIV/26/39/17-20'>Ezek. 39:17-20</a>; <a href='/AIV/66/1/16'>Rev. 1:16</a>",
       "comment": "The Word of Christ (the sword from His mouth) executes final judgment (Ezekiel 39). Jesus’ word has the power to judge and to save, highlighting both His mercy and His justice."
-    }
-  ],
-  "translatedAt": "2025-12-24T12:40:51.416Z",
-  "sections": [
-    {
-      "title": "Hymns of Praise in Heaven",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "The Marriage Supper of the Lamb",
-      "startVerse": 7,
-      "endVerse": 10
-    },
-    {
-      "title": "The Rider on the White Horse",
-      "startVerse": 11,
-      "endVerse": 18
-    },
-    {
-      "title": "The Defeat of the Beast and the False Prophet",
-      "startVerse": 19,
-      "endVerse": 21
     }
   ]
 }

@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 138,
   "verses": [
     {
       "pk": 23138001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 138,
       "verse": 1,
       "text": "I will give you thanks with all my heart; before the gods I will sing praises to you.",
       "links": "<a href='/AIV/19/95/1-3'>Ps. 95:1-3</a>; <a href='/AIV/19/108/3'>Ps. 108:3</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23138002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 138,
       "verse": 2,
       "text": "I bow down toward your holy temple and give thanks to your name for your steadfast love and your faithfulness. For you have exalted your word and your name above all.",
       "links": "<a href='/AIV/19/5/7'>Ps. 5:7</a>; <a href='/AIV/19/89/1-2'>Ps. 89:1-2</a>; <a href='/AIV/19/97/12'>Ps. 97:12</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23138003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 138,
       "verse": 3,
       "text": "On the day I called, you answered me; you increased the strength of my soul.",
       "links": "<a href='/AIV/19/18/6'>Ps. 18:6</a>; <a href='/AIV/19/27/14'>Ps. 27:14</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23138004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 138,
       "verse": 4,
       "text": "All the kings of the earth will give you thanks, LORD, when they have heard the words you have spoken.",
       "links": "<a href='/AIV/19/102/15'>Ps. 102:15</a>; <a href='/AIV/19/72/11'>Ps. 72:11</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 23138005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 138,
       "verse": 5,
       "text": "Yes, they will sing of the ways of the LORD, for great is the glory of the LORD.",
       "links": "<a href='/AIV/19/145/3'>Ps. 145:3</a>; <a href='/AIV/19/96/1-3'>Ps. 96:1-3</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 23138006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 138,
       "verse": 6,
       "text": "Though the LORD is exalted, he looks upon the lowly; but the proud he knows from afar.",
       "links": "<a href='/AIV/19/113/5-6'>Ps. 113:5-6</a>; <a href='/AIV/19/18/27'>Ps. 18:27</a>; <a href='/AIV/42/1/52'>Luke 1:52</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 23138007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 138,
       "verse": 7,
       "text": "Though I walk in the midst of trouble, you preserve my life; you stretch out your hand against the anger of my enemies, and your right hand saves me.",
       "links": "<a href='/AIV/19/23/4'>Ps. 23:4</a>; <a href='/AIV/19/63/9-10'>Ps. 63:9-10</a>",
@@ -93,33 +60,10 @@
     },
     {
       "pk": 23138008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 138,
       "verse": 8,
       "text": "The LORD will fulfill his purpose for me; your steadfast love, LORD, endures forever. Do not forsake the work of your hands.",
       "links": "<a href='/AIV/19/57/2'>Ps. 57:2</a>; <a href='/AIV/19/100/5'>Ps. 100:5</a>",
       "comment": "The promise that God will accomplish His purpose reflects the doctrine of divine providence and assurance that God’s love is eternal. Asking God not to forsake the work of His hands highlights the permanence of God’s commitment to His people, anticipating the fullness of redemption in Christ (<a href='/AIV/50/1/6'>Phil. 1:6</a>). The spiritual sense is both personal and communal, providing hope that believers are part of a greater plan shaped by divine love."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:46:26.876Z",
-  "sections": [
-    {
-      "title": "Thanksgiving for God's Faithfulness",
-      "startVerse": 1,
-      "endVerse": 3
-    },
-    {
-      "title": "The Lord's Glory Among the Nations",
-      "startVerse": 4,
-      "endVerse": 6
-    },
-    {
-      "title": "God's Care in Trouble",
-      "startVerse": 7,
-      "endVerse": 8
     }
   ]
 }

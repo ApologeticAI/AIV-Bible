@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 45,
   "verses": [
     {
       "pk": 23045001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 45,
       "verse": 1,
       "text": "My heart overflows with a noble theme; I recite my verses for the king; my tongue is like the pen of a skilled writer.",
       "links": "<a href='/AIV/19/39/3'>Ps. 39:3</a>; <a href='/AIV/19/119/11'>Ps. 119:11</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23045002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 45,
       "verse": 2,
       "text": "You are fairer than the sons of men; grace is poured upon your lips; therefore God has blessed you forever.",
       "links": "<a href='/AIV/19/72/17'>Ps. 72:17</a>; <a href='/AIV/42/4/22'>Lk. 4:22</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23045003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 45,
       "verse": 3,
       "text": "Gird your sword upon your thigh, O mighty one, with your glory and majesty.",
       "links": "<a href='/AIV/19/21/5'>Ps. 21:5</a>; <a href='/AIV/66/19/11-16'>Rev. 19:11-16</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23045004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 45,
       "verse": 4,
       "text": "In your majesty ride forth victoriously for the cause of truth, humility, and righteousness. Let your right hand teach you awesome deeds.",
       "links": "<a href='/AIV/19/72/2'>Ps. 72:2</a>; <a href='/AIV/23/11/4'>Isa. 11:4</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23045005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 45,
       "verse": 5,
       "text": "Your arrows are sharp; peoples fall under you; they pierce the hearts of the king's enemies.",
       "links": "<a href='/AIV/19/64/7'>Ps. 64:7</a>; <a href='/AIV/66/6/2'>Rev. 6:2</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23045006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 45,
       "verse": 6,
       "text": "Your throne, O God, is forever and ever; a scepter of justice is the scepter of your kingdom.",
       "links": "<a href='/AIV/58/1/8'>Heb. 1:8</a>; <a href='/AIV/19/93/2'>Ps. 93:2</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23045007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 45,
       "verse": 7,
       "text": "You love righteousness and hate wickedness; therefore God, your God, has anointed you with the oil of joy above your companions.",
       "links": "<a href='/AIV/19/16/11'>Ps. 16:11</a>; <a href='/AIV/44/10/38'>Acts 10:38</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 23045008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 45,
       "verse": 8,
       "text": "All your garments are fragrant with myrrh and aloes and cassia; from palaces adorned with ivory, harps make you glad.",
       "links": "<a href='/AIV/19/150/3'>Ps. 150:3</a>; <a href='/AIV/19/27/4'>Ps. 27:4</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 23045009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 45,
       "verse": 9,
       "text": "Daughters of kings are among your favored women; at your right hand stands the queen in gold from Ophir.",
       "links": "<a href='/AIV/11/10/11'>1 Ki. 10:11</a>; <a href='/AIV/19/45/13'>Ps. 45:13</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 23045010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 45,
       "verse": 10,
       "text": "Listen, O daughter, and consider; incline your ear. Forget your people and your father’s house.",
       "links": "<a href='/AIV/19/45/13'>Ps. 45:13</a>; <a href='/AIV/01/2/24'>Gen. 2:24</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 23045011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 45,
       "verse": 11,
       "text": "Then the king will delight in your beauty; honor him, for he is your lord.",
       "links": "<a href='/AIV/19/2/12'>Ps. 2:12</a>; <a href='/AIV/19/96/9'>Ps. 96:9</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 23045012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 45,
       "verse": 12,
       "text": "The daughter of Tyre will come with gifts; the richest among the people will seek your favor.",
       "links": "<a href='/AIV/19/68/29'>Ps. 68:29</a>; <a href='/AIV/19/72/10'>Ps. 72:10</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 23045013,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 45,
       "verse": 13,
       "text": "The princess is clothed in glorious robes; her dress is embroidered with gold.",
       "links": "<a href='/AIV/19/45/9'>Ps. 45:9</a>; <a href='/AIV/66/19/7-8'>Rev. 19:7-8</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 23045014,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 45,
       "verse": 14,
       "text": "In radiant garments she is led to the king, escorted by her companions, the young women who follow her.",
       "links": "<a href='/AIV/19/45/13'>Ps. 45:13</a>; <a href='/AIV/66/21/2'>Rev. 21:2</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 23045015,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 45,
       "verse": 15,
       "text": "With gladness and joy they are led along; they enter the palace of the king.",
       "links": "<a href='/AIV/19/36/8'>Ps. 36:8</a>; <a href='/AIV/66/19/9'>Rev. 19:9</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 23045016,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 45,
       "verse": 16,
       "text": "Your sons will take the place of your fathers; you will make them princes throughout the land.",
       "links": "<a href='/AIV/19/132/12'>Ps. 132:12</a>; <a href='/AIV/02/19/6'>Ex. 19:6</a>",
@@ -200,28 +122,10 @@
     },
     {
       "pk": 23045017,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 45,
       "verse": 17,
       "text": "I will cause your name to be remembered in all generations. Therefore, nations will praise you forever and ever.",
       "links": "<a href='/AIV/19/22/27'>Ps. 22:27</a>; <a href='/AIV/19/72/17'>Ps. 72:17</a>",
       "comment": "The king’s enduring name anticipates the everlasting praise given to Christ by all nations and generations, connecting earthly royalty with universal worship in the Kingdom of God."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:14:21.469Z",
-  "sections": [
-    {
-      "title": "The Royal Bridegroom and His Majesty",
-      "startVerse": 1,
-      "endVerse": 9
-    },
-    {
-      "title": "The Bride and Her Wedding Procession",
-      "startVerse": 10,
-      "endVerse": 17
     }
   ]
 }

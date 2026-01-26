@@ -1,16 +1,13 @@
 {
-  "book": 35,
+  "translation": "AIV",
+  "bookId": "hosea",
   "bookName": "Hosea",
   "bookAbbreviation": "Hos",
+  "bookNumber": 35,
   "chapter": 12,
   "verses": [
     {
       "pk": 35012001,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 12,
       "verse": 1,
       "text": "Ephraim feeds on wind and pursues the east wind all day long; he multiplies lies and violence. He makes a covenant with Assyria, and carries oil to Egypt.",
       "links": "<a href='/AIV/28/5/13'>Hos. 5:13</a>; <a href='/AIV/28/7/11'>Hos. 7:11</a>; <a href='/AIV/24/2/36-37'>Jer. 2:36-37</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 35012002,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 12,
       "verse": 2,
       "text": "The LORD also has a dispute with Judah, and will punish Jacob according to his ways; he will repay him for what he has done.",
       "links": "<a href='/AIV/23/3/13'>Isa. 3:13</a>; <a href='/AIV/28/4/1'>Hos. 4:1</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 35012003,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 12,
       "verse": 3,
       "text": "In the womb he grasped his brother’s heel, and in his strength he struggled with God.",
       "links": "<a href='/AIV/01/25/26'>Gen. 25:26</a>; <a href='/AIV/01/32/24-28'>Gen. 32:24-28</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 35012004,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 12,
       "verse": 4,
       "text": "He wrestled with the angel and prevailed; he wept and sought his favor. He found him at Bethel, and there God spoke with us—",
       "links": "<a href='/AIV/01/32/24-30'>Gen. 32:24-30</a>; <a href='/AIV/01/35/1-7'>Gen. 35:1-7</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 35012005,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 12,
       "verse": 5,
       "text": "the LORD, the God of armies, the LORD is his name.",
       "links": "<a href='/AIV/02/03/14-15'>Ex. 3:14-15</a>; <a href='/AIV/19/46/7'>Ps. 46:7</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 35012006,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 12,
       "verse": 6,
       "text": "Therefore, return to your God; hold fast to faithful love and justice, and wait continually for your God.",
       "links": "<a href='/AIV/28/6/6'>Hos. 6:6</a>; <a href='/AIV/33/6/8'>Mic. 6:8</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 35012007,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 12,
       "verse": 7,
       "text": "A merchant, whose scales are deceitful, loves to oppress.",
       "links": "<a href='/AIV/28/12/8'>Hos. 12:8</a>; <a href='/AIV/03/19/35-36'>Lev. 19:35-36</a>",
@@ -93,11 +60,6 @@
     },
     {
       "pk": 35012008,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 12,
       "verse": 8,
       "text": "Ephraim says, “I have become rich; I have found wealth for myself. In all my labor they will find in me no iniquity that is sin.”",
       "links": "<a href='/AIV/05/08/17'>Deut. 8:17</a>; <a href='/AIV/28/13/6'>Hos. 13:6</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 35012009,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 12,
       "verse": 9,
       "text": "But I am the LORD your God from the land of Egypt; I will again make you dwell in tents, as in the days of the appointed feast.",
       "links": "<a href='/AIV/03/23/42-43'>Lev. 23:42-43</a>; <a href='/AIV/28/13/4'>Hos. 13:4</a>",
@@ -118,11 +75,6 @@
     },
     {
       "pk": 35012010,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 12,
       "verse": 10,
       "text": "I have spoken to the prophets, and I have multiplied visions; through the prophets I gave parables.",
       "links": "<a href='/AIV/04/12/6'>Num. 12:6</a>; <a href='/AIV/19/78/2'>Ps. 78:2</a>; <a href='/AIV/40/13/34-35'>Mt. 13:34-35</a>",
@@ -130,11 +82,6 @@
     },
     {
       "pk": 35012011,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 12,
       "verse": 11,
       "text": "Is Gilead wicked? Surely, they are vanity. In Gilgal they sacrifice bulls—yes, their altars are like stone heaps along the furrows of the field.",
       "links": "<a href='/AIV/28/06/8'>Hos. 6:8</a>; <a href='/AIV/24/11/13'>Jer. 11:13</a>",
@@ -142,11 +89,6 @@
     },
     {
       "pk": 35012012,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 12,
       "verse": 12,
       "text": "Jacob fled to the land of Aram; Israel served for a wife, and for a wife he guarded sheep.",
       "links": "<a href='/AIV/01/28/5'>Gen. 28:5</a>; <a href='/AIV/01/29/20'>Gen. 29:20</a>",
@@ -155,11 +97,6 @@
     },
     {
       "pk": 35012013,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 12,
       "verse": 13,
       "text": "By a prophet the LORD brought Israel up from Egypt, and by a prophet he was guarded.",
       "links": "<a href='/AIV/02/12/50-51'>Ex. 12:50-51</a>; <a href='/AIV/05/34/10'>Deut. 34:10</a>",
@@ -167,49 +104,11 @@
     },
     {
       "pk": 35012014,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 12,
       "verse": 14,
       "text": "Ephraim has bitterly provoked anger, so his Lord will leave his bloodguilt on him, and will repay him for his contempt.",
       "links": "<a href='/AIV/28/09/7'>Hos. 9:7</a>; <a href='/AIV/24/2/19'>Jer. 2:19</a>",
       "comment": "Judgment comes from persistent rebellion. The withholding of grace due to obstinacy is a warning, highlighting the need for repentance and trust in God's appointed means of reconciliation. This anticipates New Testament teachings about divine discipline (Heb. 12:5-11), and the ongoing consequence of unrepented sin.",
       "sectionHeader": "Judgment on Ephraim for Provoking the Lord"
-    }
-  ],
-  "translatedAt": "2025-12-24T09:39:19.902Z",
-  "sections": [
-    {
-      "title": "Israel's Faithlessness and Quest for Foreign Alliances",
-      "startVerse": 1,
-      "endVerse": 2
-    },
-    {
-      "title": "Jacob's Past and God's Call to Repentance",
-      "startVerse": 3,
-      "endVerse": 6
-    },
-    {
-      "title": "Condemnation of Ephraim's Dishonest Gain",
-      "startVerse": 7,
-      "endVerse": 8
-    },
-    {
-      "title": "Reminders of God's Past Deliverance",
-      "startVerse": 9,
-      "endVerse": 11
-    },
-    {
-      "title": "Jacob's Flight and God's Protection",
-      "startVerse": 12,
-      "endVerse": 13
-    },
-    {
-      "title": "Judgment on Ephraim for Provoking the Lord",
-      "startVerse": 14,
-      "endVerse": 14
     }
   ]
 }

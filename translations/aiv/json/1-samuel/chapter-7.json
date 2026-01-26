@@ -1,16 +1,13 @@
 {
-  "book": 9,
+  "translation": "AIV",
+  "bookId": "1-samuel",
   "bookName": "1 Samuel",
-  "bookAbbreviation": "1Sam",
+  "bookAbbreviation": "1 Sam",
+  "bookNumber": 9,
   "chapter": 7,
   "verses": [
     {
       "pk": 9007001,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 7,
       "verse": 1,
       "text": "The men of Kiriath-jearim came and took up the Ark of the LORD. They brought it to the house of Abinadab on the hill, and they consecrated his son Eleazar to guard the Ark of the LORD.",
       "links": "<a href='/AIV/9/6/21'>1Sam 6:21</a>; <a href='/AIV/13/13/6-7'>1Chr 13:6–7</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 9007002,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 7,
       "verse": 2,
       "text": "The Ark remained at Kiriath-jearim for a long time, twenty years in all. All the house of Israel mourned after the LORD.",
       "links": "<a href='/AIV/10/6/3'>2Sam 6:3</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 9007003,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 7,
       "verse": 3,
       "text": "Then Samuel spoke to all the house of Israel, saying, 'If you are returning to the LORD with all your heart, put away the foreign gods and the Ashtaroth from among you. Direct your hearts to the LORD and serve him only, and he will deliver you from the hand of the Philistines.'",
       "links": "<a href='/AIV/5/6/5'>Deut 6:5</a>; <a href='/AIV/7/2/12-13'>Judges 2:12-13</a>; <a href='/AIV/40/4/10'>Matt 4:10</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 9007004,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 7,
       "verse": 4,
       "text": "So the Israelites removed the Baals and the Ashtaroth, and they served the LORD only.",
       "links": "<a href='/AIV/7/10/16'>Judges 10:16</a>; <a href='/AIV/2/20/3'>Exod 20:3</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 9007005,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 7,
       "verse": 5,
       "text": "And Samuel said, 'Gather all Israel at Mizpah, and I will pray to the LORD for you.'",
       "links": "<a href='/AIV/9/10/17'>1Sam 10:17</a>; <a href='/AIV/18/42/8'>Job 42:8</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 9007006,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 7,
       "verse": 6,
       "text": "They gathered at Mizpah and drew water and poured it out before the LORD, and they fasted that day and said, 'We have sinned against the LORD.' And Samuel judged the people of Israel at Mizpah.",
       "links": "<a href='/AIV/15/9/5-7'>Ezra 9:5-7</a>; <a href='/AIV/19/32/5'>Ps 32:5</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 9007007,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 7,
       "verse": 7,
       "text": "Now when the Philistines heard that the Israelites had gathered at Mizpah, the rulers of the Philistines went up against Israel. When the Israelites heard of it, they were afraid of the Philistines.",
       "links": "<a href='/AIV/7/10/17'>Judges 10:17</a>",
@@ -93,11 +60,6 @@
     },
     {
       "pk": 9007008,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 7,
       "verse": 8,
       "text": "And the people of Israel said to Samuel, 'Do not stop crying out to the LORD our God for us, that he may save us from the hand of the Philistines.'",
       "links": "<a href='/AIV/9/12/19'>1Sam 12:19</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 9007009,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 7,
       "verse": 9,
       "text": "So Samuel took a nursing lamb and offered it as a whole burnt offering to the LORD. He cried out to the LORD for Israel, and the LORD answered him.",
       "links": "<a href='/AIV/8/22/9'>Ruth 2:14</a>; <a href='/AIV/2/29/38-39'>Exod 29:38-39</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 9007010,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 7,
       "verse": 10,
       "text": "As Samuel was offering up the burnt offering, the Philistines came near to attack Israel. But the LORD thundered with a mighty sound against the Philistines that day and threw them into confusion, and they were struck down before Israel.",
       "links": "<a href='/AIV/7/5/20'>Judges 5:20</a>; <a href='/AIV/19/18/13-14'>Ps 18:13-14</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 9007011,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 7,
       "verse": 11,
       "text": "The men of Israel went out from Mizpah and pursued the Philistines, and struck them down as far as below Beth-car.",
       "links": "<a href='/AIV/9/14/31'>1Sam 14:31</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 9007012,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 7,
       "verse": 12,
       "text": "Then Samuel took a stone and set it up between Mizpah and Shen, and named it Ebenezer, saying, 'Thus far the LORD has helped us.'",
       "links": "<a href='/AIV/9/4/1'>1Sam 4:1</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 9007013,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 7,
       "verse": 13,
       "text": "So the Philistines were subdued and did not enter the territory of Israel again. The hand of the LORD was against the Philistines all the days of Samuel.",
       "links": "<a href='/AIV/7/13/1'>Judges 13:1</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 9007014,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 7,
       "verse": 14,
       "text": "The towns the Philistines had taken from Israel were restored to Israel, from Ekron to Gath, and Israel rescued their territory from the hand of the Philistines. There was also peace between Israel and the Amorites.",
       "links": "<a href='/AIV/7/1/1-4'>Judges 1:1-4</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 9007015,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 7,
       "verse": 15,
       "text": "Samuel judged Israel all the days of his life.",
       "links": "<a href='/AIV/7/2/16'>Judges 2:16</a>",
@@ -190,11 +117,6 @@
     },
     {
       "pk": 9007016,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 7,
       "verse": 16,
       "text": "He went on a circuit year by year to Bethel, Gilgal, and Mizpah and judged Israel in all those places.",
       "links": "<a href='/AIV/7/4/3'>Judges 4:3</a>",
@@ -202,38 +124,10 @@
     },
     {
       "pk": 9007017,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 7,
       "verse": 17,
       "text": "But he would return to Ramah, for his home was there, and he judged Israel there, and he built an altar to the LORD.",
       "links": "<a href='/AIV/9/1/19'>1Sam 1:19</a>; <a href='/AIV/8/21/4'>Ruth 1:19</a>",
       "comment": "Building an altar in his hometown shows Samuel’s personal devotion and the centrality of worship in daily life. Establishing a center for worship highlights the importance of sacred space and ongoing sacrifice, which is foundational to covenant worship and is later fulfilled in a more perfect and lasting way (see John 4:21-24)."
-    }
-  ],
-  "translatedAt": "2025-12-24T02:52:14.629Z",
-  "sections": [
-    {
-      "title": "The Ark at Kiriath-jearim",
-      "startVerse": 1,
-      "endVerse": 2
-    },
-    {
-      "title": "Israel Returns to the LORD at Mizpah",
-      "startVerse": 3,
-      "endVerse": 6
-    },
-    {
-      "title": "Victory Over the Philistines",
-      "startVerse": 7,
-      "endVerse": 14
-    },
-    {
-      "title": "Samuel's Judgeship",
-      "startVerse": 15,
-      "endVerse": 17
     }
   ]
 }

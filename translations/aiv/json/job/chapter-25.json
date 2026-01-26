@@ -1,16 +1,13 @@
 {
-  "book": 22,
+  "translation": "AIV",
+  "bookId": "job",
   "bookName": "Job",
   "bookAbbreviation": "Job",
+  "bookNumber": 22,
   "chapter": 25,
   "verses": [
     {
       "pk": 22025001,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 25,
       "verse": 1,
       "text": "Then Bildad the Shuhite answered and said:",
       "links": "<a href='/AIV/18/8/1'>Job 8:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 22025002,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 25,
       "verse": 2,
       "text": "\"Dominion and awe belong to Him; He makes peace in His high places.\"",
       "links": "<a href='/AIV/19/89/9'>Ps. 89:9</a>; <a href='/AIV/23/57/15'>Isa. 57:15</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 22025003,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 25,
       "verse": 3,
       "text": "\"Can His armies be numbered? Upon whom does His light not rise?\"",
       "links": "<a href='/AIV/19/147/4'>Ps. 147:4</a>; <a href='/AIV/43/1/9'>John 1:9</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 22025004,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 25,
       "verse": 4,
       "text": "\"How then can man be righteous before God? How can he who is born of woman be pure?\"",
       "links": "<a href='/AIV/19/143/2'>Ps. 143:2</a>; <a href='/AIV/45/3/23'>Rom. 3:23</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 22025005,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 25,
       "verse": 5,
       "text": "\"Behold, even the moon is not bright, and the stars are not pure in His eyes.\"",
       "links": "<a href='/AIV/19/104/19'>Ps. 104:19</a>; <a href='/AIV/23/24/23'>Isa. 24:23</a>",
@@ -67,23 +44,10 @@
     },
     {
       "pk": 22025006,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 25,
       "verse": 6,
       "text": "\"How much less man, who is a maggot, and the son of man, who is a worm!\"",
       "links": "<a href='/AIV/19/22/6'>Ps. 22:6</a>; <a href='/AIV/18/4/19'>Job 4:19</a>",
       "comment": "Bildad uses strong imagery to remind humanity of its frailty. 'Son of man' here can also foreshadow the humility of Christ, who bears the same title (see <a href='/AIV/40/8/20'>Matt. 8:20</a>) and identifies with our weakness to raise us up. The language of humility and the necessity of grace is foundational to the faith and the sacraments, which provide sanctifying grace for believers."
-    }
-  ],
-  "translatedAt": "2025-12-24T05:50:20.272Z",
-  "sections": [
-    {
-      "title": "Bildad Affirms God's Majesty and Man's Frailty",
-      "startVerse": 1,
-      "endVerse": 6
     }
   ]
 }

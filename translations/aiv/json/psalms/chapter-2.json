@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 2,
   "verses": [
     {
       "pk": 23002001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 2,
       "verse": 1,
       "text": "Why do the nations rage and the peoples plot in vain?",
       "links": "<a href='/AIV/44/4/25-26'>Acts 4:25-26</a>; <a href='/AIV/19/83/2-5'>Ps. 83:2-5</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23002002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 2,
       "verse": 2,
       "text": "The kings of the earth take their stand, and the rulers conspire together against the LORD and against his Anointed:",
       "links": "<a href='/AIV/44/4/26-27'>Acts 4:26-27</a>; <a href='/AIV/19/45/7'>Ps. 45:7</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23002003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 2,
       "verse": 3,
       "text": "'Let us break their chains and throw off their cords from us!'",
       "links": "<a href='/AIV/24/5/5'>Jer. 5:5</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23002004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 2,
       "verse": 4,
       "text": "He who sits in the heavens laughs; the Lord ridicules them.",
       "links": "<a href='/AIV/19/37/13'>Ps. 37:13</a>; <a href='/AIV/19/59/8'>Ps. 59:8</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 23002005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 2,
       "verse": 5,
       "text": "Then He will speak to them in His wrath, and terrify them in His fury:",
       "links": "<a href='/AIV/23/66/15'>Is. 66:15</a>; <a href='/AIV/66/6/16-17'>Rev. 6:16-17</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 23002006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 2,
       "verse": 6,
       "text": "'But as for Me, I have installed My King on Zion, My holy mountain.'",
       "links": "<a href='/AIV/10/7/12-16'>2 Sam. 7:12-16</a>; <a href='/AIV/19/110/1-2'>Ps. 110:1-2</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 23002007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 2,
       "verse": 7,
       "text": "I will proclaim the decree: The LORD said to me, 'You are my Son; today I have begotten you.'",
       "links": "<a href='/AIV/58/1/5'>Heb. 1:5</a>; <a href='/AIV/40/3/17'>Matt. 3:17</a>; <a href='/AIV/44/13/33'>Acts 13:33</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 23002008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 2,
       "verse": 8,
       "text": "Ask of Me, and I will give you the nations as your inheritance, and the ends of the earth as your possession.",
       "links": "<a href='/AIV/19/72/8'>Ps. 72:8</a>; <a href='/AIV/40/28/18-19'>Matt. 28:18-19</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 23002009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 2,
       "verse": 9,
       "text": "You will break them with a rod of iron; you will shatter them like a potter’s vessel.",
       "links": "<a href='/AIV/66/2/26-27'>Rev. 2:26-27</a>; <a href='/AIV/23/30/14'>Is. 30:14</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 23002010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 2,
       "verse": 10,
       "text": "Now therefore, O kings, be wise; be warned, O rulers of the earth.",
       "links": "<a href='/AIV/20/8/10-11'>Prov. 8:10-11</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 23002011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 2,
       "verse": 11,
       "text": "Serve the LORD with fear, and rejoice with trembling.",
       "links": "<a href='/AIV/19/5/7'>Ps. 5:7</a>; <a href='/AIV/58/12/28-29'>Heb. 12:28-29</a>",
@@ -141,33 +88,10 @@
     },
     {
       "pk": 23002012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 2,
       "verse": 12,
       "text": "Kiss the Son, or he will be angry and you will perish in your way, for his wrath can flare up in a moment. Blessed are all who take refuge in him.",
       "links": "<a href='/AIV/19/18/2'>Ps. 18:2</a>; <a href='/AIV/43/3/36'>John 3:36</a>",
       "comment": "The call to 'kiss the Son' signifies homage and submission, familiar to ancient Israel in acts of worship and surrender. Christ is depicted as the ultimate refuge for all people (see John 3:36). Taking refuge in the Son shows the path to true blessing and safety—a call to personal union with Christ that gradually brings the believer into the unity of faith and life with the Church He founded."
-    }
-  ],
-  "translatedAt": "2025-12-24T05:59:39.191Z",
-  "sections": [
-    {
-      "title": "The Nations Conspire Against the LORD and His Anointed",
-      "startVerse": 1,
-      "endVerse": 3
-    },
-    {
-      "title": "The LORD’s Response and the King’s Divine Sonship",
-      "startVerse": 4,
-      "endVerse": 9
-    },
-    {
-      "title": "A Call to Wisdom and Submission",
-      "startVerse": 10,
-      "endVerse": 12
     }
   ]
 }

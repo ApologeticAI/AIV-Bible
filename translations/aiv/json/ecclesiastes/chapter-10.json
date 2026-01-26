@@ -1,16 +1,13 @@
 {
-  "book": 25,
+  "translation": "AIV",
+  "bookId": "ecclesiastes",
   "bookName": "Ecclesiastes",
   "bookAbbreviation": "Eccl",
+  "bookNumber": 25,
   "chapter": 10,
   "verses": [
     {
       "pk": 25010001,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 10,
       "verse": 1,
       "text": "Dead flies cause the perfumer’s oil to give off a foul odor; so a little foolishness outweighs wisdom and honor.",
       "links": "<a href='/AIV/19/133/2'>Ps. 133:2</a>; <a href='/AIV/21/7/1'>Eccl. 7:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 25010002,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 10,
       "verse": 2,
       "text": "A wise person’s heart leans to the right, but a fool’s heart to the left.",
       "links": "<a href='/AIV/20/4/23'>Prov. 4:23</a>; <a href='/AIV/21/2/14'>Eccl. 2:14</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 25010003,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 10,
       "verse": 3,
       "text": "Even as the fool walks along the road, his lack of sense shows, and he says to everyone that he is a fool.",
       "links": "<a href='/AIV/19/14/1'>Ps. 14:1</a>; <a href='/AIV/20/13/16'>Prov. 13:16</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 25010004,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 10,
       "verse": 4,
       "text": "If the spirit of a ruler rises against you, do not leave your place; calmness can lay to rest great offenses.",
       "links": "<a href='/AIV/20/15/1'>Prov. 15:1</a>; <a href='/AIV/22/3/3'>Song 3:3</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 25010005,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 10,
       "verse": 5,
       "text": "There is an evil I have seen under the sun, like an error made by rulers:",
       "links": "<a href='/AIV/21/6/1'>Eccl. 6:1</a>; <a href='/AIV/20/19/10'>Prov. 19:10</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 25010006,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 10,
       "verse": 6,
       "text": "Fools are set in many high positions, but the rich sit in low places.",
       "links": "<a href='/AIV/20/30/22'>Prov. 30:22-23</a>; <a href='/AIV/26/21/25'>Ezek. 21:25-27</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 25010007,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 10,
       "verse": 7,
       "text": "I have seen slaves riding on horses and princes walking like slaves on the ground.",
       "links": "<a href='/AIV/20/19/10'>Prov. 19:10</a>; <a href='/AIV/21/7/15'>Eccl. 7:15</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 25010008,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 10,
       "verse": 8,
       "text": "Whoever digs a pit may fall into it, and whoever breaks through a wall may be bitten by a snake.",
       "links": "<a href='/AIV/19/7/15'>Ps. 7:15-16</a>; <a href='/AIV/20/26/27'>Prov. 26:27</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 25010009,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 10,
       "verse": 9,
       "text": "Whoever quarries stones may be hurt by them; whoever splits logs may be endangered by them.",
       "links": "<a href='/AIV/5/22/8'>Deut. 22:8</a>; <a href='/AIV/20/27/12'>Prov. 27:12</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 25010010,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 10,
       "verse": 10,
       "text": "If an iron axe is blunt and one does not sharpen its edge, then more strength must be used, but wisdom brings success.",
       "links": "<a href='/AIV/20/4/7'>Prov. 4:7</a>; <a href='/AIV/21/7/19'>Eccl. 7:19</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 25010011,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 10,
       "verse": 11,
       "text": "If the snake bites before it is charmed, there is no benefit to the charmer.",
       "links": "<a href='/AIV/19/58/4'>Ps. 58:4-5</a>; <a href='/AIV/20/12/18'>Prov. 12:18</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 25010012,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 10,
       "verse": 12,
       "text": "The words of a wise person bring favor, but the lips of a fool consume him.",
       "links": "<a href='/AIV/20/16/24'>Prov. 16:24</a>; <a href='/AIV/20/15/2'>Prov. 15:2</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 25010013,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 10,
       "verse": 13,
       "text": "The beginning of the words from his mouth is foolishness, and the end of his talk is wicked madness.",
       "links": "<a href='/AIV/20/10/14'>Prov. 10:14</a>; <a href='/AIV/20/15/2'>Prov. 15:2</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 25010014,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 10,
       "verse": 14,
       "text": "A fool multiplies words, though no one knows what will happen, and who can tell him what is to come after him?",
       "links": "<a href='/AIV/20/27/1'>Prov. 27:1</a>; <a href='/AIV/21/6/12'>Eccl. 6:12</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 25010015,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 10,
       "verse": 15,
       "text": "The labor of fools wearies them, for they do not even know the way to the city.",
       "links": "<a href='/AIV/20/13/16'>Prov. 13:16</a>; <a href='/AIV/21/6/7'>Eccl. 6:7</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 25010016,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 10,
       "verse": 16,
       "text": "Woe to you, O land, when your king is a child, and your princes feast in the morning!",
       "links": "<a href='/AIV/23/3/4'>Isa. 3:4</a>; <a href='/AIV/28/7/5'>Hos. 7:5-7</a>",
@@ -202,11 +124,6 @@
     },
     {
       "pk": 25010017,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 10,
       "verse": 17,
       "text": "Blessed are you, O land, when your king is the son of nobles, and your princes feast at the proper time—for strength and not for drunkenness!",
       "links": "<a href='/AIV/20/31/4'>Prov. 31:4</a>; <a href='/AIV/23/32/1'>Isa. 32:1</a>",
@@ -214,11 +131,6 @@
     },
     {
       "pk": 25010018,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 10,
       "verse": 18,
       "text": "Because of laziness the roof sinks in, and through idle hands the house leaks.",
       "links": "<a href='/AIV/20/6/9-11'>Prov. 6:9-11</a>; <a href='/AIV/21/4/5'>Eccl. 4:5</a>",
@@ -226,11 +138,6 @@
     },
     {
       "pk": 25010019,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 10,
       "verse": 19,
       "text": "A feast is made for laughter, and wine makes life glad, but money is the answer for everything.",
       "links": "<a href='/AIV/19/104/15'>Ps. 104:15</a>; <a href='/AIV/20/17/8'>Prov. 17:8</a>",
@@ -238,44 +145,11 @@
     },
     {
       "pk": 25010020,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 10,
       "verse": 20,
       "text": "Do not curse the king, even in your thoughts, nor curse the rich in your bedroom; for a bird of the air may carry your voice, and some winged creature may tell the matter.",
       "links": "<a href='/AIV/2/22/28'>Exod. 22:28</a>; <a href='/AIV/20/30/17'>Prov. 30:17</a>",
       "comment": "Respect for authority—even in private—is wise, as nothing is truly secret (cf. Luke 12:2-3). This mirrors Christ’s command to obedience and right speech, and the importance of interior holiness that aligns with exterior deeds.",
       "sectionHeader": "Caution in Speech"
-    }
-  ],
-  "translatedAt": "2025-12-24T07:11:00.003Z",
-  "sections": [
-    {
-      "title": "The Folly of Foolishness and the Value of Wisdom",
-      "startVerse": 1,
-      "endVerse": 4
-    },
-    {
-      "title": "The Dangers of Foolish Rulers",
-      "startVerse": 5,
-      "endVerse": 7
-    },
-    {
-      "title": "Wisdom in Work and Words",
-      "startVerse": 8,
-      "endVerse": 15
-    },
-    {
-      "title": "Blessings and Woes on Rulers and Laziness",
-      "startVerse": 16,
-      "endVerse": 19
-    },
-    {
-      "title": "Caution in Speech",
-      "startVerse": 20,
-      "endVerse": 20
     }
   ]
 }

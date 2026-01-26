@@ -1,16 +1,13 @@
 {
-  "book": 19,
+  "translation": "AIV",
+  "bookId": "esther",
   "bookName": "Esther",
   "bookAbbreviation": "Esth",
+  "bookNumber": 19,
   "chapter": 4,
   "verses": [
     {
       "pk": 19004001,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 4,
       "verse": 1,
       "text": "When Mordecai learned everything that had happened, he tore his clothes, put on sackcloth and ashes, and went out into the midst of the city, crying out with a loud and bitter voice.",
       "links": "<a href='/AIV/16/9/1'>Neh. 9:1</a>; <a href='/AIV/18/2/12'>Job 2:12</a>; <a href='/AIV/23/22/12'>Isa. 22:12</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 19004002,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 4,
       "verse": 2,
       "text": "He came as far as the king’s gate, since no one wearing sackcloth was allowed to enter the king’s gate.",
       "links": "<a href='/AIV/17/2/19'>Esth. 2:19</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 19004003,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 4,
       "verse": 3,
       "text": "In every province where the king’s command and decree reached, there was great mourning among the Jews, with fasting, weeping, and lamenting, and many lay in sackcloth and ashes.",
       "links": "<a href='/AIV/27/9/3'>Dan. 9:3</a>; <a href='/AIV/29/2/12'>Joel 2:12</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 19004004,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 4,
       "verse": 4,
       "text": "When Esther’s maids and eunuchs came and told her, the queen was deeply distressed. She sent clothing to Mordecai to replace his sackcloth, but he would not accept them.",
       "links": "<a href='/AIV/17/2/7'>Esth. 2:7</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 19004005,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 4,
       "verse": 5,
       "text": "Then Esther summoned Hathach, one of the king’s eunuchs appointed to attend her, and ordered him to find out what was troubling Mordecai and why.",
       "links": "<a href='/AIV/17/2/15'>Esth. 2:15</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 19004006,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 4,
       "verse": 6,
       "text": "Hathach went out to Mordecai in the city square in front of the king's gate.",
       "links": "<a href='/AIV/17/2/19'>Esth. 2:19</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 19004007,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 4,
       "verse": 7,
       "text": "Mordecai told him all that had happened, and how Haman had promised to pay ten thousand talents of silver to the king’s treasuries for the destruction of the Jews.",
       "links": "<a href='/AIV/17/3/9'>Esth. 3:9</a>",
@@ -93,11 +60,6 @@
     },
     {
       "pk": 19004008,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 4,
       "verse": 8,
       "text": "He also gave him a copy of the written decree for their destruction, which had been issued in Susa, to show Esther and explain it to her, and told him to instruct her to go in to the king and plead for mercy and petition for her people.",
       "links": "<a href='/AIV/17/3/14'>Esth. 3:14</a>; <a href='/AIV/11/18/39'>1 Kings 18:39</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 19004009,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 4,
       "verse": 9,
       "text": "Hathach returned and told Esther what Mordecai had said.",
       "links": "<a href='/AIV/17/4/5'>Esth. 4:5</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 19004010,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 4,
       "verse": 10,
       "text": "Then Esther spoke to Hathach and ordered him to take a message back to Mordecai:",
       "links": "<a href='/AIV/4/12/7'>Num. 12:7</a>; <a href='/AIV/16/2/6'>Neh. 2:6</a>; <a href='/AIV/34/2/14'>Dan. 2:14</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 19004011,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 4,
       "verse": 11,
       "text": "‘All the king’s officials and the people of the king's provinces know that for any man or woman who goes to the king in the inner court without being summoned, there is one law: to be put to death, unless the king extends the golden scepter to them so that they may live. But I have not been called to go to the king for thirty days.’",
       "links": "<a href='/AIV/17/5/2'>Esth. 5:2</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 19004012,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 4,
       "verse": 12,
       "text": "When Esther’s message was reported to Mordecai,",
       "links": "<a href='/AIV/1/41/16'>Gen. 41:16</a>; <a href='/AIV/12/5/4'>2Kgs. 5:4</a>; <a href='/AIV/24/25/2'>Prov. 25:2</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 19004013,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 4,
       "verse": 13,
       "text": "Mordecai replied, ‘Do not think that you alone, in the king’s palace, will escape more than any other Jew.",
       "links": "<a href='/AIV/17/7/4'>Esth. 7:4</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 19004014,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 4,
       "verse": 14,
       "text": "For if you keep silent at this time, relief and deliverance will come to the Jews from another place, but you and your father’s house will perish. And who knows whether you have come to the kingdom for just such a time as this?’",
       "links": "<a href='/AIV/01/45/7'>Gen. 45:7</a>; <a href='/AIV/45/8/28'>Rom. 8:28</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 19004015,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 4,
       "verse": 15,
       "text": "Then Esther sent this reply to Mordecai:",
       "links": "<a href='/AIV/2/4/13'>Exod. 4:13</a>; <a href='/AIV/34/2/16'>Dan. 2:16</a>; <a href='/AIV/51/9/6'>Acts. 9:6</a>",
@@ -190,11 +117,6 @@
     },
     {
       "pk": 19004016,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 4,
       "verse": 16,
       "text": "‘Go, gather all the Jews in Susa, and fast for me; do not eat or drink for three days, night or day. My maids and I will do the same. Then I will go to the king, even though it is against the law; and if I perish, I perish.’",
       "links": "<a href='/AIV/27/6/18'>Dan. 6:18</a>; <a href='/AIV/44/9/9'>Acts 9:9</a>",
@@ -202,38 +124,10 @@
     },
     {
       "pk": 19004017,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 4,
       "verse": 17,
       "text": "So Mordecai went away and did all that Esther had ordered him.",
       "links": "<a href='/AIV/17/5/1'>Esth. 5:1</a>",
       "comment": "Mordecai’s obedience highlights the harmony that comes when leaders’ directions are followed by the faithful. This mutual submission under God’s guidance anticipates the unity of the people of God in faith and action."
-    }
-  ],
-  "translatedAt": "2025-12-24T05:09:33.316Z",
-  "sections": [
-    {
-      "title": "Mourning of Mordecai and the Jews",
-      "startVerse": 1,
-      "endVerse": 3
-    },
-    {
-      "title": "Esther Learns of the Plot",
-      "startVerse": 4,
-      "endVerse": 6
-    },
-    {
-      "title": "Mordecai Urges Esther to Intercede",
-      "startVerse": 7,
-      "endVerse": 14
-    },
-    {
-      "title": "Esther’s Decision and Request for Fasting",
-      "startVerse": 15,
-      "endVerse": 17
     }
   ]
 }

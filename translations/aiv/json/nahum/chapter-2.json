@@ -1,16 +1,13 @@
 {
-  "book": 41,
+  "translation": "AIV",
+  "bookId": "nahum",
   "bookName": "Nahum",
   "bookAbbreviation": "Nah",
+  "bookNumber": 41,
   "chapter": 2,
   "verses": [
     {
       "pk": 41002001,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 2,
       "verse": 1,
       "text": "A scatterer has come up against you. Guard the fortress, watch the road, strengthen your loins, reinforce your power greatly.",
       "links": "<a href='/AIV/23/21/6'>Isa. 21:6</a>; <a href='/AIV/34/3/14'>Nah. 3:14</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 41002002,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 2,
       "verse": 2,
       "text": "For the LORD restores the majesty of Jacob as the majesty of Israel, for destroyers have laid them waste and ruined their vines.",
       "links": "<a href='/AIV/24/30/18'>Jer. 30:18</a>; <a href='/AIV/29/3/2'>Joel 3:2</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 41002003,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 2,
       "verse": 3,
       "text": "The shields of his mighty men are red, the warriors are clothed in scarlet. The chariots flash with steel on the day of battle, and the lances are brandished.",
       "links": "<a href='/AIV/23/63/2-3'>Isa. 63:2-3</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 41002004,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 2,
       "verse": 4,
       "text": "The chariots race madly through the streets; they rush to and fro through the squares. Their appearance is like torches; they dart like lightning.",
       "links": "<a href='/AIV/34/3/2'>Nah. 3:2</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 41002005,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 2,
       "verse": 5,
       "text": "He calls his nobles; they stumble as they go. They hasten to the wall, and the defense is prepared.",
       "links": "<a href='/AIV/23/19/14'>Isa. 19:14</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 41002006,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 2,
       "verse": 6,
       "text": "The river gates are opened, and the palace melts away.",
       "links": "<a href='/AIV/27/5/30-31'>Dan. 5:30-31</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 41002007,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 2,
       "verse": 7,
       "text": "It is decreed: she is stripped, carried away; her maidservants moan like doves, beating their breasts.",
       "links": "<a href='/AIV/23/38/14'>Isa. 38:14</a>; <a href='/AIV/42/23/27'>Luke 23:27</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 41002008,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 2,
       "verse": 8,
       "text": "Nineveh is like a pool whose waters run away. 'Stop! Stop!' they cry, but none turns back.",
       "links": "<a href='/AIV/19/114/3'>Ps. 114:3</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 41002009,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 2,
       "verse": 9,
       "text": "Plunder the silver! Plunder the gold! There is no end of the treasure, or of the wealth of all precious things.",
       "links": "<a href='/AIV/18/20/15'>Job 20:15</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 41002010,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 2,
       "verse": 10,
       "text": "Desolate! Devastated! Destroyed! Hearts melt and knees tremble; anguish is in all loins, all faces grow pale.",
       "links": "<a href='/AIV/26/7/17'>Ezek. 7:17</a>; <a href='/AIV/42/21/26'>Luke 21:26</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 41002011,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 2,
       "verse": 11,
       "text": "Where is the lions’ den, the feeding place of the young lions, where the lion and lioness went, where none made them afraid?",
       "links": "<a href='/AIV/26/19/2'>Ezek. 19:2</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 41002012,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 2,
       "verse": 12,
       "text": "The lion tore enough for his cubs and strangled prey for his lionesses; he filled his caves with prey and his dens with torn flesh.",
       "links": "<a href='/AIV/35/1/8'>Hab. 1:8</a>",
@@ -153,33 +95,10 @@
     },
     {
       "pk": 41002013,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 2,
       "verse": 13,
       "text": "'Behold, I am against you,' declares the LORD of hosts, 'and I will burn your chariots in smoke, and the sword shall devour your young lions. I will cut off your prey from the earth, and the voice of your messengers shall no longer be heard.'",
       "links": "<a href='/AIV/24/21/13'>Jer. 21:13</a>; <a href='/AIV/23/47/1'>Isa. 47:1</a>",
       "comment": "God’s judgment is emphatic and final. Those who trust in violence and pride face destruction. The silence of the messengers and the cessation of messages serve as a reminder that God’s word endures above all human institutions. Christologically, the true King and His message will never be silenced, establishing an everlasting kingdom built on unity and authority."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:50:16.479Z",
-  "sections": [
-    {
-      "title": "The Assault Against Nineveh",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "The Fall and Plundering of Nineveh",
-      "startVerse": 6,
-      "endVerse": 10
-    },
-    {
-      "title": "Lament Over Nineveh's Ruin",
-      "startVerse": 11,
-      "endVerse": 13
     }
   ]
 }

@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 29,
   "verses": [
     {
       "pk": 23029001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 29,
       "verse": 1,
       "text": "Ascribe to the LORD, O sons of God, ascribe to the LORD glory and strength.",
       "links": "<a href='/AIV/19/96/7'>Ps. 96:7</a>; <a href='/AIV/18/1/6'>Job 1:6</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23029002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 29,
       "verse": 2,
       "text": "Ascribe to the LORD the glory due His name; worship the LORD in holy splendor.",
       "links": "<a href='/AIV/19/96/8-9'>Ps. 96:8-9</a>; <a href='/AIV/13/16/29'>1 Chr. 16:29</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23029003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 29,
       "verse": 3,
       "text": "The voice of the LORD is over the waters; the God of glory thunders, the LORD over the mighty waters.",
       "links": "<a href='/AIV/19/18/13'>Ps. 18:13</a>; <a href='/AIV/40/3/16-17'>Matt. 3:16-17</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 23029004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 29,
       "verse": 4,
       "text": "The voice of the LORD is powerful; the voice of the LORD is full of majesty.",
       "links": "<a href='/AIV/19/68/33'>Ps. 68:33</a>; <a href='/AIV/22/5/2'>Song 5:2</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 23029005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 29,
       "verse": 5,
       "text": "The voice of the LORD breaks the cedars; the LORD breaks the cedars of Lebanon.",
       "links": "<a href='/AIV/19/104/16'>Ps. 104:16</a>; <a href='/AIV/11/5/6'>1 Kings 5:6</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 23029006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 29,
       "verse": 6,
       "text": "He makes them leap like a calf, Lebanon and Sirion like a young wild ox.",
       "links": "<a href='/AIV/05/3/9'>Deut. 3:9</a>; <a href='/AIV/19/114/4'>Ps. 114:4</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 23029007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 29,
       "verse": 7,
       "text": "The voice of the LORD flashes forth flames of fire.",
       "links": "<a href='/AIV/02/3/2'>Ex. 3:2</a>; <a href='/AIV/44/2/3'>Acts 2:3</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 23029008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 29,
       "verse": 8,
       "text": "The voice of the LORD shakes the wilderness; the LORD shakes the wilderness of Kadesh.",
       "links": "<a href='/AIV/04/13/26'>Num. 13:26</a>; <a href='/AIV/23/40/3'>Isa. 40:3</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 23029009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 29,
       "verse": 9,
       "text": "The voice of the LORD makes the deer give birth and strips the forests bare, and in His temple all cry, 'Glory!'",
       "links": "<a href='/AIV/18/39/1-4'>Job 39:1-4</a>; <a href='/AIV/19/150/1'>Ps. 150:1</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 23029010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 29,
       "verse": 10,
       "text": "The LORD sits enthroned over the flood; the LORD sits enthroned as King forever.",
       "links": "<a href='/AIV/01/7/16'>Gen. 7:16</a>; <a href='/AIV/19/10/16'>Ps. 10:16</a>",
@@ -129,33 +81,10 @@
     },
     {
       "pk": 23029011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 29,
       "verse": 11,
       "text": "The LORD gives strength to His people; the LORD blesses His people with peace.",
       "links": "<a href='/AIV/19/28/8'>Ps. 28:8</a>; <a href='/AIV/43/14/27'>John 14:27</a>",
       "comment": "Strength and peace are gifts only God can bestow—which, in Christian interpretation, come fully through Christ (see <a href='/AIV/43/14/27'>John 14:27</a>: 'Peace I leave with you; my peace I give you'). This verse closes the Psalm with a promise fulfilled for God's gathered people through the new covenant."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:08:07.459Z",
-  "sections": [
-    {
-      "title": "Call to Worship and Praise",
-      "startVerse": 1,
-      "endVerse": 2
-    },
-    {
-      "title": "The Majesty of the Voice of the Lord",
-      "startVerse": 3,
-      "endVerse": 9
-    },
-    {
-      "title": "The Lord Enthroned in Power and Peace",
-      "startVerse": 10,
-      "endVerse": 11
     }
   ]
 }

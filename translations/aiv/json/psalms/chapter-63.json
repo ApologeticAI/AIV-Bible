@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 63,
   "verses": [
     {
       "pk": 23063001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 63,
       "verse": 1,
       "text": "God, you are my God; I earnestly seek you. My soul thirsts for you, my flesh longs for you, as in a dry and weary land where there is no water.",
       "links": "<a href='/AIV/42/6/21'>Luke 6:21</a>; <a href='/AIV/19/42/2'>Ps. 42:2</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23063002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 63,
       "verse": 2,
       "text": "So I have looked upon you in the sanctuary, beholding your power and your glory.",
       "links": "<a href='/AIV/19/27/4'>Ps. 27:4</a>; <a href='/AIV/19/68/24'>Ps. 68:24</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23063003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 63,
       "verse": 3,
       "text": "Because your steadfast love is better than life, my lips will praise you.",
       "links": "<a href='/AIV/19/36/7'>Ps. 36:7</a>; <a href='/AIV/19/103/4'>Ps. 103:4</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23063004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 63,
       "verse": 4,
       "text": "So I will bless you as long as I live; in your name I will lift up my hands.",
       "links": "<a href='/AIV/19/134/2'>Ps. 134:2</a>; <a href='/AIV/54/2/8'>1 Tim. 2:8</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23063005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 63,
       "verse": 5,
       "text": "My soul will be satisfied as with rich food; my mouth will praise you with joyful lips.",
       "links": "<a href='/AIV/19/36/8'>Ps. 36:8</a>; <a href='/AIV/43/6/35'>John 6:35</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23063006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 63,
       "verse": 6,
       "text": "When I remember you on my bed, and meditate on you in the watches of the night.",
       "links": "<a href='/AIV/19/119/148'>Ps. 119:148</a>; <a href='/AIV/19/77/6'>Ps. 77:6</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23063007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 63,
       "verse": 7,
       "text": "For you have been my help, and in the shadow of your wings I will sing for joy.",
       "links": "<a href='/AIV/19/17/8'>Ps. 17:8</a>; <a href='/AIV/19/36/7'>Ps. 36:7</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 23063008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 63,
       "verse": 8,
       "text": "My soul clings to you; your right hand upholds me.",
       "links": "<a href='/AIV/19/139/10'>Ps. 139:10</a>; <a href='/AIV/19/18/35'>Ps. 18:35</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 23063009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 63,
       "verse": 9,
       "text": "But those who seek to destroy my life will go down into the depths of the earth.",
       "links": "<a href='/AIV/19/55/23'>Ps. 55:23</a>; <a href='/AIV/19/57/3'>Ps. 57:3'>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 23063010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 63,
       "verse": 10,
       "text": "They will be delivered over to the power of the sword; they will become food for jackals.",
       "links": "<a href='/AIV/19/44/11'>Ps. 44:11</a>; <a href='/AIV/19/22/16'>Ps. 22:16</a>",
@@ -128,28 +80,10 @@
     },
     {
       "pk": 23063011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 63,
       "verse": 11,
       "text": "But the king will rejoice in God; everyone who swears by him will glory, but the mouths of liars will be stopped.",
       "links": "<a href='/AIV/19/5/11'>Ps. 5:11</a>; <a href='/AIV/19/107/42'>Ps. 107:42</a>",
       "comment": "David refers to himself as ‘king,’ foreshadowing Christ the King—the fulfillment of the Davidic covenant (cf. Luke 1:32-33). The contrast between true worshipers who glory and liars who are silenced points to a final vindication of truth and righteousness, echoed in the New Testament promise of judgment and reward. The mention of rejoicing in God by the king subtly affirms the centrality of leadership and unity in worship for the people of God."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:20:14.240Z",
-  "sections": [
-    {
-      "title": "Longing for God in the Wilderness",
-      "startVerse": 1,
-      "endVerse": 8
-    },
-    {
-      "title": "God’s Protection and the Fate of the Wicked",
-      "startVerse": 9,
-      "endVerse": 11
     }
   ]
 }

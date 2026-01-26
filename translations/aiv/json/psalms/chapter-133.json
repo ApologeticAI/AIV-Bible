@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 133,
   "verses": [
     {
       "pk": 23133001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 133,
       "verse": 1,
       "text": "Look, how good and how pleasant it is when brothers live together in unity!",
       "links": "<a href='/AIV/19/122/8'>Ps. 122:8</a>; <a href='/AIV/43/17/21-23'>John 17:21-23</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23133002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 133,
       "verse": 2,
       "text": "It is like fine oil poured on the head, running down upon the beard, upon Aaron's beard, running down on the collar of his robes.",
       "links": "<a href='/AIV/02/30/25-30'>Ex. 30:25-30</a>; <a href='/AIV/03/08/12'>Lev. 8:12</a>",
@@ -31,23 +23,10 @@
     },
     {
       "pk": 23133003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 133,
       "verse": 3,
       "text": "It is like the dew of Hermon falling on the mountains of Zion. For there the LORD commanded the blessing—life forevermore.",
       "links": "<a href='/AIV/05/28/8'>Deut. 28:8</a>; <a href='/AIV/19/134/3'>Ps. 134:3</a>; <a href='/AIV/19/36/9'>Ps. 36:9</a>",
       "comment": "Hermon’s dew was known for its abundance and life-giving moisture, affecting even distant Zion. This illustrates how unity brings spiritual refreshment and blessing to God’s people. The 'commanded blessing' is not only material but points to eternal life, fulfilled through the New Covenant established by Christ. Just as the dew sanctifies the mountains, God’s blessing is poured out through the unity preserved by apostolic teaching and worship. This means that the fullness of life from God comes in and through the gathered, unified assembly of His people (see Ps. 36:9 and Deut. 28:8)."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:45:01.571Z",
-  "sections": [
-    {
-      "title": "The Blessing of Brotherly Unity",
-      "startVerse": 1,
-      "endVerse": 3
     }
   ]
 }

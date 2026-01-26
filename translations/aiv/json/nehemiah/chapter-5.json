@@ -1,16 +1,13 @@
 {
-  "book": 16,
+  "translation": "AIV",
+  "bookId": "nehemiah",
   "bookName": "Nehemiah",
   "bookAbbreviation": "Neh",
+  "bookNumber": 16,
   "chapter": 5,
   "verses": [
     {
       "pk": 16005001,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 5,
       "verse": 1,
       "text": "Now there arose a loud outcry of the people and their wives against their Jewish brothers.",
       "links": "<a href='/AIV/02/03/7-10'>Exod. 3:7-10</a>; <a href='/AIV/16/04/1'>Neh. 4:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 16005002,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 5,
       "verse": 2,
       "text": "Some were saying, 'We, our sons, and our daughters are many. Let us get grain so that we may eat and stay alive.'",
       "links": "<a href='/AIV/01/41/56'>Gen. 41:56</a>; <a href='/AIV/03/26/5'>Lev. 26:5</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 16005003,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 5,
       "verse": 3,
       "text": "Others said, 'We are mortgaging our fields, our vineyards, and our houses so that we can get grain during the famine.'",
       "links": "<a href='/AIV/03/25/35-38'>Lev. 25:35-38</a>; <a href='/AIV/12/04/1'>2 Kings 4:1</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 16005004,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 5,
       "verse": 4,
       "text": "And others were saying, 'We have borrowed money for the king's tax on our fields and vineyards.'",
       "links": "<a href='/AIV/15/04/13'>Ezra 4:13</a>; <a href='/AIV/40/22/17-21'>Matt. 22:17-21</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 16005005,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 5,
       "verse": 5,
       "text": "Now our flesh is the same as that of our brothers, our children are as their children. Yet we are forcing our sons and daughters into slavery; some of our daughters have already been enslaved, but we are powerless, and our fields and vineyards belong to others.",
       "links": "<a href='/AIV/03/25/39-41'>Lev. 25:39-41</a>; <a href='/AIV/05/15/12-15'>Deut. 15:12-15</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 16005006,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 5,
       "verse": 6,
       "text": "I was very angry when I heard their outcry and these words.",
       "links": "<a href='/AIV/02/32/19'>Exod. 32:19</a>; <a href='/AIV/41/03/5'>Mark 3:5</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 16005007,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 5,
       "verse": 7,
       "text": "I considered it in my heart, and then accused the nobles and officials. I said to them, 'You are exacting interest, each from his brother!' And I held a great assembly against them.",
       "links": "<a href='/AIV/02/22/25'>Exod. 22:25</a>; <a href='/AIV/03/25/36-37'>Lev. 25:36-37</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 16005008,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 5,
       "verse": 8,
       "text": "And I said to them, 'We, as much as we are able, have redeemed our Jewish brothers who were sold to the nations, but you even sell your brothers, that they may be sold to us.' They were silent and could not find a word to say.",
       "links": "<a href='/AIV/03/25/47-48'>Lev. 25:47-48</a>; <a href='/AIV/01/37/27'>Gen. 37:27</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 16005009,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 5,
       "verse": 9,
       "text": "Then I said, 'What you are doing is not good. Ought you not to walk in the fear of our God to prevent the taunts of the nations who are our enemies?'",
       "links": "<a href='/AIV/03/19/14'>Lev. 19:14</a>; <a href='/AIV/05/06/13'>Deut. 6:13</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 16005010,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 5,
       "verse": 10,
       "text": "Moreover, I and my brothers and my servants are lending them money and grain. Let us stop this taking of interest.",
       "links": "<a href='/AIV/02/22/25'>Exod. 22:25</a>; <a href='/AIV/40/05/42'>Matt. 5:42</a>",
@@ -127,11 +79,6 @@
     },
     {
       "pk": 16005011,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 5,
       "verse": 11,
       "text": "Return to them this very day their fields, their vineyards, their olive orchards, and their houses, and the interest on money, grain, wine, and oil that you have been exacting from them.",
       "links": "<a href='/AIV/03/25/9-10'>Lev. 25:9-10</a>; <a href='/AIV/42/19/8'>Luke 19:8</a>",
@@ -139,11 +86,6 @@
     },
     {
       "pk": 16005012,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 5,
       "verse": 12,
       "text": "Then they said, 'We will restore it and require nothing from them. We will do as you say.' And I summoned the priests and made them swear to do as they had promised.",
       "links": "<a href='/AIV/03/06/2-7'>Lev. 6:2-7</a>; <a href='/AIV/58/07/21'>Heb. 7:21</a>",
@@ -151,11 +93,6 @@
     },
     {
       "pk": 16005013,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 5,
       "verse": 13,
       "text": "I also shook out the fold of my garment and said, 'So may God shake out every man from his house and from his labor who does not keep this promise. So may he be shaken out and emptied.' And all the assembly said, 'Amen,' and praised the LORD. And the people did as they had promised.",
       "links": "<a href='/AIV/03/27/29'>Lev. 27:29</a>; <a href='/AIV/40/10/14'>Matt. 10:14</a>",
@@ -163,11 +100,6 @@
     },
     {
       "pk": 16005014,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 5,
       "verse": 14,
       "text": "Moreover, from the time I was appointed to be their governor in the land of Judah, from the twentieth year to the thirty-second year of King Artaxerxes, twelve years, neither I nor my brothers ate the food allowance of the governor.",
       "links": "<a href='/AIV/16/02/1'>Neh. 2:1</a>; <a href='/AIV/40/20/27-28'>Matt. 20:27-28</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 16005015,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 5,
       "verse": 15,
       "text": "The former governors who were before me laid heavy burdens on the people, and took from them for their daily ration forty shekels of silver. Even their servants lorded it over the people. But I did not do so, because of the fear of God.",
       "links": "<a href='/AIV/26/34/2-4'>Ezek. 34:2-4</a>; <a href='/AIV/41/10/42-45'>Mark 10:42-45</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 16005016,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 5,
       "verse": 16,
       "text": "I also devoted myself to the work on this wall, and did not acquire any land, and all my servants were gathered there for the work.",
       "links": "<a href='/AIV/16/02/17'>Neh. 2:17</a>; <a href='/AIV/44/20/34-35'>Acts 20:34-35</a>",
@@ -200,11 +122,6 @@
     },
     {
       "pk": 16005017,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 5,
       "verse": 17,
       "text": "Moreover, there were at my table one hundred fifty men, Jews and officials, besides those who came to us from the nations around us.",
       "links": "<a href='/AIV/10/09/7'>2 Sam. 9:7</a>; <a href='/AIV/40/22/2-10'>Matt. 22:2-10</a>",
@@ -212,11 +129,6 @@
     },
     {
       "pk": 16005018,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 5,
       "verse": 18,
       "text": "Now what was prepared at my expense each day was one ox and six choice sheep and birds, and every ten days all kinds of wine in abundance. Yet for all this I did not demand the food allowance of the governor, because the service was heavy on this people.",
       "links": "<a href='/AIV/03/07/11-15'>Lev. 7:11-15</a>; <a href='/AIV/09/01/24-25'>1 Sam. 1:24-25</a>",
@@ -224,28 +136,10 @@
     },
     {
       "pk": 16005019,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 5,
       "verse": 19,
       "text": "Remember me, O my God, for good, all that I have done for this people.",
       "links": "<a href='/AIV/19/25/7'>Ps. 25:7</a>; <a href='/AIV/42/23/42-43'>Luke 23:42-43</a>",
       "comment": "This prayer for remembrance parallels the psalmist (Ps. 25:7) and the thief on the cross’s request—'Remember me' (Luke 23:42-43). Remembrance is a biblical theme tied to intercession and the life of grace. The desire to be remembered by God connects to the Christian understanding of praying for one another and the ongoing participation of the faithful in prayer and works."
-    }
-  ],
-  "translatedAt": "2025-12-24T04:48:00.030Z",
-  "sections": [
-    {
-      "title": "Nehemiah Confronts Oppression of the Poor",
-      "startVerse": 1,
-      "endVerse": 13
-    },
-    {
-      "title": "Nehemiah's Example of Generosity",
-      "startVerse": 14,
-      "endVerse": 19
     }
   ]
 }

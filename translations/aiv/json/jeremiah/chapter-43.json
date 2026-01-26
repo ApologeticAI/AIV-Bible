@@ -1,16 +1,13 @@
 {
-  "book": 30,
+  "translation": "AIV",
+  "bookId": "jeremiah",
   "bookName": "Jeremiah",
   "bookAbbreviation": "Jer",
+  "bookNumber": 30,
   "chapter": 43,
   "verses": [
     {
       "pk": 30043001,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 43,
       "verse": 1,
       "text": "When Jeremiah finished speaking to all the people every word of the LORD their God—everything the LORD their God had sent him to say to them—",
       "links": "<a href='/AIV/24/42/9'>Jer. 42:9</a>; <a href='/AIV/24/1/7'>Jer. 1:7</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 30043002,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 43,
       "verse": 2,
       "text": "Azariah son of Hoshaiah, Johanan son of Kareah, and all the arrogant men said to Jeremiah, 'You are speaking a lie! The LORD our God did not send you to say, “Do not go to Egypt to reside there as aliens.”'",
       "links": "<a href='/AIV/24/42/1'>Jer. 42:1</a>; <a href='/AIV/24/42/19'>Jer. 42:19</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 30043003,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 43,
       "verse": 3,
       "text": "'But Baruch son of Neriah is inciting you against us, to deliver us into the hand of the Chaldeans, so they might kill us or exile us to Babylon.'",
       "links": "<a href='/AIV/24/36/4'>Jer. 36:4</a>; <a href='/AIV/24/27/8'>Jer. 27:8</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 30043004,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 43,
       "verse": 4,
       "text": "So Johanan son of Kareah and all the commanders of the armies and all the people did not obey the voice of the LORD to remain in the land of Judah.",
       "links": "<a href='/AIV/24/42/13'>Jer. 42:13</a>; <a href='/AIV/24/40/15'>Jer. 40:15</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 30043005,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 43,
       "verse": 5,
       "text": "Instead, Johanan son of Kareah and all the commanders of the armies took all the remnant of Judah who had returned to live in the land of Judah after being scattered among the nations—",
       "links": "<a href='/AIV/24/40/11-12'>Jer. 40:11-12</a>; <a href='/AIV/24/42/15'>Jer. 42:15</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 30043006,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 43,
       "verse": 6,
       "text": "the men, the women, the children, the king’s daughters, and everyone whom Nebuzaradan the captain of the guard had left with Gedaliah son of Ahikam, son of Shaphan; also Jeremiah the prophet and Baruch son of Neriah.",
       "links": "<a href='/AIV/24/39/10'>Jer. 39:10</a>; <a href='/AIV/24/40/7'>Jer. 40:7</a>; <a href='/AIV/24/41/10'>Jer. 41:10</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 30043007,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 43,
       "verse": 7,
       "text": "They came into the land of Egypt, for they did not obey the voice of the LORD. They arrived at Tahpanhes.",
       "links": "<a href='/AIV/24/2/16'>Jer. 2:16</a>; <a href='/AIV/24/44/1'>Jer. 44:1</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 30043008,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 43,
       "verse": 8,
       "text": "Then the word of the LORD came to Jeremiah at Tahpanhes, saying,",
       "links": "<a href='/AIV/24/1/2'>Jer. 1:2</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 30043009,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 43,
       "verse": 9,
       "text": "'Take some large stones in your hand and hide them in the mortar in the brick pavement at the entrance of Pharaoh’s house in Tahpanhes, in the sight of the men of Judah,'",
       "links": "<a href='/AIV/24/19/10-13'>Jer. 19:10-13</a>; <a href='/AIV/2/1/11-12'>Exod. 1:11-12</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 30043010,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 43,
       "verse": 10,
       "text": "and say to them, 'Thus says the LORD of hosts, the God of Israel: See, I am sending and will bring Nebuchadnezzar king of Babylon, my servant, and he will set his throne above these stones that I have hidden, and he will spread his royal pavilion over them.'",
       "links": "<a href='/AIV/24/27/6'>Jer. 27:6</a>; <a href='/AIV/24/25/9'>Jer. 25:9</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 30043011,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 43,
       "verse": 11,
       "text": "He will come and strike the land of Egypt—those destined for death, to death; those for captivity, to captivity; and those for the sword, to the sword.",
       "links": "<a href='/AIV/24/15/2'>Jer. 15:2</a>; <a href='/AIV/24/44/13'>Jer. 44:13</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 30043012,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 43,
       "verse": 12,
       "text": "'He will set fire to the temples of the gods of Egypt, and he will burn them and carry them away captive. He will clean the land of Egypt as a shepherd cleans his cloak of vermin, and he shall depart from there safely.'",
       "links": "<a href='/AIV/24/46/25'>Jer. 46:25</a>; <a href='/AIV/49/20/7'>Ezek. 30:13</a>",
@@ -153,33 +95,10 @@
     },
     {
       "pk": 30043013,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 43,
       "verse": 13,
       "text": "'He will shatter the obelisks of Heliopolis in the land of Egypt, and burn the temples of the gods of Egypt with fire.'",
       "links": "<a href='/AIV/24/46/13'>Jer. 46:13</a>; <a href='/AIV/2/12/12'>Exod. 12:12</a>",
       "comment": "Smashing the obelisks at Heliopolis (Beth Shemesh) symbolizes the defeat of false worship. The recurring biblical theme is that true worship of God alone is central; earthly signs and sacred objects point toward heavenly realities fulfilled in Christ."
-    }
-  ],
-  "translatedAt": "2025-12-24T08:45:11.312Z",
-  "sections": [
-    {
-      "title": "Jeremiah Opposed by the Remnant",
-      "startVerse": 1,
-      "endVerse": 3
-    },
-    {
-      "title": "Flight to Egypt",
-      "startVerse": 4,
-      "endVerse": 7
-    },
-    {
-      "title": "Jeremiah Prophesies Babylonian Invasion of Egypt",
-      "startVerse": 8,
-      "endVerse": 13
     }
   ]
 }

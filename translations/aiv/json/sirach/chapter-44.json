@@ -1,16 +1,13 @@
 {
-  "book": 28,
+  "translation": "AIV",
+  "bookId": "sirach",
   "bookName": "Sirach",
   "bookAbbreviation": "Sir",
+  "bookNumber": 28,
   "chapter": 44,
   "verses": [
     {
       "pk": 28044001,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 44,
       "verse": 1,
       "text": "Let us now praise outstanding men, our ancestors in their generations.",
       "links": "<a href='/AIV/19/78/2-8'>Ps. 78:2-8</a>; <a href='/AIV/58/11/32'>Heb. 11:32</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 28044002,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 44,
       "verse": 2,
       "text": "The Lord created great glory through them, His majesty from the beginning.",
       "links": "<a href='/AIV/19/8/5'>Ps. 8:5</a>; <a href='/AIV/23/43/7'>Isa. 43:7</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 28044003,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 44,
       "verse": 3,
       "text": "They ruled in their kingdoms and were renowned for their power, giving counsel according to their wisdom.",
       "links": "<a href='/AIV/11/4/29-34'>1 Kgs. 4:29-34</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 28044004,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 44,
       "verse": 4,
       "text": "They guided the people by their knowledge and wise words; they taught with understanding.",
       "links": "<a href='/AIV/20/1/2-7'>Prov. 1:2-7</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 28044005,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 44,
       "verse": 5,
       "text": "Composers of musical verses, writers of poetry, and skilled in art.",
       "links": "<a href='/AIV/19/150/2'>Ps. 150:2</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 28044006,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 44,
       "verse": 6,
       "text": "Rich men furnished with resources, living in peace in their dwellings.",
       "links": "<a href='/AIV/20/10/22'>Prov. 10:22</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 28044007,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 44,
       "verse": 7,
       "text": "All these were honored in their time and were a glory in their generations.",
       "links": "<a href='/AIV/19/149/1'>Ps. 149:1</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 28044008,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 44,
       "verse": 8,
       "text": "Some of them left a name behind, so that people declare their praises.",
       "links": "<a href='/AIV/19/112/6'>Ps. 112:6</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 28044009,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 44,
       "verse": 9,
       "text": "But there are others of whom no memory remains; they perished as though they had never been, and their children the same.",
       "links": "<a href='/AIV/20/10/7'>Prov. 10:7</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 28044010,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 44,
       "verse": 10,
       "text": "But these also were godly men, whose righteous deeds have not been forgotten;",
       "links": "<a href='/AIV/19/112/9'>Ps. 112:9</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 28044011,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 44,
       "verse": 11,
       "text": "Their wealth remains with their descendants, and their inheritance with their children's children.",
       "links": "<a href='/AIV/1/17/7'>Gen. 17:7</a>; <a href='/AIV/23/112/2'>Ps. 112:2</a>; <a href='/AIV/24/13/22'>Prov. 13:22</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 28044012,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 44,
       "verse": 12,
       "text": "Their descendants stand by the covenants; their children also, for their sake.",
       "links": "<a href='/AIV/1/17/9'>Gen. 17:9</a>; <a href='/AIV/5/7/9'>Deut. 7:9</a>; <a href='/AIV/23/103/17'>Ps. 103:17-18</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 28044013,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 44,
       "verse": 13,
       "text": "Their offspring will continue forever, and their glory will never be blotted out.",
       "links": "<a href='/AIV/23/89/29'>Ps. 89:29</a>; <a href='/AIV/23/102/28'>Ps. 102:28</a>; <a href='/AIV/29/59/21'>Isa. 59:21</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 28044014,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 44,
       "verse": 14,
       "text": "Their bodies are buried in peace, but their name lives on generation after generation.",
       "links": "<a href='/AIV/23/112/6'>Ps. 112:6</a>; <a href='/AIV/57/4/7'>Phil. 4:7</a>; <a href='/AIV/47/26/13'>Matt. 26:13</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 28044015,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 44,
       "verse": 15,
       "text": "The assembly declares their wisdom, and the congregation proclaims their praise.",
       "links": "<a href='/AIV/23/78/4'>Ps. 78:4</a>; <a href='/AIV/24/31/31'>Prov. 31:31</a>; <a href='/AIV/28/39/10'>Sir. 39:10</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 28044016,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 44,
       "verse": 16,
       "text": "Enoch pleased the Lord and was taken up, an example of repentance to all generations.",
       "links": "<a href='/AIV/1/5/24'>Gen. 5:24</a>; <a href='/AIV/65/11/5'>Heb. 11:5</a>; <a href='/AIV/27/4/10'>Wis. 4:10</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 28044017,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 44,
       "verse": 17,
       "text": "Noah was found perfect and righteous; in the time of wrath he kept the race alive; therefore a remnant was left on the earth when the flood came.",
       "links": "<a href='/AIV/1/6/9'>Gen. 6:9</a>; <a href='/AIV/1/7/23'>Gen. 7:23</a>; <a href='/AIV/68/2/5'>2Pet. 2:5</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 28044018,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 44,
       "verse": 18,
       "text": "Everlasting covenants were made with him that all flesh should never again be blotted out by a flood.",
       "links": "<a href='/AIV/1/9/8'>Gen. 9:8-11</a>; <a href='/AIV/29/54/9'>Isa. 54:9</a>; <a href='/AIV/27/10/4'>Wis. 10:4</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 28044019,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 44,
       "verse": 19,
       "text": "Abraham was the great father of a multitude of nations, and no one has been found like him in glory.",
       "links": "<a href='/AIV/1/17/4'>Gen. 17:4-5</a>; <a href='/AIV/52/4/17'>Rom. 4:17-18</a>; <a href='/AIV/55/3/7'>Gal. 3:7</a>",
@@ -237,11 +144,6 @@
     },
     {
       "pk": 28044020,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 44,
       "verse": 20,
       "text": "He kept the law of the Most High, and entered into a covenant with him; he certified the covenant in his flesh, and when he was tested he proved faithful.",
       "links": "<a href='/AIV/1/26/5'>Gen. 26:5</a>; <a href='/AIV/1/17/10'>Gen. 17:10</a>; <a href='/AIV/66/2/21'>Jas. 2:21</a>",
@@ -249,11 +151,6 @@
     },
     {
       "pk": 28044021,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 44,
       "verse": 21,
       "text": "Therefore the Lord assured him with an oath that the nations would be blessed through his offspring; that he would make him as numerous as the dust of the earth, and exalt his offspring like the stars, and give them an inheritance from sea to sea and from the Euphrates to the ends of the earth.",
       "links": "<a href='/AIV/1/22/16'>Gen. 22:16-18</a>; <a href='/AIV/1/15/5'>Gen. 15:5</a>; <a href='/AIV/55/3/16'>Gal. 3:16</a>",
@@ -261,11 +158,6 @@
     },
     {
       "pk": 28044022,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 44,
       "verse": 22,
       "text": "To Isaac also he gave the same assurance for the sake of his father Abraham. The blessing of all people and the covenant",
       "links": "<a href='/AIV/1/26/3'>Gen. 26:3-4</a>; <a href='/AIV/1/28/13'>Gen. 28:13-14</a>; <a href='/AIV/23/105/9'>Ps. 105:9</a>",
@@ -274,38 +166,10 @@
     },
     {
       "pk": 28044023,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 44,
       "verse": 23,
       "text": "he made to rest on the head of Jacob; he acknowledged him with his blessings, and gave him his inheritance; he divided his portions, and distributed them among twelve tribes. Moses: From his descendants the Lord brought forth a godly man, who found favor in the sight of all.",
       "links": "<a href='/AIV/1/49/28'>Gen. 49:28</a>; <a href='/AIV/5/33/1'>Deut. 33:1</a>; <a href='/AIV/2/3/10'>Exod. 3:10</a>",
       "comment": "Jacob receives the covenant promises and passes them to the twelve tribes, culminating in the rise of Moses, through whom God fulfills His purposes for Israel."
-    }
-  ],
-  "translatedAt": "2025-12-28T23:45:00.026Z",
-  "sections": [
-    {
-      "title": "Praise of the Ancestors",
-      "startVerse": 1,
-      "endVerse": 9
-    },
-    {
-      "title": "Notable Men of Righteousness",
-      "startVerse": 10,
-      "endVerse": 13
-    },
-    {
-      "title": "Praise of the Patriarchs: Enoch, Noah, Abraham, Isaac, and Jacob",
-      "startVerse": 14,
-      "endVerse": 21
-    },
-    {
-      "title": "The Election of Moses",
-      "startVerse": 22,
-      "endVerse": 23
     }
   ]
 }

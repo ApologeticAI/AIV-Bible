@@ -1,16 +1,13 @@
 {
-  "book": 33,
+  "translation": "AIV",
+  "bookId": "ezekiel",
   "bookName": "Ezekiel",
   "bookAbbreviation": "Ezek",
+  "bookNumber": 33,
   "chapter": 6,
   "verses": [
     {
       "pk": 33006001,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 6,
       "verse": 1,
       "text": "The word of the LORD came to me, saying:",
       "links": "<a href='/AIV/26/1/1'>Ezek. 1:1</a>; <a href='/AIV/24/1/2'>Jer. 1:2</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 33006002,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 6,
       "verse": 2,
       "text": "Son of man, set your face toward the mountains of Israel and prophesy against them.",
       "links": "<a href='/AIV/26/2/1'>Ezek. 2:1</a>; <a href='/AIV/19/121/1'>Ps. 121:1</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 33006003,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 6,
       "verse": 3,
       "text": "Say: 'Mountains of Israel, hear the word of the Lord GOD. This is what the Lord GOD says to the mountains and the hills, to the ravines and the valleys: I am about to bring a sword against you, and I will destroy your high places.'",
       "links": "<a href='/AIV/03/26/30'>Lev. 26:30</a>; <a href='/AIV/26/36/1'>Ezek. 36:1</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 33006004,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 6,
       "verse": 4,
       "text": "Your altars will be laid waste, your incense altars shattered. I will cast down your slain before your idols.",
       "links": "<a href='/AIV/26/6/13'>Ezek. 6:13</a>; <a href='/AIV/12/23/14'>2 Kings 23:14</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 33006005,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 6,
       "verse": 5,
       "text": "I will lay the dead bodies of the people of Israel before their idols, and scatter your bones around your altars.",
       "links": "<a href='/AIV/24/8/2'>Jer. 8:2</a>; <a href='/AIV/26/43/7'>Ezek. 43:7</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 33006006,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 6,
       "verse": 6,
       "text": "In all your dwelling places, the cities will be laid waste, and the high places will be made desolate, so that your altars will be broken and brought to ruin, your idols destroyed and blotted out, your incense altars cut down, and your works wiped out.",
       "links": "<a href='/AIV/03/26/31'>Lev. 26:31</a>; <a href='/AIV/26/12/20'>Ezek. 12:20</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 33006007,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 6,
       "verse": 7,
       "text": "The slain will fall among you, and you shall know that I am the LORD.",
       "links": "<a href='/AIV/26/6/13'>Ezek. 6:13</a>; <a href='/AIV/02/7/5'>Ex. 7:5</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 33006008,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 6,
       "verse": 8,
       "text": "Yet I will leave a remnant, so that some of you may escape the sword among the nations when you are scattered through the countries.",
       "links": "<a href='/AIV/23/10/20-22'>Isa. 10:20-22</a>; <a href='/AIV/45/11/5'>Rom. 11:5</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 33006009,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 6,
       "verse": 9,
       "text": "Then those of you who escape will remember Me among the nations where they are taken captive, how I was grieved by their adulterous hearts, which turned away from Me, and by their eyes, which lusted after their idols. They will loathe themselves for the evil they have committed and for all their abominations.",
       "links": "<a href='/AIV/03/26/40-42'>Lev. 26:40-42</a>; <a href='/AIV/19/51/3-4'>Ps. 51:3-4</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 33006010,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 6,
       "verse": 10,
       "text": "And they shall know that I am the LORD and that I did not threaten in vain to bring this disaster upon them.",
       "links": "<a href='/AIV/04/23/19'>Num. 23:19</a>; <a href='/AIV/26/5/13'>Ezek. 5:13</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 33006011,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 6,
       "verse": 11,
       "text": "This is what the Lord GOD says: Clap your hands and stamp your feet and cry out, 'Alas, because of all the evil abominations of the house of Israel!' For they will fall by sword, famine, and plague.",
       "links": "<a href='/AIV/26/21/14'>Ezek. 21:14</a>; <a href='/AIV/26/5/12'>Ezek. 5:12</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 33006012,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 6,
       "verse": 12,
       "text": "He who is far away will die by the plague; he who is near will fall by the sword; and he who remains and is spared will die by famine. Thus I will spend My wrath upon them.",
       "links": "<a href='/AIV/26/5/16-17'>Ezek. 5:16-17</a>; <a href='/AIV/03/26/33-35'>Lev. 26:33-35</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 33006013,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 6,
       "verse": 13,
       "text": "You will know that I am the LORD when their slain lie among their idols around their altars, on every high hill, on all the mountaintops, under every green tree and every leafy oak—the places where they offered fragrant incense to all their idols.",
       "links": "<a href='/AIV/11/14/23'>1 Kings 14:23</a>; <a href='/AIV/26/20/28'>Ezek. 20:28</a>",
@@ -165,33 +102,10 @@
     },
     {
       "pk": 33006014,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 6,
       "verse": 14,
       "text": "I will stretch out My hand against them and make the land desolate and utterly waste, from the wilderness to Diblah, wherever they live. Then they shall know that I am the LORD.'",
       "links": "<a href='/AIV/26/14/13'>Ezek. 14:13</a>; <a href='/AIV/02/7/5'>Ex. 7:5</a>",
       "comment": "God’s 'outstretched hand' signifies power and judgment (see Ex. 7:5). The total desolation from the wilderness to Diblah indicates complete judgment, aimed at restoring proper acknowledgment of God. The repeated refrain 'they shall know that I am the LORD' moves toward the restoration of true worship, a foretaste of the ultimate unity in faith God desires for His people."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:01:07.936Z",
-  "sections": [
-    {
-      "title": "Prophecy Against the Idolatrous High Places",
-      "startVerse": 1,
-      "endVerse": 7
-    },
-    {
-      "title": "A Remnant Preserved and Repentance in Exile",
-      "startVerse": 8,
-      "endVerse": 10
-    },
-    {
-      "title": "Destruction by Sword, Famine, and Plague",
-      "startVerse": 11,
-      "endVerse": 14
     }
   ]
 }

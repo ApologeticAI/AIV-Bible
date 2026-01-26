@@ -1,16 +1,13 @@
 {
-  "book": 29,
+  "translation": "AIV",
+  "bookId": "isaiah",
   "bookName": "Isaiah",
   "bookAbbreviation": "Isa",
+  "bookNumber": 29,
   "chapter": 23,
   "verses": [
     {
       "pk": 29023001,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 23,
       "verse": 1,
       "text": "A prophecy against Tyre: Wail, O ships of Tarshish! For Tyre is laid waste and without house or harbor. From the land of Cyprus it is revealed to them.",
       "links": "<a href='/AIV/26/27/25'>Ezek. 27:25</a>; <a href='/AIV/23/2/16'>Isa. 2:16</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 29023002,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 23,
       "verse": 2,
       "text": "Be silent, you inhabitants of the coast, you merchants of Sidon, whom the sea filled, whose messengers crossed over the great waters.",
       "links": "<a href='/AIV/26/27/8'>Ezek. 27:8</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 29023003,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 23,
       "verse": 3,
       "text": "On many waters came the grain of the Nile, the harvest of the River was her revenue, and she was the marketplace of nations.",
       "links": "<a href='/AIV/26/27/17'>Ezek. 27:17</a>; <a href='/AIV/66/18/11'>Rev. 18:11</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 29023004,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 23,
       "verse": 4,
       "text": "Be ashamed, O Sidon, for the sea has spoken, the stronghold of the sea, saying, 'I have not labored nor given birth; I have not raised young men nor brought up virgins.'",
       "links": "<a href='/AIV/26/27/32'>Ezek. 27:32</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 29023005,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 23,
       "verse": 5,
       "text": "When the news comes to Egypt, they will be in anguish at the report about Tyre.",
       "links": "<a href='/AIV/26/30/4'>Ezek. 30:4</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 29023006,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 23,
       "verse": 6,
       "text": "Pass over to Tarshish; wail, you inhabitants of the coast!",
       "links": "<a href='/AIV/23/23/1'>Isa. 23:1</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 29023007,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 23,
       "verse": 7,
       "text": "Is this your joyous city, whose origin is from ancient days, whose feet carried her to settle far away?",
       "links": "<a href='/AIV/26/28/2'>Ezek. 28:2</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 29023008,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 23,
       "verse": 8,
       "text": "Who has planned this against Tyre, the bestower of crowns, whose merchants were princes, whose traders were the honored of the earth?",
       "links": "<a href='/AIV/23/14/26-27'>Isa. 14:26-27</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 29023009,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 23,
       "verse": 9,
       "text": "The LORD of armies has planned it, to bring down all pride in magnificence, to humble all the honored of the earth.",
       "links": "<a href='/AIV/23/2/11-17'>Isa. 2:11-17</a>; <a href='/AIV/42/1/52'>Luke 1:52</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 29023010,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 23,
       "verse": 10,
       "text": "Cross your land like the Nile, O daughter of Tarshish; there is no more restraint.",
       "links": "<a href='/AIV/24/47/2'>Jer. 47:2</a>",
@@ -127,11 +79,6 @@
     },
     {
       "pk": 29023011,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 23,
       "verse": 11,
       "text": "He has stretched out his hand over the sea; he has shaken kingdoms. The LORD has commanded concerning Canaan to destroy its strongholds.",
       "links": "<a href='/AIV/26/26/15'>Ezek. 26:15</a>; <a href='/AIV/19/89/9'>Ps. 89:9</a>",
@@ -139,11 +86,6 @@
     },
     {
       "pk": 29023012,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 23,
       "verse": 12,
       "text": "He said: 'You shall no longer rejoice, O oppressed virgin daughter of Sidon. Arise, pass over to Cyprus, but even there you will find no rest.'",
       "links": "<a href='/AIV/23/47/1'>Isa. 47:1</a>",
@@ -151,11 +93,6 @@
     },
     {
       "pk": 29023013,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 23,
       "verse": 13,
       "text": "Look! The land of the Chaldeans—this was not a people; Assyria established it for desert creatures, raised its siege towers, stripped its palaces, and made it a ruin.",
       "links": "<a href='/AIV/13/1/17'>Gen. 11:31</a>; <a href='/AIV/23/13/19'>Isa. 13:19</a>",
@@ -163,11 +100,6 @@
     },
     {
       "pk": 29023014,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 23,
       "verse": 14,
       "text": "Wail, O ships of Tarshish! For your stronghold is laid waste.",
       "links": "<a href='/AIV/23/23/1'>Isa. 23:1</a>",
@@ -175,11 +107,6 @@
     },
     {
       "pk": 29023015,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 23,
       "verse": 15,
       "text": "In that day Tyre will be forgotten for seventy years, like the days of one king. After seventy years, it will happen to Tyre as in the song of the prostitute:",
       "links": "<a href='/AIV/24/25/11-12'>Jer. 25:11-12</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 29023016,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 23,
       "verse": 16,
       "text": "'Take a harp, go about the city, forgotten prostitute; play skillfully, sing many songs, so that you may be remembered.'",
       "links": "<a href='/AIV/25/1/2'>Lam. 1:2</a>",
@@ -200,11 +122,6 @@
     },
     {
       "pk": 29023017,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 23,
       "verse": 17,
       "text": "After seventy years, the LORD will visit Tyre, and she will return to her wages and play the prostitute with all the kingdoms of the world on the face of the earth.",
       "links": "<a href='/AIV/66/18/3'>Rev. 18:3</a>; <a href='/AIV/26/16/28-29'>Ezek. 16:28-29</a>",
@@ -212,28 +129,10 @@
     },
     {
       "pk": 29023018,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 23,
       "verse": 18,
       "text": "Yet her gain and her wages will be set apart for the LORD. It will not be stored or hoarded, but her merchandise will belong to those who dwell before the LORD, to eat their fill and wear fine clothing.",
       "links": "<a href='/AIV/23/61/6'>Isa. 61:6</a>; <a href='/AIV/19/68/18'>Ps. 68:18</a>; <a href='/AIV/45/15/16'>Rom. 15:16</a>",
       "comment": "The final verse points to divine providence: even former sins can be transformed for holiness and service to God’s people. All good things are meant to be consecrated to the Lord, a foreshadowing of how Christ redeems and integrates all things into the worship and life of the Church (cf. Rom. 15:16)."
-    }
-  ],
-  "translatedAt": "2025-12-24T08:01:05.036Z",
-  "sections": [
-    {
-      "title": "Oracle Against Tyre",
-      "startVerse": 1,
-      "endVerse": 14
-    },
-    {
-      "title": "The Humbling and Restoration of Tyre",
-      "startVerse": 15,
-      "endVerse": 18
     }
   ]
 }

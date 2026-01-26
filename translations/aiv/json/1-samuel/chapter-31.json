@@ -1,16 +1,13 @@
 {
-  "book": 9,
+  "translation": "AIV",
+  "bookId": "1-samuel",
   "bookName": "1 Samuel",
-  "bookAbbreviation": "1Sam",
+  "bookAbbreviation": "1 Sam",
+  "bookNumber": 9,
   "chapter": 31,
   "verses": [
     {
       "pk": 9031001,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 31,
       "verse": 1,
       "text": "The Philistines fought against Israel, and the men of Israel fled from before the Philistines and fell slain on Mount Gilboa.",
       "links": "<a href='/AIV/13/10/1'>1 Chr. 10:1</a>; <a href='/AIV/9/28/4'>1 Sam. 28:4</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 9031002,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 31,
       "verse": 2,
       "text": "The Philistines pursued Saul and his sons, and they killed Jonathan, Abinadab, and Malchishua, Saul's sons.",
       "links": "<a href='/AIV/13/10/2'>1 Chr. 10:2</a>; <a href='/AIV/9/14/49'>1 Sam. 14:49</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 9031003,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 31,
       "verse": 3,
       "text": "The battle grew fierce against Saul. The archers overtook him, and he was badly wounded by the archers.",
       "links": "<a href='/AIV/13/10/3'>1 Chr. 10:3</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 9031004,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 31,
       "verse": 4,
       "text": "Then Saul said to his armor-bearer, 'Draw your sword and run me through with it, so that these uncircumcised may not come and abuse me.' But his armor-bearer was afraid and refused, so Saul took his own sword and fell on it.",
       "links": "<a href='/AIV/13/10/4'>1 Chr. 10:4</a>; <a href='/AIV/7/9/54'>Judg. 9:54</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 9031005,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 31,
       "verse": 5,
       "text": "When his armor-bearer saw that Saul was dead, he also fell on his sword and died with him.",
       "links": "<a href='/AIV/13/10/5'>1 Chr. 10:5</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 9031006,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 31,
       "verse": 6,
       "text": "So Saul died, and his three sons, and all his men died together on that same day.",
       "links": "<a href='/AIV/13/10/6'>1 Chr. 10:6</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 9031007,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 31,
       "verse": 7,
       "text": "Now when the men of Israel who were on the other side of the valley and those beyond the Jordan saw that Israel had fled and that Saul and his sons were dead, they abandoned their cities and fled; and the Philistines came and lived in them.",
       "links": "<a href='/AIV/9/28/4'>1 Sam. 28:4</a>; <a href='/AIV/13/10/7'>1 Chr. 10:7</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 9031008,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 31,
       "verse": 8,
       "text": "The next day, when the Philistines came to strip the dead, they found Saul and his sons fallen on Mount Gilboa.",
       "links": "<a href='/AIV/9/28/4'>1 Sam. 28:4</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 9031009,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 31,
       "verse": 9,
       "text": "They cut off his head and stripped off his armor, and sent word throughout the land of the Philistines to proclaim the news in the temple of their idols and among their people.",
       "links": "<a href='/AIV/9/17/51'>1 Sam. 17:51</a>; <a href='/AIV/13/10/9'>1 Chr. 10:9</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 9031010,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 31,
       "verse": 10,
       "text": "They put his armor in the temple of Ashtaroth, and fastened his body to the wall of Beth-shan.",
       "links": "<a href='/AIV/9/21/9'>1 Sam. 21:9</a>; <a href='/AIV/9/9/15'>1 Sam. 9:15</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 9031011,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 31,
       "verse": 11,
       "text": "When the people of Jabesh-gilead heard what the Philistines had done to Saul,",
       "links": "<a href='/AIV/9/11/1'>1 Sam. 11:1</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 9031012,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 31,
       "verse": 12,
       "text": "all their brave men arose and traveled all night. They took the body of Saul and the bodies of his sons from the wall of Beth-shan, and they went to Jabesh and burned them there.",
       "links": "<a href='/AIV/13/10/12'>1 Chr. 10:12</a>",
@@ -153,33 +95,10 @@
     },
     {
       "pk": 9031013,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 31,
       "verse": 13,
       "text": "They took their bones and buried them under the tamarisk tree at Jabesh, and fasted seven days.",
       "links": "<a href='/AIV/9/22/6'>1 Sam. 22:6</a>; <a href='/AIV/15/9/3-4'>Ezra 9:3-4</a>",
       "comment": "The burial and seven-day fast close the chapter with ritual and mourning. The use of tree and fasting underscores the prefigurement of penitential practices, communal intercession for the dead, and the importance of sacred tradition (<a href='/AIV/19/35/13'>Ps. 35:13</a>), themes central to the fullness of the faith."
-    }
-  ],
-  "translatedAt": "2025-12-24T03:08:27.965Z",
-  "sections": [
-    {
-      "title": "The Death of Saul and His Sons",
-      "startVerse": 1,
-      "endVerse": 7
-    },
-    {
-      "title": "The Philistines Mock Saul",
-      "startVerse": 8,
-      "endVerse": 10
-    },
-    {
-      "title": "The Burial by the Men of Jabesh-gilead",
-      "startVerse": 11,
-      "endVerse": 13
     }
   ]
 }

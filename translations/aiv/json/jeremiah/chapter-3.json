@@ -1,16 +1,13 @@
 {
-  "book": 30,
+  "translation": "AIV",
+  "bookId": "jeremiah",
   "bookName": "Jeremiah",
   "bookAbbreviation": "Jer",
+  "bookNumber": 30,
   "chapter": 3,
   "verses": [
     {
       "pk": 30003001,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 3,
       "verse": 1,
       "text": "\"If a man divorces his wife and she leaves him to become another man's wife, should he return to her again? Would not that land be greatly defiled? But you have acted as a prostitute with many lovers—would you now return to Me?\" declares the LORD.",
       "links": "<a href='/AIV/05/24/1-4'>Deut. 24:1-4</a>; <a href='/AIV/28/2/2'>Hos. 2:2</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 30003002,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 3,
       "verse": 2,
       "text": "Lift up your eyes to the barren heights and see: where have you not been violated? By the roadsides you sat waiting for lovers, like a nomad in the wilderness. You have polluted the land with your whoring and your wickedness.",
       "links": "<a href='/AIV/28/4/13'>Hos. 4:13</a>; <a href='/AIV/23/57/5-7'>Isa. 57:5-7</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 30003003,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 3,
       "verse": 3,
       "text": "Therefore the showers have been withheld, and there has been no spring rain. Yet you have the forehead of a prostitute; you refuse to feel shame.",
       "links": "<a href='/AIV/05/11/17'>Deut. 11:17</a>; <a href='/AIV/28/2/3'>Hos. 2:3</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 30003004,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 3,
       "verse": 4,
       "text": "Have you not just now called to Me, 'My Father, You are the friend of my youth'?",
       "links": "<a href='/AIV/19/89/26'>Ps. 89:26</a>; <a href='/AIV/23/63/16'>Isa. 63:16</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 30003005,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 3,
       "verse": 5,
       "text": "Will He keep His anger forever, will He hold it to the end? This is what you say, but you continually do all the evil you can.",
       "links": "<a href='/AIV/19/103/9'>Ps. 103:9</a>; <a href='/AIV/19/78/38'>Ps. 78:38</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 30003006,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 3,
       "verse": 6,
       "text": "The LORD said to me in the days of King Josiah, \"Have you seen what faithless Israel has done? She has gone up on every high hill and under every green tree and played the prostitute there.\"",
       "links": "<a href='/AIV/11/14/23'>1 Kings 14:23</a>; <a href='/AIV/04/25/1-2'>Num. 25:1-2</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 30003007,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 3,
       "verse": 7,
       "text": "\"I thought, 'After she has done all this, she will return to Me.' But she did not return, and her treacherous sister Judah saw it.\"",
       "links": "<a href='/AIV/26/23/4'>Ezek. 23:4</a>; <a href='/AIV/28/11/7-8'>Hos. 11:7-8</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 30003008,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 3,
       "verse": 8,
       "text": "She saw that I had sent faithless Israel away with a decree of divorce because of all her adulteries. Yet her treacherous sister Judah was not afraid; she also played the prostitute.",
       "links": "<a href='/AIV/02/34/16'>Ex. 34:16</a>; <a href='/AIV/26/23/11'>Ezek. 23:11</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 30003009,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 3,
       "verse": 9,
       "text": "Because she considered her prostitution a trivial thing, she defiled the land and committed adultery with stone and wood.",
       "links": "<a href='/AIV/19/106/38'>Ps. 106:38</a>; <a href='/AIV/23/44/19'>Isa. 44:19</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 30003010,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 3,
       "verse": 10,
       "text": "Yet in all this her treacherous sister Judah did not return to Me with her whole heart, but only in pretense,\" declares the LORD.",
       "links": "<a href='/AIV/05/6/5'>Deut. 6:5</a>; <a href='/AIV/23/29/13'>Isa. 29:13</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 30003011,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 3,
       "verse": 11,
       "text": "And the LORD said to me, \"Faithless Israel has shown herself more righteous than treacherous Judah.\"",
       "links": "<a href='/AIV/28/6/4'>Hos. 6:4</a>; <a href='/AIV/26/16/51'>Ezek. 16:51</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 30003012,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 3,
       "verse": 12,
       "text": "\"Go and proclaim these words toward the north: 'Return, faithless Israel,' declares the LORD. 'I will not look on you in anger, for I am merciful,' declares the LORD. 'I will not be angry forever.'",
       "links": "<a href='/AIV/19/103/8-9'>Ps. 103:8-9</a>; <a href='/AIV/33/7/18'>Mic. 7:18</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 30003013,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 3,
       "verse": 13,
       "text": "\"Only acknowledge your guilt, that you have rebelled against the LORD your God, scattered your favors to strangers under every green tree, and have not obeyed My voice,\" declares the LORD.",
       "links": "<a href='/AIV/19/32/5'>Ps. 32:5</a>; <a href='/AIV/62/1/9'>1 John 1:9</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 30003014,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 3,
       "verse": 14,
       "text": "\"Return, faithless children,\" declares the LORD, \"for I am your Master; I will take you, one from a city and two from a family, and bring you to Zion.\"",
       "links": "<a href='/AIV/23/2/3'>Isa. 2:3</a>; <a href='/AIV/19/132/13'>Ps. 132:13</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 30003015,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 3,
       "verse": 15,
       "text": "\"And I will give you shepherds after My own heart, who will feed you with knowledge and understanding.\"",
       "links": "<a href='/AIV/26/34/23'>Ezek. 34:23</a>; <a href='/AIV/43/21/15-17'>John 21:15-17</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 30003016,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 3,
       "verse": 16,
       "text": "\"And when you have multiplied and increased in the land,\" declares the LORD, \"in those days, they shall no longer say, 'The ark of the covenant of the LORD.' It shall not come to mind or be remembered or missed. It shall not be made again.\"",
       "links": "<a href='/AIV/60/1/12'>1 Pet. 1:12</a>; <a href='/AIV/23/65/17'>Isa. 65:17</a>",
@@ -202,11 +124,6 @@
     },
     {
       "pk": 30003017,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 3,
       "verse": 17,
       "text": "\"At that time Jerusalem shall be called the Throne of the LORD, and all nations shall be gathered to it, to the name of the LORD in Jerusalem; they shall no longer walk after the stubbornness of their evil hearts.\"",
       "links": "<a href='/AIV/23/2/2'>Isa. 2:2</a>; <a href='/AIV/66/21/24'>Rev. 21:24</a>",
@@ -214,11 +131,6 @@
     },
     {
       "pk": 30003018,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 3,
       "verse": 18,
       "text": "\"In those days the house of Judah shall walk with the house of Israel, and they shall come together from the northern land to the land that I gave to your fathers as an inheritance.\"",
       "links": "<a href='/AIV/26/37/21-22'>Ezek. 37:21-22</a>; <a href='/AIV/01/15/18'>Gen. 15:18</a>",
@@ -226,11 +138,6 @@
     },
     {
       "pk": 30003019,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 3,
       "verse": 19,
       "text": "\"I said, 'How I would set you among My children and give you a pleasant land, the most beautiful heritage of all nations.' I thought you would call Me 'My Father' and not turn away from following Me.\"",
       "links": "<a href='/AIV/19/16/6'>Ps. 16:6</a>; <a href='/AIV/23/64/8'>Isa. 64:8</a>",
@@ -238,11 +145,6 @@
     },
     {
       "pk": 30003020,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 3,
       "verse": 20,
       "text": "\"Surely, as a wife treacherously leaves her husband, so you have been treacherous to Me, O house of Israel,\" declares the LORD.",
       "links": "<a href='/AIV/28/1/2'>Hos. 1:2</a>; <a href='/AIV/19/78/57'>Ps. 78:57</a>",
@@ -250,11 +152,6 @@
     },
     {
       "pk": 30003021,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 3,
       "verse": 21,
       "text": "A voice is heard on the barren heights, the weeping and pleading of Israel’s children because they have perverted their way and forgotten the LORD their God.",
       "links": "<a href='/AIV/19/137/1'>Ps. 137:1</a>; <a href='/AIV/24/4/1'>Jer. 4:1</a>",
@@ -263,11 +160,6 @@
     },
     {
       "pk": 30003022,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 3,
       "verse": 22,
       "text": "\"Return, faithless children, and I will heal your faithlessness.\" \"Behold, we come to You, for You are the LORD our God.\"",
       "links": "<a href='/AIV/28/14/4'>Hos. 14:4</a>; <a href='/AIV/19/147/3'>Ps. 147:3</a>",
@@ -275,11 +167,6 @@
     },
     {
       "pk": 30003023,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 3,
       "verse": 23,
       "text": "Truly, the hills are a deception, the commotion on the mountains. Surely, in the LORD our God is the salvation of Israel.",
       "links": "<a href='/AIV/19/121/1-2'>Ps. 121:1-2</a>; <a href='/AIV/19/62/2'>Ps. 62:2</a>",
@@ -287,11 +174,6 @@
     },
     {
       "pk": 30003024,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 3,
       "verse": 24,
       "text": "But the shameful thing has devoured the labor of our fathers from our youth—their flocks and their herds, their sons and their daughters.",
       "links": "<a href='/AIV/19/106/36'>Ps. 106:36</a>; <a href='/AIV/26/20/26'>Ezek. 20:26</a>",
@@ -299,43 +181,10 @@
     },
     {
       "pk": 30003025,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 3,
       "verse": 25,
       "text": "Let us lie down in our shame and let our dishonor cover us, for we have sinned against the LORD our God, we and our fathers, from our youth even to this day; and we have not obeyed the voice of the LORD our God.\"",
       "links": "<a href='/AIV/19/51/3'>Ps. 51:3</a>; <a href='/AIV/27/9/5-6'>Dan. 9:5-6</a>",
       "comment": "Humiliating confession is necessary for true restoration. A communal acknowledgment of sin points to the value of corporate repentance, penance, and returning to the Lord—central themes throughout both Testaments."
-    }
-  ],
-  "translatedAt": "2025-12-24T08:22:50.928Z",
-  "sections": [
-    {
-      "title": "Israel's Unfaithfulness Compared to Adultery",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "Faithless Israel and Treacherous Judah",
-      "startVerse": 6,
-      "endVerse": 11
-    },
-    {
-      "title": "Call to Repentance and Promise of Restoration",
-      "startVerse": 12,
-      "endVerse": 15
-    },
-    {
-      "title": "The Future Reunion of Israel and Judah",
-      "startVerse": 16,
-      "endVerse": 20
-    },
-    {
-      "title": "Confession and Plea for Mercy",
-      "startVerse": 21,
-      "endVerse": 25
     }
   ]
 }

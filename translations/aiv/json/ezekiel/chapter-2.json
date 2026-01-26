@@ -1,16 +1,13 @@
 {
-  "book": 33,
+  "translation": "AIV",
+  "bookId": "ezekiel",
   "bookName": "Ezekiel",
   "bookAbbreviation": "Ezek",
+  "bookNumber": 33,
   "chapter": 2,
   "verses": [
     {
       "pk": 33002001,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 2,
       "verse": 1,
       "text": "He said to me, “Son of man, stand on your feet, and I will speak to you.”",
       "links": "<a href='/AIV/27/8/17'>Dan. 8:17</a>; <a href='/AIV/44/26/16'>Acts 26:16</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 33002002,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 2,
       "verse": 2,
       "text": "As He spoke to me, the Spirit entered into me and made me stand on my feet, and I heard Him speaking to me.",
       "links": "<a href='/AIV/26/37/1'>Ezek. 37:1</a>; <a href='/AIV/44/2/2'>Acts 2:2-4</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 33002003,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 2,
       "verse": 3,
       "text": "He said to me, 'Son of man, I am sending you to the people of Israel, to a rebellious nation that has rebelled against Me. They and their fathers have sinned against Me to this very day.'",
       "links": "<a href='/AIV/05/9/7'>Deut. 9:7</a>; <a href='/AIV/23/1/2'>Isa. 1:2</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 33002004,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 2,
       "verse": 4,
       "text": "The descendants are impudent and stubborn. I am sending you to them, and you shall say to them, 'This is what the Lord GOD says.'",
       "links": "<a href='/AIV/24/5/23'>Jer. 5:23</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 33002005,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 2,
       "verse": 5,
       "text": "Whether they listen or refuse to listen—for they are a rebellious house—they will know that a prophet has been among them.",
       "links": "<a href='/AIV/40/10/14'>Matt. 10:14</a>; <a href='/AIV/40/23/37'>Matt. 23:37</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 33002006,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 2,
       "verse": 6,
       "text": "And you, son of man, do not be afraid of them or of their words, though briers and thorns are with you and you live among scorpions. Do not be afraid of their words or be dismayed by their looks, for they are a rebellious house.",
       "links": "<a href='/AIV/24/1/8'>Jer. 1:8</a>; <a href='/AIV/42/10/19'>Luke 10:19</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 33002007,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 2,
       "verse": 7,
       "text": "You shall speak My words to them, whether they listen or refuse to listen, for they are rebellious.",
       "links": "<a href='/AIV/23/6/9'>Isa. 6:9-10</a>; <a href='/AIV/40/13/14'>Matt. 13:14</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 33002008,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 2,
       "verse": 8,
       "text": "But you, son of man, listen to what I say to you. Do not be rebellious like that rebellious house; open your mouth and eat what I give you.”",
       "links": "<a href='/AIV/24/15/16'>Jer. 15:16</a>; <a href='/AIV/66/10/9'>Rev. 10:9</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 33002009,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 2,
       "verse": 9,
       "text": "Then I looked, and I saw a hand stretched out toward me, and in it was a scroll.",
       "links": "<a href='/AIV/26/3/1'>Ezek. 3:1</a>; <a href='/AIV/66/5/1'>Rev. 5:1</a>",
@@ -116,28 +73,10 @@
     },
     {
       "pk": 33002010,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 2,
       "verse": 10,
       "text": "He unrolled it in front of me. On both sides of it were written words of lamentation, mourning, and woe.",
       "links": "<a href='/AIV/23/29/11'>Isa. 29:11-12</a>; <a href='/AIV/26/32/18'>Ezek. 32:18-32</a>",
       "comment": "The scroll written on both sides signifies a full and complete message—one of warning and sorrow, indicating God's justice. This underscores that divine revelation addresses not only encouragement but honest confrontation with sin. Spiritual interpretation sees this as the dual aspect of God's Word: mercy and judgment, always together in His revelation."
-    }
-  ],
-  "translatedAt": "2025-12-24T08:59:10.346Z",
-  "sections": [
-    {
-      "title": "The Call and Commissioning of Ezekiel",
-      "startVerse": 1,
-      "endVerse": 8
-    },
-    {
-      "title": "The Vision of the Scroll",
-      "startVerse": 9,
-      "endVerse": 10
     }
   ]
 }

@@ -1,16 +1,13 @@
 {
-  "book": 29,
+  "translation": "AIV",
+  "bookId": "isaiah",
   "bookName": "Isaiah",
   "bookAbbreviation": "Isa",
+  "bookNumber": 29,
   "chapter": 49,
   "verses": [
     {
       "pk": 29049001,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 49,
       "verse": 1,
       "text": "Listen to me, O islands, pay attention, you distant peoples! The LORD called me from the womb; from my mother’s belly he spoke my name.",
       "links": "<a href='/AIV/24/1/5'>Jer. 1:5</a>; <a href='/AIV/42/1/31'>Luke 1:31</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 29049002,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 49,
       "verse": 2,
       "text": "He made my mouth like a sharp sword; he hid me in the shadow of his hand. He made me a polished arrow; in his quiver he concealed me.",
       "links": "<a href='/AIV/58/4/12'>Heb. 4:12</a>; <a href='/AIV/66/1/16'>Rev. 1:16</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 29049003,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 49,
       "verse": 3,
       "text": "He said to me, 'You are my servant, Israel, in whom I will be glorified.'",
       "links": "<a href='/AIV/43/13/31-32'>John 13:31-32</a>; <a href='/AIV/40/3/17'>Matt. 3:17</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 29049004,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 49,
       "verse": 4,
       "text": "But I said, 'I have labored in vain; I have spent my strength for nothing and vanity. Yet surely my right is with the LORD, and my reward with my God.'",
       "links": "<a href='/AIV/40/26/39-42'>Matt. 26:39-42</a>; <a href='/AIV/19/22/1'>Ps. 22:1</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 29049005,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 49,
       "verse": 5,
       "text": "And now the LORD says—he who formed me from the womb to be his servant, to bring Jacob back to him, that Israel might be gathered to him— for I am honored in the eyes of the LORD, and my God has become my strength—",
       "links": "<a href='/AIV/42/1/15-16'>Luke 1:15-16</a>; <a href='/AIV/40/15/24'>Matt. 15:24</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 29049006,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 49,
       "verse": 6,
       "text": "he says: 'It is too small a thing that you should be my servant to raise up the tribes of Jacob and to bring back those of Israel who are preserved; I will also make you a light to the nations, that my salvation may reach to the ends of the earth.'",
       "links": "<a href='/AIV/44/13/47'>Acts 13:47</a>; <a href='/AIV/42/2/32'>Luke 2:32</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 29049007,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 49,
       "verse": 7,
       "text": "Thus says the LORD, the Redeemer of Israel, his Holy One, to one deeply despised, abhorred by the nation, the servant of rulers: 'Kings will see and rise, princes, and they will bow down, because of the LORD, who is faithful, the Holy One of Israel, who has chosen you.'",
       "links": "<a href='/AIV/50/53/3'>Isa. 53:3</a>; <a href='/AIV/50/52/15'>Isa. 52:15</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 29049008,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 49,
       "verse": 8,
       "text": "Thus says the LORD: 'In a time of favor I have answered you, and in a day of salvation I have helped you; I will keep you and make you to be a covenant for the people, to restore the land, to assign deserted inheritances,'",
       "links": "<a href='/AIV/47/6/2'>2 Cor. 6:2</a>; <a href='/AIV/50/42/6'>Isa. 42:6</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 29049009,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 49,
       "verse": 9,
       "text": "'to say to the prisoners, “Come out,” to those in darkness, “Show yourselves.” They will feed along the roads, and on all the bare heights shall be their pastures.'",
       "links": "<a href='/AIV/40/4/16'>Matt. 4:16</a>; <a href='/AIV/50/42/7'>Isa. 42:7</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 29049010,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 49,
       "verse": 10,
       "text": "'They will not hunger or thirst, nor will scorching wind or sun beat upon them; he who has compassion on them will guide them, and lead them beside springs of water.'",
       "links": "<a href='/AIV/19/23/2'>Ps. 23:2</a>; <a href='/AIV/66/7/16-17'>Rev. 7:16-17</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 29049011,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 49,
       "verse": 11,
       "text": "'I will make all my mountains into a road, and my highways shall be raised up.'",
       "links": "<a href='/AIV/40/3/3'>Matt. 3:3</a>; <a href='/AIV/23/40/3'>Isa. 40:3</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 29049012,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 49,
       "verse": 12,
       "text": "'Behold, these shall come from afar! Look! These from the north and from the west, and these from the land of Syene.'",
       "links": "<a href='/AIV/50/60/4'>Isa. 60:4</a>; <a href='/AIV/38/8/7'>Zech. 8:7</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 29049013,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 49,
       "verse": 13,
       "text": "Sing for joy, you heavens, and rejoice, O earth! Break out in song, O mountains! For the LORD has comforted his people and will have compassion on his afflicted ones.",
       "links": "<a href='/AIV/23/44/23'>Isa. 44:23</a>; <a href='/AIV/23/40/1'>Isa. 40:1</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 29049014,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 49,
       "verse": 14,
       "text": "But Zion said, 'The LORD has forsaken me; my Lord has forgotten me.'",
       "links": "<a href='/AIV/19/137/1-4'>Ps. 137:1-4</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 29049015,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 49,
       "verse": 15,
       "text": "'Can a woman forget her nursing child, or show no compassion for the child of her womb? Even if these may forget, I will not forget you.'",
       "links": "<a href='/AIV/19/27/10'>Ps. 27:10</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 29049016,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 49,
       "verse": 16,
       "text": "'Behold, I have engraved you on the palms of my hands; your walls are constantly before me.'",
       "links": "<a href='/AIV/50/44/5'>Isa. 44:5</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 29049017,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 49,
       "verse": 17,
       "text": "'Your children will hasten back, and those who laid you waste will depart from you.'",
       "links": "<a href='/AIV/50/60/4-5'>Isa. 60:4-5</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 29049018,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 49,
       "verse": 18,
       "text": "'Lift up your eyes around and see; all of them gather, they come to you. As I live,' declares the LORD, 'you shall put them all on as an ornament; you shall bind them on like a bride.'",
       "links": "<a href='/AIV/23/62/5'>Isa. 62:5</a>; <a href='/AIV/66/21/2'>Rev. 21:2</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 29049019,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 49,
       "verse": 19,
       "text": "'For your wasted and desolate places, and your devastated land—surely now you will be too crowded for your inhabitants, and those who swallowed you up will be far away.'",
       "links": "<a href='/AIV/50/54/1-3'>Isa. 54:1-3</a>",
@@ -237,11 +144,6 @@
     },
     {
       "pk": 29049020,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 49,
       "verse": 20,
       "text": "The children of your loss will say again in your ears, 'This place is too cramped for me; make room for me to settle.'",
       "links": "<a href='/AIV/50/54/2'>Isa. 54:2</a>",
@@ -249,11 +151,6 @@
     },
     {
       "pk": 29049021,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 49,
       "verse": 21,
       "text": "Then you will say in your heart, 'Who has borne me these? I was bereaved and barren, exiled and rejected. Who has raised these? Behold, I was left alone; where then have these come from?'",
       "links": "<a href='/AIV/45/4/17-18'>Rom. 4:17-18</a>",
@@ -261,11 +158,6 @@
     },
     {
       "pk": 29049022,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 49,
       "verse": 22,
       "text": "Thus says the Lord GOD: 'Behold, I will lift up my hand to the nations, and raise my banner to the peoples; and they will bring your sons in their arms, and your daughters shall be carried on their shoulders.'",
       "links": "<a href='/AIV/23/11/10-12'>Isa. 11:10-12</a>",
@@ -274,11 +166,6 @@
     },
     {
       "pk": 29049023,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 49,
       "verse": 23,
       "text": "Kings shall be your foster fathers, and their queens your nursing mothers. They will bow down to you with their faces to the ground and lick the dust of your feet. Then you will know that I am the LORD; those who wait for me shall not be put to shame.'",
       "links": "<a href='/AIV/60/2/6'>1 Pet. 2:6</a>; <a href='/AIV/19/72/11'>Ps. 72:11</a>",
@@ -286,11 +173,6 @@
     },
     {
       "pk": 29049024,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 49,
       "verse": 24,
       "text": "Can prey be taken from the mighty, or captives of a tyrant be rescued?",
       "links": "<a href='/AIV/19/124/7'>Ps. 124:7</a>",
@@ -299,11 +181,6 @@
     },
     {
       "pk": 29049025,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 49,
       "verse": 25,
       "text": "For thus says the LORD: 'Even the captives of the mighty will be taken, and the prey of the tyrant will be rescued, for I will contend with those who contend with you, and I will save your children.'",
       "links": "<a href='/AIV/2/14/14'>Ex. 14:14</a>",
@@ -311,43 +188,10 @@
     },
     {
       "pk": 29049026,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 49,
       "verse": 26,
       "text": "'And I will make your oppressors eat their own flesh, and they shall be drunk with their own blood as with wine. Then all flesh will know that I, the LORD, am your Savior and your Redeemer, the Mighty One of Jacob.'",
       "links": "<a href='/AIV/50/63/6'>Isa. 63:6</a>; <a href='/AIV/2/6/7'>Ex. 6:7</a>",
       "comment": "The graphic judgment of the oppressors highlights God’s justice and ultimate triumph. God's identity as Redeemer is affirmed, concluding a passage that ultimately points to His dramatic intervention in history and the fulfillment of His promises in Christ—hinting at God's visible, embodied action."
-    }
-  ],
-  "translatedAt": "2025-12-24T08:14:04.179Z",
-  "sections": [
-    {
-      "title": "The Servant’s Mission to the Nations",
-      "startVerse": 1,
-      "endVerse": 7
-    },
-    {
-      "title": "Restoration and Salvation for Zion",
-      "startVerse": 8,
-      "endVerse": 13
-    },
-    {
-      "title": "God’s Unfailing Love for Zion",
-      "startVerse": 14,
-      "endVerse": 21
-    },
-    {
-      "title": "The Nations Serve Zion",
-      "startVerse": 22,
-      "endVerse": 23
-    },
-    {
-      "title": "The LORD’s Promise of Deliverance",
-      "startVerse": 24,
-      "endVerse": 26
     }
   ]
 }

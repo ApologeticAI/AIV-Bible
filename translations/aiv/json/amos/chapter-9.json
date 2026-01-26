@@ -1,16 +1,13 @@
 {
-  "book": 37,
+  "translation": "AIV",
+  "bookId": "amos",
   "bookName": "Amos",
   "bookAbbreviation": "Amos",
+  "bookNumber": 37,
   "chapter": 9,
   "verses": [
     {
       "pk": 37009001,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 9,
       "verse": 1,
       "text": "I saw the Lord standing beside the altar. He said, \"Strike the capitals so that the thresholds shake, and shatter them on the heads of all the people. The rest of them I will kill with the sword. None of them will flee away, no one will escape.",
       "links": "<a href='/AIV/11/9/27'>1 Kgs 9:27</a>; <a href='/AIV/26/9/5-6'>Ezek. 9:5-6</a>; <a href='/AIV/19/139/7-12'>Ps. 139:7-12</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 37009002,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 9,
       "verse": 2,
       "text": "Though they dig into Sheol, from there My hand shall take them; though they climb up to heaven, from there I will bring them down.",
       "links": "<a href='/AIV/19/139/8'>Ps. 139:8</a>; <a href='/AIV/24/51/53'>Jer. 51:53</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 37009003,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 9,
       "verse": 3,
       "text": "If they hide themselves on the top of Carmel, I will search them out and take them; if they hide from My sight at the bottom of the sea, I will command the serpent there to bite them.",
       "links": "<a href='/AIV/19/139/9-10'>Ps. 139:9-10</a>; <a href='/AIV/18/26/13'>Job 26:13</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 37009004,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 9,
       "verse": 4,
       "text": "If they go into captivity before their enemies, from there I will command the sword, and it shall kill them. I will fix My eyes upon them for harm, not for good.",
       "links": "<a href='/AIV/23/10/4'>Isa. 10:4</a>; <a href='/AIV/24/21/10'>Jer. 21:10</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 37009005,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 9,
       "verse": 5,
       "text": "The Lord, the God of Hosts — He touches the earth, and it melts, and all who dwell on it mourn; and it rises like the Nile and sinks again like the Nile of Egypt.",
       "links": "<a href='/AIV/19/46/6'>Ps. 46:6</a>; <a href='/AIV/02/7/20'>Exod. 7:20</a>; <a href='/AIV/19/97/5'>Ps. 97:5</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 37009006,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 9,
       "verse": 6,
       "text": "He builds His upper chambers in the heavens and founds His vault upon the earth; He calls for the waters of the sea and pours them out upon the face of the earth — the Lord is His name.",
       "links": "<a href='/AIV/19/104/3'>Ps. 104:3</a>; <a href='/AIV/24/10/13'>Jer. 10:13</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 37009007,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 9,
       "verse": 7,
       "text": "\"Are you not like the Cushites to Me, O people of Israel?\" declares the Lord. \"Did I not bring up Israel from the land of Egypt, and the Philistines from Caphtor and the Arameans from Kir?\"",
       "links": "<a href='/AIV/02/12/51'>Exod. 12:51</a>; <a href='/AIV/05/2/23'>Deut. 2:23</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 37009008,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 9,
       "verse": 8,
       "text": "Behold, the eyes of the Lord God are upon the sinful kingdom, and I will destroy it from the face of the earth — except that I will not utterly destroy the house of Jacob,\" declares the Lord.",
       "links": "<a href='/AIV/24/5/18'>Jer. 5:18</a>; <a href='/AIV/01/6/5-7'>Gen. 6:5-7</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 37009009,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 9,
       "verse": 9,
       "text": "\"For behold, I will command, and shake the house of Israel among all the nations as one shakes with a sieve, but not a single pebble shall fall to the ground.",
       "links": "<a href='/AIV/23/30/28'>Isa. 30:28</a>; <a href='/AIV/40/3/12'>Matt. 3:12</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 37009010,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 9,
       "verse": 10,
       "text": "All the sinners of My people shall die by the sword, who say, 'Disaster shall not overtake or meet us.'",
       "links": "<a href='/AIV/26/13/10-16'>Ezek. 13:10-16</a>; <a href='/AIV/24/14/13-14'>Jer. 14:13-14</a>",
@@ -127,11 +79,6 @@
     },
     {
       "pk": 37009011,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 9,
       "verse": 11,
       "text": "\"On that day I will raise up the fallen booth of David, and repair its breaches, raise up its ruins, and rebuild it as in days of old,",
       "links": "<a href='/AIV/10/7/11-16'>2 Sam. 7:11-16</a>; <a href='/AIV/44/15/15-17'>Acts 15:15-17</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 37009012,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 9,
       "verse": 12,
       "text": "that they may possess the remnant of Edom and all the nations who are called by My name,\" declares the Lord who does this.",
       "links": "<a href='/AIV/44/15/17'>Acts 15:17</a>; <a href='/AIV/01/12/3'>Gen. 12:3</a>; <a href='/AIV/23/11/10'>Isa. 11:10</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 37009013,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 9,
       "verse": 13,
       "text": "\"Behold, the days are coming,\" declares the Lord, \"when the plowman shall overtake the reaper and the treader of grapes him who sows seed; the mountains shall drip sweet wine, and all the hills shall flow with it.",
       "links": "<a href='/AIV/23/25/6'>Isa. 25:6</a>; <a href='/AIV/19/65/9-13'>Ps. 65:9-13</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 37009014,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 9,
       "verse": 14,
       "text": "I will restore the fortunes of My people Israel, and they shall rebuild the ruined cities and live in them; they shall plant vineyards and drink their wine, and shall make gardens and eat their fruit.",
       "links": "<a href='/AIV/24/30/18'>Jer. 30:18</a>; <a href='/AIV/26/36/34-36'>Ezek. 36:34-36</a>",
@@ -176,28 +108,10 @@
     },
     {
       "pk": 37009015,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 9,
       "verse": 15,
       "text": "I will plant them upon their land, and they shall never again be uprooted out of the land that I have given them,\" says the Lord your God.",
       "links": "<a href='/AIV/24/32/41'>Jer. 32:41</a>; <a href='/AIV/01/17/8'>Gen. 17:8</a>",
       "comment": "The unbreakable promise of being 'planted' recalls God’s covenant faithfulness, ultimately fulfilled through the enduring spiritual community formed in the new and everlasting covenant established by Christ, who gathers all peoples into one household under His lordship."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:45:14.447Z",
-  "sections": [
-    {
-      "title": "The Inescapable Judgment of God",
-      "startVerse": 1,
-      "endVerse": 10
-    },
-    {
-      "title": "The Restoration of David’s Kingdom",
-      "startVerse": 11,
-      "endVerse": 15
     }
   ]
 }

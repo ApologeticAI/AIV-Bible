@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 98,
   "verses": [
     {
       "pk": 23098001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 98,
       "verse": 1,
       "text": "Sing to the LORD a new song, for he has done marvelous things; his right hand and his holy arm have brought him victory.",
       "links": "<a href='/AIV/19/96/1'>Ps. 96:1</a>; <a href='/AIV/02/15/6'>Ex. 15:6</a>; <a href='/AIV/23/52/10'>Isa. 52:10</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23098002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 98,
       "verse": 2,
       "text": "The LORD has made known his salvation; he has revealed his righteousness in the sight of the nations.",
       "links": "<a href='/AIV/23/56/1'>Isa. 56:1</a>; <a href='/AIV/45/1/16'>Rom. 1:16</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23098003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 98,
       "verse": 3,
       "text": "He has remembered his steadfast love and faithfulness to the house of Israel; all the ends of the earth have seen the salvation of our God.",
       "links": "<a href='/AIV/01/22/18'>Gen. 22:18</a>; <a href='/AIV/19/96/3'>Ps. 96:3</a>; <a href='/AIV/42/2/32'>Luke 2:32</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23098004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 98,
       "verse": 4,
       "text": "Shout for joy to the LORD, all the earth; break forth, rejoice, and sing praises!",
       "links": "<a href='/AIV/19/66/1'>Ps. 66:1</a>; <a href='/AIV/19/100/1'>Ps. 100:1</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 23098005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 98,
       "verse": 5,
       "text": "Sing praises to the LORD with the lyre, with the lyre and the sound of melody!",
       "links": "<a href='/AIV/19/33/2'>Ps. 33:2</a>; <a href='/AIV/19/92/3'>Ps. 92:3</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 23098006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 98,
       "verse": 6,
       "text": "With trumpets and the sound of the horn, shout joyfully before the King, the LORD!",
       "links": "<a href='/AIV/19/47/5'>Ps. 47:5</a>; <a href='/AIV/19/95/3'>Ps. 95:3</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 23098007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 98,
       "verse": 7,
       "text": "Let the sea roar, and all that fills it; the world and those who dwell in it!",
       "links": "<a href='/AIV/19/96/11'>Ps. 96:11</a>; <a href='/AIV/19/93/3-4'>Ps. 93:3-4</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 23098008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 98,
       "verse": 8,
       "text": "Let the rivers clap their hands; let the hills sing together for joy",
       "links": "<a href='/AIV/23/55/12'>Isa. 55:12</a>; <a href='/AIV/19/65/12-13'>Ps. 65:12-13</a>",
@@ -104,34 +66,11 @@
     },
     {
       "pk": 23098009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 98,
       "verse": 9,
       "text": "before the LORD, for he comes to judge the earth. He will judge the world in righteousness, and the peoples with fairness.",
       "links": "<a href='/AIV/19/96/13'>Ps. 96:13</a>; <a href='/AIV/40/25/31-32'>Matt. 25:31-32</a>; <a href='/AIV/45/2/6-11'>Rom. 2:6-11</a>",
       "comment": "God's coming judgment underlines the hope of final justice and restoration. The righteous judgment anticipates the eschatological role of Christ as Judge (Acts 17:31), inspiring hope for true justice and the fulfillment of God's promises for all nations, uniting believers under one faith in his coming kingdom.",
       "sectionHeader": "The Lord Comes to Judge the Earth"
-    }
-  ],
-  "translatedAt": "2025-12-24T06:33:43.575Z",
-  "sections": [
-    {
-      "title": "A Song of Praise for God's Salvation",
-      "startVerse": 1,
-      "endVerse": 3
-    },
-    {
-      "title": "All Creation Rejoices Before the Lord",
-      "startVerse": 4,
-      "endVerse": 8
-    },
-    {
-      "title": "The Lord Comes to Judge the Earth",
-      "startVerse": 9,
-      "endVerse": 9
     }
   ]
 }

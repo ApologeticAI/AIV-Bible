@@ -1,16 +1,13 @@
 {
-  "book": 52,
+  "translation": "AIV",
+  "bookId": "romans",
   "bookName": "Romans",
   "bookAbbreviation": "Rom",
+  "bookNumber": 52,
   "chapter": 16,
   "verses": [
     {
       "pk": 52016001,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 16,
       "verse": 1,
       "text": "I commend to you our sister Phoebe, a servant of the church at Cenchreae,",
       "links": "<a href='/AIV/44/18/18'>Acts 18:18</a>; <a href='/AIV/52/16/27'>Rom. 16:27</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 52016002,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 16,
       "verse": 2,
       "text": "that you may welcome her in the Lord as worthy of his people, and help her in whatever she may need from you, for she has been a benefactor of many and of myself as well.",
       "links": "<a href='/AIV/44/21/8'>Acts 21:8</a>; <a href='/AIV/58/13/2'>Heb. 13:2</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 52016003,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 16,
       "verse": 3,
       "text": "Greet Prisca and Aquila, my fellow workers in Christ Jesus,",
       "links": "<a href='/AIV/44/18/2'>Acts 18:2</a>; <a href='/AIV/46/16/19'>1 Cor. 16:19</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 52016004,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 16,
       "verse": 4,
       "text": "who risked their own lives for me, to whom not only I give thanks but also all the churches of the Gentiles.",
       "links": "<a href='/AIV/46/16/19'>1 Cor. 16:19</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 52016005,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 16,
       "verse": 5,
       "text": "Greet also the church that meets at their house. Greet my beloved Epaenetus, who was the first convert to Christ in Asia.",
       "links": "<a href='/AIV/46/16/19'>1 Cor. 16:19</a>; <a href='/AIV/44/19/10'>Acts 19:10</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 52016006,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 16,
       "verse": 6,
       "text": "Greet Mary, who has worked very hard for you.",
       "links": "<a href='/AIV/42/8/2-3'>Luke 8:2-3</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 52016007,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 16,
       "verse": 7,
       "text": "Greet Andronicus and Junia, my kinsmen and fellow prisoners. They are well known among the apostles, and they were in Christ before me.",
       "links": "<a href='/AIV/46/4/9'>1 Cor. 4:9</a>; <a href='/AIV/51/4/10'>Col. 4:10</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 52016008,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 16,
       "verse": 8,
       "text": "Greet Ampliatus, whom I love in the Lord.",
       "links": "<a href='/AIV/52/16/2'>Rom. 16:2</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 52016009,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 16,
       "verse": 9,
       "text": "Greet Urbanus, our fellow worker in Christ, and my beloved Stachys.",
       "links": "<a href='/AIV/52/16/3'>Rom. 16:3</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 52016010,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 16,
       "verse": 10,
       "text": "Greet Apelles, who is approved in Christ. Greet those who belong to the household of Aristobulus.",
       "links": "<a href='/AIV/52/16/7'>Rom. 16:7</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 52016011,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 16,
       "verse": 11,
       "text": "Greet Herodion, my kinsman. Greet those in the household of Narcissus, who are in the Lord.",
       "links": "<a href='/AIV/52/16/21'>Rom. 16:21</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 52016012,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 16,
       "verse": 12,
       "text": "Greet Tryphaena and Tryphosa, workers in the Lord. Greet the beloved Persis, who has worked very hard in the Lord.",
       "links": "<a href='/AIV/52/16/6'>Rom. 16:6</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 52016013,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 16,
       "verse": 13,
       "text": "Greet Rufus, chosen in the Lord, and his mother, who has been a mother to me also.",
       "links": "<a href='/AIV/41/15/21'>Mark 15:21</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 52016014,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 16,
       "verse": 14,
       "text": "Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas and the brothers who are with them.",
       "links": "<a href='/AIV/52/16/3'>Rom. 16:3</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 52016015,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 16,
       "verse": 15,
       "text": "Greet Philologus, Julia, Nereus and his sister, and Olympas, and all the saints who are with them.",
       "links": "<a href='/AIV/52/1/7'>Rom. 1:7</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 52016016,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 16,
       "verse": 16,
       "text": "Greet one another with a holy kiss. All the churches of Christ greet you.",
       "links": "<a href='/AIV/46/16/20'>1 Cor. 16:20</a>; <a href='/AIV/47/13/12'>2 Cor. 13:12</a>; <a href='/AIV/52/5/26'>1 Thess. 5:26</a>",
@@ -200,11 +122,6 @@
     },
     {
       "pk": 52016017,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 16,
       "verse": 17,
       "text": "Now I urge you, brothers, to watch out for those who create divisions and obstacles contrary to the doctrine you have learned; avoid them.",
       "links": "<a href='/AIV/56/3/10'>Titus 3:10</a>; <a href='/AIV/48/5/20'>Gal. 5:20</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 52016018,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 16,
       "verse": 18,
       "text": "For such people do not serve our Lord Christ, but their own appetites. By smooth talk and flattery they deceive the hearts of the innocent.",
       "links": "<a href='/AIV/50/3/19'>Phil. 3:19</a>; <a href='/AIV/40/7/15'>Matt. 7:15</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 52016019,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 16,
       "verse": 19,
       "text": "For your obedience has become known to all. So I rejoice over you, but I want you to be wise regarding what is good and innocent about what is evil.",
       "links": "<a href='/AIV/40/10/16'>Matt. 10:16</a>; <a href='/AIV/49/4/13'>Eph. 4:13</a>",
@@ -237,11 +144,6 @@
     },
     {
       "pk": 52016020,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 16,
       "verse": 20,
       "text": "The God of peace will soon crush Satan under your feet. The grace of our Lord Jesus be with you.",
       "links": "<a href='/AIV/1/3/15'>Gen. 3:15</a>; <a href='/AIV/66/12/11'>Rev. 12:11</a>",
@@ -249,11 +151,6 @@
     },
     {
       "pk": 52016021,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 16,
       "verse": 21,
       "text": "Timothy, my fellow worker, greets you, as do Lucius, Jason and Sosipater, my kinsmen.",
       "links": "<a href='/AIV/44/20/4'>Acts 20:4</a>; <a href='/AIV/52/16/11'>Rom. 16:11</a>",
@@ -262,11 +159,6 @@
     },
     {
       "pk": 52016022,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 16,
       "verse": 22,
       "text": "I, Tertius, who wrote this letter, greet you in the Lord.",
       "links": "<a href='/AIV/52/16/21'>Rom. 16:21</a>",
@@ -274,11 +166,6 @@
     },
     {
       "pk": 52016023,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 16,
       "verse": 23,
       "text": "Gaius, who is host to me and to the whole church, greets you. Erastus, the city treasurer, and our brother Quartus, greet you.",
       "links": "<a href='/AIV/46/1/14'>1 Cor. 1:14</a>; <a href='/AIV/44/19/22'>Acts 19:22</a>",
@@ -286,11 +173,6 @@
     },
     {
       "pk": 52016024,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 16,
       "verse": 24,
       "text": "The grace of our Lord Jesus Christ be with you all. Amen.",
       "links": "<a href='/AIV/52/16/20'>Rom. 16:20</a>; <a href='/AIV/60/3/18'>2Thess. 3:18</a>; <a href='/AIV/57/4/23'>Phil. 4:23</a>",
@@ -298,11 +180,6 @@
     },
     {
       "pk": 52016025,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 16,
       "verse": 25,
       "text": "Now to him who is able to strengthen you according to my gospel and the preaching of Jesus Christ, according to the revelation of the mystery hidden for ages past,",
       "links": "<a href='/AIV/51/1/26'>Col. 1:26</a>; <a href='/AIV/49/3/9'>Eph. 3:9</a>",
@@ -311,11 +188,6 @@
     },
     {
       "pk": 52016026,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 16,
       "verse": 26,
       "text": "but now revealed and made known through the prophetic Scriptures, according to the command of the eternal God, to bring about the obedience of faith among all nations—",
       "links": "<a href='/AIV/40/28/19'>Matt. 28:19</a>; <a href='/AIV/44/13/47'>Acts 13:47</a>",
@@ -323,43 +195,10 @@
     },
     {
       "pk": 52016027,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 16,
       "verse": 27,
       "text": "to the only wise God, be glory forever through Jesus Christ. Amen.",
       "links": "<a href='/AIV/43/17/1'>John 17:1</a>; <a href='/AIV/56/3/15'>Titus 3:15</a>",
       "comment": "The doxology affirms the glory and wisdom of God revealed in Christ. Worship is perpetually centered on the work of Christ within the apostolic tradition, encouraging all believers to join in eternal praise."
-    }
-  ],
-  "translatedAt": "2026-01-01T21:57:25.338Z",
-  "sections": [
-    {
-      "title": "Commendation of Phoebe",
-      "startVerse": 1,
-      "endVerse": 2
-    },
-    {
-      "title": "Greetings to Roman Christians",
-      "startVerse": 3,
-      "endVerse": 16
-    },
-    {
-      "title": "Warning against Divisions",
-      "startVerse": 17,
-      "endVerse": 20
-    },
-    {
-      "title": "Greetings from Paul’s Companions",
-      "startVerse": 21,
-      "endVerse": 24
-    },
-    {
-      "title": "Doxology",
-      "startVerse": 25,
-      "endVerse": 27
     }
   ]
 }

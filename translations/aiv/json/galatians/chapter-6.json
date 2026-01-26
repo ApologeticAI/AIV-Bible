@@ -1,16 +1,13 @@
 {
-  "book": 55,
+  "translation": "AIV",
+  "bookId": "galatians",
   "bookName": "Galatians",
   "bookAbbreviation": "Gal",
+  "bookNumber": 55,
   "chapter": 6,
   "verses": [
     {
       "pk": 55006001,
-      "translation": "AIV",
-      "book": 55,
-      "bookName": "Galatians",
-      "bookAbbreviation": "Gal",
-      "chapter": 6,
       "verse": 1,
       "text": "Brothers, if someone is caught in any wrongdoing, you who are spiritual should restore such a person in a spirit of gentleness. But watch yourself, so that you too are not tempted.",
       "links": "<a href='/AIV/40/18/15-17'>Matt. 18:15-17</a>; <a href='/AIV/47/2/7-8'>2 Cor. 2:7-8</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 55006002,
-      "translation": "AIV",
-      "book": 55,
-      "bookName": "Galatians",
-      "bookAbbreviation": "Gal",
-      "chapter": 6,
       "verse": 2,
       "text": "Carry one another’s burdens, and in this way you will fulfill the law of Christ.",
       "links": "<a href='/AIV/43/13/34'>John 13:34</a>; <a href='/AIV/48/5/14'>Gal. 5:14</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 55006003,
-      "translation": "AIV",
-      "book": 55,
-      "bookName": "Galatians",
-      "bookAbbreviation": "Gal",
-      "chapter": 6,
       "verse": 3,
       "text": "For if anyone thinks he is something when he is nothing, he deceives himself.",
       "links": "<a href='/AIV/20/16/18'>Prov. 16:18</a>; <a href='/AIV/45/12/3'>Rom. 12:3</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 55006004,
-      "translation": "AIV",
-      "book": 55,
-      "bookName": "Galatians",
-      "bookAbbreviation": "Gal",
-      "chapter": 6,
       "verse": 4,
       "text": "But let each person examine his own work, and then he will have reason to boast with respect to himself alone, and not with regard to someone else.",
       "links": "<a href='/AIV/47/13/5'>2 Cor. 13:5</a>; <a href='/AIV/45/14/12'>Rom. 14:12</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 55006005,
-      "translation": "AIV",
-      "book": 55,
-      "bookName": "Galatians",
-      "bookAbbreviation": "Gal",
-      "chapter": 6,
       "verse": 5,
       "text": "For each one will carry his own load.",
       "links": "<a href='/AIV/45/14/12'>Rom. 14:12</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 55006006,
-      "translation": "AIV",
-      "book": 55,
-      "bookName": "Galatians",
-      "bookAbbreviation": "Gal",
-      "chapter": 6,
       "verse": 6,
       "text": "Let the one who is taught the word share all good things with the one who teaches.",
       "links": "<a href='/AIV/46/9/11-14'>1 Cor. 9:11-14</a>; <a href='/AIV/54/5/17-18'>1 Tim. 5:17-18</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 55006007,
-      "translation": "AIV",
-      "book": 55,
-      "bookName": "Galatians",
-      "bookAbbreviation": "Gal",
-      "chapter": 6,
       "verse": 7,
       "text": "Do not be deceived: God is not mocked, for whatever a person sows, that he will also reap.",
       "links": "<a href='/AIV/18/4/8'>Job 4:8</a>; <a href='/AIV/47/9/6'>2 Cor. 9:6</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 55006008,
-      "translation": "AIV",
-      "book": 55,
-      "bookName": "Galatians",
-      "bookAbbreviation": "Gal",
-      "chapter": 6,
       "verse": 8,
       "text": "Because the one who sows to his own flesh will from the flesh reap destruction, but the one who sows to the Spirit will from the Spirit reap eternal life.",
       "links": "<a href='/AIV/43/3/6'>John 3:6</a>; <a href='/AIV/45/8/13'>Rom. 8:13</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 55006009,
-      "translation": "AIV",
-      "book": 55,
-      "bookName": "Galatians",
-      "bookAbbreviation": "Gal",
-      "chapter": 6,
       "verse": 9,
       "text": "And let us not grow weary in doing good, for at the proper time we will reap a harvest if we do not give up.",
       "links": "<a href='/AIV/47/4/1'>2 Cor. 4:1</a>; <a href='/AIV/58/10/36'>Heb. 10:36</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 55006010,
-      "translation": "AIV",
-      "book": 55,
-      "bookName": "Galatians",
-      "bookAbbreviation": "Gal",
-      "chapter": 6,
       "verse": 10,
       "text": "So then, as we have opportunity, let us do good to everyone, and especially to those who belong to the household of faith.",
       "links": "<a href='/AIV/47/9/10'>2 Cor. 9:10</a>; <a href='/AIV/40/25/40'>Matt. 25:40</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 55006011,
-      "translation": "AIV",
-      "book": 55,
-      "bookName": "Galatians",
-      "bookAbbreviation": "Gal",
-      "chapter": 6,
       "verse": 11,
       "text": "See what large letters I use as I write to you with my own hand.",
       "links": "<a href='/AIV/46/16/21'>1 Cor. 16:21</a>; <a href='/AIV/52/3/17'>2 Thess. 3:17</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 55006012,
-      "translation": "AIV",
-      "book": 55,
-      "bookName": "Galatians",
-      "bookAbbreviation": "Gal",
-      "chapter": 6,
       "verse": 12,
       "text": "Those who desire to make a good impression outwardly are trying to force you to be circumcised—only so they will not be persecuted for the cross of Christ.",
       "links": "<a href='/AIV/48/5/11'>Gal. 5:11</a>; <a href='/AIV/50/3/3'>Phil. 3:3</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 55006013,
-      "translation": "AIV",
-      "book": 55,
-      "bookName": "Galatians",
-      "bookAbbreviation": "Gal",
-      "chapter": 6,
       "verse": 13,
       "text": "For even those who are circumcised do not themselves keep the law; but they want you to be circumcised so they may boast in your flesh.",
       "links": "<a href='/AIV/45/2/17-23'>Rom. 2:17-23</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 55006014,
-      "translation": "AIV",
-      "book": 55,
-      "bookName": "Galatians",
-      "bookAbbreviation": "Gal",
-      "chapter": 6,
       "verse": 14,
       "text": "But far be it from me to boast except in the cross of our Lord Jesus Christ, through which the world is crucified to me, and I to the world.",
       "links": "<a href='/AIV/47/5/17'>2 Cor. 5:17</a>; <a href='/AIV/50/3/7-8'>Phil. 3:7-8</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 55006015,
-      "translation": "AIV",
-      "book": 55,
-      "bookName": "Galatians",
-      "bookAbbreviation": "Gal",
-      "chapter": 6,
       "verse": 15,
       "text": "For neither circumcision nor uncircumcision is anything, but a new creation.",
       "links": "<a href='/AIV/47/5/17'>2 Cor. 5:17</a>; <a href='/AIV/48/5/6'>Gal. 5:6</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 55006016,
-      "translation": "AIV",
-      "book": 55,
-      "bookName": "Galatians",
-      "bookAbbreviation": "Gal",
-      "chapter": 6,
       "verse": 16,
       "text": "And as for all who walk by this rule, peace and mercy be upon them, and upon the Israel of God.",
       "links": "<a href='/AIV/23/9/6'>Isa. 9:6</a>; <a href='/AIV/45/2/28-29'>Rom. 2:28-29</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 55006017,
-      "translation": "AIV",
-      "book": 55,
-      "bookName": "Galatians",
-      "bookAbbreviation": "Gal",
-      "chapter": 6,
       "verse": 17,
       "text": "From now on let no one trouble me, for I bear on my body the marks of Jesus.",
       "links": "<a href='/AIV/44/5/41'>Acts 5:41</a>; <a href='/AIV/47/11/23-25'>2 Cor. 11:23-25</a>",
@@ -213,33 +130,10 @@
     },
     {
       "pk": 55006018,
-      "translation": "AIV",
-      "book": 55,
-      "bookName": "Galatians",
-      "bookAbbreviation": "Gal",
-      "chapter": 6,
       "verse": 18,
       "text": "The grace of our Lord Jesus Christ be with your spirit, brothers. Amen.",
       "links": "<a href='/AIV/50/4/23'>Phil. 4:23</a>; <a href='/AIV/53/3/18'>2 Thess. 3:18</a>",
       "comment": "Paul’s closing invokes grace—a unifying and sustaining reality for the Church. The term ‘brothers’ directs this blessing to the whole community, underscoring the ongoing work of Christ’s grace in their lives."
-    }
-  ],
-  "translatedAt": "2025-12-24T12:00:45.224Z",
-  "sections": [
-    {
-      "title": "Mutual Correction and Bearing Burdens",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "Exhortation to Generosity and Doing Good",
-      "startVerse": 6,
-      "endVerse": 10
-    },
-    {
-      "title": "Final Admonitions and Glory in the Cross",
-      "startVerse": 11,
-      "endVerse": 18
     }
   ]
 }

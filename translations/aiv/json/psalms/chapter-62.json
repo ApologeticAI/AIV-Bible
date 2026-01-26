@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 62,
   "verses": [
     {
       "pk": 23062001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 62,
       "verse": 1,
       "text": "Truly my soul waits in silence for God; from Him comes my salvation.",
       "links": "<a href='/AIV/19/37/7'>Ps. 37:7</a>; <a href='/AIV/19/3/8'>Ps. 3:8</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23062002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 62,
       "verse": 2,
       "text": "He alone is my rock and my salvation, my fortress; I will never be greatly shaken.",
       "links": "<a href='/AIV/19/18/2'>Ps. 18:2</a>; <a href='/AIV/19/61/2'>Ps. 61:2-3</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23062003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 62,
       "verse": 3,
       "text": "How long will you attack a man, all of you, to batter him down, as if he were a leaning wall, a tottering fence?",
       "links": "<a href='/AIV/19/31/13'>Ps. 31:13</a>; <a href='/AIV/19/42/10'>Ps. 42:10</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23062004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 62,
       "verse": 4,
       "text": "They only plan to cast him down from his high position; they delight in lies. With their mouths they bless, but inwardly they curse.",
       "links": "<a href='/AIV/19/28/3'>Ps. 28:3</a>; <a href='/AIV/19/55/21'>Ps. 55:21</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23062005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 62,
       "verse": 5,
       "text": "My soul waits silently for God alone, for my hope is from Him.",
       "links": "<a href='/AIV/19/130/5'>Ps. 130:5</a>; <a href='/AIV/19/39/7'>Ps. 39:7</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23062006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 62,
       "verse": 6,
       "text": "He alone is my rock and my salvation, my fortress; I will not be shaken.",
       "links": "<a href='/AIV/19/31/3'>Ps. 31:3</a>; <a href='/AIV/19/16/8'>Ps. 16:8</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23062007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 62,
       "verse": 7,
       "text": "On God rests my salvation and my glory; the rock of my strength, my refuge, is in God.",
       "links": "<a href='/AIV/19/18/31'>Ps. 18:31</a>; <a href='/AIV/19/3/3'>Ps. 3:3</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 23062008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 62,
       "verse": 8,
       "text": "Trust in Him at all times, O people; pour out your hearts before Him. God is a refuge for us.",
       "links": "<a href='/AIV/19/50/15'>Ps. 50:15</a>; <a href='/AIV/19/142/2'>Ps. 142:2</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 23062009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 62,
       "verse": 9,
       "text": "Surely men of low estate are but a breath, those of high estate are a delusion; in the scales they rise, they are altogether lighter than a breath.",
       "links": "<a href='/AIV/19/39/5'>Ps. 39:5</a>; <a href='/AIV/19/144/4'>Ps. 144:4</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 23062010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 62,
       "verse": 10,
       "text": "Do not trust in oppression, nor put vain hope in robbery; if riches increase, do not set your heart on them.",
       "links": "<a href='/AIV/19/49/6'>Ps. 49:6-7</a>; <a href='/AIV/40/6/19-21'>Matt. 6:19-21</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 23062011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 62,
       "verse": 11,
       "text": "God has spoken once; twice have I heard this: power belongs to God.",
       "links": "<a href='/AIV/19/29/4'>Ps. 29:4</a>; <a href='/AIV/18/33/14'>Job 33:14</a>",
@@ -141,33 +88,10 @@
     },
     {
       "pk": 23062012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 62,
       "verse": 12,
       "text": "And to You, Lord, belongs steadfast love; for You reward each one according to his work.",
       "links": "<a href='/AIV/19/86/15'>Ps. 86:15</a>; <a href='/AIV/45/2/6'>Rom. 2:6</a>; <a href='/AIV/40/16/27'>Matt. 16:27</a>",
       "comment": "God's steadfast love ('hesed') and just judgment are foundational. The idea that God rewards according to works prepares believers for New Testament teachings on judgment and the importance of living faith demonstrated through actions (<a href='/AIV/59/2/24'>James 2:24</a>)."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:19:59.889Z",
-  "sections": [
-    {
-      "title": "Confidence in God amid Enemies",
-      "startVerse": 1,
-      "endVerse": 7
-    },
-    {
-      "title": "Exhortation to Trust in God Alone",
-      "startVerse": 8,
-      "endVerse": 10
-    },
-    {
-      "title": "The Power and Mercy of God",
-      "startVerse": 11,
-      "endVerse": 12
     }
   ]
 }

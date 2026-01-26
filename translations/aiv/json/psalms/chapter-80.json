@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 80,
   "verses": [
     {
       "pk": 23080001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 80,
       "verse": 1,
       "text": "Hear us, Shepherd of Israel, you who lead Joseph like a flock; you who sit enthroned between the cherubim, shine forth.",
       "links": "<a href='/AIV/18/1/6'>Job 1:6</a>; <a href='/AIV/19/99/1'>Ps. 99:1</a>; <a href='/AIV/02/25/22'>Ex. 25:22</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23080002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 80,
       "verse": 2,
       "text": "Before Ephraim, Benjamin, and Manasseh, stir up your might and come to save us.",
       "links": "<a href='/AIV/04/2/18'>Num. 2:18-24</a>; <a href='/AIV/19/78/67'>Ps. 78:67-68</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23080003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 80,
       "verse": 3,
       "text": "Restore us, O God; let your face shine upon us, that we may be saved.",
       "links": "<a href='/AIV/04/6/25-26'>Num. 6:25-26</a>; <a href='/AIV/19/67/1'>Ps. 67:1</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23080004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 80,
       "verse": 4,
       "text": "O LORD God of Hosts, how long will you be angry with your people’s prayers?",
       "links": "<a href='/AIV/23/64/9'>Isa. 64:9</a>; <a href='/AIV/19/74/1'>Ps. 74:1</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23080005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 80,
       "verse": 5,
       "text": "You have fed them with the bread of tears and made them drink tears in full measure.",
       "links": "<a href='/AIV/19/42/3'>Ps. 42:3</a>; <a href='/AIV/25/3/15'>Lam. 3:15</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23080006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 80,
       "verse": 6,
       "text": "You make us a source of contention for our neighbors, and our enemies laugh among themselves.",
       "links": "<a href='/AIV/19/44/13-14'>Ps. 44:13-14</a>; <a href='/AIV/19/79/4'>Ps. 79:4</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23080007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 80,
       "verse": 7,
       "text": "Restore us, O God of Hosts; let your face shine upon us, that we may be saved.",
       "links": "<a href='/AIV/19/80/3'>Ps. 80:3</a>; <a href='/AIV/04/6/25'>Num. 6:25</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 23080008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 80,
       "verse": 8,
       "text": "You brought a vine out of Egypt; you drove out the nations and planted it.",
       "links": "<a href='/AIV/02/15/17'>Ex. 15:17</a>; <a href='/AIV/23/5/1-7'>Isa. 5:1-7</a>; <a href='/AIV/19/44/2'>Ps. 44:2</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 23080009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 80,
       "verse": 9,
       "text": "You cleared the ground for it, and it took deep root and filled the land.",
       "links": "<a href='/AIV/19/78/55'>Ps. 78:55</a>; <a href='/AIV/23/27/6'>Isa. 27:6</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 23080010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 80,
       "verse": 10,
       "text": "The mountains were covered with its shade, and the mighty cedars with its branches.",
       "links": "<a href='/AIV/26/31/6'>Ezek. 31:6</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 23080011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 80,
       "verse": 11,
       "text": "It sent out its branches to the sea, and its shoots to the River.",
       "links": "<a href='/AIV/01/15/18'>Gen. 15:18</a>; <a href='/AIV/04/34/5-6'>Num. 34:5-6</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 23080012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 80,
       "verse": 12,
       "text": "Why then have you broken down its walls, so that all who pass by pick its fruit?",
       "links": "<a href='/AIV/19/89/40'>Ps. 89:40</a>; <a href='/AIV/23/5/5'>Isa. 5:5</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 23080013,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 80,
       "verse": 13,
       "text": "The boar from the forest ravages it, and all that move in the field feed on it.",
       "links": "<a href='/AIV/23/5/6'>Isa. 5:6</a>; <a href='/AIV/19/74/7'>Ps. 74:7</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 23080014,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 80,
       "verse": 14,
       "text": "Return, O God of Hosts; look down from heaven and see, and care for this vine,",
       "links": "<a href='/AIV/19/14/2'>Ps. 14:2</a>; <a href='/AIV/19/33/13-14'>Ps. 33:13-14</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 23080015,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 80,
       "verse": 15,
       "text": "the stock that your right hand planted, and for the son whom you made strong for yourself.",
       "links": "<a href='/AIV/19/8/4'>Ps. 8:4</a>; <a href='/AIV/19/2/7'>Ps. 2:7</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 23080016,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 80,
       "verse": 16,
       "text": "It is burned with fire, it is cut down; they perish at the rebuke of your face.",
       "links": "<a href='/AIV/23/24/6'>Isa. 24:6</a>; <a href='/AIV/19/79/5'>Ps. 79:5</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 23080017,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 80,
       "verse": 17,
       "text": "Let your hand be upon the man of your right hand, the son of man whom you have made strong for yourself.",
       "links": "<a href='/AIV/19/110/1'>Ps. 110:1</a>; <a href='/AIV/40/26/64'>Matt. 26:64</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 23080018,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 80,
       "verse": 18,
       "text": "Then we will not turn away from you; revive us, and we will call on your name.",
       "links": "<a href='/AIV/19/71/20'>Ps. 71:20</a>; <a href='/AIV/19/85/6'>Ps. 85:6</a>",
@@ -225,33 +137,10 @@
     },
     {
       "pk": 23080019,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 80,
       "verse": 19,
       "text": "Restore us, O LORD God of Hosts; let your face shine upon us, that we may be saved.",
       "links": "<a href='/AIV/19/80/3'>Ps. 80:3</a>; <a href='/AIV/19/67/1'>Ps. 67:1</a>",
       "comment": "The psalm closes with a plea for God’s saving presence, echoing themes of restoration and grace. The repeated invocation emphasizes communal intercession, a core principle of the apostolic faith and the lived experience of the ancient Church."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:27:37.456Z",
-  "sections": [
-    {
-      "title": "Prayer for Restoration and Deliverance",
-      "startVerse": 1,
-      "endVerse": 7
-    },
-    {
-      "title": "The Parable of the Vine and Israel’s Ruin",
-      "startVerse": 8,
-      "endVerse": 13
-    },
-    {
-      "title": "Plea for God’s Favor and Mercy",
-      "startVerse": 14,
-      "endVerse": 19
     }
   ]
 }

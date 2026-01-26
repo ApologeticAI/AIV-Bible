@@ -1,16 +1,13 @@
 {
-  "book": 2,
+  "translation": "AIV",
+  "bookId": "exodus",
   "bookName": "Exodus",
   "bookAbbreviation": "Exod",
+  "bookNumber": 2,
   "chapter": 3,
   "verses": [
     {
       "pk": 2003001,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 3,
       "verse": 1,
       "text": "Now Moses was tending the flock of Jethro his father-in-law, the priest of Midian, and he led the flock to the far side of the wilderness, and came to the mountain of God, to Horeb.",
       "links": "<a href='/AIV/2/18/12'>Exod. 18:12</a>; <a href='/AIV/5/4/10'>Deut. 4:10</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 2003002,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 3,
       "verse": 2,
       "text": "And the angel of the LORD appeared to him in a flame of fire out of the midst of a bush. He looked, and behold, the bush was burning with fire, yet the bush was not consumed.",
       "links": "<a href='/AIV/1/16/7'>Gen. 16:7</a>; <a href='/AIV/7/6/12'>Judg. 6:12</a>; <a href='/AIV/2/24/17'>Exod. 24:17</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 2003003,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 3,
       "verse": 3,
       "text": "And Moses said, 'I will turn aside and see this marvelous sight, why the bush is not burned up.'",
       "links": "<a href='/AIV/6/5/15'>Josh. 5:15</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 2003004,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 3,
       "verse": 4,
       "text": "When the LORD saw that he turned aside to look, God called to him out of the bush, 'Moses, Moses!' And he said, 'Here I am.'",
       "links": "<a href='/AIV/1/22/11'>Gen. 22:11</a>; <a href='/AIV/9/9/4'>1 Sam. 3:4</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 2003005,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 3,
       "verse": 5,
       "text": "Then he said, 'Do not come closer; take off your sandals from your feet, for the place on which you are standing is holy ground.'",
       "links": "<a href='/AIV/6/5/15'>Josh. 5:15</a>; <a href='/AIV/19/24/3'>Ps. 24:3</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 2003006,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 3,
       "verse": 6,
       "text": "And he said, 'I am the God of your father, the God of Abraham, the God of Isaac, and the God of Jacob.' And Moses hid his face, for he was afraid to look at God.",
       "links": "<a href='/AIV/1/26/24'>Gen. 26:24</a>; <a href='/AIV/40/22/32'>Matt. 22:32</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 2003007,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 3,
       "verse": 7,
       "text": "Then the LORD said, 'I have surely seen the affliction of my people who are in Egypt, and have heard their cry because of their taskmasters; I know their sufferings.'",
       "links": "<a href='/AIV/1/15/13'>Gen. 15:13</a>; <a href='/AIV/2/2/23-25'>Exod. 2:23-25</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 2003008,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 3,
       "verse": 8,
       "text": "So I have come down to deliver them out of the hand of the Egyptians, and to bring them up from that land to a good and spacious land, a land flowing with milk and honey, to the place of the Canaanite, the Hittite, the Amorite, the Perizzite, the Hivite, and the Jebusite.",
       "links": "<a href='/AIV/1/15/18-21'>Gen. 15:18-21</a>; <a href='/AIV/2/13/5'>Exod. 13:5</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 2003009,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 3,
       "verse": 9,
       "text": "And now, behold, the cry of the children of Israel has come to me, and I have seen how harshly the Egyptians oppress them.",
       "links": "<a href='/AIV/2/2/24'>Exod. 2:24</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 2003010,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 3,
       "verse": 10,
       "text": "Come, and I will send you to Pharaoh, so that you may bring my people, the children of Israel, out of Egypt.'",
       "links": "<a href='/AIV/2/6/11'>Exod. 6:11</a>; <a href='/AIV/44/7/34'>Acts 7:34</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 2003011,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 3,
       "verse": 11,
       "text": "But Moses said to God, 'Who am I that I should go to Pharaoh, and that I should bring the children of Israel out of Egypt?'",
       "links": "<a href='/AIV/23/6/5'>Isa. 6:5</a>; <a href='/AIV/24/1/6'>Jer. 1:6</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 2003012,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 3,
       "verse": 12,
       "text": "And he said, 'Certainly I will be with you, and this will be the sign to you that I have sent you: when you have brought the people out of Egypt, you shall serve God on this mountain.'",
       "links": "<a href='/AIV/2/19/1-2'>Exod. 19:1-2</a>; <a href='/AIV/40/28/20'>Matt. 28:20</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 2003013,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 3,
       "verse": 13,
       "text": "Then Moses said to God, 'If I come to the children of Israel and say to them, \"The God of your fathers has sent me to you,\" and they ask me, \"What is his name?\" what shall I say to them?'",
       "links": "<a href='/AIV/1/32/29'>Gen. 32:29</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 2003014,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 3,
       "verse": 14,
       "text": "God said to Moses, 'I AM WHO I AM.' And he said, 'Say this to the children of Israel: \"I AM has sent me to you.\"'",
       "links": "<a href='/AIV/43/8/58'>John 8:58</a>; <a href='/AIV/2/6/3'>Exod. 6:3</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 2003015,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 3,
       "verse": 15,
       "text": "God also said to Moses, 'Say this to the children of Israel: \"The LORD, the God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, has sent me to you.\" This is my name forever, and this is how I am to be remembered for all generations.'",
       "links": "<a href='/AIV/2/6/3'>Exod. 6:3</a>; <a href='/AIV/40/22/32'>Matt. 22:32</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 2003016,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 3,
       "verse": 16,
       "text": "'Go and gather the elders of Israel together and say to them, \"The LORD, the God of your fathers, the God of Abraham, of Isaac, and of Jacob, has appeared to me, saying: I have watched over you and have seen what has been done to you in Egypt,\"'",
       "links": "<a href='/AIV/2/4/29'>Exod. 4:29</a>",
@@ -202,11 +124,6 @@
     },
     {
       "pk": 2003017,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 3,
       "verse": 17,
       "text": "'and I have promised that I will bring you up out of the affliction of Egypt to the land of the Canaanite, the Hittite, the Amorite, the Perizzite, the Hivite, and the Jebusite, to a land flowing with milk and honey.'",
       "links": "<a href='/AIV/2/3/8'>Exod. 3:8</a>; <a href='/AIV/1/15/18-21'>Gen. 15:18-21</a>",
@@ -214,11 +131,6 @@
     },
     {
       "pk": 2003018,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 3,
       "verse": 18,
       "text": "They will listen to your voice, and you and the elders of Israel shall go to the king of Egypt and say to him, 'The LORD, the God of the Hebrews, has met with us. So now, please let us go a three days' journey into the wilderness, that we may sacrifice to the LORD our God.'",
       "links": "<a href='/AIV/2/5/3'>Exod. 5:3</a>; <a href='/AIV/2/7/16'>Exod. 7:16</a>",
@@ -226,11 +138,6 @@
     },
     {
       "pk": 2003019,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 3,
       "verse": 19,
       "text": "But I know that the king of Egypt will not let you go unless compelled by a mighty hand.",
       "links": "<a href='/AIV/2/7/4'>Exod. 7:4</a>",
@@ -238,11 +145,6 @@
     },
     {
       "pk": 2003020,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 3,
       "verse": 20,
       "text": "So I will stretch out my hand and strike Egypt with all the wonders that I will do in its midst. After that, he will let you go.",
       "links": "<a href='/AIV/2/6/1'>Exod. 6:1</a>; <a href='/AIV/2/7/17'>Exod. 7:17</a>",
@@ -250,11 +152,6 @@
     },
     {
       "pk": 2003021,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 3,
       "verse": 21,
       "text": "And I will make the Egyptians favorably disposed toward this people, so that when you go, you will not leave empty-handed.",
       "links": "<a href='/AIV/2/11/2'>Exod. 11:2</a>; <a href='/AIV/2/12/35-36'>Exod. 12:35-36</a>",
@@ -262,38 +159,10 @@
     },
     {
       "pk": 2003022,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 3,
       "verse": 22,
       "text": "Every woman shall ask of her neighbor, and of any woman living in her house, for articles of silver and gold, and for clothing. You will put them on your sons and your daughters, so you will plunder the Egyptians.'",
       "links": "<a href='/AIV/2/12/36'>Exod. 12:36</a>; <a href='/AIV/1/15/14'>Gen. 15:14</a>",
       "comment": "The plundering of Egypt fulfills God’s promise and symbolizes the victory of God's people over oppression. The detail of women leading this act highlights the active role of all members of the faith community in receiving God's promises."
-    }
-  ],
-  "translatedAt": "2025-12-24T00:48:16.893Z",
-  "sections": [
-    {
-      "title": "The Burning Bush",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "The Call of Moses",
-      "startVerse": 7,
-      "endVerse": 12
-    },
-    {
-      "title": "The Divine Name Revealed",
-      "startVerse": 13,
-      "endVerse": 15
-    },
-    {
-      "title": "Instructions for Moses",
-      "startVerse": 16,
-      "endVerse": 22
     }
   ]
 }

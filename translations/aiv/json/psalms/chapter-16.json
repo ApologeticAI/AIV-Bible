@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 16,
   "verses": [
     {
       "pk": 23016001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 16,
       "verse": 1,
       "text": "Protect me, O God, for in You I take refuge.",
       "links": "<a href='/AIV/19/7/1'>Ps. 7:1</a>; <a href='/AIV/19/17/7'>Ps. 17:7</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23016002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 16,
       "verse": 2,
       "text": "I said to the LORD, 'You are my Lord; I have no good apart from You.'",
       "links": "<a href='/AIV/19/73/25'>Ps. 73:25</a>; <a href='/AIV/41/10/18'>Mark 10:18</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23016003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 16,
       "verse": 3,
       "text": "As for the saints who are in the land, they are the noble ones in whom is all my delight.",
       "links": "<a href='/AIV/19/34/9'>Ps. 34:9</a>; <a href='/AIV/19/119/63'>Ps. 119:63</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23016004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 16,
       "verse": 4,
       "text": "Those who run after other gods multiply their sorrows; I will not pour out their drink offerings of blood, nor take their names on my lips.",
       "links": "<a href='/AIV/05/32/16-17'>Deut. 32:16-17</a>; <a href='/AIV/19/106/37-38'>Ps. 106:37-38</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23016005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 16,
       "verse": 5,
       "text": "The LORD is my portion and my cup; You hold my lot.",
       "links": "<a href='/AIV/19/73/26'>Ps. 73:26</a>; <a href='/AIV/25/3/24'>Lam. 3:24</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23016006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 16,
       "verse": 6,
       "text": "The boundary lines have fallen for me in pleasant places; yes, I have a delightful inheritance.",
       "links": "<a href='/AIV/06/19/9'>Josh. 19:9</a>; <a href='/AIV/19/78/55'>Ps. 78:55</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23016007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 16,
       "verse": 7,
       "text": "I will bless the LORD who gives me counsel; even at night my heart instructs me.",
       "links": "<a href='/AIV/19/42/8'>Ps. 42:8</a>; <a href='/AIV/19/119/11'>Ps. 119:11</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 23016008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 16,
       "verse": 8,
       "text": "I have set the LORD always before me; because He is at my right hand, I will not be shaken.",
       "links": "<a href='/AIV/19/121/5-6'>Ps. 121:5-6</a>; <a href='/AIV/44/2/25'>Acts 2:25</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 23016009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 16,
       "verse": 9,
       "text": "Therefore my heart is glad, and my whole being rejoices; my flesh also dwells secure.",
       "links": "<a href='/AIV/19/4/7-8'>Ps. 4:7-8</a>; <a href='/AIV/44/2/26'>Acts 2:26</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 23016010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 16,
       "verse": 10,
       "text": "For You will not abandon my soul to Sheol, nor will You let Your Holy One see decay.",
       "links": "<a href='/AIV/19/49/15'>Ps. 49:15</a>; <a href='/AIV/44/2/27'>Acts 2:27</a>; <a href='/AIV/44/13/35'>Acts 13:35</a>",
@@ -128,28 +80,10 @@
     },
     {
       "pk": 23016011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 16,
       "verse": 11,
       "text": "You make known to me the path of life; in Your presence there is fullness of joy; at Your right hand are pleasures forevermore.",
       "links": "<a href='/AIV/19/21/6'>Ps. 21:6</a>; <a href='/AIV/19/36/8-9'>Ps. 36:8-9</a>; <a href='/AIV/43/14/6'>John 14:6</a>",
       "comment": "The path of life, fullness of joy, and everlasting pleasures are the promises given to those who dwell in God’s presence. This finds its deepest meaning in eternal life with Christ, sustained by a living relationship through the sacraments and prayer."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:03:24.771Z",
-  "sections": [
-    {
-      "title": "A Prayer of Trust in God",
-      "startVerse": 1,
-      "endVerse": 8
-    },
-    {
-      "title": "The Hope of Eternal Life",
-      "startVerse": 9,
-      "endVerse": 11
     }
   ]
 }

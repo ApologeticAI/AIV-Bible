@@ -1,16 +1,13 @@
 {
-  "book": 68,
+  "translation": "AIV",
+  "bookId": "2-peter",
   "bookName": "2 Peter",
-  "bookAbbreviation": "2Pet",
+  "bookAbbreviation": "2 Pet",
+  "bookNumber": 68,
   "chapter": 2,
   "verses": [
     {
       "pk": 68002001,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 2,
       "verse": 1,
       "text": "But there were also false prophets among the people, just as there will be false teachers among you. They will secretly bring in destructive heresies, even denying the Master who bought them, bringing swift destruction on themselves.",
       "links": "<a href='/AIV/24/23/16'>Jer. 23:16</a>; <a href='/AIV/40/24/24'>Matt. 24:24</a>; <a href='/AIV/45/16/18'>Rom. 16:18</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 68002002,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 2,
       "verse": 2,
       "text": "Many will follow their depraved ways, and because of them the way of truth will be maligned.",
       "links": "<a href='/AIV/45/2/24'>Rom. 2:24</a>; <a href='/AIV/44/19/9'>Acts 19:9</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 68002003,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 2,
       "verse": 3,
       "text": "In their greed they will exploit you with deceptive words. Their condemnation has long been hanging over them, and their destruction is not sleeping.",
       "links": "<a href='/AIV/54/6/5'>1 Tim. 6:5</a>; <a href='/AIV/65/1/4'>Jude 4</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 68002004,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 2,
       "verse": 4,
       "text": "For if God did not spare the angels when they sinned, but cast them into gloomy pits of darkness, keeping them for judgment;",
       "links": "<a href='/AIV/01/6/4'>Gen. 6:4</a>; <a href='/AIV/65/1/6'>Jude 6</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 68002005,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 2,
       "verse": 5,
       "text": "And if He did not spare the ancient world, but protected Noah, a preacher of righteousness, along with seven others, when He brought a flood upon the world of the ungodly;",
       "links": "<a href='/AIV/01/7/23'>Gen. 7:23</a>; <a href='/AIV/01/6/9'>Gen. 6:9</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 68002006,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 2,
       "verse": 6,
       "text": "And if He condemned the cities of Sodom and Gomorrah to destruction, reducing them to ashes, making them an example to those who would live ungodly lives in the future;",
       "links": "<a href='/AIV/01/19/24-25'>Gen. 19:24-25</a>; <a href='/AIV/65/1/7'>Jude 7</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 68002007,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 2,
       "verse": 7,
       "text": "And if He rescued righteous Lot, who was distressed by the filthy conduct of lawless men,",
       "links": "<a href='/AIV/01/19/16'>Gen. 19:16</a>; <a href='/AIV/61/1/9'>2 Pet. 1:9</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 68002008,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 2,
       "verse": 8,
       "text": "(for that righteous man, living among them, was tormented day after day in his soul by their lawless deeds),",
       "links": "<a href='/AIV/01/13/13'>Gen. 13:13</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 68002009,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 2,
       "verse": 9,
       "text": "then the Lord knows how to rescue the godly from trials and to keep the unrighteous under punishment for the day of judgment,",
       "links": "<a href='/AIV/19/34/19'>Ps. 34:19</a>; <a href='/AIV/40/13/41-42'>Matt. 13:41-42</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 68002010,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 2,
       "verse": 10,
       "text": "especially those who follow the corrupt desires of the flesh and despise authority. Bold and arrogant, they are not afraid to insult glorious beings.",
       "links": "<a href='/AIV/65/1/8'>Jude 8</a>; <a href='/AIV/45/13/1-2'>Rom. 13:1-2</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 68002011,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 2,
       "verse": 11,
       "text": "Yet even angels, though greater in strength and power, do not bring abusive judgment against them before the Lord.",
       "links": "<a href='/AIV/19/103/20'>Ps. 103:20</a>; <a href='/AIV/65/1/9'>Jude 9</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 68002012,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 2,
       "verse": 12,
       "text": "But these people, like irrational animals born to be caught and destroyed, slander what they do not understand, and in their destruction they will also perish.",
       "links": "<a href='/AIV/65/1/10'>Jude 10</a>; <a href='/AIV/20/10/21'>Prov. 10:21</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 68002013,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 2,
       "verse": 13,
       "text": "They will be paid back with harm for the harm they have done. They consider it pleasure to carouse during the daytime. They are stains and blemishes, reveling in their deception while they feast with you.",
       "links": "<a href='/AIV/65/1/12'>Jude 12</a>; <a href='/AIV/46/11/20-22'>1 Cor. 11:20-22</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 68002014,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 2,
       "verse": 14,
       "text": "With eyes full of adultery, they never stop sinning; they seduce unstable souls. Their hearts are trained in greed. They are accursed children.",
       "links": "<a href='/AIV/40/5/28'>Matt. 5:28</a>; <a href='/AIV/61/3/16'>2 Pet. 3:16</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 68002015,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 2,
       "verse": 15,
       "text": "They have abandoned the right way and gone astray, following the way of Balaam son of Beor, who loved the wages of wickedness.",
       "links": "<a href='/AIV/04/22/7'>Num. 22:7</a>; <a href='/AIV/65/1/11'>Jude 11</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 68002016,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 2,
       "verse": 16,
       "text": "But Balaam was rebuked for his wrongdoing by a mute donkey speaking with a human voice, which restrained the prophet’s madness.",
       "links": "<a href='/AIV/04/22/28-30'>Num. 22:28-30</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 68002017,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 2,
       "verse": 17,
       "text": "These people are springs without water and mists driven by a storm. The deepest darkness has been reserved for them.",
       "links": "<a href='/AIV/24/2/13'>Jer. 2:13</a>; <a href='/AIV/65/1/13'>Jude 13</a>",
@@ -214,11 +131,6 @@
     },
     {
       "pk": 68002018,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 2,
       "verse": 18,
       "text": "For they boast with empty, arrogant words, and by sensuous desires of the flesh they entice those who are barely escaping from those who live in error.",
       "links": "<a href='/AIV/65/1/16'>Jude 16</a>; <a href='/AIV/45/16/18'>Rom. 16:18</a>",
@@ -226,11 +138,6 @@
     },
     {
       "pk": 68002019,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 2,
       "verse": 19,
       "text": "They promise them freedom, but they themselves are slaves of corruption. For a person is a slave to whatever has mastered them.",
       "links": "<a href='/AIV/43/8/34'>John 8:34</a>; <a href='/AIV/45/6/16'>Rom. 6:16</a>",
@@ -238,11 +145,6 @@
     },
     {
       "pk": 68002020,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 2,
       "verse": 20,
       "text": "For if, after escaping the corruptions of the world through knowing our Lord and Savior Jesus Christ, they are again entangled and overcome, their final state is worse than the first.",
       "links": "<a href='/AIV/40/12/43-45'>Matt. 12:43-45</a>; <a href='/AIV/58/6/4-6'>Heb. 6:4-6</a>",
@@ -250,11 +152,6 @@
     },
     {
       "pk": 68002021,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 2,
       "verse": 21,
       "text": "For it would have been better for them not to have known the way of righteousness than, having known it, to turn away from the holy command delivered to them.",
       "links": "<a href='/AIV/40/11/24'>Matt. 11:24</a>; <a href='/AIV/61/1/3'>2 Pet. 1:3</a>",
@@ -262,38 +159,10 @@
     },
     {
       "pk": 68002022,
-      "translation": "AIV",
-      "book": 68,
-      "bookName": "2 Peter",
-      "bookAbbreviation": "2Pet",
-      "chapter": 2,
       "verse": 22,
       "text": "But what has happened to them confirms the truth of this proverb: \"A dog returns to its own vomit,\" and, \"A washed pig returns to wallowing in the mud.\"",
       "links": "<a href='/AIV/20/26/11'>Prov. 26:11</a>; <a href='/AIV/40/7/6'>Matt. 7:6</a>",
       "comment": "Peter closes with vivid Proverbs to show the tragic repetition of sin. This illustrates the depth of the human condition and the urgent necessity of striving for holiness and remaining steadfast in the community established by Christ."
-    }
-  ],
-  "translatedAt": "2025-12-24T12:29:16.133Z",
-  "sections": [
-    {
-      "title": "False Prophets and Their Destruction",
-      "startVerse": 1,
-      "endVerse": 3
-    },
-    {
-      "title": "Examples of Judgment and Deliverance",
-      "startVerse": 4,
-      "endVerse": 9
-    },
-    {
-      "title": "Characteristics of the False Teachers",
-      "startVerse": 10,
-      "endVerse": 16
-    },
-    {
-      "title": "The Downfall of the Apostates",
-      "startVerse": 17,
-      "endVerse": 22
     }
   ]
 }

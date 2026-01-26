@@ -1,16 +1,13 @@
 {
-  "book": 58,
+  "translation": "AIV",
+  "bookId": "colossians",
   "bookName": "Colossians",
   "bookAbbreviation": "Col",
+  "bookNumber": 58,
   "chapter": 4,
   "verses": [
     {
       "pk": 58004001,
-      "translation": "AIV",
-      "book": 58,
-      "bookName": "Colossians",
-      "bookAbbreviation": "Col",
-      "chapter": 4,
       "verse": 1,
       "text": "Masters, treat your slaves with justice and fairness, knowing that you also have a Master in heaven.",
       "links": "<a href='/AIV/51/3/22'>Col. 3:22</a>; <a href='/AIV/49/6/9'>Eph. 6:9</a>",
@@ -18,11 +15,6 @@
     },
     {
       "pk": 58004002,
-      "translation": "AIV",
-      "book": 58,
-      "bookName": "Colossians",
-      "bookAbbreviation": "Col",
-      "chapter": 4,
       "verse": 2,
       "text": "Devote yourselves to prayer, being watchful and thankful.",
       "links": "<a href='/AIV/52/5/17'>1 Thess. 5:17</a>; <a href='/AIV/41/14/38'>Mark 14:38</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 58004003,
-      "translation": "AIV",
-      "book": 58,
-      "bookName": "Colossians",
-      "bookAbbreviation": "Col",
-      "chapter": 4,
       "verse": 3,
       "text": "Pray also for us, that God may open a door for the word, to proclaim the mystery of Christ, for which I am in chains.",
       "links": "<a href='/AIV/49/6/19'>Eph. 6:19-20</a>; <a href='/AIV/46/2/7'>1 Cor. 2:7</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 58004004,
-      "translation": "AIV",
-      "book": 58,
-      "bookName": "Colossians",
-      "bookAbbreviation": "Col",
-      "chapter": 4,
       "verse": 4,
       "text": "Pray that I may declare it clearly, as I should.",
       "links": "<a href='/AIV/46/2/1'>1 Cor. 2:1</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 58004005,
-      "translation": "AIV",
-      "book": 58,
-      "bookName": "Colossians",
-      "bookAbbreviation": "Col",
-      "chapter": 4,
       "verse": 5,
       "text": "Walk in wisdom toward outsiders, making the most of every opportunity.",
       "links": "<a href='/AIV/51/1/10'>Col. 1:10</a>; <a href='/AIV/49/5/15'>Eph. 5:15-16</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 58004006,
-      "translation": "AIV",
-      "book": 58,
-      "bookName": "Colossians",
-      "bookAbbreviation": "Col",
-      "chapter": 4,
       "verse": 6,
       "text": "Let your speech always be gracious, seasoned with salt, so that you may know how you ought to answer each person.",
       "links": "<a href='/AIV/40/5/13'>Matt. 5:13</a>; <a href='/AIV/60/3/15'>1 Pet. 3:15</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 58004007,
-      "translation": "AIV",
-      "book": 58,
-      "bookName": "Colossians",
-      "bookAbbreviation": "Col",
-      "chapter": 4,
       "verse": 7,
       "text": "Tychicus, our beloved brother, faithful minister and fellow servant in the Lord, will tell you everything about me.",
       "links": "<a href='/AIV/44/20/4'>Acts 20:4</a>; <a href='/AIV/49/6/21'>Eph. 6:21</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 58004008,
-      "translation": "AIV",
-      "book": 58,
-      "bookName": "Colossians",
-      "bookAbbreviation": "Col",
-      "chapter": 4,
       "verse": 8,
       "text": "I have sent him to you for this very purpose, that you may know how we are and that he may encourage your hearts.",
       "links": "<a href='/AIV/49/6/22'>Eph. 6:22</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 58004009,
-      "translation": "AIV",
-      "book": 58,
-      "bookName": "Colossians",
-      "bookAbbreviation": "Col",
-      "chapter": 4,
       "verse": 9,
       "text": "He is coming with Onesimus, the faithful and beloved brother, who is one of you. They will tell you everything happening here.",
       "links": "<a href='/AIV/57/1/10'>Philem. 1:10-12</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 58004010,
-      "translation": "AIV",
-      "book": 58,
-      "bookName": "Colossians",
-      "bookAbbreviation": "Col",
-      "chapter": 4,
       "verse": 10,
       "text": "Aristarchus, my fellow prisoner, greets you, and Mark, the cousin of Barnabas (about whom you have received instructions—if he comes to you, welcome him).",
       "links": "<a href='/AIV/44/19/29'>Acts 19:29</a>; <a href='/AIV/44/15/37'>Acts 15:37-39</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 58004011,
-      "translation": "AIV",
-      "book": 58,
-      "bookName": "Colossians",
-      "bookAbbreviation": "Col",
-      "chapter": 4,
       "verse": 11,
       "text": "And Jesus who is called Justus greets you. These are the only men of the circumcision among my fellow workers for the kingdom of God, and they have been a comfort to me.",
       "links": "<a href='/AIV/51/1/13'>Col. 1:13</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 58004012,
-      "translation": "AIV",
-      "book": 58,
-      "bookName": "Colossians",
-      "bookAbbreviation": "Col",
-      "chapter": 4,
       "verse": 12,
       "text": "Epaphras, who is one of you, a servant of Christ Jesus, greets you. He is always wrestling for you in his prayers, so that you may stand mature and fully assured in everything God wills.",
       "links": "<a href='/AIV/51/1/7'>Col. 1:7</a>; <a href='/AIV/45/15/30'>Rom. 15:30</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 58004013,
-      "translation": "AIV",
-      "book": 58,
-      "bookName": "Colossians",
-      "bookAbbreviation": "Col",
-      "chapter": 4,
       "verse": 13,
       "text": "I bear him witness that he works hard for you, and for those in Laodicea and in Hierapolis.",
       "links": "<a href='/AIV/66/3/14'>Rev. 3:14</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 58004014,
-      "translation": "AIV",
-      "book": 58,
-      "bookName": "Colossians",
-      "bookAbbreviation": "Col",
-      "chapter": 4,
       "verse": 14,
       "text": "Luke, the beloved physician, and Demas greet you.",
       "links": "<a href='/AIV/55/4/11'>2 Tim. 4:11</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 58004015,
-      "translation": "AIV",
-      "book": 58,
-      "bookName": "Colossians",
-      "bookAbbreviation": "Col",
-      "chapter": 4,
       "verse": 15,
       "text": "Give my greetings to the brothers at Laodicea, and to Nympha and the church that meets in her house.",
       "links": "<a href='/AIV/46/16/19'>1 Cor. 16:19</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 58004016,
-      "translation": "AIV",
-      "book": 58,
-      "bookName": "Colossians",
-      "bookAbbreviation": "Col",
-      "chapter": 4,
       "verse": 16,
       "text": "And when this letter is read among you, see that it is also read in the church of the Laodiceans; and that you likewise read the letter from Laodicea.",
       "links": "<a href='/AIV/66/3/14'>Rev. 3:14</a>; <a href='/AIV/52/5/27'>1 Thess. 5:27</a>",
@@ -200,11 +122,6 @@
     },
     {
       "pk": 58004017,
-      "translation": "AIV",
-      "book": 58,
-      "bookName": "Colossians",
-      "bookAbbreviation": "Col",
-      "chapter": 4,
       "verse": 17,
       "text": "Say to Archippus, 'See to it that you fulfill the ministry you have received in the Lord.'",
       "links": "<a href='/AIV/57/1/2'>Philem. 1:2</a>",
@@ -212,28 +129,10 @@
     },
     {
       "pk": 58004018,
-      "translation": "AIV",
-      "book": 58,
-      "bookName": "Colossians",
-      "bookAbbreviation": "Col",
-      "chapter": 4,
       "verse": 18,
       "text": "I, Paul, write this greeting with my own hand. Remember my chains. Grace be with you.",
       "links": "<a href='/AIV/46/16/21'>1 Cor. 16:21</a>; <a href='/AIV/47/13/14'>2 Cor. 13:14</a>",
       "comment": "Paul’s personal signature and mention of his chains authenticates the letter and emphasizes the cost of apostolic leadership. The final benediction invokes grace—a spiritual favor obtained through prayer and sacramental life."
-    }
-  ],
-  "translatedAt": "2025-12-24T12:07:31.696Z",
-  "sections": [
-    {
-      "title": "Exhortations to Prayer and Conduct",
-      "startVerse": 2,
-      "endVerse": 6
-    },
-    {
-      "title": "Final Greetings",
-      "startVerse": 7,
-      "endVerse": 18
     }
   ]
 }

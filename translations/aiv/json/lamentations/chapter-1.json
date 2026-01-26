@@ -1,16 +1,13 @@
 {
-  "book": 31,
+  "translation": "AIV",
+  "bookId": "lamentations",
   "bookName": "Lamentations",
   "bookAbbreviation": "Lam",
+  "bookNumber": 31,
   "chapter": 1,
   "verses": [
     {
       "pk": 31001001,
-      "translation": "AIV",
-      "book": 31,
-      "bookName": "Lamentations",
-      "bookAbbreviation": "Lam",
-      "chapter": 1,
       "verse": 1,
       "text": "How lonely sits the city, once full of people! She has become like a widow, she who was great among the nations; the princess among the provinces has become a slave.",
       "links": "<a href='/AIV/23/1/21'>Isa. 1:21</a>; <a href='/AIV/24/7/34'>Jer. 7:34</a>; <a href='/AIV/23/47/8'>Isa. 47:8</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 31001002,
-      "translation": "AIV",
-      "book": 31,
-      "bookName": "Lamentations",
-      "bookAbbreviation": "Lam",
-      "chapter": 1,
       "verse": 2,
       "text": "She weeps bitterly in the night, and her tears are on her cheeks; among all her lovers, she has none to comfort her. All her friends have betrayed her; they have become her enemies.",
       "links": "<a href='/AIV/19/137/1'>Ps. 137:1</a>; <a href='/AIV/24/4/30'>Jer. 4:30</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 31001003,
-      "translation": "AIV",
-      "book": 31,
-      "bookName": "Lamentations",
-      "bookAbbreviation": "Lam",
-      "chapter": 1,
       "verse": 3,
       "text": "Judah has gone into exile because of affliction and harsh servitude; she now dwells among the nations, but finds no rest. All her pursuers have overtaken her in the midst of distress.",
       "links": "<a href='/AIV/24/52/27'>Jer. 52:27</a>; <a href='/AIV/05/28/65'>Deut. 28:65</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 31001004,
-      "translation": "AIV",
-      "book": 31,
-      "bookName": "Lamentations",
-      "bookAbbreviation": "Lam",
-      "chapter": 1,
       "verse": 4,
       "text": "The roads to Zion mourn, for no one comes to the appointed festivals. All her gates are desolate, her priests groan, her virgins grieve, and she is in bitter distress.",
       "links": "<a href='/AIV/19/42/4'>Ps. 42:4</a>; <a href='/AIV/24/14/2'>Jer. 14:2</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 31001005,
-      "translation": "AIV",
-      "book": 31,
-      "bookName": "Lamentations",
-      "bookAbbreviation": "Lam",
-      "chapter": 1,
       "verse": 5,
       "text": "Her adversaries have become her masters; her enemies prosper, for the LORD has afflicted her because of the multitude of her sins. Her children have gone away as captives before the foe.",
       "links": "<a href='/AIV/24/13/21'>Jer. 13:21</a>; <a href='/AIV/24/50/17'>Jer. 50:17</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 31001006,
-      "translation": "AIV",
-      "book": 31,
-      "bookName": "Lamentations",
-      "bookAbbreviation": "Lam",
-      "chapter": 1,
       "verse": 6,
       "text": "All the majesty has departed from daughter Zion. Her leaders have become like deer that find no pasture; they flee without strength before the pursuer.",
       "links": "<a href='/AIV/24/23/1-2'>Jer. 23:1-2</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 31001007,
-      "translation": "AIV",
-      "book": 31,
-      "bookName": "Lamentations",
-      "bookAbbreviation": "Lam",
-      "chapter": 1,
       "verse": 7,
       "text": "In the days of her affliction and wandering, Jerusalem remembers all her precious things that were hers from days of old. When her people fell into the hand of the foe, there was no one to help her. Her enemies looked at her, mocked over her downfall.",
       "links": "<a href='/AIV/19/137/7'>Ps. 137:7</a>; <a href='/AIV/24/30/14'>Jer. 30:14</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 31001008,
-      "translation": "AIV",
-      "book": 31,
-      "bookName": "Lamentations",
-      "bookAbbreviation": "Lam",
-      "chapter": 1,
       "verse": 8,
       "text": "Jerusalem has sinned greatly; therefore she has become unclean. All who honored her now despise her, for they have seen her nakedness; she herself groans and turns away.",
       "links": "<a href='/AIV/23/3/9'>Isa. 3:9</a>; <a href='/AIV/28/2/10'>Hos. 2:10</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 31001009,
-      "translation": "AIV",
-      "book": 31,
-      "bookName": "Lamentations",
-      "bookAbbreviation": "Lam",
-      "chapter": 1,
       "verse": 9,
       "text": "Her filthiness was in her skirts; she did not consider her future. Therefore her fall is astonishing; she has no comforter. 'O LORD, see my affliction, for the enemy has triumphed!'",
       "links": "<a href='/AIV/05/32/29'>Deut. 32:29</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 31001010,
-      "translation": "AIV",
-      "book": 31,
-      "bookName": "Lamentations",
-      "bookAbbreviation": "Lam",
-      "chapter": 1,
       "verse": 10,
       "text": "The enemy has stretched out his hands over all her precious things, for she has seen nations enter her sanctuary—those whom you commanded not to enter your assembly.",
       "links": "<a href='/AIV/25/4/12'>Lam. 4:12</a>; <a href='/AIV/05/23/3'>Deut. 23:3</a>",
@@ -127,11 +79,6 @@
     },
     {
       "pk": 31001011,
-      "translation": "AIV",
-      "book": 31,
-      "bookName": "Lamentations",
-      "bookAbbreviation": "Lam",
-      "chapter": 1,
       "verse": 11,
       "text": "All her people groan as they search for bread; they trade their treasures for food to revive their strength. 'Look, O LORD, and see, for I am despised.'",
       "links": "<a href='/AIV/24/38/9'>Jer. 38:9</a>; <a href='/AIV/19/69/19'>Ps. 69:19</a>",
@@ -139,11 +86,6 @@
     },
     {
       "pk": 31001012,
-      "translation": "AIV",
-      "book": 31,
-      "bookName": "Lamentations",
-      "bookAbbreviation": "Lam",
-      "chapter": 1,
       "verse": 12,
       "text": "Is it nothing to you, all who pass by? Look and see if there is any sorrow like my sorrow, which was brought upon me, which the LORD inflicted on the day of his fierce anger.",
       "links": "<a href='/AIV/23/53/4'>Isa. 53:4</a>; <a href='/AIV/19/22/1'>Ps. 22:1</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 31001013,
-      "translation": "AIV",
-      "book": 31,
-      "bookName": "Lamentations",
-      "bookAbbreviation": "Lam",
-      "chapter": 1,
       "verse": 13,
       "text": "From on high he sent fire into my bones, and it overwhelmed them; he spread a net for my feet; he turned me back; he has left me desolate, faint all day long.",
       "links": "<a href='/AIV/18/30/30'>Job 30:30</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 31001014,
-      "translation": "AIV",
-      "book": 31,
-      "bookName": "Lamentations",
-      "bookAbbreviation": "Lam",
-      "chapter": 1,
       "verse": 14,
       "text": "My transgressions were bound into a yoke; by his hand they were fastened together; they weigh on my neck. He has made my strength fail; the Lord handed me over to those whom I cannot withstand.",
       "links": "<a href='/AIV/05/28/48'>Deut. 28:48</a>; <a href='/AIV/23/10/27'>Isa. 10:27</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 31001015,
-      "translation": "AIV",
-      "book": 31,
-      "bookName": "Lamentations",
-      "bookAbbreviation": "Lam",
-      "chapter": 1,
       "verse": 15,
       "text": "The Lord has rejected all my mighty men in my midst; he has summoned an assembly against me to crush my young men. The Lord has trampled the virgin daughter of Judah like grapes in a winepress.",
       "links": "<a href='/AIV/23/63/3'>Isa. 63:3</a>; <a href='/AIV/25/2/2'>Lam. 2:2</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 31001016,
-      "translation": "AIV",
-      "book": 31,
-      "bookName": "Lamentations",
-      "bookAbbreviation": "Lam",
-      "chapter": 1,
       "verse": 16,
       "text": "For these things I weep; my eyes overflow with tears; for a comforter is far from me, one who might revive my spirit; my children are desolate, for the enemy has prevailed.",
       "links": "<a href='/AIV/25/2/11'>Lam. 2:11</a>; <a href='/AIV/19/119/82'>Ps. 119:82</a>",
@@ -200,11 +122,6 @@
     },
     {
       "pk": 31001017,
-      "translation": "AIV",
-      "book": 31,
-      "bookName": "Lamentations",
-      "bookAbbreviation": "Lam",
-      "chapter": 1,
       "verse": 17,
       "text": "Zion stretches out her hands; but there is no one to comfort her. The LORD has commanded concerning Jacob that his neighbors should become his adversaries; Jerusalem has become an unclean thing among them.",
       "links": "<a href='/AIV/19/79/4'>Ps. 79:4</a>",
@@ -212,11 +129,6 @@
     },
     {
       "pk": 31001018,
-      "translation": "AIV",
-      "book": 31,
-      "bookName": "Lamentations",
-      "bookAbbreviation": "Lam",
-      "chapter": 1,
       "verse": 18,
       "text": "'The LORD is righteous, for I have rebelled against his word; listen, all you peoples, and see my suffering; my young women and young men have gone into captivity.'",
       "links": "<a href='/AIV/19/119/137'>Ps. 119:137</a>; <a href='/AIV/24/36/31'>Jer. 36:31</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 31001019,
-      "translation": "AIV",
-      "book": 31,
-      "bookName": "Lamentations",
-      "bookAbbreviation": "Lam",
-      "chapter": 1,
       "verse": 19,
       "text": "I called to my lovers, but they deceived me; my priests and elders perished in the city, while they sought food to revive their own strength.",
       "links": "<a href='/AIV/24/52/6'>Jer. 52:6</a>; <a href='/AIV/25/2/20'>Lam. 2:20</a>",
@@ -237,11 +144,6 @@
     },
     {
       "pk": 31001020,
-      "translation": "AIV",
-      "book": 31,
-      "bookName": "Lamentations",
-      "bookAbbreviation": "Lam",
-      "chapter": 1,
       "verse": 20,
       "text": "Look, O LORD, for I am in distress; my stomach churns; my heart is wrung within me, because I have been very rebellious. In the street the sword bereaves; in the house it is like death.",
       "links": "<a href='/AIV/25/2/11'>Lam. 2:11</a>; <a href='/AIV/23/1/5'>Isa. 1:5</a>",
@@ -249,11 +151,6 @@
     },
     {
       "pk": 31001021,
-      "translation": "AIV",
-      "book": 31,
-      "bookName": "Lamentations",
-      "bookAbbreviation": "Lam",
-      "chapter": 1,
       "verse": 21,
       "text": "They have heard my groaning, but there is no one to comfort me. All my enemies have heard of my trouble; they are glad that you have done it. You have brought the day you announced; now let them become as I am.",
       "links": "<a href='/AIV/24/17/18'>Jer. 17:18</a>; <a href='/AIV/18/16/2'>Job 16:2</a>",
@@ -261,33 +158,10 @@
     },
     {
       "pk": 31001022,
-      "translation": "AIV",
-      "book": 31,
-      "bookName": "Lamentations",
-      "bookAbbreviation": "Lam",
-      "chapter": 1,
       "verse": 22,
       "text": "Let all their evil come before you; and deal with them as you have dealt with me because of all my transgressions; for my groans are many, and my heart is faint.",
       "links": "<a href='/AIV/19/94/2'>Ps. 94:2</a>",
       "comment": "The chapter closes with a prayer for justice and acknowledgment of personal guilt—a reminder of God's readiness to forgive those who confess and turn back to Him through the means He provides."
-    }
-  ],
-  "translatedAt": "2025-12-24T08:52:06.894Z",
-  "sections": [
-    {
-      "title": "The Desolation of Jerusalem",
-      "startVerse": 1,
-      "endVerse": 11
-    },
-    {
-      "title": "Jerusalem Laments Her Suffering",
-      "startVerse": 12,
-      "endVerse": 17
-    },
-    {
-      "title": "A Plea for Divine Justice",
-      "startVerse": 18,
-      "endVerse": 22
     }
   ]
 }

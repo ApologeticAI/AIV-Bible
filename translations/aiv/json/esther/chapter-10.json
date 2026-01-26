@@ -1,23 +1,64 @@
 {
-  "book": 19,
+  "translation": "AIV",
+  "bookId": "esther",
   "bookName": "Esther",
-  "bookAbbreviation": "Esth",
+  "bookAbbreviation": "Est",
+  "bookNumber": 17,
   "chapter": 10,
-  "sections": [
-    {
-      "title": "The Greatness of Mordecai",
-      "startVerse": 1,
-      "endVerse": 13
-    }
-  ],
   "verses": [
     {
+      "pk": 1720004,
+      "verse": 4,
+      "text": "Then Mordecai said, \"God has worked these things.",
+      "sectionHeader": "ADDITION F: Interpretation of the Dream"
+    },
+    {
+      "pk": 1720005,
+      "verse": 5,
+      "text": "I remember the dream that I saw concerning these matters, and not one part of it has failed."
+    },
+    {
+      "pk": 1720006,
+      "verse": 6,
+      "text": "The little fountain became a river, and there was light, and the sun, and much water. The river is Esther, whom the king married and made queen."
+    },
+    {
+      "pk": 1720007,
+      "verse": 7,
+      "text": "But the two dragons are I and Haman."
+    },
+    {
+      "pk": 1720008,
+      "verse": 8,
+      "text": "The nations assembled to destroy the name of the Jews, but my people cried to God and were saved."
+    },
+    {
+      "pk": 1720009,
+      "verse": 9,
+      "text": "And my nation Israel, who cried out to God and were saved. The Lord has saved his people; the Lord has delivered us from all evils; God has performed great signs and wonders, which have not occurred among the nations."
+    },
+    {
+      "pk": 1720010,
+      "verse": 10,
+      "text": "For the Lord brought to pass two lots: one for the people of God, and one for all the nations."
+    },
+    {
+      "pk": 1720011,
+      "verse": 11,
+      "text": "And these two lots came to the hour and moment and day of decision before God and among all the nations."
+    },
+    {
+      "pk": 1720012,
+      "verse": 12,
+      "text": "And these days God remembered His people and rendered justice to His inheritance."
+    },
+    {
+      "pk": 1720013,
+      "verse": 13,
+      "text": "And these days will be observed in the month of Adar, on the fourteenth and fifteenth day of the month, with assembly, joy, and gladness before God, throughout all generations, among His people who are called by His name.\""
+    },
+    {
       "pk": 19010001,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 10,
       "verse": 1,
       "text": "King Ahasuerus laid tribute upon the whole land and upon the islands of the sea.",
       "links": "<a href='/AIV/17/1/1'>Esth 1:1</a>; <a href='/AIV/15/4/20'>Ezra 4:20</a>",
@@ -26,11 +67,6 @@
     },
     {
       "pk": 19010002,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 10,
       "verse": 2,
       "text": "All his acts of power and might, and the full account of Mordecai's advancement, to which the king promoted him, are they not written in the Book of the Chronicles of the kings of Media and Persia?",
       "links": "<a href='/AIV/17/2/23'>Esth 2:23</a>; <a href='/AIV/11/14/19'>1 Kgs 14:19</a>",
@@ -38,136 +74,10 @@
     },
     {
       "pk": 19010003,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 10,
       "verse": 3,
       "text": "For Mordecai the Jew was second in rank to King Ahasuerus, and great among the Jews, and held in high esteem by the multitude of his brethren. He sought the welfare of his people and spoke peace to all his nation.",
       "links": "<a href='/AIV/41/10/43-44'>Mk 10:43–44</a>; <a href='/AIV/17/8/2'>Esth 8:2</a>",
       "comment": "Mordecai's promotion to second in the kingdom reflects a unique mediation role, echoing the anticipated peace-bringers of prophecy (<a href='/AIV/23/9/6'>Isa 9:6</a>). The phrase 'spoke peace' indicates that his service to the people was not only administrative but spiritual, foreshadowing Christ who brings true peace. Similarly, the structure of the kingdom and hierarchy resonates with the later Christian understanding of ordered leadership serving the salvation of the people."
-    },
-    {
-      "pk": 19010004,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 10,
-      "verse": 4,
-      "text": "Then Mordecai said, 'God has worked these things. I remember the dream that I saw concerning these matters, and not one part of it has failed.'",
-      "links": "<a href='/AIV/17/1/1'>Esth 1:1</a>; <a href='/AIV/17/10/6'>Esth 10:6</a>",
-      "comment": "A reference to prophetic fulfillment and God's sovereignty in the affairs of His people, reminiscent of Joseph’s interpretation of dreams in Egypt (<a href='/AIV/1/41/12'>Gen 41:12</a>). Mordecai recognizes divine providence, highlighting trust in God’s guidance even in exile."
-    },
-    {
-      "pk": 19010005,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 10,
-      "verse": 5,
-      "text": "'The little fountain became a river, and there was light, and the sun, and much water. The river is Esther, whom the king married and made queen.'",
-      "links": "<a href='/AIV/17/2/17'>Esth 2:17</a>; <a href='/AIV/43/4/14'>Jn 4:14</a>",
-      "comment": "This symbolic interpretation of the dream is rich with Old Testament and New Testament imagery. The fountain, light, and water are frequent symbols of God’s grace, often used in contexts of renewal and abundant life (<a href='/AIV/43/4/14'>Jn 4:14</a>; <a href='/AIV/23/12/3'>Isa 12:3</a>). Esther as the river points to God working through humble instruments and elevating them for the salvation of His people."
-    },
-    {
-      "pk": 19010006,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 10,
-      "verse": 6,
-      "text": "'But the two dragons are I and Haman.'",
-      "links": "<a href='/AIV/17/3/1'>Esth 3:1</a>; <a href='/AIV/17/8/1'>Esth 8:1</a>",
-      "comment": "The 'dragons' refer to Mordecai and Haman, representing the struggle between good and evil, deliverance and destruction (<a href='/AIV/66/12/3-17'>Rev 12:3–17</a>). Vivid imagery like this invites readers to discern spiritual warfare behind earthly events."
-    },
-    {
-      "pk": 19010007,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 10,
-      "verse": 7,
-      "text": "'The nations assembled to destroy the name of the Jews, but my people cried to God and were saved.'",
-      "links": "<a href='/AIV/19/34/17'>Ps 34:17</a>; <a href='/AIV/19/124/2-7'>Ps 124:2–7</a>",
-      "comment": "Deliverance through prayer is a foundational biblical theme. The 'name of the Jews' points to the preservation of God’s covenant community, which finds its ultimate fulfillment in the deliverance wrought by Christ for His Church (<a href='/AIV/45/11/26-27'>Rom 11:26–27</a>)."
-    },
-    {
-      "pk": 19010008,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 10,
-      "verse": 8,
-      "text": "'For the Lord brought to pass two lots: one for the people of God, and one for all the nations.'",
-      "links": "<a href='/AIV/3/16/8-10'>Lev 16:8–10</a>; <a href='/AIV/17/3/7'>Esth 3:7</a>",
-      "comment": "The 'two lots' echo both the casting of lots for Haman's plot and the Day of Atonement ritual (<a href='/AIV/3/16/8-10'>Lev 16:8–10</a>). This dual destiny underscores God’s justice and mercy, pointing to mystery in how God brings salvation even through apparent chance."
-    },
-    {
-      "pk": 19010009,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 10,
-      "verse": 9,
-      "text": "'And these days God remembered His people and rendered justice to His inheritance.'",
-      "links": "<a href='/AIV/19/106/45'>Ps 106:45</a>; <a href='/AIV/42/1/72-75'>Lk 1:72–75</a>",
-      "comment": "Throughout Scripture, God’s act of 'remembering' signifies faithfulness to His promises. The inheritance language also applies spiritually to the Christian community chosen by God to receive His blessing."
-    },
-    {
-      "pk": 19010010,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 10,
-      "verse": 10,
-      "text": "'And these days will be observed in the month of Adar, on the fourteenth and fifteenth day of the month, with assembly, joy, and gladness before God, throughout all generations, among His people who are called by His name.'",
-      "links": "<a href='/AIV/17/9/21-22'>Esth 9:21–22</a>; <a href='/AIV/3/23/41'>Lev 23:41</a>",
-      "comment": "The institution of festival days reflects the Hebrew tradition of liturgical celebration and remembrance of God’s saving acts. There is a hint here at the importance of sacred tradition and gathering for worship, ensuring the faith is passed from generation to generation."
-    },
-    {
-      "pk": 19010011,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 10,
-      "verse": 11,
-      "text": "In the fourth year of the reign of Ptolemy and Cleopatra, Dositheus—who called himself a priest and Levite, and his son Ptolemy—brought this letter of Purim, saying it was the same that Lysimachus, the son of Ptolemy, had translated in Jerusalem.",
-      "links": "<a href='/AIV/17/9/26'>Esth 9:26</a>; <a href='/AIV/44/8/27-28'>Acts 8:27–28</a>",
-      "comment": "This note on authorship and transmission shows concern for the faithful preservation of sacred texts. The transmission of Scripture through different hands and languages hints at the universal mission and tradition of the People of God."
-    },
-    {
-      "pk": 19010012,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 10,
-      "verse": 12,
-      "text": "And God remembered his people and vindicated his inheritance.",
-      "links": "<a href='/AIV/2/2/24'>Exod. 2:24</a>; <a href='/AIV/23/106/4'>Ps. 106:4</a>; <a href='/AIV/30/31/10'>Jer. 31:10</a>",
-      "comment": "This verse highlights God's faithfulness—He 'remembered' Israel (cf. Genesis 8:1; Exodus 2:24), acting to vindicate and protect His covenant people, echoing the recurring biblical theme of divine deliverance."
-    },
-    {
-      "pk": 19010013,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 10,
-      "verse": 13,
-      "text": "So they will observe these days in the month of Adar, on the fourteenth and fifteenth of that month, with an assembly and joy and gladness before God, from generation to generation forever among his people Israel.",
-      "links": "<a href='/AIV/19/9/21'>Esth. 9:21-22</a>; <a href='/AIV/3/23/41'>Lev. 23:41</a>; <a href='/AIV/23/100/4'>Ps. 100:4</a>",
-      "comment": "The annual celebration in Adar refers to Purim (Esther 9:20-22); its observance underscores the importance of communal remembrance and joyful worship, passing God's acts of salvation to each generation (cf. Psalm 145:4)."
     }
-  ],
-  "translatedAt": "2025-12-28T06:57:05.124Z"
+  ]
 }

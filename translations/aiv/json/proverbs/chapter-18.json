@@ -1,16 +1,13 @@
 {
-  "book": 24,
+  "translation": "AIV",
+  "bookId": "proverbs",
   "bookName": "Proverbs",
   "bookAbbreviation": "Prov",
+  "bookNumber": 24,
   "chapter": 18,
   "verses": [
     {
       "pk": 24018001,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 18,
       "verse": 1,
       "text": "Whoever isolates himself seeks his own desire; he breaks out against all sound judgment.",
       "links": "<a href='/AIV/20/1/4-5'>Prov. 1:4-5</a>; <a href='/AIV/58/10/25'>Heb. 10:25</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 24018002,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 18,
       "verse": 2,
       "text": "A fool takes no pleasure in understanding, but only in expressing his own opinion.",
       "links": "<a href='/AIV/20/13/16'>Prov. 13:16</a>; <a href='/AIV/20/14/33'>Prov. 14:33</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 24018003,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 18,
       "verse": 3,
       "text": "When wickedness comes, so does contempt, and with dishonor comes disgrace.",
       "links": "<a href='/AIV/20/11/2'>Prov. 11:2</a>; <a href='/AIV/20/3/34'>Prov. 3:34</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 24018004,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 18,
       "verse": 4,
       "text": "The words of a man’s mouth are deep waters; the fountain of wisdom is a flowing stream.",
       "links": "<a href='/AIV/20/10/11'>Prov. 10:11</a>; <a href='/AIV/43/4/14'>John 4:14</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 24018005,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 18,
       "verse": 5,
       "text": "To show partiality to the wicked is not good, nor to deprive the innocent of justice.",
       "links": "<a href='/AIV/20/17/15'>Prov. 17:15</a>; <a href='/AIV/02/23/2-3'>Exod. 23:2-3</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 24018006,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 18,
       "verse": 6,
       "text": "A fool’s lips walk into strife, and his mouth invites a beating.",
       "links": "<a href='/AIV/20/19/29'>Prov. 19:29</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 24018007,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 18,
       "verse": 7,
       "text": "A fool's mouth is his ruin, and his lips are a snare to his soul.",
       "links": "<a href='/AIV/20/10/14'>Prov. 10:14</a>; <a href='/AIV/59/3/6'>James 3:6</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 24018008,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 18,
       "verse": 8,
       "text": "The words of a whisperer are like tasty morsels; they go down into the inner parts of the body.",
       "links": "<a href='/AIV/20/26/22'>Prov. 26:22</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 24018009,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 18,
       "verse": 9,
       "text": "Whoever is slack in his work is a brother to him who destroys.",
       "links": "<a href='/AIV/20/10/4'>Prov. 10:4</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 24018010,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 18,
       "verse": 10,
       "text": "The name of the LORD is a strong tower; the righteous run to it and are safe.",
       "links": "<a href='/AIV/19/61/3'>Ps. 61:3</a>; <a href='/AIV/19/91/2'>Ps. 91:2</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 24018011,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 18,
       "verse": 11,
       "text": "A rich man’s wealth is his fortified city, and like a high wall in his own imagination.",
       "links": "<a href='/AIV/20/10/15'>Prov. 10:15</a>; <a href='/AIV/19/52/7'>Ps. 52:7</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 24018012,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 18,
       "verse": 12,
       "text": "Before destruction a man's heart is haughty, but humility comes before honor.",
       "links": "<a href='/AIV/20/16/18-19'>Prov. 16:18-19</a>; <a href='/AIV/42/14/11'>Luke 14:11</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 24018013,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 18,
       "verse": 13,
       "text": "If one gives an answer before he hears, it is folly and shame.",
       "links": "<a href='/AIV/20/29/20'>Prov. 29:20</a>; <a href='/AIV/59/1/19'>James 1:19</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 24018014,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 18,
       "verse": 14,
       "text": "A man's spirit will endure sickness, but a crushed spirit who can bear?",
       "links": "<a href='/AIV/20/17/22'>Prov. 17:22</a>; <a href='/AIV/19/34/18'>Ps. 34:18</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 24018015,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 18,
       "verse": 15,
       "text": "An intelligent heart acquires knowledge, and the ear of the wise seeks knowledge.",
       "links": "<a href='/AIV/20/1/5'>Prov. 1:5</a>; <a href='/AIV/20/15/14'>Prov. 15:14</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 24018016,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 18,
       "verse": 16,
       "text": "A man's gift makes room for him and brings him before great men.",
       "links": "<a href='/AIV/01/32/20'>Gen. 32:20</a>; <a href='/AIV/20/21/14'>Prov. 21:14</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 24018017,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 18,
       "verse": 17,
       "text": "The one who states his case first seems right, until the other comes and examines him.",
       "links": "<a href='/AIV/05/19/18'>Deut. 19:18</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 24018018,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 18,
       "verse": 18,
       "text": "Casting lots puts an end to quarrels and decides between powerful contenders.",
       "links": "<a href='/AIV/20/16/33'>Prov. 16:33</a>; <a href='/AIV/44/1/26'>Acts 1:26</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 24018019,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 18,
       "verse": 19,
       "text": "A brother offended is more unyielding than a fortified city, and disputes are like the bars of a castle.",
       "links": "<a href='/AIV/20/17/14'>Prov. 17:14</a>",
@@ -237,11 +144,6 @@
     },
     {
       "pk": 24018020,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 18,
       "verse": 20,
       "text": "From the fruit of a man's mouth his stomach is filled; he is satisfied by the harvest of his lips.",
       "links": "<a href='/AIV/20/12/14'>Prov. 12:14</a>",
@@ -250,11 +152,6 @@
     },
     {
       "pk": 24018021,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 18,
       "verse": 21,
       "text": "Death and life are in the power of the tongue, and those who love it will eat its fruit.",
       "links": "<a href='/AIV/20/12/18-19'>Prov. 12:18-19</a>; <a href='/AIV/59/3/10'>James 3:10</a>",
@@ -262,11 +159,6 @@
     },
     {
       "pk": 24018022,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 18,
       "verse": 22,
       "text": "He who finds a wife finds a good thing and obtains favor from the LORD.",
       "links": "<a href='/AIV/01/2/18'>Gen. 2:18</a>; <a href='/AIV/20/31/10-12'>Prov. 31:10-12</a>",
@@ -274,11 +166,6 @@
     },
     {
       "pk": 24018023,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 18,
       "verse": 23,
       "text": "The poor use entreaties, but the rich answer harshly.",
       "links": "<a href='/AIV/20/14/31'>Prov. 14:31</a>",
@@ -286,38 +173,10 @@
     },
     {
       "pk": 24018024,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 18,
       "verse": 24,
       "text": "One with many companions may come to ruin, but there is a friend who sticks closer than a brother.",
       "links": "<a href='/AIV/20/17/17'>Prov. 17:17</a>; <a href='/AIV/43/15/13'>John 15:13</a>",
       "comment": "Faithful friendship is more valuable than mere popularity. This hints at the spiritual friend par excellence, fulfilled in the self-giving friendship of Christ (John 15:13)."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:59:44.702Z",
-  "sections": [
-    {
-      "title": "Wisdom and Folly in Speech and Conduct",
-      "startVerse": 1,
-      "endVerse": 9
-    },
-    {
-      "title": "The Name of the Lord and the Dangers of Wealth",
-      "startVerse": 10,
-      "endVerse": 14
-    },
-    {
-      "title": "Discernment and Justice in Relationships",
-      "startVerse": 15,
-      "endVerse": 19
-    },
-    {
-      "title": "The Power of Words and Companionship",
-      "startVerse": 20,
-      "endVerse": 24
     }
   ]
 }

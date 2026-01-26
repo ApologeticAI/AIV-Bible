@@ -1,16 +1,13 @@
 {
-  "book": 28,
+  "translation": "AIV",
+  "bookId": "sirach",
   "bookName": "Sirach",
   "bookAbbreviation": "Sir",
+  "bookNumber": 28,
   "chapter": 12,
   "verses": [
     {
       "pk": 28012001,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 12,
       "verse": 1,
       "text": "If you do good, understand to whom you are doing it, and you will be thanked for your kindness.",
       "links": "<a href='/AIV/20/3/27'>Prov. 3:27</a>; <a href='/AIV/47/9/7'>2 Cor. 9:7</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 28012002,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 12,
       "verse": 2,
       "text": "Do good to the righteous, and you will find a reward—if not from them, then from the Most High.",
       "links": "<a href='/AIV/19/41/1'>Ps. 41:1</a>; <a href='/AIV/40/10/42'>Matt. 10:42</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 28012003,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 12,
       "verse": 3,
       "text": "No good comes to one who always deals evil, nor to the one who refuses to give charity.",
       "links": "<a href='/AIV/19/112/10'>Ps. 112:10</a>; <a href='/AIV/59/2/13'>James 2:13</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 28012004,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 12,
       "verse": 4,
       "text": "Give to the godly, but do not help the sinner.",
       "links": "<a href='/AIV/19/1/1'>Ps. 1:1</a>; <a href='/AIV/58/13/16'>Heb. 13:16</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 28012005,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 12,
       "verse": 5,
       "text": "Do good to the humble, but do not give to the ungodly; hold back their bread, and do not give it to them, for by means of it they might subdue you; then you will receive twice as much evil for all the good you have done to them.",
       "links": "<a href='/AIV/23/1/1'>Ps. 1:1</a>; <a href='/AIV/24/24/1'>Prov. 24:1</a>; <a href='/AIV/47/7/6'>Matt. 7:6</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 28012006,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 12,
       "verse": 6,
       "text": "For the Most High also hates sinners and will inflict punishment on the ungodly.",
       "links": "<a href='/AIV/23/5/5'>Ps. 5:5</a>; <a href='/AIV/27/14/9'>Wis. 14:9</a>; <a href='/AIV/52/1/18'>Rom. 1:18</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 28012007,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 12,
       "verse": 7,
       "text": "Give to the good, but do not help sinners.",
       "links": "<a href='/AIV/20/14/7'>Prov. 14:7</a>; <a href='/AIV/48/6/10'>Gal. 6:10</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 28012008,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 12,
       "verse": 8,
       "text": "A friend cannot be known in prosperity, nor an enemy hidden in adversity.",
       "links": "<a href='/AIV/20/19/4'>Prov. 19:4</a>; <a href='/AIV/43/13/18'>John 13:18</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 28012009,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 12,
       "verse": 9,
       "text": "When one prospers, even his enemies are friendly; but in adversity, even his friends turn against him.",
       "links": "<a href='/AIV/20/14/20'>Prov. 14:20</a>; <a href='/AIV/19/41/9'>Ps. 41:9</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 28012010,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 12,
       "verse": 10,
       "text": "Never trust an enemy, for his wickedness is like corroding bronze.",
       "links": "<a href='/AIV/19/55/21'>Ps. 55:21</a>; <a href='/AIV/40/10/16'>Matt. 10:16</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 28012011,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 12,
       "verse": 11,
       "text": "Even if he humbles himself and walks bowed down, stay on guard. Be to him as one who polishes a mirror, for you will find that rust has not been removed completely.",
       "links": "<a href='/AIV/20/26/24-25'>Prov. 26:24-25</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 28012012,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 12,
       "verse": 12,
       "text": "Do not set him by your side, or he may overthrow you and take your place. Do not let him sit at your right, or he may seek your seat, and in the end you will realize my words and be pierced with regret.",
       "links": "<a href='/AIV/19/41/9'>Ps. 41:9</a>; <a href='/AIV/19/109/8'>Ps. 109:8</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 28012013,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 12,
       "verse": 13,
       "text": "Who will pity a charmer bitten by a snake, or all those who go near wild beasts?",
       "links": "<a href='/AIV/20/23/32'>Prov. 23:32</a>; <a href='/AIV/19/58/4'>Ps. 58:4</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 28012014,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 12,
       "verse": 14,
       "text": "So it is with one who goes near a sinner and becomes entangled in his sins.",
       "links": "<a href='/AIV/20/22/24-25'>Prov. 22:24-25</a>; <a href='/AIV/46/15/33'>1 Cor. 15:33</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 28012015,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 12,
       "verse": 15,
       "text": "He will remain with you for a while, but when you fall, he will not be there.",
       "links": "<a href='/AIV/20/17/17'>Prov. 17:17</a>; <a href='/AIV/19/41/9'>Ps. 41:9</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 28012016,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 12,
       "verse": 16,
       "text": "An enemy speaks sweetly with his lips, but in his heart he plans to throw you into a pit. An enemy weeps with his eyes, but if he finds an opportunity, he will never have enough of your blood.",
       "links": "<a href='/AIV/19/55/21'>Ps. 55:21</a>; <a href='/AIV/40/26/48-50'>Matt. 26:48-50</a>",
@@ -200,11 +122,6 @@
     },
     {
       "pk": 28012017,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 12,
       "verse": 17,
       "text": "If evil comes upon you, you will find him there ahead of you, pretending to help but undermining you.",
       "links": "<a href='/AIV/19/41/9'>Ps. 41:9</a>; <a href='/AIV/19/55/12-14'>Ps. 55:12-14</a>",
@@ -212,28 +129,10 @@
     },
     {
       "pk": 28012018,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 12,
       "verse": 18,
       "text": "He will shake his head and clap his hands, and whisper much, but all he means is to bring you down.",
       "links": "<a href='/AIV/19/35/15-16'>Ps. 35:15-16</a>; <a href='/AIV/19/109/25'>Ps. 109:25</a>",
       "comment": "The enemy's mockery and derision are apparent here. Christ on the Cross encountered such scorn (Ps. 35:15-16). The verse reminds believers that only steadfast communion with God and a united fellowship can overcome the snares of evil."
-    }
-  ],
-  "translatedAt": "2025-12-28T02:27:54.593Z",
-  "sections": [
-    {
-      "title": "Guidelines for Charity",
-      "startVerse": 1,
-      "endVerse": 7
-    },
-    {
-      "title": "The Deceitfulness of Enemies",
-      "startVerse": 8,
-      "endVerse": 18
     }
   ]
 }

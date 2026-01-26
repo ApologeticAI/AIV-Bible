@@ -1,16 +1,13 @@
 {
-  "book": 39,
+  "translation": "AIV",
+  "bookId": "jonah",
   "bookName": "Jonah",
   "bookAbbreviation": "Jonah",
+  "bookNumber": 39,
   "chapter": 3,
   "verses": [
     {
       "pk": 39003001,
-      "translation": "AIV",
-      "book": 39,
-      "bookName": "Jonah",
-      "bookAbbreviation": "Jonah",
-      "chapter": 3,
       "verse": 1,
       "text": "The word of the Lord came to Jonah a second time, saying:",
       "links": "<a href='/AIV/39/1/1'>Jonah 1:1</a>; <a href='/AIV/24/1/4'>Jer. 1:4</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 39003002,
-      "translation": "AIV",
-      "book": 39,
-      "bookName": "Jonah",
-      "bookAbbreviation": "Jonah",
-      "chapter": 3,
       "verse": 2,
       "text": "\"Arise, go to Nineveh, that great city, and proclaim to it the message that I tell you.\"",
       "links": "<a href='/AIV/39/1/2'>Jonah 1:2</a>; <a href='/AIV/40/28/19'>Matt. 28:19</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 39003003,
-      "translation": "AIV",
-      "book": 39,
-      "bookName": "Jonah",
-      "bookAbbreviation": "Jonah",
-      "chapter": 3,
       "verse": 3,
       "text": "So Jonah arose and went to Nineveh according to the word of the Lord. Now Nineveh was an exceedingly large city, a three days’ journey in breadth.",
       "links": "<a href='/AIV/39/1/3'>Jonah 1:3</a>; <a href='/AIV/01/10/12'>Gen. 10:12</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 39003004,
-      "translation": "AIV",
-      "book": 39,
-      "bookName": "Jonah",
-      "bookAbbreviation": "Jonah",
-      "chapter": 3,
       "verse": 4,
       "text": "Jonah began to enter the city, going a day’s journey, and he cried out, \"Yet forty days, and Nineveh will be overthrown!\"",
       "links": "<a href='/AIV/01/07/04'>Gen. 7:4</a>; <a href='/AIV/40/04/02'>Matt. 4:2</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 39003005,
-      "translation": "AIV",
-      "book": 39,
-      "bookName": "Jonah",
-      "bookAbbreviation": "Jonah",
-      "chapter": 3,
       "verse": 5,
       "text": "And the people of Nineveh believed God. They proclaimed a fast and put on sackcloth, from the greatest of them to the least.",
       "links": "<a href='/AIV/27/09/03'>Daniel 9:3</a>; <a href='/AIV/40/11/21'>Matt. 11:21</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 39003006,
-      "translation": "AIV",
-      "book": 39,
-      "bookName": "Jonah",
-      "bookAbbreviation": "Jonah",
-      "chapter": 3,
       "verse": 6,
       "text": "When the word reached the king of Nineveh, he rose from his throne, took off his robe, covered himself with sackcloth, and sat in ashes.",
       "links": "<a href='/AIV/18/02/08'>Job 2:8</a>; <a href='/AIV/27/04/27'>Daniel 4:27</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 39003007,
-      "translation": "AIV",
-      "book": 39,
-      "bookName": "Jonah",
-      "bookAbbreviation": "Jonah",
-      "chapter": 3,
       "verse": 7,
       "text": "He issued a proclamation and published it throughout Nineveh: \"By the decree of the king and his nobles: No man or animal, herd or flock, shall taste anything; let them not eat or drink water.\"",
       "links": "<a href='/AIV/29/02/15'>Joel 2:15</a>; <a href='/AIV/03/16/29'>Lev. 16:29'>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 39003008,
-      "translation": "AIV",
-      "book": 39,
-      "bookName": "Jonah",
-      "bookAbbreviation": "Jonah",
-      "chapter": 3,
       "verse": 8,
       "text": "\"But let man and animal be covered in sackcloth, and let everyone call urgently on God. Let each turn away from their evil ways and from the violence in their hands.\"",
       "links": "<a href='/AIV/23/58/07'>Isaiah 58:7</a>; <a href='/AIV/19/34/14'>Ps. 34:14</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 39003009,
-      "translation": "AIV",
-      "book": 39,
-      "bookName": "Jonah",
-      "bookAbbreviation": "Jonah",
-      "chapter": 3,
       "verse": 9,
       "text": "\"Who knows? God may turn and relent, and turn away from his fierce anger, so that we may not perish.\"",
       "links": "<a href='/AIV/20/16/06'>Prov. 16:6</a>; <a href='/AIV/19/78/38'>Ps. 78:38</a>",
@@ -116,34 +73,11 @@
     },
     {
       "pk": 39003010,
-      "translation": "AIV",
-      "book": 39,
-      "bookName": "Jonah",
-      "bookAbbreviation": "Jonah",
-      "chapter": 3,
       "verse": 10,
       "text": "When God saw what they did, how they turned from their evil ways, God relented from the disaster that he had said he would bring upon them, and he did not do it.",
       "links": "<a href='/AIV/02/32/14'>Ex. 32:14</a>; <a href='/AIV/26/18/21'>Ezekiel 18:21</a>",
       "comment": "This verse affirms God’s readiness to forgive those who turn from sin. The act of communal repentance leads to divine mercy, demonstrating God’s love for all nations. Spiritual transformation brings forth real change—an image fulfilled in Christ’s call for all people to repentance and life.",
       "sectionHeader": "God's Mercy on Nineveh"
-    }
-  ],
-  "translatedAt": "2025-12-24T09:46:51.799Z",
-  "sections": [
-    {
-      "title": "Jonah Proclaims God's Message to Nineveh",
-      "startVerse": 1,
-      "endVerse": 4
-    },
-    {
-      "title": "The Repentance of Nineveh",
-      "startVerse": 5,
-      "endVerse": 9
-    },
-    {
-      "title": "God's Mercy on Nineveh",
-      "startVerse": 10,
-      "endVerse": 10
     }
   ]
 }

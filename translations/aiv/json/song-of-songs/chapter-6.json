@@ -1,16 +1,13 @@
 {
-  "book": 26,
+  "translation": "AIV",
+  "bookId": "song-of-songs",
   "bookName": "Song of Songs",
   "bookAbbreviation": "Song",
+  "bookNumber": 26,
   "chapter": 6,
   "verses": [
     {
       "pk": 26006001,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 6,
       "verse": 1,
       "text": "\"Where has your beloved gone, O most beautiful among women? Where has your beloved turned, that we may seek him with you?\"",
       "links": "<a href='/AIV/26/5/9'>Song 5:9</a>; <a href='/AIV/23/62/5'>Isa. 62:5</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 26006002,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 6,
       "verse": 2,
       "text": "\"My beloved has gone down to his garden, to the beds of spices, to graze among the lilies.\"",
       "links": "<a href='/AIV/26/5/1'>Song 5:1</a>; <a href='/AIV/26/2/16'>Song 2:16</a>",
@@ -32,11 +24,6 @@
     },
     {
       "pk": 26006003,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 6,
       "verse": 3,
       "text": "\"I am my beloved’s and my beloved is mine; he grazes among the lilies.\"",
       "links": "<a href='/AIV/26/2/16'>Song 2:16</a>; <a href='/AIV/43/17/21-23'>John 17:21-23</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 26006004,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 6,
       "verse": 4,
       "text": "\"You are beautiful as Tirzah, my love, pleasing as Jerusalem, awe-inspiring as an army with banners.\"",
       "links": "<a href='/AIV/19/48/2'>Ps. 48:2</a>; <a href='/AIV/26/1/15'>Song 1:15</a>",
@@ -57,11 +39,6 @@
     },
     {
       "pk": 26006005,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 6,
       "verse": 5,
       "text": "\"Turn your eyes away from me, for they overwhelm me. Your hair is like a flock of goats leaping down the slopes of Gilead.\"",
       "links": "<a href='/AIV/26/4/1'>Song 4:1</a>; <a href='/AIV/26/7/4'>Song 7:4</a>",
@@ -69,11 +46,6 @@
     },
     {
       "pk": 26006006,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 6,
       "verse": 6,
       "text": "\"Your teeth are like a flock of ewes coming up from the washing—each one has a twin; not one is missing.\"",
       "links": "<a href='/AIV/26/4/2'>Song 4:2</a>; <a href='/AIV/19/51/7'>Ps. 51:7</a>",
@@ -81,11 +53,6 @@
     },
     {
       "pk": 26006007,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 6,
       "verse": 7,
       "text": "\"Your cheeks behind your veil are like halves of a pomegranate.\"",
       "links": "<a href='/AIV/26/4/3'>Song 4:3</a>; <a href='/AIV/02/28/34'>Ex. 28:34</a>",
@@ -93,11 +60,6 @@
     },
     {
       "pk": 26006008,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 6,
       "verse": 8,
       "text": "\"There are sixty queens and eighty concubines, and maidens without number.\"",
       "links": "<a href='/AIV/11/11/3'>1 Kings 11:3</a>; <a href='/AIV/19/45/9'>Ps. 45:9</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 26006009,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 6,
       "verse": 9,
       "text": "\"But my dove, my perfect one, is unique; she is her mother’s only daughter, the pure favorite of her who bore her. Maidens saw her and called her blessed; queens and concubines praised her.\"",
       "links": "<a href='/AIV/42/1/28'>Luke 1:28</a>; <a href='/AIV/26/5/2'>Song 5:2</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 26006010,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 6,
       "verse": 10,
       "text": "\"Who is this who appears like the dawn, fair as the moon, bright as the sun, awe-inspiring as an army with banners?\"",
       "links": "<a href='/AIV/19/19/5'>Ps. 19:5</a>; <a href='/AIV/66/12/1'>Rev. 12:1</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 26006011,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 6,
       "verse": 11,
       "text": "\"I went down to the walnut grove to see the green plants of the valley, to see if the vines had budded, if the pomegranates were in blossom.\"",
       "links": "<a href='/AIV/26/2/11-13'>Song 2:11-13</a>; <a href='/AIV/19/104/14'>Ps. 104:14</a>",
@@ -142,11 +89,6 @@
     },
     {
       "pk": 26006012,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 6,
       "verse": 12,
       "text": "\"Before I was aware, my soul set me among the chariots of my noble people.\"",
       "links": "<a href='/AIV/26/1/9'>Song 1:9</a>; <a href='/AIV/10/23/8'>2 Sam. 23:8</a>",
@@ -154,44 +96,11 @@
     },
     {
       "pk": 26006013,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 6,
       "verse": 13,
       "text": "\"Return, return, O Shulammite; return, return, that we may gaze upon you. Why should you gaze upon the Shulammite, as upon the dance before two armies?\"",
       "links": "<a href='/AIV/26/7/1'>Song 7:1</a>; <a href='/AIV/19/68/25'>Ps. 68:25</a>",
       "comment": "The repeated call reflects longing for the bride and admiration of her splendor. Her dance is mysterious and awe-inspiring, illustrating the Church’s ongoing role in salvation history.",
       "sectionHeader": "The Call to the Shulammite"
-    }
-  ],
-  "translatedAt": "2025-12-24T07:13:40.111Z",
-  "sections": [
-    {
-      "title": "The Friends Seek the Beloved",
-      "startVerse": 1,
-      "endVerse": 1
-    },
-    {
-      "title": "The Bride Affirms Her Love",
-      "startVerse": 2,
-      "endVerse": 3
-    },
-    {
-      "title": "The Bridegroom Praises the Bride",
-      "startVerse": 4,
-      "endVerse": 10
-    },
-    {
-      "title": "The Shulammite’s Visit to the Garden",
-      "startVerse": 11,
-      "endVerse": 12
-    },
-    {
-      "title": "The Call to the Shulammite",
-      "startVerse": 13,
-      "endVerse": 13
     }
   ]
 }

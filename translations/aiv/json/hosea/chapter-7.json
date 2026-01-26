@@ -1,16 +1,13 @@
 {
-  "book": 35,
+  "translation": "AIV",
+  "bookId": "hosea",
   "bookName": "Hosea",
   "bookAbbreviation": "Hos",
+  "bookNumber": 35,
   "chapter": 7,
   "verses": [
     {
       "pk": 35007001,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 7,
       "verse": 1,
       "text": "When I would heal Israel, the iniquity of Ephraim is revealed, and the evil deeds of Samaria; for they practice deceit, and thieves break in, and bandits raid outside.",
       "links": "<a href='/AIV/23/1/6'>Isa. 1:6</a>; <a href='/AIV/28/6/4'>Hos. 6:4</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 35007002,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 7,
       "verse": 2,
       "text": "But they do not consider in their hearts that I remember all their evil. Now their deeds surround them; they are right before my face.",
       "links": "<a href='/AIV/19/90/8'>Ps. 90:8</a>; <a href='/AIV/24/2/22'>Jer. 2:22</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 35007003,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 7,
       "verse": 3,
       "text": "They make the king glad with their wickedness, and the princes with their lies.",
       "links": "<a href='/AIV/19/52/3'>Ps. 52:3</a>; <a href='/AIV/20/29/12'>Prov. 29:12</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 35007004,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 7,
       "verse": 4,
       "text": "They are all adulterers; they burn with passion like an oven heated by a baker who stops stirring the fire from the kneading of the dough until it is leavened.",
       "links": "<a href='/AIV/28/4/13'>Hos. 4:13-14</a>; <a href='/AIV/46/5/6'>1 Cor. 5:6</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 35007005,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 7,
       "verse": 5,
       "text": "On the day of our king, the officials become sick with the heat of wine; he stretches out his hand with those who mock.",
       "links": "<a href='/AIV/20/23/29-30'>Prov. 23:29-30</a>; <a href='/AIV/19/1/1'>Ps. 1:1</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 35007006,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 7,
       "verse": 6,
       "text": "For with their hearts like an oven they plot their schemes; their anger smolders all night, in the morning it blazes like a flaming fire.",
       "links": "<a href='/AIV/19/36/1-4'>Ps. 36:1-4</a>; <a href='/AIV/28/4/8'>Hos. 4:8</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 35007007,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 7,
       "verse": 7,
       "text": "All of them are hot as an oven, and they devour their rulers. All their kings have fallen, and none among them calls on me.",
       "links": "<a href='/AIV/28/8/4'>Hos. 8:4</a>; <a href='/AIV/12/15/8-10'>2 Kings 15:8-10</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 35007008,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 7,
       "verse": 8,
       "text": "Ephraim mixes himself among the peoples; Ephraim is a flat cake not turned over.",
       "links": "<a href='/AIV/28/5/13'>Hos. 5:13</a>; <a href='/AIV/19/106/35'>Ps. 106:35</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 35007009,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 7,
       "verse": 9,
       "text": "Strangers devour his strength, yet he does not realize it; even gray hair is sprinkled on him, but he does not notice.",
       "links": "<a href='/AIV/28/5/12'>Hos. 5:12</a>; <a href='/AIV/07/16/20'>Judg. 16:20</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 35007010,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 7,
       "verse": 10,
       "text": "The pride of Israel testifies against him; yet they do not return to the LORD their God, nor seek him for all this.",
       "links": "<a href='/AIV/28/5/5'>Hos. 5:5</a>; <a href='/AIV/19/10/4'>Ps. 10:4</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 35007011,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 7,
       "verse": 11,
       "text": "Ephraim is like a dove, easily deceived and without understanding; they call to Egypt, they go to Assyria.",
       "links": "<a href='/AIV/19/74/19'>Ps. 74:19</a>; <a href='/AIV/28/12/1'>Hos. 12:1</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 35007012,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 7,
       "verse": 12,
       "text": "Even as they go, I will spread my net over them; I will bring them down like birds of the sky. I will punish them in accordance with what their assembly has heard.",
       "links": "<a href='/AIV/19/140/9-10'>Ps. 140:9-10</a>; <a href='/AIV/28/8/1'>Hos. 8:1</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 35007013,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 7,
       "verse": 13,
       "text": "Woe to them, for they have strayed from me! Destruction to them, for they have rebelled against me! Though I would redeem them, they speak lies against me.",
       "links": "<a href='/AIV/28/11/7-9'>Hos. 11:7-9</a>; <a href='/AIV/19/81/15'>Ps. 81:15</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 35007014,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 7,
       "verse": 14,
       "text": "They do not cry to me from their hearts, but wail upon their beds; for grain and new wine they gash themselves; they turn away from me.",
       "links": "<a href='/AIV/12/18/28'>1 Kings 18:28</a>; <a href='/AIV/19/78/34-36'>Ps. 78:34-36</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 35007015,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 7,
       "verse": 15,
       "text": "Though I disciplined and strengthened their arms, yet they devise evil against me.",
       "links": "<a href='/AIV/05/8/5'>Deut. 8:5</a>; <a href='/AIV/58/12/5-8'>Heb. 12:5-8</a>",
@@ -189,33 +116,10 @@
     },
     {
       "pk": 35007016,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 7,
       "verse": 16,
       "text": "They turn, but not upward; they are like a treacherous bow. Their leaders will fall by the sword because of the insolence of their tongues; this will be their mockery in the land of Egypt.",
       "links": "<a href='/AIV/19/78/57'>Ps. 78:57</a>; <a href='/AIV/28/9/3'>Hos. 9:3</a>",
       "comment": "Israel’s attempts at repentance are not directed toward God—‘not upward’—making their actions fruitless. Like a warped weapon, they are unreliable. Leadership failure due to unrepentant hearts and haughty speech is a recurring theme. Following God as the source of unity and guidance safeguards against such ruin (cf. John 17:21)."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:37:18.409Z",
-  "sections": [
-    {
-      "title": "Israel’s Corruption and Rebellion Exposed",
-      "startVerse": 1,
-      "endVerse": 7
-    },
-    {
-      "title": "Ephraim’s Folly and Unrepentance",
-      "startVerse": 8,
-      "endVerse": 12
-    },
-    {
-      "title": "Lament over Israel’s False Repentance",
-      "startVerse": 13,
-      "endVerse": 16
     }
   ]
 }

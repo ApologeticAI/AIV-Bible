@@ -1,16 +1,13 @@
 {
-  "book": 5,
+  "translation": "AIV",
+  "bookId": "deuteronomy",
   "bookName": "Deuteronomy",
   "bookAbbreviation": "Deut",
+  "bookNumber": 5,
   "chapter": 19,
   "verses": [
     {
       "pk": 5019001,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 19,
       "verse": 1,
       "text": "When the LORD your God destroys the nations whose land the LORD your God is giving you, and you dispossess them and settle in their cities and houses,",
       "links": "<a href='/AIV/2/23/20-31'>Ex. 23:20-31</a>; <a href='/AIV/5/7/1'>Deut. 7:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 5019002,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 19,
       "verse": 2,
       "text": "you shall set aside for yourself three cities in the land the LORD your God is giving you to possess.",
       "links": "<a href='/AIV/4/35/6'>Num. 35:6</a>; <a href='/AIV/6/20/2'>Josh. 20:2</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 5019003,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 19,
       "verse": 3,
       "text": "Prepare the roads for yourself and divide into three parts the land the LORD your God is giving you as an inheritance, so that any manslayer can flee there.",
       "links": "<a href='/AIV/4/35/11-15'>Num. 35:11-15</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 5019004,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 19,
       "verse": 4,
       "text": "This is the case of the manslayer who may flee there and live: whoever kills his neighbor unintentionally, without having hated him in the past—",
       "links": "<a href='/AIV/4/35/22-23'>Num. 35:22-23</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 5019005,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 19,
       "verse": 5,
       "text": "as when someone goes with his neighbor into the forest to cut wood, and his hand swings the axe to cut a tree, and the head slips from the handle and strikes his neighbor and he dies—he may flee to one of these cities and live.",
       "links": "<a href='/AIV/4/35/25'>Num. 35:25</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 5019006,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 19,
       "verse": 6,
       "text": "Otherwise, the avenger of blood might pursue the manslayer in anger and overtake him, since the distance is great, and strike him dead, although he was not deserving of death, since he had not hated him in the past.",
       "links": "<a href='/AIV/6/20/5'>Josh. 20:5</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 5019007,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 19,
       "verse": 7,
       "text": "Therefore I command you, set aside three cities for yourself.",
       "links": "<a href='/AIV/4/35/13'>Num. 35:13</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 5019008,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 19,
       "verse": 8,
       "text": "If the LORD your God enlarges your territory, as He swore to your fathers, and gives you all the land He promised to give your fathers—",
       "links": "<a href='/AIV/1/15/7-8'>Gen. 15:7-8</a>; <a href='/AIV/1/17/8'>Gen. 17:8</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 5019009,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 19,
       "verse": 9,
       "text": "if you keep all these commandments that I command you today, to love the LORD your God and to walk always in His ways, then you shall add three more cities to these three,",
       "links": "<a href='/AIV/5/6/5'>Deut. 6:5</a>; <a href='/AIV/5/11/22'>Deut. 11:22</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 5019010,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 19,
       "verse": 10,
       "text": "so that innocent blood will not be shed in the midst of the land the LORD your God is giving you as an inheritance, and so that there will be no guilt of bloodshed upon you.",
       "links": "<a href='/AIV/4/35/33'>Num. 35:33</a>",
@@ -127,11 +79,6 @@
     },
     {
       "pk": 5019011,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 19,
       "verse": 11,
       "text": "But if anyone hates his neighbor, lies in wait for him, attacks him, and strikes him so that he dies, and he flees into one of these cities,",
       "links": "<a href='/AIV/4/35/16-21'>Num. 35:16-21</a>",
@@ -139,11 +86,6 @@
     },
     {
       "pk": 5019012,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 19,
       "verse": 12,
       "text": "then the elders of his city shall send and take him from there, and deliver him into the hand of the avenger of blood, that he may die.",
       "links": "<a href='/AIV/6/20/6'>Josh. 20:6</a>",
@@ -151,11 +93,6 @@
     },
     {
       "pk": 5019013,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 19,
       "verse": 13,
       "text": "Your eye shall not pity him, but you shall purge the guilt of innocent blood from Israel, so that it may go well with you.",
       "links": "<a href='/AIV/5/13/8'>Deut. 13:8</a>; <a href='/AIV/5/17/7'>Deut. 17:7</a>",
@@ -163,11 +100,6 @@
     },
     {
       "pk": 5019014,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 19,
       "verse": 14,
       "text": "You shall not move your neighbor’s boundary marker, which the ancestors have set, in your inheritance that you receive in the land the LORD your God is giving you to possess.",
       "links": "<a href='/AIV/20/22/28'>Prov. 22:28</a>; <a href='/AIV/23/5/8'>Isa. 5:8</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 5019015,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 19,
       "verse": 15,
       "text": "A single witness shall not rise up against a man concerning any crime or any sin he commits; at the mouth of two or three witnesses a matter shall be established.",
       "links": "<a href='/AIV/4/35/30'>Num. 35:30</a>; <a href='/AIV/40/18/16'>Matt. 18:16</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 5019016,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 19,
       "verse": 16,
       "text": "If a malicious witness rises up against someone to accuse him of wrongdoing,",
       "links": "<a href='/AIV/5/27/24'>Deut. 27:24</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 5019017,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 19,
       "verse": 17,
       "text": "then both the men involved in the dispute shall stand before the LORD, before the priests and the judges who are in office in those days.",
       "links": "<a href='/AIV/5/17/9'>Deut. 17:9</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 5019018,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 19,
       "verse": 18,
       "text": "The judges shall investigate thoroughly. If the witness is a false witness and has testified falsely against his brother,",
       "links": "<a href='/AIV/5/1/16'>Deut. 1:16</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 5019019,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 19,
       "verse": 19,
       "text": "then you shall do to him as he intended to do to his brother. So you shall purge the evil from among you.",
       "links": "<a href='/AIV/5/13/5'>Deut. 13:5</a>; <a href='/AIV/5/17/7'>Deut. 17:7</a>",
@@ -237,11 +144,6 @@
     },
     {
       "pk": 5019020,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 19,
       "verse": 20,
       "text": "And the rest shall hear and fear, and never again do such an evil thing among you.",
       "links": "<a href='/AIV/5/13/11'>Deut. 13:11</a>",
@@ -249,33 +151,10 @@
     },
     {
       "pk": 5019021,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 19,
       "verse": 21,
       "text": "Your eye shall not pity. Life for life, eye for eye, tooth for tooth, hand for hand, foot for foot.",
       "links": "<a href='/AIV/2/21/23-25'>Ex. 21:23-25</a>; <a href='/AIV/40/5/38-39'>Matt. 5:38-39</a>",
       "comment": "The principle of equal justice is foundational. In the New Testament, Jesus both affirms the justice of the law, yet brings its fullness in the call to forgiveness and love—law perfected in mercy."
-    }
-  ],
-  "translatedAt": "2025-12-24T02:07:10.581Z",
-  "sections": [
-    {
-      "title": "Cities of Refuge",
-      "startVerse": 1,
-      "endVerse": 13
-    },
-    {
-      "title": "Prohibition of Moving Boundary Stones",
-      "startVerse": 14,
-      "endVerse": 14
-    },
-    {
-      "title": "Laws Concerning Witnesses",
-      "startVerse": 15,
-      "endVerse": 21
     }
   ]
 }

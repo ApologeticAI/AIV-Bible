@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 12,
   "verses": [
     {
       "pk": 23012001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 12,
       "verse": 1,
       "text": "Help, LORD! The faithful are disappearing; the loyal have vanished from among the children of man.",
       "links": "<a href='/AIV/20/1/15'>Prov. 1:15</a>; <a href='/AIV/19/14/2-3'>Ps. 14:2-3</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23012002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 12,
       "verse": 2,
       "text": "Everyone speaks falsehood with his neighbor; with flattering lips and a double heart they speak.",
       "links": "<a href='/AIV/19/55/21'>Ps. 55:21</a>; <a href='/AIV/24/9/8'>Jer. 9:8</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23012003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 12,
       "verse": 3,
       "text": "May the LORD cut off all flattering lips and every boastful tongue,",
       "links": "<a href='/AIV/19/5/9'>Ps. 5:9</a>; <a href='/AIV/20/21/23'>Prov. 21:23</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23012004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 12,
       "verse": 4,
       "text": "those who say, 'With our tongue we will prevail; our lips are our own—who is lord over us?'",
       "links": "<a href='/AIV/19/73/8-9'>Ps. 73:8-9</a>; <a href='/AIV/24/17/9'>Jer. 17:9</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23012005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 12,
       "verse": 5,
       "text": "'Because the poor are oppressed, because the needy groan, I will now arise,' says the LORD; 'I will place him in safety for which he yearns.'",
       "links": "<a href='/AIV/23/33/10'>Isa. 33:10</a>; <a href='/AIV/19/9/12'>Ps. 9:12</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 23012006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 12,
       "verse": 6,
       "text": "The words of the LORD are pure words, like silver refined in a furnace on the ground, purified seven times.",
       "links": "<a href='/AIV/19/18/30'>Ps. 18:30</a>; <a href='/AIV/20/30/5'>Prov. 30:5</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 23012007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 12,
       "verse": 7,
       "text": "You, LORD, will keep them; you will guard us from this generation forever.",
       "links": "<a href='/AIV/19/121/7'>Ps. 121:7</a>; <a href='/AIV/19/37/28'>Ps. 37:28</a>",
@@ -92,28 +59,10 @@
     },
     {
       "pk": 23012008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 12,
       "verse": 8,
       "text": "The wicked walk all around, when vileness is exalted among the children of man.",
       "links": "<a href='/AIV/19/82/5'>Ps. 82:5</a>; <a href='/AIV/20/28/12'>Prov. 28:12</a>",
       "comment": "The psalm ends with a warning about the increase of evil when truth and virtue are neglected. Throughout history, God has responded to such times by raising up witnesses and guiding His people into truth and unity (<a href='/AIV/62/2/18-19'>1 John 2:18-19</a>). This call to faithfulness remains relevant for all believers today."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:02:31.269Z",
-  "sections": [
-    {
-      "title": "Prayer for Help Against Deceitful Men",
-      "startVerse": 1,
-      "endVerse": 4
-    },
-    {
-      "title": "God's Promise to Protect the Oppressed",
-      "startVerse": 5,
-      "endVerse": 8
     }
   ]
 }

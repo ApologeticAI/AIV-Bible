@@ -1,16 +1,13 @@
 {
-  "book": 33,
+  "translation": "AIV",
+  "bookId": "ezekiel",
   "bookName": "Ezekiel",
   "bookAbbreviation": "Ezek",
+  "bookNumber": 33,
   "chapter": 9,
   "verses": [
     {
       "pk": 33009001,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 9,
       "verse": 1,
       "text": "Then he cried out in my hearing with a loud voice, saying, \"Bring near the executioners of the city, each with his destroying weapon in his hand.\"",
       "links": "<a href='/AIV/23/13/5'>Isa. 13:5</a>; <a href='/AIV/26/21/1'>Ezek. 21:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 33009002,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 9,
       "verse": 2,
       "text": "And behold, six men came from the direction of the upper gate, which faces north, each with his shattering weapon in his hand; and among them was a man clothed in linen, with a writing case at his hip. They came in and stood beside the bronze altar.",
       "links": "<a href='/AIV/41/16/15'>Mark 16:5</a>; <a href='/AIV/02/27/1-2'>Ex. 27:1-2</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 33009003,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 9,
       "verse": 3,
       "text": "Now the glory of the God of Israel went up from the cherub, where it had rested, to the threshold of the house. And he called to the man clothed in linen, who had the writing case at his hip.",
       "links": "<a href='/AIV/26/10/4'>Ezek. 10:4</a>; <a href='/AIV/02/25/22'>Ex. 25:22</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 33009004,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 9,
       "verse": 4,
       "text": "And the LORD said to him, \"Pass through the city, through Jerusalem, and put a mark on the foreheads of the men who sigh and groan over all the abominations that are committed in it.\"",
       "links": "<a href='/AIV/66/7/3'>Rev. 7:3</a>; <a href='/AIV/02/12/23'>Ex. 12:23</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 33009005,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 9,
       "verse": 5,
       "text": "And to the others he said in my hearing, \"Pass through the city after him, and strike. Your eye shall not spare, and you shall show no pity.\"",
       "links": "<a href='/AIV/02/32/27'>Ex. 32:27</a>; <a href='/AIV/24/9/21'>Jer. 9:21</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 33009006,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 9,
       "verse": 6,
       "text": "Kill old men outright, young men and maidens, little children and women, but touch no one on whom is the mark. And begin at my sanctuary.\" So they began with the elders who were before the house.",
       "links": "<a href='/AIV/40/13/41-42'>Matt. 13:41-42</a>; <a href='/AIV/26/8/11'>Ezek. 8:11</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 33009007,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 9,
       "verse": 7,
       "text": "Then he said to them, \"Defile the house, and fill the courts with the slain. Go out!\" So they went out and struck in the city.",
       "links": "<a href='/AIV/26/7/20-22'>Ezek. 7:20-22</a>; <a href='/AIV/24/7/30'>Jer. 7:30</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 33009008,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 9,
       "verse": 8,
       "text": "While they were striking, and I was left alone, I fell upon my face and cried out, \"Ah, Lord GOD! Will you destroy all the remnant of Israel in your outpouring of wrath on Jerusalem?\"",
       "links": "<a href='/AIV/04/16/22'>Num. 16:22</a>; <a href='/AIV/26/11/13'>Ezek. 11:13</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 33009009,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 9,
       "verse": 9,
       "text": "Then he said to me, \"The guilt of the house of Israel and Judah is exceedingly great. The land is full of blood, and the city full of perversity, for they say, 'The LORD has forsaken the land, and the LORD does not see.'\"",
       "links": "<a href='/AIV/26/8/12'>Ezek. 8:12</a>; <a href='/AIV/19/94/7'>Ps. 94:7</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 33009010,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 9,
       "verse": 10,
       "text": "\"So as for me, my eye will not spare, nor will I have pity; I will bring their deeds upon their heads.\"",
       "links": "<a href='/AIV/26/7/4'>Ezek. 7:4</a>; <a href='/AIV/19/62/12'>Ps. 62:12</a>",
@@ -129,39 +81,11 @@
     },
     {
       "pk": 33009011,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 9,
       "verse": 11,
       "text": "And behold, the man clothed in linen, with the writing case at his hip, brought word back, saying, \"I have done as you commanded me.\"",
       "links": "<a href='/AIV/41/16/5'>Mark 16:5</a>; <a href='/AIV/66/7/3'>Rev. 7:3</a>",
       "comment": "The obedience of the angelic scribe signifies the certainty of God’s commands being fulfilled. The act of marking echoes themes of divine protection and mediation through a priestly figure—foreshadowing the ultimate High Priest (Hebrews 4:14) who sets apart and intercedes for God’s true people.",
       "sectionHeader": "The Completion of the Command"
-    }
-  ],
-  "translatedAt": "2025-12-24T09:02:33.766Z",
-  "sections": [
-    {
-      "title": "The Marking of the Remnant",
-      "startVerse": 1,
-      "endVerse": 4
-    },
-    {
-      "title": "The Slaughter of the Guilty",
-      "startVerse": 5,
-      "endVerse": 7
-    },
-    {
-      "title": "Ezekiel's Intercession and God's Response",
-      "startVerse": 8,
-      "endVerse": 10
-    },
-    {
-      "title": "The Completion of the Command",
-      "startVerse": 11,
-      "endVerse": 11
     }
   ]
 }

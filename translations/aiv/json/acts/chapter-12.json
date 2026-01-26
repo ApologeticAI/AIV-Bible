@@ -1,16 +1,13 @@
 {
-  "book": 51,
+  "translation": "AIV",
+  "bookId": "acts",
   "bookName": "Acts",
   "bookAbbreviation": "Acts",
+  "bookNumber": 51,
   "chapter": 12,
   "verses": [
     {
       "pk": 51012001,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 12,
       "verse": 1,
       "text": "About that time, King Herod stretched out his hand to harm certain people belonging to the church.",
       "links": "<a href='/AIV/40/2/1'>Matt. 2:1</a>; <a href='/AIV/44/4/3'>Acts 4:3</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 51012002,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 12,
       "verse": 2,
       "text": "He killed James the brother of John with the sword.",
       "links": "<a href='/AIV/40/20/23'>Matt. 20:23</a>; <a href='/AIV/41/10/39'>Mark 10:39</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 51012003,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 12,
       "verse": 3,
       "text": "And when Herod saw that it pleased the Jews, he proceeded to arrest Peter also. This was during the days of Unleavened Bread.",
       "links": "<a href='/AIV/42/22/1'>Luke 22:1</a>; <a href='/AIV/44/5/18'>Acts 5:18</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 51012004,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 12,
       "verse": 4,
       "text": "After seizing him, he put him in prison, delivering him to four squads of soldiers to guard him, intending after the Passover to bring him out to the people.",
       "links": "<a href='/AIV/44/4/3'>Acts 4:3</a>; <a href='/AIV/44/5/18'>Acts 5:18</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 51012005,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 12,
       "verse": 5,
       "text": "So Peter was kept in prison, but earnest prayer for him was being made to God by the church.",
       "links": "<a href='/AIV/44/1/14'>Acts 1:14</a>; <a href='/AIV/40/18/19-20'>Matt. 18:19-20</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 51012006,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 12,
       "verse": 6,
       "text": "Now when Herod was about to bring him out, on that night, Peter was sleeping between two soldiers, bound with two chains, and sentries before the door were guarding the prison.",
       "links": "<a href='/AIV/44/16/23-24'>Acts 16:23-24</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 51012007,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 12,
       "verse": 7,
       "text": "Suddenly, an angel of the Lord stood next to him, and a light shone in the cell. He struck Peter’s side and woke him, saying, 'Get up quickly!' And the chains fell off his hands.",
       "links": "<a href='/AIV/44/5/19'>Acts 5:19</a>; <a href='/AIV/42/2/9'>Luke 2:9</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 51012008,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 12,
       "verse": 8,
       "text": "Then the angel said to him, 'Dress yourself and put on your sandals.' And Peter did so. And he said to him, 'Wrap your cloak around you and follow me.'",
       "links": "<a href='/AIV/43/21/19'>John 21:19</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 51012009,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 12,
       "verse": 9,
       "text": "And going out, he followed him; he did not know that what was being done by the angel was real, but thought he was seeing a vision.",
       "links": "<a href='/AIV/44/10/10'>Acts 10:10</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 51012010,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 12,
       "verse": 10,
       "text": "After they had passed the first and second guard, they came to the iron gate leading into the city. It opened for them of its own accord. And they went out and went along one street, and immediately the angel left him.",
       "links": "<a href='/AIV/44/5/19'>Acts 5:19</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 51012011,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 12,
       "verse": 11,
       "text": "When Peter came to himself, he said, 'Now I am sure that the Lord has sent his angel and rescued me from Herod’s hand and from all that the Jewish people were expecting.'",
       "links": "<a href='/AIV/19/34/7'>Psalm 34:7</a>; <a href='/AIV/44/5/19'>Acts 5:19</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 51012012,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 12,
       "verse": 12,
       "text": "And when he realized this, he went to the house of Mary, the mother of John called Mark, where many were gathered together and praying.",
       "links": "<a href='/AIV/44/1/14'>Acts 1:14</a>; <a href='/AIV/44/15/37'>Acts 15:37</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 51012013,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 12,
       "verse": 13,
       "text": "And when he knocked at the door of the gateway, a servant girl named Rhoda came to answer.",
       "links": "<a href='/AIV/44/16/14'>Acts 16:14</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 51012014,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 12,
       "verse": 14,
       "text": "When she recognized Peter’s voice, out of joy she did not open the gate, but ran in and reported that Peter was standing at the gate.",
       "links": "<a href='/AIV/44/5/14'>Acts 5:14</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 51012015,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 12,
       "verse": 15,
       "text": "They said to her, 'You are out of your mind.' But she kept insisting that it was so, and they kept saying, 'It is his angel.'",
       "links": "<a href='/AIV/44/23/8'>Acts 23:8</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 51012016,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 12,
       "verse": 16,
       "text": "But Peter continued knocking, and when they opened, they saw him and were amazed.",
       "links": "<a href='/AIV/42/24/41'>Luke 24:41</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 51012017,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 12,
       "verse": 17,
       "text": "But motioning to them with his hand to be silent, he described to them how the Lord had brought him out of the prison. And he said, 'Tell these things to James and to the brothers.' Then he departed and went to another place.",
       "links": "<a href='/AIV/59/1/1'>James 1:1</a>; <a href='/AIV/44/15/13'>Acts 15:13</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 51012018,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 12,
       "verse": 18,
       "text": "Now when day came, there was no small disturbance among the soldiers over what had become of Peter.",
       "links": "<a href='/AIV/40/28/4'>Matt. 28:4</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 51012019,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 12,
       "verse": 19,
       "text": "Herod, after searching for him and not finding him, examined the guards and ordered them to be executed. Then he went down from Judea to Caesarea and stayed there.",
       "links": "<a href='/AIV/44/23/33'>Acts 23:33</a>",
@@ -237,11 +144,6 @@
     },
     {
       "pk": 51012020,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 12,
       "verse": 20,
       "text": "Now Herod was angry with the people of Tyre and Sidon. And they came to him with one accord, and having persuaded Blastus, the king’s chamberlain, they asked for peace, because their country depended on the king’s country for food.",
       "links": "<a href='/AIV/11/5/1'>1 Kings 5:1</a>",
@@ -250,11 +152,6 @@
     },
     {
       "pk": 51012021,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 12,
       "verse": 21,
       "text": "On an appointed day Herod put on his royal robes, took his seat on the throne, and delivered a speech to them.",
       "links": "<a href='/AIV/26/28/2'>Ezek. 28:2</a>",
@@ -262,11 +159,6 @@
     },
     {
       "pk": 51012022,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 12,
       "verse": 22,
       "text": "And the people shouted, 'The voice of a god, and not of a man!'",
       "links": "<a href='/AIV/27/3/5'>Dan. 3:5</a>; <a href='/AIV/41/15/12-13'>Mark 15:12-13</a>",
@@ -274,11 +166,6 @@
     },
     {
       "pk": 51012023,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 12,
       "verse": 23,
       "text": "Immediately an angel of the Lord struck him down, because he did not give God the glory, and he was eaten by worms and died.",
       "links": "<a href='/AIV/19/115/1'>Ps. 115:1</a>; <a href='/AIV/26/28/9'>Ezek. 28:9</a>",
@@ -286,11 +173,6 @@
     },
     {
       "pk": 51012024,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 12,
       "verse": 24,
       "text": "But the word of God increased and multiplied.",
       "links": "<a href='/AIV/44/6/7'>Acts 6:7</a>; <a href='/AIV/23/55/11'>Isa. 55:11</a>",
@@ -298,44 +180,11 @@
     },
     {
       "pk": 51012025,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 12,
       "verse": 25,
       "text": "And Barnabas and Saul returned from Jerusalem when they had completed their service, bringing with them John, whose other name was Mark.",
       "links": "<a href='/AIV/44/11/30'>Acts 11:30</a>; <a href='/AIV/44/13/5'>Acts 13:5</a>",
       "comment": "The mention of service fulfilled and bringing John Mark points to the importance of apostolic succession and reliable transmission of authentic teaching within the church.",
       "sectionHeader": "Barnabas and Saul Return to Antioch"
-    }
-  ],
-  "translatedAt": "2025-12-24T11:24:43.216Z",
-  "sections": [
-    {
-      "title": "James Is Killed and Peter Imprisoned",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "Peter Is Rescued by an Angel",
-      "startVerse": 6,
-      "endVerse": 11
-    },
-    {
-      "title": "Peter Visits the House of Mary",
-      "startVerse": 12,
-      "endVerse": 19
-    },
-    {
-      "title": "The Death of Herod",
-      "startVerse": 20,
-      "endVerse": 24
-    },
-    {
-      "title": "Barnabas and Saul Return to Antioch",
-      "startVerse": 25,
-      "endVerse": 25
     }
   ]
 }

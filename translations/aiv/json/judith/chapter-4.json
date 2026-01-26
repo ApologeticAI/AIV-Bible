@@ -1,16 +1,13 @@
 {
-  "book": 18,
+  "translation": "AIV",
+  "bookId": "judith",
   "bookName": "Judith",
   "bookAbbreviation": "Jdt",
+  "bookNumber": 18,
   "chapter": 4,
   "verses": [
     {
       "pk": 18004001,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 4,
       "verse": 1,
       "text": "When the people of Israel in Judea heard everything that Holofernes, the commander of the Assyrian army, had done to the nations, and how he had robbed and destroyed their temples,",
       "links": "<a href='/AIV/18/3/8'>Jdt 3:8</a>; <a href='/AIV/23/37/11'>Isa. 37:11</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 18004002,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 4,
       "verse": 2,
       "text": "they were terrified before him, and deeply troubled for Jerusalem and for the Temple of the Lord their God.",
       "links": "<a href='/AIV/19/48/2'>Ps. 48:2</a>; <a href='/AIV/13/21/15'>1 Chr. 21:15</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 18004003,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 4,
       "verse": 3,
       "text": "For those who had recently returned from exile, and all the people of Judea, had just gathered together; the sacred vessels and the altar and the Temple had been newly purified from profanation.",
       "links": "<a href='/AIV/15/6/16'>Ezra 6:16</a>; <a href='/AIV/15/2/68'>Ezra 2:68</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 18004004,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 4,
       "verse": 4,
       "text": "So they sent word into all the region of Samaria, and to Kona, Beth-Horon, Belmain, and Jericho, and to Choba and Aesora, and to the valley of Salem.",
       "links": "<a href='/AIV/06/18/21'>Josh. 18:21</a>; <a href='/AIV/06/16/1'>Josh. 16:1</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 18004005,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 4,
       "verse": 5,
       "text": "They occupied all the high places and fortified the villages, and stored up provisions for war, since their fields had just been harvested.",
       "links": "<a href='/AIV/07/6/2'>Judg. 6:2</a>; <a href='/AIV/20/21/20'>Prov. 21:20</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 18004006,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 4,
       "verse": 6,
       "text": "Joakim the high priest, who was in Jerusalem at that time, wrote to the people of Bethulia and Betomesthaim, which is opposite Esdraelon, facing the plain near Dothan,",
       "links": "<a href='/AIV/09/1/1'>1 Samuel 1:1</a>; <a href='/AIV/07/19/12'>Judg. 19:12</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 18004007,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 4,
       "verse": 7,
       "text": "to guard the mountain passes, since access to Judea was by way of them; it was easy to stop any attempt to enter, as the approach was narrow, only wide enough for two men at a time.",
       "links": "<a href='/AIV/07/3/28'>Judg. 3:28</a>; <a href='/AIV/09/13/23'>1 Sam. 13:23</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 18004008,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 4,
       "verse": 8,
       "text": "So the Israelites did as Joakim and the council of elders of all Israel commanded.",
       "links": "<a href='/AIV/04/1/16'>Num. 1:16</a>; <a href='/AIV/02/18/25'>Ex. 18:25</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 18004009,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 4,
       "verse": 9,
       "text": "All the men of Israel cried out with fervor to God, and they humbled themselves deeply before Him.",
       "links": "<a href='/AIV/19/107/6'>Ps. 107:6</a>; <a href='/AIV/10/12/13'>2 Samuel 12:13</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 18004010,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 4,
       "verse": 10,
       "text": "Together with their wives and children, and even their livestock, every resident, both foreigner and native, put on sackcloth.",
       "links": "<a href='/AIV/32/3/6'>Jonah 3:6</a>; <a href='/AIV/29/2/16'>Joel 2:16</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 18004011,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 4,
       "verse": 11,
       "text": "And all the Israelite men, women, and children living in Jerusalem prostrated themselves before the temple, put ashes on their heads, and spread out sackcloth before the Lord.",
       "links": "<a href='/AIV/36/1/13'>Joel. 1:13</a>; <a href='/AIV/39/3/5'>Jonah. 3:5-8</a>; <a href='/AIV/19/4/1'>Esth. 4:1-3</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 18004012,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 4,
       "verse": 12,
       "text": "They even covered the altar with sackcloth and cried out in unison, praying fervently to the God of Israel not to let their infants be carried away, their wives be taken as spoil, their towns destroyed, or the sanctuary profaned and desecrated to the malicious joy of the Gentiles.",
       "links": "<a href='/AIV/23/79/1'>Ps. 79:1-7</a>; <a href='/AIV/31/1/10'>Lam. 1:10</a>; <a href='/AIV/14/20/9'>2Chr. 20:9</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 18004013,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 4,
       "verse": 13,
       "text": "With great devotion, all Israel cried to God so that He would not allow their children to be taken, their wives to be carried away, their cities to be destroyed, and their sanctuary to be profaned.",
       "links": "<a href='/AIV/19/137/7'>Ps. 137:7</a>; <a href='/AIV/13/21/30'>1 Chr. 21:30</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 18004014,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 4,
       "verse": 14,
       "text": "The Lord heard their cries and looked upon their distress. For the people fasted many days throughout all Judea and Jerusalem before the sanctuary of the Lord Almighty.",
       "links": "<a href='/AIV/19/34/15'>Ps. 34:15</a>; <a href='/AIV/23/58/6'>Isa. 58:6</a>",
@@ -176,28 +108,10 @@
     },
     {
       "pk": 18004015,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 4,
       "verse": 15,
       "text": "So Joakim the high priest and all the priests who stood before the Lord in ministry, and those who served at the altar, wore sackcloth and prayed for the salvation of Israel without ceasing.",
       "links": "<a href='/AIV/03/10/17'>Lev. 10:17</a>; <a href='/AIV/58/7/25'>Heb. 7:25</a>",
       "comment": "The priests' unceasing prayer for Israel foreshadows the perpetual intercession of Christ, our High Priest, and establishes the importance of ministerial priesthood and sacrificial worship. This pattern of ceaseless prayer remains central to spiritual life and the preservation of true faith."
-    }
-  ],
-  "translatedAt": "2025-12-28T06:57:37.024Z",
-  "sections": [
-    {
-      "title": "The Jews Prepare for Invasion",
-      "startVerse": 1,
-      "endVerse": 8
-    },
-    {
-      "title": "Prayer and Fasting Throughout Israel",
-      "startVerse": 9,
-      "endVerse": 15
     }
   ]
 }

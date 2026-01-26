@@ -1,16 +1,13 @@
 {
-  "book": 17,
+  "translation": "AIV",
+  "bookId": "tobit",
   "bookName": "Tobit",
   "bookAbbreviation": "Tob",
+  "bookNumber": 17,
   "chapter": 10,
   "verses": [
     {
       "pk": 17010001,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 10,
       "verse": 1,
       "text": "Now, day by day, Tobit kept counting how many days Tobias would need for going and for returning. And when the days had passed and his son did not appear,",
       "links": "<a href='/AIV/17/5/22'>Tobit 5:22</a>; <a href='/AIV/17/1/15'>Tobit 1:15</a>",
@@ -19,23 +16,13 @@
     },
     {
       "pk": 17010002,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 10,
       "verse": 2,
       "text": "he said, \"Is it possible that he has been detained? Or that Gabael has died, and there is no one to give him the money?\"",
-      "comment": "Restored Tobit's questioning and emotional context, matching reference verse.",
-      "links": "<a href='/AIV/17/10/2'>Tob. 10:2</a>"
+      "links": "<a href='/AIV/17/10/2'>Tob. 10:2</a>",
+      "comment": "Restored Tobit's questioning and emotional context, matching reference verse."
     },
     {
       "pk": 17010003,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 10,
       "verse": 3,
       "text": "And he began to worry.",
       "links": "<a href='/AIV/17/5/18'>Tobit 5:18-22</a>; <a href='/AIV/45/4/20'>Rom. 4:20</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 17010004,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 10,
       "verse": 4,
       "text": "His wife Anna said, \"My child has perished and is no longer among the living.\" And she began to weep and mourn for her son, saying,",
       "links": "<a href='/AIV/17/5/22'>Tobit 5:22</a>; <a href='/AIV/42/15/20'>Luke 15:20</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 17010005,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 10,
       "verse": 5,
       "text": "“Woe to me, my child, the light of my eyes, that I let you make the journey.”",
       "links": "<a href='/AIV/19/142/2'>Ps. 142:2</a>; <a href='/AIV/17/6/1-6'>Tobit 6:1-6</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 17010006,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 10,
       "verse": 6,
       "text": "But Tobit kept saying to her, \"Be quiet and do not worry, my dear; he is safe. Perhaps something unexpected has happened. The man who went with him is trustworthy and is one of our own relatives. Do not grieve, my dear; he will be home soon.\"",
       "links": "<a href='/AIV/1/43/13'>Gen. 43:13-14</a>; <a href='/AIV/28/2/6'>Sir. 2:6</a>; <a href='/AIV/57/4/6'>Phil. 4:6-7</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 17010007,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 10,
       "verse": 7,
       "text": "She answered him, \"Be quiet yourself! Stop trying to deceive me! My child has perished.\" Every day she would rush out and watch the road by which her son had departed, and would heed no one. When the sun set she would go in and mourn and weep all night long, unable to sleep at all.",
       "links": "<a href='/AIV/1/37/34'>Gen. 37:34-35</a>; <a href='/AIV/30/31/15'>Jer. 31:15</a>; <a href='/AIV/49/15/20'>Luke. 15:20</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 17010008,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 10,
       "verse": 8,
       "text": "But Raguel said to Tobias, 'Stay, my child, stay with me; I will send messengers to your father Tobit and they will inform him about you.'",
       "links": "<a href='/AIV/42/2/49'>Luke 2:49'</a>; <a href='/AIV/17/5/22'>Tobit 5:22</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 17010009,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 10,
       "verse": 9,
       "text": "But Tobias said, 'No! I beg you to send me back to my father.'",
       "links": "<a href='/AIV/17/7/13-14'>Tobit 7:13-14</a>; <a href='/AIV/19/112/3'>Ps. 112:3</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 17010010,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 10,
       "verse": 10,
       "text": "So Raguel promptly gave Tobias his wife Sarah, as well as half of all his property: male and female slaves, oxen and sheep, donkeys and camels, clothing, money, and household goods.",
       "links": "<a href='/AIV/17/8/21'>Tobit 8:21</a>; <a href='/AIV/1/28/4'>Gen. 28:4</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 17010011,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 10,
       "verse": 11,
       "text": "Then he saw them safely off; he embraced Tobias and said, 'Farewell, my child; have a safe journey. The Lord of heaven prosper you and your wife Sarah, and may I see children of yours before I die.'",
       "links": "<a href='/AIV/17/7/16'>Tobit 7:16</a>; <a href='/AIV/19/30/5'>Ps. 30:5</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 17010012,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 10,
       "verse": 12,
       "text": "Then he kissed his daughter Sarah and said to her, 'My daughter, honor your father-in-law and your mother-in-law, since from now on they are as much your parents as those who gave you birth. Go in peace, daughter, and may I hear a good report about you as long as I live.' Then he bade them farewell and let them go. Then Edna said to Tobias, 'My child and dear brother, the Lord of heaven bring you back safely, and may I live long enough to see children of you and of my daughter Sarah before I die. In the sight of the Lord I entrust my daughter to you; do nothing to grieve her all the days of your life. Go in peace, my child. From now on I am your mother and Sarah is your beloved wife. May we all prosper together all the days of our lives.' Then she kissed them both and saw them safely off.",
       "links": "<a href='/AIV/19/128/6'>Ps. 128:6</a>; <a href='/AIV/1/50/23'>Gen. 50:23</a>",
@@ -152,28 +94,10 @@
     },
     {
       "pk": 17010013,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 10,
       "verse": 13,
       "text": "Tobias parted from Raguel with happiness and joy, praising the Lord of heaven and earth, King over all, because he had made his journey a success. Finally, he blessed Raguel and his wife Edna, and said, 'I have been commanded by the Lord to honor you all the days of my life.'",
       "links": "<a href='/AIV/2/20/12'>Ex. 20:12</a>; <a href='/AIV/41/7/10'>Mark 7:10</a>",
       "comment": "Raguel charges Sarra to honor her new parents, tying in the commandment to honor one’s father and mother (Exodus 20:12; Mark 7:10). This deepens the theology of obedience and familial authority, which foreshadows the Church’s structure and spiritual parenthood."
-    }
-  ],
-  "translatedAt": "2026-01-03T11:55:21.708Z",
-  "sections": [
-    {
-      "title": "Tobit and Anna Mourn the Delay of Tobias",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "Tobias Prepares to Return with Sarra",
-      "startVerse": 6,
-      "endVerse": 14
     }
   ]
 }

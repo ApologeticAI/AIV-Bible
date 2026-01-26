@@ -1,16 +1,13 @@
 {
-  "book": 7,
+  "translation": "AIV",
+  "bookId": "judges",
   "bookName": "Judges",
   "bookAbbreviation": "Judg",
+  "bookNumber": 7,
   "chapter": 15,
   "verses": [
     {
       "pk": 7015001,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 15,
       "verse": 1,
       "text": "After some days, during the wheat harvest, Samson went to visit his wife, bringing a young goat as a gift; he said, 'Let me go in to my wife in her room.' But her father would not allow him to go in.",
       "links": "<a href='/AIV/07/14/20'>Judg. 14:20</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 7015002,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 15,
       "verse": 2,
       "text": "Her father said, 'I truly thought you hated her, so I gave her to your companion. Is not her younger sister more beautiful than she? Please take her instead.'",
       "links": "<a href='/AIV/07/14/20'>Judg. 14:20</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 7015003,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 15,
       "verse": 3,
       "text": "Samson said to them, 'This time I will be innocent concerning the Philistines, if I do them harm.'",
       "links": "<a href='/AIV/07/14/4'>Judg. 14:4</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 7015004,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 15,
       "verse": 4,
       "text": "So Samson went and caught three hundred foxes, and took torches. He tied them tail to tail and put a torch between each pair of tails.",
       "links": "<a href='/AIV/Ex/8/17-18'>Ex. 8:17-18</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 7015005,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 15,
       "verse": 5,
       "text": "When he had set fire to the torches, he released them into the standing grain of the Philistines and burned up both the shocks and the standing grain, along with the vineyards and olive groves.",
       "links": "<a href='/AIV/Ex/22/6'>Ex. 22:6</a>; <a href='/AIV/07/6/4'>Judg. 6:4</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 7015006,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 15,
       "verse": 6,
       "text": "Then the Philistines asked, 'Who has done this?' They were told, 'Samson, the son-in-law of the Timnite, because his father-in-law took Samson’s wife and gave her to his companion.' So the Philistines went up and burned her and her father with fire.",
       "links": "<a href='/AIV/07/14/15'>Judg. 14:15</a>; <a href='/AIV/07/14/20'>Judg. 14:20</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 7015007,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 15,
       "verse": 7,
       "text": "Samson said to them, 'If this is what you do, I will not stop until I have taken vengeance on you.'",
       "links": "<a href='/AIV/Deut/32/35'>Deut. 32:35</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 7015008,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 15,
       "verse": 8,
       "text": "And he struck them down ruthlessly, with a great slaughter. Then he went down and stayed in the cleft of the rock at Etam.",
       "links": "<a href='/AIV/07/6/2'>Judg. 6:2</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 7015009,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 15,
       "verse": 9,
       "text": "Then the Philistines came up, camped in Judah, and spread out in Lehi.",
       "links": "<a href='/AIV/07/13/1'>Judg. 13:1</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 7015010,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 15,
       "verse": 10,
       "text": "The men of Judah said, 'Why have you come up against us?' They answered, 'We have come to bind Samson, to do to him as he did to us.'",
       "links": "<a href='/AIV/07/14/4'>Judg. 14:4</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 7015011,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 15,
       "verse": 11,
       "text": "Then three thousand men of Judah went down to the cleft of the rock at Etam and said to Samson, 'Do you not know that the Philistines rule over us? What then is this that you have done to us?' He replied, 'As they did to me, so I have done to them.'",
       "links": "<a href='/AIV/Ex/21/23-25'>Ex. 21:23-25</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 7015012,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 15,
       "verse": 12,
       "text": "They said to him, 'We have come down to bind you, so that we may deliver you into the hands of the Philistines.' Samson said to them, 'Swear to me that you will not attack me yourselves.'",
       "links": "<a href='/AIV/7/16/23'>Judg. 16:23</a>; <a href='/AIV/1/37/28'>Gen. 37:28</a>; <a href='/AIV/50/18/12'>John. 18:12</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 7015013,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 15,
       "verse": 13,
       "text": "They answered him, 'No, we will only bind you and give you into their hands. We will not kill you.' So they bound him with two new ropes and brought him up from the rock.",
       "links": "<a href='/AIV/7/16/11'>Judg. 16:11</a>; <a href='/AIV/23/118/6'>Ps. 118:6</a>; <a href='/AIV/51/23/12'>Acts. 23:12</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 7015014,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 15,
       "verse": 14,
       "text": "When he came to Lehi, the Philistines shouted as they met him. Then the Spirit of the LORD came powerfully upon him, and the ropes on his arms became like flax that had caught fire, and his bonds melted from his hands.",
       "links": "<a href='/AIV/07/14/6'>Judg. 14:6</a>; <a href='/AIV/Acts/16/26'>Acts 16:26</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 7015015,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 15,
       "verse": 15,
       "text": "He found a fresh jawbone of a donkey, reached out his hand, took it, and with it struck down a thousand men.",
       "links": "<a href='/AIV/Lev/26/8'>Lev. 26:8</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 7015016,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 15,
       "verse": 16,
       "text": "Then Samson said, 'With a jawbone of a donkey, heaps upon heaps, with the jawbone of a donkey I have struck down a thousand men.'",
       "links": "<a href='/AIV/3/26/8'>Lev. 26:8</a>; <a href='/AIV/9/17/50'>1Sam. 17:50</a>; <a href='/AIV/65/11/34'>Heb. 11:34</a>",
@@ -200,11 +122,6 @@
     },
     {
       "pk": 7015017,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 15,
       "verse": 17,
       "text": "When he finished speaking, he threw away the jawbone, and that place was called Ramath-lehi.",
       "links": "<a href='/AIV/7/15/9'>Judg. 15:9</a>; <a href='/AIV/7/15/19'>Judg. 15:19</a>; <a href='/AIV/9/23/28'>1Sam. 23:28</a>",
@@ -212,11 +129,6 @@
     },
     {
       "pk": 7015018,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 15,
       "verse": 18,
       "text": "He was very thirsty and called upon the LORD and said, 'You have given this great deliverance by your servant, and now shall I die of thirst and fall into the hands of the uncircumcised?'",
       "links": "<a href='/AIV/Ps/22/15'>Ps. 22:15</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 7015019,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 15,
       "verse": 19,
       "text": "So God split the hollow place at Lehi, and water came out; when he drank, his spirit returned, and he revived. Therefore it was called En-hakkore, which is at Lehi to this day.",
       "links": "<a href='/AIV/Ex/17/6'>Ex. 17:6</a>; <a href='/AIV/Num/20/11'>Num. 20:11</a>",
@@ -237,33 +144,10 @@
     },
     {
       "pk": 7015020,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 15,
       "verse": 20,
       "text": "And he judged Israel in the days of the Philistines for twenty years.",
       "links": "<a href='/AIV/07/16/31'>Judg. 16:31</a>",
       "comment": "Samson’s twenty years of judging signifies a provisional period of leadership and partial deliverance, foreshadowing the permanent reign of the promised Deliverer. The cycle of judges points to the ongoing need for ordered leadership and established authority in God’s plan."
-    }
-  ],
-  "translatedAt": "2025-12-24T02:39:23.438Z",
-  "sections": [
-    {
-      "title": "Samson Burns the Philistines' Crops",
-      "startVerse": 1,
-      "endVerse": 8
-    },
-    {
-      "title": "Samson Defeats the Philistines at Lehi",
-      "startVerse": 9,
-      "endVerse": 17
-    },
-    {
-      "title": "God Provides Water for Samson",
-      "startVerse": 18,
-      "endVerse": 20
     }
   ]
 }

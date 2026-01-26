@@ -1,16 +1,13 @@
 {
-  "book": 17,
+  "translation": "AIV",
+  "bookId": "tobit",
   "bookName": "Tobit",
   "bookAbbreviation": "Tob",
+  "bookNumber": 17,
   "chapter": 13,
   "verses": [
     {
       "pk": 17013001,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 13,
       "verse": 1,
       "text": "Then Tobit opened his mouth in prayer and said: 'Blessed is God who lives forever, and blessed is his kingdom.'",
       "links": "<a href='/AIV/27/2/20'>Dan. 2:20</a>; <a href='/AIV/19/145/13'>Ps. 145:13</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 17013002,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 13,
       "verse": 2,
       "text": "'For he afflicts and shows mercy; he leads down to Hades and brings up again. No one can escape his hand.'",
       "links": "<a href='/AIV/05/32/39'>Deut. 32:39</a>; <a href='/AIV/09/2/6'>1 Sam. 2:6</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 17013003,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 13,
       "verse": 3,
       "text": "'Acknowledge him before the nations, all you children of Israel! For he has scattered you among them.'",
       "links": "<a href='/AIV/23/43/21'>Isa. 43:21</a>; <a href='/AIV/26/36/24'>Ezek. 36:24</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 17013004,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 13,
       "verse": 4,
       "text": "'There declare his greatness, and exalt him before all the living; because he is our Lord and God, he is our Father forever.'",
       "links": "<a href='/AIV/19/34/3'>Ps. 34:3</a>; <a href='/AIV/23/63/16'>Isa. 63:16</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 17013005,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 13,
       "verse": 5,
       "text": "'He will discipline you for your iniquities, but will again show mercy on all of you. He will gather you from all the nations among whom you have been scattered.'",
       "links": "<a href='/AIV/24/29/14'>Jer. 29:14</a>; <a href='/AIV/19/106/47'>Ps. 106:47</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 17013006,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 13,
       "verse": 6,
       "text": "'If you turn to him with your whole heart and with all your soul, to do what is true before him, then he will turn to you and will not hide his face from you. See what he will do with you; give him thanks with all your full voice. Praise the Lord of righteousness, and exalt the King of the ages.'",
       "links": "<a href='/AIV/05/30/2'>Deut. 30:2</a>; <a href='/AIV/19/51/17'>Ps. 51:17</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 17013007,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 13,
       "verse": 7,
       "text": "As for me, I exalt my God, and my soul rejoices in the King of heaven.",
       "links": "<a href='/AIV/09/12/14'>1 Sam. 12:14</a>; <a href='/AIV/24/18/8'>Jer. 18:8</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 17013008,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 13,
       "verse": 8,
       "text": "Let all people speak of his majesty, and acknowledge him in Jerusalem.",
       "links": "<a href='/AIV/42/1/46-47'>Luke 1:46-47</a>; <a href='/AIV/19/103/1'>Ps. 103:1</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 17013009,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 13,
       "verse": 9,
       "text": "O Jerusalem, the holy city, he afflicted you for the deeds of your hands, but will again have mercy on the children of the righteous.",
       "links": "<a href='/AIV/23/2/3'>Isa. 2:3</a>; <a href='/AIV/19/48/1-2'>Ps. 48:1-2</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 17013010,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 13,
       "verse": 10,
       "text": "Acknowledge the Lord, for he is good, and bless the King of the ages, so that his tent may be rebuilt in you in joy. May he cheer all those within you who are captives, and love all those within you who are distressed, to all generations forever.",
       "links": "<a href='/AIV/25/1/8'>Lam. 1:8</a>; <a href='/AIV/19/122/6'>Ps. 122:6</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 17013011,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 13,
       "verse": 11,
       "text": "A bright light will shine to all the ends of the earth; many nations will come to you from far away, the inhabitants of the remotest parts of the earth to your holy name, bearing gifts in their hands for the King of heaven. Generation after generation will give joyful praise in you; the name of the chosen city will endure forever.",
       "links": "<a href='/AIV/23/54/2'>Isa. 54:2</a>; <a href='/AIV/19/126/1-2'>Ps. 126:1-2</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 17013012,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 13,
       "verse": 12,
       "text": "Cursed are all who speak a harsh word against you; cursed are all who conquer you and pull down your walls, all who overthrow your towers and set your homes on fire. But blessed forever will be all who revere you.",
       "links": "<a href='/AIV/23/60/3-6'>Isa. 60:3-6</a>; <a href='/AIV/40/2/1-2'>Matt. 2:1-2</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 17013013,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 13,
       "verse": 13,
       "text": "Go, then, and rejoice over the children of the righteous, for they will be gathered together and will praise the Lord of the ages.",
       "links": "<a href='/AIV/01/12/3'>Gen. 12:3</a>; <a href='/AIV/19/122/6'>Ps. 122:6</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 17013014,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 13,
       "verse": 14,
       "text": "Happy are those who love you, and happy are those who rejoice in your prosperity. Happy also are all people who grieve with you because of your afflictions; for they will rejoice with you and witness all your glory forever.",
       "links": "<a href='/AIV/27/12/3'>Dan. 12:3</a>; <a href='/AIV/40/13/43'>Matt. 13:43</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 17013015,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 13,
       "verse": 15,
       "text": "My soul blesses the Lord, the great King!",
       "links": "<a href='/AIV/19/122/6'>Ps. 122:6</a>; <a href='/AIV/23/66/10-14'>Isa. 66:10-14</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 17013016,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 13,
       "verse": 16,
       "text": "For Jerusalem will be built as his house for all ages. How happy I will be if a remnant of my descendants should survive to see your glory and acknowledge the King of heaven. The gates of Jerusalem will be built with sapphire and emerald, and all your walls with precious stones. The towers of Jerusalem will be built with gold, and their battlements with pure gold. The streets of Jerusalem will be paved with ruby and with stones of Ophir.",
       "links": "<a href='/AIV/23/54/11-12'>Isa. 54:11-12</a>; <a href='/AIV/66/21/18-21'>Rev. 21:18-21</a>",
@@ -200,28 +122,10 @@
     },
     {
       "pk": 17013017,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 13,
       "verse": 17,
       "text": "The gates of Jerusalem will sing hymns of joy, and all her houses will cry, 'Hallelujah! Blessed be the God of Israel!' and the blessed will bless the holy name forever and ever.",
       "links": "<a href='/AIV/29/52/9'>Isa. 52:9</a>; <a href='/AIV/23/102/21'>Ps. 102:21</a>; <a href='/AIV/73/19/1'>Rev. 19:1</a>",
       "comment": "This verse envisions a renewed Jerusalem where praise and worship permeate both public and private life; it highlights eschatological hope, the importance of communal liturgy, and echoes themes from Psalms (Psalm 150:6) and prophetic visions of restoration (Isaiah 60:18)."
-    }
-  ],
-  "translatedAt": "2026-01-03T03:36:57.121Z",
-  "sections": [
-    {
-      "title": "Tobit's Hymn of Praise and Call to Conversion",
-      "startVerse": 1,
-      "endVerse": 9
-    },
-    {
-      "title": "Prophecy of Jerusalem's Restoration and Glory",
-      "startVerse": 10,
-      "endVerse": 18
     }
   ]
 }

@@ -1,16 +1,13 @@
 {
-  "book": 1,
+  "translation": "AIV",
+  "bookId": "genesis",
   "bookName": "Genesis",
   "bookAbbreviation": "Gen",
+  "bookNumber": 1,
   "chapter": 48,
   "verses": [
     {
       "pk": 1048001,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 48,
       "verse": 1,
       "text": "After these things, Joseph was told, 'Your father is sick.' So he took his two sons, Manasseh and Ephraim, with him.",
       "links": "<a href='/AIV/1/46/20'>Gen. 46:20</a>; <a href='/AIV/1/50/1'>Gen. 50:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 1048002,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 48,
       "verse": 2,
       "text": "Jacob was told, 'Your son Joseph has come to you.' So Israel gathered his strength and sat up on the bed.",
       "links": "<a href='/AIV/1/27/19'>Gen. 27:19</a>; <a href='/AIV/1/47/31'>Gen. 47:31</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 1048003,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 48,
       "verse": 3,
       "text": "And Jacob said to Joseph, 'God Almighty appeared to me at Luz in the land of Canaan and blessed me,'",
       "links": "<a href='/AIV/1/28/13'>Gen. 28:13</a>; <a href='/AIV/1/35/9'>Gen. 35:9-15</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 1048004,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 48,
       "verse": 4,
       "text": "'and He said to me, \"Look, I will make you fruitful and multiply you. I will make you a congregation of nations, and I will give this land to your descendants after you for an everlasting possession.\"'",
       "links": "<a href='/AIV/1/17/4'>Gen. 17:4</a>; <a href='/AIV/1/35/11-12'>Gen. 35:11-12</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 1048005,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 48,
       "verse": 5,
       "text": "'Now your two sons, who were born to you in Egypt before I came to you, are mine; Ephraim and Manasseh shall be mine, just as Reuben and Simeon are.'",
       "links": "<a href='/AIV/1/41/50-51'>Gen. 41:50-51</a>; <a href='/AIV/1/49/3-5'>Gen. 49:3-5</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 1048006,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 48,
       "verse": 6,
       "text": "'But any children born to you after them shall be yours; they will be called by the names of their brothers in their inheritance.'",
       "links": "<a href='/AIV/1/46/20'>Gen. 46:20</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 1048007,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 48,
       "verse": 7,
       "text": "'As for me, when I came from Paddan, Rachel died beside me in the land of Canaan, on the way, while there was still some distance to go to Ephrath; and I buried her there on the road to Ephrath, that is, Bethlehem.'",
       "links": "<a href='/AIV/1/35/16-19'>Gen. 35:16-19</a>; <a href='/AIV/1/35/6'>Gen. 35:6</a>; <a href='/AIV/40/2/6'>Matt. 2:6</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 1048008,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 48,
       "verse": 8,
       "text": "When Israel saw Joseph’s sons, he said, 'Who are these?'",
       "links": "<a href='/AIV/1/27/18'>Gen. 27:18</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 1048009,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 48,
       "verse": 9,
       "text": "Joseph replied to his father, 'They are my sons, whom God has given me here.' Israel said, 'Please bring them to me, so I may bless them.'",
       "links": "<a href='/AIV/1/33/5'>Gen. 33:5</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 1048010,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 48,
       "verse": 10,
       "text": "Now Israel’s eyes were dim because of age, so he could not see clearly. Joseph brought them near him, and he kissed them and embraced them.",
       "links": "<a href='/AIV/1/27/1'>Gen. 27:1</a>; <a href='/AIV/1/27/27'>Gen. 27:27</a>",
@@ -127,11 +79,6 @@
     },
     {
       "pk": 1048011,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 48,
       "verse": 11,
       "text": "Israel said to Joseph, 'I never expected to see your face, and now God has even let me see your children.'",
       "links": "<a href='/AIV/1/45/26-28'>Gen. 45:26-28</a>; <a href='/AIV/19/27/13'>Ps. 27:13</a>",
@@ -139,11 +86,6 @@
     },
     {
       "pk": 1048012,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 48,
       "verse": 12,
       "text": "Then Joseph removed them from his father’s knees, and bowed down before him with his face to the ground.",
       "links": "<a href='/AIV/1/18/2'>Gen. 18:2</a>; <a href='/AIV/2/4/31'>Exod. 4:31</a>",
@@ -151,11 +93,6 @@
     },
     {
       "pk": 1048013,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 48,
       "verse": 13,
       "text": "Joseph took both of them, Ephraim in his right hand toward Israel’s left, and Manasseh in his left hand toward Israel’s right, and brought them close to him.",
       "links": "<a href='/AIV/1/41/51-52'>Gen. 41:51-52</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 1048014,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 48,
       "verse": 14,
       "text": "But Israel stretched out his right hand and laid it on Ephraim’s head, even though he was the younger, and his left hand on Manasseh’s head. He crossed his hands, although Manasseh was the firstborn.",
       "links": "<a href='/AIV/1/25/23'>Gen. 25:23</a>; <a href='/AIV/1/27/36'>Gen. 27:36</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 1048015,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 48,
       "verse": 15,
       "text": "And he blessed Joseph, and said, 'The God before whom my fathers Abraham and Isaac walked—the God who has been my shepherd all my life to this day,'",
       "links": "<a href='/AIV/1/24/40'>Gen. 24:40</a>; <a href='/AIV/19/23/1'>Ps. 23:1</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 1048016,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 48,
       "verse": 16,
       "text": "'the angel who has delivered me from all harm, bless these boys. May they be called by my name and the name of my fathers Abraham and Isaac. May they increase greatly upon the earth.'",
       "links": "<a href='/AIV/1/32/24-30'>Gen. 32:24-30</a>; <a href='/AIV/23/63/9'>Isa. 63:9</a>",
@@ -200,11 +122,6 @@
     },
     {
       "pk": 1048017,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 48,
       "verse": 17,
       "text": "When Joseph saw that his father had laid his right hand on Ephraim’s head, it displeased him. He took hold of his father’s hand to move it from Ephraim’s head to Manasseh’s head.",
       "links": "<a href='/AIV/1/27/36'>Gen. 27:36</a>",
@@ -212,11 +129,6 @@
     },
     {
       "pk": 1048018,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 48,
       "verse": 18,
       "text": "Joseph said to his father, 'Not so, my father, for this one is the firstborn; put your right hand on his head.'",
       "links": "<a href='/AIV/1/27/18-19'>Gen. 27:18-19</a>",
@@ -224,11 +136,6 @@
     },
     {
       "pk": 1048019,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 48,
       "verse": 19,
       "text": "But his father refused and said, 'I know, my son, I know; he too will become a people, and he too will be great. Nevertheless, his younger brother shall be greater than he, and his descendants will become a multitude of nations.'",
       "links": "<a href='/AIV/1/17/4'>Gen. 17:4</a>; <a href='/AIV/1/25/23'>Gen. 25:23</a>",
@@ -236,11 +143,6 @@
     },
     {
       "pk": 1048020,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 48,
       "verse": 20,
       "text": "So he blessed them that day, and said, 'By you Israel will pronounce blessings, saying, \"May God make you like Ephraim and Manasseh.\"' Thus he put Ephraim before Manasseh.",
       "links": "<a href='/AIV/1/49/25-26'>Gen. 49:25-26</a>; <a href='/AIV/1/17/20'>Gen. 17:20</a>",
@@ -248,11 +150,6 @@
     },
     {
       "pk": 1048021,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 48,
       "verse": 21,
       "text": "Then Israel said to Joseph, 'I am about to die, but God will be with you, and will bring you back to the land of your fathers.'",
       "links": "<a href='/AIV/1/28/15'>Gen. 28:15</a>; <a href='/AIV/1/46/4'>Gen. 46:4</a>",
@@ -261,33 +158,10 @@
     },
     {
       "pk": 1048022,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 48,
       "verse": 22,
       "text": "'And I give to you one portion more than your brothers, which I took from the hand of the Amorite with my sword and my bow.'",
       "links": "<a href='/AIV/1/33/18-19'>Gen. 33:18-19</a>; <a href='/AIV/6/24/32'>Josh. 24:32</a>",
       "comment": "This extra portion guarantees Joseph’s special inheritance. The idea of a chosen servant receiving an extra ‘portion’ connects to later biblical treatments of the inheritance of God’s people (cf. Josh. 24:32; John 17:22)."
-    }
-  ],
-  "translatedAt": "2025-12-24T00:45:27.405Z",
-  "sections": [
-    {
-      "title": "Jacob Blesses Ephraim and Manasseh",
-      "startVerse": 1,
-      "endVerse": 12
-    },
-    {
-      "title": "Ephraim Preferred Before Manasseh",
-      "startVerse": 13,
-      "endVerse": 20
-    },
-    {
-      "title": "Jacob's Final Promise to Joseph",
-      "startVerse": 21,
-      "endVerse": 22
     }
   ]
 }

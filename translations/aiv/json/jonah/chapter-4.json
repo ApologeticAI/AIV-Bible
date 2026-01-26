@@ -1,16 +1,13 @@
 {
-  "book": 39,
+  "translation": "AIV",
+  "bookId": "jonah",
   "bookName": "Jonah",
   "bookAbbreviation": "Jonah",
+  "bookNumber": 39,
   "chapter": 4,
   "verses": [
     {
       "pk": 39004001,
-      "translation": "AIV",
-      "book": 39,
-      "bookName": "Jonah",
-      "bookAbbreviation": "Jonah",
-      "chapter": 4,
       "verse": 1,
       "text": "But this greatly displeased Jonah, and he became angry.",
       "links": "<a href='/AIV/19/106/45'>Ps. 106:45</a>; <a href='/AIV/23/1/24'>Isa. 1:24</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 39004002,
-      "translation": "AIV",
-      "book": 39,
-      "bookName": "Jonah",
-      "bookAbbreviation": "Jonah",
-      "chapter": 4,
       "verse": 2,
       "text": "He prayed to the LORD and said, \"O LORD, is this not what I said when I was still in my own land? That is why I was quick to flee to Tarshish. For I knew that you are a gracious and compassionate God, slow to anger and abundant in mercy, and one who relents from sending disaster.\"",
       "links": "<a href='/AIV/2/34/6'>Ex. 34:6</a>; <a href='/AIV/19/86/15'>Ps. 86:15</a>; <a href='/AIV/42/23/34'>Luke 23:34</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 39004003,
-      "translation": "AIV",
-      "book": 39,
-      "bookName": "Jonah",
-      "bookAbbreviation": "Jonah",
-      "chapter": 4,
       "verse": 3,
       "text": "Now, LORD, please take my life from me, for it is better for me to die than to live.",
       "links": "<a href='/AIV/11/19/4'>1 Kings 19:4</a>; <a href='/AIV/19/73/26'>Ps. 73:26</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 39004004,
-      "translation": "AIV",
-      "book": 39,
-      "bookName": "Jonah",
-      "bookAbbreviation": "Jonah",
-      "chapter": 4,
       "verse": 4,
       "text": "But the LORD said, \"Is it right for you to be angry?\"",
       "links": "<a href='/AIV/19/37/8'>Ps. 37:8</a>; <a href='/AIV/40/5/44-45'>Matt. 5:44-45</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 39004005,
-      "translation": "AIV",
-      "book": 39,
-      "bookName": "Jonah",
-      "bookAbbreviation": "Jonah",
-      "chapter": 4,
       "verse": 5,
       "text": "So Jonah went out of the city and sat down east of it. There he made a shelter for himself and sat under its shade, waiting to see what would happen to the city.",
       "links": "<a href='/AIV/19/91/1'>Ps. 91:1</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 39004006,
-      "translation": "AIV",
-      "book": 39,
-      "bookName": "Jonah",
-      "bookAbbreviation": "Jonah",
-      "chapter": 4,
       "verse": 6,
       "text": "Then the LORD God appointed a plant, and it grew up over Jonah to give shade for his head and relieve his discomfort. Jonah was exceedingly glad because of the plant.",
       "links": "<a href='/AIV/19/121/5-6'>Ps. 121:5-6</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 39004007,
-      "translation": "AIV",
-      "book": 39,
-      "bookName": "Jonah",
-      "bookAbbreviation": "Jonah",
-      "chapter": 4,
       "verse": 7,
       "text": "But at dawn the next day, God appointed a worm that attacked the plant, so that it withered.",
       "links": "<a href='/AIV/19/90/6'>Ps. 90:6</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 39004008,
-      "translation": "AIV",
-      "book": 39,
-      "bookName": "Jonah",
-      "bookAbbreviation": "Jonah",
-      "chapter": 4,
       "verse": 8,
       "text": "When the sun rose, God appointed a scorching east wind, and the sun beat down on Jonah’s head so that he grew faint. He wished to die and said, \"It is better for me to die than to live.\"",
       "links": "<a href='/AIV/19/121/6'>Ps. 121:6</a>; <a href='/AIV/19/102/4'>Ps. 102:4</a>; <a href='/AIV/40/26/38'>Matt. 26:38</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 39004009,
-      "translation": "AIV",
-      "book": 39,
-      "bookName": "Jonah",
-      "bookAbbreviation": "Jonah",
-      "chapter": 4,
       "verse": 9,
       "text": "But God said to Jonah, \"Is it right for you to be angry about the plant?\" And he said, \"It is right for me to be angry, even to death.\"",
       "links": "<a href='/AIV/19/73/3'>Ps. 73:3</a>; <a href='/AIV/24/12/1'>Jer. 12:1</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 39004010,
-      "translation": "AIV",
-      "book": 39,
-      "bookName": "Jonah",
-      "bookAbbreviation": "Jonah",
-      "chapter": 4,
       "verse": 10,
       "text": "The LORD said, \"You have been concerned about the plant, though you did not labor for it or make it grow. It came up in a night and perished in a night.\"",
       "links": "<a href='/AIV/19/39/5'>Ps. 39:5</a>; <a href='/AIV/19/127/1'>Ps. 127:1</a>",
@@ -128,28 +80,10 @@
     },
     {
       "pk": 39004011,
-      "translation": "AIV",
-      "book": 39,
-      "bookName": "Jonah",
-      "bookAbbreviation": "Jonah",
-      "chapter": 4,
       "verse": 11,
       "text": "And should I not have concern for Nineveh, that great city, in which there are more than a hundred and twenty thousand persons who cannot tell their right hand from their left, and also many animals?",
       "links": "<a href='/AIV/19/36/6'>Ps. 36:6</a>; <a href='/AIV/42/19/41-44'>Luke 19:41-44</a>",
       "comment": "God’s compassion extends universally, embracing even the ignorant and the unworthy. This signals the universality of salvation, fulfilled in Christ, who weeps over Jerusalem (<a href='/AIV/42/19/41-44'>Luke 19:41-44</a>). Mercy triumphs over judgment (see <a href='/AIV/59/2/13'>James 2:13</a>)."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:47:07.209Z",
-  "sections": [
-    {
-      "title": "Jonah's Anger at God's Mercy",
-      "startVerse": 1,
-      "endVerse": 4
-    },
-    {
-      "title": "The Lesson of the Plant",
-      "startVerse": 5,
-      "endVerse": 11
     }
   ]
 }

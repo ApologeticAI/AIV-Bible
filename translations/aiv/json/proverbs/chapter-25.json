@@ -1,16 +1,13 @@
 {
-  "book": 24,
+  "translation": "AIV",
+  "bookId": "proverbs",
   "bookName": "Proverbs",
   "bookAbbreviation": "Prov",
+  "bookNumber": 24,
   "chapter": 25,
   "verses": [
     {
       "pk": 24025001,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 25,
       "verse": 1,
       "text": "These also are proverbs of Solomon, the men of Hezekiah king of Judah copied them:",
       "links": "<a href='/AIV/11/4/32'>1 Kgs 4:32</a>; <a href='/AIV/14/29/30'>2 Chr 29:30</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 24025002,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 25,
       "verse": 2,
       "text": "It is the glory of God to conceal a matter, but the glory of kings is to search a matter out.",
       "links": "<a href='/AIV/05/29/29'>Deut 29:29</a>; <a href='/AIV/45/11/33'>Rom 11:33</a>",
@@ -32,11 +24,6 @@
     },
     {
       "pk": 24025003,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 25,
       "verse": 3,
       "text": "As the heavens are high and the earth is deep, so the heart of kings is unsearchable.",
       "links": "<a href='/AIV/10/14/25'>2 Sam 14:25</a>; <a href='/AIV/20/15/11'>Prov 15:11</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 24025004,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 25,
       "verse": 4,
       "text": "Remove the dross from the silver, and a vessel for the smith will emerge;",
       "links": "<a href='/AIV/20/17/3'>Prov 17:3</a>; <a href='/AIV/23/1/25'>Isa 1:25</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 24025005,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 25,
       "verse": 5,
       "text": "Remove the wicked from the presence of the king, and his throne will be established in righteousness.",
       "links": "<a href='/AIV/20/16/12'>Prov 16:12</a>; <a href='/AIV/19/101/6-8'>Ps 101:6-8</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 24025006,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 25,
       "verse": 6,
       "text": "Do not exalt yourself in the king’s presence, or stand in the place of the great;",
       "links": "<a href='/AIV/42/14/8-11'>Lk 14:8-11</a>; <a href='/AIV/20/27/2'>Prov 27:2</a>",
@@ -81,11 +53,6 @@
     },
     {
       "pk": 24025007,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 25,
       "verse": 7,
       "text": "For it is better to be told, \"Come up here,\" than to be put lower in the presence of a nobleman you saw.",
       "links": "<a href='/AIV/42/14/10'>Lk 14:10</a>; <a href='/AIV/20/15/33'>Prov 15:33</a>",
@@ -93,11 +60,6 @@
     },
     {
       "pk": 24025008,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 25,
       "verse": 8,
       "text": "Do not be quick to go to court, for what will you do in the end, when your neighbor puts you to shame?",
       "links": "<a href='/AIV/40/5/25-26'>Mt 5:25-26</a>; <a href='/AIV/20/18/17'>Prov 18:17</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 24025009,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 25,
       "verse": 9,
       "text": "Argue your case with your neighbor himself, and do not disclose another’s secret;",
       "links": "<a href='/AIV/20/11/13'>Prov 11:13</a>; <a href='/AIV/40/18/15'>Mt 18:15</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 24025010,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 25,
       "verse": 10,
       "text": "Lest the one who hears you bring shame upon you, and your bad reputation never goes away.",
       "links": "<a href='/AIV/20/22/1'>Prov 22:1</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 24025011,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 25,
       "verse": 11,
       "text": "A word fitly spoken is like apples of gold in settings of silver.",
       "links": "<a href='/AIV/20/15/23'>Prov 15:23</a>; <a href='/AIV/21/12/11'>Eccl 12:11</a>",
@@ -142,11 +89,6 @@
     },
     {
       "pk": 24025012,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 25,
       "verse": 12,
       "text": "Like a gold ring or an ornament of fine gold is a wise reprover to a listening ear.",
       "links": "<a href='/AIV/20/9/8-9'>Prov 9:8-9</a>; <a href='/AIV/19/141/5'>Ps 141:5</a>",
@@ -154,11 +96,6 @@
     },
     {
       "pk": 24025013,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 25,
       "verse": 13,
       "text": "Like the cold of snow at harvest time is a faithful messenger to those who send him; he refreshes his master’s soul.",
       "links": "<a href='/AIV/20/13/17'>Prov 13:17</a>",
@@ -166,11 +103,6 @@
     },
     {
       "pk": 24025014,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 25,
       "verse": 14,
       "text": "Like clouds and wind without rain is a man who boasts of gifts he does not give.",
       "links": "<a href='/AIV/20/20/6'>Prov 20:6</a>; <a href='/AIV/65/1/12'>Jude 1:12</a>",
@@ -178,11 +110,6 @@
     },
     {
       "pk": 24025015,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 25,
       "verse": 15,
       "text": "With patience a ruler may be persuaded, and a gentle tongue breaks a bone.",
       "links": "<a href='/AIV/20/15/1'>Prov 15:1</a>; <a href='/AIV/54/6/11'>1 Tim 6:11</a>",
@@ -190,11 +117,6 @@
     },
     {
       "pk": 24025016,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 25,
       "verse": 16,
       "text": "If you find honey, eat only what you need, lest you have too much and vomit it.",
       "links": "<a href='/AIV/20/24/13'>Prov 24:13</a>",
@@ -203,11 +125,6 @@
     },
     {
       "pk": 24025017,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 25,
       "verse": 17,
       "text": "Let your foot seldom be in your neighbor’s house, or he will become weary of you and hate you.",
       "links": "<a href='/AIV/20/27/14'>Prov 27:14</a>",
@@ -215,11 +132,6 @@
     },
     {
       "pk": 24025018,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 25,
       "verse": 18,
       "text": "A man who bears false witness against his neighbor is like a club, a sword, and a sharp arrow.",
       "links": "<a href='/AIV/02/20/16'>Ex 20:16</a>; <a href='/AIV/20/6/19'>Prov 6:19</a>",
@@ -227,11 +139,6 @@
     },
     {
       "pk": 24025019,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 25,
       "verse": 19,
       "text": "Trusting in a treacherous person in time of trouble is like a bad tooth or a foot out of joint.",
       "links": "<a href='/AIV/19/118/8-9'>Ps 118:8-9</a>",
@@ -239,11 +146,6 @@
     },
     {
       "pk": 24025020,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 25,
       "verse": 20,
       "text": "Like one who takes off a garment on a cold day, or vinegar poured on soda, is one who sings songs to a heavy heart.",
       "links": "<a href='/AIV/20/27/14'>Prov 27:14</a>; <a href='/AIV/45/12/15'>Rom 12:15</a>",
@@ -251,11 +153,6 @@
     },
     {
       "pk": 24025021,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 25,
       "verse": 21,
       "text": "If your enemy is hungry, give him bread to eat, and if he is thirsty, give him water to drink;",
       "links": "<a href='/AIV/45/12/20'>Rom 12:20</a>; <a href='/AIV/02/23/4-5'>Ex 23:4-5</a>",
@@ -264,11 +161,6 @@
     },
     {
       "pk": 24025022,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 25,
       "verse": 22,
       "text": "for you will heap burning coals on his head, and the Lord will reward you.",
       "links": "<a href='/AIV/45/12/20'>Rom 12:20</a>; <a href='/AIV/19/18/25'>Ps 18:25</a>",
@@ -276,11 +168,6 @@
     },
     {
       "pk": 24025023,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 25,
       "verse": 23,
       "text": "The north wind brings forth rain, and a backbiting tongue brings angry looks.",
       "links": "<a href='/AIV/19/101/5'>Ps 101:5</a>",
@@ -288,11 +175,6 @@
     },
     {
       "pk": 24025024,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 25,
       "verse": 24,
       "text": "It is better to live in a corner of the housetop than in a house shared with a contentious woman.",
       "links": "<a href='/AIV/20/21/9'>Prov 21:9</a>",
@@ -300,11 +182,6 @@
     },
     {
       "pk": 24025025,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 25,
       "verse": 25,
       "text": "Like cold water to a weary soul is good news from a distant land.",
       "links": "<a href='/AIV/23/52/7'>Isa 52:7</a>; <a href='/AIV/20/15/30'>Prov 15:30</a>",
@@ -312,11 +189,6 @@
     },
     {
       "pk": 24025026,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 25,
       "verse": 26,
       "text": "Like a muddied spring or a polluted fountain is a righteous man who gives way before the wicked.",
       "links": "<a href='/AIV/26/34/18'>Ezek 34:18-19</a>",
@@ -324,11 +196,6 @@
     },
     {
       "pk": 24025027,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 25,
       "verse": 27,
       "text": "It is not good to eat too much honey, nor is it glorious to seek one’s own glory.",
       "links": "<a href='/AIV/20/25/16'>Prov 25:16</a>; <a href='/AIV/20/27/2'>Prov 27:2</a>",
@@ -336,48 +203,10 @@
     },
     {
       "pk": 24025028,
-      "translation": "AIV",
-      "book": 24,
-      "bookName": "Proverbs",
-      "bookAbbreviation": "Prov",
-      "chapter": 25,
       "verse": 28,
       "text": "A man without self-control is like a city broken into and left without walls.",
       "links": "<a href='/AIV/20/16/32'>Prov 16:32</a>",
       "comment": "Self-control is vital protection for both the soul and community. The biblical tradition understands virtue as both gift and human response, cultivated through grace and discipline."
-    }
-  ],
-  "translatedAt": "2025-12-24T07:03:35.356Z",
-  "sections": [
-    {
-      "title": "Hezekiah's Collection of Solomon's Proverbs",
-      "startVerse": 1,
-      "endVerse": 1
-    },
-    {
-      "title": "Counsel Regarding Kings and Judgment",
-      "startVerse": 2,
-      "endVerse": 5
-    },
-    {
-      "title": "Admonitions on Discretion and Humility",
-      "startVerse": 6,
-      "endVerse": 10
-    },
-    {
-      "title": "Wisdom in Speech and Behavior",
-      "startVerse": 11,
-      "endVerse": 15
-    },
-    {
-      "title": "Warnings Concerning Relationships and Conduct",
-      "startVerse": 16,
-      "endVerse": 20
-    },
-    {
-      "title": "Virtue and Self-Control",
-      "startVerse": 21,
-      "endVerse": 28
     }
   ]
 }

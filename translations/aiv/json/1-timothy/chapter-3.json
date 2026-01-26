@@ -1,16 +1,13 @@
 {
-  "book": 61,
+  "translation": "AIV",
+  "bookId": "1-timothy",
   "bookName": "1 Timothy",
-  "bookAbbreviation": "1Tim",
+  "bookAbbreviation": "1 Tim",
+  "bookNumber": 61,
   "chapter": 3,
   "verses": [
     {
       "pk": 61003001,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 3,
       "verse": 1,
       "text": "This saying is trustworthy: If anyone desires the office of overseer, he desires a good work.",
       "links": "<a href='/AIV/56/1/5-9'>Titus 1:5-9</a>; <a href='/AIV/44/20/28'>Acts 20:28</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 61003002,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 3,
       "verse": 2,
       "text": "Therefore, an overseer must be above reproach, the husband of one wife, temperate, self-controlled, respectable, hospitable, able to teach,",
       "links": "<a href='/AIV/56/1/6'>Titus 1:6</a>; <a href='/AIV/60/5/3'>1 Peter 5:3</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 61003003,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 3,
       "verse": 3,
       "text": "not addicted to wine, not violent but gentle, not quarrelsome, not a lover of money.",
       "links": "<a href='/AIV/56/1/7'>Titus 1:7</a>; <a href='/AIV/40/6/24'>Matthew 6:24</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 61003004,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 3,
       "verse": 4,
       "text": "He must manage his own household well, keeping his children under control with all dignity.",
       "links": "<a href='/AIV/56/1/6'>Titus 1:6</a>; <a href='/AIV/19/101/2'>Psalm 101:2</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 61003005,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 3,
       "verse": 5,
       "text": "For if someone does not know how to manage his own household, how will he care for God’s church?",
       "links": "<a href='/AIV/42/16/10'>Luke 16:10</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 61003006,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 3,
       "verse": 6,
       "text": "He must not be a recent convert, or he may become conceited and fall under the same condemnation as the devil.",
       "links": "<a href='/AIV/23/14/12-15'>Isaiah 14:12-15</a>; <a href='/AIV/26/28/14-17'>Ezekiel 28:14-17</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 61003007,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 3,
       "verse": 7,
       "text": "Moreover, he must have a good testimony among outsiders, so that he will not fall into disgrace and into the snare of the devil.",
       "links": "<a href='/AIV/40/5/16'>Matthew 5:16</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 61003008,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 3,
       "verse": 8,
       "text": "Deacons likewise must be dignified, not double-tongued, not given to much wine, not greedy for dishonest gain.",
       "links": "<a href='/AIV/44/6/3'>Acts 6:3</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 61003009,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 3,
       "verse": 9,
       "text": "They must hold to the mystery of the faith with a pure conscience.",
       "links": "<a href='/AIV/51/1/26-27'>Colossians 1:26-27</a>; <a href='/AIV/45/16/25'>Romans 16:25</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 61003010,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 3,
       "verse": 10,
       "text": "And let them be tested first, then let them serve as deacons if they are found beyond reproach.",
       "links": "<a href='/AIV/44/6/3'>Acts 6:3</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 61003011,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 3,
       "verse": 11,
       "text": "Women likewise must be dignified, not slanderers, but sober-minded, faithful in all things.",
       "links": "<a href='/AIV/45/16/1'>Romans 16:1</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 61003012,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 3,
       "verse": 12,
       "text": "Deacons must be the husband of one wife, managing their children and their own households well.",
       "links": "<a href='/AIV/56/1/6'>Titus 1:6</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 61003013,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 3,
       "verse": 13,
       "text": "For those who serve well as deacons obtain for themselves good standing and great boldness in the faith which is in Christ Jesus.",
       "links": "<a href='/AIV/44/6/8'>Acts 6:8</a>; <a href='/AIV/58/10/19'>Hebrews 10:19</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 61003014,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 3,
       "verse": 14,
       "text": "I am writing these things to you, hoping to come to you soon.",
       "links": "<a href='/AIV/56/1/5'>Titus 1:5</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 61003015,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 3,
       "verse": 15,
       "text": "But if I am delayed, you may know how it is necessary to conduct yourself in the household of God, which is the church of the living God, the pillar and foundation of the truth.",
       "links": "<a href='/AIV/40/16/18'>Matthew 16:18</a>; <a href='/AIV/49/2/19-22'>Ephesians 2:19-22</a>",
@@ -189,33 +116,10 @@
     },
     {
       "pk": 61003016,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 3,
       "verse": 16,
       "text": "And without doubt, great is the mystery of godliness: He was revealed in the flesh, justified by the Spirit, seen by angels, preached among the nations, believed on in the world, taken up in glory.",
       "links": "<a href='/AIV/43/1/14'>John 1:14</a>; <a href='/AIV/40/28/19'>Matthew 28:19</a>; <a href='/AIV/44/1/9'>Acts 1:9</a>",
       "comment": "This is an early creed about Jesus: His incarnation, vindication, cosmic significance, global mission, and ascension. A high view of Christ’s divinity and lordship is central. Note the pattern of confession, worship, and visible order, mirroring the tradition handed down from the apostles."
-    }
-  ],
-  "translatedAt": "2025-12-24T12:11:25.851Z",
-  "sections": [
-    {
-      "title": "Qualifications of Bishops",
-      "startVerse": 1,
-      "endVerse": 7
-    },
-    {
-      "title": "Qualifications of Deacons",
-      "startVerse": 8,
-      "endVerse": 13
-    },
-    {
-      "title": "The Mystery of Godliness",
-      "startVerse": 14,
-      "endVerse": 16
     }
   ]
 }

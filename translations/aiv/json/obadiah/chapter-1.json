@@ -1,16 +1,13 @@
 {
-  "book": 38,
+  "translation": "AIV",
+  "bookId": "obadiah",
   "bookName": "Obadiah",
   "bookAbbreviation": "Obad",
+  "bookNumber": 38,
   "chapter": 1,
   "verses": [
     {
       "pk": 38001001,
-      "translation": "AIV",
-      "book": 38,
-      "bookName": "Obadiah",
-      "bookAbbreviation": "Obad",
-      "chapter": 1,
       "verse": 1,
       "text": "The vision of Obadiah. This is what the Lord GOD says about Edom: We have heard a report from the LORD, and a messenger has been sent among the nations: 'Rise up! Let us rise against her for battle!'",
       "links": "<a href='/AIV/24/49/14'>Jer. 49:14</a>; <a href='/AIV/23/13/17'>Is. 13:17</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 38001002,
-      "translation": "AIV",
-      "book": 38,
-      "bookName": "Obadiah",
-      "bookAbbreviation": "Obad",
-      "chapter": 1,
       "verse": 2,
       "text": "Look, I will make you small among the nations; you will be greatly despised.",
       "links": "<a href='/AIV/24/49/15'>Jer. 49:15</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 38001003,
-      "translation": "AIV",
-      "book": 38,
-      "bookName": "Obadiah",
-      "bookAbbreviation": "Obad",
-      "chapter": 1,
       "verse": 3,
       "text": "The pride of your heart has deceived you, you who dwell in the clefts of the rock, whose home is high; you say in your heart, 'Who will bring me down to the ground?'",
       "links": "<a href='/AIV/24/49/16'>Jer. 49:16</a>; <a href='/AIV/20/16/18'>Prov. 16:18</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 38001004,
-      "translation": "AIV",
-      "book": 38,
-      "bookName": "Obadiah",
-      "bookAbbreviation": "Obad",
-      "chapter": 1,
       "verse": 4,
       "text": "Even if you soar like the eagle, and if your nest is set among the stars, from there I will bring you down,' declares the LORD.",
       "links": "<a href='/AIV/24/49/16'>Jer. 49:16</a>; <a href='/AIV/23/14/13'>Is. 14:13-15</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 38001005,
-      "translation": "AIV",
-      "book": 38,
-      "bookName": "Obadiah",
-      "bookAbbreviation": "Obad",
-      "chapter": 1,
       "verse": 5,
       "text": "If thieves came to you, if robbers by night—how you would be ruined!—would they not steal only what they wanted? If grape gatherers came to you, would they not leave some gleanings?",
       "links": "<a href='/AIV/24/49/9'>Jer. 49:9</a>; <a href='/AIV/03/19/10'>Lev. 19:10</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 38001006,
-      "translation": "AIV",
-      "book": 38,
-      "bookName": "Obadiah",
-      "bookAbbreviation": "Obad",
-      "chapter": 1,
       "verse": 6,
       "text": "How Esau has been pillaged, his hidden treasures sought out!",
       "links": "<a href='/AIV/01/25/23'>Gen. 25:23</a>; <a href='/AIV/24/49/10'>Jer. 49:10</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 38001007,
-      "translation": "AIV",
-      "book": 38,
-      "bookName": "Obadiah",
-      "bookAbbreviation": "Obad",
-      "chapter": 1,
       "verse": 7,
       "text": "All your allies have driven you to the border; those at peace with you have deceived you and prevailed against you; those who eat your bread have set a trap for you. You have no understanding.",
       "links": "<a href='/AIV/19/41/9'>Ps. 41:9</a>; <a href='/AIV/24/46/21'>Jer. 46:21</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 38001008,
-      "translation": "AIV",
-      "book": 38,
-      "bookName": "Obadiah",
-      "bookAbbreviation": "Obad",
-      "chapter": 1,
       "verse": 8,
       "text": "'Will I not on that day,' declares the LORD, 'destroy the wise men out of Edom, and understanding out of Mount Esau?'",
       "links": "<a href='/AIV/23/29/14'>Is. 29:14</a>; <a href='/AIV/24/49/7'>Jer. 49:7</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 38001009,
-      "translation": "AIV",
-      "book": 38,
-      "bookName": "Obadiah",
-      "bookAbbreviation": "Obad",
-      "chapter": 1,
       "verse": 9,
       "text": "Your mighty men shall be dismayed, O Teman, so that everyone from Mount Esau will be cut off by slaughter.",
       "links": "<a href='/AIV/24/49/22'>Jer. 49:22</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 38001010,
-      "translation": "AIV",
-      "book": 38,
-      "bookName": "Obadiah",
-      "bookAbbreviation": "Obad",
-      "chapter": 1,
       "verse": 10,
       "text": "Because of the violence you did to your brother Jacob, shame shall cover you, and you will be cut off forever.",
       "links": "<a href='/AIV/01/27/41'>Gen. 27:41</a>; <a href='/AIV/23/34/5'>Is. 34:5</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 38001011,
-      "translation": "AIV",
-      "book": 38,
-      "bookName": "Obadiah",
-      "bookAbbreviation": "Obad",
-      "chapter": 1,
       "verse": 11,
       "text": "On the day that you stood aloof, on the day strangers carried away his wealth and foreigners entered his gates and cast lots for Jerusalem, you were like one of them.",
       "links": "<a href='/AIV/19/137/7'>Ps. 137:7</a>; <a href='/AIV/25/1/10'>Lam. 1:10</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 38001012,
-      "translation": "AIV",
-      "book": 38,
-      "bookName": "Obadiah",
-      "bookAbbreviation": "Obad",
-      "chapter": 1,
       "verse": 12,
       "text": "But do not gloat over your brother's day, on the day of his disaster; do not rejoice over the people of Judah on the day of their ruin; do not boast in their distress.",
       "links": "<a href='/AIV/20/24/17'>Prov. 24:17</a>; <a href='/AIV/19/35/15'>Ps. 35:15</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 38001013,
-      "translation": "AIV",
-      "book": 38,
-      "bookName": "Obadiah",
-      "bookAbbreviation": "Obad",
-      "chapter": 1,
       "verse": 13,
       "text": "Do not enter the gate of my people on the day of their calamity; do not gloat over their disaster on the day of their calamity; do not loot their wealth on the day of their calamity.",
       "links": "<a href='/AIV/25/4/12'>Lam. 4:12</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 38001014,
-      "translation": "AIV",
-      "book": 38,
-      "bookName": "Obadiah",
-      "bookAbbreviation": "Obad",
-      "chapter": 1,
       "verse": 14,
       "text": "Do not stand at the crossroads to cut down those who escape; do not hand over their survivors in the day of distress.",
       "links": "<a href='/AIV/19/83/9-11'>Ps. 83:9-11</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 38001015,
-      "translation": "AIV",
-      "book": 38,
-      "bookName": "Obadiah",
-      "bookAbbreviation": "Obad",
-      "chapter": 1,
       "verse": 15,
       "text": "For the day of the LORD is near for all nations. As you have done, so shall it be done to you; your deeds shall return upon your own head.",
       "links": "<a href='/AIV/23/13/6'>Is. 13:6</a>; <a href='/AIV/40/7/2'>Mt. 7:2</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 38001016,
-      "translation": "AIV",
-      "book": 38,
-      "bookName": "Obadiah",
-      "bookAbbreviation": "Obad",
-      "chapter": 1,
       "verse": 16,
       "text": "For as you have drunk on my holy mountain, all the nations shall continually drink; they shall drink and swallow, and shall be as though they had never been.",
       "links": "<a href='/AIV/23/51/22-23'>Is. 51:22-23</a>; <a href='/AIV/24/25/15-16'>Jer. 25:15-16</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 38001017,
-      "translation": "AIV",
-      "book": 38,
-      "bookName": "Obadiah",
-      "bookAbbreviation": "Obad",
-      "chapter": 1,
       "verse": 17,
       "text": "But on Mount Zion there will be deliverance, and it will be holy; and the house of Jacob will possess their possessions.",
       "links": "<a href='/AIV/29/2/32'>Joel 2:32</a>; <a href='/AIV/23/4/2-4'>Is. 4:2-4</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 38001018,
-      "translation": "AIV",
-      "book": 38,
-      "bookName": "Obadiah",
-      "bookAbbreviation": "Obad",
-      "chapter": 1,
       "verse": 18,
       "text": "The house of Jacob shall be a fire, the house of Joseph a flame, and the house of Esau stubble. They will set them on fire and consume them, and there shall be no survivor for the house of Esau—for the LORD has spoken.",
       "links": "<a href='/AIV/23/10/17'>Is. 10:17</a>; <a href='/AIV/01/35/11-12'>Gen. 35:11-12</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 38001019,
-      "translation": "AIV",
-      "book": 38,
-      "bookName": "Obadiah",
-      "bookAbbreviation": "Obad",
-      "chapter": 1,
       "verse": 19,
       "text": "Those of the Negev shall possess Mount Esau, and those of the lowland, the land of the Philistines; they will possess the fields of Ephraim and Samaria, and Benjamin shall possess Gilead.",
       "links": "<a href='/AIV/06/11/16'>Josh. 11:16</a>; <a href='/AIV/01/15/18-21'>Gen. 15:18-21</a>",
@@ -237,11 +144,6 @@
     },
     {
       "pk": 38001020,
-      "translation": "AIV",
-      "book": 38,
-      "bookName": "Obadiah",
-      "bookAbbreviation": "Obad",
-      "chapter": 1,
       "verse": 20,
       "text": "The exiles of this army, the sons of Israel, shall possess the land of the Canaanites as far as Zarephath; and the exiles of Jerusalem who are in Sepharad shall possess the cities of the Negev.",
       "links": "<a href='/AIV/11/17/9'>1 Kgs. 17:9</a>; <a href='/AIV/19/69/35-36'>Ps. 69:35-36</a>",
@@ -249,33 +151,10 @@
     },
     {
       "pk": 38001021,
-      "translation": "AIV",
-      "book": 38,
-      "bookName": "Obadiah",
-      "bookAbbreviation": "Obad",
-      "chapter": 1,
       "verse": 21,
       "text": "Saviors shall go up to Mount Zion to rule over Mount Esau, and the kingdom shall be the LORD’s.",
       "links": "<a href='/AIV/19/22/28'>Ps. 22:28</a>; <a href='/AIV/66/11/15'>Rev. 11:15</a>",
       "comment": "The deliverers (or 'saviors') foreshadow Christ and His appointed leaders. The Kingdom belonging to the LORD looks ahead to the age when Christ reigns over all (Rev. 11:15). This anticipates perpetual leadership, unity, and the fulfillment of God’s promises in His one holy, apostolic Church."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:45:57.307Z",
-  "sections": [
-    {
-      "title": "Judgment Against Edom",
-      "startVerse": 1,
-      "endVerse": 9
-    },
-    {
-      "title": "The Crimes of Edom",
-      "startVerse": 10,
-      "endVerse": 14
-    },
-    {
-      "title": "The Day of the LORD and Israel's Restoration",
-      "startVerse": 15,
-      "endVerse": 21
     }
   ]
 }

@@ -1,16 +1,13 @@
 {
-  "book": 43,
+  "translation": "AIV",
+  "bookId": "zephaniah",
   "bookName": "Zephaniah",
   "bookAbbreviation": "Zeph",
+  "bookNumber": 43,
   "chapter": 3,
   "verses": [
     {
       "pk": 43003001,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 3,
       "verse": 1,
       "text": "Woe to the rebellious and defiled city, the one who oppresses!",
       "links": "<a href='/AIV/23/1/21'>Isa. 1:21</a>; <a href='/AIV/26/22/2'>Ezek. 22:2</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 43003002,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 3,
       "verse": 2,
       "text": "She listens to no voice; she accepts no correction. She does not trust in the LORD; she does not draw near to her God.",
       "links": "<a href='/AIV/23/1/23'>Isa. 1:23</a>; <a href='/AIV/24/2/17'>Jer. 2:17</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 43003003,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 3,
       "verse": 3,
       "text": "Her officials within her are roaring lions; her judges are evening wolves that leave nothing for the morning.",
       "links": "<a href='/AIV/26/22/27'>Ezek. 22:27</a>; <a href='/AIV/34/2/12'>Nah. 2:12</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 43003004,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 3,
       "verse": 4,
       "text": "Her prophets are reckless, treacherous men; her priests profane what is holy, they do violence to the law.",
       "links": "<a href='/AIV/24/23/11'>Jer. 23:11</a>; <a href='/AIV/36/1/4'>Zeph. 1:4</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 43003005,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 3,
       "verse": 5,
       "text": "The LORD within her is righteous; He does no injustice. Morning by morning He renders His judgment; He never fails. Yet the unjust know no shame.",
       "links": "<a href='/AIV/05/32/4'>Deut. 32:4</a>; <a href='/AIV/19/101/8'>Ps. 101:8</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 43003006,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 3,
       "verse": 6,
       "text": "I have cut off nations; their fortresses are ruined. I have made their streets desolate, with none passing by. Their cities are laid waste, without a man, without an inhabitant.",
       "links": "<a href='/AIV/23/37/26'>Isa. 37:26</a>; <a href='/AIV/24/4/7'>Jer. 4:7</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 43003007,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 3,
       "verse": 7,
       "text": "I said, 'Surely you will fear Me; you will accept correction.' Then her dwelling would not be cut off according to all I have appointed against her. But all the more they were eager to make all their deeds corrupt.",
       "links": "<a href='/AIV/24/36/3'>Jer. 36:3</a>; <a href='/AIV/39/3/7'>Mal. 3:7</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 43003008,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 3,
       "verse": 8,
       "text": "Therefore, wait for Me, declares the LORD, for the day when I rise up for plunder. For My judgment is to gather the nations, to assemble kingdoms, to pour out on them My indignation, all My burning anger. For the whole earth will be consumed by the fire of My jealousy.",
       "links": "<a href='/AIV/23/66/15-16'>Isa. 66:15-16</a>; <a href='/AIV/19/79/6'>Ps. 79:6</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 43003009,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 3,
       "verse": 9,
       "text": "Then I will give to the peoples purified lips, that all of them may call on the name of the LORD, to serve Him with one accord.",
       "links": "<a href='/AIV/01/11/1-9'>Gen. 11:1-9</a>; <a href='/AIV/44/2/4-11'>Acts 2:4-11</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 43003010,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 3,
       "verse": 10,
       "text": "From beyond the rivers of Ethiopia My worshipers, the daughter of My dispersed, will bring My offering.",
       "links": "<a href='/AIV/19/68/31'>Ps. 68:31</a>; <a href='/AIV/23/18/7'>Isa. 18:7</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 43003011,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 3,
       "verse": 11,
       "text": "On that day you shall not be put to shame because of all your deeds by which you have rebelled against Me; for then I will remove from your midst the proud, arrogant ones, and you shall no longer be haughty on My holy mountain.",
       "links": "<a href='/AIV/23/2/11'>Isa. 2:11</a>; <a href='/AIV/26/28/22'>Ezek. 28:22</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 43003012,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 3,
       "verse": 12,
       "text": "But I will leave in your midst a people humble and lowly. They shall take refuge in the name of the LORD, the remnant of Israel.",
       "links": "<a href='/AIV/23/14/32'>Isa. 14:32</a>; <a href='/AIV/36/2/3'>Zeph. 2:3</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 43003013,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 3,
       "verse": 13,
       "text": "They shall do no injustice and speak no lies, nor shall a deceitful tongue be found in their mouths. For they shall feed and lie down, and none shall make them afraid.",
       "links": "<a href='/AIV/23/32/17'>Isa. 32:17</a>; <a href='/AIV/66/14/5'>Rev. 14:5</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 43003014,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 3,
       "verse": 14,
       "text": "Sing aloud, O daughter of Zion! Shout, O Israel! Be glad and rejoice with all your heart, O daughter of Jerusalem!",
       "links": "<a href='/AIV/23/54/1'>Isa. 54:1</a>; <a href='/AIV/38/9/9'>Zech. 9:9</a>",
@@ -178,11 +110,6 @@
     },
     {
       "pk": 43003015,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 3,
       "verse": 15,
       "text": "The LORD has taken away your judgments, He has turned away your enemies. The King of Israel, the LORD, is in your midst; you shall never again fear evil.",
       "links": "<a href='/AIV/23/12/6'>Isa. 12:6</a>; <a href='/AIV/26/37/27'>Ezek. 37:27</a>",
@@ -190,11 +117,6 @@
     },
     {
       "pk": 43003016,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 3,
       "verse": 16,
       "text": "On that day it will be said to Jerusalem: 'Do not fear, Zion; let not your hands grow weak.'",
       "links": "<a href='/AIV/23/35/3-4'>Isa. 35:3-4</a>",
@@ -202,11 +124,6 @@
     },
     {
       "pk": 43003017,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 3,
       "verse": 17,
       "text": "The LORD your God is in your midst—a mighty one who saves. He will rejoice over you with gladness; He will quiet you with His love; He will exult over you with loud singing.",
       "links": "<a href='/AIV/23/62/5'>Isa. 62:5</a>; <a href='/AIV/19/147/11'>Ps. 147:11</a>",
@@ -214,11 +131,6 @@
     },
     {
       "pk": 43003018,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 3,
       "verse": 18,
       "text": "I will gather those who grieve for the appointed festivals—those who were away from you, to whom its reproach was a burden.",
       "links": "<a href='/AIV/23/60/20'>Isa. 60:20</a>; <a href='/AIV/19/42/4'>Ps. 42:4</a>",
@@ -226,11 +138,6 @@
     },
     {
       "pk": 43003019,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 3,
       "verse": 19,
       "text": "Behold, at that time I will deal with all who oppress you. I will save the lame and gather the outcast, and I will give them praise and renown in every land where they were put to shame.",
       "links": "<a href='/AIV/23/61/7'>Isa. 61:7</a>; <a href='/AIV/33/4/6-7'>Mic. 4:6-7</a>",
@@ -238,38 +145,10 @@
     },
     {
       "pk": 43003020,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 3,
       "verse": 20,
       "text": "At that time I will bring you in; at the time when I gather you together. For I will give you a name and praise among all the peoples of the earth, when I restore your fortunes before your eyes, says the LORD.",
       "links": "<a href='/AIV/05/30/3'>Deut. 30:3</a>; <a href='/AIV/36/2/7'>Zeph. 2:7</a>",
       "comment": "Final restoration—God gathers, restores, and glorifies His people publicly. This universal vision points forward to the consummation of all things in Christ and the gathering of God’s people into one visible and holy Church."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:53:34.502Z",
-  "sections": [
-    {
-      "title": "Woe to Jerusalem",
-      "startVerse": 1,
-      "endVerse": 7
-    },
-    {
-      "title": "The Judgment of the Nations",
-      "startVerse": 8,
-      "endVerse": 8
-    },
-    {
-      "title": "The Restoration of Israel",
-      "startVerse": 9,
-      "endVerse": 13
-    },
-    {
-      "title": "Joy in Zion's Future",
-      "startVerse": 14,
-      "endVerse": 20
     }
   ]
 }

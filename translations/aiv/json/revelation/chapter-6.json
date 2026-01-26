@@ -1,16 +1,13 @@
 {
-  "book": 73,
+  "translation": "AIV",
+  "bookId": "revelation",
   "bookName": "Revelation",
   "bookAbbreviation": "Rev",
+  "bookNumber": 73,
   "chapter": 6,
   "verses": [
     {
       "pk": 73006001,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 6,
       "verse": 1,
       "text": "Then I watched as the Lamb opened one of the seven seals, and I heard one of the four living beings say with a voice like thunder, 'Come!'",
       "links": "<a href='/AIV/26/1/10'>Ezek. 1:10</a>; <a href='/AIV/66/5/5-8'>Rev. 5:5-8</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 73006002,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 6,
       "verse": 2,
       "text": "I looked, and there was a white horse. Its rider held a bow, and he was given a crown, and he rode out as a conqueror, determined to conquer.",
       "links": "<a href='/AIV/38/6/1-8'>Zech. 6:1-8</a>; <a href='/AIV/66/19/11-16'>Rev. 19:11-16</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 73006003,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 6,
       "verse": 3,
       "text": "When he opened the second seal, I heard the second living being say, 'Come!'",
       "links": "<a href='/AIV/26/1/13-15'>Ezek. 1:13-15</a>; <a href='/AIV/66/4/7'>Rev. 4:7</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 73006004,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 6,
       "verse": 4,
       "text": "Another horse, fiery red, went out. Its rider was permitted to take peace from the earth, causing people to slaughter one another, and he was given a large sword.",
       "links": "<a href='/AIV/40/24/6-7'>Matt. 24:6-7</a>; <a href='/AIV/26/21/9-10'>Ezek. 21:9-10</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 73006005,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 6,
       "verse": 5,
       "text": "When he opened the third seal, I heard the third living being say, 'Come!' I looked, and there was a black horse; its rider held a pair of scales in his hand.",
       "links": "<a href='/AIV/03/26/26'>Lev. 26:26</a>; <a href='/AIV/38/6/2'>Zech. 6:2</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 73006006,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 6,
       "verse": 6,
       "text": "And I heard something like a voice among the four living beings, saying, 'A quart of wheat for a denarius, and three quarts of barley for a denarius; and do not harm the oil and the wine.'",
       "links": "<a href='/AIV/12/6/25'>2 Kings 6:25</a>; <a href='/AIV/19/105/16'>Ps. 105:16</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 73006007,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 6,
       "verse": 7,
       "text": "When he opened the fourth seal, I heard the voice of the fourth living being say, 'Come!'",
       "links": "<a href='/AIV/38/6/3'>Zech. 6:3</a>; <a href='/AIV/66/4/7'>Rev. 4:7</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 73006008,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 6,
       "verse": 8,
       "text": "I looked, and there was a pale horse. Its rider’s name was Death, and Hades followed with him. They were given authority over a fourth of the earth, to kill with sword and famine and plague and by the wild beasts of the earth.",
       "links": "<a href='/AIV/24/15/2-3'>Jer. 15:2-3</a>; <a href='/AIV/03/26/22-25'>Lev. 26:22-25</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 73006009,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 6,
       "verse": 9,
       "text": "When he opened the fifth seal, I saw beneath the altar the souls of those who had been slain because of the word of God and because of the testimony they had maintained.",
       "links": "<a href='/AIV/19/79/10-11'>Ps. 79:10-11</a>; <a href='/AIV/66/20/4'>Rev. 20:4</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 73006010,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 6,
       "verse": 10,
       "text": "They cried out with a loud voice, 'How long, O Master, holy and true, before you judge and avenge our blood on those who dwell on the earth?'",
       "links": "<a href='/AIV/19/94/1-3'>Ps. 94:1-3</a>; <a href='/AIV/35/1/2'>Hab. 1:2</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 73006011,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 6,
       "verse": 11,
       "text": "Then each of them was given a white robe, and they were told to rest a little longer, until the number of their fellow servants and their brothers who were to be slain, as they themselves had been, was complete.",
       "links": "<a href='/AIV/23/61/10'>Isa. 61:10</a>; <a href='/AIV/66/7/9'>Rev. 7:9</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 73006012,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 6,
       "verse": 12,
       "text": "I looked when he opened the sixth seal, and there was a great earthquake. The sun turned black like sackcloth made of hair, and the whole moon became like blood.",
       "links": "<a href='/AIV/23/13/10'>Isa. 13:10</a>; <a href='/AIV/29/2/31'>Joel 2:31</a>; <a href='/AIV/40/24/29'>Matt. 24:29</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 73006013,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 6,
       "verse": 13,
       "text": "The stars of the sky fell to the earth, as a fig tree drops its unripe figs when shaken by a strong wind.",
       "links": "<a href='/AIV/23/34/4'>Isa. 34:4</a>; <a href='/AIV/41/13/25'>Mark 13:25</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 73006014,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 6,
       "verse": 14,
       "text": "The sky was split apart like a scroll being rolled up, and every mountain and island was moved from its place.",
       "links": "<a href='/AIV/23/34/4'>Isa. 34:4</a>; <a href='/AIV/26/38/20'>Ezek. 38:20</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 73006015,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 6,
       "verse": 15,
       "text": "Then the kings of the earth, the great and the rich, the commanders, and the powerful, and every slave and free person, hid themselves in the caves and among the rocks of the mountains.",
       "links": "<a href='/AIV/23/2/19'>Isa. 2:19</a>; <a href='/AIV/28/10/8'>Hos. 10:8</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 73006016,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 6,
       "verse": 16,
       "text": "They called to the mountains and the rocks, 'Fall on us and hide us from the face of the One seated on the throne and from the wrath of the Lamb,'",
       "links": "<a href='/AIV/23/2/19'>Isa. 2:19</a>; <a href='/AIV/28/10/8'>Hos. 10:8</a>",
@@ -201,33 +123,10 @@
     },
     {
       "pk": 73006017,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 6,
       "verse": 17,
       "text": "for the great day of their wrath has come, and who is able to stand?",
       "links": "<a href='/AIV/29/2/11'>Joel 2:11</a>; <a href='/AIV/66/11/18'>Rev. 11:18</a>",
       "comment": "The 'great day' points to the Day of the Lord, a phrase linking Scripture from Joel to Revelation. Only those found justified can endure God’s final judgment. This anticipates the sealing of the faithful in the next chapter—God’s Church, as the true and unified body, sheltered by His grace and preserved for glory."
-    }
-  ],
-  "translatedAt": "2025-12-24T12:35:37.498Z",
-  "sections": [
-    {
-      "title": "The Four Horsemen of the Apocalypse",
-      "startVerse": 1,
-      "endVerse": 8
-    },
-    {
-      "title": "The Martyrs Under the Altar",
-      "startVerse": 9,
-      "endVerse": 11
-    },
-    {
-      "title": "The Sixth Seal: Cosmic Cataclysm and Terror",
-      "startVerse": 12,
-      "endVerse": 17
     }
   ]
 }

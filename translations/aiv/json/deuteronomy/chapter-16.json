@@ -1,16 +1,13 @@
 {
-  "book": 5,
+  "translation": "AIV",
+  "bookId": "deuteronomy",
   "bookName": "Deuteronomy",
   "bookAbbreviation": "Deut",
+  "bookNumber": 5,
   "chapter": 16,
   "verses": [
     {
       "pk": 5016001,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 16,
       "verse": 1,
       "text": "Keep the month of Abib, and observe the Passover to the LORD your God; for in the month of Abib the LORD your God brought you out of Egypt by night.",
       "links": "<a href='/AIV/2/12/2-14'>Ex. 12:2-14</a>; <a href='/AIV/3/23/5'>Lev. 23:5</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 5016002,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 16,
       "verse": 2,
       "text": "And you shall offer the Passover sacrifice to the LORD your God, from the flock and the herd, at the place which the LORD will choose to make His name dwell.",
       "links": "<a href='/AIV/2/12/6'>Ex. 12:6</a>; <a href='/AIV/5/12/5'>Deut. 12:5</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 5016003,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 16,
       "verse": 3,
       "text": "Do not eat with it any leavened bread. For seven days you shall eat unleavened bread with it, the bread of affliction—for you came out of the land of Egypt in haste—so that you may remember the day when you came out of the land of Egypt all the days of your life.",
       "links": "<a href='/AIV/2/12/8-20'>Ex. 12:8-20</a>; <a href='/AIV/3/23/6'>Lev. 23:6</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 5016004,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 16,
       "verse": 4,
       "text": "No leaven shall be seen with you in all your territory for seven days; nor shall any of the flesh that you offer in the evening of the first day remain overnight until morning.",
       "links": "<a href='/AIV/2/12/10'>Ex. 12:10</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 5016005,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 16,
       "verse": 5,
       "text": "You may not sacrifice the Passover within any of your towns that the LORD your God is giving you.",
       "links": "<a href='/AIV/5/12/13-14'>Deut. 12:13-14</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 5016006,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 16,
       "verse": 6,
       "text": "But at the place that the LORD your God will choose to make His name dwell, there you shall offer the Passover sacrifice in the evening at the setting of the sun, at the time you came out of Egypt.",
       "links": "<a href='/AIV/2/12/42'>Ex. 12:42</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 5016007,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 16,
       "verse": 7,
       "text": "And you shall cook it and eat it in the place which the LORD your God will choose. In the morning you shall return to your tents.",
       "links": "<a href='/AIV/2/12/46-50'>Ex. 12:46-50</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 5016008,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 16,
       "verse": 8,
       "text": "For six days you shall eat unleavened bread, and on the seventh day there shall be a solemn assembly to the LORD your God. You shall do no work on it.",
       "links": "<a href='/AIV/3/23/8'>Lev. 23:8</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 5016009,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 16,
       "verse": 9,
       "text": "You shall count seven weeks; begin to count the seven weeks from the time you start to put the sickle to the standing grain.",
       "links": "<a href='/AIV/3/23/15-16'>Lev. 23:15-16</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 5016010,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 16,
       "verse": 10,
       "text": "Then you shall keep the Feast of Weeks to the LORD your God with a freewill offering from your hand, which you shall give as the LORD your God blesses you.",
       "links": "<a href='/AIV/2/23/16'>Ex. 23:16</a>; <a href='/AIV/3/23/17'>Lev. 23:17</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 5016011,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 16,
       "verse": 11,
       "text": "And you shall rejoice before the LORD your God, you, your son, your daughter, your male and female servant, the Levite who is within your towns, the sojourner, the orphan, and the widow who are among you, at the place which the LORD your God will choose to make His name dwell.",
       "links": "<a href='/AIV/5/14/29'>Deut. 14:29</a>; <a href='/AIV/3/23/22'>Lev. 23:22</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 5016012,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 16,
       "verse": 12,
       "text": "Remember that you were a slave in Egypt; so you shall be careful to observe these statutes.",
       "links": "<a href='/AIV/5/5/15'>Deut. 5:15</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 5016013,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 16,
       "verse": 13,
       "text": "You shall keep the Feast of Booths for seven days, when you have gathered in from your threshing floor and your winepress.",
       "links": "<a href='/AIV/3/23/34-39'>Lev. 23:34-39</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 5016014,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 16,
       "verse": 14,
       "text": "You shall rejoice in your feast, you and your son, your daughter, your male and female servant, the Levite, the sojourner, the orphan, and the widow who are within your towns.",
       "links": "<a href='/AIV/5/16/11'>Deut. 16:11</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 5016015,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 16,
       "verse": 15,
       "text": "For seven days you shall keep the feast to the LORD your God in the place that the LORD will choose, because the LORD your God will bless you in all your produce and in all the work of your hands, so that you will be altogether joyful.",
       "links": "<a href='/AIV/3/23/40-43'>Lev. 23:40-43</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 5016016,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 16,
       "verse": 16,
       "text": "Three times a year all your males shall appear before the LORD your God in the place that He will choose: at the Feast of Unleavened Bread, at the Feast of Weeks, and at the Feast of Booths. They shall not appear before the LORD empty-handed.",
       "links": "<a href='/AIV/2/23/17'>Ex. 23:17</a>; <a href='/AIV/3/23/14,21,41'>Lev. 23:14,21,41</a>",
@@ -202,11 +124,6 @@
     },
     {
       "pk": 5016017,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 16,
       "verse": 17,
       "text": "Each shall give as he is able, according to the blessing of the LORD your God which He has given you.",
       "links": "<a href='/AIV/2/35/5'>Ex. 35:5</a>; <a href='/AIV/2/25/2'>Ex. 25:2</a>",
@@ -214,11 +131,6 @@
     },
     {
       "pk": 5016018,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 16,
       "verse": 18,
       "text": "You shall appoint judges and officers in all your towns that the LORD your God is giving you, according to your tribes; and they shall judge the people with righteous judgment.",
       "links": "<a href='/AIV/2/18/21-26'>Ex. 18:21-26</a>",
@@ -227,11 +139,6 @@
     },
     {
       "pk": 5016019,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 16,
       "verse": 19,
       "text": "You shall not pervert justice. You shall not show partiality, and you shall not take a bribe, for a bribe blinds the eyes of the wise and subverts the cause of the righteous.",
       "links": "<a href='/AIV/2/23/8'>Ex. 23:8</a>; <a href='/AIV/3/19/15'>Lev. 19:15</a>",
@@ -239,11 +146,6 @@
     },
     {
       "pk": 5016020,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 16,
       "verse": 20,
       "text": "Righteousness, righteousness you shall pursue, so that you may live and possess the land which the LORD your God is giving you.",
       "links": "<a href='/AIV/3/19/15'>Lev. 19:15</a>",
@@ -251,11 +153,6 @@
     },
     {
       "pk": 5016021,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 16,
       "verse": 21,
       "text": "You shall not plant any tree as an Asherah beside the altar of the LORD your God that you shall make.",
       "links": "<a href='/AIV/2/34/13'>Ex. 34:13</a>; <a href='/AIV/5/7/5'>Deut. 7:5</a>",
@@ -263,43 +160,10 @@
     },
     {
       "pk": 5016022,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 16,
       "verse": 22,
       "text": "And you shall not set up a pillar, which the LORD your God hates.",
       "links": "<a href='/AIV/2/23/24'>Ex. 23:24</a>",
       "comment": "Pillars were objects of idolatrous worship. The LORD’s hatred of such things underscores the requirement for exclusive, pure devotion and foreshadows later commands to separate from all forms of syncretism."
-    }
-  ],
-  "translatedAt": "2025-12-24T02:05:42.925Z",
-  "sections": [
-    {
-      "title": "The Passover and the Feast of Unleavened Bread",
-      "startVerse": 1,
-      "endVerse": 8
-    },
-    {
-      "title": "The Feast of Weeks",
-      "startVerse": 9,
-      "endVerse": 12
-    },
-    {
-      "title": "The Feast of Booths",
-      "startVerse": 13,
-      "endVerse": 15
-    },
-    {
-      "title": "The Three Pilgrimage Feasts",
-      "startVerse": 16,
-      "endVerse": 17
-    },
-    {
-      "title": "Justice and Proper Worship",
-      "startVerse": 18,
-      "endVerse": 22
     }
   ]
 }

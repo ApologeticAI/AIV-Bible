@@ -1,16 +1,13 @@
 {
-  "book": 16,
+  "translation": "AIV",
+  "bookId": "nehemiah",
   "bookName": "Nehemiah",
   "bookAbbreviation": "Neh",
+  "bookNumber": 16,
   "chapter": 1,
   "verses": [
     {
       "pk": 16001001,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 1,
       "verse": 1,
       "text": "The words of Nehemiah, son of Hacaliah. In the month of Chislev, in the twentieth year, while I was in the citadel of Susa,",
       "links": "<a href='/AIV/17/1/2'>Esth. 1:2</a>; <a href='/AIV/16/2/1'>Neh. 2:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 16001002,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 1,
       "verse": 2,
       "text": "Hanani, one of my brothers, came with some men from Judah, and I asked them about the Jews who had survived the exile, and about Jerusalem.",
       "links": "<a href='/AIV/16/7/2'>Neh. 7:2</a>; <a href='/AIV/15/2/1'>Ezra 2:1</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 16001003,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 1,
       "verse": 3,
       "text": "They replied, 'The remnant who remain in the province and have survived the exile are in great trouble and disgrace. The wall of Jerusalem is broken down, and its gates are burned with fire.'",
       "links": "<a href='/AIV/19/79/1'>Ps. 79:1</a>; <a href='/AIV/25/1/3-4'>Lam. 1:3-4</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 16001004,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 1,
       "verse": 4,
       "text": "When I heard these words, I sat down, wept, and mourned for days. I fasted and prayed before the God of heaven.",
       "links": "<a href='/AIV/10/12/16'>2 Sam. 12:16</a>; <a href='/AIV/40/5/4'>Matt. 5:4</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 16001005,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 1,
       "verse": 5,
       "text": "I said, 'O Lord, God of heaven, great and awesome God, who keeps covenant and steadfast love with those who love Him and keep His commandments,",
       "links": "<a href='/AIV/02/34/6-7'>Ex. 34:6-7</a>; <a href='/AIV/05/7/9'>Deut. 7:9</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 16001006,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 1,
       "verse": 6,
       "text": "let your ear be attentive and your eyes open, to hear the prayer of your servant, which I now pray before you day and night for your servants, the people of Israel. I confess the sins we have committed against you; I and my father's house have sinned.",
       "links": "<a href='/AIV/19/130/2'>Ps. 130:2</a>; <a href='/AIV/27/9/3-5'>Dan. 9:3-5</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 16001007,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 1,
       "verse": 7,
       "text": "We have acted very corruptly against you, and have not kept the commandments, the statutes, and the rules which you commanded your servant Moses.",
       "links": "<a href='/AIV/03/26/14-15'>Lev. 26:14-15</a>; <a href='/AIV/05/28/15'>Deut. 28:15</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 16001008,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 1,
       "verse": 8,
       "text": "Remember the word you commanded your servant Moses: 'If you are unfaithful, I will scatter you among the nations;",
       "links": "<a href='/AIV/03/26/33'>Lev. 26:33</a>; <a href='/AIV/05/4/27'>Deut. 4:27</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 16001009,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 1,
       "verse": 9,
       "text": "but if you return to me and keep my commandments and do them, though your outcasts are in the farthest parts of heaven, I will gather them and bring them to the place I have chosen, to make my name dwell there.'",
       "links": "<a href='/AIV/05/30/2-4'>Deut. 30:2-4</a>; <a href='/AIV/19/106/47'>Ps. 106:47</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 16001010,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 1,
       "verse": 10,
       "text": "These are your servants and your people, whom you have redeemed by your great power and by your strong hand.",
       "links": "<a href='/AIV/02/6/6'>Ex. 6:6</a>; <a href='/AIV/19/77/15'>Ps. 77:15</a>",
@@ -128,28 +80,10 @@
     },
     {
       "pk": 16001011,
-      "translation": "AIV",
-      "book": 16,
-      "bookName": "Nehemiah",
-      "bookAbbreviation": "Neh",
-      "chapter": 1,
       "verse": 11,
       "text": "O Lord, let your ear be attentive to the prayer of your servant, and to the prayers of your servants who delight to honor your name. Give success to your servant today, and grant him mercy in the sight of this man.' I was cupbearer to the king.",
       "links": "<a href='/AIV/19/143/8'>Ps. 143:8</a>; <a href='/AIV/16/2/1'>Neh. 2:1</a>",
       "comment": "Nehemiah closes with petition for favor, emphasizing intercessory prayer and service tied to his vocation as cupbearer—a trusted royal official. Here is a model of lay sanctity and active faith. The phrase 'delight to honor your name' points toward the importance of worship and reverence."
-    }
-  ],
-  "translatedAt": "2025-12-24T04:46:03.538Z",
-  "sections": [
-    {
-      "title": "Nehemiah Learns of Jerusalem's Ruin",
-      "startVerse": 1,
-      "endVerse": 3
-    },
-    {
-      "title": "Nehemiah's Prayer for His People",
-      "startVerse": 4,
-      "endVerse": 11
     }
   ]
 }

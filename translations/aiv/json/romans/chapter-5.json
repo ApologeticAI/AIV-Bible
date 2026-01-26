@@ -1,16 +1,13 @@
 {
-  "book": 52,
+  "translation": "AIV",
+  "bookId": "romans",
   "bookName": "Romans",
   "bookAbbreviation": "Rom",
+  "bookNumber": 52,
   "chapter": 5,
   "verses": [
     {
       "pk": 52005001,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 5,
       "verse": 1,
       "text": "Therefore, since we have been justified by faith, we have peace with God through our Lord Jesus Christ.",
       "links": "<a href='/AIV/45/3/28'>Rom. 3:28</a>; <a href='/AIV/23/32/17'>Isa. 32:17</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 52005002,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 5,
       "verse": 2,
       "text": "Through Him we have also obtained access by faith into this grace in which we stand, and we rejoice in hope of the glory of God.",
       "links": "<a href='/AIV/49/2/18'>Eph. 2:18</a>; <a href='/AIV/55/2/10'>2 Tim. 2:10</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 52005003,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 5,
       "verse": 3,
       "text": "And not only that, but we also rejoice in our sufferings, knowing that suffering produces endurance;",
       "links": "<a href='/AIV/59/1/2-4'>Jas. 1:2-4</a>; <a href='/AIV/60/4/13'>1 Pet. 4:13</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 52005004,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 5,
       "verse": 4,
       "text": "and endurance produces character, and character produces hope.",
       "links": "<a href='/AIV/59/1/12'>Jas. 1:12</a>; <a href='/AIV/47/4/17'>2 Cor. 4:17</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 52005005,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 5,
       "verse": 5,
       "text": "And hope does not disappoint, because God's love has been poured into our hearts through the Holy Spirit who has been given to us.",
       "links": "<a href='/AIV/47/1/22'>2 Cor. 1:22</a>; <a href='/AIV/26/36/26-27'>Ezek. 36:26-27</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 52005006,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 5,
       "verse": 6,
       "text": "For while we were still weak, at the right time Christ died for the ungodly.",
       "links": "<a href='/AIV/23/53/6'>Isa. 53:6</a>; <a href='/AIV/48/4/4'>Gal. 4:4</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 52005007,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 5,
       "verse": 7,
       "text": "For one will scarcely die for a righteous person—though perhaps for a good person one would even dare to die—",
       "links": "<a href='/AIV/50/15/13'>John. 15:13</a>; <a href='/AIV/69/3/16'>1John. 3:16</a>; <a href='/AIV/29/53/5'>Isa. 53:5</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 52005008,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 5,
       "verse": 8,
       "text": "but God shows His own love for us in that while we were still sinners, Christ died for us.",
       "links": "<a href='/AIV/62/4/10'>1 John 4:10</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 52005009,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 5,
       "verse": 9,
       "text": "Much more then, since we have now been justified by His blood, we shall be saved from wrath through Him.",
       "links": "<a href='/AIV/45/3/25'>Rom. 3:25</a>; <a href='/AIV/49/1/7'>Eph. 1:7</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 52005010,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 5,
       "verse": 10,
       "text": "For if while we were enemies we were reconciled to God through the death of His Son, much more, now that we are reconciled, shall we be saved by His life.",
       "links": "<a href='/AIV/47/5/18'>2 Cor. 5:18</a>; <a href='/AIV/43/14/19'>John 14:19</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 52005011,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 5,
       "verse": 11,
       "text": "Not only this, but we also rejoice in God through our Lord Jesus Christ, through whom we have now received reconciliation.",
       "links": "<a href='/AIV/47/5/18-19'>2 Cor. 5:18-19</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 52005012,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 5,
       "verse": 12,
       "text": "Therefore, just as sin entered the world through one man, and death through sin, and so death spread to all men, because all sinned—",
       "links": "<a href='/AIV/1/3/6-19'>Gen. 3:6-19</a>; <a href='/AIV/19/51/5'>Ps. 51:5</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 52005013,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 5,
       "verse": 13,
       "text": "for sin was in the world before the law was given, but sin is not counted where there is no law.",
       "links": "<a href='/AIV/45/4/15'>Rom. 4:15</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 52005014,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 5,
       "verse": 14,
       "text": "Nevertheless, death reigned from Adam to Moses, even over those whose sins were not like the transgression of Adam, who was a type of the one to come.",
       "links": "<a href='/AIV/46/15/21-22'>1 Cor. 15:21-22</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 52005015,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 5,
       "verse": 15,
       "text": "But the free gift is not like the trespass. For if many died by the trespass of one man, much more did the grace of God and the gift by the grace of that one man, Jesus Christ, overflow to many.",
       "links": "<a href='/AIV/46/15/22'>1 Cor. 15:22</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 52005016,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 5,
       "verse": 16,
       "text": "Nor is the gift like the result of that one man's sin. For the judgment following one trespass brought condemnation, but the free gift following many trespasses brought justification.",
       "links": "<a href='/AIV/52/5/18'>Rom. 5:18</a>; <a href='/AIV/53/15/22'>1Cor. 15:22</a>; <a href='/AIV/29/53/11'>Isa. 53:11</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 52005017,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 5,
       "verse": 17,
       "text": "For if, by the trespass of one man, death reigned through that one man, much more will those who receive the abundance of grace and of the gift of righteousness reign in life through the one man, Jesus Christ.",
       "links": "<a href='/AIV/43/10/10'>John 10:10</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 52005018,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 5,
       "verse": 18,
       "text": "Therefore, as one trespass led to condemnation for all men, so also one act of righteousness leads to justification and life for all men.",
       "links": "<a href='/AIV/45/3/24'>Rom. 3:24</a>; <a href='/AIV/49/2/5-6'>Eph. 2:5-6</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 52005019,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 5,
       "verse": 19,
       "text": "For just as through the disobedience of one man many were made sinners, so through the obedience of the one man many will be made righteous.",
       "links": "<a href='/AIV/23/53/11'>Isa. 53:11</a>; <a href='/AIV/50/2/8'>Phil. 2:8</a>",
@@ -237,11 +144,6 @@
     },
     {
       "pk": 52005020,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 5,
       "verse": 20,
       "text": "Now the law came in so that the trespass might increase; but where sin increased, grace abounded much more,",
       "links": "<a href='/AIV/48/3/19'>Gal. 3:19</a>",
@@ -249,33 +151,10 @@
     },
     {
       "pk": 52005021,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 5,
       "verse": 21,
       "text": "so that, just as sin reigned in death, so also grace might reign through righteousness to eternal life through Jesus Christ our Lord.",
       "links": "<a href='/AIV/43/17/2-3'>John 17:2-3</a>; <a href='/AIV/45/6/23'>Rom. 6:23</a>",
       "comment": "Grace is seen as a new reigning power, leading not only to justification but culminating in eternal life—a life that begins now and finds fulfillment in union with Christ. Eternal life is both a future hope and a present possession rooted in union with Christ, as reflected in John 17."
-    }
-  ],
-  "translatedAt": "2025-12-24T11:38:13.133Z",
-  "sections": [
-    {
-      "title": "Peace and Hope Through Faith",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "Christ’s Love and Our Reconciliation",
-      "startVerse": 6,
-      "endVerse": 11
-    },
-    {
-      "title": "Adam and Christ",
-      "startVerse": 12,
-      "endVerse": 21
     }
   ]
 }

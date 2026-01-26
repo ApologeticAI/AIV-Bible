@@ -1,16 +1,13 @@
 {
-  "book": 37,
+  "translation": "AIV",
+  "bookId": "amos",
   "bookName": "Amos",
   "bookAbbreviation": "Amos",
+  "bookNumber": 37,
   "chapter": 3,
   "verses": [
     {
       "pk": 37003001,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 3,
       "verse": 1,
       "text": "Hear this word that the LORD has spoken against you, O people of Israel, against the whole family that I brought up out of the land of Egypt:",
       "links": "<a href='/AIV/02/12/51'>Exod. 12:51</a>; <a href='/AIV/19/81/10'>Ps. 81:10</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 37003002,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 3,
       "verse": 2,
       "text": "You alone have I known among all the families of the earth; therefore I will punish you for all your sins.",
       "links": "<a href='/AIV/01/18/18'>Gen. 18:18</a>; <a href='/AIV/19/147/19-20'>Ps. 147:19-20</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 37003003,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 3,
       "verse": 3,
       "text": "Can two walk together unless they have agreed to meet?",
       "links": "<a href='/AIV/19/133/1'>Ps. 133:1</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 37003004,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 3,
       "verse": 4,
       "text": "Does a lion roar in the forest when it has no prey? Does a young lion cry out from its den if it has caught nothing?",
       "links": "<a href='/AIV/19/104/21'>Ps. 104:21</a>; <a href='/AIV/18/4/10'>Job 4:10</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 37003005,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 3,
       "verse": 5,
       "text": "Does a bird fall into a trap on the ground if there is no snare there? Does a trap spring up from the ground when it has caught nothing?",
       "links": "<a href='/AIV/20/7/23'>Prov. 7:23</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 37003006,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 3,
       "verse": 6,
       "text": "Is a trumpet blown in a city, and the people not afraid? Does disaster come to a city unless the LORD has done it?",
       "links": "<a href='/AIV/23/45/7'>Isa. 45:7</a>; <a href='/AIV/25/3/37-38'>Lam. 3:37-38</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 37003007,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 3,
       "verse": 7,
       "text": "Surely, the Lord GOD does nothing unless he reveals his plan to his servants the prophets.",
       "links": "<a href='/AIV/26/2/3-5'>Ezek. 2:3-5</a>; <a href='/AIV/40/13/17'>Matt. 13:17</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 37003008,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 3,
       "verse": 8,
       "text": "The lion has roared—who will not fear? The Lord GOD has spoken—who can but prophesy?",
       "links": "<a href='/AIV/19/29/9'>Ps. 29:9</a>; <a href='/AIV/24/20/9'>Jer. 20:9</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 37003009,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 3,
       "verse": 9,
       "text": "Proclaim this to the palaces in Ashdod and to the palaces in Egypt: 'Gather on the mountains of Samaria and see the great turmoil within her and the oppression in her midst.'",
       "links": "<a href='/AIV/26/30/18'>Ezek. 30:18</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 37003010,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 3,
       "verse": 10,
       "text": "'They do not know how to do right,' declares the LORD, 'those who store up violence and robbery in their palaces.'",
       "links": "<a href='/AIV/23/1/23'>Isa. 1:23</a>; <a href='/AIV/19/14/1'>Ps. 14:1</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 37003011,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 3,
       "verse": 11,
       "text": "Therefore, this is what the Lord GOD says: 'An enemy will surround the land; he will pull down your strength and your palaces will be plundered.'",
       "links": "<a href='/AIV/12/17/6'>2 Kings 17:6</a>; <a href='/AIV/19/74/7'>Ps. 74:7</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 37003012,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 3,
       "verse": 12,
       "text": "This is what the LORD says: 'As a shepherd rescues from the mouth of the lion only two legs or a piece of an ear, so shall the people of Israel who live in Samaria be rescued, with a corner of a bed or part of a couch.'",
       "links": "<a href='/AIV/19/22/13'>Ps. 22:13</a>; <a href='/AIV/26/34/11-12'>Ezek. 34:11-12</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 37003013,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 3,
       "verse": 13,
       "text": "Hear and testify against the house of Jacob,' declares the Lord GOD, the God of hosts,",
       "links": "<a href='/AIV/19/80/1'>Ps. 80:1</a>; <a href='/AIV/23/10/24'>Isa. 10:24</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 37003014,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 3,
       "verse": 14,
       "text": "that on the day I punish Israel for her transgressions, I will punish the altars of Bethel; the horns of the altar shall be cut off and fall to the ground.",
       "links": "<a href='/AIV/11/12/28-33'>1 Kings 12:28-33</a>; <a href='/AIV/26/6/4-6'>Ezek. 6:4-6</a>",
@@ -178,38 +110,10 @@
     },
     {
       "pk": 37003015,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 3,
       "verse": 15,
       "text": "I will strike the winter house together with the summer house; and the houses of ivory shall perish, and many houses shall be torn down,' declares the LORD.",
       "links": "<a href='/AIV/19/49/11'>Ps. 49:11</a>; <a href='/AIV/24/22/14'>Jer. 22:14'</a>",
       "comment": "The judgment stretches even to the luxurious homes of the wealthy—a warning that no social status can protect from divine judgment. This is a powerful reminder of the call to humility, the transient nature of worldly riches, and the need for detachment and generosity among God's people."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:42:30.738Z",
-  "sections": [
-    {
-      "title": "Israel's Privilege and Responsibility",
-      "startVerse": 1,
-      "endVerse": 2
-    },
-    {
-      "title": "The Inevitability of Judgment",
-      "startVerse": 3,
-      "endVerse": 8
-    },
-    {
-      "title": "Announcement of Punishment on Samaria",
-      "startVerse": 9,
-      "endVerse": 13
-    },
-    {
-      "title": "Destruction of Israel’s Altars and Houses",
-      "startVerse": 14,
-      "endVerse": 15
     }
   ]
 }

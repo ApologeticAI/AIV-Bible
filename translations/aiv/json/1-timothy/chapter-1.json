@@ -1,16 +1,13 @@
 {
-  "book": 61,
+  "translation": "AIV",
+  "bookId": "1-timothy",
   "bookName": "1 Timothy",
-  "bookAbbreviation": "1Tim",
+  "bookAbbreviation": "1 Tim",
+  "bookNumber": 61,
   "chapter": 1,
   "verses": [
     {
       "pk": 61001001,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 1,
       "verse": 1,
       "text": "Paul, an apostle of Christ Jesus by the command of God our Savior and Christ Jesus our hope,",
       "links": "<a href='/AIV/45/1/1'>Rom. 1:1</a>; <a href='/AIV/56/1/3'>Titus 1:3</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 61001002,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 1,
       "verse": 2,
       "text": "To Timothy, my true child in the faith: Grace, mercy, and peace from God the Father and Christ Jesus our Lord.",
       "links": "<a href='/AIV/54/1/2'>2 Tim. 1:2</a>; <a href='/AIV/56/1/4'>Titus 1:4</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 61001003,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 1,
       "verse": 3,
       "text": "As I urged you when I went to Macedonia, stay in Ephesus so you may command certain people not to teach false doctrines,",
       "links": "<a href='/AIV/44/20/1'>Acts 20:1</a>; <a href='/AIV/56/1/11'>Titus 1:11</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 61001004,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 1,
       "verse": 4,
       "text": "and not to occupy themselves with myths and endless genealogies, which lead to speculations rather than the stewardship from God that is by faith.",
       "links": "<a href='/AIV/56/1/14'>Titus 1:14</a>; <a href='/AIV/56/3/9'>Titus 3:9</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 61001005,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 1,
       "verse": 5,
       "text": "Now the aim of this instruction is love that comes from a pure heart, a good conscience, and sincere faith.",
       "links": "<a href='/AIV/45/13/10'>Rom. 13:10</a>; <a href='/AIV/54/1/19'>1 Tim. 1:19</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 61001006,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 1,
       "verse": 6,
       "text": "Some have swerved from these, turning aside to meaningless talk.",
       "links": "<a href='/AIV/54/6/20'>1 Tim. 6:20</a>; <a href='/AIV/56/1/10'>Titus 1:10</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 61001007,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 1,
       "verse": 7,
       "text": "They desire to be teachers of the law, but they do not understand what they say or the things they so confidently affirm.",
       "links": "<a href='/AIV/40/23/2-3'>Matt. 23:2-3</a>; <a href='/AIV/45/2/21'>Rom. 2:21</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 61001008,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 1,
       "verse": 8,
       "text": "Now we know that the law is good, if one uses it lawfully.",
       "links": "<a href='/AIV/19/19/7'>Ps. 19:7</a>; <a href='/AIV/45/7/12'>Rom. 7:12</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 61001009,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 1,
       "verse": 9,
       "text": "Understanding this, that the law is not laid down for the righteous, but for the lawless and disobedient, for the ungodly and sinners, for the unholy and profane, for those who kill their fathers or mothers, for murderers,",
       "links": "<a href='/AIV/45/3/19-20'>Rom. 3:19-20</a>; <a href='/AIV/16/13/15'>Neh. 13:15</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 61001010,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 1,
       "verse": 10,
       "text": "the sexually immoral, those practicing homosexuality, slave traders, liars, perjurers, and whatever else is against sound doctrine,",
       "links": "<a href='/AIV/46/6/9-10'>1 Cor. 6:9-10</a>; <a href='/AIV/2/20/14-16'>Ex. 20:14-16</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 61001011,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 1,
       "verse": 11,
       "text": "in accordance with the gospel of the glory of the blessed God, which I have been entrusted with.",
       "links": "<a href='/AIV/45/16/25'>Rom. 16:25</a>; <a href='/AIV/54/6/20'>1 Tim. 6:20</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 61001012,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 1,
       "verse": 12,
       "text": "I give thanks to Christ Jesus our Lord, who has strengthened me, because He considered me faithful, appointing me to service,",
       "links": "<a href='/AIV/45/15/17'>Rom. 15:17</a>; <a href='/AIV/46/7/25'>1 Cor. 7:25</a>",
@@ -154,11 +96,6 @@
     },
     {
       "pk": 61001013,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 1,
       "verse": 13,
       "text": "though formerly I was a blasphemer, persecutor, and insolent opponent. Yet I received mercy because I acted ignorantly in unbelief.",
       "links": "<a href='/AIV/44/8/3'>Acts 8:3</a>; <a href='/AIV/45/11/30-32'>Rom. 11:30-32</a>",
@@ -166,11 +103,6 @@
     },
     {
       "pk": 61001014,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 1,
       "verse": 14,
       "text": "And the grace of our Lord overflowed for me with the faith and love that are in Christ Jesus.",
       "links": "<a href='/AIV/45/5/20'>Rom. 5:20</a>; <a href='/AIV/49/2/8'>Eph. 2:8</a>",
@@ -178,11 +110,6 @@
     },
     {
       "pk": 61001015,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 1,
       "verse": 15,
       "text": "This saying is trustworthy and deserving full acceptance: that Christ Jesus came into the world to save sinners—of whom I am foremost.",
       "links": "<a href='/AIV/43/3/17'>John 3:17</a>; <a href='/AIV/45/5/8'>Rom. 5:8</a>",
@@ -190,11 +117,6 @@
     },
     {
       "pk": 61001016,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 1,
       "verse": 16,
       "text": "But I received mercy for this reason, that in me as the foremost, Christ Jesus might display his complete patience as an example to those who would believe in Him for eternal life.",
       "links": "<a href='/AIV/44/9/15'>Acts 9:15</a>; <a href='/AIV/45/2/4'>Rom. 2:4</a>",
@@ -202,11 +124,6 @@
     },
     {
       "pk": 61001017,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 1,
       "verse": 17,
       "text": "To the King of the ages, immortal, invisible, the only God, be honor and glory forever and ever. Amen.",
       "links": "<a href='/AIV/19/145/13'>Ps. 145:13</a>; <a href='/AIV/46/15/28'>1 Cor. 15:28</a>",
@@ -214,11 +131,6 @@
     },
     {
       "pk": 61001018,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 1,
       "verse": 18,
       "text": "This charge I entrust to you, Timothy, my child, according to the prophecies previously made about you, that by them you may wage the good warfare,",
       "links": "<a href='/AIV/54/4/14'>1 Tim. 4:14</a>; <a href='/AIV/46/9/7'>1 Cor. 9:7</a>",
@@ -227,11 +139,6 @@
     },
     {
       "pk": 61001019,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 1,
       "verse": 19,
       "text": "holding faith and a good conscience. By rejecting these, some have suffered shipwreck with regard to their faith.",
       "links": "<a href='/AIV/54/3/9'>1 Tim. 3:9</a>; <a href='/AIV/58/10/22'>Heb. 10:22</a>",
@@ -239,43 +146,10 @@
     },
     {
       "pk": 61001020,
-      "translation": "AIV",
-      "book": 61,
-      "bookName": "1 Timothy",
-      "bookAbbreviation": "1Tim",
-      "chapter": 1,
       "verse": 20,
       "text": "Among them are Hymenaeus and Alexander, whom I have handed over to Satan so they may learn not to blaspheme.",
       "links": "<a href='/AIV/46/5/5'>1 Cor. 5:5</a>; <a href='/AIV/54/2/17'>2 Tim. 2:17</a>",
       "comment": "Paul’s action employs disciplinary exclusion as practiced in the early Church, for corrective, redemptive purposes – emphasizing accountability and the need for order and visible unity within the Church."
-    }
-  ],
-  "translatedAt": "2025-12-24T12:10:45.827Z",
-  "sections": [
-    {
-      "title": "Greeting and Salutation",
-      "startVerse": 1,
-      "endVerse": 2
-    },
-    {
-      "title": "Warning Against False Teachers",
-      "startVerse": 3,
-      "endVerse": 7
-    },
-    {
-      "title": "Purpose of the Law",
-      "startVerse": 8,
-      "endVerse": 11
-    },
-    {
-      "title": "Paul’s Gratitude for Mercy",
-      "startVerse": 12,
-      "endVerse": 17
-    },
-    {
-      "title": "Timothy’s Commission",
-      "startVerse": 18,
-      "endVerse": 20
     }
   ]
 }

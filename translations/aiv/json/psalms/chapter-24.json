@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 24,
   "verses": [
     {
       "pk": 23024001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 24,
       "verse": 1,
       "text": "The earth and everything in it belongs to the LORD—the world and all its inhabitants.",
       "links": "<a href='/AIV/19/50/12'>Ps. 50:12</a>; <a href='/AIV/2/9/29'>Ex. 9:29</a>; <a href='/AIV/46/10/26'>1 Cor. 10:26</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23024002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 24,
       "verse": 2,
       "text": "For He founded it upon the seas and established it on the rivers.",
       "links": "<a href='/AIV/1/1/9-10'>Gen. 1:9-10</a>; <a href='/AIV/19/136/6'>Ps. 136:6</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23024003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 24,
       "verse": 3,
       "text": "Who may ascend the mountain of the LORD? Who may stand in His holy place?",
       "links": "<a href='/AIV/19/15/1'>Ps. 15:1</a>; <a href='/AIV/1/28/12'>Gen. 28:12</a>; <a href='/AIV/19/43/3'>Ps. 43:3</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 23024004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 24,
       "verse": 4,
       "text": "He who has clean hands and a pure heart, who does not lift up his soul to an idol or swear deceitfully.",
       "links": "<a href='/AIV/19/73/1'>Ps. 73:1</a>; <a href='/AIV/40/5/8'>Matt. 5:8</a>; <a href='/AIV/19/15/2'>Ps. 15:2</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 23024005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 24,
       "verse": 5,
       "text": "He will receive blessing from the LORD and righteousness from the God of his salvation.",
       "links": "<a href='/AIV/19/85/11'>Ps. 85:11</a>; <a href='/AIV/45/4/5'>Rom. 4:5</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 23024006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 24,
       "verse": 6,
       "text": "Such is the generation of those who seek Him, who seek Your face, O God of Jacob.",
       "links": "<a href='/AIV/19/27/8'>Ps. 27:8</a>; <a href='/AIV/19/105/4'>Ps. 105:4</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 23024007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 24,
       "verse": 7,
       "text": "Lift up your heads, O gates! Be lifted up, you ancient doors, that the King of glory may enter.",
       "links": "<a href='/AIV/19/118/19'>Ps. 118:19-20</a>; <a href='/AIV/66/3/20'>Rev. 3:20</a>",
@@ -93,11 +60,6 @@
     },
     {
       "pk": 23024008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 24,
       "verse": 8,
       "text": "Who is this King of glory? The LORD, strong and mighty, the LORD, mighty in battle.",
       "links": "<a href='/AIV/19/29/1'>Ps. 29:1-2</a>; <a href='/AIV/66/19/16'>Rev. 19:16</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 23024009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 24,
       "verse": 9,
       "text": "Lift up your heads, O gates! Be lifted up, you ancient doors, that the King of glory may enter.",
       "links": "<a href='/AIV/19/24/7'>Ps. 24:7</a>; <a href='/AIV/19/118/20'>Ps. 118:20</a>",
@@ -117,33 +74,10 @@
     },
     {
       "pk": 23024010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 24,
       "verse": 10,
       "text": "Who is this King of glory? The LORD of hosts—He is the King of glory.",
       "links": "<a href='/AIV/19/84/3'>Ps. 84:3</a>; <a href='/AIV/1/14/18'>Gen. 14:18</a>; <a href='/AIV/43/12/13'>John 12:13</a>",
       "comment": "The final answer confirms God’s identity as ruler over all. In Christian tradition, this is seen as Christ, triumphant in heaven. The ‘hosts’ points to both the heavenly assembly and the gathered people in worship, connecting the visible and invisible church in unity."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:06:28.611Z",
-  "sections": [
-    {
-      "title": "The LORD’s Sovereignty over Creation",
-      "startVerse": 1,
-      "endVerse": 2
-    },
-    {
-      "title": "Who May Enter the LORD’s Presence?",
-      "startVerse": 3,
-      "endVerse": 6
-    },
-    {
-      "title": "The Coming of the King of Glory",
-      "startVerse": 7,
-      "endVerse": 10
     }
   ]
 }

@@ -1,16 +1,13 @@
 {
-  "book": 37,
+  "translation": "AIV",
+  "bookId": "amos",
   "bookName": "Amos",
   "bookAbbreviation": "Amos",
+  "bookNumber": 37,
   "chapter": 8,
   "verses": [
     {
       "pk": 37008001,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 8,
       "verse": 1,
       "text": "This is what the Lord GOD showed me: behold, a basket of ripe summer fruit.",
       "links": "<a href='/AIV/37/7/1'>Amos 7:1</a>; <a href='/AIV/24/24/2'>Jer. 24:2</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 37008002,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 8,
       "verse": 2,
       "text": "He said, 'Amos, what do you see?' And I said, 'A basket of ripe fruit.' Then the LORD said to me, 'The end has come upon my people Israel; I will not pass by them again.'",
       "links": "<a href='/AIV/37/7/8'>Amos 7:8</a>; <a href='/AIV/02/12/12'>Exod. 12:12</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 37008003,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 8,
       "verse": 3,
       "text": "The songs of the temple will become wailing on that day, declares the Lord GOD. Many dead bodies, thrown everywhere. Silence.",
       "links": "<a href='/AIV/23/13/12'>Isa. 13:12</a>; <a href='/AIV/19/137/1'>Ps. 137:1</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 37008004,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 8,
       "verse": 4,
       "text": "Hear this, you who trample on the needy and bring ruin to the poor of the land:",
       "links": "<a href='/AIV/37/2/6-7'>Amos 2:6-7</a>; <a href='/AIV/20/22/22-23'>Prov. 22:22-23</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 37008005,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 8,
       "verse": 5,
       "text": "'Saying, “When will the new moon be over, so that we may sell grain? And the Sabbath, so we may open the wheat market—making the ephah small and the shekel great, and cheating with dishonest scales,”'",
       "links": "<a href='/AIV/03/19/35-36'>Lev. 19:35-36</a>; <a href='/AIV/37/4/4-5'>Amos 4:4-5</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 37008006,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 8,
       "verse": 6,
       "text": "Buying the poor for silver, and the needy for a pair of sandals, and selling the sweepings of the wheat.",
       "links": "<a href='/AIV/37/2/6'>Amos 2:6</a>; <a href='/AIV/03/25/39'>Lev. 25:39</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 37008007,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 8,
       "verse": 7,
       "text": "The LORD has sworn by the pride of Jacob: 'Surely I will never forget any of their deeds.'",
       "links": "<a href='/AIV/37/6/8'>Amos 6:8</a>; <a href='/AIV/19/98/2-3'>Ps. 98:2-3</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 37008008,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 8,
       "verse": 8,
       "text": "Will not the land tremble for this, and everyone mourn who lives in it, and all of it rise like the Nile, be tossed about and sink again like the Nile of Egypt?",
       "links": "<a href='/AIV/37/9/5'>Amos 9:5</a>; <a href='/AIV/02/7/20-21'>Exod. 7:20-21</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 37008009,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 8,
       "verse": 9,
       "text": "'And on that day,' declares the Lord GOD, 'I will make the sun go down at noon and darken the earth in broad daylight.'",
       "links": "<a href='/AIV/02/10/22'>Exod. 10:22</a>; <a href='/AIV/40/27/45'>Matt. 27:45</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 37008010,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 8,
       "verse": 10,
       "text": "I will turn your feasts into mourning and all your songs into lamentation; I will bring sackcloth upon every waist and baldness on every head; I will make it like the mourning for an only son, and the end of it will be a bitter day.",
       "links": "<a href='/AIV/24/6/26'>Jer. 6:26</a>; <a href='/AIV/19/30/11'>Ps. 30:11</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 37008011,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 8,
       "verse": 11,
       "text": "'Behold, the days are coming,' declares the Lord GOD, 'when I will send a famine on the land—not a famine of bread, nor a thirst for water, but of hearing the words of the LORD.'",
       "links": "<a href='/AIV/05/8/3'>Deut. 8:3</a>; <a href='/AIV/40/4/4'>Matt. 4:4</a>",
@@ -142,11 +89,6 @@
     },
     {
       "pk": 37008012,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 8,
       "verse": 12,
       "text": "They will wander from sea to sea and from north to east; they will run to and fro to seek the word of the LORD, but shall not find it.",
       "links": "<a href='/AIV/19/107/4-5'>Ps. 107:4-5</a>; <a href='/AIV/40/23/37'>Matt. 23:37</a>",
@@ -154,11 +96,6 @@
     },
     {
       "pk": 37008013,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 8,
       "verse": 13,
       "text": "In that day, the lovely virgins and the young men shall faint from thirst.",
       "links": "<a href='/AIV/23/40/30'>Isa. 40:30</a>; <a href='/AIV/19/63/1'>Ps. 63:1</a>",
@@ -166,38 +103,10 @@
     },
     {
       "pk": 37008014,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 8,
       "verse": 14,
       "text": "Those who swear by the guilt of Samaria, and say, 'As your god lives, O Dan,' and, 'As the way of Beersheba lives,' they shall fall and never rise again.",
       "links": "<a href='/AIV/11/12/29-30'>1 Kings 12:29-30</a>; <a href='/AIV/28/4/15'>Hos. 4:15</a>",
       "comment": "Here, Amos condemns idolatrous worship at Samaria, Dan, and Beersheba—sites associated with cultic sin (1 Kings 12:28-30); the irrevocable fall of those swearing by false gods underscores the exclusivity of Yahweh and the fatal consequences of apostasy."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:44:53.229Z",
-  "sections": [
-    {
-      "title": "The Vision of the Basket of Summer Fruit",
-      "startVerse": 1,
-      "endVerse": 3
-    },
-    {
-      "title": "The Oppression of the Poor and Dishonest Traders",
-      "startVerse": 4,
-      "endVerse": 8
-    },
-    {
-      "title": "The Coming Day of Mourning and Darkness",
-      "startVerse": 9,
-      "endVerse": 10
-    },
-    {
-      "title": "The Famine of Hearing the Word of the Lord",
-      "startVerse": 11,
-      "endVerse": 14
     }
   ]
 }

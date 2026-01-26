@@ -1,16 +1,13 @@
 {
-  "book": 25,
+  "translation": "AIV",
+  "bookId": "ecclesiastes",
   "bookName": "Ecclesiastes",
   "bookAbbreviation": "Eccl",
+  "bookNumber": 25,
   "chapter": 6,
   "verses": [
     {
       "pk": 25006001,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 6,
       "verse": 1,
       "text": "There is an evil that I have seen under the sun, and it weighs heavily upon mankind:",
       "links": "<a href='/AIV/21/8/14'>Eccl. 8:14</a>; <a href='/AIV/18/5/7'>Job 5:7</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 25006002,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 6,
       "verse": 2,
       "text": "A man to whom God gives wealth, possessions, and honor, so that he lacks nothing that he desires, yet God does not allow him to enjoy them, but a stranger enjoys them. This is vanity and a grievous evil.",
       "links": "<a href='/AIV/21/2/26'>Eccl. 2:26</a>; <a href='/AIV/21/5/19'>Eccl. 5:19</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 25006003,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 6,
       "verse": 3,
       "text": "If a man fathers a hundred children and lives many years, so that the days of his years are many, but his soul is not satisfied with life's good things, and he has no burial, I say that a stillborn child is better off than he.",
       "links": "<a href='/AIV/21/4/3'>Eccl. 4:3</a>; <a href='/AIV/21/2/15-16'>Eccl. 2:15-16</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 25006004,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 6,
       "verse": 4,
       "text": "For it comes in vanity and departs in darkness, and in darkness its name is covered.",
       "links": "<a href='/AIV/21/5/16'>Eccl. 5:16</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 25006005,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 6,
       "verse": 5,
       "text": "Moreover, it has not seen the sun or known anything; yet it finds more rest than he.",
       "links": "<a href='/AIV/21/4/3'>Eccl. 4:3</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 25006006,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 6,
       "verse": 6,
       "text": "Even if he lives a thousand years twice over, yet sees no good—do not all go to the same place?",
       "links": "<a href='/AIV/21/3/20'>Eccl. 3:20</a>; <a href='/AIV/21/9/2'>Eccl. 9:2</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 25006007,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 6,
       "verse": 7,
       "text": "All the toil of man is for his mouth, yet his appetite is not satisfied.",
       "links": "<a href='/AIV/21/1/8'>Eccl. 1:8</a>; <a href='/AIV/20/27/20'>Prov. 27:20</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 25006008,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 6,
       "verse": 8,
       "text": "For what advantage has the wise man over the fool? And what does the poor man gain by knowing how to conduct himself before the living?",
       "links": "<a href='/AIV/21/2/14-16'>Eccl. 2:14-16</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 25006009,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 6,
       "verse": 9,
       "text": "Better is the sight of the eyes than the wandering of desire; this also is vanity and a striving after wind.",
       "links": "<a href='/AIV/21/1/14'>Eccl. 1:14</a>; <a href='/AIV/21/4/6'>Eccl. 4:6</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 25006010,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 6,
       "verse": 10,
       "text": "Whatever has come to be has already been named, and it is known what man is; and he cannot contend with one who is mightier than he.",
       "links": "<a href='/AIV/21/1/9'>Eccl. 1:9</a>; <a href='/AIV/18/9/12'>Job 9:12</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 25006011,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 6,
       "verse": 11,
       "text": "The more words, the more vanity, and what advantage is that to man?",
       "links": "<a href='/AIV/21/5/3'>Eccl. 5:3</a>; <a href='/AIV/18/16/3'>Job 16:3</a>",
@@ -141,33 +88,10 @@
     },
     {
       "pk": 25006012,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 6,
       "verse": 12,
       "text": "For who knows what is good for man in life, all the days of his vain life which he spends like a shadow? For who can tell man what will be after him under the sun?",
       "links": "<a href='/AIV/21/3/22'>Eccl. 3:22</a>; <a href='/AIV/21/2/19'>Eccl. 2:19</a>",
       "comment": "The limits of human wisdom point to the need for revelation. True understanding comes through trust in God’s plan. This anticipates the fuller revelation brought in Christ, who reveals both the Father and the way to eternal life (see John 14:6)."
-    }
-  ],
-  "translatedAt": "2025-12-24T07:09:05.799Z",
-  "sections": [
-    {
-      "title": "The Vanity of Wealth Without Enjoyment",
-      "startVerse": 1,
-      "endVerse": 2
-    },
-    {
-      "title": "The Futility of Unsatisfied Life and Endless Desires",
-      "startVerse": 3,
-      "endVerse": 9
-    },
-    {
-      "title": "The Limitations of Human Understanding",
-      "startVerse": 10,
-      "endVerse": 12
     }
   ]
 }

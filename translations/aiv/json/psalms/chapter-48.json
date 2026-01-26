@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 48,
   "verses": [
     {
       "pk": 23048001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 48,
       "verse": 1,
       "text": "Great is the Lord and most worthy of praise, in the city of our God, on His holy mountain.",
       "links": "<a href='/AIV/19/46/4'>Ps. 46:4</a>; <a href='/AIV/19/87/1'>Ps. 87:1-3</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23048002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 48,
       "verse": 2,
       "text": "Beautiful in elevation, the joy of the whole earth, Mount Zion, in the far north, the city of the Great King.",
       "links": "<a href='/AIV/19/50/2'>Ps. 50:2</a>; <a href='/AIV/40/5/35'>Matt. 5:35</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23048003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 48,
       "verse": 3,
       "text": "God is in her citadels; He has made Himself known as a fortress.",
       "links": "<a href='/AIV/19/46/5'>Ps. 46:5</a>; <a href='/AIV/19/132/13-14'>Ps. 132:13-14</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23048004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 48,
       "verse": 4,
       "text": "For behold, the kings assembled; they advanced together.",
       "links": "<a href='/AIV/19/2/2'>Ps. 2:2</a>; <a href='/AIV/23/8/9'>Isa. 8:9-10</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 23048005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 48,
       "verse": 5,
       "text": "As soon as they saw it, they were astounded; they were terrified and fled.",
       "links": "<a href='/AIV/02/14/25'>Ex. 14:25</a>; <a href='/AIV/19/68/1-2'>Ps. 68:1-2</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 23048006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 48,
       "verse": 6,
       "text": "Trembling seized them there, anguish like that of a woman in labor.",
       "links": "<a href='/AIV/23/13/8'>Isa. 13:8</a>; <a href='/AIV/41/13/8'>Mark 13:8</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 23048007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 48,
       "verse": 7,
       "text": "With the east wind You shatter the ships of Tarshish.",
       "links": "<a href='/AIV/26/27/25-27'>Ezek. 27:25-27</a>; <a href='/AIV/09/10/22'>1 Kings 10:22</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 23048008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 48,
       "verse": 8,
       "text": "As we have heard, so have we seen in the city of the Lord of hosts, in the city of our God; God will establish her forever. Selah.",
       "links": "<a href='/AIV/19/87/5'>Ps. 87:5</a>; <a href='/AIV/66/21/2-3'>Rev. 21:2-3</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 23048009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 48,
       "verse": 9,
       "text": "Within Your temple, O God, we meditate on Your steadfast love.",
       "links": "<a href='/AIV/19/26/8'>Ps. 26:8</a>; <a href='/AIV/19/63/2-3'>Ps. 63:2-3</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 23048010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 48,
       "verse": 10,
       "text": "As Your name, O God, so is Your praise to the ends of the earth; Your right hand is full of righteousness.",
       "links": "<a href='/AIV/19/22/27'>Ps. 22:27</a>; <a href='/AIV/23/33/5'>Isa. 33:5</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 23048011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 48,
       "verse": 11,
       "text": "Let Mount Zion be glad, let the daughters of Judah rejoice because of Your judgments.",
       "links": "<a href='/AIV/19/97/8'>Ps. 97:8</a>; <a href='/AIV/19/36/6'>Ps. 36:6</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 23048012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 48,
       "verse": 12,
       "text": "Walk about Zion, go around her, count her towers,",
       "links": "<a href='/AIV/19/122/7'>Ps. 122:7</a>; <a href='/AIV/23/33/20'>Isa. 33:20</a>",
@@ -154,11 +96,6 @@
     },
     {
       "pk": 23048013,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 48,
       "verse": 13,
       "text": "notice her ramparts, go through her citadels, so that you may tell the next generation",
       "links": "<a href='/AIV/19/78/4'>Ps. 78:4</a>; <a href='/AIV/02/13/14'>Ex. 13:14</a>",
@@ -166,38 +103,10 @@
     },
     {
       "pk": 23048014,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 48,
       "verse": 14,
       "text": "that this is God, our God forever and ever. He will guide us forever.",
       "links": "<a href='/AIV/19/73/24'>Ps. 73:24</a>; <a href='/AIV/66/21/3'>Rev. 21:3</a>",
       "comment": "God’s faithfulness extends to all ages. He guides His people eternally, promising not only earthly security but a relationship that is everlasting, culminating in His presence with them forever (Rev. 21:3)."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:15:21.214Z",
-  "sections": [
-    {
-      "title": "Praise of God in Zion",
-      "startVerse": 1,
-      "endVerse": 3
-    },
-    {
-      "title": "God’s Deliverance and Protection",
-      "startVerse": 4,
-      "endVerse": 8
-    },
-    {
-      "title": "Meditation on God’s Lovingkindness",
-      "startVerse": 9,
-      "endVerse": 11
-    },
-    {
-      "title": "Eternal Guidance of God",
-      "startVerse": 12,
-      "endVerse": 14
     }
   ]
 }

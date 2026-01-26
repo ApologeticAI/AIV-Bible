@@ -1,16 +1,13 @@
 {
-  "book": 73,
+  "translation": "AIV",
+  "bookId": "revelation",
   "bookName": "Revelation",
   "bookAbbreviation": "Rev",
+  "bookNumber": 73,
   "chapter": 7,
   "verses": [
     {
       "pk": 73007001,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 7,
       "verse": 1,
       "text": "After this I saw four angels standing at the four corners of the earth, holding back the four winds of the earth so that no wind might blow on the earth or the sea or against any tree.",
       "links": "<a href='/AIV/24/49/36'>Jer. 49:36</a>; <a href='/AIV/38/6/5'>Zech. 6:5</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 73007002,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 7,
       "verse": 2,
       "text": "Then I saw another angel rising from the east, having the seal of the living God. He called out in a loud voice to the four angels who had been given power to harm the earth and sea:",
       "links": "<a href='/AIV/26/9/4'>Ezek. 9:4</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 73007003,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 7,
       "verse": 3,
       "text": "\"Do not harm the earth or the sea or the trees until we have sealed the servants of our God on their foreheads.\"",
       "links": "<a href='/AIV/26/9/6'>Ezek. 9:6</a>; <a href='/AIV/2/12/7'>Exod. 12:7</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 73007004,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 7,
       "verse": 4,
       "text": "And I heard the number of those sealed: one hundred forty-four thousand sealed from every tribe of the sons of Israel:",
       "links": "<a href='/AIV/4/2/32-34'>Num. 2:32-34</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 73007005,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 7,
       "verse": 5,
       "text": "from the tribe of Judah, twelve thousand sealed; from the tribe of Reuben, twelve thousand; from the tribe of Gad, twelve thousand;",
       "links": "<a href='/AIV/1/49/8-10'>Gen. 49:8-10</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 73007006,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 7,
       "verse": 6,
       "text": "from the tribe of Asher, twelve thousand; from the tribe of Naphtali, twelve thousand; from the tribe of Manasseh, twelve thousand;",
       "links": "<a href='/AIV/1/49/20-21'>Gen. 49:20-21</a>; <a href='/AIV/4/2/20'>Num. 2:20</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 73007007,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 7,
       "verse": 7,
       "text": "from the tribe of Simeon, twelve thousand; from the tribe of Levi, twelve thousand; from the tribe of Issachar, twelve thousand;",
       "links": "<a href='/AIV/1/49/5-7'>Gen. 49:5-7</a>; <a href='/AIV/4/2/18'>Num. 2:18</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 73007008,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 7,
       "verse": 8,
       "text": "from the tribe of Zebulun, twelve thousand; from the tribe of Joseph, twelve thousand; from the tribe of Benjamin, twelve thousand sealed.",
       "links": "<a href='/AIV/1/49/22-27'>Gen. 49:22-27</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 73007009,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 7,
       "verse": 9,
       "text": "After this I looked, and there was a vast multitude that no one could count, from every nation, tribe, people, and language, standing before the throne and before the Lamb, clothed in white robes, with palm branches in their hands.",
       "links": "<a href='/AIV/23/66/18'>Isa. 66:18</a>; <a href='/AIV/43/12/13'>John 12:13</a>; <a href='/AIV/36/3/9'>Zeph. 3:9</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 73007010,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 7,
       "verse": 10,
       "text": "They cried out in a loud voice, saying: \"Salvation belongs to our God, who sits on the throne, and to the Lamb.\"",
       "links": "<a href='/AIV/19/3/8'>Ps. 3:8</a>; <a href='/AIV/42/2/32'>Luke 2:32</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 73007011,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 7,
       "verse": 11,
       "text": "And all the angels stood around the throne and the elders and the four living creatures, and they fell on their faces before the throne and worshiped God,",
       "links": "<a href='/AIV/26/1/5'>Ezek. 1:5</a>; <a href='/AIV/19/99/5'>Ps. 99:5</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 73007012,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 7,
       "verse": 12,
       "text": "saying, \"Amen! Blessing and glory and wisdom and thanksgiving and honor and power and strength be to our God forever and ever. Amen.\"",
       "links": "<a href='/AIV/19/106/1'>Ps. 106:1</a>; <a href='/AIV/45/11/36'>Rom. 11:36</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 73007013,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 7,
       "verse": 13,
       "text": "Then one of the elders asked me, \"Who are these clothed in white robes, and where have they come from?\"",
       "links": "<a href='/AIV/38/3/3-5'>Zech. 3:3-5</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 73007014,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 7,
       "verse": 14,
       "text": "And I said to him, \"Sir, you know.\" And he said to me, \"These are the ones who come out of the great tribulation. They have washed their robes and made them white in the blood of the Lamb.\"",
       "links": "<a href='/AIV/19/51/7'>Ps. 51:7</a>; <a href='/AIV/23/1/18'>Isa. 1:18</a>; <a href='/AIV/66/1/7'>1 John 1:7</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 73007015,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 7,
       "verse": 15,
       "text": "Therefore, they are before the throne of God and serve Him day and night in His temple; and He who sits on the throne will shelter them with His presence.",
       "links": "<a href='/AIV/19/27/4'>Ps. 27:4</a>; <a href='/AIV/26/48/35'>Ezek. 48:35</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 73007016,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 7,
       "verse": 16,
       "text": "\"They shall hunger no more, neither thirst anymore; the sun shall not strike them, nor any scorching heat.\"",
       "links": "<a href='/AIV/23/49/10'>Isa. 49:10</a>; <a href='/AIV/19/121/6'>Ps. 121:6</a>",
@@ -200,28 +122,10 @@
     },
     {
       "pk": 73007017,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 7,
       "verse": 17,
       "text": "For the Lamb in the center of the throne will shepherd them and lead them to springs of living water, and God will wipe every tear from their eyes.\"",
       "links": "<a href='/AIV/26/34/23'>Ezek. 34:23</a>; <a href='/AIV/23/25/8'>Isa. 25:8</a>; <a href='/AIV/43/4/14'>John 4:14</a>",
       "comment": "Christ as the Shepherd fulfills Old Testament prophecy (Ezekiel 34:23) and the promise of living water (John 4:14). Wiping every tear references Isaiah 25:8, signifying the ultimate comfort and restoration found only in God's dwelling. The spiritual and sacramental imagery together point to the fullness of Christ’s mediatorial role."
-    }
-  ],
-  "translatedAt": "2025-12-24T12:35:58.878Z",
-  "sections": [
-    {
-      "title": "The Sealing of the 144,000",
-      "startVerse": 1,
-      "endVerse": 8
-    },
-    {
-      "title": "The Great Multitude before the Throne",
-      "startVerse": 9,
-      "endVerse": 17
     }
   ]
 }

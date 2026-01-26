@@ -1,16 +1,13 @@
 {
-  "book": 52,
+  "translation": "AIV",
+  "bookId": "romans",
   "bookName": "Romans",
   "bookAbbreviation": "Rom",
+  "bookNumber": 52,
   "chapter": 10,
   "verses": [
     {
       "pk": 52010001,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 10,
       "verse": 1,
       "text": "Brothers, my heart's desire and prayer to God for them is that they might be saved.",
       "links": "<a href='/AIV/51/9/3'>Rom. 9:3</a>; <a href='/AIV/52/10/9-13'>Rom. 10:9-13</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 52010002,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 10,
       "verse": 2,
       "text": "For I testify about them that they have a zeal for God, but not according to knowledge.",
       "links": "<a href='/AIV/44/22/3'>Acts 22:3</a>; <a href='/AIV/51/8/7'>Rom. 8:7</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 52010003,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 10,
       "verse": 3,
       "text": "For, being ignorant of God's righteousness and seeking to establish their own, they did not submit to the righteousness of God.",
       "links": "<a href='/AIV/50/3/9'>Phil. 3:9</a>; <a href='/AIV/19/71/16'>Ps. 71:16</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 52010004,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 10,
       "verse": 4,
       "text": "For Christ is the end of the law for righteousness to everyone who believes.",
       "links": "<a href='/AIV/40/5/17'>Matt. 5:17</a>; <a href='/AIV/48/3/24'>Gal. 3:24</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 52010005,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 10,
       "verse": 5,
       "text": "For Moses writes about the righteousness based on the law: 'The person who does these things shall live by them.'",
       "links": "<a href='/AIV/3/18/5'>Lev. 18:5</a>; <a href='/AIV/48/3/12'>Gal. 3:12</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 52010006,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 10,
       "verse": 6,
       "text": "But the righteousness based on faith says, 'Do not say in your heart, “Who will ascend into heaven?”' (that is, to bring Christ down),",
       "links": "<a href='/AIV/5/30/12'>Deut. 30:12</a>; <a href='/AIV/43/3/13'>John 3:13</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 52010007,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 10,
       "verse": 7,
       "text": "'or “Who will descend into the abyss?”' (that is, to bring Christ up from the dead).",
       "links": "<a href='/AIV/5/30/13'>Deut. 30:13</a>; <a href='/AIV/40/12/40'>Matt. 12:40</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 52010008,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 10,
       "verse": 8,
       "text": "But what does it say? 'The word is near you, in your mouth and in your heart'; that is, the word of faith that we proclaim.",
       "links": "<a href='/AIV/5/30/14'>Deut. 30:14</a>; <a href='/AIV/58/4/2'>Heb. 4:2</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 52010009,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 10,
       "verse": 9,
       "text": "Because if you confess with your mouth 'Jesus is Lord' and believe in your heart that God raised him from the dead, you will be saved.",
       "links": "<a href='/AIV/46/12/3'>1 Cor. 12:3</a>; <a href='/AIV/43/20/28'>John 20:28</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 52010010,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 10,
       "verse": 10,
       "text": "For with the heart a person believes and is justified, and with the mouth one confesses and is saved.",
       "links": "<a href='/AIV/51/3/28'>Rom. 3:28</a>; <a href='/AIV/45/8/37'>Acts 8:37</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 52010011,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 10,
       "verse": 11,
       "text": "For the Scripture says, 'Everyone who believes in him will not be put to shame.'",
       "links": "<a href='/AIV/23/28/16'>Isa. 28:16</a>; <a href='/AIV/60/2/6'>1 Pet. 2:6</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 52010012,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 10,
       "verse": 12,
       "text": "For there is no difference between Jew and Greek; for the same Lord is Lord of all, richly blessing all who call upon him.",
       "links": "<a href='/AIV/51/3/29'>Rom. 3:29</a>; <a href='/AIV/44/10/34-36'>Acts 10:34-36</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 52010013,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 10,
       "verse": 13,
       "text": "For 'everyone who calls on the name of the Lord will be saved.'",
       "links": "<a href='/AIV/29/2/32'>Joel 2:32</a>; <a href='/AIV/44/2/21'>Acts 2:21</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 52010014,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 10,
       "verse": 14,
       "text": "How then will they call on him in whom they have not believed? And how will they believe in him of whom they have not heard? And how will they hear without a preacher?",
       "links": "<a href='/AIV/41/16/15'>Mark 16:15</a>; <a href='/AIV/52/1/16'>Rom. 1:16</a>",
@@ -178,11 +110,6 @@
     },
     {
       "pk": 52010015,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 10,
       "verse": 15,
       "text": "And how are they to preach unless they are sent? As it is written, 'How beautiful are the feet of those who proclaim good news!'",
       "links": "<a href='/AIV/23/52/7'>Isa. 52:7</a>; <a href='/AIV/52/15/20'>Rom. 15:20</a>",
@@ -190,11 +117,6 @@
     },
     {
       "pk": 52010016,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 10,
       "verse": 16,
       "text": "But they have not all obeyed the gospel. For Isaiah says, 'Lord, who has believed what he has heard from us?'",
       "links": "<a href='/AIV/23/53/1'>Isa. 53:1</a>; <a href='/AIV/43/12/38'>John 12:38</a>",
@@ -203,11 +125,6 @@
     },
     {
       "pk": 52010017,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 10,
       "verse": 17,
       "text": "So faith comes from hearing, and hearing through the word of Christ.",
       "links": "<a href='/AIV/52/1/8'>Rom. 1:8</a>; <a href='/AIV/43/17/20'>John 17:20</a>",
@@ -215,11 +132,6 @@
     },
     {
       "pk": 52010018,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 10,
       "verse": 18,
       "text": "But I say, have they not heard? Indeed they have, for 'Their voice has gone out to all the earth, and their words to the ends of the world.'",
       "links": "<a href='/AIV/19/19/4'>Ps. 19:4</a>; <a href='/AIV/45/1/8'>Acts 1:8</a>",
@@ -227,11 +139,6 @@
     },
     {
       "pk": 52010019,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 10,
       "verse": 19,
       "text": "But I ask, did Israel not understand? First Moses says, 'I will make you jealous of those who are not a nation; I will make you angry with a foolish nation.'",
       "links": "<a href='/AIV/5/32/21'>Deut. 32:21</a>; <a href='/AIV/45/11/11'>Rom. 11:11</a>",
@@ -239,11 +146,6 @@
     },
     {
       "pk": 52010020,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 10,
       "verse": 20,
       "text": "And Isaiah is so bold as to say, 'I was found by those who did not seek me; I revealed myself to those who did not ask for me.'",
       "links": "<a href='/AIV/23/65/1'>Isa. 65:1</a>; <a href='/AIV/45/9/30'>Rom. 9:30</a>",
@@ -251,43 +153,10 @@
     },
     {
       "pk": 52010021,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 10,
       "verse": 21,
       "text": "But concerning Israel he says, 'All day long I have held out my hands to a disobedient and contrary people.'",
       "links": "<a href='/AIV/23/65/2'>Isa. 65:2</a>; <a href='/AIV/44/7/51'>Acts 7:51</a>",
       "comment": "God’s patient love and persistent call to Israel is evident; yet despite ongoing rebellion, He continually invites His people back. This points to God’s mercy and the ongoing invitation to all, mediated through the unity and structure of the one people of God."
-    }
-  ],
-  "translatedAt": "2025-12-24T11:40:39.790Z",
-  "sections": [
-    {
-      "title": "Israel’s Unbelief and God's Righteousness",
-      "startVerse": 1,
-      "endVerse": 4
-    },
-    {
-      "title": "Salvation through Faith in Christ",
-      "startVerse": 5,
-      "endVerse": 10
-    },
-    {
-      "title": "The Universality of Salvation",
-      "startVerse": 11,
-      "endVerse": 13
-    },
-    {
-      "title": "The Necessity of Preaching the Gospel",
-      "startVerse": 14,
-      "endVerse": 15
-    },
-    {
-      "title": "Israel’s Refusal to Believe",
-      "startVerse": 16,
-      "endVerse": 21
     }
   ]
 }

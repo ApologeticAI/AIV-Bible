@@ -1,16 +1,13 @@
 {
-  "book": 45,
+  "translation": "AIV",
+  "bookId": "zechariah",
   "bookName": "Zechariah",
   "bookAbbreviation": "Zech",
+  "bookNumber": 45,
   "chapter": 2,
   "verses": [
     {
       "pk": 45002001,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 2,
       "verse": 1,
       "text": "I lifted my eyes and saw, and behold, a man with a measuring line in his hand.",
       "links": "<a href='/AIV/26/40/3'>Ezek. 40:3</a>; <a href='/AIV/66/11/1'>Rev. 11:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 45002002,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 2,
       "verse": 2,
       "text": "Then I asked, 'Where are you going?' And he said to me, 'To measure Jerusalem, to see what is its width and what is its length.'",
       "links": "<a href='/AIV/26/48/16'>Ezek. 48:16</a>; <a href='/AIV/66/21/16'>Rev. 21:16</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 45002003,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 2,
       "verse": 3,
       "text": "Then, behold, the angel who spoke with me went out, and another angel went out to meet him.",
       "links": "<a href='/AIV/38/1/9'>Zech. 1:9</a>; <a href='/AIV/38/1/19'>Zech. 1:19</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 45002004,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 2,
       "verse": 4,
       "text": "And he said to him, 'Run, speak to that young man, saying, Jerusalem will be inhabited as villages without walls, because of the multitude of people and livestock within it.'",
       "links": "<a href='/AIV/19/147/13'>Ps. 147:13-14</a>; <a href='/AIV/26/38/11'>Ezek. 38:11</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 45002005,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 2,
       "verse": 5,
       "text": "For I will be a wall of fire around her,' declares the LORD, 'and I will be the glory in her midst.'",
       "links": "<a href='/AIV/02/13/21'>Exod. 13:21</a>; <a href='/AIV/19/46/5'>Ps. 46:5</a>; <a href='/AIV/66/21/23'>Rev. 21:23</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 45002006,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 2,
       "verse": 6,
       "text": "'Up! Up! Flee from the land of the north,' declares the LORD. 'For I have scattered you like the four winds of heaven,' declares the LORD.",
       "links": "<a href='/AIV/01/28/14'>Gen. 28:14</a>; <a href='/AIV/24/3/18'>Jer. 3:18</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 45002007,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 2,
       "verse": 7,
       "text": "Deliver yourself, O Zion, you who dwell with the daughter of Babylon.",
       "links": "<a href='/AIV/19/137/1'>Ps. 137:1</a>; <a href='/AIV/23/48/20'>Isa. 48:20</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 45002008,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 2,
       "verse": 8,
       "text": "For this is what the LORD of hosts says: 'After the glory sent me to the nations which plundered you—for he who touches you touches the apple of his eye—'",
       "links": "<a href='/AIV/05/32/10'>Deut. 32:10</a>; <a href='/AIV/19/17/8'>Ps. 17:8</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 45002009,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 2,
       "verse": 9,
       "text": "'I will surely raise my hand against them, and they shall become plunder for their servants. Then you will know that the LORD of hosts has sent me.'",
       "links": "<a href='/AIV/02/7/5'>Exod. 7:5</a>; <a href='/AIV/38/4/9'>Zech. 4:9</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 45002010,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 2,
       "verse": 10,
       "text": "'Sing and rejoice, O daughter of Zion! For behold, I am coming, and I will dwell in your midst,' declares the LORD.",
       "links": "<a href='/AIV/01/49/10'>Gen. 49:10</a>; <a href='/AIV/40/1/23'>Matt. 1:23</a>; <a href='/AIV/66/21/3'>Rev. 21:3</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 45002011,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 2,
       "verse": 11,
       "text": "'And many nations shall join themselves to the LORD in that day, and shall be my people. And I will dwell in your midst, and you shall know that the LORD of hosts has sent me to you.'",
       "links": "<a href='/AIV/23/2/2-3'>Isa. 2:2-3</a>; <a href='/AIV/60/2/10'>1 Pet. 2:10</a>; <a href='/AIV/66/21/24'>Rev. 21:24</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 45002012,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 2,
       "verse": 12,
       "text": "And the LORD will inherit Judah as his portion in the holy land, and will once again choose Jerusalem.",
       "links": "<a href='/AIV/05/32/9'>Deut. 32:9</a>; <a href='/AIV/19/132/13'>Ps. 132:13</a>; <a href='/AIV/54/3/15'>1 Tim. 3:15</a>",
@@ -153,33 +95,10 @@
     },
     {
       "pk": 45002013,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 2,
       "verse": 13,
       "text": "Be silent, all flesh, before the LORD, for he has roused himself from his holy dwelling.",
       "links": "<a href='/AIV/19/76/8'>Ps. 76:8</a>; <a href='/AIV/35/2/20'>Hab. 2:20</a>",
       "comment": "The final call to silence is an invitation to reverent worship before God’s manifest presence. God’s action from His 'holy dwelling' foreshadows the dramatic intervention of God in history and the seriousness with which we must seek His presence. The verse invites contemplative prayer and awe before the mystery of God’s nearness."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:55:11.974Z",
-  "sections": [
-    {
-      "title": "The Vision of the Man with the Measuring Line",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "A Call to Flee from Babylon",
-      "startVerse": 6,
-      "endVerse": 9
-    },
-    {
-      "title": "God’s Presence in Zion and Gathering of the Nations",
-      "startVerse": 10,
-      "endVerse": 13
     }
   ]
 }

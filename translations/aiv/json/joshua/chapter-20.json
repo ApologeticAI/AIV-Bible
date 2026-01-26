@@ -1,16 +1,13 @@
 {
-  "book": 6,
+  "translation": "AIV",
+  "bookId": "joshua",
   "bookName": "Joshua",
   "bookAbbreviation": "Josh",
+  "bookNumber": 6,
   "chapter": 20,
   "verses": [
     {
       "pk": 6020001,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 20,
       "verse": 1,
       "text": "The LORD spoke to Joshua, saying,",
       "links": "<a href='/AIV/4/35/9'>Num. 35:9</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 6020002,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 20,
       "verse": 2,
       "text": "\"Speak to the people of Israel, saying, 'Appoint for yourselves the cities of refuge, of which I spoke to you through Moses,",
       "links": "<a href='/AIV/4/35/6-15'>Num. 35:6-15</a>; <a href='/AIV/5/19/1-13'>Deut. 19:1-13</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 6020003,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 20,
       "verse": 3,
       "text": "that the manslayer who kills any person unintentionally or by accident may flee there. They shall be for you a refuge from the avenger of blood.",
       "links": "<a href='/AIV/2/21/13'>Ex. 21:13</a>; <a href='/AIV/4/35/11-12'>Num. 35:11-12</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 6020004,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 20,
       "verse": 4,
       "text": "He shall flee to one of these cities and shall stand at the entrance of the gate of the city and state his case in the hearing of the elders of that city. Then they shall take him into the city and give him a place, and he shall dwell among them.",
       "links": "<a href='/AIV/4/35/24-25'>Num. 35:24-25</a>; <a href='/AIV/5/21/1-9'>Deut. 21:1-9</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 6020005,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 20,
       "verse": 5,
       "text": "If the avenger of blood pursues him, they shall not hand the manslayer over into his hand, because he killed his neighbor unintentionally and did not hate him in the past.",
       "links": "<a href='/AIV/4/35/22-25'>Num. 35:22-25</a>; <a href='/AIV/5/19/6-10'>Deut. 19:6-10</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 6020006,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 20,
       "verse": 6,
       "text": "He shall remain in that city until he stands before the congregation for judgment, and until the death of the high priest who is in office in those days. Then the manslayer may return to his own town and to his own home, to the town from which he fled.'\"",
       "links": "<a href='/AIV/4/35/25-28'>Num. 35:25-28</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 6020007,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 20,
       "verse": 7,
       "text": "So they set apart Kedesh in Galilee in the hill country of Naphtali, Shechem in the hill country of Ephraim, and Kiriath-arba (that is, Hebron) in the hill country of Judah.",
       "links": "<a href='/AIV/4/35/14'>Num. 35:14</a>; <a href='/AIV/6/21/13-21'>Josh. 21:13-21</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 6020008,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 20,
       "verse": 8,
       "text": "And beyond the Jordan east of Jericho, they appointed Bezer in the wilderness on the plain, out of the tribe of Reuben, Ramoth in Gilead, out of the tribe of Gad, and Golan in Bashan, out of the tribe of Manasseh.",
       "links": "<a href='/AIV/5/4/43'>Deut. 4:43</a>; <a href='/AIV/4/35/14'>Num. 35:14</a>",
@@ -104,28 +66,10 @@
     },
     {
       "pk": 6020009,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 20,
       "verse": 9,
       "text": "These were the cities designated for all the people of Israel and for the stranger sojourning among them, that anyone who killed a person unintentionally could flee there, so that he might not die by the hand of the avenger of blood, until he stood before the congregation.",
       "links": "<a href='/AIV/4/35/15'>Num. 35:15</a>; <a href='/AIV/5/19/10'>Deut. 19:10</a>",
       "comment": "These protections applied not only to Israelites but also to resident foreigners, showing God's inclusive plan for mercy and justice (cf. Numbers 35:15). The text anticipates a broader communion where justice and grace are mediated through a visible, ordered community. This ordered, sacramental mediation of mercy points ahead to the necessary outward means God still employs to bring grace and reconciliation to His people."
-    }
-  ],
-  "translatedAt": "2025-12-24T02:27:22.506Z",
-  "sections": [
-    {
-      "title": "The Cities of Refuge Instituted",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "The Cities of Refuge Appointed",
-      "startVerse": 7,
-      "endVerse": 9
     }
   ]
 }

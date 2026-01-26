@@ -1,16 +1,13 @@
 {
-  "book": 47,
+  "translation": "AIV",
+  "bookId": "matthew",
   "bookName": "Matthew",
   "bookAbbreviation": "Matt",
+  "bookNumber": 47,
   "chapter": 23,
   "verses": [
     {
       "pk": 47023001,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 1,
       "text": "Then Jesus spoke to the crowds and to his disciples,",
       "links": "<a href='/AIV/41/12/38'>Mark 12:38</a>; <a href='/AIV/42/20/45'>Luke 20:45</a>",
@@ -19,23 +16,13 @@
     },
     {
       "pk": 47023002,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 2,
-      "text": "\"The scribes and the Pharisees sit on Moses’ seat.",
+      "text": "\"The scribes and the Pharisees sit on Moses' seat.",
       "links": "<a href='/AIV/02/18/13'>Ex. 18:13</a>; <a href='/AIV/16/8/1-8'>Neh. 8:1-8</a>",
       "comment": "The 'seat of Moses' refers to the authority to teach and interpret the Law. Note the implication of apostolic succession of teaching authority. Jesus acknowledges this genuine authority, but will soon critique their manner."
     },
     {
       "pk": 47023003,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 3,
       "text": "So do and observe everything they tell you, but do not do what they do; for they do not practice what they preach.",
       "links": "<a href='/AIV/45/2/21-24'>Rom. 2:21-24</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 47023004,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 4,
       "text": "They bind heavy burdens, hard to bear, and lay them on people's shoulders, but they themselves are not willing to move them with a finger.",
       "links": "<a href='/AIV/44/15/10'>Acts 15:10</a>; <a href='/AIV/23/58/6'>Isa. 58:6</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 47023005,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 5,
       "text": "They do all their deeds to be seen by others. For they make their phylacteries broad and their fringes long.",
       "links": "<a href='/AIV/04/15/38'>Num. 15:38</a>; <a href='/AIV/05/6/8'>Deut. 6:8</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 47023006,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 6,
       "text": "They love the place of honor at feasts and the best seats in the synagogues,",
       "links": "<a href='/AIV/42/14/7'>Luke 14:7</a>; <a href='/AIV/41/12/39'>Mark 12:39</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 47023007,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 7,
       "text": "and greetings in the marketplaces, and being called 'Rabbi' by others.",
       "links": "<a href='/AIV/18/32/21'>Job 32:21</a>; <a href='/AIV/42/20/46'>Luke 20:46</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 47023008,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 8,
       "text": "But you are not to be called 'Rabbi,' for you have one Teacher, and you are all brothers.",
       "links": "<a href='/AIV/43/13/13'>John 13:13</a>; <a href='/AIV/49/4/5'>Eph. 4:5</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 47023009,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 9,
       "text": "And do not call anyone on earth your father, for you have one Father, who is in heaven.",
       "links": "<a href='/AIV/40/6/9'>Matt. 6:9</a>; <a href='/AIV/45/8/15'>Rom. 8:15</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 47023010,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 10,
       "text": "Nor are you to be called instructors, for you have one Instructor, the Christ.",
       "links": "<a href='/AIV/46/1/10-13'>1 Cor. 1:10-13</a>",
@@ -127,11 +79,6 @@
     },
     {
       "pk": 47023011,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 11,
       "text": "The greatest among you shall be your servant.",
       "links": "<a href='/AIV/40/20/26-27'>Matt. 20:26-27</a>; <a href='/AIV/41/9/35'>Mark 9:35</a>",
@@ -139,11 +86,6 @@
     },
     {
       "pk": 47023012,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 12,
       "text": "Whoever exalts himself will be humbled, and whoever humbles himself will be exalted.",
       "links": "<a href='/AIV/42/14/11'>Luke 14:11</a>; <a href='/AIV/20/29/23'>Prov. 29:23</a>",
@@ -151,24 +93,14 @@
     },
     {
       "pk": 47023013,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 13,
-      "text": "But woe to you, scribes and Pharisees, hypocrites! For you shut the kingdom of heaven in people’s faces. You yourselves do not enter, nor allow those who want to enter to go in.",
+      "text": "But woe to you, scribes and Pharisees, hypocrites! For you shut the kingdom of heaven in people's faces. You yourselves do not enter, nor allow those who want to enter to go in.",
       "links": "<a href='/AIV/42/11/52'>Luke 11:52</a>; <a href='/AIV/22/5/2'>Song 5:2</a>",
       "comment": "Jesus pronounces judgment against religious leaders for blocking access to God. This woe is a call to repentance and conversion, pointing people to the true way to salvation through Christ.",
       "sectionHeader": "The Seven Woes to the Scribes and Pharisees"
     },
     {
       "pk": 47023014,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 15,
       "text": "Woe to you, scribes and Pharisees, hypocrites! For you travel over land and sea to make one convert, and when he becomes one, you make him twice as much a child of hell as yourselves.",
       "links": "<a href='/AIV/19/7/14-16'>Ps. 7:14-16</a>; <a href='/AIV/40/8/12'>Matt. 8:12</a>",
@@ -176,310 +108,174 @@
     },
     {
       "pk": 47023015,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 16,
       "text": "Woe to you, blind guides, who say, 'If anyone swears by the temple, it means nothing; but if anyone swears by the gold of the temple, he is bound by his oath.'",
-      "links": "<a href='/AIV/03/19/12'>Lev. 19:12</a>; <a href='/AIV/40/5/33-37'>Matt. 5:33-37</a>",
-      "comment": "Jesus exposes sophistry and distortion of spiritual truths, admonishing integrity in worship and speech."
+      "links": "<a href='/AIV/19/7/14-16'>Ps. 7:14-16</a>; <a href='/AIV/40/8/12'>Matt. 8:12</a>",
+      "comment": "The censure is for leading converts into religious formalism without true spiritual renewal, a warning against empty works apart from genuine faith."
     },
     {
       "pk": 47023016,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 17,
       "text": "You fools! Which is greater: the gold, or the temple that made the gold holy?",
-      "links": "<a href='/AIV/02/29/37'>Ex. 29:37</a>; <a href='/AIV/11/8/6'>1 Kings 8:6'>",
-      "comment": "The sanctity comes from the temple, a dwelling of God's presence. Points forwards to the Church as sacred through God's indwelling."
+      "links": "<a href='/AIV/03/19/12'>Lev. 19:12</a>; <a href='/AIV/40/5/33-37'>Matt. 5:33-37</a>",
+      "comment": "The censure is for leading converts into religious formalism without true spiritual renewal, a warning against empty works apart from genuine faith."
     },
     {
       "pk": 47023017,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 18,
       "text": "And you say, 'If anyone swears by the altar, it means nothing; but if anyone swears by the gift that is on the altar, he is bound by his oath.'",
-      "links": "<a href='/AIV/03/6/14'>Lev. 6:14</a>",
-      "comment": "A similar logical fallacy—Jesus asserts the primacy of the altar, the place of true sacrifice and worship."
+      "links": "<a href='/AIV/02/29/37'>Ex. 29:37</a>; <a href='/AIV/11/8/6'>1 Kings 8:6'>",
+      "comment": "The censure is for leading converts into religious formalism without true spiritual renewal, a warning against empty works apart from genuine faith."
     },
     {
       "pk": 47023018,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 19,
       "text": "You blind men! For which is greater: the gift, or the altar that makes the gift holy?",
-      "links": "<a href='/AIV/04/18/9'>Num. 18:9</a>",
-      "comment": "The altar sanctifies the offering, foretelling later interpretations about the sanctity of sacramental worship."
+      "links": "<a href='/AIV/03/6/14'>Lev. 6:14</a>",
+      "comment": "The censure is for leading converts into religious formalism without true spiritual renewal, a warning against empty works apart from genuine faith."
     },
     {
       "pk": 47023019,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 20,
       "text": "Therefore, anyone who swears by the altar, swears by it and by everything on it.",
-      "links": "<a href='/AIV/04/7/89'>Num. 7:89</a>",
-      "comment": "Oaths involve the whole reality and sanctity of worship, not a superficial part."
+      "links": "<a href='/AIV/04/18/9'>Num. 18:9</a>",
+      "comment": "The censure is for leading converts into religious formalism without true spiritual renewal, a warning against empty works apart from genuine faith."
     },
     {
       "pk": 47023020,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 21,
       "text": "And anyone who swears by the temple, swears by it and by him who dwells in it.",
-      "links": "<a href='/AIV/11/8/27'>1 Kings 8:27</a>; <a href='/AIV/23/6/1'>Isa. 6:1</a>",
-      "comment": "Indicates God's presence in the temple, foreshadowing the Incarnation and God's (Christ’s) dwelling with His people."
+      "links": "<a href='/AIV/04/7/89'>Num. 7:89</a>",
+      "comment": "The censure is for leading converts into religious formalism without true spiritual renewal, a warning against empty works apart from genuine faith."
     },
     {
       "pk": 47023021,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 22,
       "text": "And whoever swears by heaven swears by the throne of God and by him who sits on it.",
-      "links": "<a href='/AIV/19/11/4'>Ps. 11:4</a>; <a href='/AIV/40/5/34'>Matt. 5:34-35</a>",
-      "comment": "God’s throne represents true supreme authority. Jesus again equates Himself with divine authority."
+      "links": "<a href='/AIV/11/8/27'>1 Kings 8:27</a>; <a href='/AIV/23/6/1'>Isa. 6:1</a>",
+      "comment": "The censure is for leading converts into religious formalism without true spiritual renewal, a warning against empty works apart from genuine faith."
     },
     {
       "pk": 47023022,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 23,
       "text": "Woe to you, scribes and Pharisees, hypocrites! For you give a tenth of your mint and dill and cumin, but have neglected the weightier matters of the law: justice, mercy, and faithfulness. These you ought to have done, without neglecting the others.",
-      "links": "<a href='/AIV/33/6/8'>Mic. 6:8</a>; <a href='/AIV/42/11/42'>Luke 11:42</a>",
-      "comment": "Jesus emphasizes that interior virtues are greater than mere external ritual. Note that He does not dismiss tithing, supporting a balance of external piety and inner virtue."
+      "links": "<a href='/AIV/19/11/4'>Ps. 11:4</a>; <a href='/AIV/40/5/34'>Matt. 5:34-35</a>",
+      "comment": "The censure is for leading converts into religious formalism without true spiritual renewal, a warning against empty works apart from genuine faith."
     },
     {
       "pk": 47023023,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 24,
       "text": "You blind guides, straining out a gnat and swallowing a camel!",
-      "links": "<a href='/AIV/03/11/4'>Lev. 11:4</a>; <a href='/AIV/03/11/23'>Lev. 11:23</a>",
-      "comment": "A vivid image for preoccupation with religious minutiae while overlooking more significant spiritual realities."
+      "links": "<a href='/AIV/33/6/8'>Mic. 6:8</a>; <a href='/AIV/42/11/42'>Luke 11:42</a>",
+      "comment": "The censure is for leading converts into religious formalism without true spiritual renewal, a warning against empty works apart from genuine faith."
     },
     {
       "pk": 47023024,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 25,
       "text": "Woe to you, scribes and Pharisees, hypocrites! For you clean the outside of the cup and the plate, but inside they are full of greed and self-indulgence.",
-      "links": "<a href='/AIV/42/11/39'>Luke 11:39</a>",
-      "comment": "True piety transforms from within. Jesus calls for inward purification, foreshadowing the need for a life of holiness."
+      "links": "<a href='/AIV/03/11/4'>Lev. 11:4</a>; <a href='/AIV/03/11/23'>Lev. 11:23</a>",
+      "comment": "The censure is for leading converts into religious formalism without true spiritual renewal, a warning against empty works apart from genuine faith."
     },
     {
       "pk": 47023025,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 26,
       "text": "Blind Pharisee! First clean the inside of the cup and the plate, so that the outside also may become clean.",
-      "links": "<a href='/AIV/10/51/10'>Ps. 51:10</a>",
-      "comment": "The call to interior conversion mirrors the repeated biblical focus on purity of heart as the root of godly living."
+      "links": "<a href='/AIV/42/11/39'>Luke 11:39</a>",
+      "comment": "The censure is for leading converts into religious formalism without true spiritual renewal, a warning against empty works apart from genuine faith."
     },
     {
       "pk": 47023026,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 27,
       "text": "Woe to you, scribes and Pharisees, hypocrites! For you are like whitewashed tombs, which outwardly appear beautiful, but inside are full of dead bones and all uncleanness.",
-      "links": "<a href='/AIV/26/37/1-6'>Ezek. 37:1-6</a>; <a href='/AIV/42/11/44'>Luke 11:44</a>",
-      "comment": "This imagery points to spiritual death hidden behind outward religious displays. Only the Spirit gives true life."
+      "links": "<a href='/AIV/10/51/10'>Ps. 51:10</a>",
+      "comment": "The censure is for leading converts into religious formalism without true spiritual renewal, a warning against empty works apart from genuine faith."
     },
     {
       "pk": 47023027,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 28,
       "text": "In the same way, you also outwardly appear righteous to others, but inside you are full of hypocrisy and lawlessness.",
-      "links": "<a href='/AIV/23/29/13'>Isa. 29:13</a>",
-      "comment": "A warning against mere external conformity without true conversion. True righteousness must be lived, not pretended."
+      "links": "<a href='/AIV/26/37/1-6'>Ezek. 37:1-6</a>; <a href='/AIV/42/11/44'>Luke 11:44</a>",
+      "comment": "The censure is for leading converts into religious formalism without true spiritual renewal, a warning against empty works apart from genuine faith."
     },
     {
       "pk": 47023028,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 29,
       "text": "Woe to you, scribes and Pharisees, hypocrites! For you build the tombs of the prophets and decorate the monuments of the righteous,",
-      "links": "<a href='/AIV/16/1/4-6'>Neh. 1:4-6</a>; <a href='/AIV/44/7/52'>Acts 7:52</a>",
-      "comment": "Honoring past prophets while rejecting their message and Christ Himself; an example of historical piety without present obedience."
+      "links": "<a href='/AIV/23/29/13'>Isa. 29:13</a>",
+      "comment": "The censure is for leading converts into religious formalism without true spiritual renewal, a warning against empty works apart from genuine faith."
     },
     {
       "pk": 47023029,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 30,
       "text": "and say, 'If we had lived in the days of our fathers, we would not have taken part with them in shedding the blood of the prophets.'",
-      "links": "<a href='/AIV/24/2/35'>Jer. 2:35</a>",
-      "comment": "Self-righteous refusal to acknowledge personal complicity or need for repentance."
+      "links": "<a href='/AIV/16/1/4-6'>Neh. 1:4-6</a>; <a href='/AIV/44/7/52'>Acts 7:52</a>",
+      "comment": "The censure is for leading converts into religious formalism without true spiritual renewal, a warning against empty works apart from genuine faith."
     },
     {
       "pk": 47023030,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 31,
-      "text": "So you testify against yourselves that you are the descendants of those who murdered the prophets.",
-      "links": "<a href='/AIV/44/7/51-52'>Acts 7:51-52</a>",
-      "comment": "Admits legacy of rejection of God’s messengers, culminating in opposition to Jesus Himself."
+      "text": "So you testify against yourselves that you are the descendants of those who murdered the prophets.\"[/red]",
+      "links": "<a href='/AIV/24/2/35'>Jer. 2:35</a>",
+      "comment": "The censure is for leading converts into religious formalism without true spiritual renewal, a warning against empty works apart from genuine faith."
     },
     {
       "pk": 47023031,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 32,
-      "text": "Fill up, then, the measure of your fathers!",
-      "links": "<a href='/AIV/01/15/16'>Gen. 15:16</a>; <a href='/AIV/45/2/5'>Rom. 2:5</a>",
-      "comment": "Judgment is the result of continued resistance to God's grace and fulfillment of prophetic warnings."
+      "text": "\"Fill up, then, the measure of your fathers!\"",
+      "links": "<a href='/AIV/44/7/51-52'>Acts 7:51-52</a>",
+      "comment": "The censure is for leading converts into religious formalism without true spiritual renewal, a warning against empty works apart from genuine faith."
     },
     {
       "pk": 47023032,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 33,
-      "text": "You serpents, you brood of vipers! How will you escape being sentenced to hell?",
-      "links": "<a href='/AIV/40/3/7'>Matt. 3:7</a>; <a href='/AIV/19/58/4'>Ps. 58:4</a>",
-      "comment": "Strong language links their spiritual condition to the work of the enemy. Salvation requires repentance and acceptance of Christ."
+      "text": "\"You serpents, you brood of vipers! How will you escape being sentenced to hell?\"",
+      "links": "<a href='/AIV/01/15/16'>Gen. 15:16</a>; <a href='/AIV/45/2/5'>Rom. 2:5</a>",
+      "comment": "The censure is for leading converts into religious formalism without true spiritual renewal, a warning against empty works apart from genuine faith."
     },
     {
       "pk": 47023033,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 34,
-      "text": "Therefore I send you prophets and sages and scribes, some of whom you will kill and crucify, and some you will flog in your synagogues and persecute from town to town,",
-      "links": "<a href='/AIV/42/11/49'>Luke 11:49</a>; <a href='/AIV/44/7/58'>Acts 7:58</a>",
-      "comment": "Christ speaks with divine authority, foretelling persecution of His messengers. The phrase 'I send' is a veiled claim to divinity."
+      "text": "\"Therefore I send you prophets and sages and scribes, some of whom you will kill and crucify, and some you will flog in your synagogues and persecute from town to town,\"",
+      "links": "<a href='/AIV/40/3/7'>Matt. 3:7</a>; <a href='/AIV/19/58/4'>Ps. 58:4</a>",
+      "comment": "The censure is for leading converts into religious formalism without true spiritual renewal, a warning against empty works apart from genuine faith."
     },
     {
       "pk": 47023034,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 35,
-      "text": "so that on you may come all the righteous blood shed on earth, from the blood of righteous Abel to the blood of Zechariah son of Berechiah, whom you murdered between the sanctuary and the altar.",
-      "links": "<a href='/AIV/01/4/8'>Gen. 4:8</a>; <a href='/AIV/14/24/20-22'>2 Chron. 24:20-22</a>",
-      "comment": "Jesus connects Himself to all righteous victims, reinforcing His role as ultimate martyr and fulfillment of prophecy."
+      "text": "\"so that on you may come all the righteous blood shed on earth, from the blood of righteous Abel to the blood of Zechariah son of Berechiah, whom you murdered between the sanctuary and the altar.\"",
+      "links": "<a href='/AIV/42/11/49'>Luke 11:49</a>; <a href='/AIV/44/7/58'>Acts 7:58</a>",
+      "comment": "The censure is for leading converts into religious formalism without true spiritual renewal, a warning against empty works apart from genuine faith."
     },
     {
       "pk": 47023035,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 36,
-      "text": "Truly, I say to you, all these things will come upon this generation.",
-      "links": "<a href='/AIV/40/24/34'>Matt. 24:34</a>; <a href='/AIV/42/21/32'>Luke 21:32</a>",
-      "comment": "Jesus uses the prophetic 'Amen' formula, indicating His future foreknowledge and divinity. Judgment is near for those rejecting Him."
+      "text": "\"Truly, I say to you, all these things will come upon this generation.\"",
+      "links": "<a href='/AIV/01/4/8'>Gen. 4:8</a>; <a href='/AIV/14/24/20-22'>2 Chron. 24:20-22</a>",
+      "comment": "The censure is for leading converts into religious formalism without true spiritual renewal, a warning against empty works apart from genuine faith."
     },
     {
       "pk": 47023036,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 37,
-      "text": "O Jerusalem, Jerusalem, you who kill the prophets and stone those who are sent to you! How often I have longed to gather your children together, as a hen gathers her chicks under her wings, and you were not willing.",
-      "links": "<a href='/AIV/42/13/34'>Luke 13:34</a>; <a href='/AIV/19/17/8'>Ps. 17:8</a>",
-      "comment": "The image of Christ desiring to gather all under His protection is deeply maternal and ecclesial, suggesting the unity of the faithful. Christ’s lament demonstrates both His divinity and loving invitation.",
+      "text": "\"O Jerusalem, Jerusalem, you who kill the prophets and stone those who are sent to you! How often I have longed to gather your children together, as a hen gathers her chicks under her wings, and you were not willing.\"",
+      "links": "<a href='/AIV/40/24/34'>Matt. 24:34</a>; <a href='/AIV/42/21/32'>Luke 21:32</a>",
+      "comment": "The censure is for leading converts into religious formalism without true spiritual renewal, a warning against empty works apart from genuine faith.",
       "sectionHeader": "Lament over Jerusalem"
     },
     {
       "pk": 47023037,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 38,
-      "text": "See, your house is left to you desolate.",
-      "links": "<a href='/AIV/24/12/7'>Jer. 12:7</a>; <a href='/AIV/26/10/18'>Ezek. 10:18</a>",
-      "comment": "Jesus pronounces the coming destruction of the temple, foretelling the end of the old covenant system."
+      "text": "\"See, your house is left to you desolate.\"",
+      "links": "<a href='/AIV/42/13/34'>Luke 13:34</a>; <a href='/AIV/19/17/8'>Ps. 17:8</a>",
+      "comment": "The censure is for leading converts into religious formalism without true spiritual renewal, a warning against empty works apart from genuine faith.",
+      "sectionHeader": "Lament over Jerusalem"
     },
     {
       "pk": 47023038,
-      "translation": "AIV",
-      "book": 47,
-      "bookName": "Matthew",
-      "bookAbbreviation": "Matt",
-      "chapter": 23,
       "verse": 39,
-      "text": "For I tell you, you will not see me again until you say, 'Blessed is he who comes in the name of the Lord.'",
-      "links": "<a href='/AIV/19/118/26'>Ps. 118:26</a>; <a href='/AIV/40/21/9'>Matt. 21:9</a>",
-      "comment": "Jesus refers to the messianic greeting, linking His second coming to fulfilled prophecy. This verse affirms His identity as the awaited Messiah and divine Son who will be revealed in glory."
-    }
-  ],
-  "translatedAt": "2026-01-02T06:03:26.913Z",
-  "sections": [
-    {
-      "title": "Jesus Warns Against the Scribes and Pharisees",
-      "startVerse": 1,
-      "endVerse": 12
-    },
-    {
-      "title": "The Seven Woes to the Scribes and Pharisees",
-      "startVerse": 13,
-      "endVerse": 36
-    },
-    {
-      "title": "Lament over Jerusalem",
-      "startVerse": 37,
-      "endVerse": 39
+      "text": "\"For I tell you, you will not see me again until you say, 'Blessed is he who comes in the name of the Lord.'\"",
+      "links": "<a href='/AIV/24/12/7'>Jer. 12:7</a>; <a href='/AIV/26/10/18'>Ezek. 10:18</a>",
+      "comment": "The censure is for leading converts into religious formalism without true spiritual renewal, a warning against empty works apart from genuine faith.",
+      "sectionHeader": "Lament over Jerusalem"
     }
   ]
 }

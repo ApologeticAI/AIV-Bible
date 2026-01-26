@@ -1,16 +1,13 @@
 {
-  "book": 51,
+  "translation": "AIV",
+  "bookId": "acts",
   "bookName": "Acts",
   "bookAbbreviation": "Acts",
+  "bookNumber": 51,
   "chapter": 24,
   "verses": [
     {
       "pk": 51024001,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 24,
       "verse": 1,
       "text": "After five days, the high priest Ananias came down with some elders and a lawyer named Tertullus, and they brought their case against Paul before the governor.",
       "links": "<a href='/AIV/44/23/2'>Acts 23:2</a>; <a href='/AIV/44/23/30'>Acts 23:30</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 51024002,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 24,
       "verse": 2,
       "text": "When Paul was called in, Tertullus began to accuse him, saying to Felix: 'We have enjoyed much peace because of you, and your reforms are benefitting this nation in every way and everywhere.'",
       "links": "<a href='/AIV/42/20/21'>Luke 20:21</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 51024003,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 24,
       "verse": 3,
       "text": "We gratefully accept these things always and in every place, most excellent Felix.",
       "links": "<a href='/AIV/51/23/26'>Acts. 23:26</a>; <a href='/AIV/49/1/3'>Luke. 1:3</a>; <a href='/AIV/51/26/25'>Acts. 26:25</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 51024004,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 24,
       "verse": 4,
       "text": "But in order not to trouble you further, I beg you to briefly hear us with your kindness.",
       "links": "<a href='/AIV/51/24/22'>Acts. 24:22</a>; <a href='/AIV/51/25/8'>Acts. 25:8</a>; <a href='/AIV/51/26/3'>Acts. 26:3</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 51024005,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 24,
       "verse": 5,
       "text": "For we have found this man to be a troublemaker, stirring up riots among all the Jews throughout the world, and a leader of the sect of the Nazarenes.",
       "links": "<a href='/AIV/42/18/37'>Luke 18:37</a>; <a href='/AIV/44/24/14'>Acts 24:14</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 51024006,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 24,
       "verse": 6,
       "text": "He even tried to desecrate the temple, so we seized him.",
       "links": "<a href='/AIV/44/21/28-29'>Acts 21:28-29</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 51024007,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 24,
       "verse": 8,
       "text": "ordering his accusers to come to you. By examining him yourself, you will be able to learn about all these things we are accusing him of.",
       "links": "<a href='/AIV/44/23/30'>Acts 23:30</a>",
@@ -91,257 +58,154 @@
     },
     {
       "pk": 51024008,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 24,
       "verse": 9,
       "text": "The Jews also joined in the accusation, asserting that these things were so.",
-      "links": "<a href='/AIV/40/27/20-23'>Matt. 27:20-23</a>",
-      "comment": "Jewish unity against Paul echoes opposition to Jesus before Pilate (cf. Matthew 27:20-23)."
+      "links": "<a href='/AIV/44/23/30'>Acts 23:30</a>",
+      "comment": "Tertullus appeals to the governor to investigate Paul, confident in his case. Legal procedures in Rome emphasized personal investigation by the judge."
     },
     {
       "pk": 51024009,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 24,
       "verse": 10,
       "text": "When the governor motioned for him to speak, Paul replied: 'Knowing that you have been a judge over this nation for many years, I cheerfully make my defense.'",
-      "links": "<a href='/AIV/44/26/2'>Acts 26:2</a>",
-      "comment": "Paul follows protocol by acknowledging the judge. Unlike Tertullus, his praise is direct and restrained, demonstrating both humility and confidence in a just hearing.",
+      "links": "<a href='/AIV/40/27/20-23'>Matt. 27:20-23</a>",
+      "comment": "Tertullus appeals to the governor to investigate Paul, confident in his case. Legal procedures in Rome emphasized personal investigation by the judge.",
       "sectionHeader": "Paul's Defense Before Felix"
     },
     {
       "pk": 51024010,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 24,
       "verse": 11,
       "text": "You can see for yourself that it is no more than twelve days since I went up to worship in Jerusalem.",
-      "links": "<a href='/AIV/44/21/18-27'>Acts 21:18-27</a>",
-      "comment": "Paul highlights the shortness of his time in Jerusalem, undermining claims of long-term sedition."
+      "links": "<a href='/AIV/44/26/2'>Acts 26:2</a>",
+      "comment": "Tertullus appeals to the governor to investigate Paul, confident in his case. Legal procedures in Rome emphasized personal investigation by the judge.",
+      "sectionHeader": "Paul's Defense Before Felix"
     },
     {
       "pk": 51024011,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 24,
       "verse": 12,
       "text": "They did not find me arguing with anyone in the temple, or stirring up a crowd in the synagogues, or anywhere in the city.",
-      "links": "<a href='/AIV/51/25/8'>Acts. 25:8</a>; <a href='/AIV/51/18/14'>Acts. 18:14-15</a>; <a href='/AIV/49/23/14'>Luke. 23:14</a>",
-      "comment": "Paul’s actions were focused on worship, not rebellion, aligning with the gospel’s call to peace and order (cf. Romans 12:18)."
+      "links": "<a href='/AIV/44/21/18-27'>Acts 21:18-27</a>",
+      "comment": "Tertullus appeals to the governor to investigate Paul, confident in his case. Legal procedures in Rome emphasized personal investigation by the judge.",
+      "sectionHeader": "Paul's Defense Before Felix"
     },
     {
       "pk": 51024012,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 24,
       "verse": 13,
       "text": "Nor can they prove to you the things of which they now accuse me.",
-      "links": "<a href='/AIV/34/6/4'>Dan. 6:4</a>; <a href='/AIV/51/25/7'>Acts. 25:7</a>; <a href='/AIV/51/23/29'>Acts. 23:29</a>",
-      "comment": "Paul appeals to tangible evidence, echoing principles of justice. Christian faith values truth and evidence above accusation—see <a href='/AIV/05/19/15'>Deut. 19:15</a>."
+      "links": "<a href='/AIV/51/25/8'>Acts. 25:8</a>; <a href='/AIV/51/18/14'>Acts. 18:14-15</a>; <a href='/AIV/49/23/14'>Luke. 23:14</a>",
+      "comment": "Paul follows protocol by acknowledging the judge. Unlike Tertullus, his praise is direct and restrained, demonstrating both humility and confidence in a just hearing.",
+      "sectionHeader": "Paul's Defense Before Felix"
     },
     {
       "pk": 51024013,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 24,
       "verse": 14,
       "text": "But I do confess this to you, that according to the Way, which they call a sect, I worship the God of our ancestors, believing everything that is written in the Law and the Prophets.",
-      "links": "<a href='/AIV/44/9/2'>Acts 9:2</a>; <a href='/AIV/05/6/4-5'>Deut. 6:4-5</a>; <a href='/AIV/42/24/27'>Luke 24:27</a>",
-      "comment": "Paul affirms continuity with Israel’s faith, showing the unity of Old Testament promises and Christian fulfillment. Christians uphold the Law and the Prophets, just as Jesus did (cf. Matthew 5:17-18)."
+      "links": "<a href='/AIV/34/6/4'>Dan. 6:4</a>; <a href='/AIV/51/25/7'>Acts. 25:7</a>; <a href='/AIV/51/23/29'>Acts. 23:29</a>",
+      "comment": "Paul follows protocol by acknowledging the judge. Unlike Tertullus, his praise is direct and restrained, demonstrating both humility and confidence in a just hearing.",
+      "sectionHeader": "Paul's Defense Before Felix"
     },
     {
       "pk": 51024014,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 24,
       "verse": 15,
       "text": "I have the same hope in God as they themselves hold—that there will be a resurrection of both the righteous and the wicked.",
-      "links": "<a href='/AIV/27/12/2'>Dan. 12:2</a>; <a href='/AIV/43/5/28-29'>John 5:28-29</a>; <a href='/AIV/44/23/6'>Acts 23:6</a>",
-      "comment": "Paul's belief in the resurrection fulfills prophetic expectation (Daniel 12:2). The universal resurrection has both literal and spiritual significance: God will judge all people, affirming both justice and hope."
+      "links": "<a href='/AIV/44/9/2'>Acts 9:2</a>; <a href='/AIV/05/6/4-5'>Deut. 6:4-5</a>; <a href='/AIV/42/24/27'>Luke 24:27</a>",
+      "comment": "Paul follows protocol by acknowledging the judge. Unlike Tertullus, his praise is direct and restrained, demonstrating both humility and confidence in a just hearing.",
+      "sectionHeader": "Paul's Defense Before Felix"
     },
     {
       "pk": 51024015,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 24,
       "verse": 16,
       "text": "So I always strive to keep a clear conscience before God and men.",
-      "links": "<a href='/AIV/54/1/5'>1 Tim. 1:5</a>; <a href='/AIV/44/23/1'>Acts 23:1</a>",
-      "comment": "Paul teaches that internal integrity and external behavior matter, echoing Jesus’ teaching on the heart (Matthew 5:8). Purity of conscience is essential for authentic faith."
+      "links": "<a href='/AIV/27/12/2'>Dan. 12:2</a>; <a href='/AIV/43/5/28-29'>John 5:28-29</a>; <a href='/AIV/44/23/6'>Acts 23:6</a>",
+      "comment": "Paul follows protocol by acknowledging the judge. Unlike Tertullus, his praise is direct and restrained, demonstrating both humility and confidence in a just hearing.",
+      "sectionHeader": "Paul's Defense Before Felix"
     },
     {
       "pk": 51024016,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 24,
       "verse": 17,
       "text": "After several years, I came to bring gifts for the poor to my people and to offer sacrifices.",
-      "links": "<a href='/AIV/44/11/29-30'>Acts 11:29-30</a>; <a href='/AIV/45/15/25-27'>Rom. 15:25-27</a>",
-      "comment": "Paul's bringing of alms and sacrifices shows he still deeply respects Temple worship and charitable practices. This supports the importance of both spiritual and sacramental expressions of faith."
+      "links": "<a href='/AIV/54/1/5'>1 Tim. 1:5</a>; <a href='/AIV/44/23/1'>Acts 23:1</a>",
+      "comment": "Paul follows protocol by acknowledging the judge. Unlike Tertullus, his praise is direct and restrained, demonstrating both humility and confidence in a just hearing.",
+      "sectionHeader": "Paul's Defense Before Felix"
     },
     {
       "pk": 51024017,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 24,
       "verse": 18,
       "text": "While I was doing this, they found me purified in the temple, without any crowd or disturbance. But some Jews from Asia—",
-      "links": "<a href='/AIV/44/21/26-27'>Acts 21:26-27</a>",
-      "comment": "Paul’s purification observance confirms his faithfulness to the Law. Participation in ritual cleansing is a sign of respect for God’s ordinances."
+      "links": "<a href='/AIV/44/11/29-30'>Acts 11:29-30</a>; <a href='/AIV/45/15/25-27'>Rom. 15:25-27</a>",
+      "comment": "Paul follows protocol by acknowledging the judge. Unlike Tertullus, his praise is direct and restrained, demonstrating both humility and confidence in a just hearing.",
+      "sectionHeader": "Paul's Defense Before Felix"
     },
     {
       "pk": 51024018,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 24,
       "verse": 19,
       "text": "they ought to be here before you and bring charges, if they have anything against me.",
-      "links": "<a href='/AIV/05/17/6-7'>Deut. 17:6-7</a>",
-      "comment": "Roman and Jewish law required accusers to be present. Paul’s legal defense echoes Deuteronomy 17 about witnesses—Christian justice upholds procedural truth."
+      "links": "<a href='/AIV/44/21/26-27'>Acts 21:26-27</a>",
+      "comment": "Paul follows protocol by acknowledging the judge. Unlike Tertullus, his praise is direct and restrained, demonstrating both humility and confidence in a just hearing.",
+      "sectionHeader": "Paul's Defense Before Felix"
     },
     {
       "pk": 51024019,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 24,
       "verse": 20,
       "text": "Otherwise, let these men here state what wrongdoing they found when I stood before the council,",
-      "links": "<a href='/AIV/44/23/1-9'>Acts 23:1-9</a>",
-      "comment": "Paul calls for specific testimony. The council (Sanhedrin) reached no solid verdict, showing the injustice of his accusers."
+      "links": "<a href='/AIV/05/17/6-7'>Deut. 17:6-7</a>",
+      "comment": "Paul follows protocol by acknowledging the judge. Unlike Tertullus, his praise is direct and restrained, demonstrating both humility and confidence in a just hearing.",
+      "sectionHeader": "Paul's Defense Before Felix"
     },
     {
       "pk": 51024020,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 24,
       "verse": 21,
       "text": "unless it is with regard to this one thing I cried out, when standing among them: 'It is concerning the resurrection of the dead that I am on trial before you today.'",
-      "links": "<a href='/AIV/44/23/6'>Acts 23:6</a>",
-      "comment": "Paul emphasizes that the crux of his prosecution is theological—the resurrection of the dead—a doctrine fiercely debated between Pharisees and Sadducees (see Acts 23:6-8), and central to Christian faith (cf. 1 Corinthians 15:12-20), spotlighting how Christian hope pivots on the resurrection."
+      "links": "<a href='/AIV/44/23/1-9'>Acts 23:1-9</a>",
+      "comment": "Paul follows protocol by acknowledging the judge. Unlike Tertullus, his praise is direct and restrained, demonstrating both humility and confidence in a just hearing.",
+      "sectionHeader": "Paul's Defense Before Felix"
     },
     {
       "pk": 51024021,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 24,
       "verse": 22,
       "text": "Then Felix, who was well informed about the Way, postponed the case, saying, 'When Lysias the commander comes down, I will decide your case.'",
-      "links": "<a href='/AIV/44/23/26'>Acts 23:26</a>",
-      "comment": "Felix's awareness of the Way indicates the growing influence of followers of Jesus even among Roman authorities. Procedural delay allowed for further investigation.",
-      "sectionHeader": "Paul Kept Under Guard"
+      "links": "<a href='/AIV/44/23/6'>Acts 23:6</a>",
+      "comment": "Paul follows protocol by acknowledging the judge. Unlike Tertullus, his praise is direct and restrained, demonstrating both humility and confidence in a just hearing.",
+      "sectionHeader": "Paul's Defense Before Felix"
     },
     {
       "pk": 51024022,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 24,
       "verse": 23,
       "text": "He ordered the centurion to keep Paul under guard, but to let him have some freedom and to allow his friends to attend to his needs.",
-      "links": "<a href='/AIV/44/28/16'>Acts 28:16</a>",
-      "comment": "Although still imprisoned, Paul receives a degree of freedom and communal support, reflecting early Christian values of fellowship and care (cf. Acts 2:44-45)."
+      "links": "<a href='/AIV/44/23/26'>Acts 23:26</a>",
+      "comment": "Paul follows protocol by acknowledging the judge. Unlike Tertullus, his praise is direct and restrained, demonstrating both humility and confidence in a just hearing.",
+      "sectionHeader": "Paul's Defense Before Felix"
     },
     {
       "pk": 51024023,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 24,
       "verse": 24,
       "text": "After some days Felix came with his wife Drusilla, who was Jewish, and he sent for Paul and listened to him speak about faith in Christ Jesus.",
-      "links": "<a href='/AIV/44/18/8'>Acts 18:8</a>",
-      "comment": "Felix’s curiosity brought him to hear about faith in Christ. Drusilla’s presence shows the interest among both pagans and Jews for the Christian message, which is always centered on the person of Jesus as Messiah.",
-      "sectionHeader": "Paul’s Conversation with Felix and Drusilla"
+      "links": "<a href='/AIV/44/28/16'>Acts 28:16</a>",
+      "comment": "Paul follows protocol by acknowledging the judge. Unlike Tertullus, his praise is direct and restrained, demonstrating both humility and confidence in a just hearing.",
+      "sectionHeader": "Paul's Defense Before Felix"
     },
     {
       "pk": 51024024,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 24,
       "verse": 25,
       "text": "But as Paul spoke about righteousness, self-control, and the coming judgment, Felix became afraid and said, 'Go away for now. When I find time I will summon you.'",
-      "links": "<a href='/AIV/40/25/31-46'>Matt. 25:31-46</a>; <a href='/AIV/43/16/8-11'>John 16:8-11</a>",
-      "comment": "Paul’s message includes moral conversion and future judgment, key themes in apostolic preaching. Felix’s fear shows the convicting power of Gospel truth and the reality of judgment."
+      "links": "<a href='/AIV/44/18/8'>Acts 18:8</a>",
+      "comment": "Paul follows protocol by acknowledging the judge. Unlike Tertullus, his praise is direct and restrained, demonstrating both humility and confidence in a just hearing.",
+      "sectionHeader": "Paul's Defense Before Felix"
     },
     {
       "pk": 51024025,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 24,
       "verse": 26,
       "text": "At the same time, he was hoping that Paul would give him money. So he often sent for him and talked with him.",
-      "links": "<a href='/AIV/44/8/18-20'>Acts 8:18-20</a>",
-      "comment": "Felix’s interest was partly corrupt. The mixing of worldly motives with spiritual matters is a danger warned against throughout Scripture (cf. 1 Timothy 6:10)."
+      "links": "<a href='/AIV/40/25/31-46'>Matt. 25:31-46</a>; <a href='/AIV/43/16/8-11'>John 16:8-11</a>",
+      "comment": "Paul follows protocol by acknowledging the judge. Unlike Tertullus, his praise is direct and restrained, demonstrating both humility and confidence in a just hearing.",
+      "sectionHeader": "Paul's Defense Before Felix"
     },
     {
       "pk": 51024026,
-      "translation": "AIV",
-      "book": 51,
-      "bookName": "Acts",
-      "bookAbbreviation": "Acts",
-      "chapter": 24,
       "verse": 27,
       "text": "But after two years had passed, Felix was succeeded by Porcius Festus. Because he wanted to do the Jews a favor, Felix left Paul imprisoned.",
-      "links": "<a href='/AIV/44/25/9'>Acts 25:9</a>",
-      "comment": "Paul’s long imprisonment is the result of political calculation. God’s providence still works through such events, preparing Paul for ministry in Rome and demonstrating that the church must endure hardship for the sake of Christ’s name (cf. 2 Timothy 2:8-10)."
-    }
-  ],
-  "translatedAt": "2026-01-02T05:59:32.634Z",
-  "sections": [
-    {
-      "title": "Paul Accused Before Felix",
-      "startVerse": 1,
-      "endVerse": 9
-    },
-    {
-      "title": "Paul's Defense Before Felix",
-      "startVerse": 10,
-      "endVerse": 21
-    },
-    {
-      "title": "Paul Kept Under Guard",
-      "startVerse": 22,
-      "endVerse": 23
-    },
-    {
-      "title": "Paul’s Conversation with Felix and Drusilla",
-      "startVerse": 24,
-      "endVerse": 27
+      "links": "<a href='/AIV/44/8/18-20'>Acts 8:18-20</a>",
+      "comment": "Felix's awareness of the Way indicates the growing influence of followers of Jesus even among Roman authorities. Procedural delay allowed for further investigation.",
+      "sectionHeader": "Paul's Defense Before Felix"
     }
   ]
 }

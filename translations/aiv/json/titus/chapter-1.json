@@ -1,16 +1,13 @@
 {
-  "book": 63,
+  "translation": "AIV",
+  "bookId": "titus",
   "bookName": "Titus",
   "bookAbbreviation": "Titus",
+  "bookNumber": 63,
   "chapter": 1,
   "verses": [
     {
       "pk": 63001001,
-      "translation": "AIV",
-      "book": 63,
-      "bookName": "Titus",
-      "bookAbbreviation": "Titus",
-      "chapter": 1,
       "verse": 1,
       "text": "Paul, a servant of God and an apostle of Jesus Christ, for the faith of God's chosen people and the knowledge of the truth that leads to godliness,",
       "links": "<a href='/AIV/45/1/1'>Rom. 1:1</a>; <a href='/AIV/55/1/1'>2 Tim. 1:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 63001002,
-      "translation": "AIV",
-      "book": 63,
-      "bookName": "Titus",
-      "bookAbbreviation": "Titus",
-      "chapter": 1,
       "verse": 2,
       "text": "in hope of eternal life, which God, who does not lie, promised before time began,",
       "links": "<a href='/AIV/56/2/13'>Titus 2:13</a>; <a href='/AIV/43/17/3'>John 17:3</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 63001003,
-      "translation": "AIV",
-      "book": 63,
-      "bookName": "Titus",
-      "bookAbbreviation": "Titus",
-      "chapter": 1,
       "verse": 3,
       "text": "and at the proper time revealed his word through the proclamation with which I was entrusted by the command of God our Savior,",
       "links": "<a href='/AIV/54/2/7'>1 Tim. 2:7</a>; <a href='/AIV/45/16/25'>Rom. 16:25</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 63001004,
-      "translation": "AIV",
-      "book": 63,
-      "bookName": "Titus",
-      "bookAbbreviation": "Titus",
-      "chapter": 1,
       "verse": 4,
       "text": "to Titus, my true child in our common faith: Grace and peace from God the Father and Christ Jesus our Savior.",
       "links": "<a href='/AIV/54/1/2'>1 Tim. 1:2</a>; <a href='/AIV/53/3/18'>2 Thess. 3:18</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 63001005,
-      "translation": "AIV",
-      "book": 63,
-      "bookName": "Titus",
-      "bookAbbreviation": "Titus",
-      "chapter": 1,
       "verse": 5,
       "text": "For this reason I left you in Crete, so that you would set in order what remained unfinished and appoint elders in every city as I directed you—",
       "links": "<a href='/AIV/44/14/23'>Acts 14:23</a>; <a href='/AIV/54/3/1'>1 Tim. 3:1</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 63001006,
-      "translation": "AIV",
-      "book": 63,
-      "bookName": "Titus",
-      "bookAbbreviation": "Titus",
-      "chapter": 1,
       "verse": 6,
       "text": "if anyone is blameless, the husband of one wife, having faithful children who are not accused of reckless living or insubordination.",
       "links": "<a href='/AIV/54/3/2-4'>1 Tim. 3:2-4</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 63001007,
-      "translation": "AIV",
-      "book": 63,
-      "bookName": "Titus",
-      "bookAbbreviation": "Titus",
-      "chapter": 1,
       "verse": 7,
       "text": "For an overseer, as God’s steward, must be blameless—not arrogant, not quick-tempered, not a drunkard, not violent, not greedy for gain,",
       "links": "<a href='/AIV/54/3/3'>1 Tim. 3:3</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 63001008,
-      "translation": "AIV",
-      "book": 63,
-      "bookName": "Titus",
-      "bookAbbreviation": "Titus",
-      "chapter": 1,
       "verse": 8,
       "text": "but instead hospitable, loving what is good, self-controlled, upright, holy, and disciplined.",
       "links": "<a href='/AIV/54/3/2'>1 Tim. 3:2</a>; <a href='/AIV/60/4/9'>1 Pet. 4:9</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 63001009,
-      "translation": "AIV",
-      "book": 63,
-      "bookName": "Titus",
-      "bookAbbreviation": "Titus",
-      "chapter": 1,
       "verse": 9,
       "text": "He must hold firmly to the trustworthy message as taught, so that he may be able both to encourage with sound teaching and to refute those who contradict it.",
       "links": "<a href='/AIV/54/1/10-11'>1 Tim. 1:10-11</a>; <a href='/AIV/55/1/13'>2 Tim. 1:13</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 63001010,
-      "translation": "AIV",
-      "book": 63,
-      "bookName": "Titus",
-      "bookAbbreviation": "Titus",
-      "chapter": 1,
       "verse": 10,
       "text": "For there are many rebellious people, empty talkers and deceivers, especially those of the circumcision party.",
       "links": "<a href='/AIV/54/1/6'>1 Tim. 1:6</a>; <a href='/AIV/48/1/7'>Gal. 1:7</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 63001011,
-      "translation": "AIV",
-      "book": 63,
-      "bookName": "Titus",
-      "bookAbbreviation": "Titus",
-      "chapter": 1,
       "verse": 11,
       "text": "They must be silenced, because they are upsetting whole households by teaching things they should not for the sake of dishonest gain.",
       "links": "<a href='/AIV/54/6/5'>1 Tim. 6:5</a>; <a href='/AIV/61/2/3'>2 Pet. 2:3</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 63001012,
-      "translation": "AIV",
-      "book": 63,
-      "bookName": "Titus",
-      "bookAbbreviation": "Titus",
-      "chapter": 1,
       "verse": 12,
       "text": "One of their own, a prophet of theirs, has said, 'Cretans are always liars, evil beasts, lazy gluttons.'",
       "links": "<a href='/AIV/45/3/10-12'>Rom. 3:10-12</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 63001013,
-      "translation": "AIV",
-      "book": 63,
-      "bookName": "Titus",
-      "bookAbbreviation": "Titus",
-      "chapter": 1,
       "verse": 13,
       "text": "This testimony is true. For this reason, rebuke them sharply, so that they may become sound in the faith,",
       "links": "<a href='/AIV/54/5/20'>1 Tim. 5:20</a>; <a href='/AIV/47/13/11'>2 Cor. 13:11</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 63001014,
-      "translation": "AIV",
-      "book": 63,
-      "bookName": "Titus",
-      "bookAbbreviation": "Titus",
-      "chapter": 1,
       "verse": 14,
       "text": "and not pay attention to Jewish myths and the commands of men who turn away from the truth.",
       "links": "<a href='/AIV/54/1/4'>1 Tim. 1:4</a>; <a href='/AIV/41/7/7-8'>Mark 7:7-8</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 63001015,
-      "translation": "AIV",
-      "book": 63,
-      "bookName": "Titus",
-      "bookAbbreviation": "Titus",
-      "chapter": 1,
       "verse": 15,
       "text": "To the pure, all things are pure, but to those who are defiled and unbelieving, nothing is pure—both their minds and consciences are defiled.",
       "links": "<a href='/AIV/45/14/20'>Rom. 14:20</a>; <a href='/AIV/54/4/4'>1 Tim. 4:4</a>",
@@ -189,33 +116,10 @@
     },
     {
       "pk": 63001016,
-      "translation": "AIV",
-      "book": 63,
-      "bookName": "Titus",
-      "bookAbbreviation": "Titus",
-      "chapter": 1,
       "verse": 16,
       "text": "They claim to know God, but by their actions they deny him. They are detestable, disobedient, and unfit for any good work.",
       "links": "<a href='/AIV/40/7/21'>Matt. 7:21</a>; <a href='/AIV/59/2/17'>James 2:17</a>",
       "comment": "True faith must be shown by works. Mere profession is not enough if actions contradict belief (see James 2:17, Matt. 7:21). This verse underlines the importance of the unity of faith and works in the Christian life, and the responsibility of leaders to model and enforce this harmony."
-    }
-  ],
-  "translatedAt": "2025-12-24T12:15:18.206Z",
-  "sections": [
-    {
-      "title": "Greeting and Mission of Paul",
-      "startVerse": 1,
-      "endVerse": 4
-    },
-    {
-      "title": "Qualifications of Elders",
-      "startVerse": 5,
-      "endVerse": 9
-    },
-    {
-      "title": "Warning Against False Teachers",
-      "startVerse": 10,
-      "endVerse": 16
     }
   ]
 }

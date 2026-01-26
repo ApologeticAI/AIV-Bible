@@ -1,16 +1,13 @@
 {
-  "book": 6,
+  "translation": "AIV",
+  "bookId": "joshua",
   "bookName": "Joshua",
   "bookAbbreviation": "Josh",
+  "bookNumber": 6,
   "chapter": 6,
   "verses": [
     {
       "pk": 6006001,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 6,
       "verse": 1,
       "text": "Now Jericho was tightly shut up because of the Israelites. No one went out, and no one came in.",
       "links": "<a href='/AIV/4/13/29'>Num. 13:29</a>; <a href='/AIV/6/2/9-11'>Josh. 2:9-11</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 6006002,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 6,
       "verse": 2,
       "text": "Then the LORD said to Joshua, 'See, I have given Jericho into your hand, along with its king and its mighty warriors.'",
       "links": "<a href='/AIV/6/1/3'>Josh. 1:3</a>; <a href='/AIV/6/8/1'>Josh. 8:1</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 6006003,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 6,
       "verse": 3,
       "text": "You shall march around the city, all the men of war going around the city once. You shall do this for six days.",
       "links": "<a href='/AIV/11/20/29'>1 Kings 20:29</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 6006004,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 6,
       "verse": 4,
       "text": "Seven priests shall carry seven trumpets of rams' horns before the Ark. On the seventh day you shall march around the city seven times, and the priests shall blow the trumpets.",
       "links": "<a href='/AIV/3/25/9'>Lev. 25:9</a>; <a href='/AIV/6/6/13'>Josh. 6:13</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 6006005,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 6,
       "verse": 5,
       "text": "When they make a sustained blast with the ram’s horn and you hear the sound of the trumpet, all the people shall shout with a great shout. Then the wall of the city will fall down flat, and the people shall go up, every man straight ahead.",
       "links": "<a href='/AIV/11/1/6'>1 Kings 1:6</a>; <a href='/AIV/14/13/14'>2 Chr. 13:14-15</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 6006006,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 6,
       "verse": 6,
       "text": "So Joshua son of Nun called the priests and said to them, 'Take up the Ark of the Covenant, and let seven priests carry seven trumpets of rams’ horns before the Ark of the LORD.'",
       "links": "<a href='/AIV/4/4/15'>Num. 4:15</a>; <a href='/AIV/6/3/3'>Josh. 3:3</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 6006007,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 6,
       "verse": 7,
       "text": "And he said to the people, 'Advance! March around the city, and let the armed men go before the Ark of the LORD.'",
       "links": "<a href='/AIV/7/7/20'>Judg. 7:20</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 6006008,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 6,
       "verse": 8,
       "text": "As soon as Joshua had spoken to the people, the seven priests carrying the seven trumpets of rams’ horns before the LORD moved forward and blew the trumpets. The Ark of the Covenant of the LORD followed them.",
       "links": "<a href='/AIV/6/3/6'>Josh. 3:6</a>; <a href='/AIV/2/25/10'>Ex. 25:10</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 6006009,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 6,
       "verse": 9,
       "text": "The armed men went before the priests blowing the trumpets, and the rear guard came after the Ark, while the trumpets kept sounding.",
       "links": "<a href='/AIV/4/10/25'>Num. 10:25</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 6006010,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 6,
       "verse": 10,
       "text": "Now Joshua had commanded the people, 'Do not shout or let your voice be heard; do not let a word come out of your mouth until the day I tell you to shout. Then you shall shout.'",
       "links": "<a href='/AIV/14/20/20'>2 Chr. 20:20</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 6006011,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 6,
       "verse": 11,
       "text": "So he had the Ark of the LORD circle the city, going around it once. Then they came into the camp and spent the night in the camp.",
       "links": "<a href='/AIV/6/14/6'>Josh. 14:6</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 6006012,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 6,
       "verse": 12,
       "text": "Joshua rose early in the morning, and the priests took up the Ark of the LORD.",
       "links": "<a href='/AIV/6/3/1'>Josh. 3:1</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 6006013,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 6,
       "verse": 13,
       "text": "The seven priests bearing seven trumpets of rams’ horns before the Ark of the LORD went on continually, and blew the trumpets. The armed men went before them, and the rear guard followed after the Ark of the LORD, while the trumpets kept sounding.",
       "links": "<a href='/AIV/6/6/8'>Josh. 6:8</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 6006014,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 6,
       "verse": 14,
       "text": "On the second day they marched around the city once and returned to the camp. They did this for six days.",
       "links": "<a href='/AIV/6/6/3'>Josh. 6:3</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 6006015,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 6,
       "verse": 15,
       "text": "Then on the seventh day, they rose early at daybreak, and marched around the city in the same manner seven times. It was only on that day that they marched around the city seven times.",
       "links": "<a href='/AIV/6/6/4'>Josh. 6:4</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 6006016,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 6,
       "verse": 16,
       "text": "At the seventh time, when the priests had blown the trumpets, Joshua said to the people, 'Shout! For the LORD has given you the city.'",
       "links": "<a href='/AIV/8/6/1'>1 Sam. 6:1</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 6006017,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 6,
       "verse": 17,
       "text": "The city and all that is in it shall be devoted to the LORD for destruction. Only Rahab the prostitute and all who are with her in her house shall live, because she hid the messengers whom we sent.",
       "links": "<a href='/AIV/6/2/1'>Josh. 2:1</a>; <a href='/AIV/58/11/31'>Heb. 11:31</a>; <a href='/AIV/59/2/25'>James 2:25</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 6006018,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 6,
       "verse": 18,
       "text": "But you, keep yourselves from the things devoted to destruction, lest when you have devoted them you take any of the devoted things and make the camp of Israel liable to destruction and bring trouble upon it.",
       "links": "<a href='/AIV/6/7/1'>Josh. 7:1</a>; <a href='/AIV/3/10/12-13'>Lev. 10:12-13</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 6006019,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 6,
       "verse": 19,
       "text": "But all the silver and gold, and vessels of bronze and iron, are holy to the LORD; they shall go into the treasury of the LORD.",
       "links": "<a href='/AIV/4/31/54'>Num. 31:54</a>; <a href='/AIV/11/7/51'>1 Kings 7:51</a>",
@@ -237,11 +144,6 @@
     },
     {
       "pk": 6006020,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 6,
       "verse": 20,
       "text": "So the people shouted, and the trumpets were blown. As soon as the people heard the sound of the trumpet, the people shouted a great shout, and the wall fell down flat, so that the people went up into the city, every man straight before him, and they captured the city.",
       "links": "<a href='/AIV/58/11/30'>Heb. 11:30</a>",
@@ -249,11 +151,6 @@
     },
     {
       "pk": 6006021,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 6,
       "verse": 21,
       "text": "Then they utterly destroyed with the edge of the sword all in the city, both men and women, young and old, oxen, sheep, and donkeys.",
       "links": "<a href='/AIV/5/20/16-18'>Deut. 20:16-18</a>; <a href='/AIV/6/8/26'>Josh. 8:26</a>",
@@ -261,11 +158,6 @@
     },
     {
       "pk": 6006022,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 6,
       "verse": 22,
       "text": "But Joshua said to the two men who had spied out the country, 'Go into the prostitute’s house and bring out the woman and all who belong to her, as you promised to her.'",
       "links": "<a href='/AIV/6/2/14'>Josh. 2:14</a>",
@@ -274,11 +166,6 @@
     },
     {
       "pk": 6006023,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 6,
       "verse": 23,
       "text": "So the young men who had done the spying went in and brought out Rahab, her father, her mother, her brothers, and all who belonged to her. They brought out all her relatives and set them outside the camp of Israel.",
       "links": "<a href='/AIV/6/2/18'>Josh. 2:18</a>",
@@ -286,11 +173,6 @@
     },
     {
       "pk": 6006024,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 6,
       "verse": 24,
       "text": "Then they burned the city with fire and all that was in it. Only the silver and gold, and the vessels of bronze and iron, they put into the treasury of the house of the LORD.",
       "links": "<a href='/AIV/6/6/19'>Josh. 6:19</a>",
@@ -298,11 +180,6 @@
     },
     {
       "pk": 6006025,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 6,
       "verse": 25,
       "text": "But Rahab the prostitute, her father's household, and all who belonged to her, Joshua spared. She has lived in Israel to this day because she hid the messengers whom Joshua sent to spy out Jericho.",
       "links": "<a href='/AIV/58/11/31'>Heb. 11:31</a>; <a href='/AIV/40/1/5'>Matt. 1:5</a>",
@@ -310,11 +187,6 @@
     },
     {
       "pk": 6006026,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 6,
       "verse": 26,
       "text": "Joshua laid an oath at that time, saying, 'Cursed is the man before the LORD who rises up and rebuilds this city, Jericho. At the cost of his firstborn shall he lay its foundation, and at the cost of his youngest son shall he set up its gates.'",
       "links": "<a href='/AIV/11/16/34'>1 Kings 16:34</a>",
@@ -323,43 +195,10 @@
     },
     {
       "pk": 6006027,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 6,
       "verse": 27,
       "text": "So the LORD was with Joshua, and his fame spread throughout all the land.",
       "links": "<a href='/AIV/6/3/7'>Josh. 3:7</a>; <a href='/AIV/6/4/14'>Josh. 4:14</a>",
       "comment": "God’s presence with Joshua authenticates his commission and authority. The spread of Joshua’s fame prefigures how God exalts those who faithfully serve Him and remain true to the covenant community."
-    }
-  ],
-  "translatedAt": "2025-12-24T02:19:22.752Z",
-  "sections": [
-    {
-      "title": "The Siege and Divine Instructions for Jericho",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "The March Around Jericho",
-      "startVerse": 6,
-      "endVerse": 14
-    },
-    {
-      "title": "The Fall of Jericho",
-      "startVerse": 15,
-      "endVerse": 21
-    },
-    {
-      "title": "Rahab and Her Family Spared",
-      "startVerse": 22,
-      "endVerse": 25
-    },
-    {
-      "title": "The City Cursed by Joshua",
-      "startVerse": 26,
-      "endVerse": 27
     }
   ]
 }

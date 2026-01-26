@@ -1,16 +1,13 @@
 {
-  "book": 73,
+  "translation": "AIV",
+  "bookId": "revelation",
   "bookName": "Revelation",
   "bookAbbreviation": "Rev",
+  "bookNumber": 73,
   "chapter": 17,
   "verses": [
     {
       "pk": 73017001,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 17,
       "verse": 1,
       "text": "Then one of the seven angels who had the seven bowls came and spoke to me, saying, \"Come, I will show you the judgment of the great prostitute who sits on many waters.\"",
       "links": "<a href='/AIV/24/51/13'>Jer. 51:13</a>; <a href='/AIV/73/15/1'>Rev. 15:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 73017002,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 17,
       "verse": 2,
       "text": "With her the kings of the earth committed immorality, and those living on the earth became drunk with the wine of her fornication.\"",
       "links": "<a href='/AIV/23/23/17'>Isa. 23:17</a>; <a href='/AIV/24/51/7'>Jer. 51:7</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 73017003,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 17,
       "verse": 3,
       "text": "So he carried me away in the Spirit into a wilderness, and I saw a woman sitting on a scarlet beast covered with blasphemous names, having seven heads and ten horns.",
       "links": "<a href='/AIV/26/8/3'>Ezek. 8:3</a>; <a href='/AIV/73/13/1'>Rev. 13:1</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 73017004,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 17,
       "verse": 4,
       "text": "The woman was dressed in purple and scarlet, adorned with gold, precious stones, and pearls, holding a golden cup in her hand full of abominations and the impurities of her sexual immorality.",
       "links": "<a href='/AIV/26/28/13'>Ezek. 28:13</a>; <a href='/AIV/27/5/2'>Dan. 5:2</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 73017005,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 17,
       "verse": 5,
       "text": "A name was written on her forehead: \"Mystery, Babylon the Great, Mother of Prostitutes and of the Abominations of the Earth.\"",
       "links": "<a href='/AIV/23/47/15'>Isa. 47:15</a>; <a href='/AIV/26/9/4'>Ezek. 9:4</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 73017006,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 17,
       "verse": 6,
       "text": "I saw that the woman was drunk with the blood of the saints and with the blood of the witnesses of Jesus. And when I saw her, I was greatly astonished.",
       "links": "<a href='/AIV/27/7/25'>Dan. 7:25</a>; <a href='/AIV/73/6/9-11'>Rev. 6:9-11</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 73017007,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 17,
       "verse": 7,
       "text": "But the angel said to me, \"Why are you amazed? I will tell you the mystery of the woman and of the beast that carries her, which has the seven heads and ten horns.\"",
       "links": "<a href='/AIV/73/13/1'>Rev. 13:1</a>; <a href='/AIV/27/7/7'>Dan. 7:7</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 73017008,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 17,
       "verse": 8,
       "text": "The beast that you saw was, and is not, and is about to come up out of the abyss and go to destruction. The inhabitants of the earth whose names have not been written in the Book of Life from the foundation of the world will be amazed when they see the beast, because it was, and is not, and will be present.",
       "links": "<a href='/AIV/73/13/3'>Rev. 13:3</a>; <a href='/AIV/19/69/28'>Ps. 69:28</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 73017009,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 17,
       "verse": 9,
       "text": "This calls for a mind with wisdom: The seven heads are seven mountains on which the woman sits.",
       "links": "<a href='/AIV/19/48/1-2'>Ps. 48:1-2</a>; <a href='/AIV/23/13/2'>Isa. 13:2</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 73017010,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 17,
       "verse": 10,
       "text": "There are also seven kings: five have fallen, one is, and the other has not yet come; and when he comes, he must remain for a short time.",
       "links": "<a href='/AIV/27/2/37-43'>Dan. 2:37-43</a>; <a href='/AIV/27/7/24'>Dan. 7:24</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 73017011,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 17,
       "verse": 11,
       "text": "The beast that was and is not is an eighth, but belongs to the seven, and goes to destruction.",
       "links": "<a href='/AIV/73/13/12-13'>Rev. 13:12-13</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 73017012,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 17,
       "verse": 12,
       "text": "The ten horns that you saw are ten kings who have not yet received a kingdom, but they receive authority as kings with the beast for one hour.",
       "links": "<a href='/AIV/27/7/24'>Dan. 7:24</a>; <a href='/AIV/73/13/1'>Rev. 13:1</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 73017013,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 17,
       "verse": 13,
       "text": "These are of one mind, and they give their power and authority to the beast.",
       "links": "<a href='/AIV/19/2/2'>Ps. 2:2</a>; <a href='/AIV/73/16/14'>Rev. 16:14</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 73017014,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 17,
       "verse": 14,
       "text": "These will wage war against the Lamb, and the Lamb will overcome them because He is Lord of lords and King of kings, and with Him are those who are called, chosen, and faithful.\"",
       "links": "<a href='/AIV/27/7/25'>Dan. 7:25-27</a>; <a href='/AIV/5/10/17'>Deut. 10:17</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 73017015,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 17,
       "verse": 15,
       "text": "And he said to me, \"The waters that you saw, where the prostitute sits, are peoples and multitudes and nations and languages.\"",
       "links": "<a href='/AIV/24/51/13'>Jer. 51:13</a>; <a href='/AIV/27/7/14'>Dan. 7:14</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 73017016,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 17,
       "verse": 16,
       "text": "And the ten horns you saw, and the beast, will hate the prostitute; they will make her desolate and naked, eat her flesh, and burn her with fire.",
       "links": "<a href='/AIV/26/23/29'>Ezek. 23:29</a>; <a href='/AIV/23/47/9'>Isa. 47:9</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 73017017,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 17,
       "verse": 17,
       "text": "For God has put it into their hearts to carry out His purpose by agreeing to give their kingdom to the beast until the words of God are fulfilled.",
       "links": "<a href='/AIV/23/10/5-7'>Isa. 10:5-7</a>; <a href='/AIV/19/33/10-11'>Ps. 33:10-11</a>",
@@ -213,33 +130,10 @@
     },
     {
       "pk": 73017018,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 17,
       "verse": 18,
       "text": "And the woman whom you saw is the great city that has dominion over the kings of the earth.\"",
       "links": "<a href='/AIV/27/4/30'>Dan. 4:30</a>; <a href='/AIV/23/14/4'>Isa. 14:4</a>",
       "comment": "The woman as ‘great city’ is a composite figure of worldly influence and fallen spirituality. This image recalls Babylon’s claim over the kings of the earth (Dan. 4:30). Ultimately, the passage calls believers to discernment and to allegiance with the true, divinely-established community, united in faith under Christ alone."
-    }
-  ],
-  "translatedAt": "2025-12-24T12:39:51.546Z",
-  "sections": [
-    {
-      "title": "The Judgment of Babylon, the Great Prostitute",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "The Mystery of the Woman and the Beast Explained",
-      "startVerse": 7,
-      "endVerse": 14
-    },
-    {
-      "title": "The Fate of the Prostitute and the Meaning of the Waters",
-      "startVerse": 15,
-      "endVerse": 18
     }
   ]
 }

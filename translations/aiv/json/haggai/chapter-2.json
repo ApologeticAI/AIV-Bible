@@ -1,16 +1,13 @@
 {
-  "book": 44,
+  "translation": "AIV",
+  "bookId": "haggai",
   "bookName": "Haggai",
   "bookAbbreviation": "Hag",
+  "bookNumber": 44,
   "chapter": 2,
   "verses": [
     {
       "pk": 44002001,
-      "translation": "AIV",
-      "book": 44,
-      "bookName": "Haggai",
-      "bookAbbreviation": "Hag",
-      "chapter": 2,
       "verse": 1,
       "text": "On the twenty-first day of the seventh month, the word of the Lord came through Haggai the prophet, saying:",
       "links": "<a href='/AIV/39/1/1'>Mal. 1:1</a>; <a href='/AIV/15/5/1'>Ezra 5:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 44002002,
-      "translation": "AIV",
-      "book": 44,
-      "bookName": "Haggai",
-      "bookAbbreviation": "Hag",
-      "chapter": 2,
       "verse": 2,
       "text": "\"Speak now to Zerubbabel son of Shealtiel, governor of Judah, and to Joshua son of Jehozadak, the high priest, and to all the remnant of the people, and say,\"",
       "links": "<a href='/AIV/16/7/65'>Neh. 7:65</a>; <a href='/AIV/37/1/1'>Hag. 1:1</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 44002003,
-      "translation": "AIV",
-      "book": 44,
-      "bookName": "Haggai",
-      "bookAbbreviation": "Hag",
-      "chapter": 2,
       "verse": 3,
       "text": "\"Who among you remains who saw this house in its former glory? And how do you see it now? Does it not seem like nothing in your eyes?\"",
       "links": "<a href='/AIV/15/3/12'>Ezra 3:12</a>; <a href='/AIV/26/7/24'>Ezek. 7:24</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 44002004,
-      "translation": "AIV",
-      "book": 44,
-      "bookName": "Haggai",
-      "bookAbbreviation": "Hag",
-      "chapter": 2,
       "verse": 4,
       "text": "\"Yet now be strong, Zerubbabel, says the Lord; and be strong, Joshua son of Jehozadak, high priest; and be strong, all the people of the land, says the Lord. Work, for I am with you, says the Lord of hosts.\"",
       "links": "<a href='/AIV/06/1/6'>Josh. 1:6</a>; <a href='/AIV/24/1/8'>Jer. 1:8</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 44002005,
-      "translation": "AIV",
-      "book": 44,
-      "bookName": "Haggai",
-      "bookAbbreviation": "Hag",
-      "chapter": 2,
       "verse": 5,
       "text": "\"According to the covenant I made with you when you came out of Egypt, My Spirit remains among you. Do not fear.\"",
       "links": "<a href='/AIV/02/29/45'>Ex. 29:45</a>; <a href='/AIV/04/11/25'>Num. 11:25</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 44002006,
-      "translation": "AIV",
-      "book": 44,
-      "bookName": "Haggai",
-      "bookAbbreviation": "Hag",
-      "chapter": 2,
       "verse": 6,
       "text": "\"For thus says the Lord of hosts: Once more, in a little while, I will shake the heavens and the earth, the sea and the dry land.\"",
       "links": "<a href='/AIV/58/12/26'>Heb. 12:26</a>; <a href='/AIV/23/13/13'>Isa. 13:13</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 44002007,
-      "translation": "AIV",
-      "book": 44,
-      "bookName": "Haggai",
-      "bookAbbreviation": "Hag",
-      "chapter": 2,
       "verse": 7,
       "text": "\"I will shake all nations, and the Desired of all Nations shall come, and I will fill this house with glory, says the Lord of hosts.\"",
       "links": "<a href='/AIV/19/72/17'>Ps. 72:17</a>; <a href='/AIV/43/1/14'>John 1:14</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 44002008,
-      "translation": "AIV",
-      "book": 44,
-      "bookName": "Haggai",
-      "bookAbbreviation": "Hag",
-      "chapter": 2,
       "verse": 8,
       "text": "\"The silver is Mine, and the gold is Mine, declares the Lord of hosts.\"",
       "links": "<a href='/AIV/24/9/23'>Jer. 9:23</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 44002009,
-      "translation": "AIV",
-      "book": 44,
-      "bookName": "Haggai",
-      "bookAbbreviation": "Hag",
-      "chapter": 2,
       "verse": 9,
       "text": "\"The latter glory of this house shall be greater than the former, says the Lord of hosts. And in this place I will grant peace, declares the Lord of hosts.\"",
       "links": "<a href='/AIV/43/14/27'>John 14:27</a>; <a href='/AIV/60/2/5'>1 Pet. 2:5</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 44002010,
-      "translation": "AIV",
-      "book": 44,
-      "bookName": "Haggai",
-      "bookAbbreviation": "Hag",
-      "chapter": 2,
       "verse": 10,
       "text": "On the twenty-fourth day of the ninth month, in the second year of Darius, the word of the Lord came to Haggai the prophet:",
       "links": "<a href='/AIV/37/1/1'>Hag. 1:1</a>; <a href='/AIV/15/4/5'>Ezra 4:5</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 44002011,
-      "translation": "AIV",
-      "book": 44,
-      "bookName": "Haggai",
-      "bookAbbreviation": "Hag",
-      "chapter": 2,
       "verse": 11,
       "text": "\"Thus says the Lord of hosts: Ask now the priests about the law,\"",
       "links": "<a href='/AIV/03/10/10'>Lev. 10:10</a>; <a href='/AIV/10/15/24'>2 Sam. 15:24</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 44002012,
-      "translation": "AIV",
-      "book": 44,
-      "bookName": "Haggai",
-      "bookAbbreviation": "Hag",
-      "chapter": 2,
       "verse": 12,
       "text": "\"If someone carries holy meat in the fold of his garment and touches bread, stew, wine, oil, or any kind of food with the fold, does it become holy?\" The priests answered, \"No.\"",
       "links": "<a href='/AIV/03/6/27'>Lev. 6:27</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 44002013,
-      "translation": "AIV",
-      "book": 44,
-      "bookName": "Haggai",
-      "bookAbbreviation": "Hag",
-      "chapter": 2,
       "verse": 13,
       "text": "Then Haggai said, \"If someone who is unclean by touching a dead body touches any of these, does it become unclean?\" The priests answered, \"It does become unclean.\"",
       "links": "<a href='/AIV/03/22/4'>Lev. 22:4</a>; <a href='/AIV/04/19/22'>Num. 19:22</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 44002014,
-      "translation": "AIV",
-      "book": 44,
-      "bookName": "Haggai",
-      "bookAbbreviation": "Hag",
-      "chapter": 2,
       "verse": 14,
       "text": "So Haggai answered, \"So it is with this people and with this nation before Me, declares the Lord. And so with every work of their hands; what they offer here is unclean.\"",
       "links": "<a href='/AIV/23/64/6'>Isa. 64:6</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 44002015,
-      "translation": "AIV",
-      "book": 44,
-      "bookName": "Haggai",
-      "bookAbbreviation": "Hag",
-      "chapter": 2,
       "verse": 15,
       "text": "\"Now, consider from this day onward, before stone was placed upon stone in the temple of the Lord,\"",
       "links": "<a href='/AIV/16/4/17'>Neh. 4:17</a>; <a href='/AIV/37/1/14'>Hag. 1:14</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 44002016,
-      "translation": "AIV",
-      "book": 44,
-      "bookName": "Haggai",
-      "bookAbbreviation": "Hag",
-      "chapter": 2,
       "verse": 16,
       "text": "\"since those days, when anyone came to a heap of twenty measures, there were only ten; when one came to the wine vat to draw fifty measures, there were only twenty.\"",
       "links": "<a href='/AIV/05/28/22'>Deut. 28:22</a>",
@@ -200,11 +122,6 @@
     },
     {
       "pk": 44002017,
-      "translation": "AIV",
-      "book": 44,
-      "bookName": "Haggai",
-      "bookAbbreviation": "Hag",
-      "chapter": 2,
       "verse": 17,
       "text": "\"I struck you with blight and mildew and hail in all the works of your hands, yet you did not turn to Me, declares the Lord.\"",
       "links": "<a href='/AIV/05/28/22'>Deut. 28:22</a>; <a href='/AIV/30/4/6-10'>Amos 4:6-10</a>",
@@ -212,11 +129,6 @@
     },
     {
       "pk": 44002018,
-      "translation": "AIV",
-      "book": 44,
-      "bookName": "Haggai",
-      "bookAbbreviation": "Hag",
-      "chapter": 2,
       "verse": 18,
       "text": "\"Consider now from this day onward, from the twenty-fourth day of the ninth month, since the day the foundation of the Lord’s temple was laid, consider:\"",
       "links": "<a href='/AIV/37/1/14'>Hag. 1:14</a>; <a href='/AIV/15/3/10'>Ezra 3:10</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 44002019,
-      "translation": "AIV",
-      "book": 44,
-      "bookName": "Haggai",
-      "bookAbbreviation": "Hag",
-      "chapter": 2,
       "verse": 19,
       "text": "\"Is the seed still in the barn? Even now, neither the vine nor the fig tree nor the pomegranate nor the olive tree has yielded fruit. But from this day I will bless you.\"",
       "links": "<a href='/AIV/05/28/4'>Deut. 28:4</a>",
@@ -237,11 +144,6 @@
     },
     {
       "pk": 44002020,
-      "translation": "AIV",
-      "book": 44,
-      "bookName": "Haggai",
-      "bookAbbreviation": "Hag",
-      "chapter": 2,
       "verse": 20,
       "text": "The word of the Lord came a second time to Haggai on the twenty-fourth day of the month:",
       "links": "<a href='/AIV/37/2/1'>Hag. 2:1</a>",
@@ -250,11 +152,6 @@
     },
     {
       "pk": 44002021,
-      "translation": "AIV",
-      "book": 44,
-      "bookName": "Haggai",
-      "bookAbbreviation": "Hag",
-      "chapter": 2,
       "verse": 21,
       "text": "\"Speak to Zerubbabel, governor of Judah, saying, 'I am about to shake the heavens and the earth.'\"",
       "links": "<a href='/AIV/58/12/26'>Heb. 12:26</a>; <a href='/AIV/23/13/13'>Isa. 13:13</a>",
@@ -262,11 +159,6 @@
     },
     {
       "pk": 44002022,
-      "translation": "AIV",
-      "book": 44,
-      "bookName": "Haggai",
-      "bookAbbreviation": "Hag",
-      "chapter": 2,
       "verse": 22,
       "text": "\"I will overturn the throne of kingdoms. I will destroy the strength of the kingdoms of the nations, and I will overthrow the chariots and their riders; horses and their riders shall fall, each by the sword of his brother.\"",
       "links": "<a href='/AIV/26/21/27'>Ezek. 21:27</a>; <a href='/AIV/38/9/13'>Zech. 9:13</a>",
@@ -274,38 +166,10 @@
     },
     {
       "pk": 44002023,
-      "translation": "AIV",
-      "book": 44,
-      "bookName": "Haggai",
-      "bookAbbreviation": "Hag",
-      "chapter": 2,
       "verse": 23,
       "text": "\"On that day, declares the Lord of hosts, I will take you, O Zerubbabel son of Shealtiel, My servant, declares the Lord, and make you like a signet ring—for I have chosen you, declares the Lord of hosts.\"",
       "links": "<a href='/AIV/10/7/14'>2 Sam. 7:14</a>; <a href='/AIV/40/1/12'>Matt. 1:12</a>",
       "comment": "Zerubbabel, as a signet ring, symbolizes legitimate dynastic authority and continuity of God's promises to David, ultimately fulfilled in Christ (see <a href='/AIV/40/1/12'>Matthew 1:12</a>). This verse prefigures the selection and commissioning of spiritual leaders in the new covenant community."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:54:25.980Z",
-  "sections": [
-    {
-      "title": "The Future Glory of the Temple",
-      "startVerse": 1,
-      "endVerse": 9
-    },
-    {
-      "title": "A Lesson about Ritual Purity",
-      "startVerse": 10,
-      "endVerse": 17
-    },
-    {
-      "title": "Blessing Promised from This Day",
-      "startVerse": 18,
-      "endVerse": 19
-    },
-    {
-      "title": "The Promise to Zerubbabel",
-      "startVerse": 20,
-      "endVerse": 23
     }
   ]
 }

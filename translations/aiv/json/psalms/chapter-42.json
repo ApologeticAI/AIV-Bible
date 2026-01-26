@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 42,
   "verses": [
     {
       "pk": 23042001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 42,
       "verse": 1,
       "text": "As the deer pants for streams of water, so my soul pants for You, O God.",
       "links": "<a href='/AIV/19/63/1'>Ps. 63:1</a>; <a href='/AIV/19/84/2'>Ps. 84:2</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23042002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 42,
       "verse": 2,
       "text": "My soul thirsts for God, for the living God. When shall I come and appear before God?",
       "links": "<a href='/AIV/18/23/3'>Job 23:3</a>; <a href='/AIV/19/84/7'>Ps. 84:7</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23042003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 42,
       "verse": 3,
       "text": "My tears have been my food day and night, while people say to me all day, 'Where is your God?'",
       "links": "<a href='/AIV/19/80/5'>Ps. 80:5</a>; <a href='/AIV/29/2/17'>Joel 2:17</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23042004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 42,
       "verse": 4,
       "text": "These things I remember as I pour out my soul: how I used to go with the multitude, leading the procession to the house of God, with joyful shouts and songs of thanksgiving, a festive crowd.",
       "links": "<a href='/AIV/19/55/14'>Ps. 55:14</a>; <a href='/AIV/19/122/1'>Ps. 122:1</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23042005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 42,
       "verse": 5,
       "text": "Why, O my soul, are you cast down? And why are you so disturbed within me? Hope in God; for I shall yet praise Him, my salvation and my God.",
       "links": "<a href='/AIV/19/43/5'>Ps. 43:5</a>; <a href='/AIV/19/62/5'>Ps. 62:5</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23042006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 42,
       "verse": 6,
       "text": "My soul is cast down within me; therefore I remember You from the land of the Jordan, and of Hermon, from Mount Mizar.",
       "links": "<a href='/AIV/05/3/8'>Deut. 3:8</a>; <a href='/AIV/19/77/11'>Ps. 77:11</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 23042007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 42,
       "verse": 7,
       "text": "Deep calls to deep at the sound of Your waterfalls; all Your waves and breakers have swept over me.",
       "links": "<a href='/AIV/19/69/2'>Ps. 69:2</a>; <a href='/AIV/32/2/3'>Jonah 2:3</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 23042008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 42,
       "verse": 8,
       "text": "By day the LORD commands His steadfast love, and at night His song is with me—a prayer to the God of my life.",
       "links": "<a href='/AIV/19/16/7'>Ps. 16:7</a>; <a href='/AIV/19/92/2'>Ps. 92:2</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 23042009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 42,
       "verse": 9,
       "text": "I say to God my Rock, 'Why have You forgotten me? Why do I go mourning because of the oppression of the enemy?'",
       "links": "<a href='/AIV/19/31/3'>Ps. 31:3</a>; <a href='/AIV/19/44/24'>Ps. 44:24</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 23042010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 42,
       "verse": 10,
       "text": "As with a deadly wound in my bones, my adversaries taunt me, while they say all day long, 'Where is your God?'",
       "links": "<a href='/AIV/19/22/7-8'>Ps. 22:7-8</a>; <a href='/AIV/25/2/15-16'>Lam. 2:15-16</a>",
@@ -128,28 +80,10 @@
     },
     {
       "pk": 23042011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 42,
       "verse": 11,
       "text": "Why are you cast down, O my soul, and why are you disturbed within me? Hope in God; for I shall yet praise Him, my salvation and my God.",
       "links": "<a href='/AIV/19/43/5'>Ps. 43:5</a>; <a href='/AIV/19/71/14'>Ps. 71:14</a>",
       "comment": "The refrain of hope renews trust in God despite emotional turmoil. The psalmist’s perseverance in praise, in community and in solitude, demonstrates the need for ongoing faith, perseverance, and daily participation in the worship and remembrance of God."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:13:24.759Z",
-  "sections": [
-    {
-      "title": "Longing for God",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "A Soul Cast Down and Remembering God",
-      "startVerse": 6,
-      "endVerse": 11
     }
   ]
 }

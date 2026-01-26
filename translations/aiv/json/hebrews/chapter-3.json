@@ -1,16 +1,13 @@
 {
-  "book": 65,
+  "translation": "AIV",
+  "bookId": "hebrews",
   "bookName": "Hebrews",
   "bookAbbreviation": "Heb",
+  "bookNumber": 65,
   "chapter": 3,
   "verses": [
     {
       "pk": 65003001,
-      "translation": "AIV",
-      "book": 65,
-      "bookName": "Hebrews",
-      "bookAbbreviation": "Heb",
-      "chapter": 3,
       "verse": 1,
       "text": "Therefore, holy brothers and sisters, sharers in the heavenly calling, consider Jesus, the Apostle and High Priest of our confession.",
       "links": "<a href='/AIV/43/20/21'>John 20:21</a>; <a href='/AIV/58/4/14'>Heb. 4:14</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 65003002,
-      "translation": "AIV",
-      "book": 65,
-      "bookName": "Hebrews",
-      "bookAbbreviation": "Heb",
-      "chapter": 3,
       "verse": 2,
       "text": "He was faithful to the One who appointed him, just as Moses was faithful in all God’s house.",
       "links": "<a href='/AIV/04/12/7'>Num. 12:7</a>; <a href='/AIV/02/40/16'>Ex. 40:16</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 65003003,
-      "translation": "AIV",
-      "book": 65,
-      "bookName": "Hebrews",
-      "bookAbbreviation": "Heb",
-      "chapter": 3,
       "verse": 3,
       "text": "For Jesus is considered worthy of greater glory than Moses, just as the builder of a house has more honor than the house itself.",
       "links": "<a href='/AIV/40/16/18'>Matt. 16:18</a>; <a href='/AIV/19/127/1'>Ps. 127:1</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 65003004,
-      "translation": "AIV",
-      "book": 65,
-      "bookName": "Hebrews",
-      "bookAbbreviation": "Heb",
-      "chapter": 3,
       "verse": 4,
       "text": "For every house is built by someone, but the One who built everything is God.",
       "links": "<a href='/AIV/01/1/1'>Gen. 1:1</a>; <a href='/AIV/19/24/1'>Ps. 24:1</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 65003005,
-      "translation": "AIV",
-      "book": 65,
-      "bookName": "Hebrews",
-      "bookAbbreviation": "Heb",
-      "chapter": 3,
       "verse": 5,
       "text": "Now Moses was faithful as a servant in all God’s house, as a testimony to what would be said in the future.",
       "links": "<a href='/AIV/04/12/7'>Num. 12:7</a>; <a href='/AIV/43/5/39'>John 5:39</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 65003006,
-      "translation": "AIV",
-      "book": 65,
-      "bookName": "Hebrews",
-      "bookAbbreviation": "Heb",
-      "chapter": 3,
       "verse": 6,
       "text": "But Christ is faithful as the Son over God’s house, and we are his house if we hold fast to our boldness and the hope in which we boast.",
       "links": "<a href='/AIV/49/2/19-22'>Eph. 2:19-22</a>; <a href='/AIV/46/3/16'>1 Cor. 3:16</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 65003007,
-      "translation": "AIV",
-      "book": 65,
-      "bookName": "Hebrews",
-      "bookAbbreviation": "Heb",
-      "chapter": 3,
       "verse": 7,
       "text": "Therefore, as the Holy Spirit says: 'Today, if you hear his voice,",
       "links": "<a href='/AIV/19/95/7'>Ps. 95:7</a>; <a href='/AIV/58/4/7'>Heb. 4:7</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 65003008,
-      "translation": "AIV",
-      "book": 65,
-      "bookName": "Hebrews",
-      "bookAbbreviation": "Heb",
-      "chapter": 3,
       "verse": 8,
       "text": "do not harden your hearts as in the rebellion, on the day of testing in the wilderness,",
       "links": "<a href='/AIV/19/95/8'>Ps. 95:8</a>; <a href='/AIV/02/17/2-7'>Ex. 17:2-7</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 65003009,
-      "translation": "AIV",
-      "book": 65,
-      "bookName": "Hebrews",
-      "bookAbbreviation": "Heb",
-      "chapter": 3,
       "verse": 9,
       "text": "where your ancestors tested and tried me, and saw my works for forty years.",
       "links": "<a href='/AIV/04/14/22-33'>Num. 14:22-33</a>; <a href='/AIV/19/95/9'>Ps. 95:9</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 65003010,
-      "translation": "AIV",
-      "book": 65,
-      "bookName": "Hebrews",
-      "bookAbbreviation": "Heb",
-      "chapter": 3,
       "verse": 10,
       "text": "Therefore I was angry with that generation and said, 'They always go astray in their hearts; they have not known my ways.'",
       "links": "<a href='/AIV/19/95/10'>Ps. 95:10</a>; <a href='/AIV/26/18/30'>Ezek. 18:30</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 65003011,
-      "translation": "AIV",
-      "book": 65,
-      "bookName": "Hebrews",
-      "bookAbbreviation": "Heb",
-      "chapter": 3,
       "verse": 11,
       "text": "So I swore in my anger, 'They shall not enter my rest.'",
       "links": "<a href='/AIV/19/95/11'>Ps. 95:11</a>; <a href='/AIV/04/20/12'>Num. 20:12</a>; <a href='/AIV/58/4/3'>Heb. 4:3</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 65003012,
-      "translation": "AIV",
-      "book": 65,
-      "bookName": "Hebrews",
-      "bookAbbreviation": "Heb",
-      "chapter": 3,
       "verse": 12,
       "text": "See to it, brothers and sisters, that none of you has an evil and unbelieving heart, leading you to fall away from the living God.",
       "links": "<a href='/AIV/58/10/26-31'>Heb. 10:26-31</a>; <a href='/AIV/24/17/9'>Jer. 17:9</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 65003013,
-      "translation": "AIV",
-      "book": 65,
-      "bookName": "Hebrews",
-      "bookAbbreviation": "Heb",
-      "chapter": 3,
       "verse": 13,
       "text": "But encourage one another every day, as long as it is called 'Today,' so that none of you may be hardened by the deceitfulness of sin.",
       "links": "<a href='/AIV/58/10/24-25'>Heb. 10:24-25</a>; <a href='/AIV/20/27/17'>Prov. 27:17</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 65003014,
-      "translation": "AIV",
-      "book": 65,
-      "bookName": "Hebrews",
-      "bookAbbreviation": "Heb",
-      "chapter": 3,
       "verse": 14,
       "text": "For we have become sharers in Christ, if we hold firmly until the end the confidence we had at first.",
       "links": "<a href='/AIV/45/11/22'>Rom. 11:22</a>; <a href='/AIV/58/6/11'>Heb. 6:11</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 65003015,
-      "translation": "AIV",
-      "book": 65,
-      "bookName": "Hebrews",
-      "bookAbbreviation": "Heb",
-      "chapter": 3,
       "verse": 15,
       "text": "As it has been said: 'Today, if you hear his voice, do not harden your hearts as in the rebellion.'",
       "links": "<a href='/AIV/19/95/7-8'>Ps. 95:7-8</a>; <a href='/AIV/58/4/7'>Heb. 4:7</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 65003016,
-      "translation": "AIV",
-      "book": 65,
-      "bookName": "Hebrews",
-      "bookAbbreviation": "Heb",
-      "chapter": 3,
       "verse": 16,
       "text": "For who were those who heard and rebelled? Were they not all who came out of Egypt, led by Moses?",
       "links": "<a href='/AIV/02/14/30-31'>Ex. 14:30-31</a>; <a href='/AIV/04/14/1-4'>Num. 14:1-4</a>",
@@ -200,11 +122,6 @@
     },
     {
       "pk": 65003017,
-      "translation": "AIV",
-      "book": 65,
-      "bookName": "Hebrews",
-      "bookAbbreviation": "Heb",
-      "chapter": 3,
       "verse": 17,
       "text": "And with whom was he angry for forty years? Was it not those who sinned, whose bodies fell in the wilderness?",
       "links": "<a href='/AIV/04/14/29-32'>Num. 14:29-32</a>; <a href='/AIV/19/106/25-26'>Ps. 106:25-26</a>",
@@ -212,11 +129,6 @@
     },
     {
       "pk": 65003018,
-      "translation": "AIV",
-      "book": 65,
-      "bookName": "Hebrews",
-      "bookAbbreviation": "Heb",
-      "chapter": 3,
       "verse": 18,
       "text": "And to whom did he swear that they would not enter his rest, except to those who were disobedient?",
       "links": "<a href='/AIV/04/20/12'>Num. 20:12</a>; <a href='/AIV/58/4/6'>Heb. 4:6</a>",
@@ -224,28 +136,10 @@
     },
     {
       "pk": 65003019,
-      "translation": "AIV",
-      "book": 65,
-      "bookName": "Hebrews",
-      "bookAbbreviation": "Heb",
-      "chapter": 3,
       "verse": 19,
       "text": "So we see that they were unable to enter because of unbelief.",
       "links": "<a href='/AIV/58/4/2'>Heb. 4:2</a>; <a href='/AIV/45/11/20'>Rom. 11:20</a>",
       "comment": "The summary stresses the danger of unbelief—not merely intellectual doubt, but a lack of trust expressed through reliance and obedience. Full participation in God’s promise requires a persevering faith, sacramental life, and communal encouragement."
-    }
-  ],
-  "translatedAt": "2025-12-24T12:17:25.161Z",
-  "sections": [
-    {
-      "title": "Jesus, Superior to Moses",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "A Warning Against Unbelief",
-      "startVerse": 7,
-      "endVerse": 19
     }
   ]
 }

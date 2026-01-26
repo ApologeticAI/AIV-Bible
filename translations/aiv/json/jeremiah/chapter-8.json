@@ -1,16 +1,13 @@
 {
-  "book": 30,
+  "translation": "AIV",
+  "bookId": "jeremiah",
   "bookName": "Jeremiah",
   "bookAbbreviation": "Jer",
+  "bookNumber": 30,
   "chapter": 8,
   "verses": [
     {
       "pk": 30008001,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 8,
       "verse": 1,
       "text": "At that time, says the LORD, the bones of the kings of Judah, the bones of its officials, the bones of the priests, the bones of the prophets, and the bones of the inhabitants of Jerusalem will be brought out of their graves.",
       "links": "<a href='/AIV/24/7/32'>Jer. 7:32</a>; <a href='/AIV/24/14/16'>Jer. 14:16</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 30008002,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 8,
       "verse": 2,
       "text": "They will be spread out before the sun, and the moon, and all the host of heaven, whom they have loved, served, followed, sought, and worshiped. They will not be gathered or buried; they will be as dung on the face of the earth.",
       "links": "<a href='/AIV/05/04/19'>Deut. 4:19</a>; <a href='/AIV/24/9/22'>Jer. 9:22</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 30008003,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 8,
       "verse": 3,
       "text": "Death will be preferred to life by all the remnant that remains of this evil family, in all the places where I have driven them, says the LORD of armies.",
       "links": "<a href='/AIV/24/44/14'>Jer. 44:14</a>; <a href='/AIV/05/30/19'>Deut. 30:19</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 30008004,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 8,
       "verse": 4,
       "text": "You shall say to them: Thus says the LORD, ‘Do people fall and not get up again? If someone turns away, do they not return?’",
       "links": "<a href='/AIV/24/3/22'>Jer. 3:22</a>; <a href='/AIV/20/24/16'>Prov. 24:16</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 30008005,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 8,
       "verse": 5,
       "text": "Why then has this people, Jerusalem, turned away with an endless backsliding? They cling to deceit; they refuse to return.",
       "links": "<a href='/AIV/24/5/3'>Jer. 5:3</a>; <a href='/AIV/24/14/7'>Jer. 14:7</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 30008006,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 8,
       "verse": 6,
       "text": "I have paid attention and listened, but they do not speak honestly; no one repents of his evil, saying, ‘What have I done?’ Each one runs his own course like a horse rushing into battle.",
       "links": "<a href='/AIV/24/6/13'>Jer. 6:13</a>; <a href='/AIV/66/9/21'>Rev. 9:21</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 30008007,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 8,
       "verse": 7,
       "text": "Even the stork in the sky knows her seasons; and the dove, the swift, and the swallow observe their time of coming. But my people do not know the judgment of the LORD.",
       "links": "<a href='/AIV/18/12/7'>Job 12:7-9</a>; <a href='/AIV/24/5/4'>Jer. 5:4</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 30008008,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 8,
       "verse": 8,
       "text": "How can you say, ‘We are wise, and the law of the LORD is with us’? But behold, the lying pen of the scribes has made it into a lie.",
       "links": "<a href='/AIV/24/2/8'>Jer. 2:8</a>; <a href='/AIV/40/23/2'>Matt. 23:2-3</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 30008009,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 8,
       "verse": 9,
       "text": "The wise men shall be put to shame; they will be dismayed and captured. Behold, they have rejected the word of the LORD, so what wisdom is in them?",
       "links": "<a href='/AIV/24/6/19'>Jer. 6:19</a>; <a href='/AIV/20/1/7'>Prov. 1:7</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 30008010,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 8,
       "verse": 10,
       "text": "Therefore I will give their wives to others, and their fields to those who will possess them. For from the least to the greatest, all are greedy for unjust gain; from prophet to priest, every one deals falsely.",
       "links": "<a href='/AIV/24/6/13'>Jer. 6:13</a>; <a href='/AIV/23/56/11'>Isa. 56:11</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 30008011,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 8,
       "verse": 11,
       "text": "They have healed the wound of my people lightly, saying, ‘Peace, peace,’ when there is no peace.",
       "links": "<a href='/AIV/24/6/14'>Jer. 6:14</a>; <a href='/AIV/26/13/10'>Ezek. 13:10-16</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 30008012,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 8,
       "verse": 12,
       "text": "Were they ashamed when they committed abomination? No, they were not at all ashamed; they did not even know how to blush. So they shall fall among the fallen; at the time of their punishment they shall stumble, says the LORD.",
       "links": "<a href='/AIV/24/6/15'>Jer. 6:15</a>; <a href='/AIV/19/36/12'>Ps. 36:1-2</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 30008013,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 8,
       "verse": 13,
       "text": "I will surely consume them, says the LORD. No grapes shall be on the vine, nor figs on the fig tree, and even the leaves will wither. What I have given them will pass away from them.",
       "links": "<a href='/AIV/28/09/10'>Hos. 9:10'</a>; <a href='/AIV/40/21/19'>Matt. 21:19</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 30008014,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 8,
       "verse": 14,
       "text": "Why do we sit still? Assemble! Let us go into the fortified cities and perish there. For the LORD our God has doomed us to perish, and has given us poisoned water to drink, because we have sinned against the LORD.",
       "links": "<a href='/AIV/24/9/15'>Jer. 9:15</a>; <a href='/AIV/04/05/23'>Num. 5:23-24</a>",
@@ -178,11 +110,6 @@
     },
     {
       "pk": 30008015,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 8,
       "verse": 15,
       "text": "We hoped for peace, but no good came; for a time of healing, but behold, terror.",
       "links": "<a href='/AIV/23/59/9-11'>Isa. 59:9-11</a>; <a href='/AIV/24/14/19'>Jer. 14:19</a>",
@@ -190,11 +117,6 @@
     },
     {
       "pk": 30008016,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 8,
       "verse": 16,
       "text": "The snorting of enemy horses is heard from Dan; at the sound of their neighing the whole land quakes. They come and devour the land and all that fills it, the city and those who dwell in it.",
       "links": "<a href='/AIV/07/05/17'>Judg. 5:17</a>; <a href='/AIV/24/4/15'>Jer. 4:15'>;",
@@ -202,11 +124,6 @@
     },
     {
       "pk": 30008017,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 8,
       "verse": 17,
       "text": "For behold, I am sending among you serpents, adders that cannot be charmed, and they shall bite you, says the LORD.",
       "links": "<a href='/AIV/04/21/6'>Num. 21:6</a>; <a href='/AIV/10/23/32-33'>2 Sam. 23:32-33</a>",
@@ -214,11 +131,6 @@
     },
     {
       "pk": 30008018,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 8,
       "verse": 18,
       "text": "My comfort in sorrow is gone; my heart is faint within me.",
       "links": "<a href='/AIV/24/4/19'>Jer. 4:19</a>; <a href='/AIV/19/22/14'>Ps. 22:14</a>",
@@ -227,11 +139,6 @@
     },
     {
       "pk": 30008019,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 8,
       "verse": 19,
       "text": "Listen! The cry of the daughter of my people from a land far away: 'Is the LORD not in Zion? Is her King not in her?' 'Why have they provoked me to anger with their carved images and with foreign idols?'",
       "links": "<a href='/AIV/25/1/7'>Lam. 1:7</a>; <a href='/AIV/23/52/7'>Isa. 52:7</a>",
@@ -239,11 +146,6 @@
     },
     {
       "pk": 30008020,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 8,
       "verse": 20,
       "text": "The harvest is past, the summer is ended, and we are not saved.",
       "links": "<a href='/AIV/23/17/10-11'>Isa. 17:10-11</a>; <a href='/AIV/24/14/19'>Jer. 14:19</a>",
@@ -251,11 +153,6 @@
     },
     {
       "pk": 30008021,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 8,
       "verse": 21,
       "text": "For the wound of the daughter of my people I am wounded; I mourn, and horror has taken hold of me.",
       "links": "<a href='/AIV/24/9/1'>Jer. 9:1</a>; <a href='/AIV/40/23/37'>Matt. 23:37</a>",
@@ -263,43 +160,10 @@
     },
     {
       "pk": 30008022,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 8,
       "verse": 22,
       "text": "Is there no balm in Gilead? Is there no physician there? Why then has not the health of the daughter of my people been restored?",
       "links": "<a href='/AIV/46/1/30'>1 Cor. 1:30</a>; <a href='/AIV/24/30/17'>Jer. 30:17</a>",
       "comment": "Gilead was famous for healing balm, yet their spiritual wound remains. Points to the need for a true Physician (cf. Christ as healer—1 Cor. 1:30). Healing comes through the means appointed by God."
-    }
-  ],
-  "translatedAt": "2025-12-24T08:25:49.624Z",
-  "sections": [
-    {
-      "title": "Judgment on Jerusalem's Dead",
-      "startVerse": 1,
-      "endVerse": 3
-    },
-    {
-      "title": "The Unrepentant and Deceitful People",
-      "startVerse": 4,
-      "endVerse": 7
-    },
-    {
-      "title": "False Wisdom and Corrupt Leaders",
-      "startVerse": 8,
-      "endVerse": 13
-    },
-    {
-      "title": "Imminent Destruction and Lament",
-      "startVerse": 14,
-      "endVerse": 17
-    },
-    {
-      "title": "Jeremiah's Grief for His People",
-      "startVerse": 18,
-      "endVerse": 22
     }
   ]
 }

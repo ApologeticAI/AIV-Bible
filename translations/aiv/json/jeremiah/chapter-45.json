@@ -1,16 +1,13 @@
 {
-  "book": 30,
+  "translation": "AIV",
+  "bookId": "jeremiah",
   "bookName": "Jeremiah",
   "bookAbbreviation": "Jer",
+  "bookNumber": 30,
   "chapter": 45,
   "verses": [
     {
       "pk": 30045001,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 45,
       "verse": 1,
       "text": "The word that Jeremiah the prophet spoke to Baruch son of Neriah, when he wrote these words in a book at Jeremiah’s dictation, in the fourth year of Jehoiakim son of Josiah, king of Judah:",
       "links": "<a href='/AIV/24/36/1-4'>Jer. 36:1-4</a>; <a href='/AIV/12/23/36'>2 Kgs. 23:36</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 30045002,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 45,
       "verse": 2,
       "text": "Thus says the LORD, the God of Israel, to you, Baruch:",
       "links": "<a href='/AIV/02/3/6'>Ex. 3:6</a>; <a href='/AIV/24/1/2'>Jer. 1:2</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 30045003,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 45,
       "verse": 3,
       "text": "You said, 'Woe is me! For the LORD has added sorrow to my pain; I am weary with my groaning, and I find no rest.'",
       "links": "<a href='/AIV/19/6/6'>Ps. 6:6</a>; <a href='/AIV/24/20/14-18'>Jer. 20:14-18</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 30045004,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 45,
       "verse": 4,
       "text": "Thus you shall say to him, 'The LORD says this: See, what I have built, I am tearing down; and what I have planted, I am uprooting—even this entire land.'",
       "links": "<a href='/AIV/24/1/10'>Jer. 1:10</a>; <a href='/AIV/24/18/7-10'>Jer. 18:7-10</a>",
@@ -55,23 +37,10 @@
     },
     {
       "pk": 30045005,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 45,
       "verse": 5,
       "text": "And you, do you seek great things for yourself? Do not seek them, for I am bringing disaster upon all flesh, declares the LORD. But wherever you go, I will give you your life as a prize.",
       "links": "<a href='/AIV/24/21/9'>Jer. 21:9</a>; <a href='/AIV/40/16/24-25'>Matt. 16:24-25</a>; <a href='/AIV/42/17/33'>Luke 17:33</a>",
       "comment": "Baruch is exhorted to humility and detachment from worldly ambition. The promise of life mirrors Christ’s teaching that true reward comes through self-denial and faithfulness. Spiritual perseverance and sacrificial obedience secure eternal life (cf. Mk. 8:35)."
-    }
-  ],
-  "translatedAt": "2025-12-24T08:46:04.504Z",
-  "sections": [
-    {
-      "title": "Jeremiah’s Message to Baruch",
-      "startVerse": 1,
-      "endVerse": 5
     }
   ]
 }

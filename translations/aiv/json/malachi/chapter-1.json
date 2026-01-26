@@ -1,16 +1,13 @@
 {
-  "book": 46,
+  "translation": "AIV",
+  "bookId": "malachi",
   "bookName": "Malachi",
   "bookAbbreviation": "Mal",
+  "bookNumber": 46,
   "chapter": 1,
   "verses": [
     {
       "pk": 46001001,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 1,
       "verse": 1,
       "text": "The burden of the word of the LORD to Israel by the hand of Malachi.",
       "links": "<a href='/AIV/23/13/1'>Isa. 13:1</a>; <a href='/AIV/28/1/1'>Hos. 1:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 46001002,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 1,
       "verse": 2,
       "text": "I have loved you, says the LORD. But you say, 'How have you loved us?' Was not Esau Jacob’s brother? says the LORD. Yet I loved Jacob,",
       "links": "<a href='/AIV/01/25/23'>Gen. 25:23</a>; <a href='/AIV/45/9/13'>Rom. 9:13</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 46001003,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 1,
       "verse": 3,
       "text": "but Esau I have hated, and I have made his mountains a waste and his inheritance for the jackals of the wilderness.",
       "links": "<a href='/AIV/01/36/8-9'>Gen. 36:8-9</a>; <a href='/AIV/24/49/10'>Jer. 49:10</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 46001004,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 1,
       "verse": 4,
       "text": "If Edom says, 'We are shattered but we will rebuild the ruins,' the LORD of hosts says: They may build, but I will tear down; and they will be called 'The wicked country,' and 'The people with whom the LORD is angry forever.'",
       "links": "<a href='/AIV/31/1/4'>Obad. 1:4</a>; <a href='/AIV/36/2/9'>Zeph. 2:9</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 46001005,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 1,
       "verse": 5,
       "text": "Your eyes will see this, and you will say, 'Great is the LORD beyond the borders of Israel!'",
       "links": "<a href='/AIV/19/113/3'>Ps. 113:3</a>; <a href='/AIV/45/15/9'>Rom. 15:9</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 46001006,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 1,
       "verse": 6,
       "text": "'A son honors his father, and a servant his master. If then I am a Father, where is My honor? And if I am a Master, where is My fear? says the LORD of hosts to you, O priests, who despise My name. But you say, ‘How have we despised Your name?’",
       "links": "<a href='/AIV/02/20/12'>Exod. 20:12</a>; <a href='/AIV/42/6/46'>Luke 6:46</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 46001007,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 1,
       "verse": 7,
       "text": "You offer defiled bread on My altar. But you say, ‘How have we defiled you?’ By saying that the table of the LORD may be despised.",
       "links": "<a href='/AIV/03/22/20'>Lev. 22:20</a>; <a href='/AIV/23/1/13'>Isa. 1:13</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 46001008,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 1,
       "verse": 8,
       "text": "When you offer blind animals in sacrifice, is that not evil? And when you offer those that are lame or sick, is that not evil? Present that to your governor; will he accept you or show you favor? says the LORD of hosts.",
       "links": "<a href='/AIV/03/22/21-22'>Lev. 22:21-22</a>; <a href='/AIV/40/5/48'>Matt. 5:48</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 46001009,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 1,
       "verse": 9,
       "text": "Now entreat the favor of God, that He may be gracious to us. With such offerings from your hand, will He show favor to any of you? says the LORD of hosts.",
       "links": "<a href='/AIV/02/32/11'>Exod. 32:11</a>; <a href='/AIV/19/51/17'>Ps. 51:17</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 46001010,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 1,
       "verse": 10,
       "text": "Oh that one among you would shut the doors, that you might not kindle fire on My altar in vain! I have no pleasure in you, says the LORD of hosts, and I will not accept an offering from your hand.",
       "links": "<a href='/AIV/23/1/11'>Isa. 1:11</a>; <a href='/AIV/19/50/9-13'>Ps. 50:9-13</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 46001011,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 1,
       "verse": 11,
       "text": "For from the rising of the sun to its setting, My name will be great among the nations, and in every place incense will be offered to My name, and a pure offering. For My name will be great among the nations, says the LORD of hosts.",
       "links": "<a href='/AIV/19/113/3'>Ps. 113:3</a>; <a href='/AIV/41/14/24'>Mark 14:24</a>; <a href='/AIV/46/11/26'>1 Cor. 11:26</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 46001012,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 1,
       "verse": 12,
       "text": "But you profane it when you say that the table of the LORD is defiled, and its food may be despised.",
       "links": "<a href='/AIV/03/21/6'>Lev. 21:6</a>; <a href='/AIV/46/11/27'>1 Cor. 11:27</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 46001013,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 1,
       "verse": 13,
       "text": "But you say, 'What a weariness this is,' and you sniff at it, says the LORD of hosts. You bring what has been taken by violence, or is lame or sick, and this you bring as your offering! Should I accept it from your hand? says the LORD.",
       "links": "<a href='/AIV/23/43/22-24'>Isa. 43:22-24</a>; <a href='/AIV/40/15/8'>Matt. 15:8</a>",
@@ -164,28 +101,10 @@
     },
     {
       "pk": 46001014,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 1,
       "verse": 14,
       "text": "But cursed be the deceiver who has a male in his flock, yet vows and sacrifices to the Lord what is blemished. For I am a great King, says the LORD of hosts, and My name is to be feared among the nations.",
       "links": "<a href='/AIV/03/22/21'>Lev. 22:21</a>; <a href='/AIV/66/15/4'>Rev. 15:4</a>",
       "comment": "Sincerity and integrity in worship are essential. God’s kingship is universal and his demands absolute, with blessings and curses for obedience and disobedience. This foreshadows the reverence due in new covenant worship and calls all people to the fullness of divine worship, united under one King."
-    }
-  ],
-  "translatedAt": "2025-12-24T10:00:27.319Z",
-  "sections": [
-    {
-      "title": "The Lord's Love for Israel",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "The Priests' Profaned Offerings",
-      "startVerse": 6,
-      "endVerse": 14
     }
   ]
 }

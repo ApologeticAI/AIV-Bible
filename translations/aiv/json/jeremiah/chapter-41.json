@@ -1,16 +1,13 @@
 {
-  "book": 30,
+  "translation": "AIV",
+  "bookId": "jeremiah",
   "bookName": "Jeremiah",
   "bookAbbreviation": "Jer",
+  "bookNumber": 30,
   "chapter": 41,
   "verses": [
     {
       "pk": 30041001,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 41,
       "verse": 1,
       "text": "In the seventh month, Ishmael son of Nethaniah, son of Elishama, of the royal family and one of the king’s chief officers, came with ten men to Gedaliah son of Ahikam at Mizpah. While they were eating together there at Mizpah,",
       "links": "<a href='/AIV/24/40/8'>Jer. 40:8</a>; <a href='/AIV/24/40/14'>Jer. 40:14</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 30041002,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 41,
       "verse": 2,
       "text": "Ishmael son of Nethaniah and the ten men who were with him rose up and struck down Gedaliah son of Ahikam, son of Shaphan, with the sword and killed him—whom the king of Babylon had appointed governor over the land.",
       "links": "<a href='/AIV/24/40/14'>Jer. 40:14</a>; <a href='/AIV/2/20/13'>Ex. 20:13</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 30041003,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 41,
       "verse": 3,
       "text": "Ishmael also killed all the Jews who were with Gedaliah at Mizpah, and the Chaldean soldiers who were found there.",
       "links": "<a href='/AIV/24/40/7'>Jer. 40:7</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 30041004,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 41,
       "verse": 4,
       "text": "The next day, before anyone knew about it,",
       "links": "<a href='/AIV/6/7/16'>Josh. 7:16</a>; <a href='/AIV/19/6/14'>Esth. 6:14</a>; <a href='/AIV/12/9/16'>2Kgs. 9:16</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 30041005,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 41,
       "verse": 5,
       "text": "eighty men arrived from Shechem, Shiloh, and Samaria, their beards shaved, their clothes torn, and their bodies wounded. They were bringing grain and incense as offerings to the house of the LORD.",
       "links": "<a href='/AIV/5/21/5'>Lev. 21:5</a>; <a href='/AIV/19/51/19'>Ps. 51:19</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 30041006,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 41,
       "verse": 6,
       "text": "Ishmael son of Nethaniah went out from Mizpah to meet them, weeping as he went. As he met them, he said, 'Come to Gedaliah son of Ahikam.'",
       "links": "<a href='/AIV/10/1/11'>2Sam. 1:11-12</a>; <a href='/AIV/23/119/136'>Ps. 119:136</a>; <a href='/AIV/47/26/49'>Matt. 26:49</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 30041007,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 41,
       "verse": 7,
       "text": "And when they came within the city, Ishmael son of Nethaniah and the men with him slaughtered them and threw them into a cistern.",
       "links": "<a href='/AIV/24/38/6'>Jer. 38:6</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 30041008,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 41,
       "verse": 8,
       "text": "But ten of them said to Ishmael, 'Do not kill us, for we have stores of wheat, barley, oil, and honey hidden in the fields.' So he stopped and did not kill them along with their companions.",
       "links": "<a href='/AIV/6/2/12'>Josh. 2:12-14</a>; <a href='/AIV/9/30/11'>1Sam. 30:11-15</a>; <a href='/AIV/30/38/4'>Jer. 38:4-13</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 30041009,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 41,
       "verse": 9,
       "text": "The cistern into which Ishmael threw all the bodies of the men he had killed, along with Gedaliah, was the large one that King Asa had made for defense against Baasha king of Israel. Ishmael son of Nethaniah filled it with the dead.",
       "links": "<a href='/AIV/11/15/22'>1 Kings 15:22</a>; <a href='/AIV/14/16/6'>2 Chron. 16:6</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 30041010,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 41,
       "verse": 10,
       "text": "Then Ishmael took captive all the rest of the people who were in Mizpah, including the king’s daughters and all the people left in Mizpah over whom Nebuzaradan, the captain of the guard, had put Gedaliah son of Ahikam, and he took them captive and set out to cross over to the Ammonites.",
       "links": "<a href='/AIV/24/39/10'>Jer. 39:10</a>; <a href='/AIV/24/40/7'>Jer. 40:7</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 30041011,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 41,
       "verse": 11,
       "text": "But when Johanan son of Kareah and all the commanders of the forces with him heard of all the evil that Ishmael son of Nethaniah had done,",
       "links": "<a href='/AIV/24/40/8'>Jer. 40:8</a>",
@@ -142,11 +89,6 @@
     },
     {
       "pk": 30041012,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 41,
       "verse": 12,
       "text": "they took all their men and went to fight against Ishmael son of Nethaniah. They found him by the great pool at Gibeon.",
       "links": "<a href='/AIV/10/2/13'>2 Sam. 2:13</a>",
@@ -154,11 +96,6 @@
     },
     {
       "pk": 30041013,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 41,
       "verse": 13,
       "text": "And when all the people who were with Ishmael saw Johanan son of Kareah and all the commanders with him, they rejoiced.",
       "links": "<a href='/AIV/2/15/20'>Exod. 15:20-21</a>; <a href='/AIV/16/12/43'>Neh. 12:43</a>; <a href='/AIV/51/15/3'>Acts. 15:3</a>",
@@ -166,11 +103,6 @@
     },
     {
       "pk": 30041014,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 41,
       "verse": 14,
       "text": "So all the people whom Ishmael had taken captive from Mizpah turned around and went back to Johanan son of Kareah.",
       "links": "<a href='/AIV/24/40/13'>Jer. 40:13</a>",
@@ -178,11 +110,6 @@
     },
     {
       "pk": 30041015,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 41,
       "verse": 15,
       "text": "But Ishmael son of Nethaniah escaped from Johanan with eight men and went to the Ammonites.",
       "links": "<a href='/AIV/24/40/14'>Jer. 40:14</a>; <a href='/AIV/24/49/1'>Jer. 49:1</a>",
@@ -190,11 +117,6 @@
     },
     {
       "pk": 30041016,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 41,
       "verse": 16,
       "text": "Then Johanan son of Kareah and all the commanders who were with him took all the rest of the people whom he had recovered from Ishmael son of Nethaniah after he had killed Gedaliah—the soldiers, the women, the children, and the eunuchs whom Johanan brought back from Gibeon.",
       "links": "<a href='/AIV/30/40/7'>Jer. 40:7</a>; <a href='/AIV/12/25/22'>2Kgs. 25:22-25</a>; <a href='/AIV/15/2/1'>Ezra. 2:1</a>",
@@ -203,11 +125,6 @@
     },
     {
       "pk": 30041017,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 41,
       "verse": 17,
       "text": "And they went and stayed at Geruth Chimham, which is near Bethlehem, intending to go to Egypt",
       "links": "<a href='/AIV/24/42/1'>Jer. 42:1</a>; <a href='/AIV/1/12/10'>Gen. 12:10</a>",
@@ -215,43 +132,10 @@
     },
     {
       "pk": 30041018,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 41,
       "verse": 18,
       "text": "because of the Chaldeans, for they were afraid of them. Ishmael son of Nethaniah had struck down Gedaliah son of Ahikam—the one whom the king of Babylon had appointed governor over the land.",
       "links": "<a href='/AIV/24/40/14'>Jer. 40:14</a>; <a href='/AIV/24/39/14'>Jer. 39:14</a>",
       "comment": "Fear drives the remnant away from the land promised to them. Fear, and not faith, can cause God’s people to miss blessings and fulfillment of God's promises. In times of crisis, seeking leadership grounded in divine mandate, rooted in tradition, safeguards against destructive fear. Compare with Paul’s call for 'not a spirit of fear' but of power and self-control (2 Tim. 1:7)."
-    }
-  ],
-  "translatedAt": "2025-12-24T08:44:21.229Z",
-  "sections": [
-    {
-      "title": "The Assassination of Gedaliah",
-      "startVerse": 1,
-      "endVerse": 3
-    },
-    {
-      "title": "The Slaughter of the Pilgrims",
-      "startVerse": 4,
-      "endVerse": 9
-    },
-    {
-      "title": "Ishmael Takes Captives to the Ammonites",
-      "startVerse": 10,
-      "endVerse": 10
-    },
-    {
-      "title": "The Rescue by Johanan",
-      "startVerse": 11,
-      "endVerse": 15
-    },
-    {
-      "title": "Flight Toward Egypt",
-      "startVerse": 16,
-      "endVerse": 18
     }
   ]
 }

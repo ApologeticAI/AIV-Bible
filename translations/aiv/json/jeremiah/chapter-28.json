@@ -1,16 +1,13 @@
 {
-  "book": 30,
+  "translation": "AIV",
+  "bookId": "jeremiah",
   "bookName": "Jeremiah",
   "bookAbbreviation": "Jer",
+  "bookNumber": 30,
   "chapter": 28,
   "verses": [
     {
       "pk": 30028001,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 28,
       "verse": 1,
       "text": "In that same year, at the beginning of the reign of King Zedekiah of Judah, in the fifth month of the fourth year, the prophet Hananiah son of Azzur, from Gibeon, spoke to me in the house of the LORD, in the presence of the priests and all the people. He said:",
       "links": "<a href='/AIV/24/27/1'>Jer. 27:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 30028002,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 28,
       "verse": 2,
       "text": "\"This is what the LORD of Armies, the God of Israel, says: 'I have broken the yoke of the king of Babylon.'\"",
       "links": "<a href='/AIV/24/27/2'>Jer. 27:2</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 30028003,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 28,
       "verse": 3,
       "text": "\"Within two years I will bring back to this place all the vessels of the LORD’s house that Nebuchadnezzar king of Babylon took from here and carried to Babylon.\"",
       "links": "<a href='/AIV/24/27/16'>Jer. 27:16</a>; <a href='/AIV/14/36/7'>2 Chr. 36:7</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 30028004,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 28,
       "verse": 4,
       "text": "\"And I will also bring back to this place Jeconiah son of Jehoiakim, king of Judah, and all the exiles of Judah who went to Babylon, declares the LORD, for I will break the yoke of the king of Babylon!\"",
       "links": "<a href='/AIV/24/27/20'>Jer. 27:20</a>; <a href='/AIV/12/24/15'>2 Kgs. 24:15</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 30028005,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 28,
       "verse": 5,
       "text": "Then the prophet Jeremiah spoke to the prophet Hananiah in the presence of the priests and all the people who were standing in the house of the LORD.",
       "links": "<a href='/AIV/24/26/7-19'>Jer. 26:7-19</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 30028006,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 28,
       "verse": 6,
       "text": "And Jeremiah said, \"Amen! May the LORD do so; may the LORD fulfill the words you have prophesied, by bringing back the vessels of the LORD's house and all the exiles from Babylon to this place.\"",
       "links": "<a href='/AIV/05/18/22'>Deut. 18:22</a>; <a href='/AIV/24/29/10-14'>Jer. 29:10-14</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 30028007,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 28,
       "verse": 7,
       "text": "\"Nevertheless, listen now to this word that I speak in your hearing and in the hearing of all the people.\"",
       "links": "<a href='/AIV/30/26/12'>Jer. 26:12</a>; <a href='/AIV/5/18/20'>Deut. 18:20-22</a>; <a href='/AIV/51/4/19'>Acts. 4:19-20</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 30028008,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 28,
       "verse": 8,
       "text": "\"The prophets who came before me and before you, from ancient times, prophesied war, disaster, and plague against many countries and great kingdoms.\"",
       "links": "<a href='/AIV/24/25/9'>Jer. 25:9</a>; <a href='/AIV/11/13/14'>1 Kgs. 13:14</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 30028009,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 28,
       "verse": 9,
       "text": "\"As for the prophet who prophesies peace, when the word of that prophet comes to pass, then it will be known that the LORD has truly sent the prophet.\"",
       "links": "<a href='/AIV/05/18/21-22'>Deut. 18:21-22</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 30028010,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 28,
       "verse": 10,
       "text": "Then the prophet Hananiah took the yoke from the neck of Jeremiah the prophet and broke it.",
       "links": "<a href='/AIV/24/27/2'>Jer. 27:2</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 30028011,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 28,
       "verse": 11,
       "text": "And Hananiah declared in the presence of all the people, \"This is what the LORD says: In the same way I will break the yoke of Nebuchadnezzar king of Babylon from the neck of all nations within two years.\" But Jeremiah the prophet went his way.",
       "links": "<a href='/AIV/30/27/2'>Jer. 27:2</a>; <a href='/AIV/30/27/12'>Jer. 27:12</a>; <a href='/AIV/11/13/7'>1Kgs. 13:7-10</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 30028012,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 28,
       "verse": 12,
       "text": "After Hananiah the prophet had broken the yoke from the neck of the prophet Jeremiah, the word of the LORD came to Jeremiah:",
       "links": "<a href='/AIV/30/29/30'>Jer. 29:30</a>; <a href='/AIV/4/22/20'>Num. 22:20</a>; <a href='/AIV/11/13/20'>1Kgs. 13:20</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 30028013,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 28,
       "verse": 13,
       "text": "\"Go and tell Hananiah, 'This is what the LORD says: You have broken the wooden yokes, but you have made in their place yokes of iron.'\"",
       "links": "<a href='/AIV/24/27/8-12'>Jer. 27:8-12</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 30028014,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 28,
       "verse": 14,
       "text": "\"For this is what the LORD of Armies, the God of Israel, says: I have put an iron yoke on the neck of all these nations, that they may serve Nebuchadnezzar king of Babylon, and they shall serve him. I have given him even the wild animals.\"",
       "links": "<a href='/AIV/24/27/6'>Jer. 27:6</a>; <a href='/AIV/27/2/38'>Dan. 2:38</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 30028015,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 28,
       "verse": 15,
       "text": "Then the prophet Jeremiah said to Hananiah the prophet, \"Listen, Hananiah! The LORD has not sent you, and you have made this people trust in a lie.\"",
       "links": "<a href='/AIV/24/23/21-22'>Jer. 23:21-22</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 30028016,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 28,
       "verse": 16,
       "text": "\"Therefore, this is what the LORD says: Behold, I am about to remove you from the face of the earth. This year you will die, because you have preached rebellion against the LORD.\"",
       "links": "<a href='/AIV/24/29/31-32'>Jer. 29:31-32</a>",
@@ -201,39 +123,11 @@
     },
     {
       "pk": 30028017,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 28,
       "verse": 17,
       "text": "And in that very year, in the seventh month, Hananiah the prophet died.",
       "links": "<a href='/AIV/05/18/20'>Deut. 18:20</a>; <a href='/AIV/24/29/32'>Jer. 29:32</a>",
       "comment": "The fulfillment of Jeremiah’s prophecy shows God’s vindication of his true messenger, reinforcing the importance of a continuous, divinely guided authority to interpret God’s word and preserve the faith for the whole people. See also Christ’s warning against false prophets (<a href='/AIV/40/24/24'>Matt. 24:24</a>).",
       "sectionHeader": "Death of Hananiah"
-    }
-  ],
-  "translatedAt": "2025-12-24T08:36:41.904Z",
-  "sections": [
-    {
-      "title": "Hananiah's False Prophecy",
-      "startVerse": 1,
-      "endVerse": 4
-    },
-    {
-      "title": "Jeremiah Confronts Hananiah",
-      "startVerse": 5,
-      "endVerse": 9
-    },
-    {
-      "title": "The Broken Yoke and God's Judgment",
-      "startVerse": 10,
-      "endVerse": 16
-    },
-    {
-      "title": "Death of Hananiah",
-      "startVerse": 17,
-      "endVerse": 17
     }
   ]
 }

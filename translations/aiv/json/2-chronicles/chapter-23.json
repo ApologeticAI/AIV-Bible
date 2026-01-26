@@ -1,16 +1,13 @@
 {
-  "book": 14,
+  "translation": "AIV",
+  "bookId": "2-chronicles",
   "bookName": "2 Chronicles",
-  "bookAbbreviation": "2Chr",
+  "bookAbbreviation": "2 Chr",
+  "bookNumber": 14,
   "chapter": 23,
   "verses": [
     {
       "pk": 14023001,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 23,
       "verse": 1,
       "text": "In the seventh year, Jehoiada made himself strong and entered into a covenant with the commanders of hundreds: Azariah son of Jeroham, Ishmael son of Jehohanan, Azariah son of Obed, Maaseiah son of Adaiah, and Elishaphat son of Zichri.",
       "links": "<a href='/AIV/12/11/4'>2 Kings 11:4</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 14023002,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 23,
       "verse": 2,
       "text": "They went throughout Judah and gathered the Levites from all the towns of Judah and the heads of every ancestral house of Israel, and they all came to Jerusalem.",
       "links": "<a href='/AIV/4/1/50-54'>Numbers 1:50-54</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 14023003,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 23,
       "verse": 3,
       "text": "Jehoiada made a covenant with them and said, 'See, the king’s son will reign, as the LORD promised concerning the descendants of David.'",
       "links": "<a href='/AIV/10/7/12-16'>2 Samuel 7:12-16</a>; <a href='/AIV/19/89/3-4'>Psalm 89:3-4</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 14023004,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 23,
       "verse": 4,
       "text": "'This is what you must do: A third of you, priests and Levites coming on duty on the Sabbath, shall guard the doors,",
       "links": "<a href='/AIV/16/13/22'>Nehemiah 13:22</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 14023005,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 23,
       "verse": 5,
       "text": "a third shall be at the king’s house, and a third at the Foundation Gate. And all the rest of the people shall be in the courts of the house of the LORD.",
       "links": "<a href='/AIV/11/7/39'>1 Kings 7:39</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 14023006,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 23,
       "verse": 6,
       "text": "No one shall enter the house of the LORD except the priests and those Levites who serve; all the other people shall stand guard. The Levites shall consecrate themselves.",
       "links": "<a href='/AIV/3/16/2'>Leviticus 16:2</a>; <a href='/AIV/4/3/10'>Numbers 3:10</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 14023007,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 23,
       "verse": 7,
       "text": "The Levites shall surround the king, each with his weapons in hand. Whoever enters the house shall be put to death. Stay near the king wherever he goes.",
       "links": "<a href='/AIV/12/11/8'>2 Kings 11:8</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 14023008,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 23,
       "verse": 8,
       "text": "So the Levites and all Judah did just as Jehoiada the priest commanded, taking their men according to their divisions, as they had been assigned for the Sabbath, with those who were going off duty replaced by those coming on duty.",
       "links": "<a href='/AIV/4/3/32-37'>Numbers 3:32-37</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 14023009,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 23,
       "verse": 9,
       "text": "And Jehoiada the priest gave the commanders of hundreds the spears, shields, and small shields that had belonged to King David, which were in the house of God.",
       "links": "<a href='/AIV/14/29/2'>2 Chronicles 29:2</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 14023010,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 23,
       "verse": 10,
       "text": "He stationed all the people, each with weapon in hand, around the king—from the right side of the temple to the left side, in front of the altar and by the temple.",
       "links": "<a href='/AIV/14/23/7'>2 Chronicles 23:7</a>",
@@ -127,11 +79,6 @@
     },
     {
       "pk": 14023011,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 23,
       "verse": 11,
       "text": "Then they brought out the king’s son, put the crown on him, and gave him the testimony. They proclaimed him king, anointed him, and shouted, 'Long live the king!'",
       "links": "<a href='/AIV/10/23/3'>2 Samuel 23:3</a>; <a href='/AIV/19/132/11-12'>Psalm 132:11-12</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 14023012,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 23,
       "verse": 12,
       "text": "When Athaliah heard the noise of the people running and praising the king, she went to the LORD’s house, to where the people were.",
       "links": "<a href='/AIV/12/11/13'>2 Kings 11:13</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 14023013,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 23,
       "verse": 13,
       "text": "She looked, and there was the king standing by his pillar at the entrance, with the captains and trumpeters beside him, and all the people of the land rejoicing and blowing trumpets. Singers with musical instruments led the praise. Then Athaliah tore her clothes and cried out, 'Treason! Treason!'",
       "links": "<a href='/AIV/19/98/5-6'>Psalm 98:5-6</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 14023014,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 23,
       "verse": 14,
       "text": "Jehoiada the priest commanded the officers in charge of the army, 'Take her between the ranks and put her to death by the sword.' For the priest said, 'Do not kill her in the LORD’s house.'",
       "links": "<a href='/AIV/12/11/15'>2 Kings 11:15</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 14023015,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 23,
       "verse": 15,
       "text": "So they seized her, and as soon as she reached the entrance of the Horse Gate of the king’s house, they put her to death there.",
       "links": "<a href='/AIV/24/31/40'>Jeremiah 31:40</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 14023016,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 23,
       "verse": 16,
       "text": "Then Jehoiada made a covenant between himself, all the people, and the king, that they would be the LORD’s people.",
       "links": "<a href='/AIV/2/19/4-6'>Exodus 19:4-6</a>",
@@ -202,11 +124,6 @@
     },
     {
       "pk": 14023017,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 23,
       "verse": 17,
       "text": "And all the people went to the house of Baal and tore it down. They smashed its altars and images to pieces and killed Mattan the priest of Baal in front of the altars.",
       "links": "<a href='/AIV/11/18/40'>1 Kings 18:40</a>; <a href='/AIV/7/6/25-32'>Judges 6:25-32</a>",
@@ -214,11 +131,6 @@
     },
     {
       "pk": 14023018,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 23,
       "verse": 18,
       "text": "And Jehoiada placed the oversight of the house of the LORD under the authority of the Levitical priests, whom David had organized for the house of the LORD, to offer burnt offerings to the LORD, as written in the law of Moses, with rejoicing and singing as David had established.",
       "links": "<a href='/AIV/3/9/22'>Leviticus 9:22</a>; <a href='/AIV/19/150/3-4'>Psalm 150:3-4</a>",
@@ -226,11 +138,6 @@
     },
     {
       "pk": 14023019,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 23,
       "verse": 19,
       "text": "He stationed gatekeepers at the gates of the LORD’s house so that no one who was ceremonially unclean could enter.",
       "links": "<a href='/AIV/3/15/31'>Leviticus 15:31</a>",
@@ -238,11 +145,6 @@
     },
     {
       "pk": 14023020,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 23,
       "verse": 20,
       "text": "Then he took the commanders, the nobles, the rulers of the people, and all the people of the land and brought the king down from the house of the LORD. They went through the upper gate to the king’s house and seated the king on the royal throne.",
       "links": "<a href='/AIV/19/2/6'>Psalm 2:6</a>",
@@ -250,38 +152,10 @@
     },
     {
       "pk": 14023021,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 23,
       "verse": 21,
       "text": "All the people of the land rejoiced, and the city was quiet because Athaliah had been slain with the sword.",
       "links": "<a href='/AIV/19/97/11-12'>Psalm 97:11-12</a>",
       "comment": "Joy and peace follow the removal of wickedness and restoration of legitimate authority, echoing the peace and joy that comes through Christ, the true King, who brings order and holiness to God's people."
-    }
-  ],
-  "translatedAt": "2025-12-24T04:32:46.428Z",
-  "sections": [
-    {
-      "title": "Jehoiada Organizes the Restoration of the Davidic King",
-      "startVerse": 1,
-      "endVerse": 10
-    },
-    {
-      "title": "Joash Proclaimed King",
-      "startVerse": 11,
-      "endVerse": 11
-    },
-    {
-      "title": "Death of Athaliah",
-      "startVerse": 12,
-      "endVerse": 15
-    },
-    {
-      "title": "Renewal of the Covenant and Reformation",
-      "startVerse": 16,
-      "endVerse": 21
     }
   ]
 }

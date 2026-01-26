@@ -1,16 +1,13 @@
 {
-  "book": 59,
+  "translation": "AIV",
+  "bookId": "1-thessalonians",
   "bookName": "1 Thessalonians",
-  "bookAbbreviation": "1Thess",
+  "bookAbbreviation": "1 Thess",
+  "bookNumber": 59,
   "chapter": 1,
   "verses": [
     {
       "pk": 59001001,
-      "translation": "AIV",
-      "book": 59,
-      "bookName": "1 Thessalonians",
-      "bookAbbreviation": "1Thess",
-      "chapter": 1,
       "verse": 1,
       "text": "Paul, Silvanus, and Timothy, to the church of the Thessalonians in God the Father and the Lord Jesus Christ: Grace to you and peace.",
       "links": "<a href='/AIV/44/16/1'>Acts 16:1</a>; <a href='/AIV/46/1/3'>1 Cor. 1:3</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 59001002,
-      "translation": "AIV",
-      "book": 59,
-      "bookName": "1 Thessalonians",
-      "bookAbbreviation": "1Thess",
-      "chapter": 1,
       "verse": 2,
       "text": "We give thanks to God always for all of you, remembering you in our prayers continually.",
       "links": "<a href='/AIV/45/1/8'>Rom. 1:8-9</a>; <a href='/AIV/50/1/3'>Phil. 1:3-4</a>",
@@ -32,11 +24,6 @@
     },
     {
       "pk": 59001003,
-      "translation": "AIV",
-      "book": 59,
-      "bookName": "1 Thessalonians",
-      "bookAbbreviation": "1Thess",
-      "chapter": 1,
       "verse": 3,
       "text": "We continually remember before our God and Father your work of faith, labor of love, and steadfastness of hope in our Lord Jesus Christ.",
       "links": "<a href='/AIV/46/13/13'>1 Cor. 13:13</a>; <a href='/AIV/58/6/10-12'>Heb. 6:10-12</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 59001004,
-      "translation": "AIV",
-      "book": 59,
-      "bookName": "1 Thessalonians",
-      "bookAbbreviation": "1Thess",
-      "chapter": 1,
       "verse": 4,
       "text": "For we know, brothers loved by God, that He has chosen you,",
       "links": "<a href='/AIV/45/8/28-30'>Rom. 8:28-30</a>; <a href='/AIV/49/1/4-6'>Eph. 1:4-6</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 59001005,
-      "translation": "AIV",
-      "book": 59,
-      "bookName": "1 Thessalonians",
-      "bookAbbreviation": "1Thess",
-      "chapter": 1,
       "verse": 5,
       "text": "because our gospel did not come to you in word only, but also in power and in the Holy Spirit, and with full assurance. You know what kind of men we proved to be among you for your sake.",
       "links": "<a href='/AIV/45/15/19'>Rom. 15:19</a>; <a href='/AIV/44/1/8'>Acts 1:8</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 59001006,
-      "translation": "AIV",
-      "book": 59,
-      "bookName": "1 Thessalonians",
-      "bookAbbreviation": "1Thess",
-      "chapter": 1,
       "verse": 6,
       "text": "And you became imitators of us and of the Lord, receiving the word in much affliction, with the joy of the Holy Spirit,",
       "links": "<a href='/AIV/46/4/16'>1 Cor. 4:16</a>; <a href='/AIV/58/10/34'>Heb. 10:34</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 59001007,
-      "translation": "AIV",
-      "book": 59,
-      "bookName": "1 Thessalonians",
-      "bookAbbreviation": "1Thess",
-      "chapter": 1,
       "verse": 7,
       "text": "so that you became an example to all the believers in Macedonia and Achaia.",
       "links": "<a href='/AIV/47/8/1-2'>2 Cor. 8:1-2</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 59001008,
-      "translation": "AIV",
-      "book": 59,
-      "bookName": "1 Thessalonians",
-      "bookAbbreviation": "1Thess",
-      "chapter": 1,
       "verse": 8,
       "text": "For the word of the Lord rang out from you not only in Macedonia and Achaia but in every place your faith in God has gone out, so that we have no need to say anything.",
       "links": "<a href='/AIV/52/1/7'>1 Thess. 1:7</a>; <a href='/AIV/45/1/8'>Rom. 1:8</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 59001009,
-      "translation": "AIV",
-      "book": 59,
-      "bookName": "1 Thessalonians",
-      "bookAbbreviation": "1Thess",
-      "chapter": 1,
       "verse": 9,
       "text": "For they themselves report about us what kind of reception we had among you, and how you turned to God from idols to serve the living and true God,",
       "links": "<a href='/AIV/44/14/15'>Acts 14:15</a>; <a href='/AIV/05/5/7-9'>Deut. 5:7-9</a>",
@@ -116,28 +73,10 @@
     },
     {
       "pk": 59001010,
-      "translation": "AIV",
-      "book": 59,
-      "bookName": "1 Thessalonians",
-      "bookAbbreviation": "1Thess",
-      "chapter": 1,
       "verse": 10,
       "text": "and to wait for His Son from heaven, whom He raised from the dead—Jesus, who rescues us from the coming wrath.",
       "links": "<a href='/AIV/44/1/11'>Acts 1:11</a>; <a href='/AIV/45/5/9'>Rom. 5:9</a>",
       "comment": "Paul concludes by affirming the centrality of Christ’s resurrection and returning glory. Waiting for the Son’s return links hope to the promise of deliverance from final judgment, grounding the Christian life in expectation, Eucharistic thanksgiving, and perseverance in faith. As the early believers awaited Christ, so too does the church maintain a visible, anticipatory posture, faithfully looking toward Christ's return as the definitive fulfillment of salvation history."
-    }
-  ],
-  "translatedAt": "2025-12-24T12:07:47.031Z",
-  "sections": [
-    {
-      "title": "Greeting",
-      "startVerse": 1,
-      "endVerse": 1
-    },
-    {
-      "title": "Thanksgiving for the Faith of the Thessalonians",
-      "startVerse": 2,
-      "endVerse": 10
     }
   ]
 }

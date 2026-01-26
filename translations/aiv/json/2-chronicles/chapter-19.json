@@ -1,16 +1,13 @@
 {
-  "book": 14,
+  "translation": "AIV",
+  "bookId": "2-chronicles",
   "bookName": "2 Chronicles",
-  "bookAbbreviation": "2Chr",
+  "bookAbbreviation": "2 Chr",
+  "bookNumber": 14,
   "chapter": 19,
   "verses": [
     {
       "pk": 14019001,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 19,
       "verse": 1,
       "text": "Jehoshaphat, king of Judah, returned safe to his house in Jerusalem.",
       "links": "<a href='/AIV/11/22/27-28'>1 Kgs 22:27-28</a>;<a href='/AIV/14/18/28'>2 Chr 18:28</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 14019002,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 19,
       "verse": 2,
       "text": "Then Jehu, son of Hanani the seer, went out to meet him, and said to King Jehoshaphat, 'Should you help the wicked and love those who hate the LORD? Because of this, wrath has come upon you from the LORD.'",
       "links": "<a href='/AIV/11/16/1'>1 Kgs 16:1</a>;<a href='/AIV/19/139/21-22'>Ps. 139:21-22</a>;<a href='/AIV/14/18/1'>2 Chr 18:1</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 14019003,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 19,
       "verse": 3,
       "text": "Nevertheless, some good is found in you, for you have removed the Asherah poles from the land and have set your heart to seek God.",
       "links": "<a href='/AIV/14/17/6'>2 Chr 17:6</a>;<a href='/AIV/05/16/21'>Deut. 16:21</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 14019004,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 19,
       "verse": 4,
       "text": "So Jehoshaphat lived in Jerusalem and again went out among the people, from Beersheba as far as the hill country of Ephraim, and brought them back to the LORD, the God of their ancestors.",
       "links": "<a href='/AIV/06/21/1'>Josh. 21:1</a>;<a href='/AIV/14/15/8-9'>2 Chr 15:8-9</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 14019005,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 19,
       "verse": 5,
       "text": "He appointed judges in the land, in each of the fortified cities of Judah, city by city.",
       "links": "<a href='/AIV/05/16/18'>Deut. 16:18</a>;<a href='/AIV/02/18/25-26'>Ex. 18:25-26</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 14019006,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 19,
       "verse": 6,
       "text": "He said to the judges, 'Consider what you are doing. You judge not for man but for the LORD, who is with you in your giving of judgment.'",
       "links": "<a href='/AIV/05/1/17'>Deut. 1:17</a>;<a href='/AIV/20/29/26'>Prov. 29:26</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 14019007,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 19,
       "verse": 7,
       "text": "Now then, let the fear of the LORD be upon you. Be careful what you do, for there is no injustice with the LORD our God, nor partiality or taking of bribes.",
       "links": "<a href='/AIV/05/10/17'>Deut. 10:17</a>;<a href='/AIV/45/2/11'>Rom. 2:11</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 14019008,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 19,
       "verse": 8,
       "text": "Moreover, in Jerusalem Jehoshaphat appointed some of the Levites, priests, and heads of families of Israel to give judgment for the LORD and to settle disputes. They lived in Jerusalem.",
       "links": "<a href='/AIV/05/17/9'>Deut. 17:9</a>;<a href='/AIV/14/29/4'>2 Chr 29:4</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 14019009,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 19,
       "verse": 9,
       "text": "He commanded them, saying, 'Thus you shall do in the fear of the LORD, in faithfulness, and with your whole heart.'",
       "links": "<a href='/AIV/05/6/5'>Deut. 6:5</a>;<a href='/AIV/13/28/9'>1 Chr 28:9</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 14019010,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 19,
       "verse": 10,
       "text": "Whenever any dispute comes to you from your brothers who live in their cities, concerning blood or law or commandment, statutes or ordinances, you are to warn them, so that they do not become guilty before the LORD and wrath does not come upon you and your brothers. Do this, and you will not be guilty.",
       "links": "<a href='/AIV/05/17/8-12'>Deut. 17:8-12</a>;<a href='/AIV/03/19/17'>Lev. 19:17</a>",
@@ -129,33 +81,10 @@
     },
     {
       "pk": 14019011,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 19,
       "verse": 11,
       "text": "And behold, Amariah the chief priest is over you in all matters of the LORD, and Zebadiah the son of Ishmael, the ruler of the house of Judah, in all the king's matters. The Levites will serve as officers before you. Be strong and act courageously. May the LORD be with the upright.",
       "links": "<a href='/AIV/15/2/2'>Ezra 2:2</a>;<a href='/AIV/06/1/9'>Josh. 1:9</a>",
       "comment": "Here, the distinction between spiritual and civil authority is affirmed, yet they work in harmony. The central role of the chief priest prefigures the leadership structure Christ established among the apostles and continues in unified apostolic succession. The encouragement to be strong and act courageously recalls the promise of God's presence to those who uphold truth and unity (Josh 1:9)."
-    }
-  ],
-  "translatedAt": "2025-12-24T04:30:56.770Z",
-  "sections": [
-    {
-      "title": "Jehoshaphat Rebuked by Jehu",
-      "startVerse": 1,
-      "endVerse": 3
-    },
-    {
-      "title": "Jehoshaphat Appoints Judges in Judah",
-      "startVerse": 4,
-      "endVerse": 7
-    },
-    {
-      "title": "Establishment of Judicial System in Jerusalem",
-      "startVerse": 8,
-      "endVerse": 11
     }
   ]
 }

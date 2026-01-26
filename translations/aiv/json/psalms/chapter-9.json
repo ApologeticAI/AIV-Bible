@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 9,
   "verses": [
     {
       "pk": 23009001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 9,
       "verse": 1,
       "text": "I will give thanks to the LORD with all my heart; I will tell of all your wonderful deeds.",
       "links": "<a href='/AIV/19/26/7'>Ps. 26:7</a>; <a href='/AIV/19/111/2'>Ps. 111:2</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23009002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 9,
       "verse": 2,
       "text": "I will rejoice and be glad in you; I will sing praise to your name, O Most High.",
       "links": "<a href='/AIV/19/7/17'>Ps. 7:17</a>; <a href='/AIV/19/68/4'>Ps. 68:4</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23009003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 9,
       "verse": 3,
       "text": "When my enemies turn back, they stumble and perish before your presence.",
       "links": "<a href='/AIV/19/27/2'>Ps. 27:2</a>; <a href='/AIV/23/41/11-12'>Isa. 41:11-12</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23009004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 9,
       "verse": 4,
       "text": "For you have maintained my just cause; you sit on the throne judging righteously.",
       "links": "<a href='/AIV/19/7/11'>Ps. 7:11</a>; <a href='/AIV/19/50/6'>Ps. 50:6</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23009005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 9,
       "verse": 5,
       "text": "You have rebuked the nations, you have destroyed the wicked; you have blotted out their name forever and ever.",
       "links": "<a href='/AIV/19/34/16'>Ps. 34:16</a>; <a href='/AIV/19/109/13'>Ps. 109:13</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23009006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 9,
       "verse": 6,
       "text": "The enemy is finished—ruins everlasting. You uprooted their cities; even the memory of them has perished.",
       "links": "<a href='/AIV/19/37/10'>Ps. 37:10</a>; <a href='/AIV/19/34/16'>Ps. 34:16</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23009007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 9,
       "verse": 7,
       "text": "But the LORD sits enthroned forever; he has established his throne for judgment.",
       "links": "<a href='/AIV/19/29/10'>Ps. 29:10</a>; <a href='/AIV/19/45/6'>Ps. 45:6</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 23009008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 9,
       "verse": 8,
       "text": "He will judge the world with righteousness; he will execute judgment for the peoples with uprightness.",
       "links": "<a href='/AIV/19/96/13'>Ps. 96:13</a>; <a href='/AIV/45/2/5-11'>Rom. 2:5-11</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 23009009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 9,
       "verse": 9,
       "text": "The LORD is a stronghold for the oppressed, a refuge in times of trouble.",
       "links": "<a href='/AIV/19/46/1'>Ps. 46:1</a>; <a href='/AIV/19/37/39'>Ps. 37:39</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 23009010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 9,
       "verse": 10,
       "text": "Those who know your name put their trust in you, for you, LORD, have not forsaken those who seek you.",
       "links": "<a href='/AIV/19/22/24'>Ps. 22:24</a>; <a href='/AIV/19/34/22'>Ps. 34:22</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 23009011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 9,
       "verse": 11,
       "text": "Sing praises to the LORD, who dwells in Zion; declare among the peoples what he has done.",
       "links": "<a href='/AIV/19/132/13'>Ps. 132:13</a>; <a href='/AIV/19/96/3'>Ps. 96:3</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 23009012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 9,
       "verse": 12,
       "text": "For he who avenges blood remembers them; he does not forget the cry of the afflicted.",
       "links": "<a href='/AIV/19/10/17'>Ps. 10:17</a>; <a href='/AIV/19/72/14'>Ps. 72:14</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 23009013,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 9,
       "verse": 13,
       "text": "Be gracious to me, O LORD! See the affliction I suffer from those who hate me, you who lift me up from the gates of death,",
       "links": "<a href='/AIV/19/18/16-19'>Ps. 18:16-19</a>; <a href='/AIV/19/30/3'>Ps. 30:3</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 23009014,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 9,
       "verse": 14,
       "text": "so that I may recount all your praises, that in the gates of the daughter of Zion I may rejoice in your salvation.",
       "links": "<a href='/AIV/19/118/19'>Ps. 118:19</a>; <a href='/AIV/19/13/5'>Ps. 13:5</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 23009015,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 9,
       "verse": 15,
       "text": "The nations have sunk into the pit they made; in the net they hid, their own foot has been caught.",
       "links": "<a href='/AIV/19/7/15'>Ps. 7:15</a>; <a href='/AIV/19/35/8'>Ps. 35:8</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 23009016,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 9,
       "verse": 16,
       "text": "The LORD is known by the judgment he executes; the wicked are snared in the work of their own hands. Meditation. Selah.",
       "links": "<a href='/AIV/19/7/16'>Ps. 7:16</a>; <a href='/AIV/19/34/21'>Ps. 34:21</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 23009017,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 9,
       "verse": 17,
       "text": "The wicked shall return to Sheol, all the nations that forget God.",
       "links": "<a href='/AIV/19/55/15'>Ps. 55:15</a>; <a href='/AIV/19/92/7'>Ps. 92:7</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 23009018,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 9,
       "verse": 18,
       "text": "For the needy shall not always be forgotten, nor shall the hope of the poor perish forever.",
       "links": "<a href='/AIV/19/12/5'>Ps. 12:5</a>; <a href='/AIV/19/22/24'>Ps. 22:24</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 23009019,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 9,
       "verse": 19,
       "text": "Arise, O LORD! Do not let man prevail; let the nations be judged before you.",
       "links": "<a href='/AIV/19/10/12'>Ps. 10:12</a>; <a href='/AIV/19/82/8'>Ps. 82:8</a>",
@@ -237,33 +144,10 @@
     },
     {
       "pk": 23009020,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 9,
       "verse": 20,
       "text": "Put terror in them, O LORD! Let the nations know they are only human. Selah.",
       "links": "<a href='/AIV/19/59/13'>Ps. 59:13</a>; <a href='/AIV/19/103/14'>Ps. 103:14</a>",
       "comment": "The Psalm ends with a prayer for humility among the nations. Recognizing humanity’s limitations points to the need for God’s grace and the humility required for true worship, as Jesus taught (Matthew 5:3)."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:01:32.903Z",
-  "sections": [
-    {
-      "title": "Thanksgiving for God's Righteous Judgment",
-      "startVerse": 1,
-      "endVerse": 8
-    },
-    {
-      "title": "The Lord, Refuge of the Oppressed",
-      "startVerse": 9,
-      "endVerse": 12
-    },
-    {
-      "title": "Prayer for Deliverance and Justice",
-      "startVerse": 13,
-      "endVerse": 20
     }
   ]
 }

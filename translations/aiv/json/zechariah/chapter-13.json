@@ -1,16 +1,13 @@
 {
-  "book": 45,
+  "translation": "AIV",
+  "bookId": "zechariah",
   "bookName": "Zechariah",
   "bookAbbreviation": "Zech",
+  "bookNumber": 45,
   "chapter": 13,
   "verses": [
     {
       "pk": 45013001,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 13,
       "verse": 1,
       "text": "On that day, a fountain will be opened for the house of David and for those who live in Jerusalem, to cleanse them from sin and impurity.",
       "links": "<a href='/AIV/3/19/19'>Num. 19:19</a>; <a href='/AIV/23/1/18'>Isa. 1:18</a>; <a href='/AIV/43/19/34'>John 19:34</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 45013002,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 13,
       "verse": 2,
       "text": "And on that day, declares the LORD of Hosts, I will erase the names of the idols from the land, so they will never be remembered again. I will also remove the prophets and the spirit of impurity from the land.",
       "links": "<a href='/AIV/13/7/3'>1 Chr. 7:3</a>; <a href='/AIV/24/23/26'>Jer. 23:26</a>",
@@ -32,11 +24,6 @@
     },
     {
       "pk": 45013003,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 13,
       "verse": 3,
       "text": "If anyone still prophesies, his father and mother who bore him will say to him, 'You must not live, because you speak lies in the name of the LORD.' And his own parents will pierce him through when he prophesies.",
       "links": "<a href='/AIV/5/13/6'>Deut. 13:6</a>; <a href='/AIV/24/14/15'>Jer. 14:15</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 45013004,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 13,
       "verse": 4,
       "text": "On that day, every prophet will be ashamed of their vision when they prophesy, and they will no longer wear a hairy cloak to deceive.",
       "links": "<a href='/AIV/12/1/8'>2 Kgs. 1:8</a>; <a href='/AIV/40/7/15'>Matt. 7:15</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 45013005,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 13,
       "verse": 5,
       "text": "He will say, 'I am not a prophet; I am a farmer, for the land has been my livelihood since youth.'",
       "links": "<a href='/AIV/2/25/33'>Lev. 25:33</a>; <a href='/AIV/30/7/14'>Amos 7:14</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 45013006,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 13,
       "verse": 6,
       "text": "And if someone asks, 'What are these wounds on your chest?' he will answer, 'I received them at the house of my friends.'",
       "links": "<a href='/AIV/19/22/16'>Ps. 22:16</a>; <a href='/AIV/40/26/49-50'>Matt. 26:49-50</a>; <a href='/AIV/43/20/27'>John 20:27</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 45013007,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 13,
       "verse": 7,
       "text": "'Awake, sword, against my shepherd, against the man who is close to me,' declares the LORD of Hosts. 'Strike the shepherd, and the sheep will be scattered; I will turn my hand against the little ones.'",
       "links": "<a href='/AIV/38/42/43'>Isa. 42:43</a>; <a href='/AIV/40/26/31'>Matt. 26:31</a>; <a href='/AIV/43/16/32'>John 16:32</a>",
@@ -93,11 +60,6 @@
     },
     {
       "pk": 45013008,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 13,
       "verse": 8,
       "text": "In all the land, declares the LORD, two-thirds will be cut off and perish, but one-third will be left in it.",
       "links": "<a href='/AIV/26/5/12'>Ezek. 5:12</a>; <a href='/AIV/23/6/13'>Isa. 6:13</a>",
@@ -105,33 +67,10 @@
     },
     {
       "pk": 45013009,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 13,
       "verse": 9,
       "text": "I will bring the one-third through the fire, refine them as silver is refined, and test them as gold is tested. They will call on my name, and I will answer them. I will say, 'They are my people,' and they will say, 'The LORD is my God.'",
       "links": "<a href='/AIV/19/66/10'>Ps. 66:10</a>; <a href='/AIV/11/8/22'>1 Kings 8:22</a>; <a href='/AIV/60/1/7'>1 Pet. 1:7</a>",
       "comment": "God's loving discipline purifies his people, echoing New Testament themes of perseverance through trial (1 Pet. 1:7). The mutual recognition between God and his people hints at the covenantal language, fulfilled spiritually in the Church, where intimacy with the Lord is experienced through sacramental life and continual fidelity."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:59:15.389Z",
-  "sections": [
-    {
-      "title": "A Fountain for Cleansing from Sin",
-      "startVerse": 1,
-      "endVerse": 1
-    },
-    {
-      "title": "The Removal of Idolatry and False Prophets",
-      "startVerse": 2,
-      "endVerse": 6
-    },
-    {
-      "title": "The Striking of the Shepherd and Testing of the Remnant",
-      "startVerse": 7,
-      "endVerse": 9
     }
   ]
 }

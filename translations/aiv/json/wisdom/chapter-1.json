@@ -1,16 +1,13 @@
 {
-  "book": 27,
+  "translation": "AIV",
+  "bookId": "wisdom",
   "bookName": "Wisdom",
   "bookAbbreviation": "Wis",
+  "bookNumber": 27,
   "chapter": 1,
   "verses": [
     {
       "pk": 27001001,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 1,
       "verse": 1,
       "text": "Love righteousness, you who judge the earth; think of the Lord with honesty, and seek him with a sincere heart.",
       "links": "<a href='/AIV/19/11/7'>Ps. 11:7</a>; <a href='/AIV/23/55/6'>Isa. 55:6</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 27001002,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 1,
       "verse": 2,
       "text": "Because he is found by those who do not put him to the test, and is revealed to those who do not distrust him.",
       "links": "<a href='/AIV/40/7/7'>Matt. 7:7</a>; <a href='/AIV/19/34/4'>Ps. 34:4</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 27001003,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 1,
       "verse": 3,
       "text": "For deceitful thoughts separate from God, and his power, when tested, exposes the foolish.",
       "links": "<a href='/AIV/59/1/6-7'>James 1:6-7</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 27001004,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 1,
       "verse": 4,
       "text": "Wisdom will not enter a soul that plots evil, nor dwell in a body enslaved by sin.",
       "links": "<a href='/AIV/19/66/18'>Ps. 66:18</a>; <a href='/AIV/46/6/19'>1 Cor. 6:19</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 27001005,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 1,
       "verse": 5,
       "text": "For the holy spirit of instruction flees deceit, withdraws from foolish thoughts, and is driven away when unrighteousness comes in.",
       "links": "<a href='/AIV/19/51/11'>Ps. 51:11</a>; <a href='/AIV/49/4/30'>Eph. 4:30</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 27001006,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 1,
       "verse": 6,
       "text": "Wisdom is a spirit that loves people, but she will not excuse a blasphemer for his words, for God is a witness of his inmost thoughts, a true observer of his heart, and hears his tongue.",
       "links": "<a href='/AIV/19/139/1-4'>Ps. 139:1-4</a>; <a href='/AIV/40/12/36'>Matt. 12:36</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 27001007,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 1,
       "verse": 7,
       "text": "For the Spirit of the Lord fills the world, and that which holds all things together has knowledge of every word spoken.",
       "links": "<a href='/AIV/19/104/30'>Ps. 104:30</a>; <a href='/AIV/44/17/28'>Acts 17:28</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 27001008,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 1,
       "verse": 8,
       "text": "Therefore no one who speaks unjustly will go unnoticed, nor will justice pass him by.",
       "links": "<a href='/AIV/19/1/6'>Ps. 1:6</a>; <a href='/AIV/45/14/12'>Rom. 14:12</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 27001009,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 1,
       "verse": 9,
       "text": "For the plans of the ungodly will be examined, and the sound of his words will reach the Lord for punishment of his lawless deeds.",
       "links": "<a href='/AIV/19/94/11'>Ps. 94:11</a>; <a href='/AIV/45/2/16'>Rom. 2:16</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 27001010,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 1,
       "verse": 10,
       "text": "For a jealous ear hears all things, and the noise of murmuring will not be hidden.",
       "links": "<a href='/AIV/19/139/4'>Ps. 139:4</a>; <a href='/AIV/26/8/12'>Ezek. 8:12</a>",
@@ -127,11 +79,6 @@
     },
     {
       "pk": 27001011,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 1,
       "verse": 11,
       "text": "So beware of useless grumbling, and restrain your tongue from slandering. Even what is said in secret will not go unpunished, and a lying mouth leads to death.",
       "links": "<a href='/AIV/20/18/21'>Prov. 18:21</a>; <a href='/AIV/40/12/37'>Matt. 12:37</a>",
@@ -139,11 +86,6 @@
     },
     {
       "pk": 27001012,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 1,
       "verse": 12,
       "text": "Do not aim for death by wandering astray, nor bring destruction upon yourself by the works of your hands.",
       "links": "<a href='/AIV/24/21/8'>Jer. 21:8</a>; <a href='/AIV/40/7/13'>Matt. 7:13</a>",
@@ -151,11 +93,6 @@
     },
     {
       "pk": 27001013,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 1,
       "verse": 13,
       "text": "For God did not create death, nor does he delight in the destruction of the living.",
       "links": "<a href='/AIV/01/2/17'>Gen. 2:17</a>; <a href='/AIV/43/11/25'>John 11:25</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 27001014,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 1,
       "verse": 14,
       "text": "For he created all things so they might exist, and the creatures of the world are wholesome; there is no deadly poison in them, and the realm of death does not rule on earth.",
       "links": "<a href='/AIV/01/1/31'>Gen. 1:31</a>; <a href='/AIV/45/8/20-21'>Rom. 8:20-21</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 27001015,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 1,
       "verse": 15,
       "text": "For righteousness is immortal.",
       "links": "<a href='/AIV/19/49/15'>Ps. 49:15</a>; <a href='/AIV/40/25/46'>Matt. 25:46</a>",
@@ -188,34 +115,11 @@
     },
     {
       "pk": 27001016,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 1,
       "verse": 16,
       "text": "But the wicked summoned death by their words and actions, considering him their friend. They wasted away and made a covenant with death, because they are worthy to belong to him.",
       "links": "<a href='/AIV/23/28/15'>Isa. 28:15</a>; <a href='/AIV/45/6/23'>Rom. 6:23</a>",
       "comment": "Sin’s effects are not just personal but also communal. Reference to a ‘covenant with death’ is echoed in Isaiah, and the wages of sin culminating in death is a key theme of the New Testament.",
       "sectionHeader": "The Wicked Invite Death"
-    }
-  ],
-  "translatedAt": "2025-12-24T07:14:33.840Z",
-  "sections": [
-    {
-      "title": "Exhortation to Righteousness",
-      "startVerse": 1,
-      "endVerse": 12
-    },
-    {
-      "title": "God Is Not the Author of Death",
-      "startVerse": 13,
-      "endVerse": 15
-    },
-    {
-      "title": "The Wicked Invite Death",
-      "startVerse": 16,
-      "endVerse": 16
     }
   ]
 }

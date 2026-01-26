@@ -1,16 +1,13 @@
 {
-  "book": 30,
+  "translation": "AIV",
+  "bookId": "jeremiah",
   "bookName": "Jeremiah",
   "bookAbbreviation": "Jer",
+  "bookNumber": 30,
   "chapter": 15,
   "verses": [
     {
       "pk": 30015001,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 15,
       "verse": 1,
       "text": "Then the LORD said to me, 'Even if Moses and Samuel stood before Me, My heart would not be toward this people. Send them away from My presence, and let them go.'",
       "links": "<a href='/AIV/2/32/11-14'>Ex. 32:11-14</a>; <a href='/AIV/9/7/5-9'>1 Sam. 7:5-9</a>; <a href='/AIV/19/99/6'>Ps. 99:6</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 30015002,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 15,
       "verse": 2,
       "text": "If they ask you, ‘Where shall we go?’ say to them, ‘This is what the LORD says: Those destined for death, to death; those for the sword, to the sword; those for famine, to famine; those for captivity, to captivity.’",
       "links": "<a href='/AIV/24/43/11'>Jer. 43:11</a>; <a href='/AIV/26/5/12'>Ezek. 5:12</a>; <a href='/AIV/66/13/10'>Rev. 13:10</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 30015003,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 15,
       "verse": 3,
       "text": "I will appoint four kinds of judgment against them, declares the LORD: the sword to kill, the dogs to drag off, the birds of the heavens and the beasts of the earth to devour and destroy.",
       "links": "<a href='/AIV/5/28/26'>Deut. 28:26</a>; <a href='/AIV/26/14/21'>Ezek. 14:21</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 30015004,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 15,
       "verse": 4,
       "text": "I will make them a horror to all the kingdoms of the earth because of Manasseh son of Hezekiah, king of Judah, for all the evil he did in Jerusalem.",
       "links": "<a href='/AIV/12/21/11'>2 Kings 21:11-16</a>; <a href='/AIV/14/33/2-9'>2 Chron. 33:2-9</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 30015005,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 15,
       "verse": 5,
       "text": "For who will have pity on you, Jerusalem, or who will mourn for you? Who will turn aside to ask about your welfare?",
       "links": "<a href='/AIV/25/1/12'>Lam. 1:12</a>; <a href='/AIV/24/16/5-7'>Jer. 16:5-7</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 30015006,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 15,
       "verse": 6,
       "text": "You have rejected Me, declares the LORD; you keep turning back. So I will stretch out My hand against you and destroy you; I am weary of relenting.",
       "links": "<a href='/AIV/24/2/13'>Jer. 2:13</a>; <a href='/AIV/28/11/7-8'>Hosea 11:7-8</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 30015007,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 15,
       "verse": 7,
       "text": "I have winnowed them with a pitchfork at the gates of the land; I have bereaved them, I have destroyed My people; yet they did not turn from their ways.",
       "links": "<a href='/AIV/24/4/11'>Jer. 4:11</a>; <a href='/AIV/23/41/16'>Isa. 41:16</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 30015008,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 15,
       "verse": 8,
       "text": "Their widows are more numerous before Me than the sand of the seas. I have brought upon them a destroyer at noon; I have hurled upon the mother and the young man sudden anguish and terror.",
       "links": "<a href='/AIV/18/27/15'>Job 27:15</a>; <a href='/AIV/24/6/4'>Jer. 6:4</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 30015009,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 15,
       "verse": 9,
       "text": "She who bore seven languishes; she breathes her last. Her sun sets while it is still day; she is put to shame and humiliated. I will give the rest of them to the sword before their enemies, says the LORD.",
       "links": "<a href='/AIV/9/2/5'>1 Sam. 2:5</a>; <a href='/AIV/24/6/4'>Jer. 6:4</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 30015010,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 15,
       "verse": 10,
       "text": "Woe to me, my mother, that you gave birth to me, a man of strife and contention to all the land! I have not lent or borrowed, yet everyone curses me.",
       "links": "<a href='/AIV/24/20/14-18'>Jer. 20:14-18</a>; <a href='/AIV/18/3/1-3'>Job 3:1-3</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 30015011,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 15,
       "verse": 11,
       "text": "The LORD said, 'Surely I will set you free for a good purpose; surely I will make the enemy plead with you in times of disaster and distress.'",
       "links": "<a href='/AIV/24/39/11-14'>Jer. 39:11-14</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 30015012,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 15,
       "verse": 12,
       "text": "Can anyone break iron—iron from the north—or bronze?",
       "links": "<a href='/AIV/24/1/18'>Jer. 1:18</a>; <a href='/AIV/27/2/40'>Dan. 2:40</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 30015013,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 15,
       "verse": 13,
       "text": "Your wealth and your treasures I will give as plunder, without price, because of all your sins throughout your territory.",
       "links": "<a href='/AIV/24/17/3'>Jer. 17:3</a>; <a href='/AIV/24/20/5'>Jer. 20:5</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 30015014,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 15,
       "verse": 14,
       "text": "I will make you serve your enemies in a land you do not know, for My anger is kindled with fire that will burn against you.",
       "links": "<a href='/AIV/5/28/36'>Deut. 28:36</a>; <a href='/AIV/24/17/4'>Jer. 17:4</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 30015015,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 15,
       "verse": 15,
       "text": "LORD, You know; remember me and take notice of me, and avenge me on my persecutors. In Your patience, do not take me away; know that for Your sake I have suffered reproach.",
       "links": "<a href='/AIV/19/69/7-9'>Ps. 69:7-9</a>; <a href='/AIV/24/11/20'>Jer. 11:20</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 30015016,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 15,
       "verse": 16,
       "text": "Your words were found, and I ate them; and Your words became to me a joy and the delight of my heart, for I am called by Your name, O LORD, God of hosts.",
       "links": "<a href='/AIV/19/119/103'>Ps. 119:103</a>; <a href='/AIV/26/3/1-3'>Ezek. 3:1-3</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 30015017,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 15,
       "verse": 17,
       "text": "I did not sit in the company of those who make merry, nor did I rejoice. I sat alone, because Your hand was upon me, for You had filled me with indignation.",
       "links": "<a href='/AIV/24/6/11'>Jer. 6:11</a>; <a href='/AIV/19/1/1'>Ps. 1:1</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 30015018,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 15,
       "verse": 18,
       "text": "Why is my pain unending and my wound incurable, refusing to be healed? Will You truly be to me like a deceitful stream, like waters that fail?",
       "links": "<a href='/AIV/24/30/15'>Jer. 30:15</a>; <a href='/AIV/18/6/15'>Job 6:15</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 30015019,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 15,
       "verse": 19,
       "text": "Therefore thus says the LORD: 'If you return, I will restore you, and you shall stand before Me. If you extract the precious from the worthless, you will be as My mouth. They shall turn to you, but you must not turn to them.'",
       "links": "<a href='/AIV/24/1/18-19'>Jer. 1:18-19</a>; <a href='/AIV/19/51/13'>Ps. 51:13</a>",
@@ -237,11 +144,6 @@
     },
     {
       "pk": 30015020,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 15,
       "verse": 20,
       "text": "I will make you to this people a fortified wall of bronze; they will fight against you, but they will not prevail over you, for I am with you to save you and deliver you, says the LORD.",
       "links": "<a href='/AIV/24/1/18-19'>Jer. 1:18-19</a>; <a href='/AIV/40/16/18'>Matt. 16:18</a>",
@@ -249,33 +151,10 @@
     },
     {
       "pk": 30015021,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 15,
       "verse": 21,
       "text": "'I will deliver you from the hand of the wicked and redeem you from the grasp of the ruthless.'",
       "links": "<a href='/AIV/19/37/40'>Ps. 37:40</a>; <a href='/AIV/55/4/17-18'>2 Tim. 4:17-18</a>",
       "comment": "God’s final promise is deliverance and redemption, themes fulfilled in Christ and extended through His followers. The rescue from wickedness prefigures final salvation and the role of the faithful as God’s redeemed people."
-    }
-  ],
-  "translatedAt": "2025-12-24T08:29:59.409Z",
-  "sections": [
-    {
-      "title": "The Inevitable Judgment on Judah",
-      "startVerse": 1,
-      "endVerse": 9
-    },
-    {
-      "title": "Jeremiah's Complaint and the Lord’s Assurance",
-      "startVerse": 10,
-      "endVerse": 14
-    },
-    {
-      "title": "Jeremiah’s Lament and God’s Promise of Deliverance",
-      "startVerse": 15,
-      "endVerse": 21
     }
   ]
 }

@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 99,
   "verses": [
     {
       "pk": 23099001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 99,
       "verse": 1,
       "text": "The LORD reigns; let the peoples tremble. He sits enthroned above the cherubim; let the earth quake.",
       "links": "<a href='/AIV/19/80/1'>Ps. 80:1</a>; <a href='/AIV/19/18/10'>Ps. 18:10</a>; <a href='/AIV/02/25/22'>Ex. 25:22</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23099002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 99,
       "verse": 2,
       "text": "The LORD is great in Zion; He is exalted over all the peoples.",
       "links": "<a href='/AIV/19/48/1'>Ps. 48:1-2</a>; <a href='/AIV/19/97/9'>Ps. 97:9</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23099003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 99,
       "verse": 3,
       "text": "Let them praise Your name, great and awesome; He is holy.",
       "links": "<a href='/AIV/19/111/9'>Ps. 111:9</a>; <a href='/AIV/19/22/3'>Ps. 22:3</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23099004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 99,
       "verse": 4,
       "text": "The King’s strength loves justice. You have established equity; You have made justice and righteousness in Jacob.",
       "links": "<a href='/AIV/19/97/2'>Ps. 97:2</a>; <a href='/AIV/19/89/14'>Ps. 89:14</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23099005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 99,
       "verse": 5,
       "text": "Exalt the LORD our God; worship at His footstool! He is holy.",
       "links": "<a href='/AIV/19/95/6'>Ps. 95:6</a>; <a href='/AIV/19/132/7'>Ps. 132:7</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23099006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 99,
       "verse": 6,
       "text": "Moses and Aaron were among His priests, and Samuel among those who called on His name; they called to the LORD, and He answered them.",
       "links": "<a href='/AIV/19/105/26'>Ps. 105:26</a>; <a href='/AIV/09/07/9'>1 Sam. 7:9</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 23099007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 99,
       "verse": 7,
       "text": "He spoke to them in the pillar of cloud; they kept His testimonies and the decree He gave them.",
       "links": "<a href='/AIV/02/33/9'>Ex. 33:9</a>; <a href='/AIV/02/13/21'>Ex. 13:21</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 23099008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 99,
       "verse": 8,
       "text": "LORD our God, You answered them; You were a forgiving God to them, yet an avenger of their misdeeds.",
       "links": "<a href='/AIV/02/34/6-7'>Ex. 34:6-7</a>; <a href='/AIV/19/78/38'>Ps. 78:38</a>",
@@ -104,28 +66,10 @@
     },
     {
       "pk": 23099009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 99,
       "verse": 9,
       "text": "Exalt the LORD our God; worship at His holy mountain, for the LORD our God is holy.",
       "links": "<a href='/AIV/19/48/1'>Ps. 48:1-2</a>; <a href='/AIV/19/132/13-14'>Ps. 132:13-14</a>; <a href='/AIV/58/12/22'>Heb. 12:22</a>",
       "comment": "The holy mountain refers to Zion, the center of divine worship and presence. The call to worship highlights the importance of both the location and the spiritual reality of communion with God—pointing forward to the heavenly Zion, a gathered people united in worship through Christ."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:33:55.330Z",
-  "sections": [
-    {
-      "title": "The Lord’s Majesty and Holiness",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "God’s Faithfulness to His Priests",
-      "startVerse": 6,
-      "endVerse": 9
     }
   ]
 }

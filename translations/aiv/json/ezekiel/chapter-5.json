@@ -1,16 +1,13 @@
 {
-  "book": 33,
+  "translation": "AIV",
+  "bookId": "ezekiel",
   "bookName": "Ezekiel",
   "bookAbbreviation": "Ezek",
+  "bookNumber": 33,
   "chapter": 5,
   "verses": [
     {
       "pk": 33005001,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 5,
       "verse": 1,
       "text": "As for you, son of man, take a sharp sword and use it like a barber’s razor. Pass it over your head and beard. Then take scales to weigh and divide the hair.",
       "links": "<a href='/AIV/3/21/10'>Lev. 21:10</a>; <a href='/AIV/23/7/20'>Isa. 7:20</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 33005002,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 5,
       "verse": 2,
       "text": "A third of the hair you shall burn in the midst of the city when the days of the siege are finished. Then, you shall take a third and strike it with the sword all around the city. And a third you shall scatter to the wind. For I will unsheath a sword after them.",
       "links": "<a href='/AIV/3/26/33'>Lev. 26:33</a>; <a href='/AIV/24/9/16'>Jer. 9:16</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 33005003,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 5,
       "verse": 3,
       "text": "But take a small number of hairs and bind them in the fold of your robe.",
       "links": "<a href='/AIV/10/8/14-15'>2 Sam. 8:14-15</a>; <a href='/AIV/16/1/8'>Neh. 1:8</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 33005004,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 5,
       "verse": 4,
       "text": "And again, take some of those and throw them into the fire and burn them in the fire. From there, a fire will spread to all the house of Israel.",
       "links": "<a href='/AIV/32/2/3-6'>Jonah 2:3-6</a>; <a href='/AIV/23/10/16-17'>Isa. 10:16-17</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 33005005,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 5,
       "verse": 5,
       "text": "This is what the Lord GOD says: This is Jerusalem. I have set her in the center of the nations, with countries all around her.",
       "links": "<a href='/AIV/05/4/7'>Deut. 4:7</a>; <a href='/AIV/19/48/2'>Ps. 48:2</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 33005006,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 5,
       "verse": 6,
       "text": "But she has rebelled against my ordinances more than the nations, and against my statutes more than the countries around her. For they have rejected my laws and have not walked in my statutes.",
       "links": "<a href='/AIV/23/1/4'>Isa. 1:4</a>; <a href='/AIV/28/8/12'>Hos. 8:12</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 33005007,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 5,
       "verse": 7,
       "text": "Therefore, says the Lord GOD, because you are more rebellious than the nations around you and have not walked in my statutes or kept my ordinances—indeed, you have not even acted according to the ordinances of the nations around you—",
       "links": "<a href='/AIV/24/2/10-13'>Jer. 2:10-13</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 33005008,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 5,
       "verse": 8,
       "text": "therefore thus says the Lord GOD: Behold, even I am against you, Jerusalem, and I will execute judgments in your midst in the sight of the nations.",
       "links": "<a href='/AIV/24/39/16'>Jer. 39:16</a>; <a href='/AIV/36/3/8'>Zeph. 3:8</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 33005009,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 5,
       "verse": 9,
       "text": "Because of all your abominations, I will do among you what I have never done, and the like of which I will never do again.",
       "links": "<a href='/AIV/25/4/6'>Lam. 4:6</a>; <a href='/AIV/27/9/12'>Dan. 9:12</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 33005010,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 5,
       "verse": 10,
       "text": "Therefore, fathers will eat their sons in your midst, and sons will eat their fathers. I will execute judgments against you, and scatter any survivors to every wind.",
       "links": "<a href='/AIV/03/26/29'>Lev. 26:29</a>; <a href='/AIV/25/4/10'>Lam. 4:10</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 33005011,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 5,
       "verse": 11,
       "text": "Therefore, as I live, declares the Lord GOD, surely, because you have defiled my sanctuary with all your detestable things and with all your abominations, I will also withdraw. My eye will not spare, and I will not have pity.",
       "links": "<a href='/AIV/03/15/31'>Lev. 15:31</a>; <a href='/AIV/19/74/7'>Ps. 74:7</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 33005012,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 5,
       "verse": 12,
       "text": "A third part of you shall die by plague and be consumed with famine within you. A third shall fall by the sword all around you. And a third I will scatter to every wind and unsheath a sword after them.",
       "links": "<a href='/AIV/07/6/2'>Judg. 6:2</a>; <a href='/AIV/24/15/2'>Jer. 15:2-3</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 33005013,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 5,
       "verse": 13,
       "text": "Thus shall my anger be finished, and I will satisfy my wrath upon them. And when I have spent my wrath upon them, they shall know that I, the LORD, have spoken in my zeal, when I have expended my anger upon them.",
       "links": "<a href='/AIV/26/30/19'>Ezek. 30:19</a>; <a href='/AIV/19/79/5'>Ps. 79:5</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 33005014,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 5,
       "verse": 14,
       "text": "Moreover, I will make you a desolation and a reproach among the nations around you, in the sight of everyone who passes by.",
       "links": "<a href='/AIV/19/44/13'>Ps. 44:13</a>; <a href='/AIV/25/2/15'>Lam. 2:15</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 33005015,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 5,
       "verse": 15,
       "text": "So it will be a reproach, a taunt, a warning, and a horror to the nations around you, when I execute judgments on you in anger and in wrath, and with furious rebukes. I, the LORD, have spoken.",
       "links": "<a href='/AIV/05/28/37'>Deut. 28:37</a>; <a href='/AIV/19/79/4'>Ps. 79:4</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 33005016,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 5,
       "verse": 16,
       "text": "When I send against you the deadly arrows of famine, which are for destruction, which I will send to destroy you, I will increase the famine upon you and break your staff of bread.",
       "links": "<a href='/AIV/03/26/26'>Lev. 26:26</a>; <a href='/AIV/19/105/16'>Ps. 105:16</a>",
@@ -202,38 +124,10 @@
     },
     {
       "pk": 33005017,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 5,
       "verse": 17,
       "text": "I will send against you famine and wild beasts, and they will bereave you. Pestilence and bloodshed will pass through you, and I will bring the sword against you. I, the LORD, have spoken.",
       "links": "<a href='/AIV/03/26/22-25'>Lev. 26:22-25</a>; <a href='/AIV/26/14/21'>Ezek. 14:21</a>",
       "comment": "The fourfold judgments (famine, wild beasts, pestilence, sword) recur throughout Scripture as signs of comprehensive divine judgment (see Ezek. 14:21; Rev. 6:8). Yet God’s spoken word always contains the implicit hope of turning back to Him and restoration."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:00:40.259Z",
-  "sections": [
-    {
-      "title": "The Sign of Shaving and Dividing the Hair",
-      "startVerse": 1,
-      "endVerse": 4
-    },
-    {
-      "title": "The Reasons for Judgment Against Jerusalem",
-      "startVerse": 5,
-      "endVerse": 8
-    },
-    {
-      "title": "The Severity of God's Judgment",
-      "startVerse": 9,
-      "endVerse": 15
-    },
-    {
-      "title": "Famine, Pestilence, and the Sword",
-      "startVerse": 16,
-      "endVerse": 17
     }
   ]
 }

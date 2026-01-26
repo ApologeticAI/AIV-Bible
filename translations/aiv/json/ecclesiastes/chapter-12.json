@@ -1,16 +1,13 @@
 {
-  "book": 25,
+  "translation": "AIV",
+  "bookId": "ecclesiastes",
   "bookName": "Ecclesiastes",
   "bookAbbreviation": "Eccl",
+  "bookNumber": 25,
   "chapter": 12,
   "verses": [
     {
       "pk": 25012001,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 12,
       "verse": 1,
       "text": "Remember your Creator in the days of your youth, before the evil days come and the years approach when you will say, 'I have no pleasure in them.'",
       "links": "<a href='/AIV/19/71/17'>Ps. 71:17</a>; <a href='/AIV/20/4/6'>Prov. 4:6</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 25012002,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 12,
       "verse": 2,
       "text": "Before the sun and the light and the moon and the stars grow dark, and the clouds return after the rain;",
       "links": "<a href='/AIV/18/29/2'>Job 29:2-3</a>; <a href='/AIV/23/60/19-20'>Isa. 60:19-20</a>",
@@ -32,11 +24,6 @@
     },
     {
       "pk": 25012003,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 12,
       "verse": 3,
       "text": "On the day when the keepers of the house tremble, and strong men stoop, when the grinders cease because they are few, and those looking through the windows are dimmed;",
       "links": "<a href='/AIV/18/17/7'>Job 17:7</a>; <a href='/AIV/19/38/10'>Ps. 38:10</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 25012004,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 12,
       "verse": 4,
       "text": "And the doors on the street are shut, when the sound of the grinding is low, and one rises at the sound of a bird, and all the daughters of song grow faint;",
       "links": "<a href='/AIV/19/90/10'>Ps. 90:10</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 25012005,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 12,
       "verse": 5,
       "text": "They are also afraid of heights and terrors on the way; the almond tree blossoms, the locust drags itself along, and desire fails—because man goes to his eternal home, and mourners go about the streets.",
       "links": "<a href='/AIV/18/17/13'>Job 17:13</a>; <a href='/AIV/19/146/4'>Ps. 146:4</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 25012006,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 12,
       "verse": 6,
       "text": "Before the silver cord is snapped, or the golden bowl is broken, or the pitcher is shattered at the spring, or the wheel is broken at the well,",
       "links": "<a href='/AIV/19/39/4-5'>Ps. 39:4-5</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 25012007,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 12,
       "verse": 7,
       "text": "And the dust returns to the earth as it was, and the spirit returns to God who gave it.",
       "links": "<a href='/AIV/01/2/7'>Gen. 2:7</a>; <a href='/AIV/19/104/29-30'>Ps. 104:29-30</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 25012008,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 12,
       "verse": 8,
       "text": "Vanity of vanities, says the Preacher; all is vanity.",
       "links": "<a href='/AIV/25/1/2'>Eccl. 1:2</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 25012009,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 12,
       "verse": 9,
       "text": "And moreover, because the Preacher was wise, he still taught the people knowledge; he considered, sought out, and arranged many proverbs with great care.",
       "links": "<a href='/AIV/20/1/1-6'>Prov. 1:1-6</a>",
@@ -118,11 +75,6 @@
     },
     {
       "pk": 25012010,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 12,
       "verse": 10,
       "text": "The Preacher sought to find pleasing words, and he wrote words of truth honestly.",
       "links": "<a href='/AIV/20/22/17-21'>Prov. 22:17-21</a>; <a href='/AIV/19/12/6'>Ps. 12:6</a>",
@@ -130,11 +82,6 @@
     },
     {
       "pk": 25012011,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 12,
       "verse": 11,
       "text": "The words of the wise are like goads, and like stakes firmly set are the collected sayings; they are given by one Shepherd.",
       "links": "<a href='/AIV/19/23/1'>Ps. 23:1</a>; <a href='/AIV/43/10/16'>John 10:16</a>",
@@ -142,11 +89,6 @@
     },
     {
       "pk": 25012012,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 12,
       "verse": 12,
       "text": "Beyond these, my son, be warned: of making many books there is no end, and much study wearies the body.",
       "links": "<a href='/AIV/20/24/12'>Prov. 24:12</a>",
@@ -154,11 +96,6 @@
     },
     {
       "pk": 25012013,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 12,
       "verse": 13,
       "text": "The end of the matter, all has been heard. Fear God and keep his commandments, for this is the whole duty of man.",
       "links": "<a href='/AIV/05/6/2'>Deut. 6:2</a>; <a href='/AIV/48/5/14'>Gal. 5:14</a>",
@@ -167,43 +104,10 @@
     },
     {
       "pk": 25012014,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 12,
       "verse": 14,
       "text": "For God will bring every deed into judgment, with every secret thing, whether good or evil.",
       "links": "<a href='/AIV/19/62/12'>Ps. 62:12</a>; <a href='/AIV/40/25/31-46'>Matt. 25:31-46</a>; <a href='/AIV/45/2/16'>Rom. 2:16</a>",
       "comment": "Final judgment is universal, comprehensive, and includes even secret actions. This belief in judgment according to works is affirmed throughout Scripture and points forward to the full revelation of God's justice and mercy in Christ. Spiritual preparation, repentance, and reception of grace are essential for a favorable judgment—always through God’s initiative."
-    }
-  ],
-  "translatedAt": "2025-12-24T07:11:42.344Z",
-  "sections": [
-    {
-      "title": "Remember Your Creator in Youth",
-      "startVerse": 1,
-      "endVerse": 1
-    },
-    {
-      "title": "The Approach of Old Age and Death",
-      "startVerse": 2,
-      "endVerse": 7
-    },
-    {
-      "title": "All Is Vanity",
-      "startVerse": 8,
-      "endVerse": 8
-    },
-    {
-      "title": "The Preacher's Teachings and Epilogue",
-      "startVerse": 9,
-      "endVerse": 12
-    },
-    {
-      "title": "The Whole Duty of Man",
-      "startVerse": 13,
-      "endVerse": 14
     }
   ]
 }

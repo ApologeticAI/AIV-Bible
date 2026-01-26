@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 110,
   "verses": [
     {
       "pk": 23110001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 110,
       "verse": 1,
       "text": "The LORD says to my Lord: 'Sit at My right hand until I make Your enemies a footstool for Your feet.'",
       "links": "<a href='/AIV/40/22/44'>Matt. 22:44</a>; <a href='/AIV/41/12/36'>Mark 12:36</a>; <a href='/AIV/42/20/42-43'>Luke 20:42–43</a>; <a href='/AIV/58/1/13'>Heb. 1:13</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23110002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 110,
       "verse": 2,
       "text": "The LORD will extend Your mighty scepter from Zion, saying, 'Rule in the midst of Your enemies!'",
       "links": "<a href='/AIV/19/2/6-9'>Ps. 2:6-9</a>; <a href='/AIV/38/9/10'>Zech. 9:10</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23110003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 110,
       "verse": 3,
       "text": "Your people will offer themselves freely on the day of Your power, in holy splendor. From the womb of the dawn, You have the dew of Your youth.",
       "links": "<a href='/AIV/23/60/1-3'>Isa. 60:1-3</a>; <a href='/AIV/54/2/21'>1 Pet. 2:9</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23110004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 110,
       "verse": 4,
       "text": "The LORD has sworn and will not change His mind: 'You are a priest forever according to the order of Melchizedek.'",
       "links": "<a href='/AIV/01/14/18-20'>Gen. 14:18-20</a>; <a href='/AIV/58/5/6'>Heb. 5:6</a>; <a href='/AIV/58/7/17'>Heb. 7:17</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 23110005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 110,
       "verse": 5,
       "text": "The Lord at Your right hand will shatter kings on the day of His wrath.",
       "links": "<a href='/AIV/23/2/12'>Isa. 2:12</a>; <a href='/AIV/66/19/11-16'>Rev. 19:11-16</a>",
@@ -69,11 +46,6 @@
     },
     {
       "pk": 23110006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 110,
       "verse": 6,
       "text": "He will judge among the nations, filling them with corpses; He will shatter chiefs over the wide earth.",
       "links": "<a href='/AIV/23/66/16'>Isa. 66:16</a>; <a href='/AIV/66/19/17-21'>Rev. 19:17-21</a>",
@@ -81,33 +53,10 @@
     },
     {
       "pk": 23110007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 110,
       "verse": 7,
       "text": "He will drink from the brook by the way; therefore He will lift up His head.",
       "links": "<a href='/AIV/07/7/5-7'>Judg. 7:5-7</a>; <a href='/AIV/19/3/3'>Ps. 3:3</a>",
       "comment": "Drinking from the brook symbolizes refreshment and humble dependence even amid conquest. The Messiah’s 'lifting up His head' suggests exaltation through humility and trust in God. This points spiritually to Christ’s endurance and triumph—His willingness to enter into the suffering of humanity (Phil. 2:8-11), and His final glorification. There is also an implicit reference to leading the people with strength and confidence on the journey of faith."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:39:16.453Z",
-  "sections": [
-    {
-      "title": "The Messiah Enthroned at God's Right Hand",
-      "startVerse": 1,
-      "endVerse": 3
-    },
-    {
-      "title": "A Priest Forever According to Melchizedek",
-      "startVerse": 4,
-      "endVerse": 4
-    },
-    {
-      "title": "The Messiah's Triumphant Judgment",
-      "startVerse": 5,
-      "endVerse": 7
     }
   ]
 }

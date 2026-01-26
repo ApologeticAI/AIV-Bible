@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 108,
   "verses": [
     {
       "pk": 23108001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 108,
       "verse": 1,
       "text": "My heart is steadfast, O God; I will sing and make melody with all my soul.",
       "links": "<a href='/AIV/19/57/7'>Ps. 57:7</a>; <a href='/AIV/19/138/1'>Ps. 138:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23108002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 108,
       "verse": 2,
       "text": "Awake, harp and lyre! I will awaken the dawn.",
       "links": "<a href='/AIV/19/57/8'>Ps. 57:8</a>; <a href='/AIV/19/92/2'>Ps. 92:2</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23108003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 108,
       "verse": 3,
       "text": "I will thank you among the peoples, O LORD; I will sing praises to you among the nations.",
       "links": "<a href='/AIV/19/57/9'>Ps. 57:9</a>; <a href='/AIV/19/18/49'>Ps. 18:49</a>; <a href='/AIV/19/117/1'>Ps. 117:1</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23108004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 108,
       "verse": 4,
       "text": "For your steadfast love is greater than the heavens, and your faithfulness reaches to the clouds.",
       "links": "<a href='/AIV/19/57/10'>Ps. 57:10</a>; <a href='/AIV/19/36/5'>Ps. 36:5</a>; <a href='/AIV/19/103/11'>Ps. 103:11</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23108005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 108,
       "verse": 5,
       "text": "Rise above the heavens, O God, and let your glory cover all the earth.",
       "links": "<a href='/AIV/19/57/11'>Ps. 57:11</a>; <a href='/AIV/19/113/4'>Ps. 113:4</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23108006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 108,
       "verse": 6,
       "text": "So that your beloved ones may be saved; save with your right hand and answer me.",
       "links": "<a href='/AIV/19/60/5'>Ps. 60:5</a>; <a href='/AIV/19/17/7'>Ps. 17:7</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23108007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 108,
       "verse": 7,
       "text": "God has spoken in his holiness: 'I will divide up Shechem and measure off the Valley of Succoth.'",
       "links": "<a href='/AIV/19/60/6'>Ps. 60:6</a>; <a href='/AIV/06/17/7'>Josh. 17:7'>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 23108008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 108,
       "verse": 8,
       "text": "Gilead is mine, Manasseh is mine; Ephraim is my helmet, Judah my scepter.",
       "links": "<a href='/AIV/19/60/7'>Ps. 60:7</a>; <a href='/AIV/18/19/9'>Job 19:9</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 23108009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 108,
       "verse": 9,
       "text": "Moab is my washbasin; upon Edom I throw my sandal; over Philistia I shout in triumph.",
       "links": "<a href='/AIV/19/60/8'>Ps. 60:8</a>; <a href='/AIV/19/83/6'>Ps. 83:6</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 23108010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 108,
       "verse": 10,
       "text": "Who will bring me to the fortified city? Who will lead me to Edom?",
       "links": "<a href='/AIV/19/60/9'>Ps. 60:9</a>; <a href='/AIV/07/1/2'>Judg. 1:2</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 23108011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 108,
       "verse": 11,
       "text": "Have you not rejected us, O God? You do not go forth with our armies.",
       "links": "<a href='/AIV/19/44/9'>Ps. 44:9</a>; <a href='/AIV/19/74/1'>Ps. 74:1</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 23108012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 108,
       "verse": 12,
       "text": "Grant us help against the enemy, for the help of man is worthless.",
       "links": "<a href='/AIV/19/60/11'>Ps. 60:11</a>; <a href='/AIV/19/146/3'>Ps. 146:3</a>",
@@ -153,33 +95,10 @@
     },
     {
       "pk": 23108013,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 108,
       "verse": 13,
       "text": "With God we shall do valiantly; and he will tread down our enemies.",
       "links": "<a href='/AIV/19/60/12'>Ps. 60:12</a>; <a href='/AIV/03/26/7'>Lev. 26:7</a>",
       "comment": "Faith leads to victory through God’s action, not human power. The crushing of enemies is both a literal historic reference and a spiritual prophecy, fulfilled in Christ who defeats sin and death, and extends victory to all who belong to Him through the visible communion of the Church."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:38:30.949Z",
-  "sections": [
-    {
-      "title": "Praise and Thanksgiving to God",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "God’s Promise of Victory",
-      "startVerse": 7,
-      "endVerse": 9
-    },
-    {
-      "title": "Prayer for Deliverance and Confidence in God",
-      "startVerse": 10,
-      "endVerse": 13
     }
   ]
 }

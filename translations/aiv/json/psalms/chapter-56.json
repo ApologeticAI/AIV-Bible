@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 56,
   "verses": [
     {
       "pk": 23056001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 56,
       "verse": 1,
       "text": "Be gracious to me, O God, for people trample me; all day long they oppress me and fight against me.",
       "links": "<a href='/AIV/23/57/1'>Ps. 57:1</a>; <a href='/AIV/10/22/1'>2 Sam. 22:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23056002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 56,
       "verse": 2,
       "text": "My enemies trample me all day long, for many proudly fight against me.",
       "links": "<a href='/AIV/23/86/14'>Ps. 86:14</a>; <a href='/AIV/23/55/3'>Ps. 55:3</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23056003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 56,
       "verse": 3,
       "text": "When I am afraid, I put my trust in you.",
       "links": "<a href='/AIV/23/34/4'>Ps. 34:4</a>; <a href='/AIV/23/27/1'>Ps. 27:1</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 23056004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 56,
       "verse": 4,
       "text": "In God, whose word I praise—in God I trust and will not be afraid. What can mere flesh do to me?",
       "links": "<a href='/AIV/23/118/6'>Ps. 118:6</a>; <a href='/AIV/45/8/31'>Rom. 8:31</a>; <a href='/AIV/58/13/6'>Heb. 13:6</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 23056005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 56,
       "verse": 5,
       "text": "All day long they distort my words; all their thoughts are against me for evil.",
       "links": "<a href='/AIV/23/41/7'>Ps. 41:7</a>; <a href='/AIV/40/26/59'>Matt. 26:59</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 23056006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 56,
       "verse": 6,
       "text": "They gather together, they hide, they watch my steps, as they wait to take my life.",
       "links": "<a href='/AIV/23/10/8-10'>Ps. 10:8-10</a>; <a href='/AIV/40/26/4'>Matt. 26:4</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 23056007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 56,
       "verse": 7,
       "text": "Because of their wickedness, cast them down. O God, in your anger, bring down the peoples.",
       "links": "<a href='/AIV/23/35/8'>Ps. 35:8</a>; <a href='/AIV/19/7/6'>Ps. 7:6</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 23056008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 56,
       "verse": 8,
       "text": "You have counted my wanderings; put my tears into your bottle—are they not in your record?",
       "links": "<a href='/AIV/23/39/12'>Ps. 39:12</a>; <a href='/AIV/19/126/5'>Ps. 126:5</a>; <a href='/AIV/66/21/4'>Rev. 21:4</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 23056009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 56,
       "verse": 9,
       "text": "Then my enemies will turn back in the day I call. This I know: that God is for me.",
       "links": "<a href='/AIV/23/9/3'>Ps. 9:3</a>; <a href='/AIV/45/8/31'>Rom. 8:31</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 23056010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 56,
       "verse": 10,
       "text": "In God, whose word I praise, in the Lord, whose word I praise,",
       "links": "<a href='/AIV/23/119/11'>Ps. 119:11</a>; <a href='/AIV/43/17/17'>John 17:17</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 23056011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 56,
       "verse": 11,
       "text": "in God I trust; I will not be afraid. What can man do to me?",
       "links": "<a href='/AIV/23/27/3'>Ps. 27:3</a>; <a href='/AIV/40/10/28'>Matt. 10:28</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 23056012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 56,
       "verse": 12,
       "text": "I must perform my vows to you, O God; I will offer you thank offerings.",
       "links": "<a href='/AIV/23/50/14'>Ps. 50:14</a>; <a href='/AIV/23/22/25'>Ps. 22:25</a>",
@@ -153,33 +95,10 @@
     },
     {
       "pk": 23056013,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 56,
       "verse": 13,
       "text": "For you have delivered my soul from death, yes, my feet from falling, that I may walk before God in the light of life.",
       "links": "<a href='/AIV/23/49/15'>Ps. 49:15</a>; <a href='/AIV/43/8/12'>John 8:12</a>",
       "comment": "God’s deliverance points to resurrection hope—saved from death to walk before God. The ‘light of life’ anticipates Jesus’ claim, 'I am the light of the world' (John 8:12), uniting this Psalm to New Testament fulfillment. Walking before God suggests an ongoing, covenantal relationship, maintained through grace and faithful worship."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:18:16.642Z",
-  "sections": [
-    {
-      "title": "A Plea for Mercy Amid Persecution",
-      "startVerse": 1,
-      "endVerse": 2
-    },
-    {
-      "title": "Trust in God in Times of Fear",
-      "startVerse": 3,
-      "endVerse": 7
-    },
-    {
-      "title": "Deliverance and Thanksgiving to God",
-      "startVerse": 8,
-      "endVerse": 13
     }
   ]
 }

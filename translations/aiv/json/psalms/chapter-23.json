@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 23,
   "verses": [
     {
       "pk": 23023001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 23,
       "verse": 1,
       "text": "The LORD is my shepherd; I lack nothing.",
       "links": "<a href='/AIV/19/100/3'>Ps. 100:3</a>; <a href='/AIV/26/34/11'>Ezek. 34:11-16</a>; <a href='/AIV/43/10/11'>John 10:11</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23023002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 23,
       "verse": 2,
       "text": "He makes me lie down in green pastures; He leads me beside quiet waters.",
       "links": "<a href='/AIV/19/65/9-13'>Ps. 65:9-13</a>; <a href='/AIV/19/46/4'>Ps. 46:4</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23023003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 23,
       "verse": 3,
       "text": "He restores my soul. He leads me along paths of righteousness for His name’s sake.",
       "links": "<a href='/AIV/19/51/12'>Ps. 51:12</a>; <a href='/AIV/19/5/8'>Ps. 5:8</a>; <a href='/AIV/45/8/29'>Rom. 8:29</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23023004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 23,
       "verse": 4,
       "text": "Even though I walk through the valley of deep shadow, I will fear no evil, for You are with me; Your rod and Your staff, they comfort me.",
       "links": "<a href='/AIV/19/27/1'>Ps. 27:1</a>; <a href='/AIV/19/118/6'>Ps. 118:6</a>; <a href='/AIV/40/28/20'>Matt. 28:20</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 23023005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 23,
       "verse": 5,
       "text": "You prepare a table before me in the presence of my enemies; You anoint my head with oil; my cup overflows.",
       "links": "<a href='/AIV/19/92/10'>Ps. 92:10</a>; <a href='/AIV/42/22/30'>Luke 22:30</a>; <a href='/AIV/19/16/5'>Ps. 16:5</a>",
@@ -69,33 +46,10 @@
     },
     {
       "pk": 23023006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 23,
       "verse": 6,
       "text": "Surely goodness and steadfast love will pursue me all the days of my life, and I will dwell in the house of the LORD forever.",
       "links": "<a href='/AIV/19/27/4'>Ps. 27:4</a>; <a href='/AIV/19/73/23-26'>Ps. 73:23-26</a>; <a href='/AIV/43/14/2-3'>John 14:2-3</a>",
       "comment": "God’s goodness and steadfast love ('hesed') are relentlessly present for the believer, with pursuit suggesting an active, personal care. Dwelling in the house of the LORD points to eternal communion with God—a theme later fulfilled in Christ’s promise of a place prepared in His Father’s house (John 14:2-3), signaling both present spiritual fellowship and future hope in enduring union with God."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:06:16.250Z",
-  "sections": [
-    {
-      "title": "The Lord Is My Shepherd",
-      "startVerse": 1,
-      "endVerse": 3
-    },
-    {
-      "title": "Comfort in the Valley of Darkness",
-      "startVerse": 4,
-      "endVerse": 4
-    },
-    {
-      "title": "The Blessings of God’s House",
-      "startVerse": 5,
-      "endVerse": 6
     }
   ]
 }

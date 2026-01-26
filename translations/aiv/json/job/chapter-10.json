@@ -1,16 +1,13 @@
 {
-  "book": 22,
+  "translation": "AIV",
+  "bookId": "job",
   "bookName": "Job",
   "bookAbbreviation": "Job",
+  "bookNumber": 22,
   "chapter": 10,
   "verses": [
     {
       "pk": 22010001,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 10,
       "verse": 1,
       "text": "My soul is weary of my life; I will express my complaint freely; I will speak in the bitterness of my soul.",
       "links": "<a href='/AIV/18/7/11'>Job 7:11</a>; <a href='/AIV/19/42/9'>Ps. 42:9</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 22010002,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 10,
       "verse": 2,
       "text": "I will say to God, 'Do not condemn me; let me know why You contend with me.'",
       "links": "<a href='/AIV/18/7/16'>Job 7:16</a>; <a href='/AIV/18/13/23-24'>Job 13:23-24</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 22010003,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 10,
       "verse": 3,
       "text": "Does it please You to oppress, to reject the work of Your hands, and to shine upon the counsel of the wicked?",
       "links": "<a href='/AIV/18/14/15'>Job 14:15</a>; <a href='/AIV/18/34/17'>Job 34:17</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 22010004,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 10,
       "verse": 4,
       "text": "Do You have eyes of flesh? Or do You see as a man sees?",
       "links": "<a href='/AIV/4/23/19'>Num. 23:19</a>; <a href='/AIV/9/16/7'>1 Sam. 16:7</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 22010005,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 10,
       "verse": 5,
       "text": "Are Your days like the days of a mortal, or Your years like the years of a man,",
       "links": "<a href='/AIV/19/90/4'>Ps. 90:4</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 22010006,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 10,
       "verse": 6,
       "text": "that You search out my iniquity and seek out my sin,",
       "links": "<a href='/AIV/19/130/3'>Ps. 130:3</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 22010007,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 10,
       "verse": 7,
       "text": "although You know that I am not guilty, and that there is none who can deliver out of Your hand?",
       "links": "<a href='/AIV/18/9/12'>Job 9:12</a>; <a href='/AIV/43/10/28-29'>John 10:28-29</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 22010008,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 10,
       "verse": 8,
       "text": "Your hands shaped me and made me; yet now You destroy me completely.",
       "links": "<a href='/AIV/1/2/7'>Gen. 2:7</a>; <a href='/AIV/19/139/13'>Ps. 139:13</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 22010009,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 10,
       "verse": 9,
       "text": "Remember that You made me like clay, and will You return me to the dust again?",
       "links": "<a href='/AIV/1/3/19'>Gen. 3:19</a>; <a href='/AIV/19/103/14'>Ps. 103:14</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 22010010,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 10,
       "verse": 10,
       "text": "Did You not pour me out like milk, and curdle me like cheese?",
       "links": "<a href='/AIV/19/71/6'>Ps. 71:6</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 22010011,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 10,
       "verse": 11,
       "text": "You clothed me with skin and flesh, and knit me together with bones and sinews.",
       "links": "<a href='/AIV/19/139/13-15'>Ps. 139:13-15</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 22010012,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 10,
       "verse": 12,
       "text": "You have granted me life and steadfast love, and Your care has preserved my spirit.",
       "links": "<a href='/AIV/19/36/9'>Ps. 36:9</a>; <a href='/AIV/19/63/3'>Ps. 63:3</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 22010013,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 10,
       "verse": 13,
       "text": "Yet these things You hid in Your heart; I know that this was within You:",
       "links": "<a href='/AIV/18/23/14'>Job 23:14</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 22010014,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 10,
       "verse": 14,
       "text": "If I sin, You watch me and will not acquit me of my guilt.",
       "links": "<a href='/AIV/18/7/20'>Job 7:20-21</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 22010015,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 10,
       "verse": 15,
       "text": "If I am guilty, woe to me! If I am righteous, still I cannot lift up my head, for I am full of disgrace and see my affliction.",
       "links": "<a href='/AIV/19/40/12'>Ps. 40:12</a>; <a href='/AIV/19/51/3'>Ps. 51:3</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 22010016,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 10,
       "verse": 16,
       "text": "If my head is held high, You hunt me like a lion and again display Your power against me.",
       "links": "<a href='/AIV/19/17/12'>Ps. 17:12</a>; <a href='/AIV/19/22/13'>Ps. 22:13</a>",
@@ -200,11 +122,6 @@
     },
     {
       "pk": 22010017,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 10,
       "verse": 17,
       "text": "You renew Your witnesses against me, and increase Your anger toward me; hardship after hardship comes upon me.",
       "links": "<a href='/AIV/18/9/17'>Job 9:17</a>",
@@ -212,11 +129,6 @@
     },
     {
       "pk": 22010018,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 10,
       "verse": 18,
       "text": "Why then did You bring me out of the womb? I wish I had died before any eye had seen me,",
       "links": "<a href='/AIV/18/3/11'>Job 3:11</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 22010019,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 10,
       "verse": 19,
       "text": "as though I had never existed, carried straight from the womb to the grave.",
       "links": "<a href='/AIV/19/22/9-10'>Ps. 22:9-10</a>",
@@ -237,11 +144,6 @@
     },
     {
       "pk": 22010020,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 10,
       "verse": 20,
       "text": "Are not my days few? Cease, and let me alone, that I may find a little comfort",
       "links": "<a href='/AIV/18/7/16'>Job 7:16</a>",
@@ -249,11 +151,6 @@
     },
     {
       "pk": 22010021,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 10,
       "verse": 21,
       "text": "before I go—never to return— to the land of darkness and deep shadow,",
       "links": "<a href='/AIV/19/88/12'>Ps. 88:12</a>; <a href='/AIV/23/9/2'>Isa. 9:2</a>",
@@ -261,33 +158,10 @@
     },
     {
       "pk": 22010022,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 10,
       "verse": 22,
       "text": "a land of thick darkness, as deep shadow and confusion, where even the light is like darkness.",
       "links": "<a href='/AIV/19/143/3'>Ps. 143:3</a>",
       "comment": "The ancient Jewish concept of Sheol is bleak, yet the later hope of resurrection and eternal light in God reveals the fullness of salvation history."
-    }
-  ],
-  "translatedAt": "2025-12-24T05:43:57.001Z",
-  "sections": [
-    {
-      "title": "Job’s Bitter Complaint to God",
-      "startVerse": 1,
-      "endVerse": 7
-    },
-    {
-      "title": "Job Remembers God’s Creating Hand",
-      "startVerse": 8,
-      "endVerse": 17
-    },
-    {
-      "title": "Job Laments His Birth and Pleads for Rest",
-      "startVerse": 18,
-      "endVerse": 22
     }
   ]
 }

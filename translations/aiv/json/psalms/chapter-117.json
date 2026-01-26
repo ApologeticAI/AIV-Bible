@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 117,
   "verses": [
     {
       "pk": 23117001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 117,
       "verse": 1,
       "text": "Praise the LORD, all you nations; extol Him, all you peoples!",
       "links": "<a href='/AIV/19/66/8'>Ps. 66:8</a>; <a href='/AIV/19/100/1'>Ps. 100:1</a>; <a href='/AIV/45/15/11'>Rom. 15:11</a>",
@@ -19,23 +16,10 @@
     },
     {
       "pk": 23117002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 117,
       "verse": 2,
       "text": "For His steadfast love is mighty toward us, and the faithfulness of the LORD endures forever. Praise the LORD!",
       "links": "<a href='/AIV/19/100/5'>Ps. 100:5</a>; <a href='/AIV/19/118/1'>Ps. 118:1</a>; <a href='/AIV/19/136/1'>Ps. 136:1</a>",
       "comment": "This verse gives the reason for universal praise: God's steadfast love (Hebrew: hesed) and enduring faithfulness. 'Toward us' includes not only Israel but, by extension from verse 1, all who believe in His covenant promises. The fullness of this steadfast love is ultimately revealed in Jesus Christ (see John 3:16; Rom. 5:8), inviting all into God's family through His faithfulness. The repeated call to praise shows that worship is a perpetual response to God's loving and faithful nature—a worship that ideally unites all believers in one voice, in a bond that is both visible and spiritual (cf. Eph. 4:4-6)."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:40:57.867Z",
-  "sections": [
-    {
-      "title": "Universal Call to Praise",
-      "startVerse": 1,
-      "endVerse": 2
     }
   ]
 }

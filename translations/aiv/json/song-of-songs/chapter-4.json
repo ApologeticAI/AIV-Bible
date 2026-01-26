@@ -1,16 +1,13 @@
 {
-  "book": 26,
+  "translation": "AIV",
+  "bookId": "song-of-songs",
   "bookName": "Song of Songs",
   "bookAbbreviation": "Song",
+  "bookNumber": 26,
   "chapter": 4,
   "verses": [
     {
       "pk": 26004001,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 4,
       "verse": 1,
       "text": "See, you are beautiful, my love; you are beautiful! Your eyes are like doves behind your veil. Your hair is like a flock of goats streaming down from Mount Gilead.",
       "links": "<a href='/AIV/19/68/15'>Ps. 68:15</a>; <a href='/AIV/22/1/15'>Song 1:15</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 26004002,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 4,
       "verse": 2,
       "text": "Your teeth are like a flock of newly shorn sheep coming up from the washing, each bearing twins, not one among them is bereaved.",
       "links": "<a href='/AIV/22/6/6'>Song 6:6</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 26004003,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 4,
       "verse": 3,
       "text": "Your lips are like a scarlet thread, and your mouth is lovely. Your cheeks behind your veil are like slices of pomegranate.",
       "links": "<a href='/AIV/22/6/7'>Song 6:7</a>; <a href='/AIV/19/45/2'>Ps. 45:2</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 26004004,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 4,
       "verse": 4,
       "text": "Your neck is like the tower of David, built with courses of stone; on it hang a thousand shields, all shields of mighty men.",
       "links": "<a href='/AIV/22/7/4'>Song 7:4</a>; <a href='/AIV/10/5/7'>2 Sam. 5:7</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 26004005,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 4,
       "verse": 5,
       "text": "Your two breasts are like two fawns, twins of a gazelle grazing among the lilies.",
       "links": "<a href='/AIV/22/7/3'>Song 7:3</a>; <a href='/AIV/22/2/16'>Song 2:16</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 26004006,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 4,
       "verse": 6,
       "text": "Until the day breathes and the shadows flee, I will go to the mountain of myrrh and to the hill of frankincense.",
       "links": "<a href='/AIV/22/2/17'>Song 2:17</a>; <a href='/AIV/40/2/11'>Matt. 2:11</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 26004007,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 4,
       "verse": 7,
       "text": "You are altogether beautiful, my love; there is no flaw in you.",
       "links": "<a href='/AIV/49/5/27'>Eph. 5:27</a>; <a href='/AIV/22/6/9'>Song 6:9</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 26004008,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 4,
       "verse": 8,
       "text": "Come with me from Lebanon, my bride, come with me from Lebanon. Depart from the peak of Amana, from the peak of Senir and Hermon, from the dens of lions, from the mountains of leopards.",
       "links": "<a href='/AIV/22/5/1'>Song 5:1</a>; <a href='/AIV/10/23/3'>2 Sam. 23:3</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 26004009,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 4,
       "verse": 9,
       "text": "You have captivated my heart, my sister, my bride; you have captivated my heart with a single glance of your eyes, with a single strand of your necklace.",
       "links": "<a href='/AIV/22/5/2'>Song 5:2</a>; <a href='/AIV/19/45/11'>Ps. 45:11</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 26004010,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 4,
       "verse": 10,
       "text": "How delightful is your love, my sister, my bride! How much better than wine is your love, and the fragrance of your ointments surpasses all spices.",
       "links": "<a href='/AIV/22/1/2'>Song 1:2</a>; <a href='/AIV/19/104/15'>Ps. 104:15</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 26004011,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 4,
       "verse": 11,
       "text": "Your lips drip honey, my bride; honey and milk are under your tongue. The scent of your garments is like the fragrance of Lebanon.",
       "links": "<a href='/AIV/22/5/13'>Song 5:13</a>; <a href='/AIV/20/16/24'>Prov. 16:24</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 26004012,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 4,
       "verse": 12,
       "text": "A garden locked is my sister, my bride, a spring locked, a fountain sealed.",
       "links": "<a href='/AIV/22/4/15'>Song 4:15</a>; <a href='/AIV/22/8/10'>Song 8:10</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 26004013,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 4,
       "verse": 13,
       "text": "Your sprays are an orchard of pomegranates with precious fruits: henna and nard,",
       "links": "<a href='/AIV/22/6/11'>Song 6:11</a>; <a href='/AIV/22/1/14'>Song 1:14</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 26004014,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 4,
       "verse": 14,
       "text": "nard and saffron, calamus and cinnamon, with all trees of frankincense, myrrh and aloes, with all the finest spices.",
       "links": "<a href='/AIV/02/30/23'>Ex. 30:23</a>; <a href='/AIV/40/2/11'>Matt. 2:11</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 26004015,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 4,
       "verse": 15,
       "text": "A garden fountain, a well of living water, flowing from Lebanon.",
       "links": "<a href='/AIV/43/4/14'>John 4:14</a>; <a href='/AIV/41/7/37'>John 7:37</a>",
@@ -189,39 +116,11 @@
     },
     {
       "pk": 26004016,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 4,
       "verse": 16,
       "text": "Awake, north wind, and come, south wind! Blow upon my garden, let its spices flow. Let my beloved come to his garden, and eat its choicest fruits.",
       "links": "<a href='/AIV/22/2/3'>Song 2:3</a>; <a href='/AIV/19/67/6'>Ps. 67:6</a>",
       "comment": "The call for winds to awaken the garden symbolizes the action of the Spirit stirring the soul. The union between the beloved and the garden portrays profound communion, both individually and corporately within the Church as the mystical body of Christ, drawing believers into deeper sacramental life and spiritual intimacy.",
       "sectionHeader": "The Bride Invites the Bridegroom"
-    }
-  ],
-  "translatedAt": "2025-12-24T07:13:06.525Z",
-  "sections": [
-    {
-      "title": "The Bridegroom Praises the Bride's Beauty",
-      "startVerse": 1,
-      "endVerse": 7
-    },
-    {
-      "title": "Invitation to the Bride",
-      "startVerse": 8,
-      "endVerse": 11
-    },
-    {
-      "title": "The Bride Compared to a Locked Garden",
-      "startVerse": 12,
-      "endVerse": 15
-    },
-    {
-      "title": "The Bride Invites the Bridegroom",
-      "startVerse": 16,
-      "endVerse": 16
     }
   ]
 }

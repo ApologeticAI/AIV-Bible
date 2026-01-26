@@ -1,16 +1,13 @@
 {
-  "book": 66,
+  "translation": "AIV",
+  "bookId": "james",
   "bookName": "James",
   "bookAbbreviation": "Jas",
+  "bookNumber": 66,
   "chapter": 3,
   "verses": [
     {
       "pk": 66003001,
-      "translation": "AIV",
-      "book": 66,
-      "bookName": "James",
-      "bookAbbreviation": "Jas",
-      "chapter": 3,
       "verse": 1,
       "text": "Not many of you should become teachers, my brothers, for you know that we who teach will be judged more strictly.",
       "links": "<a href='/AIV/40/23/8'>Matt. 23:8</a>; <a href='/AIV/45/2/21'>Rom. 2:21</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 66003002,
-      "translation": "AIV",
-      "book": 66,
-      "bookName": "James",
-      "bookAbbreviation": "Jas",
-      "chapter": 3,
       "verse": 2,
       "text": "For we all stumble in many ways. If anyone does not stumble in what he says, he is a perfect man, able to control his whole body as well.",
       "links": "<a href='/AIV/20/10/19'>Prov. 10:19</a>; <a href='/AIV/40/5/48'>Matt. 5:48</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 66003003,
-      "translation": "AIV",
-      "book": 66,
-      "bookName": "James",
-      "bookAbbreviation": "Jas",
-      "chapter": 3,
       "verse": 3,
       "text": "Now if we put bits into the mouths of horses so that they obey us, we guide their whole bodies as well.",
       "links": "<a href='/AIV/19/32/9'>Ps. 32:9</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 66003004,
-      "translation": "AIV",
-      "book": 66,
-      "bookName": "James",
-      "bookAbbreviation": "Jas",
-      "chapter": 3,
       "verse": 4,
       "text": "Look at the ships also: though they are so large and driven by strong winds, they are guided by a very small rudder wherever the will of the pilot directs.",
       "links": "<a href='/AIV/44/27/41'>Acts 27:41</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 66003005,
-      "translation": "AIV",
-      "book": 66,
-      "bookName": "James",
-      "bookAbbreviation": "Jas",
-      "chapter": 3,
       "verse": 5,
       "text": "So likewise the tongue is a small part of the body, yet it makes great boasts. See how a great forest is set ablaze by a very small fire!",
       "links": "<a href='/AIV/20/16/27'>Prov. 16:27</a>; <a href='/AIV/19/39/1'>Ps. 39:1</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 66003006,
-      "translation": "AIV",
-      "book": 66,
-      "bookName": "James",
-      "bookAbbreviation": "Jas",
-      "chapter": 3,
       "verse": 6,
       "text": "And the tongue is a fire, a world of unrighteousness among our members, staining the whole body, setting the entire course of life on fire, and set on fire by hell itself.",
       "links": "<a href='/AIV/19/120/2-3'>Ps. 120:2-3</a>; <a href='/AIV/40/5/22'>Matt. 5:22</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 66003007,
-      "translation": "AIV",
-      "book": 66,
-      "bookName": "James",
-      "bookAbbreviation": "Jas",
-      "chapter": 3,
       "verse": 7,
       "text": "For every kind of beast and bird, of reptile and sea creature, can be tamed and has been tamed by mankind,",
       "links": "<a href='/AIV/01/1/26'>Gen. 1:26</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 66003008,
-      "translation": "AIV",
-      "book": 66,
-      "bookName": "James",
-      "bookAbbreviation": "Jas",
-      "chapter": 3,
       "verse": 8,
       "text": "But no one can tame the tongue. It is a restless evil, full of deadly poison.",
       "links": "<a href='/AIV/19/140/3'>Ps. 140:3</a>; <a href='/AIV/45/3/13-14'>Rom. 3:13-14</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 66003009,
-      "translation": "AIV",
-      "book": 66,
-      "bookName": "James",
-      "bookAbbreviation": "Jas",
-      "chapter": 3,
       "verse": 9,
       "text": "With it we bless our Lord and Father, and with it we curse people who are made in God’s likeness.",
       "links": "<a href='/AIV/01/1/27'>Gen. 1:27</a>; <a href='/AIV/40/5/44'>Matt. 5:44</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 66003010,
-      "translation": "AIV",
-      "book": 66,
-      "bookName": "James",
-      "bookAbbreviation": "Jas",
-      "chapter": 3,
       "verse": 10,
       "text": "From the same mouth come blessing and cursing. My brothers, these things ought not to be so.",
       "links": "<a href='/AIV/20/18/21'>Prov. 18:21</a>",
@@ -127,11 +79,6 @@
     },
     {
       "pk": 66003011,
-      "translation": "AIV",
-      "book": 66,
-      "bookName": "James",
-      "bookAbbreviation": "Jas",
-      "chapter": 3,
       "verse": 11,
       "text": "Does a spring pour forth from the same opening both fresh water and bitter water?",
       "links": "<a href='/AIV/02/15/23-25'>Ex. 15:23-25</a>",
@@ -139,11 +86,6 @@
     },
     {
       "pk": 66003012,
-      "translation": "AIV",
-      "book": 66,
-      "bookName": "James",
-      "bookAbbreviation": "Jas",
-      "chapter": 3,
       "verse": 12,
       "text": "Can a fig tree, my brothers, bear olives, or a grapevine produce figs? Neither can a salt spring yield fresh water.",
       "links": "<a href='/AIV/40/7/16-18'>Matt. 7:16-18</a>",
@@ -151,11 +93,6 @@
     },
     {
       "pk": 66003013,
-      "translation": "AIV",
-      "book": 66,
-      "bookName": "James",
-      "bookAbbreviation": "Jas",
-      "chapter": 3,
       "verse": 13,
       "text": "Who is wise and understanding among you? Let him show by his good conduct that his works are done in the gentleness that comes from wisdom.",
       "links": "<a href='/AIV/40/5/5'>Matt. 5:5</a>; <a href='/AIV/20/3/13'>Prov. 3:13</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 66003014,
-      "translation": "AIV",
-      "book": 66,
-      "bookName": "James",
-      "bookAbbreviation": "Jas",
-      "chapter": 3,
       "verse": 14,
       "text": "But if you have bitter jealousy and selfish ambition in your hearts, do not brag and lie against the truth.",
       "links": "<a href='/AIV/20/14/30'>Prov. 14:30</a>; <a href='/AIV/48/5/20'>Gal. 5:20</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 66003015,
-      "translation": "AIV",
-      "book": 66,
-      "bookName": "James",
-      "bookAbbreviation": "Jas",
-      "chapter": 3,
       "verse": 15,
       "text": "Such wisdom does not come from above but is earthly, unspiritual, and demonic.",
       "links": "<a href='/AIV/46/2/6'>1 Cor. 2:6</a>; <a href='/AIV/40/16/23'>Matt. 16:23</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 66003016,
-      "translation": "AIV",
-      "book": 66,
-      "bookName": "James",
-      "bookAbbreviation": "Jas",
-      "chapter": 3,
       "verse": 16,
       "text": "For where jealousy and selfish ambition exist, there will be disorder and every kind of evil practice.",
       "links": "<a href='/AIV/46/14/33'>1 Cor. 14:33</a>",
@@ -200,11 +122,6 @@
     },
     {
       "pk": 66003017,
-      "translation": "AIV",
-      "book": 66,
-      "bookName": "James",
-      "bookAbbreviation": "Jas",
-      "chapter": 3,
       "verse": 17,
       "text": "But the wisdom from above is first pure, then peaceable, gentle, open to reason, full of mercy and good fruits, impartial and sincere.",
       "links": "<a href='/AIV/40/5/7-9'>Matt. 5:7-9</a>; <a href='/AIV/50/1/10-11'>Phil. 1:10-11</a>",
@@ -212,28 +129,10 @@
     },
     {
       "pk": 66003018,
-      "translation": "AIV",
-      "book": 66,
-      "bookName": "James",
-      "bookAbbreviation": "Jas",
-      "chapter": 3,
       "verse": 18,
       "text": "And a harvest of righteousness is sown in peace by those who make peace.",
       "links": "<a href='/AIV/19/37/37'>Ps. 37:37</a>; <a href='/AIV/40/5/9'>Matt. 5:9</a>",
       "comment": "James concludes that righteousness flourishes through peacemaking—reflecting Christ, the ultimate peacemaker (Matt. 5:9). The call to sow peace implies active work in building unity within the community, a major theme in apostolic teaching."
-    }
-  ],
-  "translatedAt": "2025-12-24T12:25:21.203Z",
-  "sections": [
-    {
-      "title": "The Power of the Tongue",
-      "startVerse": 1,
-      "endVerse": 12
-    },
-    {
-      "title": "Two Kinds of Wisdom",
-      "startVerse": 13,
-      "endVerse": 18
     }
   ]
 }

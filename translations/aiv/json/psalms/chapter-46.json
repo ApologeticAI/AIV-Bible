@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 46,
   "verses": [
     {
       "pk": 23046001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 46,
       "verse": 1,
       "text": "God is our refuge and strength, a help always found in times of trouble.",
       "links": "<a href='/AIV/19/18/2'>Ps. 18:2</a>; <a href='/AIV/19/91/2'>Ps. 91:2</a>; <a href='/AIV/58/4/16'>Heb. 4:16</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23046002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 46,
       "verse": 2,
       "text": "Therefore we will not fear, though the earth shakes and the mountains fall into the heart of the sea;",
       "links": "<a href='/AIV/19/125/1-2'>Ps. 125:1-2</a>; <a href='/AIV/40/24/7'>Matt. 24:7</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23046003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 46,
       "verse": 3,
       "text": "though its waters roar and foam, and the mountains tremble at its surge. Selah.",
       "links": "<a href='/AIV/19/93/3-4'>Ps. 93:3-4</a>; <a href='/AIV/19/104/7'>Ps. 104:7</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23046004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 46,
       "verse": 4,
       "text": "There is a river whose streams make glad the city of God, the holy dwelling place of the Most High.",
       "links": "<a href='/AIV/19/36/8'>Ps. 36:8</a>; <a href='/AIV/26/47/1-12'>Ezek. 47:1-12</a>; <a href='/AIV/66/22/1-2'>Rev. 22:1-2</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 23046005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 46,
       "verse": 5,
       "text": "God is in her midst; she will not be shaken. God will help her when morning dawns.",
       "links": "<a href='/AIV/19/48/1-8'>Ps. 48:1-8</a>; <a href='/AIV/25/3/23'>Lam. 3:23</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 23046006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 46,
       "verse": 6,
       "text": "The nations roar, kingdoms totter; he lifts his voice, the earth melts.",
       "links": "<a href='/AIV/19/2/1-5'>Ps. 2:1-5</a>; <a href='/AIV/66/19/15'>Rev. 19:15</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 23046007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 46,
       "verse": 7,
       "text": "The Lord of hosts is with us; the God of Jacob is our stronghold. Selah.",
       "links": "<a href='/AIV/19/24/10'>Ps. 24:10</a>; <a href='/AIV/19/91/9'>Ps. 91:9</a>; <a href='/AIV/40/1/23'>Matt. 1:23</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 23046008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 46,
       "verse": 8,
       "text": "Come, behold the works of the Lord, who has brought desolations upon the earth.",
       "links": "<a href='/AIV/19/66/5'>Ps. 66:5</a>; <a href='/AIV/19/74/12-17'>Ps. 74:12-17</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 23046009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 46,
       "verse": 9,
       "text": "He makes wars cease to the end of the earth. He breaks the bow and shatters the spear; he burns the shields with fire.",
       "links": "<a href='/AIV/23/2/4'>Isa. 2:4</a>; <a href='/AIV/33/4/3'>Mic. 4:3</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 23046010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 46,
       "verse": 10,
       "text": "\"Be still, and know that I am God. I will be exalted among the nations, I will be exalted in the earth.\"",
       "links": "<a href='/AIV/19/100/3'>Ps. 100:3</a>; <a href='/AIV/43/8/58'>John 8:58</a>",
@@ -130,38 +82,10 @@
     },
     {
       "pk": 23046011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 46,
       "verse": 11,
       "text": "The Lord of hosts is with us; the God of Jacob is our stronghold. Selah.",
       "links": "<a href='/AIV/19/46/7'>Ps. 46:7</a>; <a href='/AIV/19/23/4'>Ps. 23:4</a>",
       "comment": "A repetition for emphasis, affirming God's abiding presence from generation to generation. The refrain encourages believers to find refuge in the Lord, recalling God's personal covenant, and calls to mind Christ's promise of eternal presence amidst His gathered flock."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:14:36.097Z",
-  "sections": [
-    {
-      "title": "God Our Refuge and Strength",
-      "startVerse": 1,
-      "endVerse": 3
-    },
-    {
-      "title": "The City of God Secure",
-      "startVerse": 4,
-      "endVerse": 7
-    },
-    {
-      "title": "God’s Power Over the Nations",
-      "startVerse": 8,
-      "endVerse": 9
-    },
-    {
-      "title": "Be Still and Know God",
-      "startVerse": 10,
-      "endVerse": 11
     }
   ]
 }

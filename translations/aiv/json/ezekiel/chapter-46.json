@@ -1,16 +1,13 @@
 {
-  "book": 33,
+  "translation": "AIV",
+  "bookId": "ezekiel",
   "bookName": "Ezekiel",
   "bookAbbreviation": "Ezek",
+  "bookNumber": 33,
   "chapter": 46,
   "verses": [
     {
       "pk": 33046001,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 46,
       "verse": 1,
       "text": "This is what the Lord GOD says: The gate of the inner court facing east must remain shut during the six workdays. But on the Sabbath day and on the day of the new moon, it shall be opened.",
       "links": "<a href='/AIV/4/28/11'>Num. 28:11</a>; <a href='/AIV/23/66/23'>Isa. 66:23</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 33046002,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 46,
       "verse": 2,
       "text": "The prince shall enter through the portico of the gateway from outside and stand by the post of the gateway. The priests will prepare his burnt offering and his peace offerings, and he shall worship at the threshold of the gate and then go out. The gate will not be shut until evening.",
       "links": "<a href='/AIV/26/44/3'>Ezek. 44:3</a>; <a href='/AIV/19/118/19-20'>Ps. 118:19-20</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 33046003,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 46,
       "verse": 3,
       "text": "The people of the land shall also worship at the entrance of that gate before the LORD on Sabbaths and new moons.",
       "links": "<a href='/AIV/2/20/8-10'>Ex. 20:8-10</a>; <a href='/AIV/23/66/23'>Isa. 66:23</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 33046004,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 46,
       "verse": 4,
       "text": "The burnt offering the prince shall bring to the LORD on the Sabbath day shall be six male lambs without blemish and a ram without blemish.",
       "links": "<a href='/AIV/3/1/10'>Lev. 1:10</a>; <a href='/AIV/4/28/9'>Num. 28:9</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 33046005,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 46,
       "verse": 5,
       "text": "And the grain offering shall be one ephah with the ram, and with the lambs as much as he is able to give, and a hin of oil with each ephah.",
       "links": "<a href='/AIV/3/2/1-2'>Lev. 2:1-2</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 33046006,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 46,
       "verse": 6,
       "text": "And on the day of the new moon, he shall offer a young bull without blemish, six male lambs, and a ram—they shall be without blemish.",
       "links": "<a href='/AIV/4/28/11'>Num. 28:11</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 33046007,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 46,
       "verse": 7,
       "text": "With the bull he shall offer an ephah and with each ram an ephah for a grain offering, and as much as he is able with the lambs, and a hin of oil with each ephah.",
       "links": "<a href='/AIV/4/15/4-5'>Num. 15:4-5</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 33046008,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 46,
       "verse": 8,
       "text": "When the prince enters, he shall come in by way of the porch of the gate, and go out by the same way.",
       "links": "<a href='/AIV/26/44/3'>Ezek. 44:3</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 33046009,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 46,
       "verse": 9,
       "text": "When the people of the land come before the LORD at the appointed feasts, whoever enters by the north gate to worship must go out by the south gate, and whoever enters by the south gate must go out by the north gate. No one shall return by the way of the gate by which he entered, but each shall go out straight ahead.",
       "links": "<a href='/AIV/2/23/14-17'>Ex. 23:14-17</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 33046010,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 46,
       "verse": 10,
       "text": "The prince shall be in the midst of them. When they come in, he shall come in, and when they go out, he shall go out.",
       "links": "<a href='/AIV/26/34/24'>Ezek. 34:24</a>; <a href='/AIV/43/1/14'>John 1:14</a>",
@@ -127,11 +79,6 @@
     },
     {
       "pk": 33046011,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 46,
       "verse": 11,
       "text": "At the feasts and the appointed festivals, the grain offering with a young bull shall be an ephah; with a ram, an ephah; and with the lambs, as much as he is able, and with each ephah a hin of oil.",
       "links": "<a href='/AIV/3/23/1-4'>Lev. 23:1-4</a>",
@@ -139,11 +86,6 @@
     },
     {
       "pk": 33046012,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 46,
       "verse": 12,
       "text": "When the prince prepares a freewill burnt offering or peace offerings as a freewill offering to the LORD, the gate facing east shall be opened for him, and he shall offer his burnt offering and his peace offerings as he does on the Sabbath day. Then he shall go out, and after he goes out, the gate will be shut.",
       "links": "<a href='/AIV/3/7/16'>Lev. 7:16</a>",
@@ -151,11 +93,6 @@
     },
     {
       "pk": 33046013,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 46,
       "verse": 13,
       "text": "You must provide a year-old male lamb without blemish as a daily burnt offering to the LORD; you must provide it every morning.",
       "links": "<a href='/AIV/2/29/38-42'>Ex. 29:38-42</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 33046014,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 46,
       "verse": 14,
       "text": "You shall also provide a grain offering with it morning by morning, a sixth of an ephah with a third of a hin of oil, to moisten the fine flour—a grain offering to the LORD; this is a perpetual ordinance.",
       "links": "<a href='/AIV/4/28/3-8'>Num. 28:3-8</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 33046015,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 46,
       "verse": 15,
       "text": "Thus they shall provide the lamb, the grain offering, and the oil, morning by morning, as a regular burnt offering.",
       "links": "<a href='/AIV/3/6/20'>Lev. 6:20</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 33046016,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 46,
       "verse": 16,
       "text": "This is what the Lord GOD says: If the prince gives a gift out of his inheritance to any of his sons, it is to belong to his sons; it is their possession by inheritance.",
       "links": "<a href='/AIV/3/25/46'>Lev. 25:46</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 33046017,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 46,
       "verse": 17,
       "text": "But if he gives a gift from his inheritance to one of his servants, it will be his until the year of freedom; then it shall return to the prince. Only his inheritance may go to his sons.",
       "links": "<a href='/AIV/3/25/10-13'>Lev. 25:10-13</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 33046018,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 46,
       "verse": 18,
       "text": "The prince must not take any of the people's inheritance by oppression, thrusting them out of their property; he must give his sons inheritance from his own property, so that none of my people will be separated from his property.'",
       "links": "<a href='/AIV/4/36/7'>Num. 36:7</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 33046019,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 46,
       "verse": 19,
       "text": "Then he brought me through the entrance, which was at the side of the gate, to the holy chambers for the priests, which faced north. And there was a place at the far west end.",
       "links": "<a href='/AIV/26/42/13'>Ezek. 42:13</a>",
@@ -238,11 +145,6 @@
     },
     {
       "pk": 33046020,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 46,
       "verse": 20,
       "text": "He said to me, 'This is the place where the priests shall boil the guilt offering and the sin offering, and where they shall bake the grain offering, so that they do not have to bring them out into the outer court and so transmit holiness to the people.'",
       "links": "<a href='/AIV/3/6/25-29'>Lev. 6:25-29</a>",
@@ -250,11 +152,6 @@
     },
     {
       "pk": 33046021,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 46,
       "verse": 21,
       "text": "Then he brought me out to the outer court and led me to the four corners of the court; in each corner of the court there was an enclosed court.",
       "links": "<a href='/AIV/26/42/17-20'>Ezek. 42:17-20</a>",
@@ -262,11 +159,6 @@
     },
     {
       "pk": 33046022,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 46,
       "verse": 22,
       "text": "In the four corners of the court were enclosed courts, forty cubits long and thirty wide; all four corners had the same dimensions.",
       "links": "<a href='/AIV/26/42/15-20'>Ezek. 42:15-20</a>",
@@ -274,11 +166,6 @@
     },
     {
       "pk": 33046023,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 46,
       "verse": 23,
       "text": "There was a row of masonry around in them, around the four, and boiling places were made under the rows round about.",
       "links": "<a href='/AIV/26/40/43'>Ezek. 40:43</a>",
@@ -286,38 +173,10 @@
     },
     {
       "pk": 33046024,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 46,
       "verse": 24,
       "text": "Then he said to me, 'These are the places where those who serve the temple shall boil the sacrifices of the people.'",
       "links": "<a href='/AIV/3/8/31'>Lev. 8:31</a>",
       "comment": "The temple servants preparing sacrifices for the people highlights the mediation necessary for worship and anticipates the ministry of ordained ministers within the New Covenant. This continuity points to the perpetual pattern of God establishing sacred servants for holy offerings."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:25:29.033Z",
-  "sections": [
-    {
-      "title": "The Prince and Worship at the East Gate",
-      "startVerse": 1,
-      "endVerse": 12
-    },
-    {
-      "title": "Daily Burnt Offering",
-      "startVerse": 13,
-      "endVerse": 15
-    },
-    {
-      "title": "The Prince's Inheritance",
-      "startVerse": 16,
-      "endVerse": 18
-    },
-    {
-      "title": "Chambers for Priestly Offerings",
-      "startVerse": 19,
-      "endVerse": 24
     }
   ]
 }

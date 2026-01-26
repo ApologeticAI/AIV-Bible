@@ -1,16 +1,13 @@
 {
-  "book": 25,
+  "translation": "AIV",
+  "bookId": "ecclesiastes",
   "bookName": "Ecclesiastes",
   "bookAbbreviation": "Eccl",
+  "bookNumber": 25,
   "chapter": 9,
   "verses": [
     {
       "pk": 25009001,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 9,
       "verse": 1,
       "text": "But I considered all this in my heart, and concluded that the righteous and the wise and their works are in God’s hand. People do not know whether love or hatred awaits them; all is before them.",
       "links": "<a href='/AIV/19/31/15'>Ps. 31:15</a>; <a href='/AIV/20/16/9'>Prov. 16:9</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 25009002,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 9,
       "verse": 2,
       "text": "One fate comes to all: to the righteous and to the wicked, to the good and to the evil, to the clean and to the unclean, to those who offer sacrifices and to those who do not. As with the good, so with the sinner; as with the one who swears, so with the one who fears swearing.",
       "links": "<a href='/AIV/19/49/10'>Ps. 49:10</a>; <a href='/AIV/22/3/19'>Eccl. 3:19</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 25009003,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 9,
       "verse": 3,
       "text": "This is an evil in all that happens under the sun: that the same fate comes to all. Also, the hearts of humans are full of evil, and madness is in their hearts while they live—after that, they go to the dead.",
       "links": "<a href='/AIV/01/6/5'>Gen. 6:5</a>; <a href='/AIV/19/14/3'>Ps. 14:3</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 25009004,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 9,
       "verse": 4,
       "text": "Yet anyone who is joined with the living has hope, for a living dog is better than a dead lion.",
       "links": "<a href='/AIV/22/5/15'>Eccl. 5:15</a>; <a href='/AIV/19/27/13'>Ps. 27:13</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 25009005,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 9,
       "verse": 5,
       "text": "For the living know that they will die, but the dead know nothing; they have no further reward, and even their memory is forgotten.",
       "links": "<a href='/AIV/19/115/17'>Ps. 115:17</a>; <a href='/AIV/22/1/11'>Eccl. 1:11</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 25009006,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 9,
       "verse": 6,
       "text": "Their love, their hate, and their envy have long since vanished; never again will they have a share in anything done under the sun.",
       "links": "<a href='/AIV/19/6/5'>Ps. 6:5</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 25009007,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 9,
       "verse": 7,
       "text": "Go, eat your bread with joy and drink your wine with a cheerful heart, for God has already accepted your works.",
       "links": "<a href='/AIV/19/104/15'>Ps. 104:15</a>; <a href='/AIV/22/2/24'>Eccl. 2:24</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 25009008,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 9,
       "verse": 8,
       "text": "Let your clothes always be white, and let your head lack no oil.",
       "links": "<a href='/AIV/22/8/1'>Eccl. 8:1</a>; <a href='/AIV/19/23/5'>Ps. 23:5</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 25009009,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 9,
       "verse": 9,
       "text": "Enjoy life with your beloved wife, all the days of your fleeting life that God has given you under the sun, for that is your portion in life and in your work at which you toil under the sun.",
       "links": "<a href='/AIV/01/2/18'>Gen. 2:18</a>; <a href='/AIV/22/3/13'>Eccl. 3:13</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 25009010,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 9,
       "verse": 10,
       "text": "Whatever your hand finds to do, do it with all your strength, for there is no work or planning or knowledge or wisdom in Sheol, where you are going.",
       "links": "<a href='/AIV/51/3/23'>Col. 3:23</a>; <a href='/AIV/19/6/5'>Ps. 6:5</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 25009011,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 9,
       "verse": 11,
       "text": "Again I saw under the sun that the race is not to the swift, nor the battle to the strong, nor bread to the wise, nor riches to the intelligent, nor favor to those with knowledge, but time and chance happen to them all.",
       "links": "<a href='/AIV/19/127/1-2'>Ps. 127:1-2</a>; <a href='/AIV/20/21/30'>Prov. 21:30</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 25009012,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 9,
       "verse": 12,
       "text": "For man does not know his time. Like fish caught in a cruel net, or birds trapped in a snare, so are people snared at an evil time, when it suddenly falls upon them.",
       "links": "<a href='/AIV/19/39/4'>Ps. 39:4</a>; <a href='/AIV/42/12/40'>Luke 12:40</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 25009013,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 9,
       "verse": 13,
       "text": "I also saw this example of wisdom under the sun, and it impressed me:",
       "links": "<a href='/AIV/22/7/19'>Eccl. 7:19</a>",
@@ -166,11 +103,6 @@
     },
     {
       "pk": 25009014,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 9,
       "verse": 14,
       "text": "There was a small city with a few men in it. A great king came against it, surrounded it, and built huge siege works against it.",
       "links": "<a href='/AIV/19/48/4'>Ps. 48:4</a>",
@@ -178,11 +110,6 @@
     },
     {
       "pk": 25009015,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 9,
       "verse": 15,
       "text": "Now there was found in it a poor wise man, and he delivered the city by his wisdom. Yet no one remembered that poor man.",
       "links": "<a href='/AIV/41/6/4'>Mark 6:4</a>; <a href='/AIV/42/4/24'>Luke 4:24</a>",
@@ -190,11 +117,6 @@
     },
     {
       "pk": 25009016,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 9,
       "verse": 16,
       "text": "Then I said, “Wisdom is better than strength,” yet the poor man’s wisdom is despised, and his words are no longer heard.",
       "links": "<a href='/AIV/20/8/11'>Prov. 8:11</a>; <a href='/AIV/40/13/57'>Matt. 13:57</a>",
@@ -202,11 +124,6 @@
     },
     {
       "pk": 25009017,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 9,
       "verse": 17,
       "text": "The quiet words of the wise are better heard than the shouts of a ruler among fools.",
       "links": "<a href='/AIV/19/46/10'>Ps. 46:10</a>; <a href='/AIV/20/17/27'>Prov. 17:27</a>",
@@ -214,38 +131,10 @@
     },
     {
       "pk": 25009018,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 9,
       "verse": 18,
       "text": "Wisdom is better than weapons of war, but one sinner can destroy much good.",
       "links": "<a href='/AIV/20/12/20'>Prov. 12:20</a>; <a href='/AIV/19/106/23'>Ps. 106:23</a>",
       "comment": "The destructive power of sin is set against the constructive power of wisdom. This dichotomy points towards the need for continual conversion and reconciliation, and the enduring value of intercession and sacramental life."
-    }
-  ],
-  "translatedAt": "2025-12-24T07:10:24.372Z",
-  "sections": [
-    {
-      "title": "The Common Fate of All",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "Enjoy Life While You Can",
-      "startVerse": 7,
-      "endVerse": 10
-    },
-    {
-      "title": "The Uncertainty of Life",
-      "startVerse": 11,
-      "endVerse": 12
-    },
-    {
-      "title": "The Power of Wisdom and Its Neglect",
-      "startVerse": 13,
-      "endVerse": 18
     }
   ]
 }

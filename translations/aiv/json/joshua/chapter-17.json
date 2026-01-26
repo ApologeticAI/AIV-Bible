@@ -1,16 +1,13 @@
 {
-  "book": 6,
+  "translation": "AIV",
+  "bookId": "joshua",
   "bookName": "Joshua",
   "bookAbbreviation": "Josh",
+  "bookNumber": 6,
   "chapter": 17,
   "verses": [
     {
       "pk": 6017001,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 17,
       "verse": 1,
       "text": "The portion for the tribe of Manasseh, for he was Joseph’s firstborn, was assigned. To Makir, the firstborn of Manasseh and the father of Gilead, were allotted Gilead and Bashan, because he was a man of war.",
       "links": "<a href='/AIV/4/26/29'>Num. 26:29</a>; <a href='/AIV/6/13/31'>Josh. 13:31</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 6017002,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 17,
       "verse": 2,
       "text": "And the remaining sons of Manasseh received their inheritance by their clans: the sons of Abiezer, Helek, Asriel, Shechem, Hepher, and Shemida; these were the male descendants of Manasseh son of Joseph, by their families.",
       "links": "<a href='/AIV/4/26/30-32'>Num. 26:30-32</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 6017003,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 17,
       "verse": 3,
       "text": "Now Zelophehad, son of Hepher, son of Gilead, son of Makir, son of Manasseh, had no sons, but only daughters. These are the names of his daughters: Mahlah, Noah, Hoglah, Milcah, and Tirzah.",
       "links": "<a href='/AIV/4/26/33'>Num. 26:33</a>; <a href='/AIV/4/27/1'>Num. 27:1</a>; <a href='/AIV/4/36/11'>Num. 36:11</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 6017004,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 17,
       "verse": 4,
       "text": "They came before Eleazar the priest, Joshua son of Nun, and the leaders, saying, \"The LORD commanded Moses to give us an inheritance among our male relatives.\" So, according to the word of the LORD, they were given an inheritance among their father’s brothers.",
       "links": "<a href='/AIV/4/27/1-7'>Num. 27:1-7</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 6017005,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 17,
       "verse": 5,
       "text": "Thus, ten portions fell to Manasseh, besides the land of Gilead and Bashan, which were on the other side of the Jordan.",
       "links": "<a href='/AIV/6/13/29-31'>Josh. 13:29-31</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 6017006,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 17,
       "verse": 6,
       "text": "Because the daughters of Manasseh received an inheritance alongside his sons. The land of Gilead was assigned to the rest of the male descendants of Manasseh.",
       "links": "<a href='/AIV/6/17/3-4'>Josh. 17:3-4</a>; <a href='/AIV/4/36/1-12'>Num. 36:1-12</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 6017007,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 17,
       "verse": 7,
       "text": "The border of Manasseh stretched from Asher to Mikmethath, which is east of Shechem. The border went south to the inhabitants of En Tappuah.",
       "links": "<a href='/AIV/6/16/7'>Josh. 16:7</a>",
@@ -93,11 +60,6 @@
     },
     {
       "pk": 6017008,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 17,
       "verse": 8,
       "text": "The land of Tappuah belonged to Manasseh, but Tappuah itself, on the border of Manasseh, belonged to the descendants of Ephraim.",
       "links": "<a href='/AIV/6/16/8-9'>Josh. 16:8-9</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 6017009,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 17,
       "verse": 9,
       "text": "Then the border went down to the brook of Kanah, south of the brook. These cities among the cities of Manasseh belonged to Ephraim. Then the border of Manasseh was on the north side of the brook, and ended at the sea.",
       "links": "<a href='/AIV/6/16/9'>Josh. 16:9</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 6017010,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 17,
       "verse": 10,
       "text": "The south land belonged to Ephraim, and the north to Manasseh. The sea was its border; they met together in Asher on the north and in Issachar on the east.",
       "links": "<a href='/AIV/6/19/26'>Josh. 19:26</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 6017011,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 17,
       "verse": 11,
       "text": "Within Issachar and Asher, Manasseh possessed Beth-shean and its villages, Ibleam and its villages, the inhabitants of Dor and its villages, the inhabitants of Endor and its villages, the inhabitants of Taanach and its villages, and the inhabitants of Megiddo and its villages—the three regions.",
       "links": "<a href='/AIV/7/1/27'>Judg. 1:27</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 6017012,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 17,
       "verse": 12,
       "text": "Yet the people of Manasseh could not dispossess the inhabitants of those cities, because the Canaanites persisted in dwelling in that land.",
       "links": "<a href='/AIV/7/1/27-28'>Judg. 1:27-28</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 6017013,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 17,
       "verse": 13,
       "text": "But when the people of Israel grew strong, they put the Canaanites to forced labor, but did not drive them out entirely.",
       "links": "<a href='/AIV/7/1/28'>Judg. 1:28</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 6017014,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 17,
       "verse": 14,
       "text": "The descendants of Joseph spoke to Joshua, saying, “Why have you given us only one lot and one portion as an inheritance, although we are a numerous people, whom the LORD has blessed up to this point?”",
       "links": "<a href='/AIV/1/48/16-20'>Gen. 48:16-20</a>",
@@ -178,11 +110,6 @@
     },
     {
       "pk": 6017015,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 17,
       "verse": 15,
       "text": "And Joshua said to them, “If you are a numerous people, go up to the forest and clear land for yourselves there in the land of the Perizzites and the Rephaim, since the hill country of Ephraim is too narrow for you.”",
       "links": "<a href='/AIV/1/14/5'>Gen. 14:5</a>",
@@ -190,11 +117,6 @@
     },
     {
       "pk": 6017016,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 17,
       "verse": 16,
       "text": "The descendants of Joseph said, “The hill country is not enough for us. And all the Canaanites who live in the lowlands have iron chariots, both those in Beth-shean and its villages and those in the Valley of Jezreel.”",
       "links": "<a href='/AIV/7/1/19'>Judg. 1:19</a>",
@@ -202,11 +124,6 @@
     },
     {
       "pk": 6017017,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 17,
       "verse": 17,
       "text": "Joshua spoke again to the house of Joseph, to Ephraim and Manasseh, saying, “You are a numerous and strong people; you shall not have just one lot.",
       "links": "<a href='/AIV/1/48/19'>Gen. 48:19</a>",
@@ -214,38 +131,10 @@
     },
     {
       "pk": 6017018,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 17,
       "verse": 18,
       "text": "But the hill country shall be yours. Though it is forest, you shall clear it and possess it to its farthest borders. For you shall drive out the Canaanites, even though they have iron chariots and are strong.”",
       "links": "<a href='/AIV/6/14/12-14'>Josh. 14:12-14</a>",
       "comment": "This promise to drive out the Canaanites—even against daunting odds—prefigures the final victory of God's people over spiritual adversaries, not by human might, but through faith and divine grace. Perseverance in cooperation with God leads to the fullness of the promise."
-    }
-  ],
-  "translatedAt": "2025-12-24T02:25:49.317Z",
-  "sections": [
-    {
-      "title": "The Inheritance of Manasseh",
-      "startVerse": 1,
-      "endVerse": 2
-    },
-    {
-      "title": "The Daughters of Zelophehad Receive an Inheritance",
-      "startVerse": 3,
-      "endVerse": 6
-    },
-    {
-      "title": "The Boundaries and Cities of Manasseh",
-      "startVerse": 7,
-      "endVerse": 13
-    },
-    {
-      "title": "Joseph’s Complaint and Joshua’s Response",
-      "startVerse": 14,
-      "endVerse": 18
     }
   ]
 }

@@ -1,16 +1,13 @@
 {
-  "book": 29,
+  "translation": "AIV",
+  "bookId": "isaiah",
   "bookName": "Isaiah",
   "bookAbbreviation": "Isa",
+  "bookNumber": 29,
   "chapter": 16,
   "verses": [
     {
       "pk": 29016001,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 16,
       "verse": 1,
       "text": "Send lambs as tribute to the ruler of the land, from Sela in the desert to the mountain of Daughter Zion.",
       "links": "<a href='/AIV/12/3/4'>2 Kgs. 3:4</a>; <a href='/AIV/23/18/7'>Isa. 18:7</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 29016002,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 16,
       "verse": 2,
       "text": "Like fleeing birds, like a scattered nest, the daughters of Moab will be at the fords of the Arnon.",
       "links": "<a href='/AIV/24/48/9'>Jer. 48:9</a>; <a href='/AIV/07/12/2'>Judg. 12:2</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 29016003,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 16,
       "verse": 3,
       "text": "\"Give counsel, provide justice; make your shade like night at noon. Hide the outcasts, do not betray the fugitive.",
       "links": "<a href='/AIV/19/82/3'>Ps. 82:3</a>; <a href='/AIV/23/58/7'>Isa. 58:7</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 29016004,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 16,
       "verse": 4,
       "text": "Let my outcasts stay with you; be a shelter to them from the destroyer. When the oppressor is no more, destruction is at an end, and the aggressor has vanished from the land,",
       "links": "<a href='/AIV/19/57/1'>Ps. 57:1</a>; <a href='/AIV/23/25/4'>Isa. 25:4</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 29016005,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 16,
       "verse": 5,
       "text": "Then a throne will be established in steadfast love, and on it will sit in faithfulness one from the house of David—one who judges and seeks justice and is swift to do righteousness.",
       "links": "<a href='/AIV/10/7/16'>2 Sam. 7:16</a>; <a href='/AIV/23/9/7'>Isa. 9:7</a>; <a href='/AIV/42/1/32-33'>Luke 1:32-33</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 29016006,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 16,
       "verse": 6,
       "text": "We have heard of Moab's pride—how great is his arrogance—of his pride, his arrogance, and his boasting, his empty words.",
       "links": "<a href='/AIV/24/48/29'>Jer. 48:29</a>; <a href='/AIV/20/16/18'>Prov. 16:18</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 29016007,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 16,
       "verse": 7,
       "text": "Therefore Moab will wail for Moab; everyone will mourn. For the raisin cakes of Kir-hareseth you will mourn, utterly stricken.",
       "links": "<a href='/AIV/24/48/31'>Jer. 48:31</a>; <a href='/AIV/28/3/1'>Hos. 3:1</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 29016008,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 16,
       "verse": 8,
       "text": "The fields of Heshbon languish, and the vine of Sibmah. The rulers of the nations have struck down its choicest branches, which reached as far as Jazer and strayed to the desert; its shoots spread out and crossed over the sea.",
       "links": "<a href='/AIV/24/48/32'>Jer. 48:32</a>; <a href='/AIV/04/32/38'>Num. 32:38</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 29016009,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 16,
       "verse": 9,
       "text": "Therefore I weep with the weeping of Jazer for the vine of Sibmah. I drench you with my tears, Heshbon and Elealeh; for over your summer fruit and your harvest the shout has fallen.",
       "links": "<a href='/AIV/19/119/136'>Ps. 119:136</a>; <a href='/AIV/23/15/5'>Isa. 15:5</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 29016010,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 16,
       "verse": 10,
       "text": "Gladness and joy are taken away from the orchards; no songs are sung, no shouts are raised; in the winepress no treader treads out wine; I have put an end to the shouting.",
       "links": "<a href='/AIV/24/48/33'>Jer. 48:33</a>; <a href='/AIV/23/24/7-11'>Isa. 24:7-11</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 29016011,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 16,
       "verse": 11,
       "text": "Therefore my inner parts moan like a lyre for Moab, and my inmost being for Kir-hareseth.",
       "links": "<a href='/AIV/23/15/5'>Isa. 15:5</a>; <a href='/AIV/25/1/20'>Lam. 1:20</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 29016012,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 16,
       "verse": 12,
       "text": "When Moab appears, weary on the high place, when he comes to his sanctuary to pray, he will not prevail.",
       "links": "<a href='/AIV/23/15/2'>Isa. 15:2</a>; <a href='/AIV/09/5/5'>1 Sam. 5:5</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 29016013,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 16,
       "verse": 13,
       "text": "This is the word the LORD spoke concerning Moab in earlier times.",
       "links": "<a href='/AIV/23/15/1'>Isa. 15:1</a>",
@@ -165,33 +102,10 @@
     },
     {
       "pk": 29016014,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 16,
       "verse": 14,
       "text": "But now the LORD says: 'In three years, like the years of a hired worker, the glory of Moab will be brought into contempt, along with all its great multitude, and the survivors will be very few and feeble.'",
       "links": "<a href='/AIV/23/21/16'>Isa. 21:16</a>; <a href='/AIV/24/48/42'>Jer. 48:42</a>",
       "comment": "The prophecy sets a precise time for Moab's downfall, showing God’s sovereignty over history. The few survivors foreshadow a remnant preserved by divine mercy—a recurring theme in the unity of redemption history."
-    }
-  ],
-  "translatedAt": "2025-12-24T07:58:09.180Z",
-  "sections": [
-    {
-      "title": "A Plea for Refuge and Counsel for Moab",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "The Judgment and Lament over Moab",
-      "startVerse": 6,
-      "endVerse": 12
-    },
-    {
-      "title": "The Lord's Decree Against Moab",
-      "startVerse": 13,
-      "endVerse": 14
     }
   ]
 }

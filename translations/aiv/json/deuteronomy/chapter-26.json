@@ -1,16 +1,13 @@
 {
-  "book": 5,
+  "translation": "AIV",
+  "bookId": "deuteronomy",
   "bookName": "Deuteronomy",
   "bookAbbreviation": "Deut",
+  "bookNumber": 5,
   "chapter": 26,
   "verses": [
     {
       "pk": 5026001,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 26,
       "verse": 1,
       "text": "When you enter the land the LORD your God is giving you as an inheritance, and you take possession of it and settle in it,",
       "links": "<a href='/AIV/03/23/10'>Lev. 23:10</a>; <a href='/AIV/06/24/13'>Josh. 24:13</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 5026002,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 26,
       "verse": 2,
       "text": "you must take some of the first of all the produce from the soil, which you harvest from the land the LORD your God is giving you, and place it in a basket. Then go to the place the LORD your God will choose as a dwelling for his Name.",
       "links": "<a href='/AIV/02/23/19'>Ex. 23:19</a>; <a href='/AIV/05/12/5'>Deut. 12:5</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 5026003,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 26,
       "verse": 3,
       "text": "Go to the priest who is in office at that time and say to him, 'I declare today to the LORD your God that I have entered the land the LORD swore to our ancestors to give us.'",
       "links": "<a href='/AIV/03/21/10'>Lev. 21:10</a>; <a href='/AIV/01/12/7'>Gen. 12:7</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 5026004,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 26,
       "verse": 4,
       "text": "Then the priest shall take the basket from your hand and set it down before the altar of the LORD your God.",
       "links": "<a href='/AIV/03/02/2'>Lev. 2:2</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 5026005,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 26,
       "verse": 5,
       "text": "And you shall declare before the LORD your God: 'My father was a wandering Aramean. He went down into Egypt with a few people and lived there and became a great, powerful, and numerous nation.'",
       "links": "<a href='/AIV/01/46/1-7'>Gen. 46:1-7</a>; <a href='/AIV/02/01/5-7'>Ex. 1:5-7</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 5026006,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 26,
       "verse": 6,
       "text": "But the Egyptians treated us harshly and afflicted us, laying on us hard labor.",
       "links": "<a href='/AIV/02/01/11-14'>Ex. 1:11-14</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 5026007,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 26,
       "verse": 7,
       "text": "Then we cried out to the LORD, the God of our ancestors, and the LORD heard our voice and saw our affliction, our toil, and our oppression.",
       "links": "<a href='/AIV/02/02/23-25'>Ex. 2:23-25</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 5026008,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 26,
       "verse": 8,
       "text": "And the LORD brought us out of Egypt with a mighty hand and an outstretched arm, with great terror, with signs and wonders.",
       "links": "<a href='/AIV/02/13/14'>Ex. 13:14</a>; <a href='/AIV/05/04/34'>Deut. 4:34</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 5026009,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 26,
       "verse": 9,
       "text": "And he brought us to this place and gave us this land, a land flowing with milk and honey.",
       "links": "<a href='/AIV/02/03/8'>Ex. 3:8</a>; <a href='/AIV/05/06/3'>Deut. 6:3</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 5026010,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 26,
       "verse": 10,
       "text": "And now, behold, I have brought the firstfruits of the land that you, O LORD, have given me.' And you shall set it down before the LORD your God and bow down before the LORD your God.",
       "links": "<a href='/AIV/03/23/10-11'>Lev. 23:10-11</a>",
@@ -127,11 +79,6 @@
     },
     {
       "pk": 5026011,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 26,
       "verse": 11,
       "text": "And you shall rejoice in all the good things the LORD your God has given to you and to your household, you and the Levite and the foreigner who is among you.",
       "links": "<a href='/AIV/05/12/7'>Deut. 12:7</a>; <a href='/AIV/03/23/22'>Lev. 23:22</a>",
@@ -139,11 +86,6 @@
     },
     {
       "pk": 5026012,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 26,
       "verse": 12,
       "text": "When you have finished setting aside a tenth of all your produce in the third year, the year of the tithe, you shall give it to the Levite, the foreigner, the fatherless, and the widow, so that they may eat within your gates and be filled.",
       "links": "<a href='/AIV/05/14/28-29'>Deut. 14:28-29</a>; <a href='/AIV/03/27/30'>Lev. 27:30</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 5026013,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 26,
       "verse": 13,
       "text": "Then you shall say before the LORD your God, 'I have removed from my house the sacred portion, and given it to the Levite, the foreigner, the fatherless, and the widow, according to all your commandment. I have not transgressed or forgotten any of your commands.'",
       "links": "<a href='/AIV/03/05/1'>Lev. 5:1</a>; <a href='/AIV/05/14/28-29'>Deut. 14:28-29</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 5026014,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 26,
       "verse": 14,
       "text": "I have not eaten any of it while in mourning, or removed any of it while I was unclean, or offered any of it to the dead. I have obeyed the voice of the LORD my God; I have done all that you have commanded me.",
       "links": "<a href='/AIV/03/07/20'>Lev. 7:20</a>; <a href='/AIV/03/21/1'>Lev. 21:1</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 5026015,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 26,
       "verse": 15,
       "text": "Look down from your holy dwelling, from heaven, and bless your people Israel and the land you have given us, as you swore to our ancestors—a land flowing with milk and honey.'",
       "links": "<a href='/AIV/05/26/9'>Deut. 26:9</a>; <a href='/AIV/05/09/26'>Deut. 9:26-27</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 5026016,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 26,
       "verse": 16,
       "text": "This day the LORD your God commands you to do these statutes and rules; therefore you must be careful to do them with all your heart and with all your soul.",
       "links": "<a href='/AIV/05/06/5'>Deut. 6:5</a>; <a href='/AIV/40/22/37'>Matt. 22:37</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 5026017,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 26,
       "verse": 17,
       "text": "You have declared today that the LORD is your God, and that you will walk in his ways, and keep his statutes, his commandments, and his rules, and obey his voice.",
       "links": "<a href='/AIV/05/10/12'>Deut. 10:12-13</a>; <a href='/AIV/24/24/7'>Jer. 24:7</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 5026018,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 26,
       "verse": 18,
       "text": "And the LORD has declared today that you are his treasured possession, as he promised you, and that you are to keep all his commandments.",
       "links": "<a href='/AIV/02/19/5'>Ex. 19:5</a>; <a href='/AIV/60/02/9'>1 Pet. 2:9</a>",
@@ -225,33 +137,10 @@
     },
     {
       "pk": 5026019,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 26,
       "verse": 19,
       "text": "He will set you high in praise, fame, and honor above all the nations he has made. You will be a holy people to the LORD your God, as he has promised.",
       "links": "<a href='/AIV/02/19/6'>Ex. 19:6</a>; <a href='/AIV/60/02/9'>1 Pet. 2:9</a>",
       "comment": "Being raised up and set apart as holy points to God’s design for a visible, unified, and sanctified people. The New Testament applies this to the Church (Eph. 5:27), as God’s holy assembly in the world."
-    }
-  ],
-  "translatedAt": "2025-12-24T02:10:54.140Z",
-  "sections": [
-    {
-      "title": "Offering of Firstfruits",
-      "startVerse": 1,
-      "endVerse": 11
-    },
-    {
-      "title": "Declaration Concerning Tithes",
-      "startVerse": 12,
-      "endVerse": 15
-    },
-    {
-      "title": "Exhortation to Obey the Commandments",
-      "startVerse": 16,
-      "endVerse": 19
     }
   ]
 }

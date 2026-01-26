@@ -1,16 +1,13 @@
 {
-  "book": 18,
+  "translation": "AIV",
+  "bookId": "judith",
   "bookName": "Judith",
   "bookAbbreviation": "Jdt",
+  "bookNumber": 18,
   "chapter": 9,
   "verses": [
     {
       "pk": 18009001,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 9,
       "verse": 1,
       "text": "Then Judith fell on her face, put ashes on her head, and uncovered the sackcloth she was wearing. At that time, when the evening sacrifice was being offered in the house of God in Jerusalem, Judith called out to the Lord with a loud voice and said:",
       "links": "<a href='/AIV/03/16/29-31'>Lev. 16:29-31</a>; <a href='/AIV/19/141/2'>Ps. 141:2</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 18009002,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 9,
       "verse": 2,
       "text": "\"O Lord, God of my ancestor Simeon, you gave him the sword to take vengeance on those strangers who loosed the belt of a virgin to defile her, exposed her thighs to shame, and disgraced my mother's womb. For you said, 'It shall not be done'—yet they did it.\"",
       "links": "<a href='/AIV/01/34/25-31'>Gen. 34:25-31</a>; <a href='/AIV/19/106/30'>Ps. 106:30</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 18009003,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 9,
       "verse": 3,
       "text": "\"Therefore, you delivered their rulers to slaughter, and their bed, which was shamefully defiled in their deceit, you brought into blood, striking down the servants together with the princes.\"",
       "links": "<a href='/AIV/01/34/25-29'>Gen. 34:25-29</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 18009004,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 9,
       "verse": 4,
       "text": "\"You handed over their wives and their daughters into captivity, and all their spoils to be divided among your beloved children, who were zealous for you and detested the defilement of their blood, and called on you for help. O God, my God, listen to me, a widow.\"",
       "links": "<a href='/AIV/01/34/27-29'>Gen. 34:27-29</a>; <a href='/AIV/19/68/6'>Ps. 68:6</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 18009005,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 9,
       "verse": 5,
       "text": "\"You did these things, what you willed then, and all your plans have come to pass. The things you planned are present, and said, 'See, we are here!' For all your ways are prepared, and your judgments are with foreknowledge.\"",
       "links": "<a href='/AIV/23/14/24-27'>Isa. 14:24-27</a>; <a href='/AIV/45/11/33-36'>Rom. 11:33-36</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 18009006,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 9,
       "verse": 6,
       "text": "\"See, the Assyrians are increased in their strength. They are exalted by their horses and riders. They boast in the power of their foot soldiers. They trust in shield, spear, bow, and sling. But they do not know that you are the Lord, the one who crushes wars.\"",
       "links": "<a href='/AIV/19/20/7-8'>Ps. 20:7-8</a>; <a href='/AIV/04/14/42-43'>Num. 14:42-43</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 18009007,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 9,
       "verse": 7,
       "text": "\"You, Lord, is your name. Shatter their might with your strength. Bring down their power in your anger. For they plan to defile your sanctuary, pollute the dwelling where your glorious name rests, and to destroy the altar with sword and fire.\"",
       "links": "<a href='/AIV/02/3/15'>Exod. 3:15</a>; <a href='/AIV/19/74/7'>Ps. 74:7</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 18009008,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 9,
       "verse": 8,
       "text": "\"See their arrogance, Lord! Pour out your wrath on their heads. Give to me, a widow, the strength to accomplish what I have planned. By the deceit of my lips strike down the servant together with the master, and their leader together with his attendants.\"",
       "links": "<a href='/AIV/19/94/1-2'>Ps. 94:1-2</a>; <a href='/AIV/07/4/9'>Judg. 4:9</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 18009009,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 9,
       "verse": 9,
       "text": "\"Crush their pride by a woman’s hand. For your power is not in numbers, nor does your might depend upon strong men; you are the God of the lowly, the helper of the oppressed, the sustainer of the weak, the protector of the forsaken, and the savior of those without hope.\"",
       "links": "<a href='/AIV/19/68/5'>Ps. 68:5</a>; <a href='/AIV/46/1/27-29'>1 Cor. 1:27-29</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 18009010,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 9,
       "verse": 10,
       "text": "\"Hear me, Lord, God of my ancestors, at this very hour, and give to me success in what I am about to do, so that it may be for the exaltation of Jerusalem and for your people. Let all the nations know and acknowledge that you are God, the God of all power and might, and that there is no other who protects the people of Israel but you.\"",
       "links": "<a href='/AIV/19/46/10'>Ps. 46:10</a>; <a href='/AIV/23/45/5-6'>Isa. 45:5-6</a>",
@@ -127,11 +79,6 @@
     },
     {
       "pk": 18009011,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 9,
       "verse": 11,
       "text": "\"Now, Lord, hear my prayer, a widow. You have done the things of old, and those yet to come you design and plan. The things you have decided have come to pass, and the things you wish stand before you. The things you intend happen and declare, 'Here we are.'\"",
       "links": "<a href='/AIV/23/46/10'>Isa. 46:10</a>; <a href='/AIV/19/33/9-11'>Ps. 33:9-11</a>",
@@ -139,11 +86,6 @@
     },
     {
       "pk": 18009012,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 9,
       "verse": 12,
       "text": "\"You see the things coming upon us, you see our distress. Have mercy now on me, the widow. Give me the strength, O Lord, God of the Most High. By the word of my lips let there be a wound and a bruise for those who have planned cruel things against your covenant and your consecrated house, Mount Zion and the house your children possess.\"",
       "links": "<a href='/AIV/19/102/13-14'>Ps. 102:13-14</a>; <a href='/AIV/23/37/17'>Isa. 37:17</a>",
@@ -151,11 +93,6 @@
     },
     {
       "pk": 18009013,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 9,
       "verse": 13,
       "text": "\"Let all the nations, every tribe and tongue, know that you are God, all-powerful and mighty, and that there is no other who protects the offspring of Israel but you!\"",
       "links": "<a href='/AIV/19/86/9'>Ps. 86:9</a>; <a href='/AIV/66/7/9'>Rev. 7:9</a>",
@@ -163,23 +100,10 @@
     },
     {
       "pk": 18009014,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 9,
       "verse": 14,
       "text": "Let all Israel and every tribe know and understand that you are God, the God of all power and might, and that there is no one who protects Israel but you alone.",
       "links": "<a href='/AIV/5/4/35'>Deut. 4:35</a>; <a href='/AIV/29/43/11'>Isa. 43:11</a>; <a href='/AIV/23/62/6'>Ps. 62:6</a>",
       "comment": "Judith's prayer affirms monotheism and God's exclusive role as Israel's protector, echoing themes from Deuteronomy 6:4 and Psalm 121:2; this declaration in a time of crisis highlights faith in God's sovereign power over all tribes, reinforcing Israel's covenant identity."
-    }
-  ],
-  "translatedAt": "2025-12-28T02:19:48.370Z",
-  "sections": [
-    {
-      "title": "Judith's Prayer for Deliverance",
-      "startVerse": 1,
-      "endVerse": 14
     }
   ]
 }

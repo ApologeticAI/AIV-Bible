@@ -1,16 +1,13 @@
 {
-  "book": 33,
+  "translation": "AIV",
+  "bookId": "ezekiel",
   "bookName": "Ezekiel",
   "bookAbbreviation": "Ezek",
+  "bookNumber": 33,
   "chapter": 8,
   "verses": [
     {
       "pk": 33008001,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 8,
       "verse": 1,
       "text": "In the sixth year, in the sixth month, on the fifth day of the month, as I sat in my house with the elders of Judah sitting before me, the hand of the Lord GOD fell upon me there.",
       "links": "<a href='/AIV/26/1/1'>Ezek. 1:1</a>; <a href='/AIV/26/20/1'>Ezek. 20:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 33008002,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 8,
       "verse": 2,
       "text": "Then I looked, and behold, a figure that had the appearance of a man. From what appeared to be his waist downward was fire, and from his waist upward, his appearance was as bright as shining metal, gleaming like fire.",
       "links": "<a href='/AIV/26/1/27'>Ezek. 1:27</a>; <a href='/AIV/27/10/6'>Dan. 10:6</a>; <a href='/AIV/66/1/15'>Rev. 1:15-16</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 33008003,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 8,
       "verse": 3,
       "text": "He stretched out the form of a hand and took me by a lock of my hair, and the Spirit lifted me up between earth and heaven and brought me in visions of God to Jerusalem, to the entrance of the inner gate that faces north, where was the seat of the idol of jealousy, which provokes to jealousy.",
       "links": "<a href='/AIV/26/3/14'>Ezek. 3:14</a>; <a href='/AIV/26/11/1'>Ezek. 11:1</a>; <a href='/AIV/5/32/16'>Deut. 32:16</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 33008004,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 8,
       "verse": 4,
       "text": "And behold, the glory of the God of Israel was there, like the vision that I saw in the plain.",
       "links": "<a href='/AIV/26/1/28'>Ezek. 1:28</a>; <a href='/AIV/26/3/23'>Ezek. 3:23</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 33008005,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 8,
       "verse": 5,
       "text": "Then he said to me, 'Son of man, lift up your eyes now toward the north.' So I lifted up my eyes toward the north, and behold, north of the altar gate, in the entrance, was this idol of jealousy.",
       "links": "<a href='/AIV/26/8/3'>Ezek. 8:3</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 33008006,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 8,
       "verse": 6,
       "text": "And he said to me, 'Son of man, do you see what they are doing, the great abominations that the house of Israel commits here, to drive me far from my sanctuary? But you will see still greater abominations.'",
       "links": "<a href='/AIV/26/5/11'>Ezek. 5:11</a>; <a href='/AIV/26/43/7'>Ezek. 43:7-8</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 33008007,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 8,
       "verse": 7,
       "text": "And he brought me to the entrance of the court, and when I looked, behold, there was a hole in the wall.",
       "links": "<a href='/AIV/26/8/8'>Ezek. 8:8</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 33008008,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 8,
       "verse": 8,
       "text": "Then he said to me, 'Son of man, dig in the wall.' So I dug in the wall, and behold, there was an entrance.",
       "links": "<a href='/AIV/26/8/7'>Ezek. 8:7</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 33008009,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 8,
       "verse": 9,
       "text": "And he said to me, 'Go in, and see the wicked abominations that they are doing here.'",
       "links": "<a href='/AIV/26/8/6'>Ezek. 8:6</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 33008010,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 8,
       "verse": 10,
       "text": "So I went in and saw. And behold, every form of creeping things, and detestable beasts, and all the idols of the house of Israel, drawn on the walls all around.",
       "links": "<a href='/AIV/3/11/43'>Lev. 11:43-44</a>; <a href='/AIV/45/1/23'>Rom. 1:23</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 33008011,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 8,
       "verse": 11,
       "text": "And before them stood seventy men of the elders of the house of Israel, with Jaazaniah the son of Shaphan standing among them. Each had his censer in his hand, and the smoke of the cloud of incense went up.",
       "links": "<a href='/AIV/2/24/1'>Exod. 24:1</a>; <a href='/AIV/4/11/16'>Num. 11:16</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 33008012,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 8,
       "verse": 12,
       "text": "Then he said to me, 'Son of man, have you seen what the elders of the house of Israel do in the dark, every man in the rooms of his carved images? For they say, “The LORD does not see us; the LORD has forsaken the land.”'",
       "links": "<a href='/AIV/19/94/7'>Ps. 94:7</a>; <a href='/AIV/26/9/9'>Ezek. 9:9</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 33008013,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 8,
       "verse": 13,
       "text": "He said also to me, 'You will see still greater abominations that they commit.'",
       "links": "<a href='/AIV/26/8/6'>Ezek. 8:6</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 33008014,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 8,
       "verse": 14,
       "text": "Then he brought me to the entrance of the gate of the LORD’s house that was toward the north; and behold, there sat women weeping for Tammuz.",
       "links": "<a href='/AIV/24/44/19'>Jer. 44:19</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 33008015,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 8,
       "verse": 15,
       "text": "Then he said to me, 'Have you seen this, son of man? You will see still greater abominations than these.'",
       "links": "<a href='/AIV/26/8/13'>Ezek. 8:13</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 33008016,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 8,
       "verse": 16,
       "text": "And he brought me into the inner court of the LORD’s house; and behold, at the entrance of the temple of the LORD, between the porch and the altar, there were about twenty-five men, with their backs to the temple of the LORD and their faces toward the east, worshiping the sun toward the east.",
       "links": "<a href='/AIV/4/16/17'>Num. 16:17</a>; <a href='/AIV/5/4/19'>Deut. 4:19</a>",
@@ -202,11 +124,6 @@
     },
     {
       "pk": 33008017,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 8,
       "verse": 17,
       "text": "Then he said to me, 'Have you seen this, son of man? Is it a small thing for the house of Judah to commit the abominations which they commit here, that they fill the land with violence, and provoke me still further to anger? Behold, they put the branch to their nose.'",
       "links": "<a href='/AIV/23/65/3'>Isa. 65:3</a>; <a href='/AIV/26/7/23'>Ezek. 7:23</a>",
@@ -214,38 +131,10 @@
     },
     {
       "pk": 33008018,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 8,
       "verse": 18,
       "text": "Therefore I also will act in wrath. My eye will not spare, nor will I have pity; and though they cry in my ears with a loud voice, I will not hear them.",
       "links": "<a href='/AIV/23/1/15'>Isa. 1:15</a>; <a href='/AIV/26/9/10'>Ezek. 9:10</a>",
       "comment": "Persistent refusal to repent leads to judgment. God’s justice is absolute, but the context of the whole Bible reveals His ultimate plan for restoration and redemption through the Messiah, fulfilled in Christ’s sacrificial role for all humanity."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:02:16.066Z",
-  "sections": [
-    {
-      "title": "The Vision of Abominations in Jerusalem",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "Idolatry Unveiled in the Temple",
-      "startVerse": 7,
-      "endVerse": 13
-    },
-    {
-      "title": "Women Weeping for Tammuz",
-      "startVerse": 14,
-      "endVerse": 15
-    },
-    {
-      "title": "Sun Worship in the Temple",
-      "startVerse": 16,
-      "endVerse": 18
     }
   ]
 }

@@ -1,16 +1,13 @@
 {
-  "book": 40,
+  "translation": "AIV",
+  "bookId": "micah",
   "bookName": "Micah",
   "bookAbbreviation": "Mic",
+  "bookNumber": 40,
   "chapter": 6,
   "verses": [
     {
       "pk": 40006001,
-      "translation": "AIV",
-      "book": 40,
-      "bookName": "Micah",
-      "bookAbbreviation": "Mic",
-      "chapter": 6,
       "verse": 1,
       "text": "Hear what the LORD says: Arise, plead your case before the mountains, and let the hills hear your voice.",
       "links": "<a href='/AIV/23/1/2'>Isa. 1:2</a>; <a href='/AIV/05/32/1'>Deut. 32:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 40006002,
-      "translation": "AIV",
-      "book": 40,
-      "bookName": "Micah",
-      "bookAbbreviation": "Mic",
-      "chapter": 6,
       "verse": 2,
       "text": "Hear, you mountains, the LORD’s accusation, and you enduring foundations of the earth! For the LORD has a case against his people, and He will contend with Israel.",
       "links": "<a href='/AIV/05/32/1'>Deut. 32:1</a>; <a href='/AIV/23/3/13'>Isa. 3:13</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 40006003,
-      "translation": "AIV",
-      "book": 40,
-      "bookName": "Micah",
-      "bookAbbreviation": "Mic",
-      "chapter": 6,
       "verse": 3,
       "text": "\"My people, what have I done to you? And how have I wearied you? Answer me!",
       "links": "<a href='/AIV/23/5/4'>Isa. 5:4</a>; <a href='/AIV/02/20/2'>Ex. 20:2</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 40006004,
-      "translation": "AIV",
-      "book": 40,
-      "bookName": "Micah",
-      "bookAbbreviation": "Mic",
-      "chapter": 6,
       "verse": 4,
       "text": "For I brought you up from the land of Egypt, and redeemed you from the house of slavery; and I sent before you Moses, Aaron, and Miriam.",
       "links": "<a href='/AIV/02/12/51'>Ex. 12:51</a>; <a href='/AIV/19/77/20'>Ps. 77:20</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 40006005,
-      "translation": "AIV",
-      "book": 40,
-      "bookName": "Micah",
-      "bookAbbreviation": "Mic",
-      "chapter": 6,
       "verse": 5,
       "text": "My people, remember what Balak king of Moab plotted, and what Balaam son of Beor answered him; and what happened from Shittim to Gilgal, so that you may know the righteous acts of the LORD.",
       "links": "<a href='/AIV/04/22/2-24/25'>Num. 22:2–24:25</a>; <a href='/AIV/06/4/19'>Josh. 4:19</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 40006006,
-      "translation": "AIV",
-      "book": 40,
-      "bookName": "Micah",
-      "bookAbbreviation": "Mic",
-      "chapter": 6,
       "verse": 6,
       "text": "With what shall I come before the LORD, and bow myself before God on high? Shall I come before Him with burnt offerings, with calves a year old?",
       "links": "<a href='/AIV/19/15/1'>Ps. 15:1</a>; <a href='/AIV/23/1/11'>Isa. 1:11</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 40006007,
-      "translation": "AIV",
-      "book": 40,
-      "bookName": "Micah",
-      "bookAbbreviation": "Mic",
-      "chapter": 6,
       "verse": 7,
       "text": "Will the LORD be pleased with thousands of rams, with ten thousand rivers of oil? Shall I give my firstborn for my transgression, the fruit of my body for the sin of my soul?",
       "links": "<a href='/AIV/19/50/9-13'>Ps. 50:9-13</a>; <a href='/AIV/01/22/2-12'>Gen. 22:2-12</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 40006008,
-      "translation": "AIV",
-      "book": 40,
-      "bookName": "Micah",
-      "bookAbbreviation": "Mic",
-      "chapter": 6,
       "verse": 8,
       "text": "He has told you, O man, what is good; and what does the LORD require of you but to act justly, to love mercy, and to walk humbly with your God?",
       "links": "<a href='/AIV/23/1/17'>Isa. 1:17</a>; <a href='/AIV/05/10/12'>Deut. 10:12-13</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 40006009,
-      "translation": "AIV",
-      "book": 40,
-      "bookName": "Micah",
-      "bookAbbreviation": "Mic",
-      "chapter": 6,
       "verse": 9,
       "text": "The voice of the LORD cries out to the city—and wisdom shall see your name: Hear the rod and Him who appointed it.",
       "links": "<a href='/AIV/19/107/43'>Ps. 107:43</a>; <a href='/AIV/20/8/33-36'>Prov. 8:33-36</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 40006010,
-      "translation": "AIV",
-      "book": 40,
-      "bookName": "Micah",
-      "bookAbbreviation": "Mic",
-      "chapter": 6,
       "verse": 10,
       "text": "Are there still treasures of wickedness in the house of the wicked, and the scant measure that is cursed?",
       "links": "<a href='/AIV/03/19/35-36'>Lev. 19:35-36</a>; <a href='/AIV/20/11/1'>Prov. 11:1</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 40006011,
-      "translation": "AIV",
-      "book": 40,
-      "bookName": "Micah",
-      "bookAbbreviation": "Mic",
-      "chapter": 6,
       "verse": 11,
       "text": "Shall I acquit someone with dishonest scales, with a bag of deceptive weights?",
       "links": "<a href='/AIV/20/20/10'>Prov. 20:10</a>; <a href='/AIV/19/94/20'>Ps. 94:20</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 40006012,
-      "translation": "AIV",
-      "book": 40,
-      "bookName": "Micah",
-      "bookAbbreviation": "Mic",
-      "chapter": 6,
       "verse": 12,
       "text": "For the rich men of the city are full of violence, and its inhabitants speak lies, and their tongues are deceitful in their mouths.",
       "links": "<a href='/AIV/19/73/6-8'>Ps. 73:6-8</a>; <a href='/AIV/23/59/3'>Isa. 59:3</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 40006013,
-      "translation": "AIV",
-      "book": 40,
-      "bookName": "Micah",
-      "bookAbbreviation": "Mic",
-      "chapter": 6,
       "verse": 13,
       "text": "Therefore I will strike you with a grievous wound, making you desolate because of your sins.",
       "links": "<a href='/AIV/03/26/16-39'>Lev. 26:16-39</a>; <a href='/AIV/23/1/7'>Isa. 1:7</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 40006014,
-      "translation": "AIV",
-      "book": 40,
-      "bookName": "Micah",
-      "bookAbbreviation": "Mic",
-      "chapter": 6,
       "verse": 14,
       "text": "You shall eat, but not be satisfied; your emptiness shall remain within you. You will store up, but not save; and what you save I will give to the sword.",
       "links": "<a href='/AIV/03/26/26'>Lev. 26:26</a>; <a href='/AIV/05/28/39'>Deut. 28:39</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 40006015,
-      "translation": "AIV",
-      "book": 40,
-      "bookName": "Micah",
-      "bookAbbreviation": "Mic",
-      "chapter": 6,
       "verse": 15,
       "text": "You shall sow, but not reap; you shall tread olives, but not anoint yourself with oil; and tread grapes, but not drink the wine.",
       "links": "<a href='/AIV/05/28/40'>Deut. 28:40</a>; <a href='/AIV/30/5/11'>Amos 5:11</a>",
@@ -189,33 +116,10 @@
     },
     {
       "pk": 40006016,
-      "translation": "AIV",
-      "book": 40,
-      "bookName": "Micah",
-      "bookAbbreviation": "Mic",
-      "chapter": 6,
       "verse": 16,
       "text": "For you have kept the statutes of Omri and all the works of the house of Ahab, and you walk in their counsels, so I will give you up to destruction, and your people to derision; you shall bear the scorn of my people.",
       "links": "<a href='/AIV/11/16/25'>1 Kings 16:25-30</a>; <a href='/AIV/11/21/25'>1 Kings 21:25</a>",
       "comment": "The reference to idolatrous kings of Israel marks sinfulness through following false models of leadership. This is a reminder to rely on God’s established order and authority, rejecting both self-made religion and rebellion against appointed spiritual governors."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:49:12.119Z",
-  "sections": [
-    {
-      "title": "The LORD’s Lawsuit Against Israel",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "What the LORD Requires",
-      "startVerse": 6,
-      "endVerse": 8
-    },
-    {
-      "title": "The LORD’s Judgment on Injustice",
-      "startVerse": 9,
-      "endVerse": 16
     }
   ]
 }

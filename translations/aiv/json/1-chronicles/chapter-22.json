@@ -1,16 +1,13 @@
 {
-  "book": 13,
+  "translation": "AIV",
+  "bookId": "1-chronicles",
   "bookName": "1 Chronicles",
-  "bookAbbreviation": "1Chr",
+  "bookAbbreviation": "1 Chr",
+  "bookNumber": 13,
   "chapter": 22,
   "verses": [
     {
       "pk": 13022001,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 22,
       "verse": 1,
       "text": "Then David said, 'This is the house of the LORD God, and this is the altar of burnt offering for Israel.'",
       "links": "<a href='/AIV/10/24/25'>2 Sam. 24:25</a>; <a href='/AIV/14/3/1'>2 Chr. 3:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 13022002,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 22,
       "verse": 2,
       "text": "David commanded to gather the foreigners who were in the land of Israel, and he appointed stonecutters to prepare dressed stones for building the house of God.",
       "links": "<a href='/AIV/11/5/15-17'>1 Kings 5:15-17</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 13022003,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 22,
       "verse": 3,
       "text": "David prepared iron in abundance for nails for the doors of the gates and joins, and bronze in great quantity without weighing,",
       "links": "<a href='/AIV/11/7/47'>1 Kings 7:47</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 13022004,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 22,
       "verse": 4,
       "text": "and cedar logs beyond number, for the Sidonians and Tyrians brought cedar wood in abundance to David.",
       "links": "<a href='/AIV/11/5/6-10'>1 Kings 5:6-10</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 13022005,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 22,
       "verse": 5,
       "text": "David said, 'Solomon my son is young and inexperienced, and the house to be built for the LORD must be exceedingly great, famous and glorious throughout all lands. Therefore, I will make preparations for it.' So David provided large quantities before his death.",
       "links": "<a href='/AIV/11/3/7'>1 Kings 3:7</a>; <a href='/AIV/13/29/1-5'>1 Chr. 29:1-5</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 13022006,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 22,
       "verse": 6,
       "text": "Then he called for Solomon his son and charged him to build a house for the LORD God of Israel.",
       "links": "<a href='/AIV/10/7/13'>2 Sam. 7:13</a>; <a href='/AIV/11/6/2'>1 Kings 6:2</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 13022007,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 22,
       "verse": 7,
       "text": "David said to Solomon, 'My son, I intended to build a house to the name of the LORD my God,",
       "links": "<a href='/AIV/10/7/2'>2 Sam. 7:2</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 13022008,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 22,
       "verse": 8,
       "text": "but the word of the LORD came to me, saying, ‘You have shed much blood and waged great wars. You shall not build a house for my name, because you have shed much blood before me on the earth.’",
       "links": "<a href='/AIV/10/7/5-6'>2 Sam. 7:5-6</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 13022009,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 22,
       "verse": 9,
       "text": "'Behold, a son shall be born to you, who shall be a man of rest. I will give him rest from all his enemies. His name shall be Solomon, and I will give peace and quiet to Israel during his days.'",
       "links": "<a href='/AIV/11/5/4'>1 Kings 5:4</a>; <a href='/AIV/19/72/1-7'>Ps. 72:1-7</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 13022010,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 22,
       "verse": 10,
       "text": "'He shall build a house for my name. He shall be my son, and I will be his father. I will establish his royal throne over Israel forever.'",
       "links": "<a href='/AIV/10/7/13-14'>2 Sam. 7:13-14</a>; <a href='/AIV/19/89/27-29'>Ps. 89:27-29</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 13022011,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 22,
       "verse": 11,
       "text": "'Now, my son, may the LORD be with you, that you may prosper and build the house of the LORD your God, as he has spoken concerning you.'",
       "links": "<a href='/AIV/11/2/3-4'>1 Kings 2:3-4</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 13022012,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 22,
       "verse": 12,
       "text": "'May the LORD give you wisdom and understanding when he puts you in charge of Israel, so that you may keep the law of the LORD your God.'",
       "links": "<a href='/AIV/11/3/9'>1 Kings 3:9</a>; <a href='/AIV/19/119/34'>Ps. 119:34</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 13022013,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 22,
       "verse": 13,
       "text": "'You will succeed if you are careful to observe the decrees and laws that the LORD gave Moses for Israel. Be strong and courageous; do not fear or be dismayed.'",
       "links": "<a href='/AIV/6/1/7-9'>Josh. 1:7-9</a>; <a href='/AIV/11/2/3'>1 Kings 2:3</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 13022014,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 22,
       "verse": 14,
       "text": "'Now, look, with great effort I have provided for the house of the LORD: one hundred thousand talents of gold, one million talents of silver, bronze and iron beyond weighing, for there is so much; I have also provided timber and stone, and you may add to them.'",
       "links": "<a href='/AIV/13/29/2-4'>1 Chr. 29:2-4</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 13022015,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 22,
       "verse": 15,
       "text": "'You have an abundance of workmen: stonecutters, masons, carpenters, and all kinds of skilled people for every kind of work.'",
       "links": "<a href='/AIV/11/5/13-18'>1 Kings 5:13-18</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 13022016,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 22,
       "verse": 16,
       "text": "'You have gold, silver, bronze, and iron beyond number. Arise and begin the work, and may the LORD be with you.'",
       "links": "<a href='/AIV/13/29/5'>1 Chr. 29:5</a>",
@@ -200,11 +122,6 @@
     },
     {
       "pk": 13022017,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 22,
       "verse": 17,
       "text": "David also commanded all the leaders of Israel to help Solomon his son,",
       "links": "<a href='/AIV/13/28/1'>1 Chr. 28:1</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 13022018,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 22,
       "verse": 18,
       "text": "'Is not the LORD your God with you? Has he not given you rest on every side? For he has delivered the inhabitants of the land into your hand, and the land is subdued before the LORD and his people.'",
       "links": "<a href='/AIV/11/5/4'>1 Kings 5:4</a>",
@@ -225,33 +137,10 @@
     },
     {
       "pk": 13022019,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 22,
       "verse": 19,
       "text": "'Now set your heart and soul to seek the LORD your God. Arise and build the sanctuary of the LORD God, to bring the ark of the covenant of the LORD and the holy vessels of God into the house built for the name of the LORD.'",
       "links": "<a href='/AIV/13/16/1'>1 Chr. 16:1</a>; <a href='/AIV/11/8/6'>1 Kings 8:6</a>",
       "comment": "The exhortation to 'set your heart and soul' recalls the call to wholehearted devotion (<a href='/AIV/5/6/5'>Deut. 6:5</a>). The gathering of the ark and holy vessels in the house for God anticipates fullness of worship, hinting at both symbolic and real presence of God among His people."
-    }
-  ],
-  "translatedAt": "2025-12-24T04:17:05.371Z",
-  "sections": [
-    {
-      "title": "Preparations for the Temple",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "David’s Charge to Solomon",
-      "startVerse": 6,
-      "endVerse": 16
-    },
-    {
-      "title": "David Commands the Leaders to Assist Solomon",
-      "startVerse": 17,
-      "endVerse": 19
     }
   ]
 }

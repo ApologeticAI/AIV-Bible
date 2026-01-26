@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 70,
   "verses": [
     {
       "pk": 23070001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 70,
       "verse": 1,
       "text": "God, hurry to rescue me; Lord, make haste to help me.",
       "links": "<a href='/AIV/19/40/13'>Ps. 40:13</a>; <a href='/AIV/19/71/12'>Ps. 71:12</a>;",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23070002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 70,
       "verse": 2,
       "text": "Let those who seek my life be put to shame and confusion; let those who desire my harm turn back and be disgraced.",
       "links": "<a href='/AIV/19/35/4'>Ps. 35:4</a>; <a href='/AIV/19/71/13'>Ps. 71:13</a>;",
@@ -32,11 +24,6 @@
     },
     {
       "pk": 23070003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 70,
       "verse": 3,
       "text": "Let those who say, 'Aha! Aha!' turn back in shame because of their mocking.",
       "links": "<a href='/AIV/19/35/21'>Ps. 35:21</a>; <a href='/AIV/19/40/15'>Ps. 40:15</a>;",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 23070004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 70,
       "verse": 4,
       "text": "Let all who seek You rejoice and be glad in You; and let those who love Your salvation say evermore, 'God is great!'",
       "links": "<a href='/AIV/19/40/16'>Ps. 40:16</a>; <a href='/AIV/19/35/27'>Ps. 35:27</a>;",
@@ -57,39 +39,11 @@
     },
     {
       "pk": 23070005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 70,
       "verse": 5,
       "text": "But I am poor and needy; hurry to me, God. You are my help and my deliverer; Lord, do not delay.",
       "links": "<a href='/AIV/19/40/17'>Ps. 40:17</a>; <a href='/AIV/19/109/22'>Ps. 109:22</a>;",
       "comment": "The psalmist’s humility—confessing spiritual poverty—points forward to Christ’s Beatitudes: 'Blessed are the poor in spirit' (<a href='/AIV/40/5/3'>Matt. 5:3</a>). Relying on God alone, as 'my help and my deliverer,' is a confession found throughout the psalms, encouraging believers to continually trust in God for salvation, both in life and in the hope of resurrection.",
       "sectionHeader": "The Cry of the Poor"
-    }
-  ],
-  "translatedAt": "2025-12-24T06:22:52.815Z",
-  "sections": [
-    {
-      "title": "A Plea for Swift Deliverance",
-      "startVerse": 1,
-      "endVerse": 1
-    },
-    {
-      "title": "Prayer Against Enemies",
-      "startVerse": 2,
-      "endVerse": 3
-    },
-    {
-      "title": "Rejoicing in God's Salvation",
-      "startVerse": 4,
-      "endVerse": 4
-    },
-    {
-      "title": "The Cry of the Poor",
-      "startVerse": 5,
-      "endVerse": 5
     }
   ]
 }

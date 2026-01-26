@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 144,
   "verses": [
     {
       "pk": 23144001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 144,
       "verse": 1,
       "text": "Blessed be the LORD, my rock, who trains my hands for war and my fingers for battle.",
       "links": "<a href='/AIV/19/18/2'>Ps. 18:2</a>; <a href='/AIV/19/18/34'>Ps. 18:34</a>; <a href='/AIV/09/17/34-37'>1 Sam. 17:34-37</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23144002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 144,
       "verse": 2,
       "text": "He is my steadfast love and my fortress, my stronghold and my deliverer, my shield, and in whom I take refuge, who brings my people under me.",
       "links": "<a href='/AIV/19/18/2'>Ps. 18:2</a>; <a href='/AIV/10/22/3'>2 Sam. 22:3</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23144003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 144,
       "verse": 3,
       "text": "LORD, what is man that you regard him, or the son of man that you think of him?",
       "links": "<a href='/AIV/19/08/4'>Ps. 8:4</a>; <a href='/AIV/18/07/17'>Job 7:17</a>; <a href='/AIV/58/02/6'>Heb. 2:6</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23144004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 144,
       "verse": 4,
       "text": "Man is like a breath; his days are like a passing shadow.",
       "links": "<a href='/AIV/19/39/5-6'>Ps. 39:5-6</a>; <a href='/AIV/19/102/11'>Ps. 102:11</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23144005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 144,
       "verse": 5,
       "text": "Bow your heavens, LORD, and come down! Touch the mountains so that they smoke!",
       "links": "<a href='/AIV/02/19/18'>Ex. 19:18</a>; <a href='/AIV/19/18/9'>Ps. 18:9</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23144006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 144,
       "verse": 6,
       "text": "Flash forth lightning and scatter them; send out your arrows and rout them!",
       "links": "<a href='/AIV/19/18/14'>Ps. 18:14</a>; <a href='/AIV/10/22/15'>2 Sam. 22:15</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23144007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 144,
       "verse": 7,
       "text": "Stretch out your hand from on high; rescue me and deliver me from many waters, from the hand of foreigners,",
       "links": "<a href='/AIV/19/18/16-17'>Ps. 18:16-17</a>; <a href='/AIV/02/14/29-30'>Ex. 14:29-30</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 23144008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 144,
       "verse": 8,
       "text": "whose mouths speak lies and whose right hand is a right hand of falsehood.",
       "links": "<a href='/AIV/19/12/2'>Ps. 12:2</a>; <a href='/AIV/19/144/11'>Ps. 144:11</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 23144009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 144,
       "verse": 9,
       "text": "I will sing a new song to you, O God; upon a ten-stringed harp I will play to you,",
       "links": "<a href='/AIV/19/33/2-3'>Ps. 33:2-3</a>; <a href='/AIV/19/98/1'>Ps. 98:1</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 23144010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 144,
       "verse": 10,
       "text": "who gives victory to kings, who rescues David his servant from the cruel sword.",
       "links": "<a href='/AIV/19/18/50'>Ps. 18:50</a>; <a href='/AIV/19/21/1'>Ps. 21:1</a>",
@@ -127,11 +79,6 @@
     },
     {
       "pk": 23144011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 144,
       "verse": 11,
       "text": "Rescue me and deliver me from the hand of foreigners, whose mouths speak lies, whose right hand is a right hand of falsehood.",
       "links": "<a href='/AIV/19/144/7-8'>Ps. 144:7-8</a>",
@@ -139,11 +86,6 @@
     },
     {
       "pk": 23144012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 144,
       "verse": 12,
       "text": "May our sons in their youth be like well-nurtured plants, our daughters like corner pillars fashioned for a palace;",
       "links": "<a href='/AIV/19/128/3'>Ps. 128:3</a>; <a href='/AIV/22/8/9'>Song 8:9</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 23144013,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 144,
       "verse": 13,
       "text": "May our barns be filled with every kind of produce; may our sheep increase by thousands, by tens of thousands in our fields;",
       "links": "<a href='/AIV/05/28/4'>Deut. 28:4</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 23144014,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 144,
       "verse": 14,
       "text": "may our oxen be well laden; may there be no breach, no exile, no cry of distress in our streets!",
       "links": "<a href='/AIV/23/60/18'>Isa. 60:18</a>; <a href='/AIV/19/127/1'>Ps. 127:1</a>",
@@ -176,28 +108,10 @@
     },
     {
       "pk": 23144015,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 144,
       "verse": 15,
       "text": "Blessed are the people to whom such blessings fall! Blessed are the people whose God is the LORD!",
       "links": "<a href='/AIV/19/33/12'>Ps. 33:12</a>; <a href='/AIV/05/33/29'>Deut. 33:29</a>",
       "comment": "The psalm closes by affirming true happiness comes from being part of the community ordered by God. Material and spiritual blessings flow from living under God's reign. This points to the joy and unity found in the people of God, a sign of authentic communion with the Lord."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:48:19.612Z",
-  "sections": [
-    {
-      "title": "A Prayer for Deliverance and Victory",
-      "startVerse": 1,
-      "endVerse": 11
-    },
-    {
-      "title": "Blessings upon God's People",
-      "startVerse": 12,
-      "endVerse": 15
     }
   ]
 }

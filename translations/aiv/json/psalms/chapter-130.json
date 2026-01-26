@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 130,
   "verses": [
     {
       "pk": 23130001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 130,
       "verse": 1,
       "text": "Out of the depths I cry to you, O LORD.",
       "links": "<a href='/AIV/19/69/2'>Ps. 69:2</a>; <a href='/AIV/25/3/55'>Lam. 3:55</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23130002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 130,
       "verse": 2,
       "text": "Lord, hear my voice! Let your ears be attentive to the voice of my supplications.",
       "links": "<a href='/AIV/19/28/2'>Ps. 28:2</a>; <a href='/AIV/19/86/6'>Ps. 86:6</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23130003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 130,
       "verse": 3,
       "text": "If you, O LORD, should mark iniquities, Lord, who could stand?",
       "links": "<a href='/AIV/19/143/2'>Ps. 143:2</a>; <a href='/AIV/45/3/23'>Rom. 3:23</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23130004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 130,
       "verse": 4,
       "text": "But with you there is forgiveness, that you may be revered.",
       "links": "<a href='/AIV/19/86/5'>Ps. 86:5</a>; <a href='/AIV/41/2/5-7'>Mark 2:5-7</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23130005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 130,
       "verse": 5,
       "text": "I wait for the LORD, my soul waits, and in his word I hope.",
       "links": "<a href='/AIV/19/62/1'>Ps. 62:1</a>; <a href='/AIV/19/119/81'>Ps. 119:81</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23130006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 130,
       "verse": 6,
       "text": "My soul waits for the Lord more than watchmen for the morning, more than watchmen for the morning.",
       "links": "<a href='/AIV/19/5/3'>Ps. 5:3</a>; <a href='/AIV/19/63/6'>Ps. 63:6</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23130007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 130,
       "verse": 7,
       "text": "O Israel, hope in the LORD! For with the LORD there is steadfast love, and with him is abundant redemption.",
       "links": "<a href='/AIV/19/131/3'>Ps. 131:3</a>; <a href='/AIV/23/44/22'>Isa. 44:22</a>",
@@ -92,28 +59,10 @@
     },
     {
       "pk": 23130008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 130,
       "verse": 8,
       "text": "And he will redeem Israel from all his iniquities.",
       "links": "<a href='/AIV/19/25/22'>Ps. 25:22</a>; <a href='/AIV/42/1/77'>Luke 1:77</a>",
       "comment": "The promise of comprehensive redemption from sin foreshadows the complete salvation offered through Christ. In Christian reflection, this is realized through both personal and communal restoration—pointing to the final deliverance and purification of God’s people. The hope of being freed from all iniquities rests not on individual effort but on divine initiative and participation in the means of grace."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:44:11.419Z",
-  "sections": [
-    {
-      "title": "A Cry for Mercy",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "Hope in the Lord's Redemption",
-      "startVerse": 7,
-      "endVerse": 8
     }
   ]
 }

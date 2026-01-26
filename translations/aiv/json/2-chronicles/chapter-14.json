@@ -1,16 +1,13 @@
 {
-  "book": 14,
+  "translation": "AIV",
+  "bookId": "2-chronicles",
   "bookName": "2 Chronicles",
-  "bookAbbreviation": "2Chr",
+  "bookAbbreviation": "2 Chr",
+  "bookNumber": 14,
   "chapter": 14,
   "verses": [
     {
       "pk": 14014001,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 14,
       "verse": 1,
       "text": "Abijah rested with his fathers, and they buried him in the city of David. Asa his son became king in his place. In his days the land was quiet for ten years.",
       "links": "<a href='/AIV/13/3/1'>1 Chr. 3:10</a>; <a href='/AIV/11/15/8'>1 Kings 15:8</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 14014002,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 14,
       "verse": 2,
       "text": "Asa did what was good and right in the eyes of the Lord his God.",
       "links": "<a href='/AIV/11/15/11'>1 Kings 15:11</a>; <a href='/AIV/05/12/25'>Deut. 12:25</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 14014003,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 14,
       "verse": 3,
       "text": "He removed the foreign altars and the high places, broke down the pillars, and cut down the Asherah poles.",
       "links": "<a href='/AIV/05/12/3'>Deut. 12:3</a>; <a href='/AIV/02/23/24'>Exod. 23:24</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 14014004,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 14,
       "verse": 4,
       "text": "He commanded Judah to seek the LORD, the God of their fathers, and to obey the law and the commandment.",
       "links": "<a href='/AIV/05/4/29'>Deut. 4:29</a>; <a href='/AIV/19/105/4'>Ps. 105:4</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 14014005,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 14,
       "verse": 5,
       "text": "He also removed the high places and the incense altars from all the cities of Judah. And the kingdom was quiet under him.",
       "links": "<a href='/AIV/11/15/12-13'>1 Kings 15:12-13</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 14014006,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 14,
       "verse": 6,
       "text": "He built fortified cities in Judah, for the land had rest. During these years there was no war because the LORD had given him peace.",
       "links": "<a href='/AIV/10/7/1'>2 Sam. 7:1</a>; <a href='/AIV/23/26/1'>Isa. 26:1</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 14014007,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 14,
       "verse": 7,
       "text": "So he said to Judah, 'Let us build these cities and surround them with walls, towers, gates, and bars. The land is still ours, because we have sought the LORD our God; we have sought him, and he has given us peace on every side.' So they built and prospered.",
       "links": "<a href='/AIV/05/28/6-7'>Deut. 28:6-7</a>; <a href='/AIV/19/122/7'>Ps. 122:7</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 14014008,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 14,
       "verse": 8,
       "text": "Asa had an army of three hundred thousand men from Judah, armed with large shields and spears, and two hundred eighty thousand from Benjamin, carrying shields and drawing bows. All these were mighty men of valor.",
       "links": "<a href='/AIV/13/12/24-25'>1 Chr. 12:24-25</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 14014009,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 14,
       "verse": 9,
       "text": "Zerah the Ethiopian came out against them with an army of a million men and three hundred chariots, and advanced as far as Mareshah.",
       "links": "<a href='/AIV/13/4/21'>1 Chr. 4:21</a>; <a href='/AIV/14/11/8'>2 Chr. 11:8</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 14014010,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 14,
       "verse": 10,
       "text": "So Asa went out to meet him, and they drew up their lines of battle in the Valley of Zephathah at Mareshah.",
       "links": "<a href='/AIV/14/13/3'>2 Chr. 13:3</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 14014011,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 14,
       "verse": 11,
       "text": "Asa called out to the LORD his God, saying, 'LORD, there is none besides you to help between the mighty and the powerless. Help us, LORD our God, for we rely on you and in your name we have come against this vast multitude. LORD, you are our God; do not let man prevail against you.'",
       "links": "<a href='/AIV/09/17/47'>1 Sam. 17:47</a>; <a href='/AIV/19/20/7'>Ps. 20:7</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 14014012,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 14,
       "verse": 12,
       "text": "So the LORD struck down the Ethiopians before Asa and Judah, and the Ethiopians fled.",
       "links": "<a href='/AIV/02/14/25'>Exod. 14:25</a>; <a href='/AIV/19/68/1'>Ps. 68:1</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 14014013,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 14,
       "verse": 13,
       "text": "Asa and the people who were with him pursued them as far as Gerar, and the Ethiopians fell, so that none remained alive, for they were broken before the LORD and his army. And they carried away a very great amount of spoil.",
       "links": "<a href='/AIV/06/10/10-11'>Josh. 10:10-11</a>; <a href='/AIV/14/20/25'>2 Chr. 20:25</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 14014014,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 14,
       "verse": 14,
       "text": "They struck all the cities around Gerar, for the fear of the LORD had fallen upon them. They plundered all the cities, for there was much spoil in them.",
       "links": "<a href='/AIV/01/35/5'>Gen. 35:5</a>; <a href='/AIV/06/2/9-11'>Josh. 2:9-11</a>",
@@ -176,28 +108,10 @@
     },
     {
       "pk": 14014015,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 14,
       "verse": 15,
       "text": "They also attacked the tents of those who had livestock and carried away sheep and camels in abundance, and then they returned to Jerusalem.",
       "links": "<a href='/AIV/09/30/20'>1 Sam. 30:20</a>; <a href='/AIV/14/11/5'>2 Chr. 11:5</a>",
       "comment": "The return to Jerusalem after victory highlights the centrality of God's chosen city—a symbol later fulfilled in the heavenly Jerusalem (<a href='/AIV/58/12/22'>Heb. 12:22</a>). The gathering in unity and thanksgiving points toward forms of collective worship among believers."
-    }
-  ],
-  "translatedAt": "2025-12-24T04:28:43.551Z",
-  "sections": [
-    {
-      "title": "Reign of Asa and Religious Reforms",
-      "startVerse": 1,
-      "endVerse": 8
-    },
-    {
-      "title": "Victory over Zerah the Ethiopian",
-      "startVerse": 9,
-      "endVerse": 15
     }
   ]
 }

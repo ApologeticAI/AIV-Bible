@@ -1,16 +1,13 @@
 {
-  "book": 26,
+  "translation": "AIV",
+  "bookId": "song-of-songs",
   "bookName": "Song of Songs",
   "bookAbbreviation": "Song",
+  "bookNumber": 26,
   "chapter": 8,
   "verses": [
     {
       "pk": 26008001,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 8,
       "verse": 1,
       "text": "If only you were like my brother, who nursed at my mother’s breast! Then, if I met you outside, I would kiss you, and no one would despise me.",
       "links": "<a href='/AIV/20/5/16'>Prov. 5:16</a>; <a href='/AIV/26/1/2'>Song 1:2</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 26008002,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 8,
       "verse": 2,
       "text": "I would lead you and bring you into my mother’s house—she who taught me. I would give you spiced wine to drink, the juice of my pomegranates.",
       "links": "<a href='/AIV/26/3/4'>Song 3:4</a>; <a href='/AIV/26/5/1'>Song 5:1</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 26008003,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 8,
       "verse": 3,
       "text": "Let his left hand be under my head and his right hand embrace me.",
       "links": "<a href='/AIV/26/2/6'>Song 2:6</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 26008004,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 8,
       "verse": 4,
       "text": "Daughters of Jerusalem, I charge you: Do not awaken or stir up love until it pleases.",
       "links": "<a href='/AIV/26/2/7'>Song 2:7</a>; <a href='/AIV/26/3/5'>Song 3:5</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 26008005,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 8,
       "verse": 5,
       "text": "Who is this coming up from the wilderness, leaning on her beloved? Under the apple tree, I awakened you. There your mother conceived you; there she who bore you gave you birth.",
       "links": "<a href='/AIV/26/3/6'>Song 3:6</a>; <a href='/AIV/26/2/3'>Song 2:3</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 26008006,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 8,
       "verse": 6,
       "text": "Set me as a seal upon your heart, as a seal upon your arm, for love is as strong as death, passion as fierce as the grave. Its flames are blazing fire—a very flame of the LORD.",
       "links": "<a href='/AIV/24/22/24'>Jer. 22:24</a>; <a href='/AIV/39/3/2'>Mal. 3:2</a>; <a href='/AIV/45/8/38-39'>Rom. 8:38-39</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 26008007,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 8,
       "verse": 7,
       "text": "Many waters cannot quench love, nor can rivers drown it. If someone offered all the wealth of his house for love, it would be utterly despised.",
       "links": "<a href='/AIV/40/19/21'>Matt. 19:21</a>; <a href='/AIV/19/46/3'>Ps. 46:3</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 26008008,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 8,
       "verse": 8,
       "text": "We have a little sister, and she has no breasts. What shall we do for our sister on the day she is spoken for?",
       "links": "<a href='/AIV/26/1/6'>Song 1:6</a>; <a href='/AIV/26/6/9'>Song 6:9</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 26008009,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 8,
       "verse": 9,
       "text": "If she is a wall, we will build upon her a silver tower; but if she is a door, we will enclose her with panels of cedar.",
       "links": "<a href='/AIV/11/6/9-10'>1 Kings 6:9-10</a>; <a href='/AIV/26/4/4'>Song 4:4</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 26008010,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 8,
       "verse": 10,
       "text": "I am a wall, and my breasts are like towers. Thus, I have become in his eyes as one who finds peace.",
       "links": "<a href='/AIV/26/4/5'>Song 4:5</a>; <a href='/AIV/23/32/18'>Isa. 32:18</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 26008011,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 8,
       "verse": 11,
       "text": "Solomon had a vineyard at Baal-hamon; he rented the vineyard to keepers. Each was to bring for its fruit a thousand pieces of silver.",
       "links": "<a href='/AIV/26/1/6'>Song 1:6</a>; <a href='/AIV/20/31/10'>Prov. 31:10</a>",
@@ -142,11 +89,6 @@
     },
     {
       "pk": 26008012,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 8,
       "verse": 12,
       "text": "My own vineyard belongs to me, the thousand are for you, Solomon, and two hundred for those who tend its fruit.",
       "links": "<a href='/AIV/26/1/6'>Song 1:6</a>; <a href='/AIV/19/127/3'>Ps. 127:3</a>",
@@ -154,11 +96,6 @@
     },
     {
       "pk": 26008013,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 8,
       "verse": 13,
       "text": "You who dwell in the gardens, companions are listening for your voice; let me hear it!",
       "links": "<a href='/AIV/26/2/14'>Song 2:14</a>; <a href='/AIV/19/5/3'>Ps. 5:3</a>",
@@ -166,38 +103,10 @@
     },
     {
       "pk": 26008014,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 8,
       "verse": 14,
       "text": "Hurry, my beloved, and be like a gazelle or a young stag on the mountains of spices.",
       "links": "<a href='/AIV/26/2/17'>Song 2:17</a>; <a href='/AIV/19/42/1'>Ps. 42:1</a>",
       "comment": "Final appeal for swift union symbolizes longing for consummation, echoing themes of anticipation found in Revelation 22:20 (‘Come, Lord Jesus’). The ‘mountains of spices’ evoke blissful, sacred meeting places—prefiguring heaven and spiritual fulfillment."
-    }
-  ],
-  "translatedAt": "2025-12-24T07:14:17.144Z",
-  "sections": [
-    {
-      "title": "The Longing for Public Love",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "Love’s Invincible Power",
-      "startVerse": 6,
-      "endVerse": 7
-    },
-    {
-      "title": "The Bride and Her Little Sister",
-      "startVerse": 8,
-      "endVerse": 10
-    },
-    {
-      "title": "The Bride’s Vineyard and Final Invitation",
-      "startVerse": 11,
-      "endVerse": 14
     }
   ]
 }

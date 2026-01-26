@@ -1,16 +1,13 @@
 {
-  "book": 22,
+  "translation": "AIV",
+  "bookId": "job",
   "bookName": "Job",
   "bookAbbreviation": "Job",
+  "bookNumber": 22,
   "chapter": 14,
   "verses": [
     {
       "pk": 22014001,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 14,
       "verse": 1,
       "text": "Man, born of woman, is short-lived and full of trouble.",
       "links": "<a href='/AIV/19/90/10'>Ps. 90:10</a>; <a href='/AIV/18/7/1'>Job 7:1</a>; <a href='/AIV/18/5/7'>Job 5:7</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 22014002,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 14,
       "verse": 2,
       "text": "He comes forth like a flower and withers; he flees like a shadow and does not endure.",
       "links": "<a href='/AIV/19/103/15-16'>Ps. 103:15-16</a>; <a href='/AIV/23/40/6-8'>Isa. 40:6-8</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 22014003,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 14,
       "verse": 3,
       "text": "Do you open your eyes on such a one, and bring me into judgment with you?",
       "links": "<a href='/AIV/18/7/20'>Job 7:20</a>; <a href='/AIV/19/143/2'>Ps. 143:2</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 22014004,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 14,
       "verse": 4,
       "text": "Who can bring something clean out of the unclean? No one.",
       "links": "<a href='/AIV/19/51/5'>Ps. 51:5</a>; <a href='/AIV/45/5/12'>Rom. 5:12</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 22014005,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 14,
       "verse": 5,
       "text": "Since his days are determined, and the number of his months is with you, and you have set his limits so he cannot go beyond them,",
       "links": "<a href='/AIV/19/139/16'>Ps. 139:16</a>; <a href='/AIV/18/7/1'>Job 7:1</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 22014006,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 14,
       "verse": 6,
       "text": "Look away from him so that he may rest, till he completes his day like a hired worker.",
       "links": "<a href='/AIV/18/7/19'>Job 7:19</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 22014007,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 14,
       "verse": 7,
       "text": "For there is hope for a tree: if it is cut down, it will sprout again, and its shoots will not cease.",
       "links": "<a href='/AIV/23/11/1'>Isa. 11:1</a>; <a href='/AIV/19/92/12'>Ps. 92:12</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 22014008,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 14,
       "verse": 8,
       "text": "Though its root grows old in the earth and its stump dies in the ground,",
       "links": "<a href='/AIV/23/11/1'>Isa. 11:1</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 22014009,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 14,
       "verse": 9,
       "text": "at the scent of water it will bud and put forth branches like a young plant.",
       "links": "<a href='/AIV/19/1/3'>Ps. 1:3</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 22014010,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 14,
       "verse": 10,
       "text": "But a man dies and is laid low; a person breathes his last, and where is he?",
       "links": "<a href='/AIV/19/39/13'>Ps. 39:13</a>; <a href='/AIV/21/12/7'>Eccl. 12:7</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 22014011,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 14,
       "verse": 11,
       "text": "As waters recede from the sea, and a river dries up,",
       "links": "<a href='/AIV/19/104/9'>Ps. 104:9</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 22014012,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 14,
       "verse": 12,
       "text": "so man lies down and does not rise; till the heavens are no more, people will not awake or be roused from their sleep.",
       "links": "<a href='/AIV/19/13/3'>Ps. 13:3</a>; <a href='/AIV/43/5/28-29'>John 5:28-29</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 22014013,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 14,
       "verse": 13,
       "text": "Oh, that you would hide me in Sheol, that you would conceal me until your anger passes, that you would set a time and remember me!",
       "links": "<a href='/AIV/18/7/9'>Job 7:9</a>; <a href='/AIV/19/17/13'>Ps. 17:13</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 22014014,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 14,
       "verse": 14,
       "text": "If a man dies, shall he live again? All the days of my service I would wait, till my renewal comes.",
       "links": "<a href='/AIV/24/30/19'>Jer. 30:19</a>; <a href='/AIV/46/15/42'>1 Cor. 15:42</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 22014015,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 14,
       "verse": 15,
       "text": "You would call, and I would answer; you would long for the work of your hands.",
       "links": "<a href='/AIV/19/27/8'>Ps. 27:8</a>; <a href='/AIV/20/8/31'>Prov. 8:31</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 22014016,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 14,
       "verse": 16,
       "text": "For now you count my steps; you do not watch over my sin.",
       "links": "<a href='/AIV/19/139/3'>Ps. 139:3</a>; <a href='/AIV/19/130/3'>Ps. 130:3</a>",
@@ -200,11 +122,6 @@
     },
     {
       "pk": 22014017,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 14,
       "verse": 17,
       "text": "My transgression is sealed up in a bag, and you cover over my iniquity.",
       "links": "<a href='/AIV/19/32/1'>Ps. 32:1</a>; <a href='/AIV/19/85/2'>Ps. 85:2</a>",
@@ -212,11 +129,6 @@
     },
     {
       "pk": 22014018,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 14,
       "verse": 18,
       "text": "But as a mountain falls and crumbles, and as a rock is moved from its place—",
       "links": "<a href='/AIV/19/46/2'>Ps. 46:2</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 22014019,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 14,
       "verse": 19,
       "text": "as water wears away stones and floods wash away the soil of the earth, so you destroy the hope of man.",
       "links": "<a href='/AIV/19/39/7'>Ps. 39:7</a>",
@@ -237,11 +144,6 @@
     },
     {
       "pk": 22014020,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 14,
       "verse": 20,
       "text": "You overpower him forever, and he passes away; you change his countenance and send him away.",
       "links": "<a href='/AIV/19/104/29'>Ps. 104:29</a>; <a href='/AIV/21/12/7'>Eccl. 12:7</a>",
@@ -249,11 +151,6 @@
     },
     {
       "pk": 22014021,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 14,
       "verse": 21,
       "text": "His children come to honor, and he does not know it; they are brought low, and he is unaware of them.",
       "links": "<a href='/AIV/21/9/5'>Eccl. 9:5</a>",
@@ -261,33 +158,10 @@
     },
     {
       "pk": 22014022,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 14,
       "verse": 22,
       "text": "He feels only the pain of his own body, and he mourns only for himself.",
       "links": "<a href='/AIV/19/6/6'>Ps. 6:6</a>; <a href='/AIV/18/19/20'>Job 19:20</a>",
       "comment": "Job closes this thought in sorrow for human suffering and isolation, reflecting the profound need for restoration—foreshadowing the hope of bodily resurrection and the promise of eternal life in union with God."
-    }
-  ],
-  "translatedAt": "2025-12-24T05:45:28.722Z",
-  "sections": [
-    {
-      "title": "The Brevity and Suffering of Human Life",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "Death and the Hope of Renewal",
-      "startVerse": 7,
-      "endVerse": 17
-    },
-    {
-      "title": "The Finality of Death",
-      "startVerse": 18,
-      "endVerse": 22
     }
   ]
 }

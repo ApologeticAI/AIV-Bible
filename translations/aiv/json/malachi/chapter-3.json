@@ -1,16 +1,13 @@
 {
-  "book": 46,
+  "translation": "AIV",
+  "bookId": "malachi",
   "bookName": "Malachi",
   "bookAbbreviation": "Mal",
+  "bookNumber": 46,
   "chapter": 3,
   "verses": [
     {
       "pk": 46003001,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 3,
       "verse": 1,
       "text": "See, I am sending my messenger, and he will prepare the way before Me. Then suddenly, the Lord whom you seek will come to His temple; the messenger of the covenant in whom you delight—behold, He is coming, says the LORD of hosts.",
       "links": "<a href='/AIV/40/11/10'>Matt. 11:10</a>; <a href='/AIV/41/1/2'>Mark 1:2</a>; <a href='/AIV/42/1/76'>Luke 1:76</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 46003002,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 3,
       "verse": 2,
       "text": "But who can endure the day of His coming, and who can stand when He appears? For He is like a refiner's fire and like launderers' soap.",
       "links": "<a href='/AIV/19/24/3'>Ps. 24:3</a>; <a href='/AIV/23/33/14'>Isaiah 33:14</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 46003003,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 3,
       "verse": 3,
       "text": "He will sit as a refiner and purifier of silver; He will purify the sons of Levi and refine them like gold and silver, so that they may offer to the LORD offerings in righteousness.",
       "links": "<a href='/AIV/19/51/17'>Ps. 51:17</a>; <a href='/AIV/23/48/10'>Isaiah 48:10</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 46003004,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 3,
       "verse": 4,
       "text": "Then the offering of Judah and Jerusalem will be pleasing to the LORD as in days of old and in former years.",
       "links": "<a href='/AIV/03/22/19'>Lev. 22:19</a>; <a href='/AIV/19/51/19'>Ps. 51:19</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 46003005,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 3,
       "verse": 5,
       "text": "Then I will draw near to you for judgment; I will be a swift witness against sorcerers, against adulterers, against those who swear falsely, against those who oppress the hired worker in his wages, the widow and the fatherless, and those who turn aside the foreigner and do not fear Me, says the LORD of hosts.",
       "links": "<a href='/AIV/02/22/21-24'>Ex. 22:21-24</a>; <a href='/AIV/19/68/5'>Ps. 68:5</a>; <a href='/AIV/23/1/23'>Isaiah 1:23</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 46003006,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 3,
       "verse": 6,
       "text": "For I, the LORD, do not change; therefore you, O descendants of Jacob, are not destroyed.",
       "links": "<a href='/AIV/04/23/19'>Num. 23:19</a>; <a href='/AIV/19/102/27'>Ps. 102:27</a>; <a href='/AIV/58/13/8'>Heb. 13:8</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 46003007,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 3,
       "verse": 7,
       "text": "From the days of your ancestors, you have turned aside from My statutes and have not kept them. Return to Me, and I will return to you, says the LORD of hosts. But you say, ‘How shall we return?’",
       "links": "<a href='/AIV/16/9/29'>Neh. 9:29</a>; <a href='/AIV/23/55/7'>Isaiah 55:7</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 46003008,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 3,
       "verse": 8,
       "text": "Will a man rob God? Yet you are robbing Me. But you say, ‘How have we robbed You?’ In tithes and offerings.",
       "links": "<a href='/AIV/03/27/30'>Lev. 27:30</a>; <a href='/AIV/20/3/9'>Prov. 3:9</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 46003009,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 3,
       "verse": 9,
       "text": "You are cursed with a curse, for you are robbing Me, the whole nation.",
       "links": "<a href='/AIV/05/28/15'>Deut. 28:15</a>; <a href='/AIV/19/106/6'>Ps. 106:6</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 46003010,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 3,
       "verse": 10,
       "text": "Bring the full tithe into the storehouse, so that there may be food in My house. And test Me now in this, says the LORD of hosts, if I will not open the windows of heaven for you and pour out for you a blessing until it overflows.",
       "links": "<a href='/AIV/05/28/12'>Deut. 28:12</a>; <a href='/AIV/42/6/38'>Luke 6:38</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 46003011,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 3,
       "verse": 11,
       "text": "And I will rebuke the devourer for you, and he will not destroy the fruits of your ground; nor shall your vine in the field fail to bear, says the LORD of hosts.",
       "links": "<a href='/AIV/29/2/25'>Joel 2:25</a>; <a href='/AIV/05/28/4'>Deut. 28:4</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 46003012,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 3,
       "verse": 12,
       "text": "And all nations will call you blessed, for you will be a land of delight, says the LORD of hosts.",
       "links": "<a href='/AIV/01/12/2-3'>Gen. 12:2-3</a>; <a href='/AIV/05/7/6'>Deut. 7:6</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 46003013,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 3,
       "verse": 13,
       "text": "Your words have been harsh against Me, says the LORD. Yet you say, ‘What have we spoken against You?’",
       "links": "<a href='/AIV/19/73/9'>Ps. 73:9</a>; <a href='/AIV/18/34/5'>Job 34:5</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 46003014,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 3,
       "verse": 14,
       "text": "You have said, ‘It is useless to serve God. What profit is there in keeping His command or in walking mournfully before the LORD of hosts?’",
       "links": "<a href='/AIV/19/73/13-14'>Ps. 73:13-14</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 46003015,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 3,
       "verse": 15,
       "text": "So now we call the arrogant blessed; evildoers not only prosper but also test God and escape.",
       "links": "<a href='/AIV/19/94/3-7'>Ps. 94:3-7</a>; <a href='/AIV/19/37/1-2'>Ps. 37:1-2</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 46003016,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 3,
       "verse": 16,
       "text": "Then those who feared the LORD spoke to one another, and the LORD paid attention and heard them. A book of remembrance was written before Him for those who feared the LORD and thought upon His name.",
       "links": "<a href='/AIV/19/56/8'>Ps. 56:8</a>; <a href='/AIV/27/7/10'>Dan. 7:10</a>; <a href='/AIV/66/20/12'>Rev. 20:12</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 46003017,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 3,
       "verse": 17,
       "text": "They shall be Mine, says the LORD of hosts, on the day when I make up My treasure. I will spare them as a man spares his son who serves him.",
       "links": "<a href='/AIV/02/19/5'>Ex. 19:5</a>; <a href='/AIV/19/103/13'>Ps. 103:13</a>",
@@ -213,33 +130,10 @@
     },
     {
       "pk": 46003018,
-      "translation": "AIV",
-      "book": 46,
-      "bookName": "Malachi",
-      "bookAbbreviation": "Mal",
-      "chapter": 3,
       "verse": 18,
       "text": "Then you shall again distinguish between the righteous and the wicked, between one who serves God and one who does not serve Him.",
       "links": "<a href='/AIV/19/1/6'>Ps. 1:6</a>; <a href='/AIV/40/25/32-33'>Matt. 25:32-33</a>",
       "comment": "This final verse points to ultimate justice and the visible difference between the faithful and the wicked, fulfilled eschatologically in the final judgment indicated in New Testament teachings."
-    }
-  ],
-  "translatedAt": "2025-12-24T10:01:17.712Z",
-  "sections": [
-    {
-      "title": "The Coming Messenger and Purification",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "Robbing God of Tithes and Offerings",
-      "startVerse": 7,
-      "endVerse": 12
-    },
-    {
-      "title": "The Distinction Between the Righteous and the Wicked",
-      "startVerse": 13,
-      "endVerse": 18
     }
   ]
 }

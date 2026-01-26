@@ -1,16 +1,13 @@
 {
-  "book": 33,
+  "translation": "AIV",
+  "bookId": "ezekiel",
   "bookName": "Ezekiel",
   "bookAbbreviation": "Ezek",
+  "bookNumber": 33,
   "chapter": 19,
   "verses": [
     {
       "pk": 33019001,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 19,
       "verse": 1,
       "text": "As for you, take up a lamentation for the princes of Israel,",
       "links": "<a href='/AIV/24/7/29'>Jer. 7:29</a>; <a href='/AIV/26/27/2'>Ezek. 27:2</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 33019002,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 19,
       "verse": 2,
       "text": "and say: What was your mother? A lioness! Among lions she lay down; in the midst of young lions she raised her cubs.",
       "links": "<a href='/AIV/01/49/9'>Gen. 49:9</a>; <a href='/AIV/04/23/24'>Num. 23:24</a>",
@@ -32,11 +24,6 @@
     },
     {
       "pk": 33019003,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 19,
       "verse": 3,
       "text": "She brought up one of her cubs; he became a young lion, and he learned to catch prey; he devoured people.",
       "links": "<a href='/AIV/12/23/31-34'>2 Kgs 23:31–34</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 33019004,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 19,
       "verse": 4,
       "text": "The nations also heard about him; he was caught in their pit, and they brought him with hooks to the land of Egypt.",
       "links": "<a href='/AIV/12/23/33-34'>2 Kgs 23:33–34</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 33019005,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 19,
       "verse": 5,
       "text": "When she saw that she waited and her hope was lost, she took another of her cubs and made him a young lion.",
       "links": "<a href='/AIV/12/23/34'>2 Kgs 23:34</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 33019006,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 19,
       "verse": 6,
       "text": "He walked among the lions; he became a young lion and learned to catch prey; he devoured people.",
       "links": "<a href='/AIV/12/24/6-9'>2 Kgs 24:6–9</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 33019007,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 19,
       "verse": 7,
       "text": "He broke down their strongholds and devastated their cities. The land and its fullness were appalled at the sound of his roaring.",
       "links": "<a href='/AIV/34/2/11-13'>Nah. 2:11–13</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 33019008,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 19,
       "verse": 8,
       "text": "Then the nations set against him from the surrounding provinces, and they spread their net over him; he was caught in their pit.",
       "links": "<a href='/AIV/12/24/10-16'>2 Kgs 24:10–16</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 33019009,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 19,
       "verse": 9,
       "text": "With hooks they put him in a cage and brought him to the king of Babylon; they brought him into strongholds, so that his voice would no longer be heard on the mountains of Israel.",
       "links": "<a href='/AIV/12/24/15'>2 Kgs 24:15</a>; <a href='/AIV/24/22/24-30'>Jer. 22:24–30</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 33019010,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 19,
       "verse": 10,
       "text": "Your mother was like a vine in your vineyard, planted by the waters; she was fruitful and full of branches because of abundant water.",
       "links": "<a href='/AIV/19/80/8-16'>Ps. 80:8–16</a>; <a href='/AIV/23/5/1-7'>Isa. 5:1–7</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 33019011,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 19,
       "verse": 11,
       "text": "She had strong branches, suitable for scepters of rulers; her height was exalted above the thick branches, and she was seen in her height with the mass of her branches.",
       "links": "<a href='/AIV/19/89/24-27'>Ps. 89:24–27</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 33019012,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 19,
       "verse": 12,
       "text": "But she was plucked up in fury, cast down to the ground; the east wind dried up her fruit. Her strong branches were broken off and withered. Fire consumed them.",
       "links": "<a href='/AIV/19/80/12-16'>Ps. 80:12–16</a>; <a href='/AIV/23/27/11'>Isa. 27:11</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 33019013,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 19,
       "verse": 13,
       "text": "Now she is planted in the wilderness, in a dry and thirsty land.",
       "links": "<a href='/AIV/05/28/64-68'>Deut. 28:64–68</a>",
@@ -165,33 +102,10 @@
     },
     {
       "pk": 33019014,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 19,
       "verse": 14,
       "text": "Fire has gone out from her branch; it has consumed her shoots, so that there is no strong branch, no scepter for ruling. This is a lamentation, and it has become a lamentation.",
       "links": "<a href='/AIV/19/89/38-46'>Ps. 89:38–46</a>; <a href='/AIV/24/22/30'>Jer. 22:30</a>",
       "comment": "The end of the kingly line is mourned; 'no scepter for ruling' anticipates the need for a new Shepherd-King. This lament implies longing for the promised everlasting covenant, eventually fulfilled in Jesus, the Messiah, who reigns eternally (see Luke 1:32-33)."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:08:04.609Z",
-  "sections": [
-    {
-      "title": "Lament for the Princes of Israel",
-      "startVerse": 1,
-      "endVerse": 1
-    },
-    {
-      "title": "The Lioness and Her Cubs",
-      "startVerse": 2,
-      "endVerse": 9
-    },
-    {
-      "title": "The Vine Plucked and Withered",
-      "startVerse": 10,
-      "endVerse": 14
     }
   ]
 }

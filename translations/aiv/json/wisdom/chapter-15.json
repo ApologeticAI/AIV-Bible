@@ -1,16 +1,13 @@
 {
-  "book": 27,
+  "translation": "AIV",
+  "bookId": "wisdom",
   "bookName": "Wisdom",
   "bookAbbreviation": "Wis",
+  "bookNumber": 27,
   "chapter": 15,
   "verses": [
     {
       "pk": 27015001,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 15,
       "verse": 1,
       "text": "But you, our Lord God, are gracious and true, patient, and rule all things in mercy.",
       "links": "<a href='/AIV/19/86/15'>Ps. 86:15</a>; <a href='/AIV/23/30/18'>Isa. 30:18</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 27015002,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 15,
       "verse": 2,
       "text": "Even if we sin, we belong to you, for we acknowledge your power, but we will not sin, knowing that we are counted as yours.",
       "links": "<a href='/AIV/19/100/3'>Ps. 100:3</a>; <a href='/AIV/62/1/9'>1 John 1:9</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 27015003,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 15,
       "verse": 3,
       "text": "Knowing you is perfect righteousness, and knowing your power is the root of immortality.",
       "links": "<a href='/AIV/43/17/3'>John 17:3</a>; <a href='/AIV/19/36/9'>Ps. 36:9</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 27015004,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 15,
       "verse": 4,
       "text": "For neither has the evil intent of human art misled us, nor the fruitless toil of painters, a figure stained with varied colors.",
       "links": "<a href='/AIV/29/44/9'>Isa. 44:9-20</a>; <a href='/AIV/30/10/3'>Jer. 10:3-5</a>; <a href='/AIV/52/1/22'>Rom. 1:22-23</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 27015005,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 15,
       "verse": 5,
       "text": "They were fascinated by the sight of lifeless forms made of clay, images made by artists’ hands, even desiring the likeness of something dead.",
       "links": "<a href='/AIV/19/135/15-18'>Ps. 135:15-18</a>; <a href='/AIV/02/20/4'>Ex. 20:4</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 27015006,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 15,
       "verse": 6,
       "text": "Lovers of evil things and fit for such objects of hope are those who either make or desire or worship them.",
       "links": "<a href='/AIV/28/8/4'>Hos. 8:4</a>; <a href='/AIV/45/1/25'>Rom. 1:25</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 27015007,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 15,
       "verse": 7,
       "text": "For a potter laboring with soft clay forms each object for our use, but from the same clay he shapes both vessels for clean purposes and others for common or dishonorable use. Yet, the potter decides the use of each.",
       "links": "<a href='/AIV/45/9/21'>Rom. 9:21</a>; <a href='/AIV/23/29/16'>Isa. 29:16</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 27015008,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 15,
       "verse": 8,
       "text": "But what is the result? The potter foolishly makes a god from the same clay as his own hands, even though shortly after, he himself will die.",
       "links": "<a href='/AIV/23/44/12-17'>Isa. 44:12-17</a>; <a href='/AIV/19/115/4-8'>Ps. 115:4-8</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 27015009,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 15,
       "verse": 9,
       "text": "He tries to compete with goldsmiths and silversmiths, and he imitates those who work with copper, esteeming his handiwork as more precious, even as he strives to make worthless gods.",
       "links": "<a href='/AIV/23/46/6-7'>Isa. 46:6-7</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 27015010,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 15,
       "verse": 10,
       "text": "His heart is ashes, his hope is cheaper than dirt, and his life is less valuable than his clay-making.",
       "links": "<a href='/AIV/23/44/20'>Isa. 44:20</a>; <a href='/AIV/19/62/9'>Ps. 62:9</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 27015011,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 15,
       "verse": 11,
       "text": "Because he does not know the One who made him, who gave him a living soul and breathed into him a vital spirit.",
       "links": "<a href='/AIV/01/2/7'>Gen. 2:7</a>; <a href='/AIV/18/33/4'>Job 33:4</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 27015012,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 15,
       "verse": 12,
       "text": "But he considers our life a game, and our existence a time to make money, saying, ‘One must get every gain, even by evil means.’",
       "links": "<a href='/AIV/19/39/6'>Ps. 39:6</a>; <a href='/AIV/42/16/8-9'>Luke 16:8-9</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 27015013,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 15,
       "verse": 13,
       "text": "For more than all others he knows that he sins, since out of earthy matter he crafts futile gods.",
       "links": "<a href='/AIV/23/45/20'>Isa. 45:20</a>; <a href='/AIV/45/1/32'>Rom. 1:32</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 27015014,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 15,
       "verse": 14,
       "text": "But most foolish, and more miserable than an infant, are all the enemies who oppressed your people.",
       "links": "<a href='/AIV/23/14/1'>Ps. 14:1</a>; <a href='/AIV/53/1/20'>1Cor. 1:20</a>; <a href='/AIV/27/3/1'>Wis. 3:1</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 27015015,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 15,
       "verse": 15,
       "text": "For they thought that all their heathen idols were gods, though these have neither the use of their eyes to see with, nor nostrils with which to draw breath, nor ears with which to hear, nor fingers to feel with, and their feet are of no use for walking.",
       "links": "<a href='/AIV/19/115/5-7'>Ps. 115:5-7</a>; <a href='/AIV/23/46/7'>Isa. 46:7</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 27015016,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 15,
       "verse": 16,
       "text": "For a human being made them, and one whose spirit is borrowed formed them; for none can form gods that are like themselves.",
       "links": "<a href='/AIV/01/1/26-27'>Gen. 1:26-27</a>; <a href='/AIV/45/1/23'>Rom. 1:23</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 27015017,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 15,
       "verse": 17,
       "text": "Since he is mortal, his hands only produce what is temporary; he is better than the objects he worships, since he has life, but they have never had any.",
       "links": "<a href='/AIV/19/135/18'>Ps. 135:18</a>; <a href='/AIV/23/46/7'>Isa. 46:7</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 27015018,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 15,
       "verse": 18,
       "text": "Still, they worship even the most hateful of animals which are, by their nature, ignorant.",
       "links": "<a href='/AIV/19/106/35-37'>Ps. 106:35-37</a>; <a href='/AIV/23/44/19'>Isa. 44:19</a>",
@@ -225,33 +137,10 @@
     },
     {
       "pk": 27015019,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 15,
       "verse": 19,
       "text": "And even as animals they are not so beautiful in appearance that one would desire them, but they have escaped both the praise of God and his blessing.",
       "links": "<a href='/AIV/23/115/4'>Ps. 115:4-8</a>; <a href='/AIV/29/40/18'>Isa. 40:18-20</a>; <a href='/AIV/5/7/26'>Deut. 7:26</a>",
       "comment": "Idols, fashioned as grotesque animals, lack genuine beauty or divine blessing (see Deut 4:15-19), and are thus doubly empty—unworthy of admiration and bereft of any share in God’s creative affirmation."
-    }
-  ],
-  "translatedAt": "2026-01-03T03:37:03.923Z",
-  "sections": [
-    {
-      "title": "God's Mercy and Sovereignty",
-      "startVerse": 1,
-      "endVerse": 3
-    },
-    {
-      "title": "The Folly of Idolatry",
-      "startVerse": 4,
-      "endVerse": 13
-    },
-    {
-      "title": "The Degradation of Animal Worship",
-      "startVerse": 14,
-      "endVerse": 19
     }
   ]
 }

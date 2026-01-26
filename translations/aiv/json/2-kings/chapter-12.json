@@ -1,16 +1,13 @@
 {
-  "book": 12,
+  "translation": "AIV",
+  "bookId": "2-kings",
   "bookName": "2 Kings",
-  "bookAbbreviation": "2Kgs",
+  "bookAbbreviation": "2 Kgs",
+  "bookNumber": 12,
   "chapter": 12,
   "verses": [
     {
       "pk": 12012001,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 12,
       "verse": 1,
       "text": "In the seventh year of Jehu, Jehoash became king, and he reigned forty years in Jerusalem. His mother's name was Zibiah of Beersheba.",
       "links": "<a href='/AIV/14/24/1'>2 Chr. 24:1</a>; <a href='/AIV/12/11/2'>2 Kgs 11:2</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 12012002,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 12,
       "verse": 2,
       "text": "Jehoash did what was right in the eyes of the LORD all his days, because Jehoiada the priest instructed him.",
       "links": "<a href='/AIV/12/10/31'>2 Kgs 10:31</a>; <a href='/AIV/14/24/2'>2 Chr. 24:2</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 12012003,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 12,
       "verse": 3,
       "text": "Nevertheless, the high places were not taken away; the people still sacrificed and burned incense on the high places.",
       "links": "<a href='/AIV/14/24/18'>2 Chr. 24:18</a>; <a href='/AIV/11/3/2'>1 Kgs 3:2</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 12012004,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 12,
       "verse": 4,
       "text": "Jehoash said to the priests, 'All the money of the holy things that is brought into the house of the LORD, the money for each person who passes the census, the money for the vows, and all the money that each person's heart prompts him to bring into the house of the LORD,",
       "links": "<a href='/AIV/02/30/12-16'>Ex. 30:12-16</a>; <a href='/AIV/03/27/2-7'>Lev. 27:2-7</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 12012005,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 12,
       "verse": 5,
       "text": "'let the priests take it, each from his donors, and let them repair the house wherever any damage is found.'",
       "links": "<a href='/AIV/12/22/4-6'>2 Kgs 22:4-6</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 12012006,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 12,
       "verse": 6,
       "text": "But by the twenty-third year of King Jehoash, the priests had not repaired the damage of the house.",
       "links": "<a href='/AIV/14/24/5'>2 Chr. 24:5</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 12012007,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 12,
       "verse": 7,
       "text": "So King Jehoash called for Jehoiada the priest and the other priests and said to them, 'Why are you not repairing the damage to the house? Now take no more money from your donors, but give it for the repair of the house.'",
       "links": "<a href='/AIV/14/24/6'>2 Chr. 24:6</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 12012008,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 12,
       "verse": 8,
       "text": "So the priests agreed that they would not receive any more money from the people, nor repair the damage of the house themselves.",
       "links": "<a href='/AIV/14/24/8'>2 Chr. 24:8</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 12012009,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 12,
       "verse": 9,
       "text": "Then Jehoiada the priest took a chest, bored a hole in its lid, and set it beside the altar, on the right side as one enters the house of the LORD; and the priests who kept the threshold put in all the money that was brought into the house of the LORD.",
       "links": "<a href='/AIV/14/24/8'>2 Chr. 24:8</a>; <a href='/AIV/41/12/41'>Mark 12:41</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 12012010,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 12,
       "verse": 10,
       "text": "Whenever they saw that there was much money in the chest, the king's secretary and the high priest came up, and they counted the money that was found in the house of the LORD and tied it up in bags.",
       "links": "<a href='/AIV/14/24/11'>2 Chr. 24:11</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 12012011,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 12,
       "verse": 11,
       "text": "Then they would deliver the money, weighed out, into the hands of those who did the work, who had the oversight of the house of the LORD. They paid it out to the carpenters and the builders who worked on the house of the LORD,",
       "links": "<a href='/AIV/14/24/12'>2 Chr. 24:12</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 12012012,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 12,
       "verse": 12,
       "text": "and to the masons and the stonecutters, and for buying timber and cut stone to repair the damage to the house of the LORD, and for all that was spent for the repairs of the house.",
       "links": "<a href='/AIV/14/24/12'>2 Chr. 24:12</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 12012013,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 12,
       "verse": 13,
       "text": "But none of the money brought into the house of the LORD was used to make silver basins, snuffers, bowls, trumpets, any vessels of gold, or vessels of silver for the house of the LORD;",
       "links": "<a href='/AIV/12/25/14-15'>2 Kgs 25:14-15</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 12012014,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 12,
       "verse": 14,
       "text": "for they gave that to the workmen who repaired the house of the LORD with it.",
       "links": "<a href='/AIV/12/12/12'>2 Kgs 12:12</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 12012015,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 12,
       "verse": 15,
       "text": "They did not require an accounting from the men into whose hands they delivered the money to pay to those who did the work, for they dealt faithfully.",
       "links": "<a href='/AIV/14/24/13-14'>2 Chr. 24:13-14</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 12012016,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 12,
       "verse": 16,
       "text": "The money for guilt offerings and for sin offerings was not brought into the house of the LORD; it was for the priests.",
       "links": "<a href='/AIV/03/5/6'>Lev. 5:6</a>; <a href='/AIV/03/7/7'>Lev. 7:7</a>",
@@ -200,11 +122,6 @@
     },
     {
       "pk": 12012017,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 12,
       "verse": 17,
       "text": "Then Hazael king of Aram went up and fought against Gath and captured it. Then Hazael set his face to go up against Jerusalem.",
       "links": "<a href='/AIV/12/8/12'>2 Kgs 8:12</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 12012018,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 12,
       "verse": 18,
       "text": "Jehoash, king of Judah, took all the sacred things that Jehoshaphat and Jehoram and Ahaziah, his fathers, kings of Judah, had dedicated, and his own sacred things, and all the gold that was found in the treasuries of the house of the LORD and the king's house, and sent it to Hazael king of Aram. Then he withdrew from Jerusalem.",
       "links": "<a href='/AIV/12/16/8'>2 Kgs 16:8</a>; <a href='/AIV/14/24/24'>2 Chr. 24:24</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 12012019,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 12,
       "verse": 19,
       "text": "Now the rest of the acts of Jehoash, and all that he did, are they not written in the Book of the Chronicles of the kings of Judah?",
       "links": "<a href='/AIV/12/14/15'>2Kgs. 14:15</a>; <a href='/AIV/14/24/27'>2Chr. 24:27</a>; <a href='/AIV/11/14/29'>1Kgs. 14:29</a>",
@@ -237,11 +144,6 @@
     },
     {
       "pk": 12012020,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 12,
       "verse": 20,
       "text": "His servants arose and made a conspiracy, and killed Jehoash in the house of Millo, on the way that goes down to Silla.",
       "links": "<a href='/AIV/14/24/25'>2 Chr. 24:25</a>",
@@ -250,38 +152,10 @@
     },
     {
       "pk": 12012021,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 12,
       "verse": 21,
       "text": "For Jozacar the son of Shimeath and Jehozabad the son of Shomer, his servants, struck him down, and he died. So they buried him with his fathers in the city of David, and Amaziah his son became king in his place.",
       "links": "<a href='/AIV/14/24/27'>2 Chr. 24:27</a>; <a href='/AIV/12/14/1'>2 Kgs 14:1</a>",
       "comment": "The Davidic line persists despite the king’s death. God’s faithfulness to his promises is evident in the continuation of the line, which ultimately leads to Christ, the true King (<a href='/AIV/40/1/6'>Matt. 1:6</a>)."
-    }
-  ],
-  "translatedAt": "2025-12-24T03:54:51.921Z",
-  "sections": [
-    {
-      "title": "Reign of Jehoash of Judah",
-      "startVerse": 1,
-      "endVerse": 3
-    },
-    {
-      "title": "Restoration of the Temple",
-      "startVerse": 4,
-      "endVerse": 16
-    },
-    {
-      "title": "Invasion of Hazael and Tribute Paid",
-      "startVerse": 17,
-      "endVerse": 19
-    },
-    {
-      "title": "Assassination of Jehoash",
-      "startVerse": 20,
-      "endVerse": 21
     }
   ]
 }

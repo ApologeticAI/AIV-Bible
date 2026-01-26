@@ -1,16 +1,13 @@
 {
-  "book": 5,
+  "translation": "AIV",
+  "bookId": "deuteronomy",
   "bookName": "Deuteronomy",
   "bookAbbreviation": "Deut",
+  "bookNumber": 5,
   "chapter": 15,
   "verses": [
     {
       "pk": 5015001,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 15,
       "verse": 1,
       "text": "At the end of every seven years you shall grant a release.",
       "links": "<a href='/AIV/03/25/10'>Lev. 25:10</a>; <a href='/AIV/05/31/10'>Deut. 31:10</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 5015002,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 15,
       "verse": 2,
       "text": "This is the manner of the release: every creditor shall release what he has lent to his neighbor. He shall not exact it from his neighbor or his brother, because the LORD's release has been proclaimed.",
       "links": "<a href='/AIV/03/25/36-37'>Lev. 25:36-37</a>; <a href='/AIV/05/15/9'>Deut. 15:9</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 5015003,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 15,
       "verse": 3,
       "text": "You may require payment from a foreigner, but you shall release whatever is owed by your brother.",
       "links": "<a href='/AIV/03/25/47'>Lev. 25:47</a>; <a href='/AIV/05/23/20'>Deut. 23:20</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 5015004,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 15,
       "verse": 4,
       "text": "However, there should be no poor among you, for the LORD will greatly bless you in the land the LORD your God is giving you to possess as an inheritance—",
       "links": "<a href='/AIV/05/28/11'>Deut. 28:11</a>; <a href='/AIV/44/4/34'>Acts 4:34</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 5015005,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 15,
       "verse": 5,
       "text": "If only you obey the LORD your God and are careful to follow all these commandments that I am commanding you today—",
       "links": "<a href='/AIV/05/28/1'>Deut. 28:1</a>; <a href='/AIV/19/1/2'>Ps. 1:2</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 5015006,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 15,
       "verse": 6,
       "text": "For the LORD your God will bless you, as He has promised you, and you will lend to many nations but will borrow from none. You will rule over many nations, but none will rule over you.",
       "links": "<a href='/AIV/05/28/12'>Deut. 28:12</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 5015007,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 15,
       "verse": 7,
       "text": "If there is a poor man among your brothers within any of your towns in the land the LORD your God is giving you, do not harden your heart nor shut your hand against your poor brother.",
       "links": "<a href='/AIV/03/25/35'>Lev. 25:35</a>; <a href='/AIV/40/25/40'>Matt. 25:40</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 5015008,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 15,
       "verse": 8,
       "text": "But you shall open your hand wide to him and lend him whatever he needs.",
       "links": "<a href='/AIV/40/5/42'>Matt. 5:42</a>; <a href='/AIV/42/6/30'>Luke 6:30</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 5015009,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 15,
       "verse": 9,
       "text": "Be careful not to harbor this evil thought: ‘The seventh year, the year of release, is near,’ so you might look with hostility upon your poor brother and not give him anything; he may cry out to the LORD against you, and you will be guilty of sin.",
       "links": "<a href='/AIV/05/24/15'>Deut. 24:15</a>; <a href='/AIV/62/3/17'>1 John 3:17</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 5015010,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 15,
       "verse": 10,
       "text": "You shall surely give to him, and your heart shall not be grieved when you give to him, because for this thing the LORD your God will bless you in all your work and in all you undertake.",
       "links": "<a href='/AIV/19/41/1'>Ps. 41:1</a>; <a href='/AIV/47/9/7'>2 Cor. 9:7</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 5015011,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 15,
       "verse": 11,
       "text": "For there will never cease to be poor in the land; therefore I command you to open your hand to your brother, to the needy and the poor in your land.",
       "links": "<a href='/AIV/40/26/11'>Matt. 26:11</a>; <a href='/AIV/43/12/8'>John 12:8</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 5015012,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 15,
       "verse": 12,
       "text": "If your brother, a Hebrew man or woman, is sold to you and serves you six years, then in the seventh year you shall set him free from your service.",
       "links": "<a href='/AIV/02/21/2'>Exod. 21:2</a>; <a href='/AIV/24/34/14'>Jer. 34:14</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 5015013,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 15,
       "verse": 13,
       "text": "And when you set him free, you shall not send him away empty-handed.",
       "links": "<a href='/AIV/02/12/35-36'>Exod. 12:35-36</a>; <a href='/AIV/28/11/1'>Hos. 11:1</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 5015014,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 15,
       "verse": 14,
       "text": "Supply him liberally from your flock, from your threshing floor, and from your winepress. Give to him as the LORD your God has blessed you.",
       "links": "<a href='/AIV/05/12/6'>Deut. 12:6</a>; <a href='/AIV/19/112/5'>Ps. 112:5</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 5015015,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 15,
       "verse": 15,
       "text": "Remember that you were slaves in the land of Egypt and the LORD your God redeemed you; that is why I command you this today.",
       "links": "<a href='/AIV/02/13/3'>Exod. 13:3</a>; <a href='/AIV/19/107/2'>Ps. 107:2</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 5015016,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 15,
       "verse": 16,
       "text": "But if your servant says to you, ‘I do not want to leave you,’ because he loves you and your household, since he is well off with you—",
       "links": "<a href='/AIV/02/21/5'>Exod. 21:5</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 5015017,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 15,
       "verse": 17,
       "text": "Then you shall take an awl and drive it through his ear into the door, and he will be your servant forever. Also to your female servant you shall do likewise.",
       "links": "<a href='/AIV/02/21/6'>Exod. 21:6</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 5015018,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 15,
       "verse": 18,
       "text": "It shall not seem hard to you when you set him free, for he has served you six years worth twice the wages of a hired worker; the LORD your God will bless you in all that you do.",
       "links": "<a href='/AIV/05/14/29'>Deut. 14:29</a>; <a href='/AIV/19/128/2'>Ps. 128:2</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 5015019,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 15,
       "verse": 19,
       "text": "All the firstborn males that are born of your herds and flocks you shall dedicate to the LORD your God. You shall not work with the firstborn of your cattle nor shear the firstborn of your sheep.",
       "links": "<a href='/AIV/02/13/12'>Exod. 13:12</a>; <a href='/AIV/04/18/17'>Num. 18:17</a>",
@@ -238,11 +145,6 @@
     },
     {
       "pk": 5015020,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 15,
       "verse": 20,
       "text": "You shall eat it, you and your household, before the LORD your God year by year at the place the LORD will choose.",
       "links": "<a href='/AIV/05/12/11'>Deut. 12:11</a>; <a href='/AIV/04/18/18'>Num. 18:18</a>",
@@ -250,11 +152,6 @@
     },
     {
       "pk": 5015021,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 15,
       "verse": 21,
       "text": "But if it has any defect—if it is lame or blind or has any serious defect—you shall not sacrifice it to the LORD your God.",
       "links": "<a href='/AIV/03/22/20-24'>Lev. 22:20-24</a>; <a href='/AIV/58/9/14'>Heb. 9:14</a>",
@@ -262,11 +159,6 @@
     },
     {
       "pk": 5015022,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 15,
       "verse": 22,
       "text": "You shall eat it within your gates; the unclean and the clean may eat it, as they eat the gazelle or the deer.",
       "links": "<a href='/AIV/05/12/15'>Deut. 12:15</a>; <a href='/AIV/42/15/2'>Luke 15:2</a>",
@@ -274,38 +166,10 @@
     },
     {
       "pk": 5015023,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 15,
       "verse": 23,
       "text": "But you shall not eat its blood; you shall pour it out on the ground like water.",
       "links": "<a href='/AIV/03/17/11-14'>Lev. 17:11-14</a>; <a href='/AIV/44/15/20'>Acts 15:20</a>",
       "comment": "The prohibition of blood signifies respect for life, anticipating Christ’s blood poured out for many—a sign of the New Covenant (Matt. 26:28)."
-    }
-  ],
-  "translatedAt": "2025-12-24T02:05:09.171Z",
-  "sections": [
-    {
-      "title": "The Sabbatical Year and Release of Debts",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "Compassion for the Poor",
-      "startVerse": 7,
-      "endVerse": 11
-    },
-    {
-      "title": "Release of Hebrew Slaves",
-      "startVerse": 12,
-      "endVerse": 18
-    },
-    {
-      "title": "Consecration of the Firstborn",
-      "startVerse": 19,
-      "endVerse": 23
     }
   ]
 }

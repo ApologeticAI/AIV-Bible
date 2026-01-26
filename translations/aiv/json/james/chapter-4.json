@@ -1,16 +1,13 @@
 {
-  "book": 66,
+  "translation": "AIV",
+  "bookId": "james",
   "bookName": "James",
   "bookAbbreviation": "Jas",
+  "bookNumber": 66,
   "chapter": 4,
   "verses": [
     {
       "pk": 66004001,
-      "translation": "AIV",
-      "book": 66,
-      "bookName": "James",
-      "bookAbbreviation": "Jas",
-      "chapter": 4,
       "verse": 1,
       "text": "What causes quarrels and fights among you? Do they not come from your own desires for pleasure that wage war within you?",
       "links": "<a href='/AIV/45/7/23'>Rom. 7:23</a>; <a href='/AIV/48/5/17'>Gal. 5:17</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 66004002,
-      "translation": "AIV",
-      "book": 66,
-      "bookName": "James",
-      "bookAbbreviation": "Jas",
-      "chapter": 4,
       "verse": 2,
       "text": "You desire but do not have, so you kill. You covet but cannot obtain, so you quarrel and fight. You do not have because you do not ask.",
       "links": "<a href='/AIV/19/37/4'>Ps. 37:4</a>; <a href='/AIV/40/7/7'>Matt. 7:7</a>; <a href='/AIV/62/3/15'>1 John 3:15</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 66004003,
-      "translation": "AIV",
-      "book": 66,
-      "bookName": "James",
-      "bookAbbreviation": "Jas",
-      "chapter": 4,
       "verse": 3,
       "text": "You ask and do not receive, because you ask with wrong motives, wanting to spend it on your own pleasures.",
       "links": "<a href='/AIV/19/66/18'>Ps. 66:18</a>; <a href='/AIV/43/16/24'>John 16:24</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 66004004,
-      "translation": "AIV",
-      "book": 66,
-      "bookName": "James",
-      "bookAbbreviation": "Jas",
-      "chapter": 4,
       "verse": 4,
       "text": "Adulterous people! Don’t you know that friendship with the world is hostility toward God? Whoever wants to be a friend of the world becomes an enemy of God.",
       "links": "<a href='/AIV/19/73/27'>Ps. 73:27</a>; <a href='/AIV/62/2/15'>1 John 2:15</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 66004005,
-      "translation": "AIV",
-      "book": 66,
-      "bookName": "James",
-      "bookAbbreviation": "Jas",
-      "chapter": 4,
       "verse": 5,
       "text": "Or do you think Scripture says without reason that the Spirit He caused to dwell in us longs with jealousy?",
       "links": "<a href='/AIV/19/42/1'>Ps. 42:1</a>; <a href='/AIV/02/20/5'>Ex. 20:5</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 66004006,
-      "translation": "AIV",
-      "book": 66,
-      "bookName": "James",
-      "bookAbbreviation": "Jas",
-      "chapter": 4,
       "verse": 6,
       "text": "But He gives greater grace. That is why Scripture says: God opposes the proud but gives grace to the humble.",
       "links": "<a href='/AIV/20/3/34'>Prov. 3:34</a>; <a href='/AIV/60/5/5'>1 Pet. 5:5</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 66004007,
-      "translation": "AIV",
-      "book": 66,
-      "bookName": "James",
-      "bookAbbreviation": "Jas",
-      "chapter": 4,
       "verse": 7,
       "text": "So submit yourselves to God. Resist the devil, and he will flee from you.",
       "links": "<a href='/AIV/60/5/9'>1 Pet. 5:9</a>; <a href='/AIV/40/4/10'>Matt. 4:10</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 66004008,
-      "translation": "AIV",
-      "book": 66,
-      "bookName": "James",
-      "bookAbbreviation": "Jas",
-      "chapter": 4,
       "verse": 8,
       "text": "Draw near to God, and He will draw near to you. Cleanse your hands, sinners, and purify your hearts, double-minded people.",
       "links": "<a href='/AIV/19/24/3-4'>Ps. 24:3-4</a>; <a href='/AIV/23/1/16'>Isa. 1:16</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 66004009,
-      "translation": "AIV",
-      "book": 66,
-      "bookName": "James",
-      "bookAbbreviation": "Jas",
-      "chapter": 4,
       "verse": 9,
       "text": "Be distressed, mourn, and weep. Let your laughter be turned to mourning and your joy to gloom.",
       "links": "<a href='/AIV/40/5/4'>Matt. 5:4</a>; <a href='/AIV/19/30/5'>Ps. 30:5</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 66004010,
-      "translation": "AIV",
-      "book": 66,
-      "bookName": "James",
-      "bookAbbreviation": "Jas",
-      "chapter": 4,
       "verse": 10,
       "text": "Humble yourselves before the Lord, and He will lift you up.",
       "links": "<a href='/AIV/40/23/12'>Matt. 23:12</a>; <a href='/AIV/60/5/6'>1 Pet. 5:6</a>",
@@ -127,11 +79,6 @@
     },
     {
       "pk": 66004011,
-      "translation": "AIV",
-      "book": 66,
-      "bookName": "James",
-      "bookAbbreviation": "Jas",
-      "chapter": 4,
       "verse": 11,
       "text": "Brothers, do not speak evil against one another. Whoever speaks against a brother or judges him speaks against the law and judges the law. But if you judge the law, you are not a doer of the law but a judge.",
       "links": "<a href='/AIV/40/7/1'>Matt. 7:1</a>; <a href='/AIV/03/19/16'>Lev. 19:16</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 66004012,
-      "translation": "AIV",
-      "book": 66,
-      "bookName": "James",
-      "bookAbbreviation": "Jas",
-      "chapter": 4,
       "verse": 12,
       "text": "There is one Lawgiver and Judge, He who is able to save and to destroy. But who are you to judge your neighbor?",
       "links": "<a href='/AIV/40/10/28'>Matt. 10:28</a>; <a href='/AIV/45/14/4'>Rom. 14:4</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 66004013,
-      "translation": "AIV",
-      "book": 66,
-      "bookName": "James",
-      "bookAbbreviation": "Jas",
-      "chapter": 4,
       "verse": 13,
       "text": "Come now, you who say, 'Today or tomorrow we will go into this city, spend a year there, trade, and make a profit,'",
       "links": "<a href='/AIV/20/27/1'>Prov. 27:1</a>; <a href='/AIV/42/12/16-20'>Luke 12:16-20</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 66004014,
-      "translation": "AIV",
-      "book": 66,
-      "bookName": "James",
-      "bookAbbreviation": "Jas",
-      "chapter": 4,
       "verse": 14,
       "text": "Yet you do not know what tomorrow will bring. What is your life? You are a mist that appears for a little time and then vanishes.",
       "links": "<a href='/AIV/19/39/5'>Ps. 39:5</a>; <a href='/AIV/21/1/2'>Eccl. 1:2</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 66004015,
-      "translation": "AIV",
-      "book": 66,
-      "bookName": "James",
-      "bookAbbreviation": "Jas",
-      "chapter": 4,
       "verse": 15,
       "text": "Instead you should say, 'If the Lord wills, we will live and do this or that.'",
       "links": "<a href='/AIV/44/18/21'>Acts 18:21</a>; <a href='/AIV/45/1/10'>Rom. 1:10</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 66004016,
-      "translation": "AIV",
-      "book": 66,
-      "bookName": "James",
-      "bookAbbreviation": "Jas",
-      "chapter": 4,
       "verse": 16,
       "text": "But as it is, you boast in your arrogance. All such boasting is evil.",
       "links": "<a href='/AIV/24/9/23'>Jer. 9:23</a>; <a href='/AIV/46/3/21'>1 Cor. 3:21</a>",
@@ -201,33 +123,10 @@
     },
     {
       "pk": 66004017,
-      "translation": "AIV",
-      "book": 66,
-      "bookName": "James",
-      "bookAbbreviation": "Jas",
-      "chapter": 4,
       "verse": 17,
       "text": "So whoever knows the right thing to do and fails to do it, for him it is sin.",
       "links": "<a href='/AIV/42/12/47'>Luke 12:47</a>; <a href='/AIV/45/14/23'>Rom. 14:23</a>",
       "comment": "James draws attention to sins of omission as well as commission. This teaching, also found in Jesus’ words (Luke 12:47), stresses the need for active participation and moral responsibility in the faith community."
-    }
-  ],
-  "translatedAt": "2025-12-24T12:25:40.783Z",
-  "sections": [
-    {
-      "title": "Warning Against Worldliness",
-      "startVerse": 1,
-      "endVerse": 10
-    },
-    {
-      "title": "Judging a Brother",
-      "startVerse": 11,
-      "endVerse": 12
-    },
-    {
-      "title": "Warning Against Boasting About Tomorrow",
-      "startVerse": 13,
-      "endVerse": 17
     }
   ]
 }

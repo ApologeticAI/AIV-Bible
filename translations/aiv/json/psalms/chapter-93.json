@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 93,
   "verses": [
     {
       "pk": 23093001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 93,
       "verse": 1,
       "text": "The LORD reigns; He is clothed with majesty. The LORD is wrapped in strength; He has girded Himself. Surely the world is established; it shall never be moved.",
       "links": "<a href='/AIV/24/10/10'>Jer. 10:10</a>; <a href='/AIV/19/96/10'>Ps. 96:10</a>; <a href='/AIV/23/40/10'>Isa. 40:10</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23093002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 93,
       "verse": 2,
       "text": "Your throne is established from of old; You are from everlasting.",
       "links": "<a href='/AIV/19/90/2'>Ps. 90:2</a>; <a href='/AIV/58/1/8'>Heb. 1:8</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23093003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 93,
       "verse": 3,
       "text": "The floods have lifted up, O LORD, the floods have lifted up their voice; the floods lift up their roaring.",
       "links": "<a href='/AIV/19/42/7'>Ps. 42:7</a>; <a href='/AIV/19/98/7-8'>Ps. 98:7-8</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 23093004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 93,
       "verse": 4,
       "text": "Mightier than the voices of many waters, mightier than the breakers of the sea, the LORD on high is mighty.",
       "links": "<a href='/AIV/19/29/3-4'>Ps. 29:3-4</a>; <a href='/AIV/41/4/39-41'>Mark 4:39-41</a>",
@@ -56,34 +38,11 @@
     },
     {
       "pk": 23093005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 93,
       "verse": 5,
       "text": "Your decrees are very trustworthy; holiness adorns Your house, O LORD, forevermore.",
       "links": "<a href='/AIV/19/19/7'>Ps. 19:7</a>; <a href='/AIV/54/3/15'>1 Tim. 3:15</a>",
       "comment": "God’s statutes are certain and reliable, forming a foundation for life and community. The call to holiness not only describes the worship of God in the temple but also extends to the spiritual house built by Christ (see <a href='/AIV/60/2/5'>1 Pet. 2:5</a>). The emphasis on enduring trustworthiness and sanctity reflects God’s desire for a holy people gathered in His name, preserved through apostolic teaching and sacramental worship.",
       "sectionHeader": "The Holiness of God's House"
-    }
-  ],
-  "translatedAt": "2025-12-24T06:32:12.492Z",
-  "sections": [
-    {
-      "title": "The Majesty and Eternal Reign of the Lord",
-      "startVerse": 1,
-      "endVerse": 2
-    },
-    {
-      "title": "The Lord’s Power Over the Waters",
-      "startVerse": 3,
-      "endVerse": 4
-    },
-    {
-      "title": "The Holiness of God's House",
-      "startVerse": 5,
-      "endVerse": 5
     }
   ]
 }

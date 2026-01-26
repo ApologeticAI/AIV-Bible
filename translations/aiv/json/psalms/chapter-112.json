@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 112,
   "verses": [
     {
       "pk": 23112001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 112,
       "verse": 1,
       "text": "Praise the LORD! Blessed is the man who fears the LORD, who greatly delights in His commandments.",
       "links": "<a href='/AIV/19/1/1-2'>Ps. 1:1-2</a>; <a href='/AIV/19/111/1'>Ps. 111:1</a>; <a href='/AIV/19/128/1'>Ps. 128:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23112002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 112,
       "verse": 2,
       "text": "His offspring will be mighty in the land; the generation of the upright will be blessed.",
       "links": "<a href='/AIV/19/25/13'>Ps. 25:13</a>; <a href='/AIV/19/102/28'>Ps. 102:28</a>; <a href='/AIV/19/37/26'>Ps. 37:26</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23112003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 112,
       "verse": 3,
       "text": "Wealth and riches are in his house, and his righteousness endures forever.",
       "links": "<a href='/AIV/19/37/25-26'>Ps. 37:25-26</a>; <a href='/AIV/19/111/3'>Ps. 111:3</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23112004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 112,
       "verse": 4,
       "text": "Light rises in the darkness for the upright; he is gracious, compassionate, and righteous.",
       "links": "<a href='/AIV/19/97/11'>Ps. 97:11</a>; <a href='/AIV/19/36/9'>Ps. 36:9</a>; <a href='/AIV/40/5/16'>Matt. 5:16</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23112005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 112,
       "verse": 5,
       "text": "Good will come to the man who deals generously and lends; he conducts his affairs with justice.",
       "links": "<a href='/AIV/19/37/26'>Ps. 37:26</a>; <a href='/AIV/19/15/5'>Ps. 15:5</a>; <a href='/AIV/40/6/3'>Matt. 6:3</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23112006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 112,
       "verse": 6,
       "text": "Surely he will never be shaken; the righteous will be remembered forever.",
       "links": "<a href='/AIV/19/15/5'>Ps. 15:5</a>; <a href='/AIV/19/125/1'>Ps. 125:1</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23112007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 112,
       "verse": 7,
       "text": "He is not afraid of bad news; his heart is firm, trusting in the LORD.",
       "links": "<a href='/AIV/19/56/3'>Ps. 56:3</a>; <a href='/AIV/19/27/1'>Ps. 27:1</a>; <a href='/AIV/19/62/2'>Ps. 62:2</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 23112008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 112,
       "verse": 8,
       "text": "His heart is steady; he will not be afraid, until he looks in triumph on his adversaries.",
       "links": "<a href='/AIV/19/41/11'>Ps. 41:11</a>; <a href='/AIV/19/54/7'>Ps. 54:7</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 23112009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 112,
       "verse": 9,
       "text": "He distributes freely; he gives to the poor; his righteousness endures forever; his horn will be exalted in honor.",
       "links": "<a href='/AIV/19/111/9'>Ps. 111:9</a>; <a href='/AIV/47/9/9'>2 Cor. 9:9</a>",
@@ -115,29 +72,11 @@
     },
     {
       "pk": 23112010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 112,
       "verse": 10,
       "text": "The wicked man sees it and is angry; he gnashes his teeth and melts away; the desire of the wicked will perish.",
       "links": "<a href='/AIV/19/35/16'>Ps. 35:16</a>; <a href='/AIV/19/37/12'>Ps. 37:12</a>; <a href='/AIV/40/8/12'>Matt. 8:12</a>",
       "comment": "A stark contrast: the eventual defeat of wickedness and the vindication of the righteous. The imagery of gnashing teeth echoes Jesus’ warnings in Matthew about the final judgment upon evil (Matt. 8:12), reminding us of the urgency of conversion and faithfulness.",
       "sectionHeader": "The Fate of the Wicked"
-    }
-  ],
-  "translatedAt": "2025-12-24T06:39:42.346Z",
-  "sections": [
-    {
-      "title": "The Blessings of the Righteous",
-      "startVerse": 1,
-      "endVerse": 9
-    },
-    {
-      "title": "The Fate of the Wicked",
-      "startVerse": 10,
-      "endVerse": 10
     }
   ]
 }

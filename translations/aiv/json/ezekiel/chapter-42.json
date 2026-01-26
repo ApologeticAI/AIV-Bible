@@ -1,16 +1,13 @@
 {
-  "book": 33,
+  "translation": "AIV",
+  "bookId": "ezekiel",
   "bookName": "Ezekiel",
   "bookAbbreviation": "Ezek",
+  "bookNumber": 33,
   "chapter": 42,
   "verses": [
     {
       "pk": 33042001,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 42,
       "verse": 1,
       "text": "Then he led me out to the outer court, toward the north, and he brought me to the set of chambers opposite the temple yard and opposite the building to the north.",
       "links": "<a href='/AIV/26/41/12'>Ezek. 41:12</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 33042002,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 42,
       "verse": 2,
       "text": "Along the north side, the length was one hundred cubits, and the width was fifty cubits.",
       "links": "<a href='/AIV/26/40/17'>Ezek. 40:17</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 33042003,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 42,
       "verse": 3,
       "text": "Opposite the inner court of twenty cubits, and opposite the pavement of the outer court, was a gallery facing gallery in three stories.",
       "links": "<a href='/AIV/26/41/10-11'>Ezek. 41:10-11</a>; <a href='/AIV/11/6/5-8'>1 Kings 6:5-8</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 33042004,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 42,
       "verse": 4,
       "text": "And before the chambers was a passage, ten cubits wide inward, and a way one hundred cubits long; their doors were toward the north.",
       "links": "<a href='/AIV/26/41/11'>Ezek. 41:11</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 33042005,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 42,
       "verse": 5,
       "text": "Now the upper chambers were narrower, for the galleries took more space away from them than from the lower and the middle ones in the building.",
       "links": "<a href='/AIV/11/6/6'>1 Kings 6:6</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 33042006,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 42,
       "verse": 6,
       "text": "For they were in three stories, but did not have pillars like the pillars of the courts; therefore, the uppermost chambers were set back more than the lower and the middle ones from the ground up.",
       "links": "<a href='/AIV/26/41/6-7'>Ezek. 41:6-7</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 33042007,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 42,
       "verse": 7,
       "text": "And the outer wall by the chambers, toward the outer court in front of the chambers, was fifty cubits long.",
       "links": "<a href='/AIV/26/40/17'>Ezek. 40:17</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 33042008,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 42,
       "verse": 8,
       "text": "For the length of the chambers toward the outer court was fifty cubits, while those opposite the temple were a hundred cubits long.",
       "links": "<a href='/AIV/26/41/13'>Ezek. 41:13</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 33042009,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 42,
       "verse": 9,
       "text": "At the base of these chambers was an entrance from the east, as one enters them from the outer court.",
       "links": "<a href='/AIV/26/43/1-4'>Ezek. 43:1-4</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 33042010,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 42,
       "verse": 10,
       "text": "In the width of the wall of the court toward the south, before the outer court and before the building, were chambers.",
       "links": "<a href='/AIV/26/41/12-14'>Ezek. 41:12-14</a>",
@@ -127,11 +79,6 @@
     },
     {
       "pk": 33042011,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 42,
       "verse": 11,
       "text": "And in front of them was a passage like the chambers on the north; their length and width were the same, all their exits and arrangements and doors were the same.",
       "links": "<a href='/AIV/26/42/4'>Ezek. 42:4</a>",
@@ -139,11 +86,6 @@
     },
     {
       "pk": 33042012,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 42,
       "verse": 12,
       "text": "According to the entrances of the chambers that were on the south, there was an entrance at the head of the passage, before the wall directly corresponding to the passage one enters from the east.",
       "links": "<a href='/AIV/26/40/5'>Ezek. 40:5</a>",
@@ -151,11 +93,6 @@
     },
     {
       "pk": 33042013,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 42,
       "verse": 13,
       "text": "Then he said to me, 'The north chambers and the south chambers, which are opposite the courtyard, are for the priests. These are the holy chambers, where the priests who approach the LORD shall eat the most holy offerings; there they shall lay the most holy offerings—the grain offering, the sin offering, and the guilt offering—for the place is holy.'",
       "links": "<a href='/AIV/26/43/19'>Ezek. 43:19</a>; <a href='/AIV/3/6/16-18'>Lev. 6:16-18</a>; <a href='/AIV/3/7/6'>Lev. 7:6</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 33042014,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 42,
       "verse": 14,
       "text": "When the priests enter, they shall not go out of the holy place into the outer court without laying there their sacred garments, for these are holy. They shall put on other garments before they go near that which concerns the people.",
       "links": "<a href='/AIV/2/28/40-43'>Exod. 28:40-43</a>; <a href='/AIV/3/6/11'>Lev. 6:11</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 33042015,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 42,
       "verse": 15,
       "text": "When he had finished measuring the inner temple, he brought me out by the gate which faces east, and measured all around.",
       "links": "<a href='/AIV/26/40/5'>Ezek. 40:5</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 33042016,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 42,
       "verse": 16,
       "text": "He measured the east side with the measuring rod: five hundred cubits by the measuring rod all around.",
       "links": "<a href='/AIV/26/40/3-5'>Ezek. 40:3-5</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 33042017,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 42,
       "verse": 17,
       "text": "He measured the north side: five hundred cubits with the measuring rod all around.",
       "links": "<a href='/AIV/33/40/5'>Ezek. 40:5</a>; <a href='/AIV/33/45/2'>Ezek. 45:2</a>; <a href='/AIV/73/21/16'>Rev. 21:16</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 33042018,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 42,
       "verse": 18,
       "text": "He measured the south side: five hundred cubits by the measuring rod.",
       "links": "<a href='/AIV/33/48/30'>Ezek. 48:30</a>; <a href='/AIV/4/35/4'>Num. 35:4</a>; <a href='/AIV/73/21/17'>Rev. 21:17</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 33042019,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 42,
       "verse": 19,
       "text": "He turned to the west side and measured five hundred cubits with the measuring rod.",
       "links": "<a href='/AIV/33/41/13'>Ezek. 41:13</a>; <a href='/AIV/33/40/47'>Ezek. 40:47</a>; <a href='/AIV/45/2/1'>Zech. 2:1-2</a>",
@@ -237,33 +144,10 @@
     },
     {
       "pk": 33042020,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 42,
       "verse": 20,
       "text": "He measured it on the four sides. It had a wall all around—five hundred long and five hundred wide—to separate what was holy from what was common.",
       "links": "<a href='/AIV/26/22/26'>Ezek. 22:26</a>; <a href='/AIV/3/10/10'>Lev. 10:10</a>",
       "comment": "Separation between holy and common teaches the necessity for sacred boundaries. This foreshadows Christ’s work in making His people holy (see <a href='/AIV/58/10/10'>Heb. 10:10</a>). The principle of set-apart sacredness remains central in both worship and life."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:22:36.918Z",
-  "sections": [
-    {
-      "title": "Description of the Priest’s Chambers",
-      "startVerse": 1,
-      "endVerse": 12
-    },
-    {
-      "title": "Use of the Holy Chambers",
-      "startVerse": 13,
-      "endVerse": 14
-    },
-    {
-      "title": "Measurement of the Temple’s Outer Area",
-      "startVerse": 15,
-      "endVerse": 20
     }
   ]
 }

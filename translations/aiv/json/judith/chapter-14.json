@@ -1,23 +1,13 @@
 {
-  "book": 18,
+  "translation": "AIV",
+  "bookId": "judith",
   "bookName": "Judith",
   "bookAbbreviation": "Jdt",
+  "bookNumber": 18,
   "chapter": 14,
-  "sections": [
-    {
-      "title": "Judith's Instructions and the Enemy's Defeat",
-      "startVerse": 1,
-      "endVerse": 19
-    }
-  ],
   "verses": [
     {
       "pk": 18014001,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 14,
       "verse": 1,
       "text": "Then Judith said to them, \"Listen to me, my brothers. Take this head and hang it on the battlements of our city wall.\"",
       "links": "<a href='/AIV/7/7/25'>Judg. 7:25</a>; <a href='/AIV/9/15/7-8'>1 Sam. 17:54</a>",
@@ -26,11 +16,6 @@
     },
     {
       "pk": 18014002,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 14,
       "verse": 2,
       "text": "And when morning comes, each of you will take up your weapons, and every able-bodied man will go out from the city. You shall set a captain over them, as if you were about to go down into the plain toward the advance of the Assyrian army. Only do not go down.",
       "links": "<a href='/AIV/2/14/10-13'>Ex. 14:10-13</a>",
@@ -38,11 +23,6 @@
     },
     {
       "pk": 18014003,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 14,
       "verse": 3,
       "text": "Then the Assyrians will seize their armor and go into the camp to awaken their commanders. When they see Holofernes’ headless body, they will be seized with fear and will flee from before you.",
       "links": "<a href='/AIV/7/7/21-22'>Judg. 7:21-22</a>; <a href='/AIV/2/14/24-25'>Ex. 14:24-25</a>",
@@ -50,11 +30,6 @@
     },
     {
       "pk": 18014004,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 14,
       "verse": 4,
       "text": "Then, as soon as you and all who live within the borders of Israel have overtaken them, give chase as far as you can.",
       "links": "<a href='/AIV/6/10/32-33'>Josh. 10:32-33</a>",
@@ -62,11 +37,6 @@
     },
     {
       "pk": 18014005,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 14,
       "verse": 5,
       "text": "But before you do any of this, summon Achior the Ammonite to me, so that he may see and recognize the one who despised the house of Israel and sent him to us as if we were to be destroyed.",
       "links": "<a href='/AIV/18/6/5'>Jdt. 6:5</a>; <a href='/AIV/2/18/11-12'>Ex. 18:11-12</a>",
@@ -74,11 +44,6 @@
     },
     {
       "pk": 18014006,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 14,
       "verse": 6,
       "text": "So they called Achior from the house of Uzziah. When he arrived and saw the head of Holofernes in the hand of one of the people assembled there, he fell down on his face and fainted.",
       "links": "<a href='/AIV/18/6/10-14'>Jdt. 6:10-14</a>",
@@ -86,11 +51,6 @@
     },
     {
       "pk": 18014007,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 14,
       "verse": 7,
       "text": "But when they had raised him up, he bowed at Judith’s feet and paid her great honor. He said, \"Blessed are you in every tent of Judah! In every nation those who hear your name will be amazed.",
       "links": "<a href='/AIV/1/30/12-13'>Gen. 30:12-13</a>; <a href='/AIV/4/5/24'>Judg. 5:24</a>",
@@ -98,11 +58,6 @@
     },
     {
       "pk": 18014008,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 14,
       "verse": 8,
       "text": "But now tell me everything you have done in these days.\"",
       "links": "<a href='/AIV/6/2/22'>Josh. 2:22-24</a>; <a href='/AIV/19/5/4'>Esth. 5:4-8</a>; <a href='/AIV/49/24/18'>Luke. 24:18-19</a>",
@@ -110,11 +65,6 @@
     },
     {
       "pk": 18014009,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 14,
       "verse": 9,
       "text": "So in the presence of all the people, Judith told him everything she had done, from the day she went out until the hour she was speaking to them.",
       "links": "<a href='/AIV/19/66/16'>Ps. 66:16</a>",
@@ -122,11 +72,6 @@
     },
     {
       "pk": 18014010,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 14,
       "verse": 10,
       "text": "When she finished speaking, the people raised a great shout and made a joyful noise in their city.",
       "links": "<a href='/AIV/6/6/20'>Josh. 6:20</a>; <a href='/AIV/19/47/1'>Ps. 47:1</a>",
@@ -134,11 +79,6 @@
     },
     {
       "pk": 18014011,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 14,
       "verse": 11,
       "text": "But when the leaders of the Assyrian army heard the noise, they went to Holofernes’ tent.",
       "links": "<a href='/AIV/19/6/14'>Esth. 6:14</a>; <a href='/AIV/7/4/22'>Judg. 4:22</a>; <a href='/AIV/47/28/2'>Matt. 28:2-4</a>",
@@ -146,11 +86,6 @@
     },
     {
       "pk": 18014012,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 14,
       "verse": 12,
       "text": "And they said to him, \"Awake, our lord, for the slaves have dared to come down to fight us, to their utter destruction.\"",
       "links": "<a href='/AIV/2/15/9'>Exod. 15:9</a>; <a href='/AIV/23/2/1'>Ps. 2:1-4</a>; <a href='/AIV/29/37/23'>Isa. 37:23-24</a>",
@@ -158,11 +93,6 @@
     },
     {
       "pk": 18014013,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 14,
       "verse": 13,
       "text": "So Bagoas went in and knocked at the curtain of the tent, thinking that Holofernes was sleeping with Judith.",
       "links": "<a href='/AIV/18/13/13'>Jdt. 13:13</a>",
@@ -170,11 +100,6 @@
     },
     {
       "pk": 18014014,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 14,
       "verse": 14,
       "text": "But when he did not hear a sound, he opened the curtain, entered, and found him lying headless on the ground, sprawled on his face.",
       "links": "<a href='/AIV/7/4/21'>Judg. 4:21</a>; <a href='/AIV/9/17/51'>1Sam. 17:51</a>; <a href='/AIV/12/9/35'>2Kgs. 9:35</a>",
@@ -182,11 +107,6 @@
     },
     {
       "pk": 18014015,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 14,
       "verse": 15,
       "text": "Bagoas shouted with a loud cry, wept, groaned, and called out to the women’s tent, \"One slave has brought disgrace upon the whole house of King Nebuchadnezzar. Look, Holofernes lies on the ground without a head!\"",
       "links": "<a href='/AIV/7/4/22'>Judg. 4:22</a>; <a href='/AIV/19/7/8'>Esth. 7:8</a>; <a href='/AIV/23/9/16'>Ps. 9:16</a>",
@@ -194,11 +114,6 @@
     },
     {
       "pk": 18014016,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 14,
       "verse": 16,
       "text": "When the leaders of the Assyrian army heard this, they tore their tunics, deeply shaken and infilled with panic and distress.",
       "links": "<a href='/AIV/1/37/34'>Gen. 37:34</a>; <a href='/AIV/6/7/6'>Josh. 7:6</a>",
@@ -206,11 +121,6 @@
     },
     {
       "pk": 18014017,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 14,
       "verse": 17,
       "text": "An outcry rose in the midst of their camp. In their tents, the army was thrown into great confusion.",
       "links": "<a href='/AIV/7/7/21-23'>Judg. 7:21-23</a>",
@@ -218,11 +128,6 @@
     },
     {
       "pk": 18014018,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 14,
       "verse": 18,
       "text": "But when all in the camp heard the news, they were filled with terror and dread, and no man remained with his neighbor. Panic-stricken, they all ran off together into the open country.",
       "links": "<a href='/AIV/1/35/5'>Gen. 35:5</a>; <a href='/AIV/22/14/1'>Prov. 14:1</a>",
@@ -230,16 +135,10 @@
     },
     {
       "pk": 18014019,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 14,
       "verse": 19,
       "text": "The Israelites pursued them down the mountain until they reached the borders of their own country.",
       "links": "<a href='/AIV/6/10/32-42'>Josh. 10:32-42</a>",
       "comment": "Israel’s complete victory, pursued persistently, is reminiscent of the thorough victories blessed by God under Moses and Joshua. This persistent and divinely mandated pursuit foreshadows the Church’s mission to proclaim victory over sin and death through steadfast faith."
     }
-  ],
-  "translatedAt": "2025-12-25T16:09:34.886Z"
+  ]
 }

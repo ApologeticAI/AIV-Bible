@@ -1,16 +1,13 @@
 {
-  "book": 29,
+  "translation": "AIV",
+  "bookId": "isaiah",
   "bookName": "Isaiah",
   "bookAbbreviation": "Isa",
+  "bookNumber": 29,
   "chapter": 64,
   "verses": [
     {
       "pk": 29064001,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 64,
       "verse": 1,
       "text": "Oh that you would tear open the heavens and come down, so that the mountains would quake at your presence—",
       "links": "<a href='/AIV/02/19/18'>Ex. 19:18</a>; <a href='/AIV/19/18/7'>Ps. 18:7</a>; <a href='/AIV/26/1/1'>Ezek. 1:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 29064002,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 64,
       "verse": 2,
       "text": "As fire kindles brushwood and causes water to boil, to make your name known to your adversaries, so that the nations might tremble at your presence!",
       "links": "<a href='/AIV/02/19/16-18'>Ex. 19:16-18</a>; <a href='/AIV/19/46/6'>Ps. 46:6</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 29064003,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 64,
       "verse": 3,
       "text": "When you did awesome things that we did not look for, you came down, the mountains quaked at your presence.",
       "links": "<a href='/AIV/07/5/4-5'>Judg. 5:4-5</a>; <a href='/AIV/19/68/8'>Ps. 68:8</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 29064004,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 64,
       "verse": 4,
       "text": "From ages past no one has heard, no ear has perceived, no eye has seen any God besides you, who acts for those who wait for him.",
       "links": "<a href='/AIV/46/2/9'>1 Cor. 2:9</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 29064005,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 64,
       "verse": 5,
       "text": "You meet the one who joyfully practices righteousness, those who remember you in your ways. But you were angry, and we sinned; in our sins we have been a long time, and shall we be saved?",
       "links": "<a href='/AIV/19/85/10'>Ps. 85:10-13</a>; <a href='/AIV/45/3/23'>Rom. 3:23</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 29064006,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 64,
       "verse": 6,
       "text": "We have all become like something unclean, and all our righteous deeds are like filthy rags. We all wither like a leaf, and our iniquities, like the wind, carry us away.",
       "links": "<a href='/AIV/19/14/3'>Ps. 14:3</a>; <a href='/AIV/45/3/9-10'>Rom. 3:9-10</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 29064007,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 64,
       "verse": 7,
       "text": "There is no one who calls upon your name, who rouses himself to take hold of you; for you have hidden your face from us and have melted us away because of our sins.",
       "links": "<a href='/AIV/19/10/1'>Ps. 10:1</a>; <a href='/AIV/19/79/5'>Ps. 79:5</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 29064008,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 64,
       "verse": 8,
       "text": "But now, O Lord, you are our Father; we are the clay, and you are our potter; we are all the work of your hand.",
       "links": "<a href='/AIV/23/29/16'>Isa. 29:16</a>; <a href='/AIV/24/18/6'>Jer. 18:6</a>; <a href='/AIV/45/9/20-21'>Rom. 9:20-21</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 29064009,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 64,
       "verse": 9,
       "text": "Do not be exceedingly angry, O Lord, and do not remember iniquity forever. Behold, please look, we are all your people.",
       "links": "<a href='/AIV/19/130/3'>Ps. 130:3</a>; <a href='/AIV/19/25/6-7'>Ps. 25:6-7</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 29064010,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 64,
       "verse": 10,
       "text": "Your holy cities have become a wilderness; Zion has become a wilderness, Jerusalem a desolation.",
       "links": "<a href='/AIV/25/1/1-2'>Lam. 1:1-2</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 29064011,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 64,
       "verse": 11,
       "text": "Our holy and beautiful house, where our fathers praised you, has been burned with fire, and all we treasured has been ruined.",
       "links": "<a href='/AIV/19/74/7'>Ps. 74:7</a>; <a href='/AIV/25/2/6-7'>Lam. 2:6-7</a>",
@@ -141,33 +88,10 @@
     },
     {
       "pk": 29064012,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 64,
       "verse": 12,
       "text": "Will you restrain yourself at these things, O Lord? Will you keep silent, and afflict us so severely?",
       "links": "<a href='/AIV/19/28/1'>Ps. 28:1</a>; <a href='/AIV/19/83/1'>Ps. 83:1</a>",
       "comment": "The prophet’s urgent plea for divine action closes the prayer. God's 'silence' is not final; in the fullness of time, God responds with redemption, answering the deepest needs of His people through His ultimate act of salvation."
-    }
-  ],
-  "translatedAt": "2025-12-24T08:19:49.144Z",
-  "sections": [
-    {
-      "title": "A Prayer for God’s Presence and Mercy",
-      "startVerse": 1,
-      "endVerse": 4
-    },
-    {
-      "title": "Confession of Sin and Plea for Forgiveness",
-      "startVerse": 5,
-      "endVerse": 9
-    },
-    {
-      "title": "Lament Over Zion’s Desolation",
-      "startVerse": 10,
-      "endVerse": 12
     }
   ]
 }

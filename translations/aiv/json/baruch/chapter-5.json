@@ -1,16 +1,13 @@
 {
-  "book": 32,
+  "translation": "AIV",
+  "bookId": "baruch",
   "bookName": "Baruch",
   "bookAbbreviation": "Bar",
+  "bookNumber": 32,
   "chapter": 5,
   "verses": [
     {
       "pk": 32005001,
-      "translation": "AIV",
-      "book": 32,
-      "bookName": "Baruch",
-      "bookAbbreviation": "Bar",
-      "chapter": 5,
       "verse": 1,
       "text": "Put off the garment of your sorrow and affliction, O Jerusalem, and wear forever the splendor of the glory from God.",
       "links": "<a href='/AIV/23/52/1'>Isa. 52:1</a>; <a href='/AIV/60/5/10'>1 Pet. 5:10</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 32005002,
-      "translation": "AIV",
-      "book": 32,
-      "bookName": "Baruch",
-      "bookAbbreviation": "Bar",
-      "chapter": 5,
       "verse": 2,
       "text": "Put on the robe of the righteousness from God, and place on your head the diadem of the glory of the Everlasting.",
       "links": "<a href='/AIV/23/61/10'>Isa. 61:10</a>; <a href='/AIV/53/2/19'>2 Thess. 2:19</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 32005003,
-      "translation": "AIV",
-      "book": 32,
-      "bookName": "Baruch",
-      "bookAbbreviation": "Bar",
-      "chapter": 5,
       "verse": 3,
       "text": "For God will show your splendor to every nation under heaven.",
       "links": "<a href='/AIV/23/62/2'>Isa. 62:2</a>; <a href='/AIV/19/98/2'>Ps. 98:2</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 32005004,
-      "translation": "AIV",
-      "book": 32,
-      "bookName": "Baruch",
-      "bookAbbreviation": "Bar",
-      "chapter": 5,
       "verse": 4,
       "text": "For ever will be named by God for your righteousness and for the glory of godliness.",
       "links": "<a href='/AIV/23/62/12'>Isa. 62:12</a>; <a href='/AIV/60/2/9'>1 Pet. 2:9</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 32005005,
-      "translation": "AIV",
-      "book": 32,
-      "bookName": "Baruch",
-      "bookAbbreviation": "Bar",
-      "chapter": 5,
       "verse": 5,
       "text": "Arise, O Jerusalem, stand on the heights, and look toward the east, and see your children gathered from west to east by the word of the Holy One, rejoicing that God has remembered them.",
       "links": "<a href='/AIV/23/49/18'>Isa. 49:18</a>; <a href='/AIV/40/24/31'>Matt. 24:31</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 32005006,
-      "translation": "AIV",
-      "book": 32,
-      "bookName": "Baruch",
-      "bookAbbreviation": "Bar",
-      "chapter": 5,
       "verse": 6,
       "text": "For they went out from you on foot, led away by enemies; but God will bring them back to you, carried in glory, as on a royal throne.",
       "links": "<a href='/AIV/23/66/20'>Isa. 66:20</a>; <a href='/AIV/24/31/8'>Jer. 31:8</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 32005007,
-      "translation": "AIV",
-      "book": 32,
-      "bookName": "Baruch",
-      "bookAbbreviation": "Bar",
-      "chapter": 5,
       "verse": 7,
       "text": "For God has ordered that every high mountain and the everlasting hills be made low, and the valleys filled up, to make level ground, so that Israel may walk safely in the glory of God.",
       "links": "<a href='/AIV/23/40/4'>Isa. 40:4</a>; <a href='/AIV/42/3/5'>Luke 3:5</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 32005008,
-      "translation": "AIV",
-      "book": 32,
-      "bookName": "Baruch",
-      "bookAbbreviation": "Bar",
-      "chapter": 5,
       "verse": 8,
       "text": "The forests and every fragrant tree will shade Israel at God's command.",
       "links": "<a href='/AIV/19/104/16'>Ps. 104:16</a>; <a href='/AIV/23/41/19-20'>Isa. 41:19-20</a>",
@@ -104,28 +66,10 @@
     },
     {
       "pk": 32005009,
-      "translation": "AIV",
-      "book": 32,
-      "bookName": "Baruch",
-      "bookAbbreviation": "Bar",
-      "chapter": 5,
       "verse": 9,
       "text": "For God will lead Israel with joy, in the light of His glory, with the mercy and righteousness that come from Him.",
       "links": "<a href='/AIV/23/60/19-20'>Isa. 60:19-20</a>; <a href='/AIV/19/89/15-16'>Ps. 89:15-16</a>",
       "comment": "This concluding verse holds themes of guidance, joy, light, mercy, and righteousness—all gifts from God. The passage contains spiritual meaning: God Himself leads and fills His people with joy, echoed in Jesus' own ministry as the Light of the world (John 8:12). Receiving mercy and righteousness from God indicates a grace that is not earned but given, pointing toward the fullness of redemption revealed in the Gospel."
-    }
-  ],
-  "translatedAt": "2025-12-24T08:57:28.107Z",
-  "sections": [
-    {
-      "title": "Jerusalem's Restoration and Glory",
-      "startVerse": 1,
-      "endVerse": 4
-    },
-    {
-      "title": "Return of the Exiles in Joy",
-      "startVerse": 5,
-      "endVerse": 9
     }
   ]
 }

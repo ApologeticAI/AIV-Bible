@@ -1,16 +1,13 @@
 {
-  "book": 73,
+  "translation": "AIV",
+  "bookId": "revelation",
   "bookName": "Revelation",
   "bookAbbreviation": "Rev",
+  "bookNumber": 73,
   "chapter": 11,
   "verses": [
     {
       "pk": 73011001,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 11,
       "verse": 1,
       "text": "Then I was given a measuring rod like a staff, and someone said, 'Rise and measure the temple of God and the altar, and those who worship there.'",
       "links": "<a href='/AIV/26/40/3-4'>Ezek. 40:3-4</a>; <a href='/AIV/38/2/1'>Zech. 2:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 73011002,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 11,
       "verse": 2,
       "text": "But leave out the courtyard which is outside the temple, and do not measure it, because it has been given to the nations, and they will trample the holy city for forty-two months.",
       "links": "<a href='/AIV/42/21/24'>Luke 21:24</a>; <a href='/AIV/27/7/25'>Dan. 7:25</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 73011003,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 11,
       "verse": 3,
       "text": "And I will grant to my two witnesses, and they will prophesy for one thousand two hundred sixty days, clothed in sackcloth.",
       "links": "<a href='/AIV/38/4/3'>Zech. 4:3</a>; <a href='/AIV/11/19/13'>1 Kings 19:13</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 73011004,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 11,
       "verse": 4,
       "text": "These are the two olive trees and the two lampstands that stand before the Lord of the earth.",
       "links": "<a href='/AIV/38/4/2-14'>Zech. 4:2-14</a>; <a href='/AIV/66/1/20'>Rev. 1:20</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 73011005,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 11,
       "verse": 5,
       "text": "If anyone tries to harm them, fire comes out from their mouths and devours their enemies. Anyone wanting to harm them must be killed in this way.",
       "links": "<a href='/AIV/12/1/10'>2 Kings 1:10</a>; <a href='/AIV/16/4/4'>Neh. 4:4</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 73011006,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 11,
       "verse": 6,
       "text": "They have authority to shut the sky so that no rain may fall during the days of their prophecy, and they have authority over the waters to turn them into blood and to strike the earth with every kind of plague, as often as they desire.",
       "links": "<a href='/AIV/11/17/1'>1 Kings 17:1</a>; <a href='/AIV/2/7/14-21'>Ex. 7:14-21</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 73011007,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 11,
       "verse": 7,
       "text": "When they finish their testimony, the beast that comes up out of the abyss will make war on them, conquer them, and kill them.",
       "links": "<a href='/AIV/27/7/21'>Dan. 7:21</a>; <a href='/AIV/66/13/1'>Rev. 13:1</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 73011008,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 11,
       "verse": 8,
       "text": "Their dead bodies will lie in the street of the great city, which is figuratively called Sodom and Egypt, where also their Lord was crucified.",
       "links": "<a href='/AIV/23/1/9'>Isa. 1:9</a>; <a href='/AIV/02/7/1-5'>Ex. 7:1-5</a>; <a href='/AIV/42/23/33'>Luke 23:33</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 73011009,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 11,
       "verse": 9,
       "text": "For three and a half days, some from the peoples, tribes, languages, and nations look at their dead bodies and refuse to let them be buried.",
       "links": "<a href='/AIV/66/10/11'>Rev. 10:11</a>; <a href='/AIV/27/12/2'>Dan. 12:2</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 73011010,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 11,
       "verse": 10,
       "text": "Those who dwell on the earth will rejoice over them and make merry, and exchange gifts, because these two prophets had tormented those who dwell on the earth.",
       "links": "<a href='/AIV/66/18/11'>Rev. 18:11</a>; <a href='/AIV/60/4/4'>1 Pet. 4:4</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 73011011,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 11,
       "verse": 11,
       "text": "But after the three and a half days, the breath of life from God entered them, and they stood up on their feet, and great fear fell on those who saw them.",
       "links": "<a href='/AIV/26/37/10'>Ezek. 37:10</a>; <a href='/AIV/40/28/6'>Matt. 28:6</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 73011012,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 11,
       "verse": 12,
       "text": "And they heard a loud voice from heaven saying to them, 'Come up here.' And they went up to heaven in a cloud, while their enemies watched them.",
       "links": "<a href='/AIV/44/1/9'>Acts 1:9</a>; <a href='/AIV/66/4/1'>Rev. 4:1</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 73011013,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 11,
       "verse": 13,
       "text": "At that hour there was a great earthquake, and a tenth of the city fell; seven thousand people were killed in the earthquake. The rest were terrified and gave glory to the God of heaven.",
       "links": "<a href='/AIV/02/19/18'>Ex. 19:18</a>; <a href='/AIV/66/6/12'>Rev. 6:12</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 73011014,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 11,
       "verse": 14,
       "text": "The second woe has passed; behold, the third woe is coming soon.",
       "links": "<a href='/AIV/66/8/13'>Rev. 8:13</a>; <a href='/AIV/66/9/12'>Rev. 9:12</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 73011015,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 11,
       "verse": 15,
       "text": "Then the seventh angel blew his trumpet, and loud voices in heaven said, 'The kingdom of the world has become the kingdom of our Lord and of his Christ, and he shall reign forever and ever.'",
       "links": "<a href='/AIV/27/7/14'>Dan. 7:14</a>; <a href='/AIV/42/1/33'>Luke 1:33</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 73011016,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 11,
       "verse": 16,
       "text": "And the twenty-four elders, who sit on their thrones before God, fell on their faces and worshiped God,",
       "links": "<a href='/AIV/66/4/4'>Rev. 4:4</a>; <a href='/AIV/19/99/5'>Ps. 99:5</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 73011017,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 11,
       "verse": 17,
       "text": "saying, 'We give thanks to you, Lord God Almighty, who is and who was, for you have taken your great power and begun to reign.'",
       "links": "<a href='/AIV/19/97/1'>Ps. 97:1</a>; <a href='/AIV/66/1/8'>Rev. 1:8</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 73011018,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 11,
       "verse": 18,
       "text": "The nations were angry, and your wrath has come, and the time for the dead to be judged, and for rewarding your servants, the prophets and the saints, and those who fear your name, both small and great, and for destroying those who destroy the earth.",
       "links": "<a href='/AIV/19/2/1'>Ps. 2:1</a>; <a href='/AIV/27/12/2'>Dan. 12:2</a>; <a href='/AIV/40/25/21'>Matt. 25:21</a>",
@@ -225,33 +137,10 @@
     },
     {
       "pk": 73011019,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 11,
       "verse": 19,
       "text": "Then the temple of God in heaven was opened, and the ark of his covenant was seen within his temple. There were flashes of lightning, voices, peals of thunder, an earthquake, and great hail.",
       "links": "<a href='/AIV/02/25/10'>Ex. 25:10</a>; <a href='/AIV/19/99/1'>Ps. 99:1</a>; <a href='/AIV/66/8/5'>Rev. 8:5</a>",
       "comment": "The opening of the heavenly temple and the revealing of the ark signifies the full revelation of God’s presence and covenant promises. Many see hints here of spiritual realities realized in sacred worship and the Eucharist, which is seen by some as the fulfillment of the old covenant symbols in the new era."
-    }
-  ],
-  "translatedAt": "2025-12-24T12:37:28.050Z",
-  "sections": [
-    {
-      "title": "The Measuring of the Temple and the Two Witnesses",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "The Death and Resurrection of the Two Witnesses",
-      "startVerse": 7,
-      "endVerse": 14
-    },
-    {
-      "title": "The Seventh Trumpet: The Kingdom Proclaimed",
-      "startVerse": 15,
-      "endVerse": 19
     }
   ]
 }

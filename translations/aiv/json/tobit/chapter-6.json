@@ -1,16 +1,13 @@
 {
-  "book": 17,
+  "translation": "AIV",
+  "bookId": "tobit",
   "bookName": "Tobit",
   "bookAbbreviation": "Tob",
+  "bookNumber": 17,
   "chapter": 6,
   "verses": [
     {
       "pk": 17006001,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 6,
       "verse": 1,
       "text": "So she stopped weeping. The young man went out and the angel went with him;",
       "links": "<a href='/AIV/01/7/10'>Gen. 7:10</a>; <a href='/AIV/04/21/7-9'>Num. 21:7-9</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 17006002,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 6,
       "verse": 2,
       "text": "and the dog came out with him and went along with them. So they both journeyed along, and when the first night overtook them they camped by the Tigris river.",
       "links": "<a href='/AIV/19/104/26'>Ps. 104:26</a>; <a href='/AIV/40/17/27'>Matt. 17:27</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 17006003,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 6,
       "verse": 3,
       "text": "Then the young man went down to wash his feet in the Tigris river. Suddenly, a large fish leapt up from the water and tried to swallow the young man’s foot, and he cried out.",
       "links": "<a href='/AIV/03/9/9-10'>Lev. 9:9-10</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 17006004,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 6,
       "verse": 4,
       "text": "But the angel said to the young man, 'Catch hold of the fish and hang on to it!' So the young man grasped the fish and drew it up onto the land.",
       "links": "<a href='/AIV/02/15/26'>Ex. 15:26</a>; <a href='/AIV/41/9/25'>Mark 9:25</a>; <a href='/AIV/09/16/23'>1 Sam. 16:23</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 17006005,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 6,
       "verse": 5,
       "text": "Then the angel said to him, 'Cut open the fish and take out its gall, heart, and liver. Keep them with you, but throw away the intestines. For its gall, heart, and liver are useful as medicine.'",
       "links": "<a href='/AIV/01/18/22'>Gen. 18:22</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 17006006,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 6,
       "verse": 6,
       "text": "So after cutting open the fish, the young man gathered together the gall, heart, and liver; then he roasted and ate some of the fish, and kept some to be salted. The two continued on their way together until they were near Media.",
       "links": "<a href='/AIV/40/8/16'>Matt. 8:16</a>; <a href='/AIV/41/1/27'>Mark 1:27</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 17006007,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 6,
       "verse": 7,
       "text": "Then the young man questioned the angel and said to him, 'Brother Azariah, what medicinal value is there in the fish's heart and liver, and in the gall?'",
       "links": "<a href='/AIV/43/9/6-7'>John 9:6-7</a>; <a href='/AIV/19/146/8'>Ps. 146:8</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 17006008,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 6,
       "verse": 8,
       "text": "He replied, 'As for the fish’s heart and liver, you must burn them to make a smoke in the presence of a man or woman afflicted by a demon or evil spirit, and every affliction will flee away and never remain with that person any longer.'",
       "links": "<a href='/AIV/17/1/2'>Esther 1:2</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 17006009,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 6,
       "verse": 9,
       "text": "And as for the gall, anoint a person’s eyes where white films have appeared on them; blow upon them, upon the white films, and the eyes will be healed.”",
       "links": "<a href='/AIV/08/3/9'>Ruth 3:9</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 17006010,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 6,
       "verse": 10,
       "text": "When he entered Media and already was approaching Ecbatana,",
       "links": "<a href='/AIV/04/27/8'>Num. 27:8</a>; <a href='/AIV/08/4/5-10'>Ruth 4:5-10</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 17006011,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 6,
       "verse": 11,
       "text": "Raphael said to the young man, 'Brother Tobias.' 'Here I am,' he answered. Then Raphael said to him, 'We must stay this night in the home of Raguel. He is your relative, and he has a daughter named Sarah.'",
       "links": "<a href='/AIV/17/3/8'>Tob. 3:8</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 17006012,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 6,
       "verse": 12,
       "text": "He has no male heir and no daughter except Sarah only, and you, as next of kin to her, have before all other men a hereditary claim on her. Also it is right for you to inherit her father's possessions. Moreover, the girl is sensible, brave, and very beautiful, and her father is a good man.",
       "links": "<a href='/AIV/09/18/10'>1 Sam. 18:10</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 17006013,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 6,
       "verse": 13,
       "text": "He continued, 'You have every right to take her in marriage. So listen to me, brother; tonight I will speak to her father about the girl, so that we may take her to be your bride. When we return from Rages we will celebrate her marriage. For I know that Raguel can by no means keep her from you or promise her to another man without incurring the penalty of death according to the decree of the book of Moses. Indeed he knows that you, rather than any other man, are entitled to marry his daughter. So now listen to me, brother, and tonight we shall speak concerning the girl and arrange her engagement to you. And when we return from Rages we will take her and bring her back with us to your house.'",
       "links": "<a href='/AIV/02/40/27-29'>Ex. 40:27-29</a>; <a href='/AIV/04/16/46'>Num. 16:46</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 17006014,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 6,
       "verse": 14,
       "text": "Then Tobias said in answer to Raphael, 'Brother Azariah, I have heard that she already has been married to seven husbands and that they died in the bridal chamber. On the night when they went in to her, they would die. I have heard people saying that it was a demon that killed them.'",
       "links": "<a href='/AIV/01/2/24'>Gen. 2:24</a>; <a href='/AIV/20/8/17'>Prov. 8:17</a>; <a href='/AIV/40/19/6'>Matt. 19:6</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 17006015,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 6,
       "verse": 15,
       "text": "'It does not harm her, but it kills anyone who desires to approach her. So now, since I am the only son my father has, I am afraid that I may die and bring my father’s and mother’s life down to their grave, grieving for me — and they have no other son to bury them.'",
       "links": "<a href='/AIV/01/17/19'>Gen. 17:19</a>; <a href='/AIV/19/128/3'>Ps. 128:3</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 17006016,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 6,
       "verse": 16,
       "text": "But Raphael said to him, \"Do you not remember your father’s orders when he commanded you to take a wife from your father’s house? Now listen to me, brother, and say no more about this demon. Take her. I know that this very night she will be given to you in marriage.\"",
       "links": "<a href='/AIV/01/29/18-20'>Gen. 29:18-20</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 17006017,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 6,
       "verse": 17,
       "text": "When you enter the bridal chamber, take some of the fish’s liver and heart, and put them on the embers of the incense. An odor will be given off;",
       "links": "<a href='/AIV/17/1/1'>Tob. 1:1</a>",
@@ -213,33 +130,10 @@
     },
     {
       "pk": 17006018,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 6,
       "verse": 18,
       "text": "the demon will smell it and flee, and will never be seen near her any more. Now when you are about to go to bed with her, both of you must first stand up and pray, imploring the Lord of heaven that mercy and safety may be granted to you. Do not be afraid, for she was set apart for you before the world was made. You will save her, and she will go with you. I presume that you will have children by her, and they will be as brothers to you. Now say no more!” When Tobias heard the words of Raphael and learned that she was his kinswoman, related through his father’s lineage, he loved her very much, and his heart was drawn to her.",
       "links": "<a href='/AIV/19/72/18'>Ps. 72:18</a>; <a href='/AIV/17/7/18'>Tob. 7:18</a>",
       "comment": "Blessing God before entering the fulfillment of His promise models thanksgiving and reverence. This verse subtly points to the ongoing dialogue between God and those who trust in His plans, inviting readers into a deeper relationship rooted in tradition and sacramental living."
-    }
-  ],
-  "translatedAt": "2026-01-02T06:04:40.964Z",
-  "sections": [
-    {
-      "title": "The Fish and Its Healing Properties",
-      "startVerse": 1,
-      "endVerse": 8
-    },
-    {
-      "title": "Raphael Counsels Tobias Concerning Sarah",
-      "startVerse": 9,
-      "endVerse": 15
-    },
-    {
-      "title": "Tobias Sets His Heart on Sarah",
-      "startVerse": 16,
-      "endVerse": 18
     }
   ]
 }

@@ -1,16 +1,13 @@
 {
-  "book": 42,
+  "translation": "AIV",
+  "bookId": "habakkuk",
   "bookName": "Habakkuk",
   "bookAbbreviation": "Hab",
+  "bookNumber": 42,
   "chapter": 3,
   "verses": [
     {
       "pk": 42003001,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 3,
       "verse": 1,
       "text": "A prayer of Habakkuk the prophet, according to Shigionoth.",
       "links": "<a href='/AIV/19/7/1'>Ps. 7:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 42003002,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 3,
       "verse": 2,
       "text": "LORD, I have heard the report about you; I stand in awe, LORD, of your deeds. In the midst of the years revive them; in the midst of the years make them known; in wrath remember mercy.",
       "links": "<a href='/AIV/02/34/8'>Ex. 34:8</a>; <a href='/AIV/19/85/6'>Ps. 85:6</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 42003003,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 3,
       "verse": 3,
       "text": "God came from Teman, and the Holy One from Mount Paran. Selah. His glory covered the heavens, and the earth was full of his praise.",
       "links": "<a href='/AIV/05/33/2'>Deut. 33:2</a>; <a href='/AIV/19/72/19'>Ps. 72:19</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 42003004,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 3,
       "verse": 4,
       "text": "His brightness was like the light; rays flashed from his hand, and there his power was hidden.",
       "links": "<a href='/AIV/02/34/29'>Ex. 34:29-35</a>; <a href='/AIV/41/9/2-3'>Mark 9:2-3</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 42003005,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 3,
       "verse": 5,
       "text": "Before him went pestilence, and plague followed at his heels.",
       "links": "<a href='/AIV/02/9/3'>Ex. 9:3</a>; <a href='/AIV/02/12/29'>Ex. 12:29</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 42003006,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 3,
       "verse": 6,
       "text": "He stood and measured the earth; he looked and shook the nations. Then the ancient mountains were scattered; the everlasting hills sank. His ways are everlasting.",
       "links": "<a href='/AIV/07/5/4-5'>Judg. 5:4-5</a>; <a href='/AIV/19/90/2'>Ps. 90:2</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 42003007,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 3,
       "verse": 7,
       "text": "I saw the tents of Cushan in distress; the curtains of the land of Midian trembled.",
       "links": "<a href='/AIV/04/22/5'>Num. 22:5</a>; <a href='/AIV/07/6/1'>Judg. 6:1-5</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 42003008,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 3,
       "verse": 8,
       "text": "Was your wrath against the rivers, LORD? Was your anger against the rivers, or your fury against the sea, that you rode on your horses, on your chariots of salvation?",
       "links": "<a href='/AIV/02/14/21-28'>Ex. 14:21-28</a>; <a href='/AIV/06/3/16'>Josh. 3:16</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 42003009,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 3,
       "verse": 9,
       "text": "Your bow was made bare; you called for many arrows. Selah. You split the earth with rivers.",
       "links": "<a href='/AIV/07/5/20-21'>Judg. 5:20-21</a>; <a href='/AIV/02/17/5-6'>Ex. 17:5-6</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 42003010,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 3,
       "verse": 10,
       "text": "The mountains saw you and writhed; the raging waters swept by; the deep roared and lifted its waves on high.",
       "links": "<a href='/AIV/19/77/16'>Ps. 77:16</a>; <a href='/AIV/19/114/3-4'>Ps. 114:3-4</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 42003011,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 3,
       "verse": 11,
       "text": "The sun and moon stood still in their habitation, at the light of your arrows as they sped, at the flash of your gleaming spear.",
       "links": "<a href='/AIV/06/10/12-13'>Josh. 10:12-13</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 42003012,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 3,
       "verse": 12,
       "text": "In wrath you marched through the earth; in anger you threshed the nations.",
       "links": "<a href='/AIV/23/63/3'>Isa. 63:3</a>; <a href='/AIV/19/110/6'>Ps. 110:6</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 42003013,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 3,
       "verse": 13,
       "text": "You went out for the salvation of your people, for the salvation of your anointed. You crushed the head of the house of the wicked, laying him bare from thigh to neck. Selah.",
       "links": "<a href='/AIV/01/3/15'>Gen. 3:15</a>; <a href='/AIV/19/2/2'>Ps. 2:2</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 42003014,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 3,
       "verse": 14,
       "text": "With his own weapons you pierced the head of his warriors, who came like a whirlwind to scatter me, rejoicing as if to devour the poor in secret.",
       "links": "<a href='/AIV/07/7/22'>Judg. 7:22</a>; <a href='/AIV/19/10/8-10'>Ps. 10:8-10</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 42003015,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 3,
       "verse": 15,
       "text": "You trod the sea with your horses, through the swirling mighty waters.",
       "links": "<a href='/AIV/02/14/21-28'>Ex. 14:21-28</a>; <a href='/AIV/19/77/19'>Ps. 77:19</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 42003016,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 3,
       "verse": 16,
       "text": "I heard and my body trembled; my lips quivered at the sound; decay entered my bones, and I trembled where I stood. Yet I wait quietly for the day of distress to come upon the people who invade us.",
       "links": "<a href='/AIV/19/119/120'>Ps. 119:120</a>; <a href='/AIV/23/26/20'>Isa. 26:20</a>",
@@ -202,11 +124,6 @@
     },
     {
       "pk": 42003017,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 3,
       "verse": 17,
       "text": "Even though the fig tree does not bud, nor is there fruit on the vines, though the olive crop fails and the fields produce no food, though the sheep disappear from the fold and there are no cattle in the stalls—",
       "links": "<a href='/AIV/34/1/11'>Nah. 1:11</a>; <a href='/AIV/29/1/10-12'>Joel 1:10-12</a>",
@@ -214,11 +131,6 @@
     },
     {
       "pk": 42003018,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 3,
       "verse": 18,
       "text": "Yet I will rejoice in the LORD; I will be joyful in God my Savior.",
       "links": "<a href='/AIV/34/3/17-18'>Hab. 3:17-18</a>; <a href='/AIV/19/13/5'>Ps. 13:5</a>",
@@ -226,38 +138,10 @@
     },
     {
       "pk": 42003019,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 3,
       "verse": 19,
       "text": "The LORD God is my strength; he makes my feet like a deer’s; he enables me to tread on the high places. For the choirmaster, with stringed instruments.",
       "links": "<a href='/AIV/10/22/34'>2 Sam. 22:34</a>; <a href='/AIV/19/18/33'>Ps. 18:33</a>",
       "comment": "Habakkuk closes in praise, relying on God’s strength rather than his own. The musical note at the end suggests this is a song for public worship, reflecting the ancient practice of liturgical music. This points to the power of communal worship in sustaining faith."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:51:57.405Z",
-  "sections": [
-    {
-      "title": "Habakkuk’s Prayer for Mercy",
-      "startVerse": 1,
-      "endVerse": 2
-    },
-    {
-      "title": "The Lord’s Majestic Coming",
-      "startVerse": 3,
-      "endVerse": 7
-    },
-    {
-      "title": "God’s Victory over the Nations",
-      "startVerse": 8,
-      "endVerse": 15
-    },
-    {
-      "title": "Habakkuk’s Trust Amid Suffering",
-      "startVerse": 16,
-      "endVerse": 19
     }
   ]
 }

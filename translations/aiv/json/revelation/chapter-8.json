@@ -1,16 +1,13 @@
 {
-  "book": 73,
+  "translation": "AIV",
+  "bookId": "revelation",
   "bookName": "Revelation",
   "bookAbbreviation": "Rev",
+  "bookNumber": 73,
   "chapter": 8,
   "verses": [
     {
       "pk": 73008001,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 8,
       "verse": 1,
       "text": "When He opened the seventh seal, there was silence in heaven for about half an hour.",
       "links": "<a href='/AIV/73/6/1'>Rev. 6:1</a>; <a href='/AIV/36/1/7'>Zeph. 1:7</a>; <a href='/AIV/19/76/8'>Ps. 76:8</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 73008002,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 8,
       "verse": 2,
       "text": "Then I saw the seven angels who stand before God, and seven trumpets were given to them.",
       "links": "<a href='/AIV/15/2/3'>Tobit 12:15</a>; <a href='/AIV/07/6/16'>Judg. 6:16</a>; <a href='/AIV/04/10/2'>Num. 10:2-10</a>",
@@ -32,11 +24,6 @@
     },
     {
       "pk": 73008003,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 8,
       "verse": 3,
       "text": "Another angel came and stood at the altar, holding a golden censer; and much incense was given to him to offer up, with the prayers of all the saints, on the golden altar before the throne.",
       "links": "<a href='/AIV/02/30/1'>Ex. 30:1-10</a>; <a href='/AIV/19/141/2'>Ps. 141:2</a>; <a href='/AIV/73/5/8'>Rev. 5:8</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 73008004,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 8,
       "verse": 4,
       "text": "The smoke of the incense, together with the prayers of the saints, went up before God from the angel’s hand.",
       "links": "<a href='/AIV/19/141/2'>Ps. 141:2</a>; <a href='/AIV/73/5/8'>Rev. 5:8</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 73008005,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 8,
       "verse": 5,
       "text": "Then the angel took the censer, filled it with fire from the altar, and threw it onto the earth. And there came thunder, rumblings, lightning, and an earthquake.",
       "links": "<a href='/AIV/02/19/16'>Ex. 19:16-19</a>; <a href='/AIV/19/18/7-15'>Ps. 18:7-15</a>; <a href='/AIV/73/16/18'>Rev. 16:18</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 73008006,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 8,
       "verse": 6,
       "text": "And the seven angels who had the seven trumpets prepared to sound them.",
       "links": "<a href='/AIV/06/6/20'>Josh. 6:20</a>; <a href='/AIV/19/98/6'>Ps. 98:6</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 73008007,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 8,
       "verse": 7,
       "text": "The first angel sounded his trumpet, and there came hail and fire mixed with blood, and these were thrown down on the earth. A third of the earth was burned up, a third of the trees were burned up, and all green grass was burned up.",
       "links": "<a href='/AIV/02/9/24'>Ex. 9:24</a>; <a href='/AIV/26/5/2'>Ezek. 5:2-12</a>; <a href='/AIV/73/11/19'>Rev. 11:19</a>",
@@ -93,11 +60,6 @@
     },
     {
       "pk": 73008008,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 8,
       "verse": 8,
       "text": "The second angel sounded his trumpet, and something like a great mountain burning with fire was thrown into the sea, and a third of the sea became blood.",
       "links": "<a href='/AIV/02/7/17-21'>Ex. 7:17-21</a>; <a href='/AIV/34/1/5-6'>Nah. 1:5-6</a>; <a href='/AIV/73/16/3'>Rev. 16:3</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 73008009,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 8,
       "verse": 9,
       "text": "A third of the living creatures in the sea died, and a third of the ships were destroyed.",
       "links": "<a href='/AIV/02/7/21'>Ex. 7:21</a>; <a href='/AIV/19/104/25-29'>Ps. 104:25-29</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 73008010,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 8,
       "verse": 10,
       "text": "The third angel sounded his trumpet, and a great star, blazing like a torch, fell from heaven on a third of the rivers and on the springs of water.",
       "links": "<a href='/AIV/23/14/12'>Isa. 14:12</a>; <a href='/AIV/24/9/15'>Jer. 9:15</a>; <a href='/AIV/73/9/1'>Rev. 9:1</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 73008011,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 8,
       "verse": 11,
       "text": "The name of the star is Wormwood. A third of the waters became bitter, and many people died from the waters because they were made bitter.",
       "links": "<a href='/AIV/24/9/15'>Jer. 9:15</a>; <a href='/AIV/24/23/15'>Jer. 23:15</a>; <a href='/AIV/02/15/23-24'>Ex. 15:23-24</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 73008012,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 8,
       "verse": 12,
       "text": "The fourth angel sounded his trumpet, and a third of the sun, a third of the moon, and a third of the stars were struck, so that a third of them were darkened. A third of the day was prevented from shining, and likewise the night.",
       "links": "<a href='/AIV/02/10/21-23'>Ex. 10:21-23</a>; <a href='/AIV/23/13/10'>Isa. 13:10</a>; <a href='/AIV/40/24/29'>Matt. 24:29</a>",
@@ -153,39 +95,11 @@
     },
     {
       "pk": 73008013,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 8,
       "verse": 13,
       "text": "Then I looked, and I heard an eagle flying high overhead, crying with a loud voice, 'Woe, woe, woe to those who live on the earth, because of the blasts of the other trumpets which the three angels are about to sound!'",
       "links": "<a href='/AIV/26/10/14'>Ezek. 10:14</a>; <a href='/AIV/23/6/2'>Isa. 6:2-3</a>; <a href='/AIV/73/9/12'>Rev. 9:12</a>",
       "comment": "The triple ‘woe’ intensifies what is to come, marking a transition in heavenly revelation. The eagle often symbolizes both prophetic warning and divine messenger (Ezekiel 10:14). This call to repentance is urgent, implying a further need for sacramental grace and steadfastness in the sacred tradition to be preserved from coming judgments.",
       "sectionHeader": "The Three Woes Announced"
-    }
-  ],
-  "translatedAt": "2025-12-24T12:36:16.022Z",
-  "sections": [
-    {
-      "title": "The Seventh Seal and the Silence in Heaven",
-      "startVerse": 1,
-      "endVerse": 1
-    },
-    {
-      "title": "The Seven Trumpets and the Angel with the Censer",
-      "startVerse": 2,
-      "endVerse": 6
-    },
-    {
-      "title": "The First Four Trumpet Judgments",
-      "startVerse": 7,
-      "endVerse": 12
-    },
-    {
-      "title": "The Three Woes Announced",
-      "startVerse": 13,
-      "endVerse": 13
     }
   ]
 }

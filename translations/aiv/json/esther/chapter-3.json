@@ -1,16 +1,13 @@
 {
-  "book": 19,
+  "translation": "AIV",
+  "bookId": "esther",
   "bookName": "Esther",
   "bookAbbreviation": "Esth",
+  "bookNumber": 19,
   "chapter": 3,
   "verses": [
     {
       "pk": 19003001,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 3,
       "verse": 1,
       "text": "After these things, King Xerxes promoted Haman son of Hammedatha the Agagite, raising him up and placing his seat above all the officials who were with him.",
       "links": "<a href='/AIV/9/15/8'>1 Sam. 15:8</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 19003002,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 3,
       "verse": 2,
       "text": "All the king’s servants who were at the king’s gate bowed down and paid honor to Haman, for the king had so commanded concerning him. But Mordecai did not bow down or pay honor.",
       "links": "<a href='/AIV/27/3/12'>Dan. 3:12</a>; <a href='/AIV/2/20/5'>Ex. 20:5</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 19003003,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 3,
       "verse": 3,
       "text": "Then the king’s servants who were at the king’s gate said to Mordecai, 'Why do you disobey the king’s command?'",
       "links": "<a href='/AIV/27/6/13'>Dan. 6:13</a>; <a href='/AIV/44/5/29'>Acts 5:29</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 19003004,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 3,
       "verse": 4,
       "text": "Day after day they spoke to him, but he did not listen to them. Therefore, they told Haman, to see whether Mordecai’s words would stand, for he had told them that he was a Jew.",
       "links": "<a href='/AIV/42/21/12-13'>Luke 21:12-13</a>; <a href='/AIV/2/1/12'>Ex. 1:12</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 19003005,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 3,
       "verse": 5,
       "text": "When Haman saw that Mordecai did not bow down or pay him honor, Haman was filled with rage.",
       "links": "<a href='/AIV/40/27/18'>Matt. 27:18</a>; <a href='/AIV/1/4/7'>Gen. 4:7</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 19003006,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 3,
       "verse": 6,
       "text": "But he thought it beneath himself to attack only Mordecai. Instead, since they had made known to him Mordecai's people, Haman sought to destroy all the Jews throughout the whole kingdom of Xerxes.",
       "links": "<a href='/AIV/1/37/18-20'>Gen. 37:18-20</a>; <a href='/AIV/40/2/16'>Matt. 2:16</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 19003007,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 3,
       "verse": 7,
       "text": "In the first month, the month of Nisan, in the twelfth year of King Xerxes, Pur—that is, the lot—was cast before Haman, day after day, to determine a suitable time. The lot fell on the twelfth month, the month of Adar.",
       "links": "<a href='/AIV/20/16/33'>Prov. 16:33</a>; <a href='/AIV/3/23/1'>Lev. 23:1'</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 19003008,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 3,
       "verse": 8,
       "text": "Then Haman said to King Xerxes, 'There is a certain people scattered and separated among the peoples in all the provinces of your kingdom. Their laws are different from those of every other people, and they do not keep the king’s laws. It is not fitting for the king to let them remain.'",
       "links": "<a href='/AIV/10/7/5-6'>2 Sam. 7:5-6</a>; <a href='/AIV/44/17/6-7'>Acts 17:6-7</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 19003009,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 3,
       "verse": 9,
       "text": "'If it pleases the king, let a decree be written to destroy them, and I will pay ten thousand talents of silver into the hands of those who oversee the work, to be brought into the king’s treasury.'",
       "links": "<a href='/AIV/40/26/15'>Matt. 26:15</a>; <a href='/AIV/7/16/18'>Judg. 16:18</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 19003010,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 3,
       "verse": 10,
       "text": "So the king took his signet ring from his hand and gave it to Haman son of Hammedatha the Agagite, the enemy of the Jews.",
       "links": "<a href='/AIV/1/41/42'>Gen. 41:42</a>; <a href='/AIV/27/6/17'>Dan. 6:17</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 19003011,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 3,
       "verse": 11,
       "text": "The king said to Haman, 'The silver is yours, and the people too; do with them as you think best.'",
       "links": "<a href='/AIV/2/1/22'>Ex. 1:22</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 19003012,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 3,
       "verse": 12,
       "text": "Then the king’s secretaries were summoned on the thirteenth day of the first month, and a decree was written exactly as Haman commanded, to the king’s satraps, the governors of each province, and the officials of every people, to every province in its own script and to every people in their own language. It was written in the name of King Xerxes and sealed with the king’s signet ring.",
       "links": "<a href='/AIV/24/22/10'>Jer. 22:10</a>; <a href='/AIV/44/2/8-11'>Acts 2:8-11</a>",
@@ -153,23 +95,13 @@
     },
     {
       "pk": 19003013,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 3,
       "verse": 13,
-      "text": "Letters were sent by couriers to all the king’s provinces, giving orders to destroy, to kill, and to annihilate all Jews, young and old, women and children, in one day, the thirteenth day of the twelfth month, which is the month of Adar, and to plunder their goods. <b>ADDITION B</b> <b>The King’s Letter</b> This is a copy of the letter: “The Great King, Ahasuerus, writes the following to the governors of the hundred twenty-seven provinces from India to Ethiopia and to the officials under them: Having become ruler of many nations and master of the whole world (not elated with presumption of authority but always acting reasonably and with kindness), I have determined to settle the lives of my subjects in lasting tranquility and, in order to make my kingdom peaceable and open to travel throughout all its extent, to restore the peace desired by all people. When I asked my counselors how this might be accomplished, Haman—who excels among us in sound judgment, and is distinguished for his unchanging goodwill and steadfast fidelity, and has attained the second place in the kingdom—pointed out to us that among all the nations in the world there is scattered a certain hostile people, who have laws contrary to those of every nation and continually disregard the ordinances of kings, so that the unifying of the kingdom that we honorably intend cannot be brought about. We understand that this people, and it alone, stands constantly in opposition to every nation, perversely following a strange manner of life and laws, and is ill-disposed to our government, doing all the harm they can so that our kingdom may not attain stability. Therefore we have decreed that those indicated to you in the letters written by Haman, who is in charge of affairs and is our second father, shall all—wives and children included—be utterly destroyed by the swords of their enemies, without pity or restraint, on the fourteenth day of the twelfth month, Adar, of this present year, so that those who have long been hostile and remain so may in a single day go down in violence to Hades, and leave our government completely secure and untroubled hereafter.” <b>END OF ADDITION B</b>",
+      "text": "Letters were sent by couriers to all the king's provinces, giving orders to destroy, to kill, and to annihilate all Jews, young and old, women and children, in one day, the thirteenth day of the twelfth month, which is the month of Adar, and to plunder their goods.",
       "links": "<a href='/AIV/19/8/10'>Esth. 8:10-12</a>; <a href='/AIV/34/3/6'>Dan. 3:6</a>; <a href='/AIV/23/83/4'>Ps. 83:4</a>",
       "comment": "This royal decree, driven by Haman’s malice, illustrates the vulnerability of minority communities under autocratic rule and echoes earlier threats faced by God’s people (cf. Exodus 1:8-22); the language of total destruction and the king’s formal letter (the Greek Addition B) emphasize both the severity of the edict and the scope of Persian imperial authority."
     },
     {
       "pk": 19003014,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 3,
       "verse": 14,
       "text": "A copy of the edict was to be proclaimed as law in every province, made known to all peoples, so that they should be ready for that day.",
       "links": "<a href='/AIV/10/8/15'>2 Sam. 8:15</a>; <a href='/AIV/40/24/44'>Matt. 24:44</a>",
@@ -177,33 +109,10 @@
     },
     {
       "pk": 19003015,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 3,
       "verse": 15,
       "text": "The couriers went out quickly by order of the king, and the decree was issued in the citadel of Susa. As the king and Haman sat down to drink, the city of Susa was thrown into confusion.",
       "links": "<a href='/AIV/23/22/13'>Isa. 22:13</a>; <a href='/AIV/40/27/36'>Matt. 27:36</a>",
       "comment": "While the king and Haman react with indifference, the inhabitants of Susa are distressed, highlighting the moral disconnect between rulers and their subjects and foreshadowing a coming reversal—paralleling the societal turmoil seen in Daniel 6:14-18 when an unjust decree jeopardizes the innocent."
-    }
-  ],
-  "translatedAt": "2025-12-28T02:09:59.504Z",
-  "sections": [
-    {
-      "title": "Haman Is Promoted; Mordecai Refuses to Bow",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "Haman Plots to Destroy the Jews",
-      "startVerse": 6,
-      "endVerse": 11
-    },
-    {
-      "title": "The King's Decree Against the Jews",
-      "startVerse": 12,
-      "endVerse": 15
     }
   ]
 }

@@ -1,16 +1,13 @@
 {
-  "book": 1,
+  "translation": "AIV",
+  "bookId": "genesis",
   "bookName": "Genesis",
   "bookAbbreviation": "Gen",
+  "bookNumber": 1,
   "chapter": 8,
   "verses": [
     {
       "pk": 1008001,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 8,
       "verse": 1,
       "text": "But God remembered Noah and all the animals and all the cattle that were with him in the ark. And God made a wind blow over the earth, and the waters subsided.",
       "links": "<a href='/AIV/1/19/29'>Gen. 19:29</a>;<a href='/AIV/2/14/21'>Ex. 14:21</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 1008002,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 8,
       "verse": 2,
       "text": "The fountains of the deep and the windows of heaven were closed; and the rain from heaven was restrained.",
       "links": "<a href='/AIV/1/7/11'>Gen. 7:11</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 1008003,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 8,
       "verse": 3,
       "text": "The waters receded from the earth continually. After one hundred and fifty days, the waters had subsided.",
       "links": "<a href='/AIV/1/7/24'>Gen. 7:24</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 1008004,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 8,
       "verse": 4,
       "text": "In the seventh month, on the seventeenth day of the month, the ark came to rest on the mountains of Ararat.",
       "links": "<a href='/AIV/1/7/19-20'>Gen. 7:19-20</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 1008005,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 8,
       "verse": 5,
       "text": "The waters continued to decrease until the tenth month; in the tenth month, on the first day of the month, the tops of the mountains were seen.",
       "links": "<a href='/AIV/1/7/20'>Gen. 7:20</a>; <a href='/AIV/1/8/13'>Gen. 8:13</a>; <a href='/AIV/23/104/6'>Ps. 104:6-9</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 1008006,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 8,
       "verse": 6,
       "text": "At the end of forty days, Noah opened the window of the ark that he had made.",
       "links": "<a href='/AIV/1/6/16'>Gen. 6:16</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 1008007,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 8,
       "verse": 7,
       "text": "He sent out a raven, and it went to and fro until the waters were dried up from the earth.",
       "links": "<a href='/AIV/3/11/15'>Lev. 11:15</a>; <a href='/AIV/22/38/41'>Job. 38:41</a>; <a href='/AIV/49/12/24'>Luke. 12:24</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 1008008,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 8,
       "verse": 8,
       "text": "Then he sent out a dove from him, to see if the waters had subsided from the face of the ground.",
       "links": "<a href='/AIV/1/8/10'>Gen. 8:10</a>; <a href='/AIV/1/8/12'>Gen. 8:12</a>; <a href='/AIV/47/3/16'>Matt. 3:16</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 1008009,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 8,
       "verse": 9,
       "text": "But the dove found no place to set its foot, and she returned to him to the ark, because the waters were still on the face of all the earth. So he put out his hand and took her and brought her into the ark with him.",
       "links": "<a href='/AIV/1/7/23'>Gen. 7:23</a>; <a href='/AIV/1/8/6'>Gen. 8:6</a>; <a href='/AIV/23/37/3'>Ps. 37:3</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 1008010,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 8,
       "verse": 10,
       "text": "He waited another seven days, and again he sent out the dove from the ark.",
       "links": "<a href='/AIV/1/8/8'>Gen. 8:8</a>; <a href='/AIV/1/8/12'>Gen. 8:12</a>; <a href='/AIV/2/7/25'>Exod. 7:25</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 1008011,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 8,
       "verse": 11,
       "text": "And the dove came back to him in the evening, and behold, in her mouth was a freshly plucked olive leaf. So Noah knew that the waters had subsided from the earth.",
       "links": "<a href='/AIV/19/52/8'>Ps. 52:8</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 1008012,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 8,
       "verse": 12,
       "text": "Then he waited another seven days and sent out the dove, but she did not return to him anymore.",
       "links": "<a href='/AIV/1/8/10'>Gen. 8:10</a>; <a href='/AIV/1/8/8'>Gen. 8:8</a>; <a href='/AIV/47/3/16'>Matt. 3:16</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 1008013,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 8,
       "verse": 13,
       "text": "In the six hundred and first year, in the first month, on the first day of the month, the waters were dried from the earth. And Noah removed the covering of the ark and looked, and behold, the face of the ground was dry.",
       "links": "<a href='/AIV/1/7/11'>Gen. 7:11</a>; <a href='/AIV/1/8/5'>Gen. 8:5</a>; <a href='/AIV/29/54/9'>Isa. 54:9</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 1008014,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 8,
       "verse": 14,
       "text": "In the second month, on the twenty-seventh day of the month, the earth was completely dry.",
       "links": "<a href='/AIV/1/7/11'>Gen. 7:11</a>; <a href='/AIV/1/8/13'>Gen. 8:13</a>; <a href='/AIV/5/11/12'>Deut. 11:12</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 1008015,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 8,
       "verse": 15,
       "text": "Then God spoke to Noah, saying,",
       "links": "<a href='/AIV/1/7/1'>Gen. 7:1</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 1008016,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 8,
       "verse": 16,
       "text": "Go out of the ark, you and your wife, and your sons and your sons’ wives with you.",
       "links": "<a href='/AIV/1/7/13'>Gen. 7:13</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 1008017,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 8,
       "verse": 17,
       "text": "Bring out with you every living thing that is with you of all flesh—birds, animals, and every creeping thing that creeps on the earth—so that they may breed abundantly on the earth, and be fruitful and multiply on the earth.",
       "links": "<a href='/AIV/1/1/22'>Gen. 1:22</a>;<a href='/AIV/1/9/1'>Gen. 9:1</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 1008018,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 8,
       "verse": 18,
       "text": "So Noah went out, along with his sons, his wife, and his sons’ wives with him.",
       "links": "<a href='/AIV/1/7/7'>Gen. 7:7</a>; <a href='/AIV/1/8/16'>Gen. 8:16</a>; <a href='/AIV/65/11/7'>Heb. 11:7</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 1008019,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 8,
       "verse": 19,
       "text": "Every animal, every creeping thing, every bird, whatever moves on the earth, went out by families from the ark.",
       "links": "<a href='/AIV/1/6/19'>Gen. 6:19-20</a>; <a href='/AIV/1/7/14'>Gen. 7:14-16</a>; <a href='/AIV/23/104/18'>Ps. 104:18-20</a>",
@@ -237,11 +144,6 @@
     },
     {
       "pk": 1008020,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 8,
       "verse": 20,
       "text": "Then Noah built an altar to the LORD and took some of every clean animal and some of every clean bird and offered burnt offerings on the altar.",
       "links": "<a href='/AIV/1/4/3-4'>Gen. 4:3-4</a>;<a href='/AIV/3/1/3-9'>Lev. 1:3-9</a>",
@@ -250,11 +152,6 @@
     },
     {
       "pk": 1008021,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 8,
       "verse": 21,
       "text": "When the LORD smelled the pleasing aroma, the LORD said in His heart, 'I will never again curse the ground because of man, for the intention of man’s heart is evil from his youth. Nor will I again destroy every living thing as I have done.'",
       "links": "<a href='/AIV/1/6/5'>Gen. 6:5</a>;<a href='/AIV/23/54/9'>Isa. 54:9</a>",
@@ -262,38 +159,10 @@
     },
     {
       "pk": 1008022,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 8,
       "verse": 22,
       "text": "'While the earth remains, seedtime and harvest, cold and heat, summer and winter, day and night, shall not cease.'",
       "links": "<a href='/AIV/19/104/19'>Ps. 104:19</a>;<a href='/AIV/24/33/20-21'>Jer. 33:20-21</a>",
       "comment": "The divine promise of order in creation foreshadows God’s faithfulness in upholding the universe. God will not abandon the world, promising a continued cycle until fulfilled redemption (Romans 8:21-22)."
-    }
-  ],
-  "translatedAt": "2025-12-24T00:14:19.090Z",
-  "sections": [
-    {
-      "title": "The Waters Abate",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "The Sending of the Birds",
-      "startVerse": 6,
-      "endVerse": 14
-    },
-    {
-      "title": "Noah Leaves the Ark",
-      "startVerse": 15,
-      "endVerse": 19
-    },
-    {
-      "title": "God's Covenant with Creation",
-      "startVerse": 20,
-      "endVerse": 22
     }
   ]
 }

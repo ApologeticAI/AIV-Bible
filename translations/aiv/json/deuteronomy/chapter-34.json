@@ -1,16 +1,13 @@
 {
-  "book": 5,
+  "translation": "AIV",
+  "bookId": "deuteronomy",
   "bookName": "Deuteronomy",
   "bookAbbreviation": "Deut",
+  "bookNumber": 5,
   "chapter": 34,
   "verses": [
     {
       "pk": 5034001,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 34,
       "verse": 1,
       "text": "Then Moses went up from the plains of Moab to Mount Nebo, to the top of Pisgah, which faces Jericho. There, the LORD showed him all the land: Gilead as far as Dan,",
       "links": "<a href='/AIV/04/27/12'>Num. 27:12</a>; <a href='/AIV/05/32/49'>Deut. 32:49</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 5034002,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 34,
       "verse": 2,
       "text": "all Naphtali, the land of Ephraim and Manasseh, all the land of Judah to the Western Sea,",
       "links": "<a href='/AIV/01/49/26'>Gen. 49:26</a>; <a href='/AIV/06/15/12'>Josh. 15:12</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 5034003,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 34,
       "verse": 3,
       "text": "the Negev and the plain—the valley of Jericho, the city of palm trees—as far as Zoar.",
       "links": "<a href='/AIV/01/13/10'>Gen. 13:10</a>; <a href='/AIV/07/1/16'>Judg. 1:16</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 5034004,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 34,
       "verse": 4,
       "text": "Then the LORD said to him, 'This is the land which I swore to Abraham, Isaac, and Jacob, saying, \"I will give it to your descendants\"; I have let you see it with your eyes, but you shall not cross over there.'",
       "links": "<a href='/AIV/1/12/7'>Gen. 12:7</a>; <a href='/AIV/1/26/3'>Gen. 26:3</a>; <a href='/AIV/4/20/12'>Num. 20:12</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 5034005,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 34,
       "verse": 5,
       "text": "So Moses the servant of the LORD died there in the land of Moab, as the LORD had spoken.",
       "links": "<a href='/AIV/05/32/50'>Deut. 32:50</a>; <a href='/AIV/06/01/1'>Josh. 1:1</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 5034006,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 34,
       "verse": 6,
       "text": "And He buried him in the valley in the land of Moab, opposite Beth-peor; but no one knows his burial place to this day.",
       "links": "<a href='/AIV/04/21/20'>Num. 21:20</a>; <a href='/AIV/65/1/9'>Jude 1:9</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 5034007,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 34,
       "verse": 7,
       "text": "Moses was a hundred and twenty years old when he died. His eyes were undimmed, and his vitality never failed.",
       "links": "<a href='/AIV/02/7/7'>Ex. 7:7</a>; <a href='/AIV/05/31/2'>Deut. 31:2</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 5034008,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 34,
       "verse": 8,
       "text": "The Israelites wept for Moses in the plains of Moab for thirty days; then the days of mourning for Moses came to an end.",
       "links": "<a href='/AIV/01/50/10'>Gen. 50:10</a>; <a href='/AIV/04/20/29'>Num. 20:29</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 5034009,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 34,
       "verse": 9,
       "text": "Now Joshua son of Nun was filled with the spirit of wisdom, because Moses had laid his hands on him. The Israelites listened to him and did as the LORD had commanded Moses.",
       "links": "<a href='/AIV/04/27/18-23'>Num. 27:18-23</a>; <a href='/AIV/06/01/1-2'>Josh. 1:1-2</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 5034010,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 34,
       "verse": 10,
       "text": "No prophet has risen in Israel like Moses, whom the LORD knew face to face,",
       "links": "<a href='/AIV/02/33/11'>Ex. 33:11</a>; <a href='/AIV/34/12/6-8'>Num. 12:6-8</a>; <a href='/AIV/43/1/17'>John 1:17</a>",
@@ -130,11 +82,6 @@
     },
     {
       "pk": 5034011,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 34,
       "verse": 11,
       "text": "in all the signs and wonders the LORD sent him to perform in the land of Egypt, against Pharaoh and all his servants and all his land,",
       "links": "<a href='/AIV/02/7/3'>Ex. 7:3</a>; <a href='/AIV/02/14/30-31'>Ex. 14:30-31</a>",
@@ -142,38 +89,10 @@
     },
     {
       "pk": 5034012,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 34,
       "verse": 12,
       "text": "and in all the mighty power and all the great deeds of terror that Moses did in the sight of all Israel.",
       "links": "<a href='/AIV/02/34/10'>Ex. 34:10</a>; <a href='/AIV/05/04/34'>Deut. 4:34</a>",
       "comment": "The summation of Moses’ ministry as marked by ‘mighty power’ signals the pattern for future redeemers and mediators. Like Moses, Christ’s work is evidenced by divine acts recognized by all—signaling the ongoing presence and authority of God among His people."
-    }
-  ],
-  "translatedAt": "2025-12-25T14:12:11.600Z",
-  "sections": [
-    {
-      "title": "Moses Views the Promised Land",
-      "startVerse": 1,
-      "endVerse": 4
-    },
-    {
-      "title": "The Death and Burial of Moses",
-      "startVerse": 5,
-      "endVerse": 8
-    },
-    {
-      "title": "Joshua Succeeds Moses",
-      "startVerse": 9,
-      "endVerse": 9
-    },
-    {
-      "title": "The Legacy of Moses",
-      "startVerse": 10,
-      "endVerse": 12
     }
   ]
 }

@@ -1,16 +1,13 @@
 {
-  "book": 42,
+  "translation": "AIV",
+  "bookId": "habakkuk",
   "bookName": "Habakkuk",
   "bookAbbreviation": "Hab",
+  "bookNumber": 42,
   "chapter": 2,
   "verses": [
     {
       "pk": 42002001,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 2,
       "verse": 1,
       "text": "I will stand at my watchpost, and station myself on the rampart; I will watch to see what He will say to me, and what answer I am to give when reproved.",
       "links": "<a href='/AIV/23/21/8'>Isa. 21:8</a>; <a href='/AIV/26/3/17'>Ezek. 3:17</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 42002002,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 2,
       "verse": 2,
       "text": "Then the LORD answered me and said, 'Write the vision; make it plain on tablets, so that a runner may read it.'",
       "links": "<a href='/AIV/02/24/12'>Ex. 24:12</a>; <a href='/AIV/27/12/4'>Dan. 12:4</a>",
@@ -32,11 +24,6 @@
     },
     {
       "pk": 42002003,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 2,
       "verse": 3,
       "text": "For the vision awaits its appointed time; it hastens toward the end—it will not lie. If it seems delayed, wait for it; it will surely come, it will not wait.",
       "links": "<a href='/AIV/23/46/13'>Isa. 46:13</a>; <a href='/AIV/40/24/44'>Matt. 24:44</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 42002004,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 2,
       "verse": 4,
       "text": "Behold, his soul is puffed up; it is not upright within him, but the righteous will live by his faith.",
       "links": "<a href='/AIV/45/01/17'>Rom. 1:17</a>; <a href='/AIV/48/03/11'>Gal. 3:11</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 42002005,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 2,
       "verse": 5,
       "text": "Moreover, wine betrays the proud man, who never rests. He widens his desire like Sheol; he is like death, never satisfied. He gathers for himself all nations and collects all peoples as his own.",
       "links": "<a href='/AIV/20/27/20'>Prov. 27:20</a>; <a href='/AIV/23/5/14'>Isa. 5:14</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 42002006,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 2,
       "verse": 6,
       "text": "Shall not all these take up a taunt against him, with scorn and riddles, and say, 'Woe to him who piles up what does not belong to him—how long?—and loads himself with pledges!'",
       "links": "<a href='/AIV/19/73/8'>Ps. 73:8</a>; <a href='/AIV/23/14/4'>Isa. 14:4</a>",
@@ -81,11 +53,6 @@
     },
     {
       "pk": 42002007,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 2,
       "verse": 7,
       "text": "Will not your debtors suddenly arise, and those who make you tremble wake up? Then you will be their spoil.",
       "links": "<a href='/AIV/23/10/13'>Isa. 10:13</a>; <a href='/AIV/20/13/22'>Prov. 13:22</a>",
@@ -93,11 +60,6 @@
     },
     {
       "pk": 42002008,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 2,
       "verse": 8,
       "text": "Because you have plundered many nations, all the remnant of the peoples will plunder you, for the bloodshed of men and violence against the land, against the city and all who dwell in it.",
       "links": "<a href='/AIV/18/15/34'>Job 15:34</a>; <a href='/AIV/23/33/1'>Isa. 33:1</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 42002009,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 2,
       "verse": 9,
       "text": "Woe to him who obtains unjust gain for his house, to set his nest on high, to escape the reach of harm!",
       "links": "<a href='/AIV/24/22/13'>Jer. 22:13</a>; <a href='/AIV/20/10/2'>Prov. 10:2</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 42002010,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 2,
       "verse": 10,
       "text": "You have devised shame for your house by cutting off many peoples; you have sinned against your own soul.",
       "links": "<a href='/AIV/20/11/17'>Prov. 11:17</a>; <a href='/AIV/26/18/4'>Ezek. 18:4</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 42002011,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 2,
       "verse": 11,
       "text": "For the stone will cry out from the wall, and the beam from the woodwork will answer it.",
       "links": "<a href='/AIV/42/19/40'>Luke 19:40</a>; <a href='/AIV/23/28/16'>Isa. 28:16</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 42002012,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 2,
       "verse": 12,
       "text": "Woe to him who builds a city with blood, and founds a town on injustice!",
       "links": "<a href='/AIV/09/22/8'>1 Sam. 22:8</a>; <a href='/AIV/23/1/15'>Isa. 1:15</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 42002013,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 2,
       "verse": 13,
       "text": "Is it not from the LORD of hosts that peoples labor only for fire, and nations weary themselves in vain?",
       "links": "<a href='/AIV/21/2/22'>Eccl. 2:22</a>; <a href='/AIV/19/127/1'>Ps. 127:1</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 42002014,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 2,
       "verse": 14,
       "text": "For the earth will be filled with the knowledge of the glory of the LORD, as the waters cover the sea.",
       "links": "<a href='/AIV/23/11/9'>Isa. 11:9</a>; <a href='/AIV/04/14/21'>Num. 14:21</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 42002015,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 2,
       "verse": 15,
       "text": "Woe to him who makes his neighbors drink, who pours out your wrath and makes them drunk, in order to gaze upon their nakedness!",
       "links": "<a href='/AIV/01/9/22'>Gen. 9:22</a>; <a href='/AIV/25/4/21'>Lam. 4:21</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 42002016,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 2,
       "verse": 16,
       "text": "You will be filled with shame instead of glory. Drink yourself, and show your uncircumcision! The cup in the LORD’s right hand will come around to you, and utter disgrace will cover your glory.",
       "links": "<a href='/AIV/23/51/17'>Isa. 51:17</a>; <a href='/AIV/19/75/8'>Ps. 75:8</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 42002017,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 2,
       "verse": 17,
       "text": "For the violence done to Lebanon will overwhelm you, and the destruction of animals terrifies you, because of human bloodshed and violence against the land, the city, and all who dwell in it.",
       "links": "<a href='/AIV/23/10/34'>Isa. 10:34</a>; <a href='/AIV/20/12/10'>Prov. 12:10</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 42002018,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 2,
       "verse": 18,
       "text": "What profit is an idol, when its maker has shaped it—a carved image and a teacher of lies? For its maker trusts his own handiwork, when he fashions speechless idols.",
       "links": "<a href='/AIV/23/44/10-20'>Isa. 44:10-20</a>; <a href='/AIV/19/115/4-8'>Ps. 115:4-8</a>",
@@ -226,11 +138,6 @@
     },
     {
       "pk": 42002019,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 2,
       "verse": 19,
       "text": "Woe to him who says to wood, 'Awake!' to a silent stone, 'Arise!' Can this teach? Behold, it is covered with gold and silver, but there is no breath at all within it.",
       "links": "<a href='/AIV/23/46/7'>Isa. 46:7</a>; <a href='/AIV/24/10/3-5'>Jer. 10:3-5</a>",
@@ -238,38 +145,10 @@
     },
     {
       "pk": 42002020,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 2,
       "verse": 20,
       "text": "But the LORD is in His holy temple; let all the earth be silent before Him.",
       "links": "<a href='/AIV/19/11/4'>Ps. 11:4</a>; <a href='/AIV/66/8/1'>Rev. 8:1</a>",
       "comment": "God’s presence in the temple calls for universal reverence, echoing themes of awe and worship found in both Old and New Testaments. The idea of sacred space permeates the early church’s understanding of liturgy and worship, encouraging reverence and silence before the divine mystery."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:51:32.692Z",
-  "sections": [
-    {
-      "title": "The Prophet Awaits God’s Answer",
-      "startVerse": 1,
-      "endVerse": 1
-    },
-    {
-      "title": "The Just Shall Live by Faith",
-      "startVerse": 2,
-      "endVerse": 5
-    },
-    {
-      "title": "The Five Woes Against the Wicked",
-      "startVerse": 6,
-      "endVerse": 17
-    },
-    {
-      "title": "Idols Are Powerless Before the Lord",
-      "startVerse": 18,
-      "endVerse": 20
     }
   ]
 }

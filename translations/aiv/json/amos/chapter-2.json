@@ -1,16 +1,13 @@
 {
-  "book": 37,
+  "translation": "AIV",
+  "bookId": "amos",
   "bookName": "Amos",
   "bookAbbreviation": "Amos",
+  "bookNumber": 37,
   "chapter": 2,
   "verses": [
     {
       "pk": 37002001,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 2,
       "verse": 1,
       "text": "This is what the LORD says: 'For three transgressions of Moab, even for four, I will not turn back their punishment, because he burned to lime the bones of the king of Edom.'",
       "links": "<a href='/AIV/24/48/1'>Jer. 48:1</a>; <a href='/AIV/12/3/26-27'>2 Kgs. 3:26-27</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 37002002,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 2,
       "verse": 2,
       "text": "So I will send fire on Moab, and it will devour the citadels of Kerioth, and Moab will die amid uproar, with a shout, with the sound of the trumpet.",
       "links": "<a href='/AIV/24/48/41'>Jer. 48:41</a>; <a href='/AIV/09/4/5'>1 Sam. 4:5</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 37002003,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 2,
       "verse": 3,
       "text": "I will cut off the ruler from its midst, and kill all its princes with him,' says the LORD.",
       "links": "<a href='/AIV/24/48/7'>Jer. 48:7</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 37002004,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 2,
       "verse": 4,
       "text": "This is what the LORD says: 'For three transgressions of Judah, even for four, I will not turn back their punishment, because they have rejected the law of the LORD and have not kept His statutes, but their lies have led them astray, those after which their fathers walked.'",
       "links": "<a href='/AIV/15/9/13-14'>Ezra 9:13-14</a>; <a href='/AIV/24/16/19-20'>Jer. 16:19-20</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 37002005,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 2,
       "verse": 5,
       "text": "So I will send fire upon Judah, and it will devour the citadels of Jerusalem.'",
       "links": "<a href='/AIV/25/4/11'>Lam. 4:11</a>; <a href='/AIV/10/22/8-9'>2 Sam. 22:8-9</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 37002006,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 2,
       "verse": 6,
       "text": "This is what the LORD says: 'For three transgressions of Israel, even for four, I will not turn back their punishment, because they sell the righteous for silver and the needy for a pair of sandals.'",
       "links": "<a href='/AIV/30/8/6'>Amos 8:6</a>; <a href='/AIV/01/37/28'>Gen. 37:28</a>",
@@ -81,11 +53,6 @@
     },
     {
       "pk": 37002007,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 2,
       "verse": 7,
       "text": "They trample the heads of the poor into the dust of the earth, and turn aside the way of the humble; a man and his father go in to the same girl, so that they profane My holy name.",
       "links": "<a href='/AIV/03/18/7'>Lev. 18:7</a>; <a href='/AIV/28/4/14'>Hos. 4:14</a>",
@@ -93,11 +60,6 @@
     },
     {
       "pk": 37002008,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 2,
       "verse": 8,
       "text": "They lie down beside every altar on garments taken in pledge, and in the house of their God they drink the wine of those who have been fined.'",
       "links": "<a href='/AIV/03/6/1-7'>Lev. 6:1-7</a>; <a href='/AIV/05/24/12-13'>Deut. 24:12-13</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 37002009,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 2,
       "verse": 9,
       "text": "Yet I destroyed the Amorite before them, whose height was like the height of cedars and who was as strong as the oaks; yet I destroyed his fruit above and his roots below.",
       "links": "<a href='/AIV/04/13/28-33'>Num. 13:28-33</a>; <a href='/AIV/05/1/28'>Deut. 1:28</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 37002010,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 2,
       "verse": 10,
       "text": "Also I brought you up out of the land of Egypt and led you forty years in the wilderness, to possess the land of the Amorite.",
       "links": "<a href='/AIV/02/12/51'>Exod. 12:51</a>; <a href='/AIV/05/8/2'>Deut. 8:2</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 37002011,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 2,
       "verse": 11,
       "text": "And I raised up some of your sons as prophets, and some of your young men as Nazirites. Is this not indeed so, you people of Israel?' says the LORD.",
       "links": "<a href='/AIV/04/6/2'>Num. 6:2</a>; <a href='/AIV/28/9/7'>Hos. 9:7</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 37002012,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 2,
       "verse": 12,
       "text": "But you made the Nazirites drink wine, and commanded the prophets saying, 'Do not prophesy!'",
       "links": "<a href='/AIV/30/7/12-13'>Amos 7:12-13</a>; <a href='/AIV/24/20/9'>Jer. 20:9</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 37002013,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 2,
       "verse": 13,
       "text": "Behold, I will press you down in your place, as a cart full of sheaves presses down.",
       "links": "<a href='/AIV/25/1/14'>Lam. 1:14</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 37002014,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 2,
       "verse": 14,
       "text": "Flight will perish from the swift; the strong shall not strengthen his force, nor shall the mighty save himself.",
       "links": "<a href='/AIV/19/33/16-17'>Ps. 33:16-17</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 37002015,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 2,
       "verse": 15,
       "text": "He who handles the bow will not stand, and he who is swift on foot will not escape, nor will he who rides the horse save his life.",
       "links": "<a href='/AIV/24/12/5'>Jer. 12:5</a>",
@@ -189,33 +116,10 @@
     },
     {
       "pk": 37002016,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 2,
       "verse": 16,
       "text": "Even the bravest among the warriors will flee naked on that day,' declares the LORD.",
       "links": "<a href='/AIV/30/9/1-2'>Amos 9:1-2</a>; <a href='/AIV/07/6/11'>Judg. 6:11</a>",
       "comment": "The humiliation of the warriors points to the futility of trusting in one’s own strength and the necessity of humility before God. The theme of nakedness and shame is woven through the Bible, culminating in the restoration and covering found in Christ (cf. Gen. 3:21, Rev. 3:18)."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:42:10.652Z",
-  "sections": [
-    {
-      "title": "Judgment Against Moab",
-      "startVerse": 1,
-      "endVerse": 3
-    },
-    {
-      "title": "Judgment Against Judah",
-      "startVerse": 4,
-      "endVerse": 5
-    },
-    {
-      "title": "Judgment Against Israel",
-      "startVerse": 6,
-      "endVerse": 16
     }
   ]
 }

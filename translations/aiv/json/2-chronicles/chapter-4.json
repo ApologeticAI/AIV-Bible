@@ -1,16 +1,13 @@
 {
-  "book": 14,
+  "translation": "AIV",
+  "bookId": "2-chronicles",
   "bookName": "2 Chronicles",
-  "bookAbbreviation": "2Chr",
+  "bookAbbreviation": "2 Chr",
+  "bookNumber": 14,
   "chapter": 4,
   "verses": [
     {
       "pk": 14004001,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 4,
       "verse": 1,
       "text": "He made an altar of bronze, twenty cubits long, twenty cubits wide, and ten cubits high.",
       "links": "<a href='/AIV/11/6/20-22'>1 Kings 6:20-22</a>; <a href='/AIV/02/27/1-2'>Ex. 27:1-2</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 14004002,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 4,
       "verse": 2,
       "text": "He made the sea of cast metal, circular in shape, ten cubits from rim to rim, five cubits tall, and thirty cubits in circumference.",
       "links": "<a href='/AIV/03/16/24'>Lev. 16:24</a>; <a href='/AIV/11/7/23'>1 Kings 7:23</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 14004003,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 4,
       "verse": 3,
       "text": "Below the rim were figures of gourds encircling it—ten every cubit, all the way around the sea. The gourds were cast in two rows in one piece with the sea.",
       "links": "<a href='/AIV/11/7/24'>1 Kings 7:24</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 14004004,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 4,
       "verse": 4,
       "text": "It stood on twelve oxen, three facing north, three facing west, three facing south, and three facing east. The sea was set upon them, and all their hindquarters were inward.",
       "links": "<a href='/AIV/04/02/2'>Num. 2:2</a>; <a href='/AIV/11/7/25'>1 Kings 7:25</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 14004005,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 4,
       "verse": 5,
       "text": "It was handbreadth thick, and its rim was made like the rim of a cup, like a lily blossom. It could hold three thousand baths.",
       "links": "<a href='/AIV/11/7/26'>1 Kings 7:26</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 14004006,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 4,
       "verse": 6,
       "text": "He made ten basins. He placed five on the right and five on the left, to rinse what was used for the burnt offerings. The sea was for the priests to wash in.",
       "links": "<a href='/AIV/02/30/18-21'>Ex. 30:18-21</a>; <a href='/AIV/11/7/38-39'>1 Kings 7:38-39</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 14004007,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 4,
       "verse": 7,
       "text": "He made ten golden lampstands according to their specifications, and set them in the temple, five on the right and five on the left.",
       "links": "<a href='/AIV/02/25/31-37'>Ex. 25:31-37</a>; <a href='/AIV/66/01/12'>Rev. 1:12</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 14004008,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 4,
       "verse": 8,
       "text": "He made ten tables and placed them in the temple, five on the right side and five on the left. He also made a hundred gold bowls.",
       "links": "<a href='/AIV/11/7/48-49'>1 Kings 7:48-49</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 14004009,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 4,
       "verse": 9,
       "text": "He made the court of the priests, and the great court, and doors for the court, and overlaid the doors with bronze.",
       "links": "<a href='/AIV/02/27/9-17'>Ex. 27:9-17</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 14004010,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 4,
       "verse": 10,
       "text": "He set the sea on the southeast side of the temple.",
       "links": "<a href='/AIV/11/7/39'>1 Kings 7:39</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 14004011,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 4,
       "verse": 11,
       "text": "Huram also made the pots, shovels, and basins. So Huram finished making all the work that he did for King Solomon for the temple of God:",
       "links": "<a href='/AIV/11/7/40'>1 Kings 7:40</a>",
@@ -142,11 +89,6 @@
     },
     {
       "pk": 14004012,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 4,
       "verse": 12,
       "text": "the two pillars, the bowls, the two capitals on the top of the pillars, and the two latticeworks to cover the two bowls of the capitals which were on top of the pillars;",
       "links": "<a href='/AIV/11/7/41-42'>1 Kings 7:41-42</a>",
@@ -154,11 +96,6 @@
     },
     {
       "pk": 14004013,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 4,
       "verse": 13,
       "text": "and the four hundred pomegranates for the two latticeworks—two rows of pomegranates for each latticework, to cover the two bowls of the capitals on the pillars.",
       "links": "<a href='/AIV/02/28/33-34'>Ex. 28:33-34</a>",
@@ -166,11 +103,6 @@
     },
     {
       "pk": 14004014,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 4,
       "verse": 14,
       "text": "He also made the stands and the basins on the stands,",
       "links": "<a href='/AIV/11/7/43'>1 Kings 7:43</a>",
@@ -178,11 +110,6 @@
     },
     {
       "pk": 14004015,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 4,
       "verse": 15,
       "text": "the one sea and the twelve oxen under it.",
       "links": "<a href='/AIV/04/02/2'>Num. 2:2</a>",
@@ -190,11 +117,6 @@
     },
     {
       "pk": 14004016,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 4,
       "verse": 16,
       "text": "He made also the pots, shovels, forks, and all their utensils. Huram-abi made all these articles for King Solomon for the house of the Lord, out of polished bronze.",
       "links": "<a href='/AIV/02/27/19'>Ex. 27:19</a>",
@@ -202,11 +124,6 @@
     },
     {
       "pk": 14004017,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 4,
       "verse": 17,
       "text": "The king cast them in clay molds in the plain of the Jordan, between Succoth and Zeredah.",
       "links": "<a href='/AIV/11/7/46'>1 Kings 7:46</a>",
@@ -214,11 +131,6 @@
     },
     {
       "pk": 14004018,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 4,
       "verse": 18,
       "text": "Solomon made all these articles in such great quantity that the weight of the bronze could not be determined.",
       "links": "<a href='/AIV/11/7/47'>1 Kings 7:47</a>",
@@ -226,11 +138,6 @@
     },
     {
       "pk": 14004019,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 4,
       "verse": 19,
       "text": "Solomon also made all the furnishings that were in God’s house: the golden altar, the tables on which to set out the bread of the Presence,",
       "links": "<a href='/AIV/02/25/30'>Ex. 25:30</a>; <a href='/AIV/40/12/4'>Matt. 12:4</a>",
@@ -239,11 +146,6 @@
     },
     {
       "pk": 14004020,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 4,
       "verse": 20,
       "text": "the lampstands of pure gold with their lamps, to burn before the inner sanctuary as prescribed;",
       "links": "<a href='/AIV/02/25/31-40'>Ex. 25:31-40</a>; <a href='/AIV/43/08/12'>John 8:12</a>",
@@ -251,11 +153,6 @@
     },
     {
       "pk": 14004021,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 4,
       "verse": 21,
       "text": "the flowers, the lamps, and the gold tongs, all of purest gold;",
       "links": "<a href='/AIV/11/7/49'>1 Kings 7:49</a>",
@@ -263,43 +160,10 @@
     },
     {
       "pk": 14004022,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 4,
       "verse": 22,
       "text": "the snuffers, the bowls, the dishes for incense, and the firepans, of pure gold. The doors of the temple: the inner doors for the Most Holy Place, and the doors of the main hall of the temple, were all overlaid with gold.",
       "links": "<a href='/AIV/02/30/1-10'>Ex. 30:1-10</a>; <a href='/AIV/66/8/3-4'>Rev. 8:3-4</a>",
       "comment": "The use of gold and emphasis on access to the sanctuary foreshadow both the holiness and openness of God’s dwelling. Through Christ, believers can enter the sanctuary (Heb. 10:19-22; cf. Matt. 27:51), making visible worship a pattern of heavenly reality."
-    }
-  ],
-  "translatedAt": "2025-12-24T04:23:17.265Z",
-  "sections": [
-    {
-      "title": "Furnishings for the Temple: The Bronze Altar and Sea",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "Other Temple Furnishings: Basins, Lampstands, and Tables",
-      "startVerse": 6,
-      "endVerse": 8
-    },
-    {
-      "title": "Construction of the Temple Courts and Setting the Sea",
-      "startVerse": 9,
-      "endVerse": 10
-    },
-    {
-      "title": "Huram's Work in Bronze for Solomon",
-      "startVerse": 11,
-      "endVerse": 18
-    },
-    {
-      "title": "Solomon's Golden Furnishings for the Temple",
-      "startVerse": 19,
-      "endVerse": 22
     }
   ]
 }

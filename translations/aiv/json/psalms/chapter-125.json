@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 125,
   "verses": [
     {
       "pk": 23125001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 125,
       "verse": 1,
       "text": "Those who trust in the LORD are like Mount Zion, which cannot be shaken, but remains forever.",
       "links": "<a href='/AIV/23/46/5'>Ps. 46:5</a>; <a href='/AIV/23/121/1'>Ps. 121:1</a>; <a href='/AIV/23/87/1'>Ps. 87:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23125002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 125,
       "verse": 2,
       "text": "As the mountains surround Jerusalem, so the LORD surrounds His people, from this time forth and forevermore.",
       "links": "<a href='/AIV/23/34/7'>Ps. 34:7</a>; <a href='/AIV/23/121/2-8'>Ps. 121:2-8</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23125003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 125,
       "verse": 3,
       "text": "For the scepter of wickedness will not rest on the land allotted to the righteous, so that the righteous may not stretch out their hands to wrongdoing.",
       "links": "<a href='/AIV/23/37/17'>Ps. 37:17</a>; <a href='/AIV/23/16/5-6'>Ps. 16:5-6</a>; <a href='/AIV/20/29/2'>Prov. 29:2</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23125004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 125,
       "verse": 4,
       "text": "Do good, O LORD, to those who are good, and to those who are upright in their hearts.",
       "links": "<a href='/AIV/23/73/1'>Ps. 73:1</a>; <a href='/AIV/23/24/3-4'>Ps. 24:3-4</a>; <a href='/AIV/40/5/8'>Matt. 5:8</a>",
@@ -56,28 +38,10 @@
     },
     {
       "pk": 23125005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 125,
       "verse": 5,
       "text": "But as for those who turn aside to crooked ways, the LORD will drive them away with the evildoers. Peace be upon Israel.",
       "links": "<a href='/AIV/23/1/6'>Ps. 1:6</a>; <a href='/AIV/23/128/6'>Ps. 128:6</a>; <a href='/AIV/40/7/13-14'>Matt. 7:13-14</a>",
       "comment": "The distinction between the righteous and the wicked here is clear and includes both their destiny and unity with God's people. The closing blessing, 'Peace be upon Israel,' hints at deeper spiritual harmony promised to the true Israel of God, later fulfilled in Christ and extended to all those united in faith (see Galatians 6:16)."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:43:04.881Z",
-  "sections": [
-    {
-      "title": "The Security of Those Who Trust in the Lord",
-      "startVerse": 1,
-      "endVerse": 3
-    },
-    {
-      "title": "Prayer for the Righteous and Warning to the Wicked",
-      "startVerse": 4,
-      "endVerse": 5
     }
   ]
 }

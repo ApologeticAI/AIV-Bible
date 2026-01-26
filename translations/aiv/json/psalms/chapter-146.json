@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 146,
   "verses": [
     {
       "pk": 23146001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 146,
       "verse": 1,
       "text": "Praise the LORD! Praise the LORD, O my soul!",
       "links": "<a href='/AIV/19/103/1'>Ps. 103:1</a>; <a href='/AIV/19/104/1'>Ps. 104:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23146002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 146,
       "verse": 2,
       "text": "I will praise the LORD as long as I live; I will sing praises to my God while I have being.",
       "links": "<a href='/AIV/19/63/4'>Ps. 63:4</a>; <a href='/AIV/19/104/33'>Ps. 104:33</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23146003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 146,
       "verse": 3,
       "text": "Do not put your trust in princes, in a son of man, in whom there is no salvation.",
       "links": "<a href='/AIV/19/118/8-9'>Ps. 118:8-9</a>; <a href='/AIV/24/17/5'>Jer. 17:5</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23146004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 146,
       "verse": 4,
       "text": "His breath departs, he returns to the earth; on that very day his plans perish.",
       "links": "<a href='/AIV/18/14/10'>Job 14:10</a>; <a href='/AIV/19/104/29'>Ps. 104:29</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23146005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 146,
       "verse": 5,
       "text": "Blessed is he whose help is the God of Jacob, whose hope is in the LORD his God.",
       "links": "<a href='/AIV/19/40/4'>Ps. 40:4</a>; <a href='/AIV/19/84/12'>Ps. 84:12</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23146006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 146,
       "verse": 6,
       "text": "Who made heaven and earth, the sea and all that is in them; who keeps faith forever;",
       "links": "<a href='/AIV/19/33/6-9'>Ps. 33:6-9</a>; <a href='/AIV/19/89/2'>Ps. 89:2</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23146007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 146,
       "verse": 7,
       "text": "Who executes justice for the oppressed, who gives food to the hungry. The LORD sets the prisoners free;",
       "links": "<a href='/AIV/19/107/9'>Ps. 107:9</a>; <a href='/AIV/19/146/8'>Ps. 146:8</a>; <a href='/AIV/42/4/18'>Luke 4:18</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 23146008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 146,
       "verse": 8,
       "text": "The LORD opens the eyes of the blind. The LORD lifts up those who are bowed down; the LORD loves the righteous.",
       "links": "<a href='/AIV/23/35/5'>Isa. 35:5</a>; <a href='/AIV/42/7/22'>Luke 7:22</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 23146009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 146,
       "verse": 9,
       "text": "The LORD watches over the sojourners; He upholds the widow and the orphan, but He brings the way of the wicked to ruin.",
       "links": "<a href='/AIV/19/68/5'>Ps. 68:5</a>; <a href='/AIV/19/147/6'>Ps. 147:6</a>",
@@ -115,23 +72,10 @@
     },
     {
       "pk": 23146010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 146,
       "verse": 10,
       "text": "The LORD will reign forever, your God, O Zion, for all generations. Praise the LORD!",
       "links": "<a href='/AIV/19/10/16'>Ps. 10:16</a>; <a href='/AIV/66/11/15'>Rev. 11:15</a>",
       "comment": "God’s eternal kingship is proclaimed, a theme echoing through the prophets and culminating in Christ’s reign. Zion, representing the gathering of God’s people, suggests both the literal city and the spiritual reality of God’s enduring, visible authority till the end of time."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:48:51.196Z",
-  "sections": [
-    {
-      "title": "Praise to God the Creator and Helper",
-      "startVerse": 1,
-      "endVerse": 10
     }
   ]
 }

@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 4,
   "verses": [
     {
       "pk": 23004001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 4,
       "verse": 1,
       "text": "Answer me when I call, O God of my righteousness! You have relieved me in my distress; have mercy on me and hear my prayer.",
       "links": "<a href='/AIV/19/3/4'>Ps. 3:4</a>; <a href='/AIV/19/6/9'>Ps. 6:9</a>; <a href='/AIV/19/17/6'>Ps. 17:6</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23004002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 4,
       "verse": 2,
       "text": "O people, how long will my glory be turned into shame? How long will you love emptiness and seek after lies?",
       "links": "<a href='/AIV/19/3/2'>Ps. 3:2</a>; <a href='/AIV/19/62/10'>Ps. 62:10</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23004003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 4,
       "verse": 3,
       "text": "But know that the LORD has set apart the faithful one for Himself; the LORD hears when I call to Him.",
       "links": "<a href='/AIV/19/17/6'>Ps. 17:6</a>; <a href='/AIV/19/135/4'>Ps. 135:4</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23004004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 4,
       "verse": 4,
       "text": "Tremble, and do not sin; meditate in your heart upon your bed, and be silent.",
       "links": "<a href='/AIV/19/77/6'>Ps. 77:6</a>; <a href='/AIV/19/63/6'>Ps. 63:6</a>; <a href='/AIV/49/4/26'>Eph. 4:26</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23004005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 4,
       "verse": 5,
       "text": "Offer right sacrifices, and trust in the LORD.",
       "links": "<a href='/AIV/19/51/17'>Ps. 51:17</a>; <a href='/AIV/19/50/14'>Ps. 50:14</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23004006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 4,
       "verse": 6,
       "text": "Many say, 'Who will show us any good?' Lift up the light of Your face upon us, O LORD!",
       "links": "<a href='/AIV/04/6/24-26'>Num. 6:24-26</a>; <a href='/AIV/19/80/7'>Ps. 80:7</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23004007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 4,
       "verse": 7,
       "text": "You have put more joy in my heart than when their grain and new wine abound.",
       "links": "<a href='/AIV/19/16/11'>Ps. 16:11</a>; <a href='/AIV/19/17/15'>Ps. 17:15</a>",
@@ -91,23 +58,10 @@
     },
     {
       "pk": 23004008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 4,
       "verse": 8,
       "text": "In peace I will both lie down and sleep; for You alone, O LORD, make me dwell in safety.",
       "links": "<a href='/AIV/19/3/5'>Ps. 3:5</a>; <a href='/AIV/19/29/11'>Ps. 29:11</a>",
       "comment": "This closing verse expresses total trust and security in God, reminiscent of the peace Christ offers to his followers (John 14:27). The ability to rest in safety signifies deep faith and reliance on God’s providence—a peace that transcends circumstances, inviting deeper surrender and trust in God’s ongoing protection."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:00:01.027Z",
-  "sections": [
-    {
-      "title": "Evening Prayer for Help and Trust",
-      "startVerse": 1,
-      "endVerse": 8
     }
   ]
 }

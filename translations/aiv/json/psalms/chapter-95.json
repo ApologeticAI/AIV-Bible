@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 95,
   "verses": [
     {
       "pk": 23095001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 95,
       "verse": 1,
       "text": "Come, let us sing with joy to the LORD; let us shout aloud to the Rock of our salvation.",
       "links": "<a href='/AIV/19/81/1'>Ps. 81:1</a>; <a href='/AIV/19/89/26'>Ps. 89:26</a>; <a href='/AIV/23/12/2'>Isa. 12:2</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23095002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 95,
       "verse": 2,
       "text": "Let us enter his presence with thanksgiving; let us make a joyful noise to him with songs of praise.",
       "links": "<a href='/AIV/19/100/4'>Ps. 100:4</a>; <a href='/AIV/19/147/7'>Ps. 147:7</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23095003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 95,
       "verse": 3,
       "text": "For the LORD is a great God, and a great King above all gods.",
       "links": "<a href='/AIV/19/96/4'>Ps. 96:4</a>; <a href='/AIV/19/135/5'>Ps. 135:5</a>; <a href='/AIV/54/6/15'>1 Tim. 6:15</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23095004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 95,
       "verse": 4,
       "text": "In his hands are the depths of the earth; the peaks of the mountains are his as well.",
       "links": "<a href='/AIV/19/95/5'>Ps. 95:5</a>; <a href='/AIV/19/104/5-9'>Ps. 104:5-9</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23095005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 95,
       "verse": 5,
       "text": "The sea is his, for he made it, and his hands formed the dry land.",
       "links": "<a href='/AIV/19/24/1-2'>Ps. 24:1-2</a>; <a href='/AIV/01/1/9-10'>Gen. 1:9-10</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23095006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 95,
       "verse": 6,
       "text": "Come, let us bow down and worship; let us kneel before the LORD, our Maker.",
       "links": "<a href='/AIV/19/99/5'>Ps. 99:5</a>; <a href='/AIV/66/4/10-11'>Rev. 4:10-11</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23095007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 95,
       "verse": 7,
       "text": "For he is our God, and we are the people of his pasture, the sheep under his care. Today, if you hear his voice,",
       "links": "<a href='/AIV/19/79/13'>Ps. 79:13</a>; <a href='/AIV/43/10/27-28'>John 10:27-28</a>; <a href='/AIV/58/3/7'>Heb. 3:7</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 23095008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 95,
       "verse": 8,
       "text": "do not harden your hearts, as at Meribah, as on the day at Massah in the wilderness,",
       "links": "<a href='/AIV/02/17/7'>Ex. 17:7</a>; <a href='/AIV/04/20/13'>Num. 20:13</a>; <a href='/AIV/58/3/15'>Heb. 3:15</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 23095009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 95,
       "verse": 9,
       "text": "where your fathers tested me; they tried me, though they had seen my works.",
       "links": "<a href='/AIV/02/14/11'>Ex. 14:11</a>; <a href='/AIV/58/3/9'>Heb. 3:9</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 23095010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 95,
       "verse": 10,
       "text": "For forty years I loathed that generation and said, 'They are a people whose hearts go astray, and they do not know my ways.'",
       "links": "<a href='/AIV/04/14/33-34'>Num. 14:33-34</a>; <a href='/AIV/58/3/10'>Heb. 3:10</a>",
@@ -128,28 +80,10 @@
     },
     {
       "pk": 23095011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 95,
       "verse": 11,
       "text": "So I swore in my anger, 'They shall not enter my rest.'",
       "links": "<a href='/AIV/04/14/23'>Num. 14:23</a>; <a href='/AIV/58/4/3-5'>Heb. 4:3-5</a>",
       "comment": "'My rest' is ultimately fulfilled in Christ, offering eternal rest to those who believe and obey. Early Christian writers interpreted this as referring both to temporal judgment and to the final rest that believers find in union with God—a promise realized through the means Christ left his assembled people."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:32:55.039Z",
-  "sections": [
-    {
-      "title": "Call to Worship and Praise",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "A Warning Against Hardness of Heart",
-      "startVerse": 7,
-      "endVerse": 11
     }
   ]
 }

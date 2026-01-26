@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 55,
   "verses": [
     {
       "pk": 23055001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 55,
       "verse": 1,
       "text": "Give ear to my prayer, O God, and do not hide yourself from my plea for mercy.",
       "links": "<a href='/AIV/19/4/1'>Ps. 4:1</a>; <a href='/AIV/19/28/1'>Ps. 28:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23055002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 55,
       "verse": 2,
       "text": "Listen to me and answer me! I am restless in my complaint, and I moan.",
       "links": "<a href='/AIV/19/6/3'>Ps. 6:3</a>; <a href='/AIV/19/77/1-3'>Ps. 77:1-3</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23055003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 55,
       "verse": 3,
       "text": "Because of the voice of the enemy, because of the oppression of the wicked. For they bring down trouble upon me, and in anger they harbor hatred against me.",
       "links": "<a href='/AIV/19/41/5'>Ps. 41:5</a>; <a href='/AIV/19/64/2'>Ps. 64:2</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23055004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 55,
       "verse": 4,
       "text": "My heart trembles within me, and the terrors of death have fallen upon me.",
       "links": "<a href='/AIV/19/116/3'>Ps. 116:3</a>; <a href='/AIV/42/22/44'>Luke 22:44</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23055005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 55,
       "verse": 5,
       "text": "Fear and trembling have gripped me, and horror has overwhelmed me.",
       "links": "<a href='/AIV/19/18/4-5'>Ps. 18:4-5</a>; <a href='/AIV/41/14/33-34'>Mark 14:33-34</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23055006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 55,
       "verse": 6,
       "text": "I said, 'Oh, that I had wings like a dove! I would fly away and be at rest.'",
       "links": "<a href='/AIV/19/11/1'>Ps. 11:1</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23055007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 55,
       "verse": 7,
       "text": "Yes, I would wander far away; I would lodge in the desert. Selah.",
       "links": "<a href='/AIV/19/107/4'>Ps. 107:4</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 23055008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 55,
       "verse": 8,
       "text": "I would hurry to find shelter from the raging wind and storm.",
       "links": "<a href='/AIV/19/57/1'>Ps. 57:1</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 23055009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 55,
       "verse": 9,
       "text": "Destroy, O Lord, and divide their tongues, for I see violence and strife in the city.",
       "links": "<a href='/AIV/01/11/7'>Gen. 11:7</a>; <a href='/AIV/19/59/6'>Ps. 59:6</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 23055010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 55,
       "verse": 10,
       "text": "Day and night they go around on its walls, and wickedness and trouble are within it.",
       "links": "<a href='/AIV/19/127/1'>Ps. 127:1</a>",
@@ -127,11 +79,6 @@
     },
     {
       "pk": 23055011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 55,
       "verse": 11,
       "text": "Destruction is within it; oppression and deceit do not depart from its marketplace.",
       "links": "<a href='/AIV/19/5/9'>Ps. 5:9</a>",
@@ -139,11 +86,6 @@
     },
     {
       "pk": 23055012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 55,
       "verse": 12,
       "text": "For it is not an enemy who taunts me—then I could bear it; it is not an adversary who deals insolently with me—then I could hide from him.",
       "links": "<a href='/AIV/19/41/9'>Ps. 41:9</a>; <a href='/AIV/43/13/18'>John 13:18</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 23055013,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 55,
       "verse": 13,
       "text": "But it is you, a man my equal, my companion, my close friend.",
       "links": "<a href='/AIV/19/41/9'>Ps. 41:9</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 23055014,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 55,
       "verse": 14,
       "text": "We who took sweet counsel together, and walked to the house of God in company.",
       "links": "<a href='/AIV/19/42/4'>Ps. 42:4</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 23055015,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 55,
       "verse": 15,
       "text": "Let death seize them; let them go down alive to the grave, for evil is in their dwelling place and within them.",
       "links": "<a href='/AIV/04/16/30-33'>Num. 16:30-33</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 23055016,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 55,
       "verse": 16,
       "text": "But I call to God, and the LORD will save me.",
       "links": "<a href='/AIV/19/18/3'>Ps. 18:3</a>; <a href='/AIV/19/34/17'>Ps. 34:17</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 23055017,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 55,
       "verse": 17,
       "text": "Evening, morning, and at noon I utter my complaint and moan, and He hears my voice.",
       "links": "<a href='/AIV/27/6/10'>Dan. 6:10</a>; <a href='/AIV/19/88/1'>Ps. 88:1</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 23055018,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 55,
       "verse": 18,
       "text": "He redeems my soul in peace from the battle that was against me, for many were arrayed against me.",
       "links": "<a href='/AIV/19/34/19'>Ps. 34:19</a>; <a href='/AIV/19/56/13'>Ps. 56:13</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 23055019,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 55,
       "verse": 19,
       "text": "God will hear and humble them—He who sits enthroned from of old—Selah. Because they do not change and do not fear God.",
       "links": "<a href='/AIV/19/102/12'>Ps. 102:12</a>; <a href='/AIV/05/32/27'>Deut. 32:27</a>",
@@ -237,11 +144,6 @@
     },
     {
       "pk": 23055020,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 55,
       "verse": 20,
       "text": "My companion stretched out his hand against his friends; he violated his covenant.",
       "links": "<a href='/AIV/19/41/9'>Ps. 41:9</a>",
@@ -249,11 +151,6 @@
     },
     {
       "pk": 23055021,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 55,
       "verse": 21,
       "text": "His speech was smooth as butter, yet war was in his heart. His words were softer than oil, yet they were drawn swords.",
       "links": "<a href='/AIV/20/5/3'>Prov. 5:3</a>; <a href='/AIV/19/28/3'>Ps. 28:3</a>",
@@ -261,11 +158,6 @@
     },
     {
       "pk": 23055022,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 55,
       "verse": 22,
       "text": "Cast your burden on the LORD, and He will sustain you; He will never let the righteous be moved.",
       "links": "<a href='/AIV/60/5/7'>1 Pet. 5:7</a>; <a href='/AIV/19/37/24'>Ps. 37:24</a>",
@@ -274,38 +166,10 @@
     },
     {
       "pk": 23055023,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 55,
       "verse": 23,
       "text": "But You, O God, will bring them down to the pit of destruction; men of blood and deceit shall not live out half their days. But I will trust in You.",
       "links": "<a href='/AIV/19/94/13'>Ps. 94:13</a>; <a href='/AIV/19/73/18'>Ps. 73:18-19</a>",
       "comment": "Ends with assurance in divine justice and personal trust. The psalmist models hope even when surrounded by betrayal—a lesson emphasized by the saints and early Christian testimony, urging believers to place final trust in God’s judgment and mercy."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:17:51.781Z",
-  "sections": [
-    {
-      "title": "Prayer for Deliverance from Enemies",
-      "startVerse": 1,
-      "endVerse": 11
-    },
-    {
-      "title": "Betrayal by a Close Friend",
-      "startVerse": 12,
-      "endVerse": 15
-    },
-    {
-      "title": "Trust in God Amidst Treachery",
-      "startVerse": 16,
-      "endVerse": 21
-    },
-    {
-      "title": "Cast Your Burden on the Lord",
-      "startVerse": 22,
-      "endVerse": 23
     }
   ]
 }

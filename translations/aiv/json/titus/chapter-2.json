@@ -1,16 +1,13 @@
 {
-  "book": 63,
+  "translation": "AIV",
+  "bookId": "titus",
   "bookName": "Titus",
   "bookAbbreviation": "Titus",
+  "bookNumber": 63,
   "chapter": 2,
   "verses": [
     {
       "pk": 63002001,
-      "translation": "AIV",
-      "book": 63,
-      "bookName": "Titus",
-      "bookAbbreviation": "Titus",
-      "chapter": 2,
       "verse": 1,
       "text": "But as for you, speak what is fitting for sound teaching.",
       "links": "<a href='/AIV/54/1/10'>1 Tim. 1:10</a>; <a href='/AIV/56/1/13'>Titus 1:13</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 63002002,
-      "translation": "AIV",
-      "book": 63,
-      "bookName": "Titus",
-      "bookAbbreviation": "Titus",
-      "chapter": 2,
       "verse": 2,
       "text": "Older men are to be temperate, dignified, self-controlled, sound in faith, in love, in perseverance.",
       "links": "<a href='/AIV/54/3/2-3'>1 Tim. 3:2-3</a>; <a href='/AIV/60/5/5'>1 Pet. 5:5</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 63002003,
-      "translation": "AIV",
-      "book": 63,
-      "bookName": "Titus",
-      "bookAbbreviation": "Titus",
-      "chapter": 2,
       "verse": 3,
       "text": "Older women likewise are to be reverent in their behavior, not slanderers or enslaved to much wine; teaching what is good,",
       "links": "<a href='/AIV/54/3/11'>1 Tim. 3:11</a>; <a href='/AIV/56/3/8'>Titus 3:8</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 63002004,
-      "translation": "AIV",
-      "book": 63,
-      "bookName": "Titus",
-      "bookAbbreviation": "Titus",
-      "chapter": 2,
       "verse": 4,
       "text": "so that they may train the younger women to love their husbands and children,",
       "links": "<a href='/AIV/56/3/2'>Titus 3:2</a>; <a href='/AIV/49/5/22-25'>Eph. 5:22-25</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 63002005,
-      "translation": "AIV",
-      "book": 63,
-      "bookName": "Titus",
-      "bookAbbreviation": "Titus",
-      "chapter": 2,
       "verse": 5,
       "text": "to be self-controlled, pure, busy at home, kind, being subject to their own husbands, so that the word of God may not be slandered.",
       "links": "<a href='/AIV/60/3/1-2'>1 Pet. 3:1-2</a>; <a href='/AIV/49/5/24'>Eph. 5:24</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 63002006,
-      "translation": "AIV",
-      "book": 63,
-      "bookName": "Titus",
-      "bookAbbreviation": "Titus",
-      "chapter": 2,
       "verse": 6,
       "text": "Urge the younger men likewise to be self-controlled.",
       "links": "<a href='/AIV/54/4/12'>1 Tim. 4:12</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 63002007,
-      "translation": "AIV",
-      "book": 63,
-      "bookName": "Titus",
-      "bookAbbreviation": "Titus",
-      "chapter": 2,
       "verse": 7,
       "text": "In all things show yourself to be an example of good works, with integrity in teaching, dignity,",
       "links": "<a href='/AIV/54/4/12'>1 Tim. 4:12</a>; <a href='/AIV/40/5/16'>Matt. 5:16</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 63002008,
-      "translation": "AIV",
-      "book": 63,
-      "bookName": "Titus",
-      "bookAbbreviation": "Titus",
-      "chapter": 2,
       "verse": 8,
       "text": "and sound speech that cannot be condemned, so that those who oppose you may be put to shame, having nothing evil to say about us.",
       "links": "<a href='/AIV/60/3/16'>1 Pet. 3:16</a>; <a href='/AIV/50/2/15'>Phil. 2:15</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 63002009,
-      "translation": "AIV",
-      "book": 63,
-      "bookName": "Titus",
-      "bookAbbreviation": "Titus",
-      "chapter": 2,
       "verse": 9,
       "text": "Urge servants to be submissive to their own masters in everything, to be well-pleasing, not talking back,",
       "links": "<a href='/AIV/51/3/22'>Col. 3:22</a>; <a href='/AIV/49/6/5'>Eph. 6:5</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 63002010,
-      "translation": "AIV",
-      "book": 63,
-      "bookName": "Titus",
-      "bookAbbreviation": "Titus",
-      "chapter": 2,
       "verse": 10,
       "text": "not stealing, but showing all good faith, so that in everything they may adorn the teaching of God our Savior.",
       "links": "<a href='/AIV/60/2/12'>1 Pet. 2:12</a>; <a href='/AIV/46/10/31'>1 Cor. 10:31</a>",
@@ -127,11 +79,6 @@
     },
     {
       "pk": 63002011,
-      "translation": "AIV",
-      "book": 63,
-      "bookName": "Titus",
-      "bookAbbreviation": "Titus",
-      "chapter": 2,
       "verse": 11,
       "text": "For the grace of God has appeared, bringing salvation to all people,",
       "links": "<a href='/AIV/43/1/14-17'>John 1:14-17</a>; <a href='/AIV/56/3/4'>Titus 3:4</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 63002012,
-      "translation": "AIV",
-      "book": 63,
-      "bookName": "Titus",
-      "bookAbbreviation": "Titus",
-      "chapter": 2,
       "verse": 12,
       "text": "instructing us to deny ungodliness and worldly desires, and to live self-controlled, upright, and godly lives in this present age,",
       "links": "<a href='/AIV/56/1/16'>Titus 1:16</a>; <a href='/AIV/47/7/1'>2 Cor. 7:1</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 63002013,
-      "translation": "AIV",
-      "book": 63,
-      "bookName": "Titus",
-      "bookAbbreviation": "Titus",
-      "chapter": 2,
       "verse": 13,
       "text": "as we wait for the blessed hope—the appearing of the glory of our great God and Savior, Jesus Christ.",
       "links": "<a href='/AIV/55/4/8'>2 Tim. 4:8</a>; <a href='/AIV/60/1/7'>1 Pet. 1:7</a>; <a href='/AIV/40/24/30'>Matt. 24:30</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 63002014,
-      "translation": "AIV",
-      "book": 63,
-      "bookName": "Titus",
-      "bookAbbreviation": "Titus",
-      "chapter": 2,
       "verse": 14,
       "text": "He gave Himself for us, to redeem us from all lawlessness and to purify for Himself a people for His own possession, zealous for good works.",
       "links": "<a href='/AIV/19/130/8'>Ps. 130:8</a>; <a href='/AIV/2/19/5'>Ex. 19:5</a>; <a href='/AIV/60/2/9'>1 Pet. 2:9</a>",
@@ -176,28 +108,10 @@
     },
     {
       "pk": 63002015,
-      "translation": "AIV",
-      "book": 63,
-      "bookName": "Titus",
-      "bookAbbreviation": "Titus",
-      "chapter": 2,
       "verse": 15,
       "text": "Declare these things. Encourage and correct with all authority. Let no one disregard you.",
       "links": "<a href='/AIV/54/4/12'>1 Tim. 4:12</a>; <a href='/AIV/47/13/10'>2 Cor. 13:10</a>",
       "comment": "Titus is given not only responsibility but apostolic authority to teach, exhort, and rebuke. This echoes the continued authority of overseers and the importance of adhering to the tradition once for all entrusted to the saints (see Jude 3)."
-    }
-  ],
-  "translatedAt": "2025-12-24T12:15:39.136Z",
-  "sections": [
-    {
-      "title": "Instructions for Christian Living",
-      "startVerse": 1,
-      "endVerse": 10
-    },
-    {
-      "title": "The Manifestation of God's Saving Grace",
-      "startVerse": 11,
-      "endVerse": 15
     }
   ]
 }

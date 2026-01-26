@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 54,
   "verses": [
     {
       "pk": 23054001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 54,
       "verse": 1,
       "text": "God, save me by your name, and vindicate me by your power.",
       "links": "<a href='/AIV/19/20/1'>Ps. 20:1</a>; <a href='/AIV/19/44/26'>Ps. 44:26</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23054002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 54,
       "verse": 2,
       "text": "Hear my prayer, God; listen to the words of my mouth.",
       "links": "<a href='/AIV/19/4/1'>Ps. 4:1</a>; <a href='/AIV/19/5/1-2'>Ps. 5:1-2</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23054003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 54,
       "verse": 3,
       "text": "For strangers have risen up against me, and violent men seek my life; they do not set God before them.",
       "links": "<a href='/AIV/19/86/14'>Ps. 86:14</a>; <a href='/AIV/19/53/1'>Ps. 53:1</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23054004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 54,
       "verse": 4,
       "text": "Surely, God is my helper; the Lord is the one who sustains my soul.",
       "links": "<a href='/AIV/19/118/6-7'>Ps. 118:6-7</a>; <a href='/AIV/58/13/6'>Heb. 13:6</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23054005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 54,
       "verse": 5,
       "text": "He will repay evil to my enemies; in your faithfulness, put an end to them.",
       "links": "<a href='/AIV/19/94/1-2'>Ps. 94:1-2</a>; <a href='/AIV/20/25/21-22'>Prov. 25:21-22</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23054006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 54,
       "verse": 6,
       "text": "With a freewill offering I will sacrifice to you; I will praise your name, Lord, for it is good.",
       "links": "<a href='/AIV/19/50/14'>Ps. 50:14</a>; <a href='/AIV/19/116/17'>Ps. 116:17</a>",
@@ -80,28 +52,10 @@
     },
     {
       "pk": 23054007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 54,
       "verse": 7,
       "text": "For he has delivered me from every trouble, and my eyes have looked in triumph on my enemies.",
       "links": "<a href='/AIV/19/34/19'>Ps. 34:19</a>; <a href='/AIV/19/112/8'>Ps. 112:8</a>",
       "comment": "David looks back in gratitude at God’s deliverance. The past acts of salvation inspire future trust. This ‘deliverance’ language connects to the biblical theme of God’s people being saved from evil—fulfilled in Christ’s victory over sin, death, and spiritual enemies (Colossians 2:15). Final triumph and vindication are a hope kept alive in the common liturgical life and worship of all believers."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:17:25.197Z",
-  "sections": [
-    {
-      "title": "Prayer for Deliverance from Enemies",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "Thanksgiving for God's Help",
-      "startVerse": 6,
-      "endVerse": 7
     }
   ]
 }

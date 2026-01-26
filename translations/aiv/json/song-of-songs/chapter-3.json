@@ -1,16 +1,13 @@
 {
-  "book": 26,
+  "translation": "AIV",
+  "bookId": "song-of-songs",
   "bookName": "Song of Songs",
   "bookAbbreviation": "Song",
+  "bookNumber": 26,
   "chapter": 3,
   "verses": [
     {
       "pk": 26003001,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 3,
       "verse": 1,
       "text": "On my bed by night I sought the one whom my soul loves; I sought him, but did not find him.",
       "links": "<a href='/AIV/19/63/6'>Ps 63:6</a>; <a href='/AIV/24/29/13'>Jer 29:13</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 26003002,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 3,
       "verse": 2,
       "text": "I will rise now and go about the city, in the streets and in the squares; I will seek the one whom my soul loves. I sought him, but did not find him.",
       "links": "<a href='/AIV/19/42/1'>Ps 42:1</a>; <a href='/AIV/42/15/8-10'>Luke 15:8-10</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 26003003,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 3,
       "verse": 3,
       "text": "The watchmen who go about the city found me. I asked, 'Have you seen the one whom my soul loves?'",
       "links": "<a href='/AIV/66/21/12'>Rev 21:12</a>; <a href='/AIV/41/13/34-37'>Mark 13:34-37</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 26003004,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 3,
       "verse": 4,
       "text": "I had scarcely passed them when I found the one whom my soul loves. I held him and would not let him go until I had brought him into my mother's house, into the chamber of her who conceived me.",
       "links": "<a href='/AIV/43/20/16-17'>John 20:16-17</a>; <a href='/AIV/19/27/4'>Ps 27:4</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 26003005,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 3,
       "verse": 5,
       "text": "I charge you, daughters of Jerusalem, by the gazelles or the does of the field, do not stir up or awaken love until it pleases.",
       "links": "<a href='/AIV/19/127/2'>Ps 127:2</a>; <a href='/AIV/23/62/7'>Isa 62:7</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 26003006,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 3,
       "verse": 6,
       "text": "Who is this coming up from the wilderness like columns of smoke, perfumed with myrrh and frankincense, with all the merchant’s powders?",
       "links": "<a href='/AIV/40/2/11'>Matt 2:11</a>; <a href='/AIV/02/30/34-38'>Exod 30:34-38</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 26003007,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 3,
       "verse": 7,
       "text": "See, it is Solomon’s litter, with sixty mighty men around it, of the mighty men of Israel.",
       "links": "<a href='/AIV/11/10/2'>1 Kings 10:2</a>; <a href='/AIV/19/45/3-5'>Ps 45:3-5</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 26003008,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 3,
       "verse": 8,
       "text": "All of them are armed with swords, trained in war, each with his sword at his side, because of fear in the night.",
       "links": "<a href='/AIV/49/6/17'>Eph 6:17</a>; <a href='/AIV/19/149/6'>Ps 149:6</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 26003009,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 3,
       "verse": 9,
       "text": "King Solomon made himself a carriage from the wood of Lebanon.",
       "links": "<a href='/AIV/11/10/18'>1 Kings 10:18-20</a>; <a href='/AIV/04/24/5'>Num 24:5</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 26003010,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 3,
       "verse": 10,
       "text": "He made its posts of silver, its back of gold, its seat of purple; its interior was inlaid with love by the daughters of Jerusalem.",
       "links": "<a href='/AIV/02/25/3-7'>Exod 25:3-7</a>; <a href='/AIV/66/21/18-21'>Rev 21:18-21</a>",
@@ -128,28 +80,10 @@
     },
     {
       "pk": 26003011,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 3,
       "verse": 11,
       "text": "Go out, daughters of Zion, and look upon King Solomon with the crown with which his mother crowned him on the day of his wedding, on the day of the gladness of his heart.",
       "links": "<a href='/AIV/66/19/7'>Rev 19:7</a>; <a href='/AIV/23/61/10'>Isa 61:10</a>",
       "comment": "Solomon’s crowning and wedding is seen as foreshadowing the final King—the Messiah—in his wedding feast (Rev 19:7). The Church Fathers recognized here the mystical union between Christ and his people, seen in nuptial terms, calling the Church into joyful participation in the marriage supper of the Lamb."
-    }
-  ],
-  "translatedAt": "2025-12-24T07:12:48.082Z",
-  "sections": [
-    {
-      "title": "The Bride's Nocturnal Search",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "The Arrival of Solomon's Procession",
-      "startVerse": 6,
-      "endVerse": 11
     }
   ]
 }

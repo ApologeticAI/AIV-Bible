@@ -1,16 +1,13 @@
 {
-  "book": 12,
+  "translation": "AIV",
+  "bookId": "2-kings",
   "bookName": "2 Kings",
-  "bookAbbreviation": "2Kgs",
+  "bookAbbreviation": "2 Kgs",
+  "bookNumber": 12,
   "chapter": 20,
   "verses": [
     {
       "pk": 12020001,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 20,
       "verse": 1,
       "text": "In those days Hezekiah became deathly ill, and Isaiah the prophet, son of Amoz, came to him and said, 'This is what the LORD says: Set your house in order, for you are going to die; you will not recover.'",
       "links": "<a href='/AIV/23/38/1'>Isa. 38:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 12020002,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 20,
       "verse": 2,
       "text": "Hezekiah turned his face toward the wall and prayed to the LORD,",
       "links": "<a href='/AIV/23/38/2'>Isa. 38:2</a>; <a href='/AIV/19/102/3'>Ps. 102:3</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 12020003,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 20,
       "verse": 3,
       "text": "'Please remember, LORD, how I have walked before You faithfully and wholeheartedly, and have done what is good in Your sight.' And Hezekiah wept bitterly.",
       "links": "<a href='/AIV/23/38/3'>Isa. 38:3</a>; <a href='/AIV/19/26/3'>Ps. 26:3</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 12020004,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 20,
       "verse": 4,
       "text": "Before Isaiah had left the middle courtyard, the word of the LORD came to him:",
       "links": "<a href='/AIV/23/38/4'>Isa. 38:4</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 12020005,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 20,
       "verse": 5,
       "text": "'Go back and tell Hezekiah, the leader of My people: This is what the LORD, the God of your father David, says: I have heard your prayer and seen your tears; I will heal you. On the third day you will go up to the house of the LORD.'",
       "links": "<a href='/AIV/23/38/5'>Isa. 38:5</a>; <a href='/AIV/19/56/8'>Ps. 56:8</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 12020006,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 20,
       "verse": 6,
       "text": "'I will add fifteen years to your life. I will rescue you and this city from the hand of the king of Assyria. I will defend this city for My own sake and for the sake of My servant David.'",
       "links": "<a href='/AIV/23/38/6'>Isa. 38:6</a>; <a href='/AIV/10/7/16'>2 Sam. 7:16</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 12020007,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 20,
       "verse": 7,
       "text": "Then Isaiah said, 'Take a cake of figs.' So they took it and laid it on the boil, and Hezekiah recovered.",
       "links": "<a href='/AIV/23/38/21'>Isa. 38:21</a>; <a href='/AIV/19/103/3'>Ps. 103:3</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 12020008,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 20,
       "verse": 8,
       "text": "Hezekiah asked Isaiah, 'What will be the sign that the LORD will heal me and that I will go up to the house of the LORD on the third day?'",
       "links": "<a href='/AIV/23/38/22'>Isa. 38:22</a>; <a href='/AIV/2/4/8'>Ex. 4:8</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 12020009,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 20,
       "verse": 9,
       "text": "Isaiah replied, 'This is the sign that the LORD will do what He has promised: Shall the shadow go forward ten steps or go back ten steps?'",
       "links": "<a href='/AIV/23/38/7-8'>Isa. 38:7-8</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 12020010,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 20,
       "verse": 10,
       "text": "Hezekiah answered, 'It is easy for the shadow to go forward ten steps. No—let it go back ten steps.'",
       "links": "<a href='/AIV/23/38/8'>Isa. 38:8</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 12020011,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 20,
       "verse": 11,
       "text": "Then the prophet Isaiah called upon the LORD, and He made the shadow go back ten steps on the staircase of Ahaz.",
       "links": "<a href='/AIV/23/38/8'>Isa. 38:8</a>; <a href='/AIV/6/10/12-14'>Josh. 10:12-14</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 12020012,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 20,
       "verse": 12,
       "text": "At that time, Merodach-baladan son of Baladan, king of Babylon, sent envoys with letters and a gift to Hezekiah, for he heard that Hezekiah had been sick.",
       "links": "<a href='/AIV/23/39/1'>Isa. 39:1</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 12020013,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 20,
       "verse": 13,
       "text": "Hezekiah welcomed them and showed them all his treasure—silver, gold, spices, fine oil, and his entire armory and everything found among his treasures. There was nothing in his palace or kingdom that Hezekiah did not show them.",
       "links": "<a href='/AIV/23/39/2'>Isa. 39:2</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 12020014,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 20,
       "verse": 14,
       "text": "Then Isaiah the prophet came to King Hezekiah and asked, 'What did these men say, and where did they come from?' Hezekiah replied, 'They came from a distant country—from Babylon.'",
       "links": "<a href='/AIV/23/39/3'>Isa. 39:3</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 12020015,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 20,
       "verse": 15,
       "text": "'What did they see in your house?' Isaiah asked. Hezekiah replied, 'They saw everything in my house. There is nothing among my treasures that I did not show them.'",
       "links": "<a href='/AIV/23/39/3'>Isa. 39:3</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 12020016,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 20,
       "verse": 16,
       "text": "Then Isaiah said to Hezekiah, 'Hear the word of the LORD:'",
       "links": "<a href='/AIV/23/39/5'>Isa. 39:5</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 12020017,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 20,
       "verse": 17,
       "text": "'The days are coming when everything in your palace and all that your predecessors have stored up until this day will be carried off to Babylon; nothing will be left, says the LORD.'",
       "links": "<a href='/AIV/23/39/6'>Isa. 39:6</a>; <a href='/AIV/24/20/5'>Jer. 20:5</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 12020018,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 20,
       "verse": 18,
       "text": "'And some of your descendants, your own offspring, will be taken away and will become eunuchs in the palace of the king of Babylon.'",
       "links": "<a href='/AIV/23/39/7'>Isa. 39:7</a>; <a href='/AIV/27/1/3'>Dan. 1:3</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 12020019,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 20,
       "verse": 19,
       "text": "Hezekiah said to Isaiah, 'The word of the LORD that you have spoken is good.' For he thought, 'Will there not be peace and security in my days?'",
       "links": "<a href='/AIV/23/39/8'>Isa. 39:8</a>",
@@ -237,11 +144,6 @@
     },
     {
       "pk": 12020020,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 20,
       "verse": 20,
       "text": "The rest of the acts of Hezekiah, his power, and how he built the pool and conduit and brought water into the city, are they not recorded in the Book of the Chronicles of the Kings of Judah?",
       "links": "<a href='/AIV/14/32/30'>2 Chr. 32:30</a>",
@@ -250,38 +152,10 @@
     },
     {
       "pk": 12020021,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 20,
       "verse": 21,
       "text": "Hezekiah rested with his ancestors, and Manasseh his son became king in his place.",
       "links": "<a href='/AIV/14/33/1'>2 Chr. 33:1</a>",
       "comment": "The continuity of leadership through family succession points to the ancient pattern of succession and authority in the community of faith. See note on spiritual inheritance in 2 Timothy 1:5."
-    }
-  ],
-  "translatedAt": "2025-12-24T03:59:23.751Z",
-  "sections": [
-    {
-      "title": "Hezekiah’s Illness and Recovery",
-      "startVerse": 1,
-      "endVerse": 7
-    },
-    {
-      "title": "The Sign of the Receding Shadow",
-      "startVerse": 8,
-      "endVerse": 11
-    },
-    {
-      "title": "Envoys from Babylon",
-      "startVerse": 12,
-      "endVerse": 19
-    },
-    {
-      "title": "Hezekiah’s Death",
-      "startVerse": 20,
-      "endVerse": 21
     }
   ]
 }

@@ -1,16 +1,13 @@
 {
-  "book": 17,
+  "translation": "AIV",
+  "bookId": "tobit",
   "bookName": "Tobit",
   "bookAbbreviation": "Tob",
+  "bookNumber": 17,
   "chapter": 5,
   "verses": [
     {
       "pk": 17005001,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 5,
       "verse": 1,
       "text": "Tobias answered his father Tobit, 'Father, everything you told me I will do.'",
       "links": "<a href='/AIV/17/4/19'>Tob. 4:19</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 17005002,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 5,
       "verse": 2,
       "text": "But Tobias said, 'Father, how can I obtain the money from him, since he does not know me and I do not know him? What evidence can I give him so that he will recognize and trust me, and give me the money? Besides, I do not know the way to Media, or how to get there.'",
       "links": "<a href='/AIV/1/24/5'>Gen. 24:5-9</a>; <a href='/AIV/9/10/2'>1Sam. 10:2-7</a>; <a href='/AIV/24/3/5'>Prov. 3:5-6</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 17005003,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 5,
       "verse": 3,
       "text": "Tobias replied, 'But I do not know him, Father. How can I find someone willing to go with me? I do not know the road to Media.'",
       "links": "<a href='/AIV/17/1/14'>Tob. 1:14</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 17005004,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 5,
       "verse": 4,
       "text": "Tobit answered, 'Go out, my son, and seek out a trustworthy man who knows the way and will go with you. I will give him his wages, and you will get the money with him.'",
       "links": "<a href='/AIV/17/5/2'>Tob. 5:2</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 17005005,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 5,
       "verse": 5,
       "text": "So Tobias went out to look for a man who would go with him to Media, and he found Raphael, the angel, but did not know that he was an angel of God.",
       "links": "<a href='/AIV/01/18/2'>Gen. 18:2</a>; <a href='/AIV/58/13/2'>Heb. 13:2</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 17005006,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 5,
       "verse": 6,
       "text": "Tobias said to him, 'Can you go with me to Media? Do you know the way?'",
       "links": "<a href='/AIV/17/5/3'>Tob. 5:3</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 17005007,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 5,
       "verse": 7,
       "text": "Raphael answered, 'Yes, I will go with you. I know the way to Media. I have lodged with our kinsman Gabael, who lives in Rages of Media.'",
       "links": "<a href='/AIV/17/1/14'>Tob. 1:14</a>; <a href='/AIV/17/4/1'>Tob. 4:1</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 17005008,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 5,
       "verse": 8,
       "text": "Tobias said, 'Wait for me, and I will tell my father.' He said, 'Go and do not delay.'",
       "links": "<a href='/AIV/17/5/9'>Tob. 5:9</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 17005009,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 5,
       "verse": 9,
       "text": "So Tobias went in and told his father, 'I have found someone from our people, one of the Israelites.' Tobit said to him, 'Call the man, so that I may learn what family he is from and whether he is trustworthy to go with you.'",
       "links": "<a href='/AIV/17/7/2'>Tob. 7:2</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 17005010,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 5,
       "verse": 10,
       "text": "Then Tobias went out and called him, and said, 'Young man, my father is calling for you.' So he went in to him, and Tobit greeted him first. He replied, 'Joyous greetings to you!' But Tobit said, 'What joy is left for me now? I am a man without eyesight; I cannot see the light of heaven, but I lie in darkness like the dead who no longer see the light. Even though I am alive, I am among the dead. I hear people, but I cannot see them.' But the young man said, 'Take courage; the time is near for God to heal you; take courage.' Then Tobit said to him, 'My son Tobias wishes to go to Media. Can you go with him and guide him? I will pay your wages, brother.' He answered, 'I can go with him, for I know all the roads. I have often gone to Media and have crossed all its plains; I am familiar with its mountains and all of its roads.'",
       "links": "<a href='/AIV/1/24/12'>Gen. 24:12-27</a>; <a href='/AIV/23/43/3'>Ps. 43:3</a>; <a href='/AIV/29/42/16'>Isa. 42:16</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 17005011,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 5,
       "verse": 11,
       "text": "Raphael entered, and Tobit greeted him first. Raphael replied, 'Peace be with you!' Tobit said, 'What family are you from, brother? Tell me.'",
       "links": "<a href='/AIV/01/43/23'>Gen. 43:23</a>; <a href='/AIV/07/6/23'>Judg. 6:23</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 17005012,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 5,
       "verse": 12,
       "text": "Raphael replied, 'Why do you need to know my tribe?' But Tobit answered, 'I want to be sure, brother, whose son you are and what your name is.'",
       "links": "<a href='/AIV/08/1/1-2'>Ruth 1:1-2</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 17005013,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 5,
       "verse": 13,
       "text": "He said, 'I am Azariah the son of the great Hananiah, one of your relatives.'",
       "links": "<a href='/AIV/17/5/4'>Tob. 5:4</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 17005014,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 5,
       "verse": 14,
       "text": "Tobit said, 'Welcome and do not be angry, brother. I once knew Hananiah and Nathan, the two sons of Shemaiah, who were great men like you. They used to go with me to Jerusalem and worshipped there with us.'",
       "links": "<a href='/AIV/17/1/6'>Tob. 1:6</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 17005015,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 5,
       "verse": 15,
       "text": "Now tell me, brother, what wages shall I give you—a drachma a day, and more, if you return safely?'",
       "links": "<a href='/AIV/40/20/2'>Matt. 20:2</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 17005016,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 5,
       "verse": 16,
       "text": "Raphael replied, 'I will go with you. Both safe going and safe return shall be given by God; the wages do not matter to me.'",
       "links": "<a href='/AIV/18/22/25'>Job 22:25</a>; <a href='/AIV/19/121/8'>Ps. 121:8</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 17005017,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 5,
       "verse": 17,
       "text": "Tobit said to Tobias, 'Prepare for the journey, and go with this good man; may God, who dwells in heaven, keep you both safe and bring you home to me in peace. May his angel accompany you, my child.'",
       "links": "<a href='/AIV/02/23/20'>Exod. 23:20</a>; <a href='/AIV/19/91/11'>Ps. 91:11</a>",
@@ -214,11 +131,6 @@
     },
     {
       "pk": 17005018,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 5,
       "verse": 18,
       "text": "Tobias went out to begin his journey, and his mother began to weep. She said to Tobit, 'Why have you sent my child away? Is he not the staff of our hands, the one who enters and leaves before us?'",
       "links": "<a href='/AIV/01/42/38'>Gen. 42:38</a>",
@@ -226,11 +138,6 @@
     },
     {
       "pk": 17005019,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 5,
       "verse": 19,
       "text": "Do not add money to money, but rather let it be a ransom for our son’s life. For what the Lord has given us is enough to live on.'",
       "links": "<a href='/AIV/20/11/4'>Prov. 11:4</a>",
@@ -238,11 +145,6 @@
     },
     {
       "pk": 17005020,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 5,
       "verse": 20,
       "text": "Tobit said to her, 'Do not worry, sister. He will return in good health, and your eyes will see him again.'",
       "links": "<a href='/AIV/17/10/12'>Tob. 10:12</a>",
@@ -250,11 +152,6 @@
     },
     {
       "pk": 17005021,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 5,
       "verse": 21,
       "text": "'For a good angel will accompany him; his journey will succeed, and he will come back in good health.'",
       "links": "<a href='/AIV/19/34/7'>Ps. 34:7</a>",
@@ -262,38 +159,10 @@
     },
     {
       "pk": 17005022,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 5,
       "verse": 22,
       "text": "For a good angel will accompany him; his journey will be successful, and he will return in good health.",
       "links": "<a href='/AIV/2/23/20'>Exod. 23:20</a>; <a href='/AIV/23/91/11'>Ps. 91:11</a>; <a href='/AIV/51/12/15'>Acts. 12:15</a>",
       "comment": "This verse underlines the belief in angelic guardianship—a comforting theological assurance found elsewhere (e.g., Ps 91:11; Exod 23:20)—and affirms God's providential care over the righteous undertaking of Tobias's journey."
-    }
-  ],
-  "translatedAt": "2025-12-28T07:01:36.418Z",
-  "sections": [
-    {
-      "title": "Tobias Sent to Recover the Money",
-      "startVerse": 1,
-      "endVerse": 4
-    },
-    {
-      "title": "Raphael Chosen as a Companion",
-      "startVerse": 5,
-      "endVerse": 10
-    },
-    {
-      "title": "Tobit Questions Raphael",
-      "startVerse": 11,
-      "endVerse": 16
-    },
-    {
-      "title": "Departure and Tobit's Prayer for Tobias",
-      "startVerse": 17,
-      "endVerse": 22
     }
   ]
 }

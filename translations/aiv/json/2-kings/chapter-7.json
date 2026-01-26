@@ -1,16 +1,13 @@
 {
-  "book": 12,
+  "translation": "AIV",
+  "bookId": "2-kings",
   "bookName": "2 Kings",
-  "bookAbbreviation": "2Kgs",
+  "bookAbbreviation": "2 Kgs",
+  "bookNumber": 12,
   "chapter": 7,
   "verses": [
     {
       "pk": 12007001,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 7,
       "verse": 1,
       "text": "Elisha said, 'Hear the word of the LORD: Thus says the LORD, \"Tomorrow about this time a seah of fine flour will be sold for a shekel, and two seahs of barley for a shekel, at the gate of Samaria.\"'",
       "links": "<a href='/AIV/01/18/14'>Gen. 18:14</a>; <a href='/AIV/12/4/43-44'>2 Kgs. 4:43-44</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 12007002,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 7,
       "verse": 2,
       "text": "Then the royal officer on whose arm the king leaned answered the man of God, 'Look, even if the LORD opened windows in the sky, could this really happen?' But Elisha replied, 'You will see it with your own eyes, but you will not eat of it.'",
       "links": "<a href='/AIV/04/20/12'>Num. 20:12</a>; <a href='/AIV/27/6/20-22'>Dan. 6:20-22</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 12007003,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 7,
       "verse": 3,
       "text": "Now four men with leprosy were at the entrance of the gate. They said to each other, 'Why are we sitting here until we die?'",
       "links": "<a href='/AIV/03/13/46'>Lev. 13:46</a>; <a href='/AIV/42/17/12'>Luke 17:12</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 12007004,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 7,
       "verse": 4,
       "text": "'If we say, \"Let us enter the city,\" the famine is in the city, and we shall die there. If we stay here, we die also. So now, come, let us go over to the camp of the Arameans. If they spare our lives, we shall live; and if they kill us, we shall only die.'",
       "links": "<a href='/AIV/17/4/11'>Esth. 4:11</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 12007005,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 7,
       "verse": 5,
       "text": "So they rose at twilight to go to the camp of the Arameans. When they came to the edge of the Aramean camp, there was no one there.",
       "links": "<a href='/AIV/19/68/1'>Ps. 68:1</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 12007006,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 7,
       "verse": 6,
       "text": "For the LORD had made the army of the Arameans hear the sound of chariots and horses—an army great in number—so that they said to each other, 'Look, the king of Israel has hired against us the kings of the Hittites and the Egyptians to attack us!'",
       "links": "<a href='/AIV/10/5/24'>2 Sam. 5:24</a>; <a href='/AIV/12/6/17'>2 Kgs. 6:17</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 12007007,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 7,
       "verse": 7,
       "text": "So they arose and fled at twilight, abandoning their tents, horses, donkeys, and leaving the camp just as it was, and fled for their lives.",
       "links": "<a href='/AIV/14/20/23-25'>2 Chr. 20:23-25</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 12007008,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 7,
       "verse": 8,
       "text": "When these lepers came to the edge of the camp, they went into a tent, ate and drank, and carried away silver, gold, and clothing, and went and hid them. Then they returned and went into another tent and carried things from there also and hid them.",
       "links": "<a href='/AIV/02/12/35-36'>Ex. 12:35-36</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 12007009,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 7,
       "verse": 9,
       "text": "Then they said to each other, 'We are not doing right. This day is a day of good news. If we keep silent and wait until morning light, punishment will overtake us. Now come, let us go and inform the king’s household.'",
       "links": "<a href='/AIV/23/52/7'>Isa. 52:7</a>; <a href='/AIV/42/2/10'>Luke 2:10</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 12007010,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 7,
       "verse": 10,
       "text": "So they came and called to the gatekeepers of the city and told them, 'We went to the camp of the Arameans, and there was no one there, nor the sound of a man—only horses tied up, donkeys tied up, and tents just as they were.'",
       "links": "<a href='/AIV/06/2/1'>Josh. 2:1</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 12007011,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 7,
       "verse": 11,
       "text": "Then the gatekeepers called out, and it was told within the king’s house.",
       "links": "<a href='/AIV/12/5/2-3'>2 Kgs. 5:2-3</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 12007012,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 7,
       "verse": 12,
       "text": "The king arose at night and said to his servants, 'Let me tell you what the Arameans have done to us. They know we are hungry. Therefore, they have gone out of the camp to hide themselves in the open country, thinking, \"When they come out of the city, we will capture them alive and get into the city.\"'",
       "links": "<a href='/AIV/07/6/35'>Judg. 6:35</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 12007013,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 7,
       "verse": 13,
       "text": "One of his servants answered, 'Let some men take five of the remaining horses, since all the rest have perished in the city. Let us send them and see.'",
       "links": "<a href='/AIV/06/2/1'>Josh. 2:1</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 12007014,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 7,
       "verse": 14,
       "text": "So they took two chariots with horses, and the king sent them after the army of the Arameans, saying, 'Go and see.'",
       "links": "<a href='/AIV/06/2/1'>Josh. 2:1</a>; <a href='/AIV/12/5/14'>2 Kgs. 5:14</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 12007015,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 7,
       "verse": 15,
       "text": "They went after them as far as the Jordan. All the way was littered with clothes and equipment, which the Arameans had thrown away in their flight. The messengers returned and told the king.",
       "links": "<a href='/AIV/02/14/25'>Ex. 14:25</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 12007016,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 7,
       "verse": 16,
       "text": "Then the people went out and plundered the camp of the Arameans. So a seah of fine flour sold for a shekel, and two seahs of barley for a shekel, according to the word of the LORD.",
       "links": "<a href='/AIV/12/7/1'>2 Kgs. 7:1</a>",
@@ -202,11 +124,6 @@
     },
     {
       "pk": 12007017,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 7,
       "verse": 17,
       "text": "Now the king had appointed the officer on whose arm he leaned to be in charge at the gate, but when the people trampled him at the gate, he died, just as the man of God had spoken when the king came down to him.",
       "links": "<a href='/AIV/04/20/12'>Num. 20:12</a>; <a href='/AIV/12/7/2'>2 Kgs. 7:2</a>",
@@ -214,11 +131,6 @@
     },
     {
       "pk": 12007018,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 7,
       "verse": 18,
       "text": "Just as the man of God had spoken to the king, saying, 'Tomorrow about this time two seahs of barley shall be sold for a shekel, and a seah of fine flour for a shekel, at the gate of Samaria,'",
       "links": "<a href='/AIV/12/7/1'>2 Kgs. 7:1</a>",
@@ -226,11 +138,6 @@
     },
     {
       "pk": 12007019,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 7,
       "verse": 19,
       "text": "the officer had answered the man of God, 'Look, even if the LORD should make windows in the sky, could such a thing be?' And he had said, 'You will see it with your own eyes, but you will not eat of it.'",
       "links": "<a href='/AIV/12/7/2'>2 Kgs. 7:2</a>",
@@ -238,38 +145,10 @@
     },
     {
       "pk": 12007020,
-      "translation": "AIV",
-      "book": 12,
-      "bookName": "2 Kings",
-      "bookAbbreviation": "2Kgs",
-      "chapter": 7,
       "verse": 20,
       "text": "It happened to him exactly as the man of God had said to the king. For the people trampled him at the gate, and he died.",
       "links": "<a href='/AIV/12/7/17'>2 Kgs. 7:17</a>",
       "comment": "God’s word is unfailing, and His justice is demonstrated. The danger of rejecting Divine authority is made clear—a lesson also mirrored in the New Testament regarding Christ’s own words and ministry."
-    }
-  ],
-  "translatedAt": "2025-12-24T03:49:18.985Z",
-  "sections": [
-    {
-      "title": "Elisha Foretells the End of the Famine",
-      "startVerse": 1,
-      "endVerse": 2
-    },
-    {
-      "title": "The Lepers Discover the Empty Aramean Camp",
-      "startVerse": 3,
-      "endVerse": 9
-    },
-    {
-      "title": "The Good News Reported to the King",
-      "startVerse": 10,
-      "endVerse": 15
-    },
-    {
-      "title": "The Fulfillment of Elisha’s Prophecy",
-      "startVerse": 16,
-      "endVerse": 20
     }
   ]
 }

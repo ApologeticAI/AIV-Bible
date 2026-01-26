@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 150,
   "verses": [
     {
       "pk": 23150001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 150,
       "verse": 1,
       "text": "Praise the LORD! Praise God in his sanctuary; praise him in his mighty heavens!",
       "links": "<a href='/AIV/19/11/4'>Ps. 11:4</a>; <a href='/AIV/19/29/9'>Ps. 29:9</a>; <a href='/AIV/19/148/1'>Ps. 148:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23150002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 150,
       "verse": 2,
       "text": "Praise him for his mighty acts; praise him according to his surpassing greatness!",
       "links": "<a href='/AIV/19/145/3'>Ps. 145:3</a>; <a href='/AIV/19/66/3'>Ps. 66:3</a>; <a href='/AIV/19/136/4'>Ps. 136:4</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23150003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 150,
       "verse": 3,
       "text": "Praise him with the sound of the trumpet; praise him with lute and harp!",
       "links": "<a href='/AIV/19/98/6'>Ps. 98:6</a>; <a href='/AIV/13/15/16'>1 Chr. 15:16</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23150004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 150,
       "verse": 4,
       "text": "Praise him with tambourine and dance; praise him with strings and pipe!",
       "links": "<a href='/AIV/19/149/3'>Ps. 149:3</a>; <a href='/AIV/2/15/20'>Ex. 15:20</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23150005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 150,
       "verse": 5,
       "text": "Praise him with resounding cymbals; praise him with clashing cymbals!",
       "links": "<a href='/AIV/13/16/42'>1 Chr. 16:42</a>; <a href='/AIV/19/81/2'>Ps. 81:2</a>",
@@ -67,23 +44,10 @@
     },
     {
       "pk": 23150006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 150,
       "verse": 6,
       "text": "Let everything that has breath praise the LORD! Praise the LORD!",
       "links": "<a href='/AIV/19/103/22'>Ps. 103:22</a>; <a href='/AIV/19/148/7-13'>Ps. 148:7-13</a>; <a href='/AIV/35/2/20'>Hab. 2:20</a>",
       "comment": "The closing command universalizes worship: every living creature is to praise God. This anticipates New Testament themes where all creation unites in glorifying God (see Romans 8:19-22; Revelation 5:13). The centrality of praise as an ongoing offering foreshadows liturgical practices where God's people join both heaven and earth in continuous worship centered on the presence of the Lord."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:50:07.553Z",
-  "sections": [
-    {
-      "title": "A Hymn of Universal Praise",
-      "startVerse": 1,
-      "endVerse": 6
     }
   ]
 }

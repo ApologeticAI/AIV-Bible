@@ -1,16 +1,13 @@
 {
-  "book": 6,
+  "translation": "AIV",
+  "bookId": "joshua",
   "bookName": "Joshua",
   "bookAbbreviation": "Josh",
+  "bookNumber": 6,
   "chapter": 3,
   "verses": [
     {
       "pk": 6003001,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 3,
       "verse": 1,
       "text": "Joshua rose early in the morning, and he and all the Israelites set out from Shittim and came to the Jordan. They stayed there before they crossed over.",
       "links": "<a href='/AIV/4/25/1'>Num. 25:1</a>; <a href='/AIV/6/1/10-11'>Josh. 1:10–11</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 6003002,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 3,
       "verse": 2,
       "text": "After three days, the officers went through the camp,",
       "links": "<a href='/AIV/6/1/11'>Josh. 1:11</a>; <a href='/AIV/2/19/11'>Ex. 19:11</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 6003003,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 3,
       "verse": 3,
       "text": "and they commanded the people, saying, 'When you see the ark of the covenant of the LORD your God, carried by the Levitical priests, you must set out from your place and follow it.'",
       "links": "<a href='/AIV/4/10/33'>Num. 10:33</a>; <a href='/AIV/6/6/6'>Josh. 6:6</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 6003004,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 3,
       "verse": 4,
       "text": "But keep a distance of about two thousand cubits between you and the ark; do not come near it, so that you will know the way to go, for you have not traveled this way before.",
       "links": "<a href='/AIV/2/19/12'>Ex. 19:12</a>; <a href='/AIV/9/6/13'>2 Sam. 6:6-7</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 6003005,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 3,
       "verse": 5,
       "text": "Then Joshua said to the people, 'Consecrate yourselves, for tomorrow the LORD will do wonders among you.'",
       "links": "<a href='/AIV/2/19/10-11'>Ex. 19:10–11</a>; <a href='/AIV/6/7/13'>Josh. 7:13</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 6003006,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 3,
       "verse": 6,
       "text": "And Joshua spoke to the priests, saying, 'Take up the ark of the covenant and pass on ahead of the people.' So they took up the ark of the covenant and went before the people.",
       "links": "<a href='/AIV/6/6/6'>Josh. 6:6</a>; <a href='/AIV/4/4/5'>Num. 4:5</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 6003007,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 3,
       "verse": 7,
       "text": "And the LORD said to Joshua, 'Today I will begin to exalt you in the sight of all Israel, so that they will know that, just as I was with Moses, so I will be with you.'",
       "links": "<a href='/AIV/6/1/5'>Josh. 1:5</a>; <a href='/AIV/2/3/12'>Ex. 3:12</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 6003008,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 3,
       "verse": 8,
       "text": "You shall command the priests who bear the ark of the covenant, ‘When you reach the edge of the waters of the Jordan, stand still in the Jordan.’",
       "links": "<a href='/AIV/2/14/16'>Ex. 14:16</a>; <a href='/AIV/6/4/10'>Josh. 4:10</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 6003009,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 3,
       "verse": 9,
       "text": "Joshua said to the Israelites, 'Come here, and hear the words of the LORD your God.'",
       "links": "<a href='/AIV/5/5/1'>Deut. 5:1</a>; <a href='/AIV/6/24/1'>Josh. 24:1</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 6003010,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 3,
       "verse": 10,
       "text": "And Joshua said, 'By this you will know that the living God is among you and that he will certainly drive out from before you the Canaanites, the Hittites, the Hivites, the Perizzites, the Girgashites, the Amorites, and the Jebusites.'",
       "links": "<a href='/AIV/2/3/8'>Ex. 3:8</a>; <a href='/AIV/6/24/18'>Josh. 24:18</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 6003011,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 3,
       "verse": 11,
       "text": "Behold, the ark of the covenant of the Lord of all the earth is going ahead of you into the Jordan.",
       "links": "<a href='/AIV/19/97/5'>Ps. 97:5</a>; <a href='/AIV/36/3/8'>Zech. 3:8</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 6003012,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 3,
       "verse": 12,
       "text": "Now select twelve men from the tribes of Israel, one man for each tribe.",
       "links": "<a href='/AIV/6/4/2'>Josh. 4:2</a>; <a href='/AIV/41/3/14'>Mark 3:14</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 6003013,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 3,
       "verse": 13,
       "text": "And when the soles of the feet of the priests who carry the ark of the LORD, the Lord of all the earth, rest in the waters of the Jordan, the waters of the Jordan will be cut off, and the waters flowing down from above will stand in one heap.",
       "links": "<a href='/AIV/2/14/21'>Ex. 14:21</a>; <a href='/AIV/19/114/3'>Ps. 114:3</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 6003014,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 3,
       "verse": 14,
       "text": "So when the people set out from their tents to cross the Jordan, with the priests carrying the ark of the covenant ahead of them,",
       "links": "<a href='/AIV/4/10/33'>Num. 10:33</a>; <a href='/AIV/6/3/6'>Josh. 3:6</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 6003015,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 3,
       "verse": 15,
       "text": "and as soon as the priests who carried the ark came to the Jordan, and their feet dipped into the edge of the water—now the Jordan overflows all its banks during harvest time—",
       "links": "<a href='/AIV/6/4/18'>Josh. 4:18</a>; <a href='/AIV/19/114/3'>Ps. 114:3</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 6003016,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 3,
       "verse": 16,
       "text": "the waters coming down from above stood and rose up in a heap very far away, at Adam, the city that is beside Zarethan; and the waters flowing down toward the Sea of the Arabah, the Salt Sea, were completely cut off. So the people crossed over opposite Jericho.",
       "links": "<a href='/AIV/2/14/21'>Ex. 14:21</a>; <a href='/AIV/6/4/23'>Josh. 4:23</a>",
@@ -201,33 +123,10 @@
     },
     {
       "pk": 6003017,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 3,
       "verse": 17,
       "text": "And the priests who carried the ark of the covenant of the LORD stood firmly on dry ground in the midst of the Jordan, while all Israel crossed over on dry ground, until the entire nation had finished crossing the Jordan.",
       "links": "<a href='/AIV/6/4/10'>Josh. 4:10</a>; <a href='/AIV/2/14/29'>Ex. 14:29</a>",
       "comment": "The priests standing steady in the river demonstrates steadfast leadership while the people pass through. God uses mediators to provide, protect, and guide His people into the fullness of His promises—foreshadowing Christ, the High Priest, and continual spiritual guidance in the life of the Church."
-    }
-  ],
-  "translatedAt": "2025-12-24T02:17:57.813Z",
-  "sections": [
-    {
-      "title": "Preparations to Cross the Jordan",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "The Promise of God's Presence",
-      "startVerse": 7,
-      "endVerse": 13
-    },
-    {
-      "title": "Crossing the Jordan River",
-      "startVerse": 14,
-      "endVerse": 17
     }
   ]
 }

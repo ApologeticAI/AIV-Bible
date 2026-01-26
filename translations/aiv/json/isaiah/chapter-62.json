@@ -1,16 +1,13 @@
 {
-  "book": 29,
+  "translation": "AIV",
+  "bookId": "isaiah",
   "bookName": "Isaiah",
   "bookAbbreviation": "Isa",
+  "bookNumber": 29,
   "chapter": 62,
   "verses": [
     {
       "pk": 29062001,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 62,
       "verse": 1,
       "text": "For Zion’s sake I will not keep silent, and for Jerusalem’s sake I will not be quiet, until her righteousness shines out like the dawn, and her salvation like a blazing torch.",
       "links": "<a href='/AIV/29/61/11'>Isa. 61:11</a>; <a href='/AIV/19/37/6'>Ps. 37:6</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 29062002,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 62,
       "verse": 2,
       "text": "The nations will see your righteousness, and all kings your glory. You will be called by a new name that the mouth of the LORD will give.",
       "links": "<a href='/AIV/29/65/15'>Isa. 65:15</a>; <a href='/AIV/66/2/17'>Rev. 2:17</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 29062003,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 62,
       "verse": 3,
       "text": "You will be a crown of beauty in the hand of the LORD, and a royal diadem in the hand of your God.",
       "links": "<a href='/AIV/19/21/3'>Ps. 21:3</a>; <a href='/AIV/66/4/4'>Rev. 4:4</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 29062004,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 62,
       "verse": 4,
       "text": "No longer will you be called Forsaken, and your land will not be called Desolate; but you will be called My Delight Is In Her, and your land Married; for the LORD delights in you, and your land will be married.",
       "links": "<a href='/AIV/29/60/15'>Isa. 60:15</a>; <a href='/AIV/28/2/19-20'>Hos. 2:19-20</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 29062005,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 62,
       "verse": 5,
       "text": "For as a young man marries a young woman, so shall your builder marry you, and as the bridegroom rejoices over the bride, so shall your God rejoice over you.",
       "links": "<a href='/AIV/35/2/19'>Hos. 2:19-20</a>; <a href='/AIV/56/5/25'>Eph. 5:25-27</a>; <a href='/AIV/73/21/2'>Rev. 21:2</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 29062006,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 62,
       "verse": 6,
       "text": "On your walls, Jerusalem, I have posted watchmen. All day and all night they will never be silent. You who call upon the LORD, give yourselves no rest,",
       "links": "<a href='/AIV/26/3/17'>Ezek. 3:17</a>; <a href='/AIV/19/122/6'>Ps. 122:6</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 29062007,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 62,
       "verse": 7,
       "text": "and give Him no rest until He establishes Jerusalem and makes her a praise in the earth.",
       "links": "<a href='/AIV/19/102/13'>Ps. 102:13</a>; <a href='/AIV/42/18/1-8'>Luke 18:1-8</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 29062008,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 62,
       "verse": 8,
       "text": "The LORD has sworn by His right hand and by His powerful arm: I will never again give your grain to be food for your enemies, nor will strangers drink the wine you have worked for.",
       "links": "<a href='/AIV/29/65/21-22'>Isa. 65:21-22</a>; <a href='/AIV/19/105/42'>Ps. 105:42</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 29062009,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 62,
       "verse": 9,
       "text": "But those who harvest it will eat it and praise the LORD; and those who gather the grapes will drink it in the courts of My sanctuary.",
       "links": "<a href='/AIV/29/56/7'>Isa. 56:7</a>; <a href='/AIV/19/65/4'>Ps. 65:4</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 29062010,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 62,
       "verse": 10,
       "text": "Pass through, pass through the gates! Prepare the way for the people. Build up, build up the highway! Clear away the stones, raise a banner for the nations.",
       "links": "<a href='/AIV/29/40/3'>Isa. 40:3</a>; <a href='/AIV/19/118/19-20'>Ps. 118:19-20</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 29062011,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 62,
       "verse": 11,
       "text": "The LORD has proclaimed to the ends of the earth: Say to the daughter of Zion, ‘See, your salvation comes; His reward is with Him, and His recompense goes before Him.’",
       "links": "<a href='/AIV/29/40/10'>Isa. 40:10</a>; <a href='/AIV/42/2/30-32'>Luke 2:30-32</a>",
@@ -141,33 +88,10 @@
     },
     {
       "pk": 29062012,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 62,
       "verse": 12,
       "text": "They will be called ‘The Holy People,’ ‘The Redeemed of the LORD’; and you will be called ‘Sought After,’ ‘A City Not Forsaken.’",
       "links": "<a href='/AIV/29/35/10'>Isa. 35:10</a>; <a href='/AIV/66/21/3'>Rev. 21:3</a>",
       "comment": "Israel’s identity as ‘Holy People’ and ‘Redeemed’ is extended to all who become part of God’s family in Christ, pursuing holiness in visible, communal unity. The ‘City Not Forsaken’ prefigures the heavenly Jerusalem, the gathering of the faithful around the throne of God."
-    }
-  ],
-  "translatedAt": "2025-12-28T06:57:19.068Z",
-  "sections": [
-    {
-      "title": "Jerusalem’s Coming Glory",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "Watchmen and God’s Promise",
-      "startVerse": 6,
-      "endVerse": 9
-    },
-    {
-      "title": "The Salvation of Zion Proclaimed",
-      "startVerse": 10,
-      "endVerse": 12
     }
   ]
 }

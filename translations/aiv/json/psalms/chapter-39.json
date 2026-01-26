@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 39,
   "verses": [
     {
       "pk": 23039001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 39,
       "verse": 1,
       "text": "I said, \"I will guard my ways, so that I may not sin with my tongue; I will keep a muzzle on my mouth while the wicked are before me.\"",
       "links": "<a href='/AIV/19/34/13'>Ps. 34:13</a>; <a href='/AIV/59/1/26'>James 1:26</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23039002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 39,
       "verse": 2,
       "text": "I was mute and silent; I held my peace, even from good, and my sorrow was stirred.",
       "links": "<a href='/AIV/19/77/4'>Ps. 77:4</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23039003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 39,
       "verse": 3,
       "text": "My heart became hot within me; as I pondered, a fire burned. Then I spoke with my tongue:",
       "links": "<a href='/AIV/19/32/3'>Ps. 32:3</a>; <a href='/AIV/20/27/19'>Prov. 27:19</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23039004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 39,
       "verse": 4,
       "text": "\"LORD, make me know my end and what is the measure of my days; let me know how fleeting I am.\"",
       "links": "<a href='/AIV/19/90/12'>Ps. 90:12</a>; <a href='/AIV/18/14/5'>Job 14:5</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23039005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 39,
       "verse": 5,
       "text": "Behold, you have made my days a few handbreadths, and my lifetime is as nothing in your sight. Surely every man stands as a mere breath. Selah.",
       "links": "<a href='/AIV/19/62/9'>Ps. 62:9</a>; <a href='/AIV/21/1/2'>Eccl. 1:2</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23039006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 39,
       "verse": 6,
       "text": "Surely a man goes about as a shadow. Surely, for nothing they are in turmoil; he heaps up riches, and does not know who will gather them.",
       "links": "<a href='/AIV/21/2/18'>Eccl. 2:18-19</a>; <a href='/AIV/18/27/16-17'>Job 27:16-17</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23039007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 39,
       "verse": 7,
       "text": "\"And now, Lord, what do I wait for? My hope is in you.\"",
       "links": "<a href='/AIV/19/62/5'>Ps. 62:5</a>; <a href='/AIV/45/5/5'>Rom. 5:5</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 23039008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 39,
       "verse": 8,
       "text": "Deliver me from all my transgressions; do not make me the scorn of the fool.",
       "links": "<a href='/AIV/19/25/22'>Ps. 25:22</a>; <a href='/AIV/19/119/39'>Ps. 119:39</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 23039009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 39,
       "verse": 9,
       "text": "I am mute; I do not open my mouth, for it is you who have done it.",
       "links": "<a href='/AIV/19/38/13'>Ps. 38:13</a>; <a href='/AIV/18/1/21'>Job 1:21</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 23039010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 39,
       "verse": 10,
       "text": "Remove your plague from me; I am consumed by the blow of your hand.",
       "links": "<a href='/AIV/19/32/4'>Ps. 32:4</a>; <a href='/AIV/19/38/2'>Ps. 38:2</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 23039011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 39,
       "verse": 11,
       "text": "When you discipline a man with rebukes for sin, you consume his beauty like a moth; surely every man is a mere breath. Selah.",
       "links": "<a href='/AIV/23/40/6-7'>Isa. 40:6-7</a>; <a href='/AIV/19/90/6'>Ps. 90:6</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 23039012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 39,
       "verse": 12,
       "text": "\"Hear my prayer, O LORD, and give ear to my cry; do not be silent at my tears. For I am a stranger with you, a sojourner, as all my fathers were.\"",
       "links": "<a href='/AIV/19/119/19'>Ps. 119:19</a>; <a href='/AIV/58/11/13'>Heb. 11:13</a>",
@@ -153,33 +95,10 @@
     },
     {
       "pk": 23039013,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 39,
       "verse": 13,
       "text": "\"Turn your gaze away from me, that I may have relief before I depart and am no more.\"",
       "links": "<a href='/AIV/18/7/19'>Job 7:19</a>; <a href='/AIV/19/90/9'>Ps. 90:9</a>",
       "comment": "David’s request for respite before death is a humble acknowledgment of the need for God’s mercy at life’s end. This prefigures the Christian desire for a peaceful death and trust in God’s judgment and redemption."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:12:26.497Z",
-  "sections": [
-    {
-      "title": "The Brevity of Life",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "A Prayer for Deliverance",
-      "startVerse": 7,
-      "endVerse": 11
-    },
-    {
-      "title": "Plea for Mercy",
-      "startVerse": 12,
-      "endVerse": 13
     }
   ]
 }

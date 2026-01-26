@@ -1,16 +1,13 @@
 {
-  "book": 26,
+  "translation": "AIV",
+  "bookId": "song-of-songs",
   "bookName": "Song of Songs",
   "bookAbbreviation": "Song",
+  "bookNumber": 26,
   "chapter": 5,
   "verses": [
     {
       "pk": 26005001,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 5,
       "verse": 1,
       "text": "I have come into my garden, my sister, my bride; I have gathered my myrrh with my spices. I have eaten my honeycomb with my honey; I have drunk my wine with my milk. Eat, friends; drink, and be intoxicated with love.",
       "links": "<a href='/AIV/23/62/5'>Isa. 62:5</a>; <a href='/AIV/19/36/8'>Ps. 36:8</a>; <a href='/AIV/43/2/10'>John 2:10</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 26005002,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 5,
       "verse": 2,
       "text": "I slept, but my heart was awake. The voice of my beloved! He knocks: 'Open to me, my sister, my love, my dove, my perfect one, for my head is drenched with dew, my hair with the drops of the night.'",
       "links": "<a href='/AIV/66/3/20'>Rev. 3:20</a>; <a href='/AIV/19/77/6'>Ps. 77:6</a>",
@@ -32,11 +24,6 @@
     },
     {
       "pk": 26005003,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 5,
       "verse": 3,
       "text": "'I have taken off my garment; how could I put it on again? I have washed my feet; how could I dirty them?'",
       "links": "<a href='/AIV/43/13/5'>John 13:5</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 26005004,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 5,
       "verse": 4,
       "text": "My beloved put his hand through the latch-opening; my heart was stirred within me.",
       "links": "<a href='/AIV/42/24/32'>Luke 24:32</a>; <a href='/AIV/19/73/21'>Ps. 73:21</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 26005005,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 5,
       "verse": 5,
       "text": "I arose to open to my beloved, and my hands dripped with myrrh, my fingers with liquid myrrh that flowed on the handles of the bolt.",
       "links": "<a href='/AIV/40/2/11'>Matt. 2:11</a>; <a href='/AIV/43/19/39'>John 19:39</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 26005006,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 5,
       "verse": 6,
       "text": "I opened to my beloved, but my beloved had turned away, gone. My soul failed when he spoke. I sought him, but could not find him; I called him, but he did not answer.",
       "links": "<a href='/AIV/19/22/2'>Ps. 22:2</a>; <a href='/AIV/43/20/14'>John 20:14</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 26005007,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 5,
       "verse": 7,
       "text": "The watchmen who go about the city found me, they struck me, they wounded me; the keepers of the walls took away my cloak.",
       "links": "<a href='/AIV/19/127/1'>Ps. 127:1</a>; <a href='/AIV/23/62/6'>Isa. 62:6</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 26005008,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 5,
       "verse": 8,
       "text": "I adjure you, daughters of Jerusalem, if you find my beloved, that you tell him I am faint with love.",
       "links": "<a href='/AIV/22/2/7'>Song 2:7</a>; <a href='/AIV/19/42/1'>Ps. 42:1</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 26005009,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 5,
       "verse": 9,
       "text": "What is your beloved more than another beloved, O most beautiful among women? What is your beloved more than another beloved, that you so adjure us?",
       "links": "<a href='/AIV/19/45/2'>Ps. 45:2</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 26005010,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 5,
       "verse": 10,
       "text": "My beloved is radiant and ruddy, outstanding among ten thousand.",
       "links": "<a href='/AIV/19/45/2'>Ps. 45:2</a>; <a href='/AIV/66/1/13'>Rev. 1:13-16</a>",
@@ -130,11 +82,6 @@
     },
     {
       "pk": 26005011,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 5,
       "verse": 11,
       "text": "His head is pure gold; his hair is wavy, black as a raven.",
       "links": "<a href='/AIV/27/10/6'>Dan. 10:6</a>",
@@ -142,11 +89,6 @@
     },
     {
       "pk": 26005012,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 5,
       "verse": 12,
       "text": "His eyes are like doves by streams of water, bathed in milk, set within fullness.",
       "links": "<a href='/AIV/22/1/15'>Song 1:15</a>; <a href='/AIV/40/6/22'>Matt. 6:22</a>",
@@ -154,11 +96,6 @@
     },
     {
       "pk": 26005013,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 5,
       "verse": 13,
       "text": "His cheeks are like beds of spices, yielding fragrance. His lips are lilies, dripping flowing myrrh.",
       "links": "<a href='/AIV/19/45/2'>Ps. 45:2</a>; <a href='/AIV/43/7/46'>John 7:46</a>",
@@ -166,11 +103,6 @@
     },
     {
       "pk": 26005014,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 5,
       "verse": 14,
       "text": "His hands are rods of gold set with beryl. His body is polished ivory adorned with sapphires.",
       "links": "<a href='/AIV/27/10/6'>Dan. 10:6</a>; <a href='/AIV/19/45/9'>Ps. 45:9-10</a>",
@@ -178,11 +110,6 @@
     },
     {
       "pk": 26005015,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 5,
       "verse": 15,
       "text": "His legs are pillars of alabaster, set on bases of pure gold. His presence is like Lebanon, majestic as the cedars.",
       "links": "<a href='/AIV/19/92/12'>Ps. 92:12</a>; <a href='/AIV/23/35/2'>Isa. 35:2</a>",
@@ -190,38 +117,10 @@
     },
     {
       "pk": 26005016,
-      "translation": "AIV",
-      "book": 26,
-      "bookName": "Song of Songs",
-      "bookAbbreviation": "Song",
-      "chapter": 5,
       "verse": 16,
       "text": "His mouth is sweetness itself; he is altogether desirable. This is my beloved, this is my friend, daughters of Jerusalem.",
       "links": "<a href='/AIV/19/34/8'>Ps. 34:8</a>; <a href='/AIV/43/15/15'>John 15:15</a>",
       "comment": "The beloved's mouth as sweetness evokes God’s Word and spiritual nourishment (Ps. 34:8). The concluding declaration encourages love and intimacy with the divine, reminiscent of Christ’s own invitation to friendship in John 15:15. The bridal love here models both personal devotion and communal celebration in the life of faith."
-    }
-  ],
-  "translatedAt": "2025-12-24T07:13:26.375Z",
-  "sections": [
-    {
-      "title": "The Bridegroom Enters the Garden",
-      "startVerse": 1,
-      "endVerse": 1
-    },
-    {
-      "title": "The Bride’s Troubled Dream",
-      "startVerse": 2,
-      "endVerse": 8
-    },
-    {
-      "title": "The Daughters of Jerusalem Question the Bride",
-      "startVerse": 9,
-      "endVerse": 9
-    },
-    {
-      "title": "The Bride Praises Her Beloved",
-      "startVerse": 10,
-      "endVerse": 16
     }
   ]
 }

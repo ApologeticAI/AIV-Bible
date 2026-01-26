@@ -1,16 +1,13 @@
 {
-  "book": 35,
+  "translation": "AIV",
+  "bookId": "hosea",
   "bookName": "Hosea",
   "bookAbbreviation": "Hos",
+  "bookNumber": 35,
   "chapter": 14,
   "verses": [
     {
       "pk": 35014001,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 14,
       "verse": 1,
       "text": "Return, Israel, to the LORD your God, for you have stumbled because of your sins.",
       "links": "<a href='/AIV/23/59/2'>Isaiah 59:2</a>; <a href='/AIV/19/32/5'>Psalm 32:5</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 35014002,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 14,
       "verse": 2,
       "text": "Take words with you and return to the LORD. Say to Him: 'Remove all iniquity and receive us graciously, so we may offer the fruit of our lips.'",
       "links": "<a href='/AIV/19/51/15'>Psalm 51:15</a>; <a href='/AIV/58/13/15'>Hebrews 13:15</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 35014003,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 14,
       "verse": 3,
       "text": "'Assyria will not save us; we will not ride upon horses; and we will no longer say ‘Our God’ to the work of our hands. In You the orphan finds mercy.'",
       "links": "<a href='/AIV/19/68/5'>Psalm 68:5</a>; <a href='/AIV/23/31/1'>Isaiah 31:1</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 35014004,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 14,
       "verse": 4,
       "text": "I will heal their apostasy. I will love them freely, for My anger has turned away from them.",
       "links": "<a href='/AIV/24/3/22'>Jeremiah 3:22</a>; <a href='/AIV/19/30/5'>Psalm 30:5</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 35014005,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 14,
       "verse": 5,
       "text": "I will be like dew to Israel. He will blossom like a lily and root like the cedars of Lebanon.",
       "links": "<a href='/AIV/23/26/19'>Isaiah 26:19</a>; <a href='/AIV/19/92/12'>Psalm 92:12</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 35014006,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 14,
       "verse": 6,
       "text": "His shoots will spread out, his beauty will be like the olive tree, and his fragrance like Lebanon.",
       "links": "<a href='/AIV/19/52/8'>Psalm 52:8</a>; <a href='/AIV/22/4/11'>Song of Solomon 4:11</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 35014007,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 14,
       "verse": 7,
       "text": "Those who dwell in his shade will return; they will revive like grain and blossom like the vine. His fame will be like the wine of Lebanon.",
       "links": "<a href='/AIV/19/72/7'>Psalm 72:7</a>; <a href='/AIV/43/15/5'>John 15:5</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 35014008,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 14,
       "verse": 8,
       "text": "Ephraim will say, 'What have I to do with idols anymore?' I answer and care for him. I am like a green cypress; your fruit comes from Me.",
       "links": "<a href='/AIV/19/1/3'>Psalm 1:3</a>; <a href='/AIV/23/44/21-22'>Isaiah 44:21-22</a>",
@@ -104,34 +66,11 @@
     },
     {
       "pk": 35014009,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 14,
       "verse": 9,
       "text": "Who is wise? Let him understand these things. Who is discerning? Let him know them. For the ways of the LORD are right, and the righteous walk in them, but transgressors stumble in them.",
       "links": "<a href='/AIV/19/107/43'>Psalm 107:43</a>; <a href='/AIV/40/7/13-14'>Matthew 7:13-14</a>",
       "comment": "The closing verse calls for wisdom and spiritual understanding, echoing biblical exhortations to seek truth and walk in righteousness. It underscores that God’s ways are both a path to life and a stumbling block to the rebellious, compelling all believers to humility, obedience, and ongoing conversion of heart.",
       "sectionHeader": "The Way of the Lord: Wisdom’s Invitation"
-    }
-  ],
-  "translatedAt": "2025-12-24T09:39:52.371Z",
-  "sections": [
-    {
-      "title": "Call to Repentance and Confession",
-      "startVerse": 1,
-      "endVerse": 3
-    },
-    {
-      "title": "Promise of Restoration and Blessing",
-      "startVerse": 4,
-      "endVerse": 8
-    },
-    {
-      "title": "The Way of the Lord: Wisdom’s Invitation",
-      "startVerse": 9,
-      "endVerse": 9
     }
   ]
 }

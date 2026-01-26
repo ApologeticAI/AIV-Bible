@@ -1,23 +1,13 @@
 {
-  "book": 19,
+  "translation": "AIV",
+  "bookId": "esther",
   "bookName": "Esther",
   "bookAbbreviation": "Esth",
+  "bookNumber": 19,
   "chapter": 8,
-  "sections": [
-    {
-      "title": "Mordecai’s Advancement and Esther’s Gift",
-      "startVerse": 1,
-      "endVerse": 17
-    }
-  ],
   "verses": [
     {
       "pk": 19008001,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 8,
       "verse": 1,
       "text": "On that same day King Xerxes gave Queen Esther the property of Haman, the enemy of the Jews. And Mordecai came before the king, for Esther had revealed their relationship.",
       "links": "<a href='/AIV/19/7/10'>Esth. 7:10</a>; <a href='/AIV/19/2/7'>Esth. 2:7</a>",
@@ -26,11 +16,6 @@
     },
     {
       "pk": 19008002,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 8,
       "verse": 2,
       "text": "The king took off his signet ring, which he had taken from Haman, and gave it to Mordecai. Esther then appointed Mordecai to manage Haman’s property.",
       "links": "<a href='/AIV/19/3/10'>Esth. 3:10</a>; <a href='/AIV/1/41/42'>Gen. 41:42</a>",
@@ -38,11 +23,6 @@
     },
     {
       "pk": 19008003,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 8,
       "verse": 3,
       "text": "Esther spoke again to the king, falling at his feet and weeping. She pleaded with him to stop the evil scheme that Haman the Agagite had devised against the Jews.",
       "links": "<a href='/AIV/19/4/8'>Esth. 4:8</a>; <a href='/AIV/19/7/4'>Esth. 7:4</a>",
@@ -50,11 +30,6 @@
     },
     {
       "pk": 19008004,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 8,
       "verse": 4,
       "text": "The king held out the golden scepter to Esther, so she rose and stood before him.",
       "links": "<a href='/AIV/19/5/2'>Esth. 5:2</a>",
@@ -62,11 +37,6 @@
     },
     {
       "pk": 19008005,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 8,
       "verse": 5,
       "text": "She said, “If it pleases the king, and if I have found favor before him, and if the matter seems right to the king and I am pleasing in his eyes, let an order be written to revoke the letters contrived by Haman son of Hammedatha the Agagite, which he wrote to destroy the Jews throughout the king’s provinces.”",
       "links": "<a href='/AIV/19/3/12-13'>Esth. 3:12-13</a>; <a href='/AIV/20/15/31'>Prov. 15:31</a>",
@@ -74,11 +44,6 @@
     },
     {
       "pk": 19008006,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 8,
       "verse": 6,
       "text": "For how can I bear to see the disaster that would fall upon my people? How can I endure the destruction of my relatives?”",
       "links": "<a href='/AIV/19/4/14'>Esth. 4:14</a>; <a href='/AIV/45/9/3'>Rom. 9:3</a>",
@@ -86,11 +51,6 @@
     },
     {
       "pk": 19008007,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 8,
       "verse": 7,
       "text": "King Xerxes replied to Queen Esther and Mordecai the Jew, “Behold, I have given Esther the house of Haman, and he has been hanged on the gallows for attacking the Jews.",
       "links": "<a href='/AIV/19/7/9-10'>Esth. 7:9-10</a>",
@@ -98,11 +58,6 @@
     },
     {
       "pk": 19008008,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 8,
       "verse": 8,
       "text": "You yourselves may write a decree about the Jews as it pleases you, in the king’s name, and seal it with the king’s signet ring. For whatever is written in the king’s name and sealed with his ring cannot be revoked.",
       "links": "<a href='/AIV/19/3/12'>Esth. 3:12</a>; <a href='/AIV/27/6/8'>Dan. 6:8</a>",
@@ -110,11 +65,6 @@
     },
     {
       "pk": 19008009,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 8,
       "verse": 9,
       "text": "So the king’s scribes were summoned at once—on the twenty-third day of the third month, the month of Sivan. The decree was written exactly as Mordecai commanded, for the Jews, and also for the satraps, governors, and officials of every province from India to Cush, for every province in its own script and for every people in their own language, and also for the Jews in their script and language.",
       "links": "<a href='/AIV/19/1/1'>Esth. 1:1</a>; <a href='/AIV/44/2/6-8'>Acts 2:6-8</a>",
@@ -122,11 +72,6 @@
     },
     {
       "pk": 19008010,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 8,
       "verse": 10,
       "text": "He wrote in the king’s name and sealed it with the king’s signet ring. Mordecai sent the letters by mounted couriers, who rode fast horses bred for the king’s service.",
       "links": "<a href='/AIV/19/3/13'>Esth. 3:13</a>; <a href='/AIV/19/8/8'>Esth. 8:8</a>",
@@ -134,11 +79,6 @@
     },
     {
       "pk": 19008011,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 8,
       "verse": 11,
       "text": "The decree gave the Jews in every city the right to gather and defend themselves, to destroy, kill, and annihilate any armed force or people that would attack them, along with their wives and children, and to plunder their goods, on one day in all the provinces of King Xerxes.",
       "links": "<a href='/AIV/19/3/13'>Esth. 3:13</a>; <a href='/AIV/07/7/7'>Judg. 7:7</a>",
@@ -146,23 +86,13 @@
     },
     {
       "pk": 19008012,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 8,
       "verse": 12,
-      "text": "on a single day throughout all the provinces of King Ahasuerus, on the thirteenth day of the twelfth month, which is the month of Adar. \n\nADDITION E\n\nThe Decree of Ahasuerus\n\nThe following is a copy of this letter: \n\"The Great King, Ahasuerus, to the governors of the provinces from India to Ethiopia, one hundred twenty-seven provinces, and to those who are loyal to our government, greetings. \n\nMany people, the more they are honored with the most generous kindness of their benefactors, the more proud they become, and not only seek to harm our subjects, but, in their inability to bear prosperity, they even try to scheme against their own benefactors. They not only fail to show gratitude, but, swept away by the boasting of those ignorant of goodness, they assume they will escape the justice of God, who always sees everything. Often, many set in authority have, by the persuasion of friends entrusted with public affairs, been in part responsible for the shedding of innocent blood and become involved in irreparable calamities, when those persons by false trickery of their evil natures deceive the sincere goodwill of their sovereigns.\n\nWhat has been wickedly accomplished through the corrupt behavior of those who unworthily exercise authority can be seen from considering recent matters, more than from the ancient records. In the future, we will take care to render our kingdom quiet and peaceful for all by changing our methods and always judging what comes before our eyes with greater fairness.\n\nFor Haman son of Hammedatha, a Macedonian (an alien far from Persian blood and devoid of our kindness), having become our guest, enjoyed so fully the goodwill we show to every nation that he was called our father and was continually honored by all as second to the royal throne. But, unable to restrain his pride, he plotted to take away our life and kingdom, and with cunning and deceit sought the destruction of Mordecai, our savior and perpetual benefactor, and Esther, the blameless partner of our kingdom, together with their entire nation. He thought that by these means he would catch us undefended and transfer the kingdom of the Persians to the Macedonians.\n\nBut we find that the Jews, who were doomed to annihilation by this most evil man, are not criminals, but are governed by just laws and are children of the living God, most high, most mighty, who has guided the kingdom for us and for our ancestors in the best order.\n\nTherefore, you will do well not to carry out the letters sent by Haman son of Hammedatha, since he who did these things has been hanged at the gate of Susa with all his household—for God, who rules over all things, quickly repaid him with the punishment he deserved.\n\nTherefore, publicly post a copy of this letter in every place and allow the Jews to live under their own laws. Give them support, so that on the thirteenth day of the twelfth month—Adar—that very day, they may defend themselves against those who attack them at the time of oppression. For God, who rules over all, has turned this day for his chosen people from destruction into joy.\n\nTherefore, keep this day joyfully among your commemorative festivals, so that both now and hereafter it may represent deliverance for you and the loyal Persians, but a reminder of destruction for those who plot against us. Every city and country, without exception, that does not act accordingly shall be destroyed in wrath with spear and fire, and be made not only impassable for humans, but also forever hateful to wild animals and birds.\n\nEND OF ADDITION E",
+      "text": "on a single day throughout all the provinces of King Ahasuerus, on the thirteenth day of the twelfth month, which is the month of Adar.",
       "links": "<a href='/AIV/19/3/13'>Esth. 3:13</a>; <a href='/AIV/19/9/1'>Esth. 9:1</a>; <a href='/AIV/2/12/14'>Exod. 12:14</a>",
       "comment": "The decree set the thirteenth day of Adar as the pivotal date for the Jews’ defense and survival, later celebrated as Purim (Esther 9:26), highlighting divine reversal and the importance of time in God’s deliverance."
     },
     {
       "pk": 19008013,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 8,
       "verse": 13,
       "text": "A copy of the edict was to be published in every province and made known to all peoples, so that the Jews would be ready for that day to take vengeance on their enemies.",
       "links": "<a href='/AIV/19/3/14'>Esth. 3:14</a>; <a href='/AIV/19/9/16'>Esth. 9:16</a>",
@@ -170,11 +100,6 @@
     },
     {
       "pk": 19008014,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 8,
       "verse": 14,
       "text": "The couriers, riding the king’s swift horses, hurried out, spurred on by the royal command, and the decree was issued in the citadel of Susa.",
       "links": "<a href='/AIV/19/3/15'>Esth. 3:15</a>",
@@ -182,11 +107,6 @@
     },
     {
       "pk": 19008015,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 8,
       "verse": 15,
       "text": "Mordecai went out from the king’s presence wearing royal garments of blue and white, a large crown of gold, and a robe of fine linen and purple. And the city of Susa rejoiced and was glad.",
       "links": "<a href='/AIV/19/6/8'>Esth. 6:8</a>; <a href='/AIV/66/19/8'>Rev. 19:8</a>",
@@ -194,11 +114,6 @@
     },
     {
       "pk": 19008016,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 8,
       "verse": 16,
       "text": "For the Jews there was light and gladness, joy and honor.",
       "links": "<a href='/AIV/19/4/1'>Esth. 4:1</a>; <a href='/AIV/43/8/12'>John 8:12</a>",
@@ -206,16 +121,10 @@
     },
     {
       "pk": 19008017,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 8,
       "verse": 17,
       "text": "In every province and city to which the king’s command and his decree reached, the Jews celebrated with gladness, feasting, and a holiday. And many among the peoples of the land declared themselves Jews, for fear of the Jews had fallen upon them.",
       "links": "<a href='/AIV/19/9/22'>Esth. 9:22</a>; <a href='/AIV/02/12/48-49'>Exod. 12:48-49</a>; <a href='/AIV/45/11/11'>Rom. 11:11</a>",
       "comment": "The joyful celebration, public feasting, and conversion of many reflect the wider call to join God’s people, anticipate a future, visible unity and liturgical celebration (cf. Acts 2:46; Rom. 11:11—Gentiles joining the faith), and subtly echo the importance of sacramental signs and public worship."
     }
-  ],
-  "translatedAt": "2025-12-28T06:57:02.308Z"
+  ]
 }

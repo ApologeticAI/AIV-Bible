@@ -1,16 +1,13 @@
 {
-  "book": 17,
+  "translation": "AIV",
+  "bookId": "tobit",
   "bookName": "Tobit",
   "bookAbbreviation": "Tob",
+  "bookNumber": 17,
   "chapter": 11,
   "verses": [
     {
       "pk": 17011001,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 11,
       "verse": 1,
       "text": "As they were on their way, drawing near to Nineveh, Raphael said to Tobias,",
       "links": "<a href='/AIV/17/5/5'>Tob. 5:5</a>; <a href='/AIV/17/6/1'>Tob. 6:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 17011002,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 11,
       "verse": 2,
       "text": "\"You know what we promised your father. Let us hurry ahead of your wife and prepare the house while the others follow.\"",
       "links": "<a href='/AIV/17/5/17'>Tob. 5:17</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 17011003,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 11,
       "verse": 3,
       "text": "So they hurried on together. Meanwhile, Anna was sitting and watching the road for her son.",
       "links": "<a href='/AIV/17/10/7'>Tob. 10:7</a>; <a href='/AIV/42/15/20'>Luke 15:20</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 17011004,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 11,
       "verse": 4,
       "text": "She spotted him coming and said to his father, \"Look, your son is coming, and the man who went with him!\"",
       "links": "<a href='/AIV/17/11/15'>Tob. 11:15</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 17011005,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 11,
       "verse": 5,
       "text": "Before Tobias reached his father, Raphael said to him, \"I know that his eyes will be opened.",
       "links": "<a href='/AIV/17/2/10'>Tob. 2:10</a>; <a href='/AIV/43/9/6-7'>John 9:6-7</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 17011006,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 11,
       "verse": 6,
       "text": "Spread the fish’s gall on his eyes; the medicine will cause the white films to shrink and peel off. Your father will regain his sight and see the light of day.\"",
       "links": "<a href='/AIV/17/6/8-9'>Tob. 6:8-9</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 17011007,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 11,
       "verse": 7,
       "text": "Then Tobias applied the gall as Raphael told him. His father Tobit, who was nearly blind, rubbed his eyes.",
       "links": "<a href='/AIV/17/2/10'>Tob. 2:10</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 17011008,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 11,
       "verse": 8,
       "text": "Tobias gently spread the medicine. When his eyes began to sting, he rubbed them, and the white films peeled off from the corners.",
       "links": "<a href='/AIV/17/6/9'>Tob. 6:9</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 17011009,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 11,
       "verse": 9,
       "text": "Then, seeing his son, he fell upon his neck, weeping, and said, \"I see you, my son, the light of my eyes.\"",
       "links": "<a href='/AIV/17/10/7'>Tob. 10:7</a>; <a href='/AIV/42/15/20-24'>Luke 15:20-24</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 17011010,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 11,
       "verse": 10,
       "text": "He continued, \"Blessed are you, O God, and blessed is your name forever! Blessed are all your holy angels!",
       "links": "<a href='/AIV/19/103/20-21'>Ps. 103:20-21</a>; <a href='/AIV/66/7/12'>Rev. 7:12</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 17011011,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 11,
       "verse": 11,
       "text": "For you chastised me, but now you have shown me mercy; see, I behold my son Tobias!\"",
       "links": "<a href='/AIV/19/118/18'>Ps. 118:18</a>; <a href='/AIV/58/12/6'>Heb. 12:6</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 17011012,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 11,
       "verse": 12,
       "text": "So Tobit rejoiced, and Anna his wife ran up to him. She threw her arms around her son, saying, \"Now that I see you, my child, I am content to die.\" And they both wept for joy.",
       "links": "<a href='/AIV/17/10/7'>Tob. 10:7</a>; <a href='/AIV/42/2/29-30'>Luke 2:29-30</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 17011013,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 11,
       "verse": 13,
       "text": "Tobit got up and, walking through the door of his house, blessed God with thanksgiving. Then with a loud voice he proclaimed to all the people, \"Bless God and proclaim his greatness to all the living children, for he has had mercy on me!\"",
       "links": "<a href='/AIV/19/107/8'>Ps. 107:8</a>; <a href='/AIV/42/8/39'>Luke 8:39</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 17011014,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 11,
       "verse": 14,
       "text": "For he has chastened me, and behold, I see my son Tobias!\" And Tobit’s son entered the house rejoicing, blessing God with all his heart.",
       "links": "<a href='/AIV/19/94/12'>Ps. 94:12</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 17011015,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 11,
       "verse": 15,
       "text": "Tobit then made Sara, his son's wife, welcome and blessed her: \"Come in, my daughter! Blessed are you! Enter the house in safety, in joy, and with blessing.",
       "links": "<a href='/AIV/17/7/16'>Tob. 7:16</a>; <a href='/AIV/8/24/67'>Gen. 24:67</a>",
@@ -190,11 +117,6 @@
     },
     {
       "pk": 17011016,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 11,
       "verse": 16,
       "text": "He then told her how God had worked mercy for them, and his joy was great. So all the Jews who were in Nineveh came to see Tobit as he rejoiced.",
       "links": "<a href='/AIV/17/2/8'>Tob. 2:8</a>; <a href='/AIV/21/8/15'>Eccl. 8:15</a>",
@@ -202,11 +124,6 @@
     },
     {
       "pk": 17011017,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 11,
       "verse": 17,
       "text": "Tobit gave thanks before them, declaring how God had mercifully restored his sight.",
       "links": "<a href='/AIV/19/30/11-12'>Ps. 30:11-12</a>; <a href='/AIV/42/17/15'>Luke 17:15</a>",
@@ -214,38 +131,10 @@
     },
     {
       "pk": 17011018,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 11,
       "verse": 18,
       "text": "Ahikar and his nephew Nadab were also present to share Tobit’s joy. With merriment they celebrated Tobias’s wedding feast for seven days, and many gifts were given to him.",
       "links": "<a href='/AIV/1/29/27'>Gen. 29:27</a>; <a href='/AIV/7/14/12'>Judg. 14:12</a>; <a href='/AIV/50/2/1'>John. 2:1</a>",
       "comment": "The seven-day wedding feast reflects ancient Jewish marriage customs (cf. Gen 29:27, Judg 14:12), and the mention of Ahikar and Nadab highlights family solidarity and communal joy in response to God’s providence and the fulfillment of promises."
-    }
-  ],
-  "translatedAt": "2025-12-28T02:53:51.626Z",
-  "sections": [
-    {
-      "title": "The Return to Nineveh",
-      "startVerse": 1,
-      "endVerse": 4
-    },
-    {
-      "title": "Tobit's Sight Restored",
-      "startVerse": 5,
-      "endVerse": 12
-    },
-    {
-      "title": "Rejoicing and Thanksgiving",
-      "startVerse": 13,
-      "endVerse": 14
-    },
-    {
-      "title": "Sara Welcomed and Tobit's Descendants",
-      "startVerse": 15,
-      "endVerse": 18
     }
   ]
 }

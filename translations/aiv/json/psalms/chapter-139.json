@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 139,
   "verses": [
     {
       "pk": 23139001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 139,
       "verse": 1,
       "text": "O LORD, you have searched me and you know me.",
       "links": "<a href='/AIV/18/10/7'>Job 10:7</a>; <a href='/AIV/19/44/21'>Ps. 44:21</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23139002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 139,
       "verse": 2,
       "text": "You know when I sit down and when I rise up; you understand my thoughts from far away.",
       "links": "<a href='/AIV/19/94/11'>Ps. 94:11</a>; <a href='/AIV/40/9/4'>Matt. 9:4</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23139003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 139,
       "verse": 3,
       "text": "You scrutinize my path and my lying down, and are acquainted with all my ways.",
       "links": "<a href='/AIV/18/31/4'>Job 31:4</a>; <a href='/AIV/19/121/8'>Ps. 121:8</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23139004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 139,
       "verse": 4,
       "text": "Even before a word is on my tongue, behold, O LORD, you know it completely.",
       "links": "<a href='/AIV/19/17/3'>Ps. 17:3</a>; <a href='/AIV/40/6/8'>Matt. 6:8</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23139005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 139,
       "verse": 5,
       "text": "You hem me in, behind and before, and you lay your hand upon me.",
       "links": "<a href='/AIV/19/34/7'>Ps. 34:7</a>; <a href='/AIV/02/13/22'>Ex. 13:22</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23139006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 139,
       "verse": 6,
       "text": "Such knowledge is too wonderful for me; it is too lofty, I cannot attain it.",
       "links": "<a href='/AIV/19/131/1'>Ps. 131:1</a>; <a href='/AIV/18/42/3'>Job 42:3</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23139007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 139,
       "verse": 7,
       "text": "Where can I go from your Spirit? Or where can I flee from your presence?",
       "links": "<a href='/AIV/19/51/11'>Ps. 51:11</a>; <a href='/AIV/24/23/24'>Jer. 23:24</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 23139008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 139,
       "verse": 8,
       "text": "If I ascend to heaven, you are there; if I make my bed in Sheol, behold, you are there.",
       "links": "<a href='/AIV/19/16/10'>Ps. 16:10</a>; <a href='/AIV/45/10/6-7'>Rom. 10:6-7</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 23139009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 139,
       "verse": 9,
       "text": "If I take the wings of the dawn, if I dwell in the uttermost parts of the sea,",
       "links": "<a href='/AIV/18/9/26'>Job 9:26</a>; <a href='/AIV/19/65/5'>Ps. 65:5</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 23139010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 139,
       "verse": 10,
       "text": "even there your hand will lead me, and your right hand will hold me fast.",
       "links": "<a href='/AIV/19/23/3'>Ps. 23:3</a>; <a href='/AIV/19/73/23'>Ps. 73:23</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 23139011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 139,
       "verse": 11,
       "text": "If I say, \"Surely the darkness will cover me, and the light around me will become night,\"",
       "links": "<a href='/AIV/19/18/11'>Ps. 18:11</a>; <a href='/AIV/19/74/20'>Ps. 74:20</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 23139012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 139,
       "verse": 12,
       "text": "even the darkness is not dark to you; the night shines like the day; for darkness and light are both alike to you.",
       "links": "<a href='/AIV/19/104/2'>Ps. 104:2</a>; <a href='/AIV/43/1/5'>John 1:5</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 23139013,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 139,
       "verse": 13,
       "text": "For you formed my inward parts; you knit me together in my mother’s womb.",
       "links": "<a href='/AIV/24/1/5'>Jer. 1:5</a>; <a href='/AIV/18/10/11-12'>Job 10:11-12</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 23139014,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 139,
       "verse": 14,
       "text": "I praise you, for I am fearfully and wonderfully made; wonderful are your works, and my soul knows it very well.",
       "links": "<a href='/AIV/01/1/27'>Gen. 1:27</a>; <a href='/AIV/19/104/24'>Ps. 104:24</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 23139015,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 139,
       "verse": 15,
       "text": "My frame was not hidden from you when I was made in secret, woven together in the depths of the earth.",
       "links": "<a href='/AIV/18/10/9'>Job 10:9</a>; <a href='/AIV/19/91/1'>Ps. 91:1</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 23139016,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 139,
       "verse": 16,
       "text": "Your eyes saw my unformed substance; in your book were written all the days that were formed for me, when none of them yet existed.",
       "links": "<a href='/AIV/19/56/8'>Ps. 56:8</a>; <a href='/AIV/66/20/12'>Rev. 20:12</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 23139017,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 139,
       "verse": 17,
       "text": "How precious to me are your thoughts, O God! How vast is the sum of them!",
       "links": "<a href='/AIV/19/92/5'>Ps. 92:5</a>; <a href='/AIV/19/40/5'>Ps. 40:5</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 23139018,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 139,
       "verse": 18,
       "text": "If I would count them, they are more than the sand. When I awake, I am still with you.",
       "links": "<a href='/AIV/01/22/17'>Gen. 22:17</a>; <a href='/AIV/19/17/15'>Ps. 17:15</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 23139019,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 139,
       "verse": 19,
       "text": "O that you would slay the wicked, O God! Away from me, you bloodthirsty men!",
       "links": "<a href='/AIV/19/119/115'>Ps. 119:115</a>; <a href='/AIV/19/5/6'>Ps. 5:6</a>",
@@ -238,11 +145,6 @@
     },
     {
       "pk": 23139020,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 139,
       "verse": 20,
       "text": "They speak against you with malicious intent; your enemies take your name in vain.",
       "links": "<a href='/AIV/02/20/7'>Ex. 20:7</a>; <a href='/AIV/19/74/18'>Ps. 74:18</a>",
@@ -250,11 +152,6 @@
     },
     {
       "pk": 23139021,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 139,
       "verse": 21,
       "text": "Do I not hate those who hate you, O LORD? And do I not loathe those who rise up against you?",
       "links": "<a href='/AIV/19/26/5'>Ps. 26:5</a>; <a href='/AIV/19/119/104'>Ps. 119:104</a>",
@@ -262,11 +159,6 @@
     },
     {
       "pk": 23139022,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 139,
       "verse": 22,
       "text": "I hate them with perfect hatred; I count them my enemies.",
       "links": "<a href='/AIV/19/139/21'>Ps. 139:21</a>; <a href='/AIV/19/119/158'>Ps. 119:158</a>",
@@ -274,11 +166,6 @@
     },
     {
       "pk": 23139023,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 139,
       "verse": 23,
       "text": "Search me, O God, and know my heart! Test me and know my anxious thoughts!",
       "links": "<a href='/AIV/19/26/2'>Ps. 26:2</a>; <a href='/AIV/19/7/9'>Ps. 7:9</a>",
@@ -286,38 +173,10 @@
     },
     {
       "pk": 23139024,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 139,
       "verse": 24,
       "text": "See if there is any wicked way in me, and lead me in the way everlasting.",
       "links": "<a href='/AIV/19/25/8-9'>Ps. 25:8-9</a>; <a href='/AIV/40/7/13-14'>Matt. 7:13-14</a>",
       "comment": "The psalm closes with a plea for sanctification and guidance toward eternal life. This is fulfilled completely in Christ, who proclaims Himself the Way (John 14:6) and leads believers to everlasting communion."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:46:52.039Z",
-  "sections": [
-    {
-      "title": "God’s Perfect Knowledge of Man",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "The Inescapable Presence of God",
-      "startVerse": 7,
-      "endVerse": 12
-    },
-    {
-      "title": "God’s Wonderful Work in Creation",
-      "startVerse": 13,
-      "endVerse": 18
-    },
-    {
-      "title": "A Prayer for Justice and Guidance",
-      "startVerse": 19,
-      "endVerse": 24
     }
   ]
 }

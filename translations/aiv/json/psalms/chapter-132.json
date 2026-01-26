@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 132,
   "verses": [
     {
       "pk": 23132001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 132,
       "verse": 1,
       "text": "LORD, remember David and all his hardships;",
       "links": "<a href='/AIV/13/17/23-27'>1 Chr. 17:23-27</a>; <a href='/AIV/19/89/47'>Ps. 89:47</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23132002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 132,
       "verse": 2,
       "text": "how he swore an oath to the LORD, and made a vow to the Mighty One of Jacob:",
       "links": "<a href='/AIV/10/7/1-2'>2 Sam. 7:1-2</a>; <a href='/AIV/19/24/6'>Ps. 24:6</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23132003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 132,
       "verse": 3,
       "text": "I will not enter my house, or get into my bed;",
       "links": "<a href='/AIV/19/132/5'>Ps. 132:5</a>; <a href='/AIV/19/69/35'>Ps. 69:35</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23132004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 132,
       "verse": 4,
       "text": "I will not allow sleep to my eyes or slumber to my eyelids,",
       "links": "<a href='/AIV/20/6/4'>Prov. 6:4</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23132005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 132,
       "verse": 5,
       "text": "until I find a place for the LORD, a dwelling for the Mighty One of Jacob.",
       "links": "<a href='/AIV/10/7/5-13'>2 Sam. 7:5-13</a>; <a href='/AIV/05/12/5'>Deut. 12:5</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23132006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 132,
       "verse": 6,
       "text": "Look, we heard of it in Ephrathah; we found it in the fields of Jaar.",
       "links": "<a href='/AIV/09/7/1'>1 Sam. 7:1</a>; <a href='/AIV/08/1/2'>Ruth 1:2</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23132007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 132,
       "verse": 7,
       "text": "Let us go to his dwelling place; let us worship at his footstool.",
       "links": "<a href='/AIV/13/28/2'>1 Chr. 28:2</a>; <a href='/AIV/19/99/5'>Ps. 99:5</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 23132008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 132,
       "verse": 8,
       "text": "Arise, O LORD, and go to your resting place, you and the ark of your might.",
       "links": "<a href='/AIV/04/10/35'>Num. 10:35</a>; <a href='/AIV/19/68/1'>Ps. 68:1</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 23132009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 132,
       "verse": 9,
       "text": "Let your priests be clothed with righteousness, and let your faithful shout for joy.",
       "links": "<a href='/AIV/19/132/16'>Ps. 132:16</a>; <a href='/AIV/02/28/2'>Ex. 28:2</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 23132010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 132,
       "verse": 10,
       "text": "For the sake of your servant David, do not turn away the face of your anointed one.",
       "links": "<a href='/AIV/19/89/20'>Ps. 89:20</a>; <a href='/AIV/10/7/13-16'>2 Sam. 7:13-16</a>",
@@ -127,11 +79,6 @@
     },
     {
       "pk": 23132011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 132,
       "verse": 11,
       "text": "The LORD swore a sure oath to David, and He will not turn from it: 'One of your own descendants I will set upon your throne.'",
       "links": "<a href='/AIV/10/7/12-16'>2 Sam. 7:12-16</a>; <a href='/AIV/42/1/32-33'>Luke 1:32-33</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 23132012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 132,
       "verse": 12,
       "text": "If your sons keep my covenant and my testimonies that I will teach them, their sons also shall sit on your throne forevermore.",
       "links": "<a href='/AIV/13/28/7'>1 Chr. 28:7</a>; <a href='/AIV/19/89/29-30'>Ps. 89:29-30</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 23132013,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 132,
       "verse": 13,
       "text": "For the LORD has chosen Zion; he has desired it as his dwelling:",
       "links": "<a href='/AIV/19/78/68-69'>Ps. 78:68-69</a>; <a href='/AIV/14/6/6'>2 Chr. 6:6</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 23132014,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 132,
       "verse": 14,
       "text": "'This is my resting place forever; here I will dwell, for I have desired it.'",
       "links": "<a href='/AIV/19/76/2'>Ps. 76:2</a>; <a href='/AIV/26/37/26-28'>Ezek. 37:26-28</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 23132015,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 132,
       "verse": 15,
       "text": "'I will abundantly bless her provisions; I will satisfy her poor with bread.'",
       "links": "<a href='/AIV/02/16/12-15'>Ex. 16:12-15</a>; <a href='/AIV/19/107/9'>Ps. 107:9</a>; <a href='/AIV/40/14/13-20'>Matt. 14:13-20</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 23132016,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 132,
       "verse": 16,
       "text": "'I will clothe her priests with salvation, and her faithful will shout for joy.'",
       "links": "<a href='/AIV/19/132/9'>Ps. 132:9</a>; <a href='/AIV/23/61/10'>Isa. 61:10</a>",
@@ -200,11 +122,6 @@
     },
     {
       "pk": 23132017,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 132,
       "verse": 17,
       "text": "'There I will make a horn to grow for David; I have prepared a lamp for my anointed one.'",
       "links": "<a href='/AIV/19/18/2'>Ps. 18:2</a>; <a href='/AIV/42/1/69'>Luke 1:69</a>",
@@ -212,28 +129,10 @@
     },
     {
       "pk": 23132018,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 132,
       "verse": 18,
       "text": "'His enemies I will clothe with shame, but on him his crown will shine.'",
       "links": "<a href='/AIV/19/89/44-45'>Ps. 89:44-45</a>; <a href='/AIV/19/21/3'>Ps. 21:3</a>",
       "comment": "The defeat of David’s enemies highlights the ultimate victory of God’s anointed. The perpetually shining crown indicates an everlasting kingdom—fulfilled in Christ the King, whose reign has no end."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:44:51.909Z",
-  "sections": [
-    {
-      "title": "David’s Oath to Find a Dwelling for the Lord",
-      "startVerse": 1,
-      "endVerse": 10
-    },
-    {
-      "title": "The Lord’s Promise and Blessing for David and Zion",
-      "startVerse": 11,
-      "endVerse": 18
     }
   ]
 }

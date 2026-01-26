@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 149,
   "verses": [
     {
       "pk": 23149001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 149,
       "verse": 1,
       "text": "Praise the LORD! Sing to the LORD a new song, his praise in the assembly of the faithful.",
       "links": "<a href='/AIV/19/40/3'>Ps. 40:3</a>; <a href='/AIV/19/98/1'>Ps. 98:1</a>; <a href='/AIV/66/5/9'>Rev. 5:9</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23149002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 149,
       "verse": 2,
       "text": "Let Israel rejoice in their Maker; let the children of Zion exult in their King.",
       "links": "<a href='/AIV/19/95/6'>Ps. 95:6</a>; <a href='/AIV/23/43/21'>Isa. 43:21</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23149003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 149,
       "verse": 3,
       "text": "Let them praise his name with dancing; let them make music to him with tambourine and lyre.",
       "links": "<a href='/AIV/19/150/4'>Ps. 150:4</a>; <a href='/AIV/2/15/20'>Ex. 15:20</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23149004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 149,
       "verse": 4,
       "text": "For the LORD takes pleasure in his people; he adorns the humble with salvation.",
       "links": "<a href='/AIV/19/35/27'>Ps. 35:27</a>; <a href='/AIV/20/3/34'>Prov. 3:34</a>; <a href='/AIV/40/5/3-5'>Matt. 5:3-5</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23149005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 149,
       "verse": 5,
       "text": "Let the faithful rejoice in glory; let them sing for joy on their beds.",
       "links": "<a href='/AIV/19/63/6'>Ps. 63:6</a>; <a href='/AIV/19/4/4'>Ps. 4:4</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23149006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 149,
       "verse": 6,
       "text": "May the high praises of God be in their mouths, and a double-edged sword in their hands,",
       "links": "<a href='/AIV/58/4/12'>Heb. 4:12</a>; <a href='/AIV/49/6/17'>Eph. 6:17</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 23149007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 149,
       "verse": 7,
       "text": "to execute vengeance on the nations and punishment on the peoples,",
       "links": "<a href='/AIV/19/2/9'>Ps. 2:9</a>; <a href='/AIV/66/2/26-27'>Rev. 2:26-27</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 23149008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 149,
       "verse": 8,
       "text": "to bind their kings with chains and their nobles with iron shackles,",
       "links": "<a href='/AIV/19/2/2'>Ps. 2:2</a>; <a href='/AIV/19/18/50'>Ps. 18:50</a>",
@@ -104,28 +66,10 @@
     },
     {
       "pk": 23149009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 149,
       "verse": 9,
       "text": "to carry out the written judgment against them—this honor is for all his faithful ones. Praise the LORD!",
       "links": "<a href='/AIV/19/97/8'>Ps. 97:8</a>; <a href='/AIV/40/19/28'>Matt. 19:28</a>; <a href='/AIV/66/20/4'>Rev. 20:4</a>",
       "comment": "The phrase 'written judgment' points to God’s established and revealed plan, already foretold in Scriptures. The honor shared by the faithful indicates participation in the fulfillment of God's promises—echoed in the New Testament, where believers are promised to reign with Christ (Matt. 19:28; Rev. 20:4)."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:49:57.036Z",
-  "sections": [
-    {
-      "title": "A New Song of Praise",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "The Triumph of God's Faithful",
-      "startVerse": 6,
-      "endVerse": 9
     }
   ]
 }

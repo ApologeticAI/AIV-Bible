@@ -1,16 +1,13 @@
 {
-  "book": 19,
+  "translation": "AIV",
+  "bookId": "esther",
   "bookName": "Esther",
   "bookAbbreviation": "Esth",
+  "bookNumber": 19,
   "chapter": 7,
   "verses": [
     {
       "pk": 19007001,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 7,
       "verse": 1,
       "text": "So the king and Haman came to have wine with Queen Esther.",
       "links": "<a href='/AIV/19/5/4'>Esth. 5:4</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 19007002,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 7,
       "verse": 2,
       "text": "On the second day, as they drank wine, the king again said to Esther, 'What is your petition, Queen Esther? It shall be granted you. And what is your request? Even up to half the kingdom, it will be done!'",
       "links": "<a href='/AIV/19/5/6'>Esth. 5:6</a>; <a href='/AIV/11/2/12'>1 Kgs. 2:12</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 19007003,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 7,
       "verse": 3,
       "text": "Then Queen Esther answered, 'If I have found favor in your eyes, O king, and if it pleases the king, let my life be granted me as my petition, and my people as my request.'",
       "links": "<a href='/AIV/19/8/5'>Esth. 8:5</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 19007004,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 7,
       "verse": 4,
       "text": "For we have been sold, I and my people, to be destroyed, killed, and annihilated. If we had only been sold as male and female slaves, I would have held my peace, for our trouble would not be worth troubling the king.'",
       "links": "<a href='/AIV/19/3/9'>Esth. 3:9</a>; <a href='/AIV/01/37/28'>Gen. 37:28</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 19007005,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 7,
       "verse": 5,
       "text": "King Ahasuerus said to Queen Esther, 'Who is he, and where is he, who has presumed to do this?'",
       "links": "<a href='/AIV/19/6/4'>Esth. 6:4</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 19007006,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 7,
       "verse": 6,
       "text": "And Esther said, 'A foe and enemy! This wicked Haman.' Then Haman was terrified before the king and queen.",
       "links": "<a href='/AIV/19/3/10'>Esth. 3:10</a>; <a href='/AIV/09/24/13'>1 Sam. 24:13</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 19007007,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 7,
       "verse": 7,
       "text": "The king rose in his anger from drinking wine and went into the palace garden, but Haman stayed to beg for his life from Queen Esther, for he saw that evil was determined against him by the king.",
       "links": "<a href='/AIV/01/41/37-39'>Gen. 41:37-39</a>",
@@ -93,11 +60,6 @@
     },
     {
       "pk": 19007008,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 7,
       "verse": 8,
       "text": "When the king returned from the palace garden to the place of the wine drinking, Haman was falling on the couch where Esther was. The king said, 'Will he even assault the queen in my presence, in my own house?' As the word left the king's mouth, they covered Haman's face.",
       "links": "<a href='/AIV/19/6/12'>Esth. 6:12</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 19007009,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 7,
       "verse": 9,
       "text": "Then Harbona, one of the eunuchs in attendance on the king, said, 'Behold, the gallows, fifty cubits high, which Haman made for Mordecai, whose word saved the king, stands at Haman's house.' And the king said, 'Hang him on it.'",
       "links": "<a href='/AIV/19/5/14'>Esth. 5:14</a>; <a href='/AIV/19/2/21-23'>Esth. 2:21-23</a>",
@@ -117,33 +74,10 @@
     },
     {
       "pk": 19007010,
-      "translation": "AIV",
-      "book": 19,
-      "bookName": "Esther",
-      "bookAbbreviation": "Esth",
-      "chapter": 7,
       "verse": 10,
       "text": "So they hanged Haman on the gallows he had prepared for Mordecai. Then the king’s anger abated.",
       "links": "<a href='/AIV/19/9/25'>Esth. 9:25</a>; <a href='/AIV/19/3/2'>Esth. 3:2</a>",
       "comment": "Divine justice is accomplished as the enemy’s scheme is reversed, a recurring theme that points symbolically to Christ’s ultimate victory over sin and death (see <a href='/AIV/45/8/28'>Rom. 8:28</a>). The narrative also contains a subtle lesson on the importance of mediation, justice, and the authority of those appointed to preserve the community."
-    }
-  ],
-  "translatedAt": "2025-12-24T05:10:25.918Z",
-  "sections": [
-    {
-      "title": "Esther's Petition",
-      "startVerse": 1,
-      "endVerse": 4
-    },
-    {
-      "title": "Haman Accused",
-      "startVerse": 5,
-      "endVerse": 6
-    },
-    {
-      "title": "Haman’s Downfall and Execution",
-      "startVerse": 7,
-      "endVerse": 10
     }
   ]
 }

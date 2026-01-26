@@ -1,16 +1,13 @@
 {
-  "book": 28,
+  "translation": "AIV",
+  "bookId": "sirach",
   "bookName": "Sirach",
   "bookAbbreviation": "Sir",
+  "bookNumber": 28,
   "chapter": 9,
   "verses": [
     {
       "pk": 28009001,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 9,
       "verse": 1,
       "text": "Do not be jealous over the wife of your heart, and do not teach her an evil lesson against yourself.",
       "links": "<a href='/AIV/20/6/34'>Prov. 6:34</a>; <a href='/AIV/20/5/15-20'>Prov. 5:15-20</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 28009002,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 9,
       "verse": 2,
       "text": "Do not give your soul to a woman so that she has power over your strength.",
       "links": "<a href='/AIV/7/16/15-21'>Judg. 16:15-21</a>; <a href='/AIV/20/31/3'>Prov. 31:3</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 28009003,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 9,
       "verse": 3,
       "text": "Do not meet with a harlot, lest you fall into her snares.",
       "links": "<a href='/AIV/20/7/21-23'>Prov. 7:21-23</a>; <a href='/AIV/20/5/8-10'>Prov. 5:8-10</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 28009004,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 9,
       "verse": 4,
       "text": "Do not keep company with a singing girl, lest you be caught by her tricks.",
       "links": "<a href='/AIV/20/6/25-29'>Prov. 6:25-29</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 28009005,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 9,
       "verse": 5,
       "text": "Do not stare at a virgin, lest you stumble and bring guilt upon yourself.",
       "links": "<a href='/AIV/40/5/28'>Matt. 5:28</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 28009006,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 9,
       "verse": 6,
       "text": "Do not give yourself to prostitutes, lest you lose your inheritance.",
       "links": "<a href='/AIV/20/29/3'>Prov. 29:3</a>; <a href='/AIV/46/6/9-10'>1 Cor. 6:9-10</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 28009007,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 9,
       "verse": 7,
       "text": "Do not look around in the streets of the city, or wander in its deserted places.",
       "links": "<a href='/AIV/20/7/8-12'>Prov. 7:8-12</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 28009008,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 9,
       "verse": 8,
       "text": "Turn your eyes away from a beautiful woman, and do not gaze upon another’s beauty; for many have been destroyed because of a woman, and through this passion, fire is kindled.",
       "links": "<a href='/AIV/20/6/25'>Prov. 6:25</a>; <a href='/AIV/40/5/28'>Matt. 5:28</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 28009009,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 9,
       "verse": 9,
       "text": "Do not sit at table with another man’s wife, or join her in drinking wine, lest your soul turn to her and you slide into destruction in your heart.",
       "links": "<a href='/AIV/20/23/31-33'>Prov. 23:31-33</a>; <a href='/AIV/24/5/8-9'>Jer. 5:8-9</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 28009010,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 9,
       "verse": 10,
       "text": "Do not abandon an old friend, for a new one cannot take his place. A new friend is like new wine; when it has aged, you will drink it with pleasure.",
       "links": "<a href='/AIV/20/27/10'>Prov. 27:10</a>; <a href='/AIV/40/9/17'>Matt. 9:17</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 28009011,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 9,
       "verse": 11,
       "text": "Do not envy the success of a sinner, for you do not know how his life will end.",
       "links": "<a href='/AIV/19/37/1-2'>Ps. 37:1-2</a>; <a href='/AIV/19/73/3-17'>Ps. 73:3-17</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 28009012,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 9,
       "verse": 12,
       "text": "Do not delight in what pleases the ungodly; remember that they will not go unpunished all their lives.",
       "links": "<a href='/AIV/23/1/1'>Ps. 1:1</a>; <a href='/AIV/24/11/21'>Prov. 11:21</a>; <a href='/AIV/27/5/1'>Wis. 5:1</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 28009013,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 9,
       "verse": 13,
       "text": "Keep far from those who have power to kill, and you will not be haunted by the fear of death. But if you approach them, be careful not to make a misstep, or they may rob you of your life. Know that you are walking among snares, and that you tread on the city battlements.",
       "links": "<a href='/AIV/24/22/3'>Prov. 22:3</a>; <a href='/AIV/25/7/17'>Eccl. 7:17</a>; <a href='/AIV/47/10/28'>Matt. 10:28</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 28009014,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 9,
       "verse": 14,
       "text": "As much as you are able, seek to know your neighbors, and consult with the wise.",
       "links": "<a href='/AIV/24/13/20'>Prov. 13:20</a>; <a href='/AIV/57/2/4'>Phil. 2:4</a>; <a href='/AIV/65/13/7'>Heb. 13:7</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 28009015,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 9,
       "verse": 15,
       "text": "Speak with wise people, and all your conversation should be on the Law of the Most High.",
       "links": "<a href='/AIV/19/1/2'>Ps. 1:2</a>; <a href='/AIV/40/22/36-40'>Matt. 22:36-40</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 28009016,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 9,
       "verse": 16,
       "text": "Let the righteous be your dinner companions, and let your glory be in the fear of the Lord.",
       "links": "<a href='/AIV/23/1/1'>Ps. 1:1</a>; <a href='/AIV/24/9/10'>Prov. 9:10</a>; <a href='/AIV/54/6/14'>2Cor. 6:14</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 28009017,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 9,
       "verse": 17,
       "text": "A work is praised for the skill of its artisan; so a people's leader is proved wise by his words.",
       "links": "<a href='/AIV/24/12/8'>Prov. 12:8</a>; <a href='/AIV/25/10/12'>Eccl. 10:12</a>; <a href='/AIV/47/7/20'>Matt. 7:20</a>",
@@ -213,33 +130,10 @@
     },
     {
       "pk": 28009018,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 9,
       "verse": 18,
       "text": "The loud-mouthed are feared in their city, and the one who is reckless in speech is hated.",
       "links": "<a href='/AIV/24/29/11'>Prov. 29:11</a>; <a href='/AIV/66/3/6'>Jas. 3:6</a>; <a href='/AIV/24/10/19'>Prov. 10:19</a>",
       "comment": "Sirach observes the social danger posed by reckless and provocative speech, warning that such behavior breeds fear and animosity in the community, echoing the biblical critique of foolish talk (cf. Prov 29:11)."
-    }
-  ],
-  "translatedAt": "2025-12-28T02:27:32.441Z",
-  "sections": [
-    {
-      "title": "Warnings Against Lust and Women",
-      "startVerse": 1,
-      "endVerse": 9
-    },
-    {
-      "title": "Friendship and Human Relationships",
-      "startVerse": 10,
-      "endVerse": 12
-    },
-    {
-      "title": "Seeking Wisdom and the Company of the Righteous",
-      "startVerse": 13,
-      "endVerse": 18
     }
   ]
 }

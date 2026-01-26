@@ -1,16 +1,13 @@
 {
-  "book": 9,
+  "translation": "AIV",
+  "bookId": "1-samuel",
   "bookName": "1 Samuel",
-  "bookAbbreviation": "1Sam",
+  "bookAbbreviation": "1 Sam",
+  "bookNumber": 9,
   "chapter": 4,
   "verses": [
     {
       "pk": 9004001,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 4,
       "verse": 1,
       "text": "And the word of Samuel came to all Israel. Now Israel went out to meet the Philistines in battle and camped at Ebenezer, while the Philistines camped at Aphek.",
       "links": "<a href='/AIV/9/3/19'>1Sam 3:19</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 9004002,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 4,
       "verse": 2,
       "text": "The Philistines lined up to face Israel. When the battle spread, Israel was defeated by the Philistines, who killed about four thousand men on the battlefield.",
       "links": "<a href='/AIV/7/13/1-2'>Judg. 13:1-2</a>; <a href='/AIV/9/4/10'>1Sam 4:10</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 9004003,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 4,
       "verse": 3,
       "text": "When the people came back to camp, the elders of Israel said, 'Why has the LORD defeated us today before the Philistines? Let us bring the ark of the covenant of the LORD from Shiloh, so that it may come among us and save us from the hand of our enemies.'",
       "links": "<a href='/AIV/6/6/6'>Josh. 6:6</a>; <a href='/AIV/9/2/22'>1Sam 2:22</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 9004004,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 4,
       "verse": 4,
       "text": "So the people sent to Shiloh, and they brought from there the ark of the covenant of the LORD of hosts, who is enthroned above the cherubim. The two sons of Eli, Hophni and Phinehas, were there with the ark of the covenant of God.",
       "links": "<a href='/AIV/9/2/12'>1Sam 2:12</a>; <a href='/AIV/2/25/22'>Ex. 25:22</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 9004005,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 4,
       "verse": 5,
       "text": "When the ark of the covenant of the LORD entered the camp, all Israel shouted with a great shout, so that the earth shook.",
       "links": "<a href='/AIV/6/6/20'>Josh. 6:20</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 9004006,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 4,
       "verse": 6,
       "text": "And when the Philistines heard the noise of the shouting, they said, 'What does this great shouting in the camp of the Hebrews mean?' Then they understood that the ark of the LORD had come into the camp.",
       "links": "<a href='/AIV/9/4/3'>1Sam 4:3</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 9004007,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 4,
       "verse": 7,
       "text": "The Philistines were afraid, for they said, 'God has come into the camp.' And they said, 'Woe to us! For nothing like this has happened before.'",
       "links": "<a href='/AIV/2/14/25'>Ex. 14:25</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 9004008,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 4,
       "verse": 8,
       "text": "'Woe to us! Who can deliver us from the hand of these mighty gods? These are the gods who struck the Egyptians with every kind of plague in the wilderness.'",
       "links": "<a href='/AIV/2/7/20'>Ex. 7:20</a>; <a href='/AIV/2/12/29'>Ex. 12:29</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 9004009,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 4,
       "verse": 9,
       "text": "'Take courage and be men, O Philistines, lest you become slaves to the Hebrews as they have been to you. Be men and fight!'",
       "links": "<a href='/AIV/2/1/13-14'>Ex. 1:13-14</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 9004010,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 4,
       "verse": 10,
       "text": "So the Philistines fought, and Israel was defeated; every man fled to his tent. The slaughter was very great, for Israel lost thirty thousand foot soldiers.",
       "links": "<a href='/AIV/5/28/25'>Deut. 28:25</a>; <a href='/AIV/19/78/60-62'>Ps. 78:60-62</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 9004011,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 4,
       "verse": 11,
       "text": "The ark of God was captured, and the two sons of Eli, Hophni and Phinehas, died.",
       "links": "<a href='/AIV/9/2/34'>1Sam 2:34</a>; <a href='/AIV/19/78/61'>Ps. 78:61</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 9004012,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 4,
       "verse": 12,
       "text": "A Benjaminite ran from the battle line to Shiloh that same day, with his clothes torn and dust on his head.",
       "links": "<a href='/AIV/10/1/2'>2Sam 1:2</a>; <a href='/AIV/6/7/6'>Josh. 7:6</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 9004013,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 4,
       "verse": 13,
       "text": "When he arrived, Eli was sitting on his chair by the road, watching, for his heart trembled for the ark of God. When the man entered the city and told the news, all the city cried out.",
       "links": "<a href='/AIV/9/1/9'>1Sam 1:9</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 9004014,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 4,
       "verse": 14,
       "text": "When Eli heard the sound of the outcry, he said, 'What is this uproar?' Then the man hurried and told Eli.",
       "links": "<a href='/AIV/9/3/15-18'>1Sam 3:15-18</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 9004015,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 4,
       "verse": 15,
       "text": "Now Eli was ninety-eight years old, and his eyes were set so he could not see.",
       "links": "<a href='/AIV/1/27/1'>Gen. 27:1</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 9004016,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 4,
       "verse": 16,
       "text": "The man said to Eli, 'I am the one who has come from the battle line. I fled from the battle line today.' And he said, 'How did it go, my son?'",
       "links": "<a href='/AIV/10/1/2'>2Sam. 1:2-4</a>; <a href='/AIV/30/51/31'>Jer. 51:31</a>; <a href='/AIV/22/1/14'>Job. 1:14-15</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 9004017,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 4,
       "verse": 17,
       "text": "He answered, 'Israel has fled before the Philistines, and there has also been a great defeat among the people. Your two sons also are dead, and the ark of God has been captured.'",
       "links": "<a href='/AIV/9/2/34'>1Sam 2:34</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 9004018,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 4,
       "verse": 18,
       "text": "As soon as he mentioned the ark of God, Eli fell backward off his chair by the city gate and his neck was broken and he died, for he was old and heavy. He had judged Israel forty years.",
       "links": "<a href='/AIV/7/3/11'>Judg. 3:11</a>; <a href='/AIV/9/7/15'>1Sam 7:15</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 9004019,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 4,
       "verse": 19,
       "text": "Now his daughter-in-law, the wife of Phinehas, was pregnant, about to give birth. When she heard the news that the ark of God was taken, and that her father-in-law and her husband were dead, she knelt down and gave birth, for her pains came upon her.",
       "links": "<a href='/AIV/1/35/16-19'>Gen. 35:16-19</a>",
@@ -238,11 +145,6 @@
     },
     {
       "pk": 9004020,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 4,
       "verse": 20,
       "text": "As she was dying, the women attending her said, 'Do not be afraid, for you have given birth to a son.' But she did not answer or pay attention.",
       "links": "<a href='/AIV/1/35/18'>Gen. 35:18</a>",
@@ -250,11 +152,6 @@
     },
     {
       "pk": 9004021,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 4,
       "verse": 21,
       "text": "She named the boy Ichabod, saying, 'The glory has departed from Israel!' because the ark of God was captured and because of her father-in-law and her husband.",
       "links": "<a href='/AIV/9/14/3'>1Sam 14:3</a>; <a href='/AIV/19/78/61-62'>Ps. 78:61-62</a>",
@@ -262,38 +159,10 @@
     },
     {
       "pk": 9004022,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 4,
       "verse": 22,
       "text": "She said, 'The glory has departed from Israel, for the ark of God has been captured.'",
       "links": "<a href='/AIV/9/4/21'>1Sam 4:21</a>",
       "comment": "The repeated declaration underscores the spiritual crisis. Biblically, God’s glory is later revealed not through the ark, but through His living presence and ultimately in Christ, who bore the loss for the sake of redemption (<a href='/AIV/43/1/14'>John 1:14</a>)."
-    }
-  ],
-  "translatedAt": "2025-12-24T02:50:53.464Z",
-  "sections": [
-    {
-      "title": "The Ark Brought from Shiloh",
-      "startVerse": 1,
-      "endVerse": 9
-    },
-    {
-      "title": "The Ark Captured by the Philistines",
-      "startVerse": 10,
-      "endVerse": 11
-    },
-    {
-      "title": "The Death of Eli",
-      "startVerse": 12,
-      "endVerse": 18
-    },
-    {
-      "title": "The Birth of Ichabod",
-      "startVerse": 19,
-      "endVerse": 22
     }
   ]
 }

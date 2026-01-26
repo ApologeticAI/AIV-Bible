@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 19,
   "verses": [
     {
       "pk": 23019001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 19,
       "verse": 1,
       "text": "The heavens declare the glory of God, and the sky proclaims the work of his hands.",
       "links": "<a href='/AIV/1/1/1'>Gen. 1:1</a>; <a href='/AIV/18/36/24-26'>Job 36:24–26</a>; <a href='/AIV/19/8/3'>Ps. 8:3</a>; <a href='/AIV/45/1/20'>Rom. 1:20</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23019002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 19,
       "verse": 2,
       "text": "Day after day pours out speech, and night after night reveals knowledge.",
       "links": "<a href='/AIV/18/12/7-9'>Job 12:7–9</a>; <a href='/AIV/19/104/24'>Ps. 104:24</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23019003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 19,
       "verse": 3,
       "text": "There is no speech and there are no words; their voice is not heard.",
       "links": "<a href='/AIV/45/10/18'>Rom. 10:18</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23019004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 19,
       "verse": 4,
       "text": "Their measuring line has gone out through all the earth, and their words to the ends of the world. In them he has set a tent for the sun,",
       "links": "<a href='/AIV/19/104/2'>Ps. 104:2</a>; <a href='/AIV/45/10/18'>Rom. 10:18</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23019005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 19,
       "verse": 5,
       "text": "which comes out like a bridegroom leaving his chamber, rejoicing like a strong man to run its course.",
       "links": "<a href='/AIV/19/45/1'>Ps. 45:1</a>; <a href='/AIV/19/104/19'>Ps. 104:19</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23019006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 19,
       "verse": 6,
       "text": "Its rising is from one end of the heavens, and its circuit to the other end; nothing is hidden from its heat.",
       "links": "<a href='/AIV/19/104/19-23'>Ps. 104:19-23</a>; <a href='/AIV/39/4/2'>Mal. 4:2</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23019007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 19,
       "verse": 7,
       "text": "The law of the LORD is perfect, restoring the soul; the testimony of the LORD is trustworthy, making wise the simple.",
       "links": "<a href='/AIV/19/119/1'>Ps. 119:1</a>; <a href='/AIV/2/20/1-17'>Ex. 20:1-17</a>; <a href='/AIV/19/119/130'>Ps. 119:130</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 23019008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 19,
       "verse": 8,
       "text": "The precepts of the LORD are right, rejoicing the heart; the commandment of the LORD is pure, enlightening the eyes.",
       "links": "<a href='/AIV/19/119/14'>Ps. 119:14</a>; <a href='/AIV/19/119/105'>Ps. 119:105</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 23019009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 19,
       "verse": 9,
       "text": "The fear of the LORD is clean, enduring forever; the judgments of the LORD are true; they are righteous altogether.",
       "links": "<a href='/AIV/19/111/10'>Ps. 111:10</a>; <a href='/AIV/19/119/160'>Ps. 119:160</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 23019010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 19,
       "verse": 10,
       "text": "More to be desired are they than gold, even much pure gold; sweeter also than honey and drippings from the honeycomb.",
       "links": "<a href='/AIV/19/119/72'>Ps. 119:72</a>; <a href='/AIV/19/119/103'>Ps. 119:103</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 23019011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 19,
       "verse": 11,
       "text": "By them your servant is warned; in keeping them there is great reward.",
       "links": "<a href='/AIV/19/119/11'>Ps. 119:11</a>; <a href='/AIV/19/119/47'>Ps. 119:47</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 23019012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 19,
       "verse": 12,
       "text": "Who can discern his own errors? Cleanse me from hidden faults.",
       "links": "<a href='/AIV/19/139/23-24'>Ps. 139:23-24</a>; <a href='/AIV/1/6/5'>Gen. 6:5</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 23019013,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 19,
       "verse": 13,
       "text": "Keep your servant also from presumptuous sins; let them not have dominion over me. Then I shall be blameless, and innocent of great transgression.",
       "links": "<a href='/AIV/19/119/133'>Ps. 119:133</a>; <a href='/AIV/19/18/23'>Ps. 18:23</a>",
@@ -165,33 +102,10 @@
     },
     {
       "pk": 23019014,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 19,
       "verse": 14,
       "text": "Let the words of my mouth and the meditation of my heart be acceptable in your sight, O LORD, my rock and my redeemer.",
       "links": "<a href='/AIV/19/104/34'>Ps. 104:34</a>; <a href='/AIV/55/2/19'>2 Tim. 2:19</a>",
       "comment": "This closing prayer reflects ancient Israel's understanding that true worship involves both speech and inner thought, seeking alignment with God's holiness; calling God 'my rock and redeemer' echoes Psalm 18:2, highlighting divine protection and salvation as the foundation for moral integrity."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:04:52.633Z",
-  "sections": [
-    {
-      "title": "Creation Proclaims God's Glory",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "The Excellence of God's Law",
-      "startVerse": 7,
-      "endVerse": 11
-    },
-    {
-      "title": "Prayer for Purity and Guidance",
-      "startVerse": 12,
-      "endVerse": 14
     }
   ]
 }

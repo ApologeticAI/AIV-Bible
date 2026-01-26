@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 52,
   "verses": [
     {
       "pk": 23052001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 52,
       "verse": 1,
       "text": "Why do you boast in evil, O mighty man? The steadfast love of God endures all day long.",
       "links": "<a href='/AIV/19/36/5'>Ps. 36:5</a>; <a href='/AIV/19/107/1'>Ps. 107:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23052002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 52,
       "verse": 2,
       "text": "Your tongue plots destruction, like a sharp razor, working treachery.",
       "links": "<a href='/AIV/19/57/4'>Ps. 57:4</a>; <a href='/AIV/20/12/18'>Prov. 12:18</a>; <a href='/AIV/59/3/6'>James 3:6</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23052003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 52,
       "verse": 3,
       "text": "You love evil more than good, and lying more than speaking what is right.",
       "links": "<a href='/AIV/19/34/13'>Ps. 34:13</a>; <a href='/AIV/19/120/2'>Ps. 120:2</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23052004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 52,
       "verse": 4,
       "text": "You love all words that devour, O deceitful tongue.",
       "links": "<a href='/AIV/19/5/9'>Ps. 5:9</a>; <a href='/AIV/20/26/28'>Prov. 26:28</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23052005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 52,
       "verse": 5,
       "text": "But God will break you down forever; He will seize you and tear you away from your tent; He will uproot you from the land of the living.",
       "links": "<a href='/AIV/19/27/13'>Ps. 27:13</a>; <a href='/AIV/19/52/7'>Ps. 52:7</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 23052006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 52,
       "verse": 6,
       "text": "The righteous will see and fear, and will laugh at him, saying:",
       "links": "<a href='/AIV/19/37/13'>Ps. 37:13</a>; <a href='/AIV/19/40/3'>Ps. 40:3</a>; <a href='/AIV/20/3/34'>Prov. 3:34</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 23052007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 52,
       "verse": 7,
       "text": "‘See the man who did not make God his refuge, but trusted in the abundance of his riches and sought strength in his destruction!’",
       "links": "<a href='/AIV/19/49/6-7'>Ps. 49:6-7</a>; <a href='/AIV/19/62/10'>Ps. 62:10</a>; <a href='/AIV/42/12/21'>Luke 12:21</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 23052008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 52,
       "verse": 8,
       "text": "But I am like a green olive tree in the house of God; I trust in the steadfast love of God forever and ever.",
       "links": "<a href='/AIV/19/92/12-13'>Ps. 92:12-13</a>; <a href='/AIV/19/1/3'>Ps. 1:3</a>; <a href='/AIV/45/11/17'>Rom. 11:17</a>",
@@ -105,33 +67,10 @@
     },
     {
       "pk": 23052009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 52,
       "verse": 9,
       "text": "I will thank You forever, because You have done it; I will hope in Your Name, for it is good, in the presence of Your faithful ones.",
       "links": "<a href='/AIV/19/30/12'>Ps. 30:12</a>; <a href='/AIV/19/79/13'>Ps. 79:13</a>; <a href='/AIV/19/135/1-2'>Ps. 135:1-2</a>",
       "comment": "The psalm closes with praise and confidence in the goodness of God. 'In the presence of Your faithful ones' points not just to individual worship, but the importance of joined worship with God’s people, a reflection of lasting communion that transcends this world. The emphasis on 'forever' and 'faithful ones' prefigures the Christian understanding of the gathered body of believers glorifying God together."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:16:55.815Z",
-  "sections": [
-    {
-      "title": "The Folly of the Boastful Evildoer",
-      "startVerse": 1,
-      "endVerse": 4
-    },
-    {
-      "title": "The Fate of the Wicked and the Hope of the Righteous",
-      "startVerse": 5,
-      "endVerse": 7
-    },
-    {
-      "title": "Trust in God’s Steadfast Love",
-      "startVerse": 8,
-      "endVerse": 9
     }
   ]
 }

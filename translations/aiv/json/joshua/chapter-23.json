@@ -1,16 +1,13 @@
 {
-  "book": 6,
+  "translation": "AIV",
+  "bookId": "joshua",
   "bookName": "Joshua",
   "bookAbbreviation": "Josh",
+  "bookNumber": 6,
   "chapter": 23,
   "verses": [
     {
       "pk": 6023001,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 23,
       "verse": 1,
       "text": "After a long time had passed, and the Lord had given Israel rest from all their enemies on every side, and Joshua was old and advanced in years,",
       "links": "<a href='/AIV/06/21/44'>Josh. 21:44</a>; <a href='/AIV/07/2/18'>Judg. 2:18</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 6023002,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 23,
       "verse": 2,
       "text": "Joshua called for all Israel, for their elders, heads, judges, and officers, and said to them, 'I am old and advanced in age.'",
       "links": "<a href='/AIV/05/31/2'>Deut. 31:2</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 6023003,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 23,
       "verse": 3,
       "text": "'You have seen all that the Lord your God has done to all these nations for your sake, for it is the Lord your God who has fought for you.'",
       "links": "<a href='/AIV/02/14/14'>Ex. 14:14</a>; <a href='/AIV/05/20/4'>Deut. 20:4</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 6023004,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 23,
       "verse": 4,
       "text": "'See, I have allotted to you these nations that remain, along with all the nations I have already cut off, as an inheritance for your tribes, from the Jordan to the Great Sea in the west.'",
       "links": "<a href='/AIV/06/13/6-7'>Josh. 13:6-7</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 6023005,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 23,
       "verse": 5,
       "text": "'The Lord your God will push them out before you and drive them out from your sight, and you shall possess their land, just as the Lord your God promised you.'",
       "links": "<a href='/AIV/02/23/30'>Ex. 23:30</a>; <a href='/AIV/05/7/22'>Deut. 7:22</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 6023006,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 23,
       "verse": 6,
       "text": "'So be very strong to guard and to do all that is written in the Book of the Law of Moses, turning aside from it neither to the right nor to the left,'",
       "links": "<a href='/AIV/05/5/32'>Deut. 5:32</a>; <a href='/AIV/06/1/7'>Josh. 1:7</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 6023007,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 23,
       "verse": 7,
       "text": "'so that you do not mix with these nations that remain among you, nor mention the names of their gods, or swear by them, or serve them, or bow down to them.'",
       "links": "<a href='/AIV/02/23/13'>Ex. 23:13</a>; <a href='/AIV/05/7/3-4'>Deut. 7:3-4</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 6023008,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 23,
       "verse": 8,
       "text": "'But you shall cling to the Lord your God, just as you have done to this day.'",
       "links": "<a href='/AIV/05/10/20'>Deut. 10:20</a>; <a href='/AIV/06/22/5'>Josh. 22:5</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 6023009,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 23,
       "verse": 9,
       "text": "'For the Lord has driven out great and powerful nations before you; and as for you, no one has been able to stand against you to this day.'",
       "links": "<a href='/AIV/02/23/27'>Ex. 23:27</a>; <a href='/AIV/06/1/5'>Josh. 1:5</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 6023010,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 23,
       "verse": 10,
       "text": "'One man of you puts a thousand to flight, because it is the Lord your God who fights for you, as He promised you.'",
       "links": "<a href='/AIV/03/26/8'>Lev. 26:8</a>; <a href='/AIV/05/32/30'>Deut. 32:30</a>",
@@ -127,11 +79,6 @@
     },
     {
       "pk": 6023011,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 23,
       "verse": 11,
       "text": "'So be very careful, therefore, to love the Lord your God.'",
       "links": "<a href='/AIV/05/6/5'>Deut. 6:5</a>; <a href='/AIV/40/22/37'>Matt. 22:37</a>",
@@ -139,11 +86,6 @@
     },
     {
       "pk": 6023012,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 23,
       "verse": 12,
       "text": "'But if you turn back and cling to the remnant of these nations that remain among you, and form marriages with them, associating with them and they with you,",
       "links": "<a href='/AIV/02/34/15-16'>Ex. 34:15-16</a>; <a href='/AIV/05/7/3'>Deut. 7:3</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 6023013,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 23,
       "verse": 13,
       "text": "'know for certain that the Lord your God will no longer drive out these nations before you. Instead, they will be a snare and a trap for you, a whip on your sides and thorns in your eyes, until you perish from this good land the Lord your God has given you.'",
       "links": "<a href='/AIV/04/33/55'>Num. 33:55</a>; <a href='/AIV/07/2/3'>Judg. 2:3</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 6023014,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 23,
       "verse": 14,
       "text": "'Now I am about to go the way of all the earth, and you know with all your heart and soul that not one word has failed of all the good things the Lord your God promised concerning you. All have come to pass. Not a single word has failed.'",
       "links": "<a href='/AIV/11/2/2'>1 Kgs. 2:2</a>; <a href='/AIV/06/21/45'>Josh. 21:45</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 6023015,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 23,
       "verse": 15,
       "text": "'But just as all the good things the Lord your God promised concerning you have been fulfilled, so will the Lord bring upon you all the evil things, until He has destroyed you from off this good land that He has given you, if you transgress the covenant of the Lord your God, which He commanded you, and serve other gods and bow down to them.'",
       "links": "<a href='/AIV/03/26/14-39'>Lev. 26:14-39</a>; <a href='/AIV/05/28/15-68'>Deut. 28:15-68</a>",
@@ -188,28 +115,10 @@
     },
     {
       "pk": 6023016,
-      "translation": "AIV",
-      "book": 6,
-      "bookName": "Joshua",
-      "bookAbbreviation": "Josh",
-      "chapter": 23,
       "verse": 16,
       "text": "'Then the anger of the Lord will burst against you, and you will soon perish from the good land He has given you, if you break the covenant of the Lord your God by serving other gods and bowing down to them.'",
       "links": "<a href='/AIV/05/29/25-28'>Deut. 29:25-28</a>; <a href='/AIV/09/12/15'>1 Sam. 12:15</a>",
       "comment": "This final warning underlines both God’s justice and the danger of apostasy. It challenges God’s people to persevere in both faith and practice, highlighting the communal nature of faith that is sustained through adherence to divinely instituted leadership, teaching, and sacramental life (see Heb. 10:23-25 for parallels in the New Covenant)."
-    }
-  ],
-  "translatedAt": "2025-12-24T02:29:14.996Z",
-  "sections": [
-    {
-      "title": "Joshua’s Farewell Address",
-      "startVerse": 1,
-      "endVerse": 11
-    },
-    {
-      "title": "Warning Against Apostasy",
-      "startVerse": 12,
-      "endVerse": 16
     }
   ]
 }

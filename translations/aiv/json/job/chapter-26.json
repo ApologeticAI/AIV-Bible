@@ -1,16 +1,13 @@
 {
-  "book": 22,
+  "translation": "AIV",
+  "bookId": "job",
   "bookName": "Job",
   "bookAbbreviation": "Job",
+  "bookNumber": 22,
   "chapter": 26,
   "verses": [
     {
       "pk": 22026001,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 26,
       "verse": 1,
       "text": "Then Job answered and said:",
       "links": "<a href='/AIV/22/27/1'>Job 27:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 22026002,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 26,
       "verse": 2,
       "text": "How you have helped the powerless! How you have saved the arm that is without strength!",
       "links": "<a href='/AIV/22/6/12'>Job 6:12</a>; <a href='/AIV/19/10/17'>Ps. 10:17</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 22026003,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 26,
       "verse": 3,
       "text": "How you have advised him who has no wisdom, and abundantly declared true knowledge!",
       "links": "<a href='/AIV/22/12/2'>Job 12:2</a>; <a href='/AIV/20/19/7'>Prov. 19:7</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 22026004,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 26,
       "verse": 4,
       "text": "To whom have you spoken words? Whose spirit came out from you?",
       "links": "<a href='/AIV/22/32/8'>Job 32:8</a>; <a href='/AIV/23/11/2'>Isa. 11:2</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 22026005,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 26,
       "verse": 5,
       "text": "The dead tremble, those beneath the waters and those who dwell in them.",
       "links": "<a href='/AIV/22/38/16'>Job 38:16-17</a>; <a href='/AIV/19/88/10'>Ps. 88:10</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 22026006,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 26,
       "verse": 6,
       "text": "Sheol is naked before God, and Abaddon has no covering.",
       "links": "<a href='/AIV/22/28/22'>Job 28:22</a>; <a href='/AIV/66/9/11'>Rev. 9:11</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 22026007,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 26,
       "verse": 7,
       "text": "He stretches out the north over empty space, and hangs the earth upon nothing.",
       "links": "<a href='/AIV/19/104/2'>Ps. 104:2</a>; <a href='/AIV/01/1/1'>Gen. 1:1</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 22026008,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 26,
       "verse": 8,
       "text": "He binds up the waters in His thick clouds, yet the cloud is not torn under them.",
       "links": "<a href='/AIV/22/37/11'>Job 37:11</a>; <a href='/AIV/19/135/7'>Ps. 135:7</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 22026009,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 26,
       "verse": 9,
       "text": "He covers the face of the moon and spreads His cloud over it.",
       "links": "<a href='/AIV/22/36/29'>Job 36:29</a>; <a href='/AIV/19/147/8'>Ps. 147:8</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 22026010,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 26,
       "verse": 10,
       "text": "He has inscribed a circle on the surface of the waters, at the boundary between light and darkness.",
       "links": "<a href='/AIV/22/38/8-11'>Job 38:8-11</a>; <a href='/AIV/01/1/4-5'>Gen. 1:4-5</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 22026011,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 26,
       "verse": 11,
       "text": "The pillars of heaven tremble and are astonished at His rebuke.",
       "links": "<a href='/AIV/19/18/7-15'>Ps. 18:7-15</a>; <a href='/AIV/22/9/6'>Job 9:6</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 22026012,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 26,
       "verse": 12,
       "text": "By His power He calms the sea; by His understanding He shattered Rahab.",
       "links": "<a href='/AIV/19/89/10'>Ps. 89:10</a>; <a href='/AIV/22/9/13'>Job 9:13</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 22026013,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 26,
       "verse": 13,
       "text": "By His breath the heavens are made clear; His hand has pierced the fleeing serpent.",
       "links": "<a href='/AIV/01/3/15'>Gen. 3:15</a>; <a href='/AIV/66/12/9'>Rev. 12:9</a>",
@@ -164,28 +101,10 @@
     },
     {
       "pk": 22026014,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 26,
       "verse": 14,
       "text": "Behold, these are but the outer edges of His ways; how faint the whisper we hear of Him! Who can understand the thunder of His power?",
       "links": "<a href='/AIV/22/36/26'>Job 36:26</a>; <a href='/AIV/23/40/26'>Isa. 40:26</a>",
       "comment": "Job acknowledges that even what we perceive of God's work is only a faint hint; His full majesty is beyond human grasp. This drives us to deepen reverence and yearn for a more intimate participation in God’s mysteries through the means He has established."
-    }
-  ],
-  "translatedAt": "2025-12-24T05:50:36.889Z",
-  "sections": [
-    {
-      "title": "Job Rebukes His Friends' Counsel",
-      "startVerse": 1,
-      "endVerse": 4
-    },
-    {
-      "title": "The Majesty of God in Creation",
-      "startVerse": 5,
-      "endVerse": 14
     }
   ]
 }

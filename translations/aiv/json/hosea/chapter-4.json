@@ -1,16 +1,13 @@
 {
-  "book": 35,
+  "translation": "AIV",
+  "bookId": "hosea",
   "bookName": "Hosea",
   "bookAbbreviation": "Hos",
+  "bookNumber": 35,
   "chapter": 4,
   "verses": [
     {
       "pk": 35004001,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 4,
       "verse": 1,
       "text": "Hear the word of the LORD, people of Israel! For the LORD has a case against those who live in the land: There is no truth, no lovingkindness, and no knowledge of God in the land.",
       "links": "<a href='/AIV/23/1/2'>Isa. 1:2</a>; <a href='/AIV/19/12/1'>Ps. 12:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 35004002,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 4,
       "verse": 2,
       "text": "There is only cursing, lying, murder, stealing, and adultery; they break all bounds, and bloodshed follows bloodshed.",
       "links": "<a href='/AIV/2/20/13-16'>Ex. 20:13-16</a>; <a href='/AIV/19/106/38'>Ps. 106:38</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 35004003,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 4,
       "verse": 3,
       "text": "Therefore the land mourns, and all who live in it waste away, along with the beasts of the field, the birds of the sky, and even the fish of the sea are taken away.",
       "links": "<a href='/AIV/1/3/17'>Gen. 3:17</a>; <a href='/AIV/24/4/25'>Jer. 4:25</a>; <a href='/AIV/45/8/22'>Rom. 8:22</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 35004004,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 4,
       "verse": 4,
       "text": "Yet let no one contend, and let none accuse, for your people are like those who contend with the priest.",
       "links": "<a href='/AIV/16/13/29'>Neh. 13:29</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 35004005,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 4,
       "verse": 5,
       "text": "You will stumble by day, and the prophet also will stumble with you by night; and I will destroy your mother.",
       "links": "<a href='/AIV/23/28/7'>Isa. 28:7</a>; <a href='/AIV/19/35/14'>Ps. 35:14</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 35004006,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 4,
       "verse": 6,
       "text": "My people are destroyed for lack of knowledge. Because you have rejected knowledge, I also reject you as my priests. Since you have forgotten the law of your God, I will forget your children.",
       "links": "<a href='/AIV/24/5/4'>Jer. 5:4</a>; <a href='/AIV/2/19/6'>Ex. 19:6</a>; <a href='/AIV/60/2/9'>1 Pet. 2:9</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 35004007,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 4,
       "verse": 7,
       "text": "The more they increased, the more they sinned against me; I will change their glory into shame.",
       "links": "<a href='/AIV/19/106/20'>Ps. 106:20</a>; <a href='/AIV/45/1/23'>Rom. 1:23</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 35004008,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 4,
       "verse": 8,
       "text": "They feed on the sin offerings of my people and set their heart on their iniquity.",
       "links": "<a href='/AIV/3/6/26'>Lev. 6:26</a>; <a href='/AIV/24/6/13'>Jer. 6:13</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 35004009,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 4,
       "verse": 9,
       "text": "And it will be, like people, like priest; I will punish them for their ways and repay them for their deeds.",
       "links": "<a href='/AIV/23/24/2'>Isa. 24:2</a>; <a href='/AIV/24/25/14'>Jer. 25:14</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 35004010,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 4,
       "verse": 10,
       "text": "They will eat, but not have enough; they will play the prostitute, but not increase, because they have stopped paying attention to the LORD.",
       "links": "<a href='/AIV/28/26/14'>Lev. 26:14-20</a>; <a href='/AIV/5/28/15-24'>Deut. 28:15-24</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 35004011,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 4,
       "verse": 11,
       "text": "Prostitution, wine, and new wine take away understanding.",
       "links": "<a href='/AIV/20/31/5'>Prov. 31:5</a>; <a href='/AIV/23/28/7'>Isa. 28:7</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 35004012,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 4,
       "verse": 12,
       "text": "My people consult their wooden idols, and their divining rods answer them. For a spirit of prostitution leads them astray, and they have been unfaithful to their God.",
       "links": "<a href='/AIV/23/44/14-20'>Isa. 44:14-20</a>; <a href='/AIV/19/106/39'>Ps. 106:39</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 35004013,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 4,
       "verse": 13,
       "text": "They sacrifice on the tops of mountains and burn offerings on the hills, under oaks, poplars, and terebinths, where the shade is pleasant. Therefore your daughters play the prostitute, and your daughters-in-law commit adultery.",
       "links": "<a href='/AIV/11/14/23'>1 Kgs. 14:23</a>; <a href='/AIV/23/1/29'>Isa. 1:29</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 35004014,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 4,
       "verse": 14,
       "text": "I will not punish your daughters when they play the prostitute, nor your daughters-in-law when they commit adultery, for the men themselves go off with prostitutes and offer sacrifices with temple prostitutes. So a people without understanding will come to ruin.",
       "links": "<a href='/AIV/3/19/29'>Lev. 19:29</a>; <a href='/AIV/20/29/18'>Prov. 29:18</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 35004015,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 4,
       "verse": 15,
       "text": "Though you, Israel, play the prostitute, let Judah not become guilty! Do not go to Gilgal, or up to Beth-aven, and do not swear, 'As the LORD lives!'",
       "links": "<a href='/AIV/6/4/19'>Josh. 4:19</a>; <a href='/AIV/9/23/19'>Num. 23:19</a>; <a href='/AIV/28/7/12'>Hos. 7:12</a>",
@@ -190,11 +117,6 @@
     },
     {
       "pk": 35004016,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 4,
       "verse": 16,
       "text": "For Israel is stubborn like a stubborn heifer. Can the LORD now feed them like a lamb in a broad pasture?",
       "links": "<a href='/AIV/23/1/3'>Isa. 1:3</a>; <a href='/AIV/28/10/11'>Hos. 10:11</a>",
@@ -202,11 +124,6 @@
     },
     {
       "pk": 35004017,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 4,
       "verse": 17,
       "text": "Ephraim is joined to idols; leave him alone.",
       "links": "<a href='/AIV/28/5/3'>Hos. 5:3</a>; <a href='/AIV/19/81/12'>Ps. 81:12</a>",
@@ -214,11 +131,6 @@
     },
     {
       "pk": 35004018,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 4,
       "verse": 18,
       "text": "When their drinking is over, they continue to give themselves to prostitution. Their rulers love shameful ways.",
       "links": "<a href='/AIV/23/28/7-8'>Isa. 28:7-8</a>",
@@ -226,38 +138,10 @@
     },
     {
       "pk": 35004019,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 4,
       "verse": 19,
       "text": "A wind will carry them away in its wings, and they will be put to shame because of their sacrifices.",
       "links": "<a href='/AIV/23/41/16'>Isa. 41:16</a>; <a href='/AIV/19/1/4'>Ps. 1:4</a>",
       "comment": "The 'wind' is a symbol of judgment and exile. The shame resulting from false worship recalls the biblical theme that true worship in spirit and truth (see John 4:23-24) brings dignity and life."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:36:14.968Z",
-  "sections": [
-    {
-      "title": "God's Case Against Israel",
-      "startVerse": 1,
-      "endVerse": 3
-    },
-    {
-      "title": "Corruption of Priests and People",
-      "startVerse": 4,
-      "endVerse": 11
-    },
-    {
-      "title": "Idolatry and Consequences for Israel",
-      "startVerse": 12,
-      "endVerse": 14
-    },
-    {
-      "title": "A Warning to Judah",
-      "startVerse": 15,
-      "endVerse": 19
     }
   ]
 }

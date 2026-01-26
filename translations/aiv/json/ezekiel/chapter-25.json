@@ -1,16 +1,13 @@
 {
-  "book": 33,
+  "translation": "AIV",
+  "bookId": "ezekiel",
   "bookName": "Ezekiel",
   "bookAbbreviation": "Ezek",
+  "bookNumber": 33,
   "chapter": 25,
   "verses": [
     {
       "pk": 33025001,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 25,
       "verse": 1,
       "text": "The word of the Lord came to me, saying:",
       "links": "<a href='/AIV/30/1/4'>Jer. 1:4</a>; <a href='/AIV/33/1/3'>Ezek. 1:3</a>; <a href='/AIV/35/1/1'>Hos. 1:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 33025002,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 25,
       "verse": 2,
       "text": "Son of man, set your face against the Ammonites, and prophesy against them.",
       "links": "<a href='/AIV/24/49/1'>Jer. 49:1</a>; <a href='/AIV/36/2/8'>Zeph. 2:8</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 33025003,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 25,
       "verse": 3,
       "text": "Say to the Ammonites, 'Hear the word of the Lord God: Because you said, “Aha!” against My sanctuary when it was profaned, and against the land of Israel when it was made desolate, and against the house of Judah when they went into exile,",
       "links": "<a href='/AIV/19/137/7'>Ps. 137:7</a>; <a href='/AIV/36/2/8-10'>Zeph. 2:8-10</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 33025004,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 25,
       "verse": 4,
       "text": "therefore, I will give you to the people of the East as a possession. They will set up their encampments among you and pitch their tents among you; they will eat your fruit and drink your milk.",
       "links": "<a href='/AIV/26/23/24'>Ezek. 23:24</a>; <a href='/AIV/07/6/3-4'>Judg. 6:3-4</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 33025005,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 25,
       "verse": 5,
       "text": "And I will make Rabbah a pasture for camels and Ammon a resting place for flocks. Then you will know that I am the Lord.",
       "links": "<a href='/AIV/24/49/2'>Jer. 49:2</a>; <a href='/AIV/36/2/9'>Zeph. 2:9</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 33025006,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 25,
       "verse": 6,
       "text": "For this is what the Lord God says: Because you have clapped your hands, stamped your feet, and rejoiced with all the contempt of your spirit against the land of Israel,",
       "links": "<a href='/AIV/35/3/16'>Hab. 3:16</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 33025007,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 25,
       "verse": 7,
       "text": "therefore, I will stretch out My hand against you and give you as plunder to the nations. I will cut you off from the peoples and make you perish from the countries. I will destroy you, and you will know that I am the Lord.",
       "links": "<a href='/AIV/23/14/26-27'>Isa. 14:26-27</a>; <a href='/AIV/19/83/4'>Ps. 83:4</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 33025008,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 25,
       "verse": 8,
       "text": "This is what the Lord God says: Because Moab and Seir said, 'See, the house of Judah is like all the other nations,'",
       "links": "<a href='/AIV/23/15/5-6'>Isa. 15:5-6</a>; <a href='/AIV/24/48/1'>Jer. 48:1</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 33025009,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 25,
       "verse": 9,
       "text": "therefore, I will open the flank of Moab, beginning at its frontier cities, the glory of the land—Beth-jeshimoth, Baal-meon, and Kiriathaim—giving them to the people of the East, together with the Ammonites.",
       "links": "<a href='/AIV/04/32/37-38'>Num. 32:37-38</a>; <a href='/AIV/24/48/21-23'>Jer. 48:21-23</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 33025010,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 25,
       "verse": 10,
       "text": "I will give Moab, along with the Ammonites, to the people of the East as a possession, so that the Ammonites will not be remembered among the nations.",
       "links": "<a href='/AIV/36/2/9'>Zeph. 2:9</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 33025011,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 25,
       "verse": 11,
       "text": "I will execute judgments upon Moab, and they shall know that I am the Lord.",
       "links": "<a href='/AIV/24/48/47'>Jer. 48:47</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 33025012,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 25,
       "verse": 12,
       "text": "This is what the Lord God says: Because Edom acted in vengeance against the house of Judah and has greatly offended by taking vengeance on them,",
       "links": "<a href='/AIV/24/49/7'>Jer. 49:7</a>; <a href='/AIV/31/1/10-14'>Obad. 1:10-14</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 33025013,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 25,
       "verse": 13,
       "text": "therefore, this is what the Lord God says: I will stretch out My hand against Edom, cut off both man and beast from it, and make it desolate from Teman to Dedan. They shall fall by the sword.",
       "links": "<a href='/AIV/23/21/11'>Isa. 21:11</a>; <a href='/AIV/24/49/8'>Jer. 49:8</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 33025014,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 25,
       "verse": 14,
       "text": "I will lay My vengeance on Edom by the hand of My people Israel, and they will deal with Edom according to My anger and My wrath; and they shall know My vengeance,' declares the Lord God.",
       "links": "<a href='/AIV/04/24/18'>Num. 24:18</a>; <a href='/AIV/24/49/10'>Jer. 49:10</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 33025015,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 25,
       "verse": 15,
       "text": "This is what the Lord God says: Because the Philistines acted in vengeance and took revenge with malice in their hearts to destroy with ancient hostility,",
       "links": "<a href='/AIV/23/14/29-31'>Isa. 14:29-31</a>; <a href='/AIV/24/47/1'>Jer. 47:1</a>",
@@ -190,11 +117,6 @@
     },
     {
       "pk": 33025016,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 25,
       "verse": 16,
       "text": "therefore, this is what the Lord God says: I will stretch out My hand against the Philistines, and I will cut off the Cherethites and destroy the remnant of the seacoast.",
       "links": "<a href='/AIV/36/2/5'>Zeph. 2:5</a>; <a href='/AIV/09/30/14'>1 Sam. 30:14</a>",
@@ -202,38 +124,10 @@
     },
     {
       "pk": 33025017,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 25,
       "verse": 17,
       "text": "I will execute great vengeance upon them with wrathful rebukes. They will know that I am the Lord, when I lay My vengeance upon them.",
       "links": "<a href='/AIV/26/16/58'>Ezek. 16:58</a>; <a href='/AIV/19/149/7'>Ps. 149:7</a>",
       "comment": "Ultimate restoration and unity is always God’s aim in judgment; He rebukes to bring about true repentance and recognition of His sovereignty. Christ fulfills this theme by uniting all people through His redemptive work (<a href='/AIV/43/12/32'>John 12:32</a>), inviting all into one fold."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:12:15.295Z",
-  "sections": [
-    {
-      "title": "Prophecy Against Ammon",
-      "startVerse": 1,
-      "endVerse": 7
-    },
-    {
-      "title": "Prophecy Against Moab and Seir",
-      "startVerse": 8,
-      "endVerse": 11
-    },
-    {
-      "title": "Prophecy Against Edom",
-      "startVerse": 12,
-      "endVerse": 14
-    },
-    {
-      "title": "Prophecy Against Philistia",
-      "startVerse": 15,
-      "endVerse": 17
     }
   ]
 }

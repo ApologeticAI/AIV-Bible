@@ -1,16 +1,13 @@
 {
-  "book": 62,
+  "translation": "AIV",
+  "bookId": "2-timothy",
   "bookName": "2 Timothy",
-  "bookAbbreviation": "2Tim",
+  "bookAbbreviation": "2 Tim",
+  "bookNumber": 62,
   "chapter": 1,
   "verses": [
     {
       "pk": 62001001,
-      "translation": "AIV",
-      "book": 62,
-      "bookName": "2 Timothy",
-      "bookAbbreviation": "2Tim",
-      "chapter": 1,
       "verse": 1,
       "text": "Paul, an apostle of Christ Jesus by the will of God, according to the promise of life that is in Christ Jesus,",
       "links": "<a href='/AIV/45/1/1'>Rom. 1:1</a>; <a href='/AIV/56/1/1'>Titus 1:1</a>; <a href='/AIV/48/1/1'>Gal. 1:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 62001002,
-      "translation": "AIV",
-      "book": 62,
-      "bookName": "2 Timothy",
-      "bookAbbreviation": "2Tim",
-      "chapter": 1,
       "verse": 2,
       "text": "To Timothy, my beloved child: Grace, mercy, and peace from God the Father and Christ Jesus our Lord.",
       "links": "<a href='/AIV/54/1/2'>1 Tim. 1:2</a>; <a href='/AIV/56/1/4'>Titus 1:4</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 62001003,
-      "translation": "AIV",
-      "book": 62,
-      "bookName": "2 Timothy",
-      "bookAbbreviation": "2Tim",
-      "chapter": 1,
       "verse": 3,
       "text": "I give thanks to God, whom I serve with a clear conscience as did my ancestors, when I remember you constantly in my prayers night and day.",
       "links": "<a href='/AIV/44/24/14-16'>Acts 24:14-16</a>; <a href='/AIV/45/1/9'>Rom. 1:9</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 62001004,
-      "translation": "AIV",
-      "book": 62,
-      "bookName": "2 Timothy",
-      "bookAbbreviation": "2Tim",
-      "chapter": 1,
       "verse": 4,
       "text": "As I remember your tears, I yearn to see you that I may be filled with joy.",
       "links": "<a href='/AIV/45/1/11'>Rom. 1:11</a>; <a href='/AIV/50/1/8'>Phil. 1:8</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 62001005,
-      "translation": "AIV",
-      "book": 62,
-      "bookName": "2 Timothy",
-      "bookAbbreviation": "2Tim",
-      "chapter": 1,
       "verse": 5,
       "text": "I am reminded of your sincere faith, a faith that first lived in your grandmother Lois and your mother Eunice, and now, I am sure, lives in you as well.",
       "links": "<a href='/AIV/44/16/1'>Acts 16:1</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 62001006,
-      "translation": "AIV",
-      "book": 62,
-      "bookName": "2 Timothy",
-      "bookAbbreviation": "2Tim",
-      "chapter": 1,
       "verse": 6,
       "text": "For this reason I remind you to rekindle the gift of God which is in you through the laying on of my hands.",
       "links": "<a href='/AIV/54/4/14'>1 Tim. 4:14</a>; <a href='/AIV/44/6/6'>Acts 6:6</a>; <a href='/AIV/44/8/17'>Acts 8:17</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 62001007,
-      "translation": "AIV",
-      "book": 62,
-      "bookName": "2 Timothy",
-      "bookAbbreviation": "2Tim",
-      "chapter": 1,
       "verse": 7,
       "text": "For God gave us not a spirit of fear, but of power and love and self-control.",
       "links": "<a href='/AIV/45/8/15'>Rom. 8:15</a>; <a href='/AIV/43/14/27'>John 14:27</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 62001008,
-      "translation": "AIV",
-      "book": 62,
-      "bookName": "2 Timothy",
-      "bookAbbreviation": "2Tim",
-      "chapter": 1,
       "verse": 8,
       "text": "Therefore do not be ashamed of the testimony about our Lord, nor of me his prisoner, but share in suffering for the Gospel by the power of God,",
       "links": "<a href='/AIV/45/1/16'>Rom. 1:16</a>; <a href='/AIV/50/1/29-30'>Phil. 1:29-30</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 62001009,
-      "translation": "AIV",
-      "book": 62,
-      "bookName": "2 Timothy",
-      "bookAbbreviation": "2Tim",
-      "chapter": 1,
       "verse": 9,
       "text": "who saved us and called us to a holy calling, not because of our works but because of his own purpose and grace, which he gave us in Christ Jesus before time began,",
       "links": "<a href='/AIV/45/8/28-30'>Rom. 8:28-30</a>; <a href='/AIV/49/1/4'>Eph. 1:4</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 62001010,
-      "translation": "AIV",
-      "book": 62,
-      "bookName": "2 Timothy",
-      "bookAbbreviation": "2Tim",
-      "chapter": 1,
       "verse": 10,
       "text": "and now has been revealed through the appearing of our Savior Christ Jesus, who destroyed death and brought life and immortality to light through the gospel,",
       "links": "<a href='/AIV/46/15/54-57'>1 Cor. 15:54-57</a>; <a href='/AIV/23/25/8'>Isa. 25:8</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 62001011,
-      "translation": "AIV",
-      "book": 62,
-      "bookName": "2 Timothy",
-      "bookAbbreviation": "2Tim",
-      "chapter": 1,
       "verse": 11,
       "text": "for which I was appointed a preacher and apostle and teacher.",
       "links": "<a href='/AIV/54/2/7'>1 Tim. 2:7</a>; <a href='/AIV/45/11/13'>Rom. 11:13</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 62001012,
-      "translation": "AIV",
-      "book": 62,
-      "bookName": "2 Timothy",
-      "bookAbbreviation": "2Tim",
-      "chapter": 1,
       "verse": 12,
       "text": "That is why I suffer these things; but I am not ashamed, for I know whom I have believed, and I am convinced that he is able to guard what I have entrusted to him until that Day.",
       "links": "<a href='/AIV/45/1/16'>Rom. 1:16</a>; <a href='/AIV/55/4/8'>2 Tim. 4:8</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 62001013,
-      "translation": "AIV",
-      "book": 62,
-      "bookName": "2 Timothy",
-      "bookAbbreviation": "2Tim",
-      "chapter": 1,
       "verse": 13,
       "text": "Hold fast to the pattern of sound words that you heard from me, in the faith and love that are in Christ Jesus.",
       "links": "<a href='/AIV/54/6/20'>1 Tim. 6:20</a>; <a href='/AIV/56/1/9'>Titus 1:9</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 62001014,
-      "translation": "AIV",
-      "book": 62,
-      "bookName": "2 Timothy",
-      "bookAbbreviation": "2Tim",
-      "chapter": 1,
       "verse": 14,
       "text": "Guard the good deposit entrusted to you by the Holy Spirit who dwells within us.",
       "links": "<a href='/AIV/54/6/20'>1 Tim. 6:20</a>; <a href='/AIV/45/8/9'>Rom. 8:9</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 62001015,
-      "translation": "AIV",
-      "book": 62,
-      "bookName": "2 Timothy",
-      "bookAbbreviation": "2Tim",
-      "chapter": 1,
       "verse": 15,
       "text": "You are aware that all who are in Asia turned away from me, among whom are Phygelus and Hermogenes.",
       "links": "<a href='/AIV/44/19/10'>Acts 19:10</a>",
@@ -190,11 +117,6 @@
     },
     {
       "pk": 62001016,
-      "translation": "AIV",
-      "book": 62,
-      "bookName": "2 Timothy",
-      "bookAbbreviation": "2Tim",
-      "chapter": 1,
       "verse": 16,
       "text": "May the Lord grant mercy to the household of Onesiphorus, for he often refreshed me and was not ashamed of my chains,",
       "links": "<a href='/AIV/40/25/36'>Matt. 25:36</a>",
@@ -202,11 +124,6 @@
     },
     {
       "pk": 62001017,
-      "translation": "AIV",
-      "book": 62,
-      "bookName": "2 Timothy",
-      "bookAbbreviation": "2Tim",
-      "chapter": 1,
       "verse": 17,
       "text": "but when he arrived in Rome, he searched for me earnestly and found me—",
       "links": "<a href='/AIV/44/28/16'>Acts 28:16</a>",
@@ -214,38 +131,10 @@
     },
     {
       "pk": 62001018,
-      "translation": "AIV",
-      "book": 62,
-      "bookName": "2 Timothy",
-      "bookAbbreviation": "2Tim",
-      "chapter": 1,
       "verse": 18,
       "text": "may the Lord grant him to find mercy from the Lord on that Day! And you know very well how much service he rendered at Ephesus.",
       "links": "<a href='/AIV/49/6/24'>Eph. 6:24</a>",
       "comment": "Paul offers an intercessory prayer for Onesiphorus 'on that Day,' expressing hope for mercy at final judgment, and points out the efficacy of prayer for others, including beyond this life."
-    }
-  ],
-  "translatedAt": "2025-12-24T12:13:26.314Z",
-  "sections": [
-    {
-      "title": "Greeting and Thanksgiving",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "Encouragement to Boldness in Ministry",
-      "startVerse": 6,
-      "endVerse": 12
-    },
-    {
-      "title": "Hold Fast to Sound Teaching",
-      "startVerse": 13,
-      "endVerse": 14
-    },
-    {
-      "title": "Paul's Experience of Desertion and Help",
-      "startVerse": 15,
-      "endVerse": 18
     }
   ]
 }

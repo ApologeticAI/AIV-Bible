@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 127,
   "verses": [
     {
       "pk": 23127001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 127,
       "verse": 1,
       "text": "Unless the LORD builds the house, those who build it labor in vain. Unless the LORD guards the city, the watchman stays awake in vain.",
       "links": "<a href='/AIV/19/121/1'>Ps. 121:1</a>; <a href='/AIV/20/16/9'>Prov. 16:9</a>; <a href='/AIV/40/7/24-27'>Matt. 7:24-27</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23127002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 127,
       "verse": 2,
       "text": "It is in vain for you to rise up early and stay up late, eating the bread of anxious toil; for He gives sleep to His beloved.",
       "links": "<a href='/AIV/21/2/23'>Eccl. 2:23</a>; <a href='/AIV/40/6/25-34'>Matt. 6:25-34</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23127003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 127,
       "verse": 3,
       "text": "Behold, children are a heritage from the LORD, the fruit of the womb a reward.",
       "links": "<a href='/AIV/01/33/5'>Gen. 33:5</a>; <a href='/AIV/19/113/9'>Ps. 113:9</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 23127004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 127,
       "verse": 4,
       "text": "Like arrows in the hand of a warrior, so are the children of one’s youth.",
       "links": "<a href='/AIV/20/17/6'>Prov. 17:6</a>",
@@ -56,28 +38,10 @@
     },
     {
       "pk": 23127005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 127,
       "verse": 5,
       "text": "Blessed is the man who fills his quiver with them! He will not be put to shame when he speaks with his enemies at the gate.",
       "links": "<a href='/AIV/18/5/4'>Job 5:4</a>; <a href='/AIV/05/21/19'>Deut. 21:19</a>",
       "comment": "Children are not only a blessing but a source of honor and security for their parents. The 'gate' was the place of judgment and public life in ancient Israel. The blessing declared here points to the strength and unity found in a faithful household—a theme echoed throughout scripture in both literal family and the broader community of faith united under God’s protection and guidance."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:43:30.439Z",
-  "sections": [
-    {
-      "title": "The Blessing of the Lord in Human Endeavors",
-      "startVerse": 1,
-      "endVerse": 2
-    },
-    {
-      "title": "Children: A Gift and Heritage from the Lord",
-      "startVerse": 3,
-      "endVerse": 5
     }
   ]
 }

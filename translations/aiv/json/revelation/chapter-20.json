@@ -1,16 +1,13 @@
 {
-  "book": 73,
+  "translation": "AIV",
+  "bookId": "revelation",
   "bookName": "Revelation",
   "bookAbbreviation": "Rev",
+  "bookNumber": 73,
   "chapter": 20,
   "verses": [
     {
       "pk": 73020001,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 20,
       "verse": 1,
       "text": "Then I saw an angel coming down from heaven, holding in his hand the key to the Abyss and a great chain.",
       "links": "<a href='/AIV/42/8/31'>Luke 8:31</a>; <a href='/AIV/66/9/1'>Rev. 9:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 73020002,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 20,
       "verse": 2,
       "text": "He seized the dragon, that ancient serpent, who is the devil and Satan, and bound him for a thousand years.",
       "links": "<a href='/AIV/01/3/1'>Gen. 3:1</a>; <a href='/AIV/66/12/9'>Rev. 12:9</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 73020003,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 20,
       "verse": 3,
       "text": "He threw him into the Abyss, shut it, and sealed it over him, so that he would not deceive the nations any longer until the thousand years were finished. After that, he must be released for a short time.",
       "links": "<a href='/AIV/66/12/9'>Rev. 12:9</a>; <a href='/AIV/66/9/1-2'>Rev. 9:1-2</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 73020004,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 20,
       "verse": 4,
       "text": "Then I saw thrones, and those who sat on them were given authority to judge. I also saw the souls of those who had been beheaded for their testimony of Jesus and for the word of God, and those who had not worshiped the beast or its image and had not received its mark on their foreheads or hands. They came to life and reigned with Christ for a thousand years.",
       "links": "<a href='/AIV/27/7/22'>Dan. 7:22</a>; <a href='/AIV/40/19/28'>Matt. 19:28</a>; <a href='/AIV/66/6/9'>Rev. 6:9</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 73020005,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 20,
       "verse": 5,
       "text": "The rest of the dead did not come to life until the thousand years were ended. This is the first resurrection.",
       "links": "<a href='/AIV/43/5/28-29'>John 5:28-29</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 73020006,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 20,
       "verse": 6,
       "text": "Blessed and holy is the one who shares in the first resurrection! Over such, the second death has no power, but they will be priests of God and of Christ, and will reign with him for a thousand years.",
       "links": "<a href='/AIV/66/2/11'>Rev. 2:11</a>; <a href='/AIV/60/2/9'>1 Pet. 2:9</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 73020007,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 20,
       "verse": 7,
       "text": "When the thousand years are finished, Satan will be released from his prison,",
       "links": "<a href='/AIV/66/20/3'>Rev. 20:3</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 73020008,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 20,
       "verse": 8,
       "text": "and will go out to deceive the nations at the four corners of the earth—Gog and Magog—to gather them for battle. Their number is like the sand of the sea.",
       "links": "<a href='/AIV/26/38/2-3'>Ezek. 38:2-3</a>; <a href='/AIV/01/22/17'>Gen. 22:17</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 73020009,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 20,
       "verse": 9,
       "text": "They marched up over the breadth of the earth and surrounded the camp of the saints and the beloved city. But fire came down from heaven and consumed them.",
       "links": "<a href='/AIV/12/1/10-12'>2 Kgs. 1:10-12</a>; <a href='/AIV/19/87/2'>Ps. 87:2</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 73020010,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 20,
       "verse": 10,
       "text": "And the devil, who deceived them, was thrown into the lake of fire and sulfur where the beast and the false prophet also are, and they will be tormented day and night forever and ever.",
       "links": "<a href='/AIV/40/25/41'>Matt. 25:41</a>; <a href='/AIV/66/19/20'>Rev. 19:20</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 73020011,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 20,
       "verse": 11,
       "text": "Then I saw a great white throne and the one seated on it. The earth and the sky fled from his presence, and no place was found for them.",
       "links": "<a href='/AIV/27/7/9'>Dan. 7:9-10</a>; <a href='/AIV/66/4/2'>Rev. 4:2</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 73020012,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 20,
       "verse": 12,
       "text": "And I saw the dead, great and small, standing before the throne, and books were opened. Another book was opened, which is the book of life. The dead were judged according to what was written in the books, according to their works.",
       "links": "<a href='/AIV/19/62/12'>Ps. 62:12</a>; <a href='/AIV/40/16/27'>Matt. 16:27</a>; <a href='/AIV/66/3/5'>Rev. 3:5</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 73020013,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 20,
       "verse": 13,
       "text": "The sea gave up the dead that were in it, and Death and Hades gave up the dead that were in them, and they were judged each one according to their works.",
       "links": "<a href='/AIV/40/25/31-32'>Matt. 25:31-32</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 73020014,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 20,
       "verse": 14,
       "text": "Then Death and Hades were thrown into the lake of fire. This is the second death, the lake of fire.",
       "links": "<a href='/AIV/46/15/26'>1 Cor. 15:26</a>; <a href='/AIV/66/2/11'>Rev. 2:11</a>",
@@ -177,33 +109,10 @@
     },
     {
       "pk": 73020015,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 20,
       "verse": 15,
       "text": "And if anyone was not found written in the book of life, he was thrown into the lake of fire.",
       "links": "<a href='/AIV/66/3/5'>Rev. 3:5</a>; <a href='/AIV/40/10/28'>Matt. 10:28</a>",
       "comment": "To have one's name in the book of life is to belong to God fully. This underlines the need for perseverance in faith and relationship with God, as preserved and mediated through the community of believers."
-    }
-  ],
-  "translatedAt": "2025-12-24T12:41:18.266Z",
-  "sections": [
-    {
-      "title": "The Thousand Year Reign",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "Satan Freed and Defeated",
-      "startVerse": 7,
-      "endVerse": 10
-    },
-    {
-      "title": "The Last Judgment",
-      "startVerse": 11,
-      "endVerse": 15
     }
   ]
 }

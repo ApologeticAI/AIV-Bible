@@ -1,16 +1,13 @@
 {
-  "book": 22,
+  "translation": "AIV",
+  "bookId": "job",
   "bookName": "Job",
   "bookAbbreviation": "Job",
+  "bookNumber": 22,
   "chapter": 7,
   "verses": [
     {
       "pk": 22007001,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 7,
       "verse": 1,
       "text": "Does not man have hard service on earth? Are his days not like those of a hired worker?",
       "links": "<a href='/AIV/18/14/1'>Job 14:1</a>; <a href='/AIV/18/5/7'>Job 5:7</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 22007002,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 7,
       "verse": 2,
       "text": "Like a slave longing for the shade, or a hired worker waiting for his wages,",
       "links": "<a href='/AIV/18/14/6'>Job 14:6</a>; <a href='/AIV/24/45/5'>Jer. 45:5</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 22007003,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 7,
       "verse": 3,
       "text": "So I am made to inherit months of emptiness, and nights of misery are appointed to me.",
       "links": "<a href='/AIV/19/6/6'>Ps. 6:6</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 22007004,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 7,
       "verse": 4,
       "text": "When I lie down I think, ‘When shall I arise?’ But the night drags on, and I am full of restlessness until dawn.",
       "links": "<a href='/AIV/18/30/17'>Job 30:17</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 22007005,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 7,
       "verse": 5,
       "text": "My flesh is clothed with worms and dirt; my skin hardens and breaks out afresh.",
       "links": "<a href='/AIV/18/2/7'>Job 2:7</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 22007006,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 7,
       "verse": 6,
       "text": "My days are swifter than a weaver's shuttle and come to an end without hope.",
       "links": "<a href='/AIV/18/9/25'>Job 9:25</a>; <a href='/AIV/19/39/5'>Ps. 39:5</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 22007007,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 7,
       "verse": 7,
       "text": "Remember that my life is but a breath; my eye will never again see good.",
       "links": "<a href='/AIV/18/9/25'>Job 9:25</a>; <a href='/AIV/19/78/39'>Ps. 78:39</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 22007008,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 7,
       "verse": 8,
       "text": "The eye of him who sees me will see me no more; while your eyes are upon me, I shall be gone.",
       "links": "<a href='/AIV/18/7/21'>Job 7:21</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 22007009,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 7,
       "verse": 9,
       "text": "As a cloud fades and vanishes away, so he who goes down to Sheol does not come up again.",
       "links": "<a href='/AIV/19/103/16'>Ps. 103:16</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 22007010,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 7,
       "verse": 10,
       "text": "He will return no more to his house, nor will his place know him any longer.",
       "links": "<a href='/AIV/18/20/9'>Job 20:9</a>; <a href='/AIV/19/39/13'>Ps. 39:13</a>",
@@ -127,11 +79,6 @@
     },
     {
       "pk": 22007011,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 7,
       "verse": 11,
       "text": "Therefore I will not restrain my mouth; I will speak in the anguish of my spirit; I will complain in the bitterness of my soul.",
       "links": "<a href='/AIV/19/142/2'>Ps. 142:2</a>; <a href='/AIV/24/15/17'>Jer. 15:17</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 22007012,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 7,
       "verse": 12,
       "text": "Am I the sea, or a sea monster, that you set a guard over me?",
       "links": "<a href='/AIV/18/38/8-11'>Job 38:8-11</a>; <a href='/AIV/19/74/13-14'>Ps. 74:13-14</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 22007013,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 7,
       "verse": 13,
       "text": "When I say, ‘My bed will comfort me, my couch will ease my complaint,’",
       "links": "<a href='/AIV/18/10/20-21'>Job 10:20-21</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 22007014,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 7,
       "verse": 14,
       "text": "then you scare me with dreams and terrify me with visions,",
       "links": "<a href='/AIV/18/33/14-16'>Job 33:14-16</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 22007015,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 7,
       "verse": 15,
       "text": "so that I would prefer strangling and death to my bones.",
       "links": "<a href='/AIV/19/88/3'>Ps. 88:3</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 22007016,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 7,
       "verse": 16,
       "text": "I loathe my life; I would not live forever. Leave me alone, for my days are but a breath.",
       "links": "<a href='/AIV/18/10/20'>Job 10:20</a>; <a href='/AIV/19/39/5'>Ps. 39:5</a>",
@@ -200,11 +122,6 @@
     },
     {
       "pk": 22007017,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 7,
       "verse": 17,
       "text": "What is man, that you make so much of him, and that you set your mind on him,",
       "links": "<a href='/AIV/19/8/4'>Ps. 8:4</a>; <a href='/AIV/58/2/6'>Heb. 2:6</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 22007018,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 7,
       "verse": 18,
       "text": "that you visit him every morning and test him every moment?",
       "links": "<a href='/AIV/18/34/36'>Job 34:36</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 22007019,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 7,
       "verse": 19,
       "text": "How long will you not look away from me, nor leave me alone till I swallow my spit?",
       "links": "<a href='/AIV/18/10/20'>Job 10:20</a>",
@@ -237,11 +144,6 @@
     },
     {
       "pk": 22007020,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 7,
       "verse": 20,
       "text": "If I have sinned, what have I done to you, O watcher of mankind? Why have you made me your target? Have I become a burden to you?",
       "links": "<a href='/AIV/19/44/20-21'>Ps. 44:20-21</a>; <a href='/AIV/18/13/24'>Job 13:24</a>",
@@ -249,33 +151,10 @@
     },
     {
       "pk": 22007021,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 7,
       "verse": 21,
       "text": "Why do you not pardon my transgression and take away my iniquity? For soon I will lie in the dust; you will seek me, but I will not be.",
       "links": "<a href='/AIV/18/14/12'>Job 14:12</a>; <a href='/AIV/19/32/1'>Ps. 32:1</a>",
       "comment": "Job’s plea for forgiveness points ahead to the doctrine of reconciliation and the hope of redemption offered through divine mercy, themes later made explicit by Christ’s redemptive work."
-    }
-  ],
-  "translatedAt": "2025-12-24T05:42:27.710Z",
-  "sections": [
-    {
-      "title": "Job's Miserable Condition",
-      "startVerse": 1,
-      "endVerse": 10
-    },
-    {
-      "title": "Job's Protest Against Divine Torment",
-      "startVerse": 11,
-      "endVerse": 16
-    },
-    {
-      "title": "A Plea for Mercy and Forgiveness",
-      "startVerse": 17,
-      "endVerse": 21
     }
   ]
 }

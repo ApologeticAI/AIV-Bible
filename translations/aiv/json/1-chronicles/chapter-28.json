@@ -1,16 +1,13 @@
 {
-  "book": 13,
+  "translation": "AIV",
+  "bookId": "1-chronicles",
   "bookName": "1 Chronicles",
-  "bookAbbreviation": "1Chr",
+  "bookAbbreviation": "1 Chr",
+  "bookNumber": 13,
   "chapter": 28,
   "verses": [
     {
       "pk": 13028001,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 28,
       "verse": 1,
       "text": "David assembled all the leaders of Israel in Jerusalem—the tribal officers, the commanders of the divisions serving the king, the captains of thousands and hundreds, the officials over all possessions and livestock held by the king and his sons, together with the palace officials, mighty men, and every skilled warrior.",
       "links": "<a href='/AIV/10/23/1-2'>2 Sam. 23:1-2</a>; <a href='/AIV/13/23/2'>1 Chr. 23:2</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 13028002,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 28,
       "verse": 2,
       "text": "Then King David rose to his feet and said, 'Hear me, my brothers and my people: I wanted to build a house as the resting place for the ark of the covenant of the LORD, and as the footstool of our God. I prepared to build it.'",
       "links": "<a href='/AIV/10/7/2'>2 Sam. 7:2</a>; <a href='/AIV/19/99/5'>Ps. 99:5</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 13028003,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 28,
       "verse": 3,
       "text": "But God said to me, ‘You are not to build a house for My name because you are a man of war and have shed blood.’",
       "links": "<a href='/AIV/13/22/8'>1 Chr. 22:8</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 13028004,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 28,
       "verse": 4,
       "text": "Yet the LORD God of Israel chose me out of my father’s entire house to be king over Israel forever. For He chose Judah as leader; of the house of Judah, the house of my father; and among my father’s sons, He was pleased to make me king over all Israel.",
       "links": "<a href='/AIV/09/16/1'>1 Sam. 16:1</a>; <a href='/AIV/01/49/8-10'>Gen. 49:8-10</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 13028005,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 28,
       "verse": 5,
       "text": "And among all my sons—for the LORD has given me many—He has chosen my son Solomon to sit on the throne of the kingdom of the LORD over Israel.",
       "links": "<a href='/AIV/10/7/12-13'>2 Sam. 7:12-13</a>; <a href='/AIV/13/22/9'>1 Chr. 22:9</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 13028006,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 28,
       "verse": 6,
       "text": "He said to me, ‘Your son Solomon shall build My house and My courts, for I have chosen him to be My son, and I will be his Father.’",
       "links": "<a href='/AIV/10/7/14'>2 Sam. 7:14</a>; <a href='/AIV/58/1/5'>Heb. 1:5</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 13028007,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 28,
       "verse": 7,
       "text": "I will establish his kingdom forever if he is steadfast in keeping My commandments and My ordinances, as he is doing today.",
       "links": "<a href='/AIV/10/7/16'>2 Sam. 7:16</a>; <a href='/AIV/11/9/4-5'>1 Kings 9:4–5</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 13028008,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 28,
       "verse": 8,
       "text": "Now, in the sight of all Israel, the assembly of the LORD, and in the hearing of our God: keep and seek out all the commandments of the LORD your God, so that you may possess this good land and leave it as an inheritance for your children after you forever.",
       "links": "<a href='/AIV/05/4/40'>Deut. 4:40</a>; <a href='/AIV/13/29/10'>1 Chr. 29:10</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 13028009,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 28,
       "verse": 9,
       "text": "And you, Solomon my son, know the God of your father and serve Him with all your heart and with a willing mind. For the LORD searches every heart and understands every thought. If you seek Him, He will be found by you, but if you forsake Him, He will cast you off forever.",
       "links": "<a href='/AIV/19/139/1-4'>Ps. 139:1-4</a>; <a href='/AIV/60/2/19-20'>1 Pet. 2:19-20</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 13028010,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 28,
       "verse": 10,
       "text": "Consider now, for the LORD has chosen you to build a house for the sanctuary. Be strong and act.",
       "links": "<a href='/AIV/13/22/10'>1 Chr. 22:10</a>; <a href='/AIV/06/1/6'>Josh. 1:6</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 13028011,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 28,
       "verse": 11,
       "text": "Then David gave Solomon his son the plans for the porch, its buildings, its treasuries, its upper rooms, its inner chambers, and the room for the mercy seat;",
       "links": "<a href='/AIV/02/25/40'>Ex. 25:40</a>; <a href='/AIV/13/28/19'>1 Chr. 28:19</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 13028012,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 28,
       "verse": 12,
       "text": "And the plans for all that he had by the Spirit for the courts of the LORD’s house, all the surrounding rooms, the treasuries of the house of God, and the treasuries for dedicated gifts;",
       "links": "<a href='/AIV/02/36/1'>Ex. 36:1</a>; <a href='/AIV/13/29/2-3'>1 Chr. 29:2-3</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 13028013,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 28,
       "verse": 13,
       "text": "For the divisions of the priests and Levites, for all the work of serving in the house of the LORD, and for all the articles for the service in the house of the LORD;",
       "links": "<a href='/AIV/04/4/1-3'>Num. 4:1–3</a>; <a href='/AIV/13/24/1-19'>1 Chr. 24:1–19</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 13028014,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 28,
       "verse": 14,
       "text": "He gave for each gold article its weight of gold for all articles of every kind of service, and for all silver articles, the weight of silver for each article of service;",
       "links": "<a href='/AIV/02/25/39'>Ex. 25:39</a>; <a href='/AIV/13/29/4-5'>1 Chr. 29:4-5</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 13028015,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 28,
       "verse": 15,
       "text": "and the weight for the gold lampstands and their lamps according to the use of each lampstand, and the weight for each silver lampstand and its lamps according to the use of each lampstand;",
       "links": "<a href='/AIV/02/25/31-40'>Ex. 25:31-40</a>; <a href='/AIV/40/5/14'>Matt. 5:14</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 13028016,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 28,
       "verse": 16,
       "text": "and the gold by weight for the tables for the bread of the Presence for each table, and the silver for the silver tables;",
       "links": "<a href='/AIV/02/25/23-30'>Ex. 25:23–30</a>; <a href='/AIV/42/22/19'>Luke 22:19</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 13028017,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 28,
       "verse": 17,
       "text": "and pure gold for the forks, basins, pitchers, and golden bowls, for each bowl its weight; and silver for each silver bowl, its weight;",
       "links": "<a href='/AIV/02/27/3'>Ex. 27:3</a>; <a href='/AIV/13/29/7-8'>1 Chr. 29:7-8</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 13028018,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 28,
       "verse": 18,
       "text": "and for the altar of incense, refined gold by weight; for the plans of the chariot, the cherubim of gold spreading their wings and covering the ark of the covenant of the LORD.",
       "links": "<a href='/AIV/02/37/9'>Ex. 37:9</a>; <a href='/AIV/58/9/4-5'>Heb. 9:4-5</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 13028019,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 28,
       "verse": 19,
       "text": "'All this,' said David, 'the LORD made clear to me in writing, by His hand upon me, all the details of the plan.'",
       "links": "<a href='/AIV/02/25/9'>Ex. 25:9</a>; <a href='/AIV/13/28/11'>1 Chr. 28:11</a>",
@@ -237,11 +144,6 @@
     },
     {
       "pk": 13028020,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 28,
       "verse": 20,
       "text": "David said to Solomon, 'Be strong and courageous, and do it. Do not be afraid or discouraged, for the LORD God, my God, is with you. He will not leave you or forsake you, until all the work for the service of the house of the LORD is finished.'",
       "links": "<a href='/AIV/06/1/9'>Josh. 1:9</a>; <a href='/AIV/58/13/5'>Heb. 13:5</a>",
@@ -249,33 +151,10 @@
     },
     {
       "pk": 13028021,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 28,
       "verse": 21,
       "text": "And see, the divisions of the priests and Levites for all the service of the house of God are with you in all the work. And there will be every willing man with skill for every kind of service—also the officers and the people will be all at your command.\"",
       "links": "<a href='/AIV/13/23/28-32'>1 Chr. 23:28-32</a>; <a href='/AIV/13/25/1-7'>1 Chr. 25:1-7</a>",
       "comment": "This final assurance guarantees Solomon support from the sacred ministers and the people, illustrating collective participation in God’s plan. The inclusion of skilled laity supports the idea of the whole community in worship, anticipating the richness and unity of later Christian worship."
-    }
-  ],
-  "translatedAt": "2025-12-24T04:20:42.088Z",
-  "sections": [
-    {
-      "title": "David Summons Israel’s Leaders",
-      "startVerse": 1,
-      "endVerse": 8
-    },
-    {
-      "title": "David’s Charge to Solomon",
-      "startVerse": 9,
-      "endVerse": 10
-    },
-    {
-      "title": "Plans for the Temple Given to Solomon",
-      "startVerse": 11,
-      "endVerse": 21
     }
   ]
 }

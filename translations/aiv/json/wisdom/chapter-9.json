@@ -1,16 +1,13 @@
 {
-  "book": 27,
+  "translation": "AIV",
+  "bookId": "wisdom",
   "bookName": "Wisdom",
   "bookAbbreviation": "Wis",
+  "bookNumber": 27,
   "chapter": 9,
   "verses": [
     {
       "pk": 27009001,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 9,
       "verse": 1,
       "text": "God of my ancestors and Lord of mercy, who made all things by your word,",
       "links": "<a href='/AIV/01/1/1'>Gen. 1:1</a>; <a href='/AIV/19/33/6'>Ps. 33:6</a>; <a href='/AIV/43/1/1-3'>John 1:1-3</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 27009002,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 9,
       "verse": 2,
       "text": "and by your wisdom you formed humankind to rule over the creatures you have made,",
       "links": "<a href='/AIV/01/1/26-28'>Gen. 1:26-28</a>; <a href='/AIV/19/8/6-8'>Ps. 8:6-8</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 27009003,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 9,
       "verse": 3,
       "text": "so that they might govern the world in holiness and righteousness, and pass judgment in uprightness of heart.",
       "links": "<a href='/AIV/19/72/1-2'>Ps. 72:1-2</a>; <a href='/AIV/20/8/15-16'>Prov. 8:15-16</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 27009004,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 9,
       "verse": 4,
       "text": "Give me wisdom, who stands by your throne, and do not reject me from among your servants.",
       "links": "<a href='/AIV/11/3/7-9'>1 Kgs. 3:7-9</a>; <a href='/AIV/20/8/30'>Prov. 8:30</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 27009005,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 9,
       "verse": 5,
       "text": "For I am your servant and the son of your maidservant, a weak and short-lived man, with little understanding of justice and laws.",
       "links": "<a href='/AIV/19/116/16'>Ps. 116:16</a>; <a href='/AIV/11/3/7'>1 Kgs. 3:7</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 27009006,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 9,
       "verse": 6,
       "text": "Even if someone is considered perfect among the sons of men, without the wisdom that comes from you, they will be considered nothing.",
       "links": "<a href='/AIV/19/127/1'>Ps. 127:1</a>; <a href='/AIV/20/3/7'>Prov. 3:7</a>; <a href='/AIV/46/1/19-20'>1 Cor. 1:19-20</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 27009007,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 9,
       "verse": 7,
       "text": "You have chosen me to be king over your people and judge of your sons and daughters.",
       "links": "<a href='/AIV/11/3/7'>1 Kgs. 3:7</a>; <a href='/AIV/19/2/6'>Ps. 2:6</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 27009008,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 9,
       "verse": 8,
       "text": "You commanded me to build a temple on your holy mountain, and an altar in the city where you have set your dwelling, a copy of the holy tabernacle which you prepared from the beginning.",
       "links": "<a href='/AIV/02/25/8-9'>Ex. 25:8-9</a>; <a href='/AIV/11/6/1-2'>1 Kgs. 6:1-2</a>; <a href='/AIV/58/8/5'>Heb. 8:5</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 27009009,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 9,
       "verse": 9,
       "text": "With you is wisdom, who knows your works and was present when you made the world; who understands what is pleasing in your eyes and what is conformable to your commands.",
       "links": "<a href='/AIV/20/8/22-31'>Prov. 8:22-31</a>; <a href='/AIV/43/1/1-3'>John 1:1-3</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 27009010,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 9,
       "verse": 10,
       "text": "Send her out from your holy heavens, and from your glorious throne, that she may be with me and work with me, so that I may know what is pleasing to you.",
       "links": "<a href='/AIV/20/2/6'>Prov. 2:6</a>; <a href='/AIV/43/16/13'>John 16:13</a>",
@@ -127,11 +79,6 @@
     },
     {
       "pk": 27009011,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 9,
       "verse": 11,
       "text": "For she knows and understands all things, and she will guide me wisely in my actions and guard me with her glory.",
       "links": "<a href='/AIV/20/4/6-8'>Prov. 4:6-8</a>",
@@ -139,11 +86,6 @@
     },
     {
       "pk": 27009012,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 9,
       "verse": 12,
       "text": "Then my works will be pleasing to you; I will judge your people with justice, and I will be worthy of the throne of my father.",
       "links": "<a href='/AIV/11/3/28'>1 Kgs. 3:28</a>; <a href='/AIV/19/72/2'>Ps. 72:2</a>",
@@ -151,11 +93,6 @@
     },
     {
       "pk": 27009013,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 9,
       "verse": 13,
       "text": "For what human being can know the counsel of God, or who can comprehend what the Lord wills?",
       "links": "<a href='/AIV/23/55/8-9'>Isa. 55:8-9</a>; <a href='/AIV/45/11/34'>Rom. 11:34</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 27009014,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 9,
       "verse": 14,
       "text": "For the reasoning of mortals is timid, and our schemes are uncertain;",
       "links": "<a href='/AIV/24/17/9'>Jer. 17:9</a>; <a href='/AIV/46/13/12'>1 Cor. 13:12</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 27009015,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 9,
       "verse": 15,
       "text": "for the corruptible body burdens the soul, and the earthly tent weighs down the mind with many cares.",
       "links": "<a href='/AIV/47/5/1-4'>2 Cor. 5:1-4</a>; <a href='/AIV/45/8/23'>Rom. 8:23</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 27009016,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 9,
       "verse": 16,
       "text": "We struggle to understand even what is on earth, and we find the things at hand hard to grasp; but who has ever searched out what is in heaven?",
       "links": "<a href='/AIV/19/131/1'>Ps. 131:1</a>; <a href='/AIV/43/3/12'>John 3:12</a>",
@@ -200,11 +122,6 @@
     },
     {
       "pk": 27009017,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 9,
       "verse": 17,
       "text": "Who has known your counsel, unless you have given wisdom and sent your Holy Spirit from on high?",
       "links": "<a href='/AIV/23/40/13'>Isa. 40:13</a>; <a href='/AIV/43/14/26'>John 14:26</a>",
@@ -212,28 +129,10 @@
     },
     {
       "pk": 27009018,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 9,
       "verse": 18,
       "text": "So the paths of those on earth were made straight, and people were taught what pleases you and were saved by wisdom.",
       "links": "<a href='/AIV/19/25/4'>Ps. 25:4</a>; <a href='/AIV/20/3/13-18'>Prov. 3:13-18</a>; <a href='/AIV/46/1/30'>1 Cor. 1:30</a>",
       "comment": "Divine wisdom instructs and leads humans to salvation. The New Testament sees Christ as the embodiment of God’s wisdom who perfects and reveals the straight path to the Father (1 Cor. 1:30)."
-    }
-  ],
-  "translatedAt": "2025-12-24T07:18:24.102Z",
-  "sections": [
-    {
-      "title": "Solomon's Prayer for Wisdom",
-      "startVerse": 1,
-      "endVerse": 12
-    },
-    {
-      "title": "The Limits of Human Understanding",
-      "startVerse": 13,
-      "endVerse": 18
     }
   ]
 }

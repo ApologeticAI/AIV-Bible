@@ -1,16 +1,13 @@
 {
-  "book": 18,
+  "translation": "AIV",
+  "bookId": "judith",
   "bookName": "Judith",
   "bookAbbreviation": "Jdt",
+  "bookNumber": 18,
   "chapter": 10,
   "verses": [
     {
       "pk": 18010001,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 10,
       "verse": 1,
       "text": "When Judith had finished praying to the Lord God of Israel and had come to an end of all these words,",
       "links": "<a href='/AIV/18/9/14-15'>Jdt 9:14-15</a>; <a href='/AIV/19/54/2'>Ps 54:2</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 18010002,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 10,
       "verse": 2,
       "text": "she rose from the ground, called her maid, and went down into the house where she was accustomed to live on the Sabbaths and on her feast days.",
       "links": "<a href='/AIV/18/8/6'>Jdt 8:6</a>; <a href='/AIV/3/23/3'>Lev 23:3</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 18010003,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 10,
       "verse": 3,
       "text": "She took off the sackcloth she had been wearing, and took off her widow’s garments, washed herself all over with water, anointed herself with precious ointment, arranged her hair, put on a head-dress on it, and dressed herself in the garments of joy, which she used to wear during the life of Manasseh her husband.",
       "links": "<a href='/AIV/18/8/5'>Jdt 8:5</a>; <a href='/AIV/17/2/12'>Esth 2:12</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 18010004,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 10,
       "verse": 4,
       "text": "She put sandals on her feet, put on her necklaces, her bracelets, rings, earrings, and all her ornaments, and made herself very beautiful, to attract the eyes of all men who might see her.",
       "links": "<a href='/AIV/18/16/7'>Jdt 16:7</a>; <a href='/AIV/17/5/1'>Esth 5:1-2</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 18010005,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 10,
       "verse": 5,
       "text": "She gave her maid a bottle of wine, a flask of oil, and filled a bag with roasted grain, dried fig cakes, and fine bread. She wrapped all her utensils together and gave them to her to carry.",
       "links": "<a href='/AIV/18/12/1'>Jdt 12:1</a>; <a href='/AIV/1/27/17-18'>Gen 27:17-18</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 18010006,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 10,
       "verse": 6,
       "text": "Then they went out to the gate of the city of Bethulia and found Uzziah standing there with the elders of the city, Chabris and Charmis.",
       "links": "<a href='/AIV/18/8/10'>Jdt 8:10</a>; <a href='/AIV/18/6/15'>Jdt 6:15</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 18010007,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 10,
       "verse": 7,
       "text": "When they saw her and her face transformed, and her clothing changed, they were astonished at her beauty and said to her,",
       "links": "<a href='/AIV/18/8/7'>Jdt 8:7</a>; <a href='/AIV/1/24/16'>Gen 24:16</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 18010008,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 10,
       "verse": 8,
       "text": "\"May the God of our ancestors grant you favor and fulfill your plans; may the pride of Jerusalem and the peace of all Israel endure through you.\"",
       "links": "<a href='/AIV/18/8/29'>Jdt 8:29</a>; <a href='/AIV/19/20/4'>Ps 20:4</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 18010009,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 10,
       "verse": 9,
       "text": "Judith bowed down to God, and said to them, \"Order that the gate of the city may be opened for me, so I may accomplish what you have spoken with me.\" So they commanded the young men to open the gate for her, as she had requested.",
       "links": "<a href='/AIV/18/8/33'>Jdt 8:33</a>; <a href='/AIV/18/10/6'>Jdt 10:6</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 18010010,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 10,
       "verse": 10,
       "text": "They did as she said. She and her maid went out of the city, while the men watched her until she descended the mountain and passed the valley, until they could see her no more.",
       "links": "<a href='/AIV/18/8/33'>Jdt 8:33</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 18010011,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 10,
       "verse": 11,
       "text": "As they were going straight through the valley, watchmen of the Assyrians met her, and they seized her, asking, \"Who are you? Where do you come from, and where are you going?\"",
       "links": "<a href='/AIV/18/12/11'>Jdt 12:11</a>; <a href='/AIV/1/16/8'>Gen 16:8</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 18010012,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 10,
       "verse": 12,
       "text": "She replied, \"I am a daughter of the Hebrews, and I am fleeing from them, because they are about to be delivered to you for destruction.",
       "links": "<a href='/AIV/18/5/5'>Jdt 5:5</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 18010013,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 10,
       "verse": 13,
       "text": "I am going to the presence of Holofernes, the chief captain of your army, to give him trustworthy information. I will show him a way by which he can capture all the hill country without losing a single one of his men.\"",
       "links": "<a href='/AIV/18/11/5-6'>Jdt 11:5-6</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 18010014,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 10,
       "verse": 14,
       "text": "When the men heard her words and saw her face, her beauty amazed them greatly. They said to her,",
       "links": "<a href='/AIV/18/10/7'>Jdt 10:7</a>; <a href='/AIV/1/39/6'>Gen 39:6</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 18010015,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 10,
       "verse": 15,
       "text": "\"You have saved your life by coming down to see our lord. Go at once to his tent; some of us will conduct you until they hand you over to him.",
       "links": "<a href='/AIV/18/13/13'>Jdt 13:13</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 18010016,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 10,
       "verse": 16,
       "text": "When you stand before him, do not be afraid in your heart; tell him what you have said to us, and he will treat you well.\"",
       "links": "<a href='/AIV/18/6/17'>Jdt 6:17</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 18010017,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 10,
       "verse": 17,
       "text": "They selected a hundred men from them to escort and bring her to the tent of Holofernes.",
       "links": "<a href='/AIV/18/13/15'>Jdt 13:15</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 18010018,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 10,
       "verse": 18,
       "text": "There was a gathering throughout the camp; they followed her as she passed through the tents, and news of her arriving spread through the camp. The men crowded around her as she stood outside the tent of Holofernes while they told him about her.",
       "links": "<a href='/AIV/18/8/32'>Jdt 8:32</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 18010019,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 10,
       "verse": 19,
       "text": "They marveled at her beauty and admired the Israelites, judging them by her. They said to one another, \"Who can despise these people, who have women like this among them? It is not wise to leave one of their men alive, for if we let them go they will be able to beguile the whole world!\"",
       "links": "<a href='/AIV/19/2/15'>Esth. 2:15</a>; <a href='/AIV/11/10/1'>1Kgs. 10:1-9</a>; <a href='/AIV/18/10/7'>Jdt. 10:7</a>",
@@ -238,11 +145,6 @@
     },
     {
       "pk": 18010020,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 10,
       "verse": 20,
       "text": "Then the guards of Holofernes and all his servants came out and led her into the tent.",
       "links": "<a href='/AIV/1/12/15'>Gen. 12:15</a>; <a href='/AIV/19/2/16'>Esth. 2:16</a>; <a href='/AIV/18/12/11'>Jdt. 12:11</a>",
@@ -250,11 +152,6 @@
     },
     {
       "pk": 18010021,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 10,
       "verse": 21,
       "text": "Holofernes was resting on his bed under a canopy that was woven with purple and gold, emeralds and other precious stones.",
       "links": "<a href='/AIV/19/1/6'>Esth. 1:6</a>; <a href='/AIV/34/5/1'>Dan. 5:1-2</a>; <a href='/AIV/73/18/16'>Rev. 18:16</a>",
@@ -262,11 +159,6 @@
     },
     {
       "pk": 18010022,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 10,
       "verse": 22,
       "text": "When they told him of her, he came to the front of the tent, with silver lamps carried before him.",
       "links": "<a href='/AIV/19/5/2'>Esth. 5:2</a>; <a href='/AIV/18/12/14'>Jdt. 12:14-15</a>; <a href='/AIV/34/5/5'>Dan. 5:5</a>",
@@ -274,38 +166,10 @@
     },
     {
       "pk": 18010023,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 10,
       "verse": 23,
       "text": "When Judith came into the presence of Holofernes and his servants, they all marveled at the beauty of her face. She prostrated herself and did obeisance to him, but his slaves raised her up.",
       "links": "<a href='/AIV/1/41/14'>Gen. 41:14</a>; <a href='/AIV/19/5/2'>Esth. 5:2</a>; <a href='/AIV/18/10/14'>Jdt. 10:14</a>",
       "comment": "Judith’s physical prostration follows eastern customs of homage before rulers (cf. Daniel 2:46), yet the servants’ act of raising her anticipates her soon-to-be-elevated status and God’s overturning of worldly hierarchies."
-    }
-  ],
-  "translatedAt": "2025-12-28T02:20:05.566Z",
-  "sections": [
-    {
-      "title": "Judith Prepares to Meet Holofernes",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "Judith Leaves Bethulia",
-      "startVerse": 6,
-      "endVerse": 10
-    },
-    {
-      "title": "Judith Captured by the Assyrians",
-      "startVerse": 11,
-      "endVerse": 18
-    },
-    {
-      "title": "Judith Brought Before Holofernes",
-      "startVerse": 19,
-      "endVerse": 23
     }
   ]
 }

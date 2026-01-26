@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 92,
   "verses": [
     {
       "pk": 23092001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 92,
       "verse": 1,
       "text": "It is good to give thanks to the Lord, to sing praises to your name, Most High,",
       "links": "<a href='/AIV/19/147/1'>Ps. 147:1</a>; <a href='/AIV/19/71/22'>Ps. 71:22</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23092002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 92,
       "verse": 2,
       "text": "to declare your steadfast love in the morning, and your faithfulness by night,",
       "links": "<a href='/AIV/19/42/8'>Ps. 42:8</a>; <a href='/AIV/19/59/16'>Ps. 59:16</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23092003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 92,
       "verse": 3,
       "text": "with the ten-stringed instrument and the harp, with melody on the lyre.",
       "links": "<a href='/AIV/19/33/2'>Ps. 33:2</a>; <a href='/AIV/19/150/3-4'>Ps. 150:3-4</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23092004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 92,
       "verse": 4,
       "text": "For you, Lord, have made me glad by your works; at the works of your hands I sing for joy.",
       "links": "<a href='/AIV/19/8/3'>Ps. 8:3</a>; <a href='/AIV/19/104/24'>Ps. 104:24</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23092005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 92,
       "verse": 5,
       "text": "How great are your works, O Lord! Your thoughts are very deep.",
       "links": "<a href='/AIV/19/36/6'>Ps. 36:6</a>; <a href='/AIV/19/40/5'>Ps. 40:5</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23092006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 92,
       "verse": 6,
       "text": "The senseless person does not know, and fools do not understand this:",
       "links": "<a href='/AIV/19/14/1'>Ps. 14:1</a>; <a href='/AIV/20/1/7'>Prov. 1:7</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 23092007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 92,
       "verse": 7,
       "text": "though the wicked sprout like grass and all evildoers flourish, they are doomed to be destroyed forever.",
       "links": "<a href='/AIV/19/37/2'>Ps. 37:2</a>; <a href='/AIV/19/73/18'>Ps. 73:18</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 23092008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 92,
       "verse": 8,
       "text": "But you, O Lord, are exalted forever.",
       "links": "<a href='/AIV/19/113/4'>Ps. 113:4</a>; <a href='/AIV/19/97/9'>Ps. 97:9</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 23092009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 92,
       "verse": 9,
       "text": "For behold, your enemies, O Lord, for behold, your enemies shall perish; all evildoers will be scattered.",
       "links": "<a href='/AIV/19/68/1'>Ps. 68:1</a>; <a href='/AIV/19/1/4'>Ps. 1:4</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 23092010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 92,
       "verse": 10,
       "text": "But you have lifted up my horn like that of a wild ox; I am anointed with fresh oil.",
       "links": "<a href='/AIV/19/89/17'>Ps. 89:17</a>; <a href='/AIV/19/23/5'>Ps. 23:5</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 23092011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 92,
       "verse": 11,
       "text": "My eye has seen the downfall of my enemies; my ears have heard of the doom of wicked opponents.",
       "links": "<a href='/AIV/19/54/7'>Ps. 54:7</a>; <a href='/AIV/19/91/8'>Ps. 91:8</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 23092012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 92,
       "verse": 12,
       "text": "The righteous flourish like a palm tree and grow like a cedar in Lebanon.",
       "links": "<a href='/AIV/19/1/3'>Ps. 1:3</a>; <a href='/AIV/19/52/8'>Ps. 52:8</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 23092013,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 92,
       "verse": 13,
       "text": "They are planted in the Lord’s house; they flourish in the courts of our God.",
       "links": "<a href='/AIV/19/84/4'>Ps. 84:4</a>; <a href='/AIV/19/65/4'>Ps. 65:4</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 23092014,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 92,
       "verse": 14,
       "text": "They still bear fruit in old age; they are full of sap and green,",
       "links": "<a href='/AIV/19/92/12'>Ps. 92:12</a>; <a href='/AIV/19/92/13'>Ps. 92:13</a>",
@@ -176,28 +108,10 @@
     },
     {
       "pk": 23092015,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 92,
       "verse": 15,
       "text": "to proclaim that the Lord is upright; he is my rock, and there is no unrighteousness in him.",
       "links": "<a href='/AIV/19/18/2'>Ps. 18:2</a>; <a href='/AIV/19/78/35'>Ps. 78:35</a>",
       "comment": "God’s holiness and reliability are the ultimate foundation for faith. ‘Rock’ evokes both stability and sanctity—often applied to Christ in the New Testament (<a href='/AIV/46/10/4'>1 Cor. 10:4</a>). No unrighteousness in God assures us of the perfect justice and mercy we receive through grace."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:32:02.917Z",
-  "sections": [
-    {
-      "title": "Thanksgiving for God's Faithfulness",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "The Destiny of the Wicked and the Righteous",
-      "startVerse": 6,
-      "endVerse": 15
     }
   ]
 }

@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 30,
   "verses": [
     {
       "pk": 23030001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 30,
       "verse": 1,
       "text": "I will exalt you, O LORD, for you have lifted me up and have not let my enemies rejoice over me.",
       "links": "<a href='/AIV/19/28/6'>Ps. 28:6</a>; <a href='/AIV/19/35/24'>Ps. 35:24</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23030002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 30,
       "verse": 2,
       "text": "O LORD my God, I cried to you for help, and you healed me.",
       "links": "<a href='/AIV/19/6/2'>Ps. 6:2</a>; <a href='/AIV/19/103/3'>Ps. 103:3</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23030003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 30,
       "verse": 3,
       "text": "O LORD, you brought up my soul from Sheol; you restored me to life from among those going down to the pit.",
       "links": "<a href='/AIV/19/16/10'>Ps. 16:10</a>; <a href='/AIV/44/2/27'>Acts 2:27</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23030004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 30,
       "verse": 4,
       "text": "Sing praise to the LORD, you his faithful ones, and give thanks to his holy name.",
       "links": "<a href='/AIV/19/97/12'>Ps. 97:12</a>; <a href='/AIV/19/103/1'>Ps. 103:1</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 23030005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 30,
       "verse": 5,
       "text": "For his anger is only for a moment, but his favor is for life. Weeping may stay for the night, but rejoicing comes in the morning.",
       "links": "<a href='/AIV/19/103/9'>Ps. 103:9</a>; <a href='/AIV/19/126/5'>Ps. 126:5</a>; <a href='/AIV/40/5/4'>Matt. 5:4</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 23030006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 30,
       "verse": 6,
       "text": "As for me, in my prosperity I said, 'I will never be shaken.'",
       "links": "<a href='/AIV/19/10/6'>Ps. 10:6</a>; <a href='/AIV/18/29/18'>Job 29:18</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 23030007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 30,
       "verse": 7,
       "text": "O LORD, by your favor you established me as a strong mountain; but when you hid your face, I was terrified.",
       "links": "<a href='/AIV/19/104/29'>Ps. 104:29</a>; <a href='/AIV/23/54/7-8'>Isa. 54:7-8</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 23030008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 30,
       "verse": 8,
       "text": "To you, O LORD, I cried, and to the Lord I made my supplication:",
       "links": "<a href='/AIV/19/28/2'>Ps. 28:2</a>; <a href='/AIV/19/143/1'>Ps. 143:1</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 23030009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 30,
       "verse": 9,
       "text": "'What profit is there in my death, if I go down to the pit? Will the dust praise you? Will it declare your faithfulness?'",
       "links": "<a href='/AIV/19/6/5'>Ps. 6:5</a>; <a href='/AIV/23/38/18-19'>Isa. 38:18-19</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 23030010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 30,
       "verse": 10,
       "text": "Hear, O LORD, and be gracious to me! O LORD, be my helper!",
       "links": "<a href='/AIV/19/27/7'>Ps. 27:7</a>; <a href='/AIV/58/4/16'>Heb. 4:16</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 23030011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 30,
       "verse": 11,
       "text": "You have turned my mourning into dancing; you have taken off my sackcloth and clothed me with gladness,",
       "links": "<a href='/AIV/19/126/2'>Ps. 126:2</a>; <a href='/AIV/23/61/3'>Isa. 61:3</a>",
@@ -141,33 +88,10 @@
     },
     {
       "pk": 23030012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 30,
       "verse": 12,
       "text": "so that my glory may sing your praise and not be silent. O LORD my God, I will give you thanks forever.",
       "links": "<a href='/AIV/19/104/33'>Ps. 104:33</a>; <a href='/AIV/66/19/5'>Rev. 19:5</a>",
       "comment": "Eternal praise comes as the proper response to God's redemption. The enduring praise of God’s people continues into eternity (cf. Revelation 19:5). This connects with the enduring worship that is central to Christian identity."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:08:23.201Z",
-  "sections": [
-    {
-      "title": "Thanksgiving for Deliverance",
-      "startVerse": 1,
-      "endVerse": 3
-    },
-    {
-      "title": "A Call to Praise and Testimony of God's Mercy",
-      "startVerse": 4,
-      "endVerse": 7
-    },
-    {
-      "title": "Prayer and Restoration",
-      "startVerse": 8,
-      "endVerse": 12
     }
   ]
 }

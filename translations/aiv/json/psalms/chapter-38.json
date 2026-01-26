@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 38,
   "verses": [
     {
       "pk": 23038001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 38,
       "verse": 1,
       "text": "Lord, do not rebuke me in your anger, nor discipline me in your wrath.",
       "links": "<a href='/AIV/19/6/1'>Ps. 6:1</a>; <a href='/AIV/19/118/18'>Ps. 118:18</a>; <a href='/AIV/20/3/12'>Prov. 3:12</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23038002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 38,
       "verse": 2,
       "text": "For your arrows have sunk into me, and your hand has come down upon me.",
       "links": "<a href='/AIV/18/6/4'>Job 6:4</a>; <a href='/AIV/19/32/4'>Ps. 32:4</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23038003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 38,
       "verse": 3,
       "text": "There is no soundness in my flesh because of your anger; there is no health in my bones because of my sin.",
       "links": "<a href='/AIV/19/31/10'>Ps. 31:10</a>; <a href='/AIV/19/38/7'>Ps. 38:7</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23038004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 38,
       "verse": 4,
       "text": "For my iniquities have gone over my head; like a heavy burden, they are too heavy for me to bear.",
       "links": "<a href='/AIV/19/40/12'>Ps. 40:12</a>; <a href='/AIV/23/1/4'>Isa. 1:4</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23038005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 38,
       "verse": 5,
       "text": "My wounds are foul and festering because of my foolishness.",
       "links": "<a href='/AIV/19/32/3'>Ps. 32:3</a>; <a href='/AIV/19/38/11'>Ps. 38:11</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23038006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 38,
       "verse": 6,
       "text": "I am bent over, I am bowed down greatly; I go mourning all day long.",
       "links": "<a href='/AIV/19/35/14'>Ps. 35:14</a>; <a href='/AIV/19/42/9'>Ps. 42:9</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23038007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 38,
       "verse": 7,
       "text": "For my sides are filled with burning, and there is no health in my body.",
       "links": "<a href='/AIV/19/38/3'>Ps. 38:3</a>; <a href='/AIV/18/30/17'>Job 30:17</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 23038008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 38,
       "verse": 8,
       "text": "I am feeble and utterly crushed; I groan because of the anguish of my heart.",
       "links": "<a href='/AIV/19/22/14'>Ps. 22:14</a>; <a href='/AIV/19/51/8'>Ps. 51:8</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 23038009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 38,
       "verse": 9,
       "text": "Lord, all my desire is before you, and my sighing is not hidden from you.",
       "links": "<a href='/AIV/19/139/4'>Ps. 139:4</a>; <a href='/AIV/19/10/17'>Ps. 10:17</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 23038010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 38,
       "verse": 10,
       "text": "My heart throbs, my strength fails me; even the light of my eyes—it has also gone from me.",
       "links": "<a href='/AIV/19/13/3'>Ps. 13:3</a>; <a href='/AIV/19/88/9'>Ps. 88:9</a>",
@@ -127,11 +79,6 @@
     },
     {
       "pk": 23038011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 38,
       "verse": 11,
       "text": "My loved ones and my friends stand aloof from my plague; my relatives stand far off.",
       "links": "<a href='/AIV/19/88/8'>Ps. 88:8</a>; <a href='/AIV/19/69/8'>Ps. 69:8</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 23038012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 38,
       "verse": 12,
       "text": "Those who seek my life lay snares; those who seek my harm speak of destruction and plot treachery all day long.",
       "links": "<a href='/AIV/19/109/20'>Ps. 109:20</a>; <a href='/AIV/40/26/4'>Matt. 26:4</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 23038013,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 38,
       "verse": 13,
       "text": "But I, like a deaf man, do not hear; and like a mute man who does not open his mouth.",
       "links": "<a href='/AIV/19/39/2'>Ps. 39:2</a>; <a href='/AIV/23/53/7'>Isa. 53:7</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 23038014,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 38,
       "verse": 14,
       "text": "Yes, I am like a man who does not hear, and whose mouth offers no reply.",
       "links": "<a href='/AIV/19/39/9'>Ps. 39:9</a>; <a href='/AIV/23/53/7'>Isa. 53:7</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 23038015,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 38,
       "verse": 15,
       "text": "For in you, O Lord, I hope; you will answer, O Lord my God.",
       "links": "<a href='/AIV/19/39/7'>Ps. 39:7</a>; <a href='/AIV/19/42/11'>Ps. 42:11</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 23038016,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 38,
       "verse": 16,
       "text": "For I said, 'Lest they rejoice over me—when my foot slips, they magnify themselves against me.'",
       "links": "<a href='/AIV/19/35/19'>Ps. 35:19</a>; <a href='/AIV/19/13/4'>Ps. 13:4</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 23038017,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 38,
       "verse": 17,
       "text": "For I am ready to fall; and my pain is ever before me.",
       "links": "<a href='/AIV/19/51/3'>Ps. 51:3</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 23038018,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 38,
       "verse": 18,
       "text": "I confess my iniquity; I am troubled because of my sin.",
       "links": "<a href='/AIV/19/32/5'>Ps. 32:5</a>; <a href='/AIV/19/51/3-4'>Ps. 51:3-4</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 23038019,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 38,
       "verse": 19,
       "text": "But my enemies are vigorous and strong; those who hate me without cause are many.",
       "links": "<a href='/AIV/19/35/19'>Ps. 35:19</a>; <a href='/AIV/43/15/25'>John 15:25</a>",
@@ -237,11 +144,6 @@
     },
     {
       "pk": 23038020,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 38,
       "verse": 20,
       "text": "Those who repay evil for good accuse me, because I follow what is good.",
       "links": "<a href='/AIV/19/35/12'>Ps. 35:12</a>; <a href='/AIV/45/12/17'>Rom. 12:17</a>",
@@ -249,11 +151,6 @@
     },
     {
       "pk": 23038021,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 38,
       "verse": 21,
       "text": "Do not forsake me, O Lord; my God, do not be far from me.",
       "links": "<a href='/AIV/19/22/1'>Ps. 22:1</a>; <a href='/AIV/58/13/5'>Heb. 13:5</a>",
@@ -261,33 +158,10 @@
     },
     {
       "pk": 23038022,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 38,
       "verse": 22,
       "text": "Make haste to help me, O Lord, my salvation!",
       "links": "<a href='/AIV/19/22/19'>Ps. 22:19</a>; <a href='/AIV/19/70/1'>Ps. 70:1</a>",
       "comment": "The closing cry for deliverance prefigures Christ as Savior and the need for prompt aid in time of trial. The Psalm as a whole is both a penitential prayer and a prophecy fulfilled in the suffering, patient Messiah."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:12:07.341Z",
-  "sections": [
-    {
-      "title": "A Cry of Distress Under God's Discipline",
-      "startVerse": 1,
-      "endVerse": 10
-    },
-    {
-      "title": "Loneliness and Attacks from Enemies",
-      "startVerse": 11,
-      "endVerse": 14
-    },
-    {
-      "title": "Confession, Plea for Mercy, and Hope in God",
-      "startVerse": 15,
-      "endVerse": 22
     }
   ]
 }

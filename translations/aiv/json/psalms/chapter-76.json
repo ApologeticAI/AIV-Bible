@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 76,
   "verses": [
     {
       "pk": 23076001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 76,
       "verse": 1,
       "text": "God is known in Judah; his name is great in Israel.",
       "links": "<a href='/AIV/19/48/1'>Ps. 48:1</a>; <a href='/AIV/19/114/2'>Ps. 114:2</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23076002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 76,
       "verse": 2,
       "text": "His tent is in Salem; his dwelling place is in Zion.",
       "links": "<a href='/AIV/01/14/18'>Gen. 14:18</a>; <a href='/AIV/19/87/2'>Ps. 87:2</a>; <a href='/AIV/19/132/13'>Ps. 132:13</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23076003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 76,
       "verse": 3,
       "text": "There he shattered the flaming arrows, the shield, the sword, and the weapons of war.",
       "links": "<a href='/AIV/19/46/9'>Ps. 46:9</a>; <a href='/AIV/23/2/4'>Isa. 2:4</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23076004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 76,
       "verse": 4,
       "text": "You are resplendent, more majestic than the mountains full of prey.",
       "links": "<a href='/AIV/19/68/35'>Ps. 68:35</a>; <a href='/AIV/19/104/1'>Ps. 104:1</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23076005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 76,
       "verse": 5,
       "text": "The brave-hearted lie plundered, they sleep their last sleep; none of the warriors could lift their hands.",
       "links": "<a href='/AIV/02/15/1-5'>Ex. 15:1-5</a>; <a href='/AIV/19/78/65-66'>Ps. 78:65-66</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23076006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 76,
       "verse": 6,
       "text": "At your rebuke, God of Jacob, both rider and horse lay stunned.",
       "links": "<a href='/AIV/02/14/24-27'>Ex. 14:24-27</a>; <a href='/AIV/19/80/1'>Ps. 80:1</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23076007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 76,
       "verse": 7,
       "text": "You alone are to be feared; who can stand before you when your anger is aroused?",
       "links": "<a href='/AIV/05/10/17'>Deut. 10:17</a>; <a href='/AIV/19/130/3'>Ps. 130:3</a>; <a href='/AIV/66/6/17'>Rev. 6:17</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 23076008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 76,
       "verse": 8,
       "text": "From heaven, you pronounced judgment; the earth feared and was still",
       "links": "<a href='/AIV/19/50/4'>Ps. 50:4</a>; <a href='/AIV/36/3/8'>Zeph. 3:8</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 23076009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 76,
       "verse": 9,
       "text": "when you rose up to bring justice, to save all the humble of the earth.",
       "links": "<a href='/AIV/19/72/4'>Ps. 72:4</a>; <a href='/AIV/19/149/4'>Ps. 149:4</a>; <a href='/AIV/40/23/12'>Matt. 23:12</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 23076010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 76,
       "verse": 10,
       "text": "Surely the anger of man will praise you; the survivors of your wrath will wear it as an ornament.",
       "links": "<a href='/AIV/02/9/12-16'>Ex. 9:12-16</a>; <a href='/AIV/19/46/10'>Ps. 46:10</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 23076011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 76,
       "verse": 11,
       "text": "Make vows to the LORD your God and fulfill them; let all around bring gifts to him who is to be feared.",
       "links": "<a href='/AIV/03/27/2'>Lev. 27:2</a>; <a href='/AIV/19/50/14'>Ps. 50:14</a>; <a href='/AIV/19/96/8'>Ps. 96:8</a>",
@@ -141,33 +88,10 @@
     },
     {
       "pk": 23076012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 76,
       "verse": 12,
       "text": "He cuts off the spirit of princes; he is feared by the kings of the earth.",
       "links": "<a href='/AIV/19/2/10-12'>Ps. 2:10-12</a>; <a href='/AIV/19/110/5'>Ps. 110:5</a>",
       "comment": "God holds ultimate authority over worldly rulers, foreshadowing Christ’s sovereign kingship and final judgment. Spiritual readings recognize submission before divine rule as a mark of true faith, echoing themes fulfilled in the gospel’s call to discipleship and reverence."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:25:19.380Z",
-  "sections": [
-    {
-      "title": "God’s Victory in Zion",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "The Majesty and Judgment of God",
-      "startVerse": 7,
-      "endVerse": 10
-    },
-    {
-      "title": "Call to Worship the Lord",
-      "startVerse": 11,
-      "endVerse": 12
     }
   ]
 }

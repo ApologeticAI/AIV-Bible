@@ -1,16 +1,13 @@
 {
-  "book": 29,
+  "translation": "AIV",
+  "bookId": "isaiah",
   "bookName": "Isaiah",
   "bookAbbreviation": "Isa",
+  "bookNumber": 29,
   "chapter": 35,
   "verses": [
     {
       "pk": 29035001,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 35,
       "verse": 1,
       "text": "The wilderness and the dry land will be glad; the desert will rejoice and blossom like the crocus.",
       "links": "<a href='/AIV/23/32/15'>Isa. 32:15</a>; <a href='/AIV/19/96/12'>Ps. 96:12</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 29035002,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 35,
       "verse": 2,
       "text": "It will blossom abundantly, and rejoice with joy and singing. The glory of Lebanon will be given to it, the majesty of Carmel and Sharon. They will see the glory of the LORD, the splendor of our God.",
       "links": "<a href='/AIV/23/40/5'>Isa. 40:5</a>; <a href='/AIV/19/104/31'>Ps. 104:31</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 29035003,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 35,
       "verse": 3,
       "text": "Strengthen the weak hands, and make firm the feeble knees.",
       "links": "<a href='/AIV/58/12/12'>Heb. 12:12</a>; <a href='/AIV/23/40/29'>Isa. 40:29</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 29035004,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 35,
       "verse": 4,
       "text": "Say to those with an anxious heart, 'Be strong; do not fear! Behold, your God will come with vengeance, with recompense from God. He will come and save you.'",
       "links": "<a href='/AIV/41/1/15'>Mark 1:15</a>; <a href='/AIV/66/22/12'>Rev. 22:12</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 29035005,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 35,
       "verse": 5,
       "text": "Then the eyes of the blind will be opened, and the ears of the deaf unstopped.",
       "links": "<a href='/AIV/40/11/5'>Matt. 11:5</a>; <a href='/AIV/42/7/22'>Luke 7:22</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 29035006,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 35,
       "verse": 6,
       "text": "Then the lame will leap like a deer, and the tongue of the mute will shout for joy. For waters will break forth in the wilderness, and streams in the desert.",
       "links": "<a href='/AIV/43/5/8-9'>John 5:8-9</a>; <a href='/AIV/19/107/35'>Ps. 107:35</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 29035007,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 35,
       "verse": 7,
       "text": "The burning sand will become a pool, and the thirsty ground springs of water; in the haunt where jackals once lay, grass and reeds and papyrus will grow.",
       "links": "<a href='/AIV/23/41/18'>Isa. 41:18</a>; <a href='/AIV/19/84/6'>Ps. 84:6</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 29035008,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 35,
       "verse": 8,
       "text": "A highway will be there, and it will be called the Way of Holiness. The unclean shall not pass over it. It shall belong to those who walk on the way; even if fools, they shall not go astray.",
       "links": "<a href='/AIV/23/40/3'>Isa. 40:3</a>; <a href='/AIV/43/14/6'>John 14:6</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 29035009,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 35,
       "verse": 9,
       "text": "No lion will be there, nor will any ravenous beast go up on it; they shall not be found there. But the redeemed will walk there.",
       "links": "<a href='/AIV/35/3/13'>Nah. 3:13</a>; <a href='/AIV/23/11/6-9'>Isa. 11:6-9</a>",
@@ -117,33 +74,10 @@
     },
     {
       "pk": 29035010,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 35,
       "verse": 10,
       "text": "And the ransomed of the LORD will return and come to Zion with singing; everlasting joy will crown their heads. Gladness and joy will overtake them, and sorrow and sighing will flee away.",
       "links": "<a href='/AIV/23/51/11'>Isa. 51:11</a>; <a href='/AIV/66/21/4'>Rev. 21:4</a>",
       "comment": "The return to Zion is fulfilled both historically (Israel’s return from exile) and spiritually, as the gathering of all the redeemed in the heavenly Jerusalem (cf. Rev. 21:4). The text points toward ultimate joy and union with God—interpreted as a promise for all who remain faithful and persevere to the end."
-    }
-  ],
-  "translatedAt": "2025-12-24T08:06:49.822Z",
-  "sections": [
-    {
-      "title": "The Joyful Transformation of the Wilderness",
-      "startVerse": 1,
-      "endVerse": 4
-    },
-    {
-      "title": "The Healing and Restoration of God's People",
-      "startVerse": 5,
-      "endVerse": 7
-    },
-    {
-      "title": "The Way of Holiness and Return to Zion",
-      "startVerse": 8,
-      "endVerse": 10
     }
   ]
 }

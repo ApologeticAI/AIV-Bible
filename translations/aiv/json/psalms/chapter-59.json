@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 59,
   "verses": [
     {
       "pk": 23059001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 59,
       "verse": 1,
       "text": "Deliver me from my enemies, O God; protect me from those who rise up against me.",
       "links": "<a href='/AIV/19/18/48'>Ps. 18:48</a>; <a href='/AIV/19/17/13'>Ps. 17:13</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23059002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 59,
       "verse": 2,
       "text": "Deliver me from those who do evil, and save me from bloodthirsty men.",
       "links": "<a href='/AIV/19/7/1'>Ps. 7:1</a>; <a href='/AIV/19/26/9-10'>Ps. 26:9-10</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23059003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 59,
       "verse": 3,
       "text": "For see, they lie in wait for my life; fierce men assemble against me, not for my transgression or for my sin, O LORD.",
       "links": "<a href='/AIV/19/35/7'>Ps. 35:7</a>; <a href='/AIV/09/24/11'>1 Sam. 24:11</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23059004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 59,
       "verse": 4,
       "text": "Without any fault of mine, they run and prepare themselves. Rise to help me and see!",
       "links": "<a href='/AIV/19/35/23'>Ps. 35:23</a>; <a href='/AIV/19/44/21'>Ps. 44:21</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23059005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 59,
       "verse": 5,
       "text": "You, O LORD God of Hosts, the God of Israel, awake to punish all the nations; be merciful to none of those who treacherously plot evil. Selah.",
       "links": "<a href='/AIV/19/80/4'>Ps. 80:4</a>; <a href='/AIV/19/7/6'>Ps. 7:6</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23059006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 59,
       "verse": 6,
       "text": "They return at evening, snarling like dogs, and prowl around the city.",
       "links": "<a href='/AIV/19/22/16'>Ps. 22:16</a>; <a href='/AIV/19/59/14'>Ps. 59:14</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23059007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 59,
       "verse": 7,
       "text": "See how they pour out words with their mouths; swords are on their lips, for they say, 'Who hears?'",
       "links": "<a href='/AIV/19/64/3-4'>Ps. 64:3-4</a>; <a href='/AIV/19/10/11'>Ps. 10:11</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 23059008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 59,
       "verse": 8,
       "text": "But you, O LORD, laugh at them; you hold all the nations in derision.",
       "links": "<a href='/AIV/19/2/4'>Ps. 2:4</a>; <a href='/AIV/19/37/13'>Ps. 37:13</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 23059009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 59,
       "verse": 9,
       "text": "O my Strength, I will watch for you, for you, O God, are my fortress.",
       "links": "<a href='/AIV/19/18/2'>Ps. 18:2</a>; <a href='/AIV/19/62/2'>Ps. 62:2</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 23059010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 59,
       "verse": 10,
       "text": "My God in his steadfast love will meet me; God will let me look in triumph on my enemies.",
       "links": "<a href='/AIV/19/21/13'>Ps. 21:13</a>; <a href='/AIV/19/23/6'>Ps. 23:6</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 23059011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 59,
       "verse": 11,
       "text": "Do not kill them, or my people may forget; make them wander by your power and bring them down, O Lord, our shield.",
       "links": "<a href='/AIV/19/59/13'>Ps. 59:13</a>; <a href='/AIV/02/9/16'>Ex. 9:16</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 23059012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 59,
       "verse": 12,
       "text": "For the sin of their mouths, the words of their lips, let them be trapped in their pride. For the curses and lies they utter,",
       "links": "<a href='/AIV/19/7/16'>Ps. 7:16</a>; <a href='/AIV/19/140/9'>Ps. 140:9</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 23059013,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 59,
       "verse": 13,
       "text": "consume them in wrath; consume them till they are no more. Then men will know that God rules over Jacob to the ends of the earth. Selah.",
       "links": "<a href='/AIV/19/83/17-18'>Ps. 83:17-18</a>; <a href='/AIV/19/46/10'>Ps. 46:10</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 23059014,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 59,
       "verse": 14,
       "text": "They return at evening, snarling like dogs and prowling around the city.",
       "links": "<a href='/AIV/19/59/6'>Ps. 59:6</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 23059015,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 59,
       "verse": 15,
       "text": "They wander about for food and growl if they are not satisfied.",
       "links": "<a href='/AIV/18/30/4-7'>Job 30:4-7</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 23059016,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 59,
       "verse": 16,
       "text": "But I will sing of your strength; I will sing aloud of your steadfast love in the morning. For you have been my fortress and my refuge in days of trouble.",
       "links": "<a href='/AIV/19/89/1'>Ps. 89:1</a>; <a href='/AIV/19/46/1'>Ps. 46:1</a>",
@@ -202,38 +124,10 @@
     },
     {
       "pk": 23059017,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 59,
       "verse": 17,
       "text": "O my Strength, to you I will sing praises, for you, O God, are my fortress, the God who shows me steadfast love.",
       "links": "<a href='/AIV/19/59/9'>Ps. 59:9</a>; <a href='/AIV/19/144/2'>Ps. 144:2</a>",
       "comment": "The closing verse reaffirms God’s protection and covenant love. The language of sanctuary and praise points toward a liturgical response: singing to God as evidence of faith, mirroring the continual worship practiced by the early Christians (Col. 3:16). The structure and repetition also encourage regular participation in both private and communal prayer."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:19:18.830Z",
-  "sections": [
-    {
-      "title": "Prayer for Deliverance from Enemies",
-      "startVerse": 1,
-      "endVerse": 8
-    },
-    {
-      "title": "Confidence in God's Protection",
-      "startVerse": 9,
-      "endVerse": 10
-    },
-    {
-      "title": "Judgment upon the Wicked",
-      "startVerse": 11,
-      "endVerse": 15
-    },
-    {
-      "title": "Praise for God's Strength and Love",
-      "startVerse": 16,
-      "endVerse": 17
     }
   ]
 }

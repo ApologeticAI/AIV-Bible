@@ -1,16 +1,13 @@
 {
-  "book": 25,
+  "translation": "AIV",
+  "bookId": "ecclesiastes",
   "bookName": "Ecclesiastes",
   "bookAbbreviation": "Eccl",
+  "bookNumber": 25,
   "chapter": 8,
   "verses": [
     {
       "pk": 25008001,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 8,
       "verse": 1,
       "text": "Who is like the wise man, and who knows the interpretation of a matter? A man's wisdom brightens his face, and the hardness of his countenance is changed.",
       "links": "<a href='/AIV/20/4/7'>Prov. 4:7</a>; <a href='/AIV/19/34/5'>Ps. 34:5</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 25008002,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 8,
       "verse": 2,
       "text": "I say: Keep the king’s command because of your oath before God.",
       "links": "<a href='/AIV/20/24/21'>Prov. 24:21</a>; <a href='/AIV/40/22/21'>Matt. 22:21</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 25008003,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 8,
       "verse": 3,
       "text": "Do not be hasty to leave the king’s presence or persist in an evil matter, for he does whatever pleases him.",
       "links": "<a href='/AIV/20/16/14'>Prov. 16:14</a>; <a href='/AIV/40/5/25'>Matt. 5:25</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 25008004,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 8,
       "verse": 4,
       "text": "Since the word of the king is supreme, who can say to him, 'What are you doing?'",
       "links": "<a href='/AIV/18/9/12'>Job 9:12</a>; <a href='/AIV/23/45/9'>Isa. 45:9</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 25008005,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 8,
       "verse": 5,
       "text": "Whoever keeps a command will know no evil thing, and the heart of the wise knows the proper time and way.",
       "links": "<a href='/AIV/19/119/6'>Ps. 119:6</a>; <a href='/AIV/20/24/23'>Prov. 24:23</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 25008006,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 8,
       "verse": 6,
       "text": "For there is a proper time and way for every matter, though man's trouble rests heavily on him.",
       "links": "<a href='/AIV/25/3/1'>Eccl. 3:1</a>; <a href='/AIV/18/5/7'>Job 5:7</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 25008007,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 8,
       "verse": 7,
       "text": "For no one knows what will happen, and who can tell him how it will be?",
       "links": "<a href='/AIV/20/27/1'>Prov. 27:1</a>; <a href='/AIV/25/7/14'>Eccl. 7:14</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 25008008,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 8,
       "verse": 8,
       "text": "No man has power over the wind to control it, nor power over the day of death. There is no discharge in the time of war, nor will wickedness deliver those who practice it.",
       "links": "<a href='/AIV/18/14/5'>Job 14:5</a>; <a href='/AIV/25/9/12'>Eccl. 9:12</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 25008009,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 8,
       "verse": 9,
       "text": "All this I saw, as I applied my heart to all the deeds done under the sun. There is a time when one man rules over another to his own hurt.",
       "links": "<a href='/AIV/25/4/1'>Eccl. 4:1</a>; <a href='/AIV/20/29/2'>Prov. 29:2</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 25008010,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 8,
       "verse": 10,
       "text": "So I saw the wicked buried, who had come and gone from the holy place, and they were praised in the city where they had done such things. This too is futility.",
       "links": "<a href='/AIV/20/24/16'>Prov. 24:16</a>; <a href='/AIV/19/73/12-19'>Ps. 73:12-19</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 25008011,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 8,
       "verse": 11,
       "text": "Because the sentence against an evil deed is not carried out quickly, the hearts of men are fully set to do evil.",
       "links": "<a href='/AIV/20/29/1'>Prov. 29:1</a>; <a href='/AIV/19/10/6'>Ps. 10:6</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 25008012,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 8,
       "verse": 12,
       "text": "Though a sinner does evil a hundred times and prolongs his life, yet I know that it will be well for those who fear God, who stand in awe before Him.",
       "links": "<a href='/AIV/19/37/1-2'>Ps. 37:1-2</a>; <a href='/AIV/40/10/28'>Matt. 10:28</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 25008013,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 8,
       "verse": 13,
       "text": "But it will not go well with the wicked, nor will he prolong his days like a shadow, because he does not fear God.",
       "links": "<a href='/AIV/19/92/7'>Ps. 92:7</a>; <a href='/AIV/25/7/17'>Eccl. 7:17</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 25008014,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 8,
       "verse": 14,
       "text": "There is futility done on the earth: righteous people get what the wicked deserve, and wicked people get what the righteous deserve. I say this too is futility.",
       "links": "<a href='/AIV/19/73/3-5'>Ps. 73:3-5</a>; <a href='/AIV/20/17/23'>Prov. 17:23</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 25008015,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 8,
       "verse": 15,
       "text": "So I commend joy, for there is nothing better for a person under the sun than to eat, drink, and be glad; for this will go with him in his toil through the days of his life that God gives him under the sun.",
       "links": "<a href='/AIV/25/2/24'>Eccl. 2:24</a>; <a href='/AIV/25/9/7'>Eccl. 9:7</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 25008016,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 8,
       "verse": 16,
       "text": "When I applied my heart to know wisdom and to see the business done on earth—how neither day nor night do people rest in their labor—",
       "links": "<a href='/AIV/25/1/13'>Eccl. 1:13</a>; <a href='/AIV/19/127/2'>Ps. 127:2</a>",
@@ -201,33 +123,10 @@
     },
     {
       "pk": 25008017,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 8,
       "verse": 17,
       "text": "then I saw all the work of God, that man cannot understand the work done under the sun; however much a person labors to seek, he will not find it out. Even if a wise man claims to know, he cannot truly comprehend it.",
       "links": "<a href='/AIV/18/26/14'>Job 26:14</a>; <a href='/AIV/45/11/33'>Rom. 11:33</a>",
       "comment": "Human understanding reaches its limit before the mystery of God. True wisdom is humble and recognizes the need for faith, tradition, and guidance that surpasses mere intellect. This conclusion opens the way for spiritual trust and surrender."
-    }
-  ],
-  "translatedAt": "2025-12-24T07:10:01.783Z",
-  "sections": [
-    {
-      "title": "Obedience to the King and the Limits of Human Power",
-      "startVerse": 1,
-      "endVerse": 9
-    },
-    {
-      "title": "The Fate of the Wicked and the Righteous",
-      "startVerse": 10,
-      "endVerse": 14
-    },
-    {
-      "title": "The Joy Found Amid Life’s Injustices",
-      "startVerse": 15,
-      "endVerse": 17
     }
   ]
 }

@@ -1,16 +1,13 @@
 {
-  "book": 37,
+  "translation": "AIV",
+  "bookId": "amos",
   "bookName": "Amos",
   "bookAbbreviation": "Amos",
+  "bookNumber": 37,
   "chapter": 6,
   "verses": [
     {
       "pk": 37006001,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 6,
       "verse": 1,
       "text": "Woe to those who are at ease in Zion, and to those who feel secure on the mountain of Samaria, the notable men of the foremost of the nations, to whom the house of Israel comes!",
       "links": "<a href='/AIV/23/32/9-11'>Isa. 32:9-11</a>; <a href='/AIV/30/3/9'>Amos 3:9</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 37006002,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 6,
       "verse": 2,
       "text": "Pass over to Calneh and see; and go from there to Hamath the great; then go down to Gath of the Philistines. Are you better than these kingdoms? Or is their territory greater than yours?",
       "links": "<a href='/AIV/01/10/10-12'>Gen. 10:10-12</a>; <a href='/AIV/24/49/23'>Jer. 49:23</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 37006003,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 6,
       "verse": 3,
       "text": "You who put off the evil day, and cause the seat of violence to come near;",
       "links": "<a href='/AIV/23/56/12'>Isa. 56:12</a>; <a href='/AIV/26/12/27-28'>Ezek. 12:27-28</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 37006004,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 6,
       "verse": 4,
       "text": "You who lie on beds of ivory and stretch out yourselves on their couches, and eat lambs from the flock and calves from the midst of the stall;",
       "links": "<a href='/AIV/33/3/12'>Mic. 3:12</a>; <a href='/AIV/30/3/12'>Amos 3:12</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 37006005,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 6,
       "verse": 5,
       "text": "Who sing idle songs to the sound of the harp, and invent for themselves instruments of music, like David;",
       "links": "<a href='/AIV/10/6/5'>2 Sam. 6:5</a>; <a href='/AIV/19/150/3-5'>Ps. 150:3-5</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 37006006,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 6,
       "verse": 6,
       "text": "Who drink wine in bowls and anoint themselves with the finest oils, but are not grieved over the ruin of Joseph.",
       "links": "<a href='/AIV/23/5/11-12'>Isa. 5:11-12</a>; <a href='/AIV/30/5/15'>Amos 5:15</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 37006007,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 6,
       "verse": 7,
       "text": "Therefore they shall now go into exile at the head of the exiles, and the revelry of those who lie stretched out shall be taken away.",
       "links": "<a href='/AIV/12/17/6'>2 Kings 17:6</a>; <a href='/AIV/19/137/1'>Ps. 137:1</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 37006008,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 6,
       "verse": 8,
       "text": "The Lord GOD has sworn by himself,” declares the LORD, the God of hosts: “I abhor the pride of Jacob and hate his strongholds, and I will deliver up the city and all that is in it.”",
       "links": "<a href='/AIV/01/22/16'>Gen. 22:16</a>; <a href='/AIV/10/12/11'>2 Sam. 12:11</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 37006009,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 6,
       "verse": 9,
       "text": "And if ten men remain in one house, they shall die.",
       "links": "<a href='/AIV/03/26/26'>Lev. 26:26</a>; <a href='/AIV/23/6/13'>Isa. 6:13</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 37006010,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 6,
       "verse": 10,
       "text": "And when a relative or whoever is to burn the bodies picks them up to carry them out of the house, he shall say to the one in the innermost parts of the house, 'Is anyone still with you?' And he shall say, 'No.' Then he shall say, 'Silence! For we dare not mention the name of the LORD.'",
       "links": "<a href='/AIV/24/16/6'>Jer. 16:6</a>; <a href='/AIV/07/6/29-32'>Judg. 6:29-32</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 37006011,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 6,
       "verse": 11,
       "text": "For behold, the LORD commands, and the great house shall be smashed to bits, and the little house into pieces.",
       "links": "<a href='/AIV/23/5/5-6'>Isa. 5:5-6</a>; <a href='/AIV/26/7/24'>Ezek. 7:24</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 37006012,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 6,
       "verse": 12,
       "text": "Do horses run on rocks? Does one plow the sea with oxen? But you have turned justice into poison and the fruit of righteousness into wormwood.",
       "links": "<a href='/AIV/05/29/18'>Deut. 29:18</a>; <a href='/AIV/30/5/7'>Amos 5:7</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 37006013,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 6,
       "verse": 13,
       "text": "You who rejoice in Lo-debar, who say, 'Have we not by our own strength taken Karnaim for ourselves?'",
       "links": "<a href='/AIV/10/9/4'>2 Sam. 9:4</a>; <a href='/AIV/28/12/11'>Hos. 12:11</a>",
@@ -164,28 +101,10 @@
     },
     {
       "pk": 37006014,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 6,
       "verse": 14,
       "text": "For behold, I will raise up a nation against you, O house of Israel,” declares the LORD, the God of hosts, “and they shall oppress you from Lebo-hamath to the Brook of the Arabah.”",
       "links": "<a href='/AIV/12/10/32'>2 Kings 10:32</a>; <a href='/AIV/30/2/10'>Amos 2:10</a>",
       "comment": "The full span of Israel’s border—from Lebo-hamath to the Brook of the Arabah—will experience oppression. The raised nation is Assyria (fulfilled in 2 Kings 17:6). Theologically, this reflects the consequences of persistent disobedience but, as always, Divine justice is balanced by the later ministry of restoration and unity, prefiguring the new covenant in Christ (<a href='/AIV/58/8/8-12'>Heb. 8:8-12</a>)."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:43:57.245Z",
-  "sections": [
-    {
-      "title": "The Complacency and Luxury of Israel",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "The Coming Exile and Destruction",
-      "startVerse": 7,
-      "endVerse": 14
     }
   ]
 }

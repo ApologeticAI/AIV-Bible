@@ -1,16 +1,13 @@
 {
-  "book": 60,
+  "translation": "AIV",
+  "bookId": "2-thessalonians",
   "bookName": "2 Thessalonians",
-  "bookAbbreviation": "2Thess",
+  "bookAbbreviation": "2 Thess",
+  "bookNumber": 60,
   "chapter": 1,
   "verses": [
     {
       "pk": 60001001,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 1,
       "verse": 1,
       "text": "Paul, Silvanus, and Timothy, to the church of the Thessalonians in God our Father and the Lord Jesus Christ:",
       "links": "<a href='/AIV/44/15/40'>Acts 15:40</a>; <a href='/AIV/44/17/1'>Acts 17:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 60001002,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 1,
       "verse": 2,
       "text": "Grace to you and peace from God our Father and the Lord Jesus Christ.",
       "links": "<a href='/AIV/45/1/7'>Romans 1:7</a>; <a href='/AIV/46/1/3'>1 Corinthians 1:3</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 60001003,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 1,
       "verse": 3,
       "text": "We must always give thanks to God for you, brothers, as is fitting, because your faith is growing abundantly, and the love of every one of you for one another is increasing.",
       "links": "<a href='/AIV/52/1/2-3'>1 Thessalonians 1:2-3</a>; <a href='/AIV/51/1/4'>Colossians 1:4</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 60001004,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 1,
       "verse": 4,
       "text": "That is why we boast about you among the churches of God, for your steadfastness and faith in all your persecutions and afflictions which you are enduring.",
       "links": "<a href='/AIV/52/2/14'>1 Thessalonians 2:14</a>; <a href='/AIV/47/8/1-2'>2 Corinthians 8:1-2</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 60001005,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 1,
       "verse": 5,
       "text": "This is evidence of the righteous judgment of God, so that you may be considered worthy of the kingdom of God, for which you are suffering.",
       "links": "<a href='/AIV/40/5/10-12'>Matthew 5:10-12</a>; <a href='/AIV/45/8/17'>Romans 8:17</a>",
@@ -69,11 +46,6 @@
     },
     {
       "pk": 60001006,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 1,
       "verse": 6,
       "text": "Since indeed God considers it just to repay with affliction those who afflict you,",
       "links": "<a href='/AIV/45/12/19'>Romans 12:19</a>; <a href='/AIV/19/94/1-2'>Psalm 94:1-2</a>",
@@ -81,11 +53,6 @@
     },
     {
       "pk": 60001007,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 1,
       "verse": 7,
       "text": "and to grant relief to you who are afflicted, as well as to us, when the Lord Jesus is revealed from heaven with his mighty angels",
       "links": "<a href='/AIV/40/24/30-31'>Matthew 24:30-31</a>; <a href='/AIV/66/1/7'>Revelation 1:7</a>",
@@ -93,11 +60,6 @@
     },
     {
       "pk": 60001008,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 1,
       "verse": 8,
       "text": "in flaming fire, inflicting vengeance on those who do not know God and on those who do not obey the gospel of our Lord Jesus.",
       "links": "<a href='/AIV/19/97/3'>Psalm 97:3</a>; <a href='/AIV/55/2/12'>2 Timothy 2:12</a>; <a href='/AIV/66/20/14-15'>Revelation 20:14-15</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 60001009,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 1,
       "verse": 9,
       "text": "They will suffer the penalty of eternal destruction, away from the presence of the Lord and from the glory of his power,",
       "links": "<a href='/AIV/40/25/41'>Matthew 25:41</a>; <a href='/AIV/23/2/10'>Isaiah 2:10</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 60001010,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 1,
       "verse": 10,
       "text": "when he comes on that day to be glorified in his saints and to be marveled at among all who have believed, because our testimony to you was believed.",
       "links": "<a href='/AIV/45/8/30'>Romans 8:30</a>; <a href='/AIV/66/19/7-8'>Revelation 19:7-8</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 60001011,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 1,
       "verse": 11,
       "text": "To this end we always pray for you, that our God may make you worthy of his calling and fulfill every resolve for good and every work of faith by his power,",
       "links": "<a href='/AIV/51/1/9-10'>Colossians 1:9-10</a>; <a href='/AIV/45/8/28-30'>Romans 8:28-30</a>",
@@ -142,38 +89,10 @@
     },
     {
       "pk": 60001012,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 1,
       "verse": 12,
       "text": "so that the name of our Lord Jesus may be glorified in you, and you in him, according to the grace of our God and the Lord Jesus Christ.",
       "links": "<a href='/AIV/49/1/6'>Ephesians 1:6</a>; <a href='/AIV/51/3/4'>Colossians 3:4</a>",
       "comment": "The mutual glorification of Christ and the believer points to deep union with our Lord, achieved by grace. This final verse reiterates the powerful connection between the Christian and Jesus, centered in grace, in both this life and at the consummation. A spiritual interpretation sees the Church as the vessel of Christ’s glory."
-    }
-  ],
-  "translatedAt": "2025-12-24T12:09:46.309Z",
-  "sections": [
-    {
-      "title": "Greeting",
-      "startVerse": 1,
-      "endVerse": 2
-    },
-    {
-      "title": "Thanksgiving and Boasting in Suffering",
-      "startVerse": 3,
-      "endVerse": 4
-    },
-    {
-      "title": "The Righteous Judgment at Christ’s Coming",
-      "startVerse": 5,
-      "endVerse": 10
-    },
-    {
-      "title": "Prayer for the Thessalonians",
-      "startVerse": 11,
-      "endVerse": 12
     }
   ]
 }

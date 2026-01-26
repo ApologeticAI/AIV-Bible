@@ -1,16 +1,13 @@
 {
-  "book": 30,
+  "translation": "AIV",
+  "bookId": "jeremiah",
   "bookName": "Jeremiah",
   "bookAbbreviation": "Jer",
+  "bookNumber": 30,
   "chapter": 16,
   "verses": [
     {
       "pk": 30016001,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 16,
       "verse": 1,
       "text": "The word of the LORD came to me, saying:",
       "links": "<a href='/AIV/24/1/4'>Jer. 1:4</a>; <a href='/AIV/24/7/1'>Jer. 7:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 30016002,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 16,
       "verse": 2,
       "text": "'You must not take a wife or have sons or daughters in this place.'",
       "links": "<a href='/AIV/24/15/1'>Jer. 15:1</a>; <a href='/AIV/28/1/2'>Hos. 1:2</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 30016003,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 16,
       "verse": 3,
       "text": "For this is what the LORD says concerning the sons and daughters born in this place, and concerning their mothers and fathers:",
       "links": "<a href='/AIV/24/44/27'>Jer. 44:27</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 30016004,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 16,
       "verse": 4,
       "text": "'They will die by deadly diseases; they will not be mourned or buried, but will be like dung on the face of the ground. They shall perish by sword and famine, and their bodies shall become food for the birds and wild animals.'",
       "links": "<a href='/AIV/24/7/33'>Jer. 7:33</a>; <a href='/AIV/24/25/33'>Jer. 25:33</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 30016005,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 16,
       "verse": 5,
       "text": "For thus says the LORD: 'Do not enter the house of mourning, do not go to lament or grieve for them, for I have withdrawn My peace from this people,' declares the LORD, 'My lovingkindness and mercy.'",
       "links": "<a href='/AIV/24/14/11'>Jer. 14:11</a>; <a href='/AIV/24/16/9'>Jer. 16:9</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 30016006,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 16,
       "verse": 6,
       "text": "'Both great and small shall die in this land; they will not be buried, nor will anyone mourn for them or cut themselves or shave their heads for them.'",
       "links": "<a href='/AIV/24/25/33'>Jer. 25:33</a>; <a href='/AIV/05/14/1'>Deut. 14:1</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 30016007,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 16,
       "verse": 7,
       "text": "'Nor will they break bread with the mourners to comfort them about the dead, or give them a cup of consolation to drink for their father or mother.'",
       "links": "<a href='/AIV/24/6/26'>Jer. 6:26</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 30016008,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 16,
       "verse": 8,
       "text": "'You shall not go into the house of feasting, to sit with them, to eat and drink.'",
       "links": "<a href='/AIV/24/15/17'>Jer. 15:17</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 30016009,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 16,
       "verse": 9,
       "text": "For thus says the LORD of hosts, the God of Israel: 'Behold, I will silence in this place before your eyes and in your days the voice of joy and gladness, the voice of the bridegroom and the bride.'",
       "links": "<a href='/AIV/24/25/10'>Jer. 25:10</a>; <a href='/AIV/19/78/59'>Ps. 78:59</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 30016010,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 16,
       "verse": 10,
       "text": "'And when you tell this people all these words and they ask you, ‘Why has the LORD pronounced all this great disaster against us? What is our sin, what is our iniquity that we have committed against the LORD our God?’'",
       "links": "<a href='/AIV/24/5/19'>Jer. 5:19</a>; <a href='/AIV/24/5/1'>Jer. 5:1</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 30016011,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 16,
       "verse": 11,
       "text": "Then say to them, 'Because your fathers abandoned Me,' declares the LORD, 'and followed other gods and served them and worshiped them, and abandoned Me and did not keep My law.'",
       "links": "<a href='/AIV/24/11/10'>Jer. 11:10</a>; <a href='/AIV/02/20/3'>Ex. 20:3</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 30016012,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 16,
       "verse": 12,
       "text": "'You have done even worse than your fathers, for behold, each one of you follows his own stubborn evil heart, refusing to listen to Me.'",
       "links": "<a href='/AIV/24/07/26'>Jer. 7:26</a>; <a href='/AIV/24/11/08'>Jer. 11:8</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 30016013,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 16,
       "verse": 13,
       "text": "'So I will cast you out of this land into a land you do not know, neither you nor your fathers. There you shall serve other gods day and night, for I will grant you no grace.'",
       "links": "<a href='/AIV/24/09/16'>Jer. 9:16</a>; <a href='/AIV/24/05/19'>Jer. 5:19</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 30016014,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 16,
       "verse": 14,
       "text": "'Yet behold, the days are coming,' declares the LORD, 'when it will no longer be said, “As the LORD lives who brought up the children of Israel out of the land of Egypt,”'",
       "links": "<a href='/AIV/02/12/51'>Ex. 12:51</a>; <a href='/AIV/24/23/7-8'>Jer. 23:7-8</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 30016015,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 16,
       "verse": 15,
       "text": "'but “As the LORD lives who brought up the children of Israel from the land of the north and out of all the countries where He had driven them.” For I will bring them back to their own land that I gave to their fathers.'",
       "links": "<a href='/AIV/24/23/8'>Jer. 23:8</a>; <a href='/AIV/01/15/18'>Gen. 15:18</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 30016016,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 16,
       "verse": 16,
       "text": "'I am about to send for many fishermen,' declares the LORD, 'and they will catch them; afterward I will send for many hunters, and they will hunt them from every mountain and hill and out of the clefts of the rocks.'",
       "links": "<a href='/AIV/40/4/19'>Matt. 4:19</a>; <a href='/AIV/24/49/9'>Jer. 49:9</a>",
@@ -202,11 +124,6 @@
     },
     {
       "pk": 30016017,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 16,
       "verse": 17,
       "text": "'For My eyes are on all their ways; they are not hidden from Me, nor is their sin concealed from My sight.'",
       "links": "<a href='/AIV/19/139/2-3'>Ps. 139:2-3</a>; <a href='/AIV/58/4/13'>Heb. 4:13</a>",
@@ -214,11 +131,6 @@
     },
     {
       "pk": 30016018,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 16,
       "verse": 18,
       "text": "'First I will repay them double for their iniquity and their sin, because they have defiled My land with the carcasses of their detestable idols and have filled My inheritance with their abominations.'",
       "links": "<a href='/AIV/24/2/7'>Jer. 2:7</a>; <a href='/AIV/66/18/6'>Rev. 18:6</a>",
@@ -226,11 +138,6 @@
     },
     {
       "pk": 30016019,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 16,
       "verse": 19,
       "text": "'O LORD, my strength and my fortress, my refuge in the day of distress! To You nations shall come from the ends of the earth and say, “Our fathers possessed nothing but lies, worthless idols that did not profit.”'",
       "links": "<a href='/AIV/24/3/17'>Jer. 3:17</a>; <a href='/AIV/23/2/2'>Isa. 2:2</a>",
@@ -238,11 +145,6 @@
     },
     {
       "pk": 30016020,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 16,
       "verse": 20,
       "text": "'Can a man make gods for himself? Such are not gods!'",
       "links": "<a href='/AIV/19/115/4-8'>Ps. 115:4-8</a>; <a href='/AIV/23/44/9-20'>Isa. 44:9-20</a>",
@@ -250,38 +152,10 @@
     },
     {
       "pk": 30016021,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 16,
       "verse": 21,
       "text": "'Therefore I will show them, this time, I will make them know My hand and My might; and they shall know that My name is the LORD.'",
       "links": "<a href='/AIV/02/6/7'>Ex. 6:7</a>; <a href='/AIV/24/33/2'>Jer. 33:2</a>",
       "comment": "God promises revelation of His power and identity. This prepares the way for the New Testament manifestation of God’s name and character, ultimately fulfilled in Christ who reveals the fullness of the divine."
-    }
-  ],
-  "translatedAt": "2025-12-24T08:30:25.296Z",
-  "sections": [
-    {
-      "title": "Jeremiah Forbidden to Marry or Mourn",
-      "startVerse": 1,
-      "endVerse": 9
-    },
-    {
-      "title": "The Cause of Judah’s Judgment",
-      "startVerse": 10,
-      "endVerse": 13
-    },
-    {
-      "title": "Promise of Restoration from Exile",
-      "startVerse": 14,
-      "endVerse": 15
-    },
-    {
-      "title": "God’s Judgment and the Nations Turn to the Lord",
-      "startVerse": 16,
-      "endVerse": 21
     }
   ]
 }

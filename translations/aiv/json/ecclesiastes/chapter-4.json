@@ -1,16 +1,13 @@
 {
-  "book": 25,
+  "translation": "AIV",
+  "bookId": "ecclesiastes",
   "bookName": "Ecclesiastes",
   "bookAbbreviation": "Eccl",
+  "bookNumber": 25,
   "chapter": 4,
   "verses": [
     {
       "pk": 25004001,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 4,
       "verse": 1,
       "text": "Then I looked again at all the oppression that is done under the sun. Behold, the tears of the oppressed, and they have no one to comfort them! On the side of their oppressors there is power, but they have no one to comfort them.",
       "links": "<a href='/AIV/21/5/8'>Eccl. 5:8</a>; <a href='/AIV/18/24/12'>Job 24:12</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 25004002,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 4,
       "verse": 2,
       "text": "So I praised the dead who had already died more than the living who are still alive.",
       "links": "<a href='/AIV/18/3/13'>Job 3:13</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 25004003,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 4,
       "verse": 3,
       "text": "But better than both is the one who has not yet been, who has not seen the evil work that is done under the sun.",
       "links": "<a href='/AIV/21/6/3'>Eccl. 6:3</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 25004004,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 4,
       "verse": 4,
       "text": "Then I saw that all toil and every skillful work spring from a man’s rivalry with his neighbor. This also is vanity and a chasing after wind.",
       "links": "<a href='/AIV/21/2/21'>Eccl. 2:21</a>; <a href='/AIV/59/3/16'>Jas. 3:16</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 25004005,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 4,
       "verse": 5,
       "text": "The fool folds his hands and consumes his own flesh.",
       "links": "<a href='/AIV/20/6/10'>Prov. 6:10</a>; <a href='/AIV/20/24/33'>Prov. 24:33</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 25004006,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 4,
       "verse": 6,
       "text": "Better is a handful with quietness than two handfuls with toil and chasing after the wind.",
       "links": "<a href='/AIV/20/15/16'>Prov. 15:16</a>; <a href='/AIV/21/5/12'>Eccl. 5:12</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 25004007,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 4,
       "verse": 7,
       "text": "Again, I saw vanity under the sun:",
       "links": "<a href='/AIV/25/1/14'>Eccl. 1:14</a>; <a href='/AIV/25/2/11'>Eccl. 2:11</a>; <a href='/AIV/52/8/20'>Rom. 8:20</a>",
@@ -93,11 +60,6 @@
     },
     {
       "pk": 25004008,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 4,
       "verse": 8,
       "text": "There is one who is alone, without a second. He has neither son nor brother, yet there is no end to all his toil, and his eyes are never satisfied with riches—he never asks, 'For whom am I toiling and depriving myself of pleasure?' This also is vanity and a miserable business.",
       "links": "<a href='/AIV/21/2/18'>Eccl. 2:18</a>; <a href='/AIV/42/12/20'>Luke 12:20</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 25004009,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 4,
       "verse": 9,
       "text": "Two are better than one, because they have a good reward for their labor.",
       "links": "<a href='/AIV/21/4/12'>Eccl. 4:12</a>; <a href='/AIV/12/2/2'>Gen. 2:18</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 25004010,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 4,
       "verse": 10,
       "text": "For if they fall, one will lift up his companion. But woe to him who is alone when he falls and has not another to lift him up.",
       "links": "<a href='/AIV/20/27/17'>Prov. 27:17</a>; <a href='/AIV/48/6/2'>Gal. 6:2</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 25004011,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 4,
       "verse": 11,
       "text": "Again, if two lie together, they keep warm, but how can one keep warm alone?",
       "links": "<a href='/AIV/05/22/1'>Deut. 22:1</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 25004012,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 4,
       "verse": 12,
       "text": "Though one may prevail against another, two will withstand him. A threefold cord is not quickly broken.",
       "links": "<a href='/AIV/40/18/20'>Matt. 18:20</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 25004013,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 4,
       "verse": 13,
       "text": "Better is a poor and wise youth than an old and foolish king who no longer knows how to take advice.",
       "links": "<a href='/AIV/21/9/15'>Eccl. 9:15</a>; <a href='/AIV/12/41/39'>Gen. 41:39-40</a>",
@@ -166,11 +103,6 @@
     },
     {
       "pk": 25004014,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 4,
       "verse": 14,
       "text": "For out of prison he came to reign, though in his own kingdom he was born poor.",
       "links": "<a href='/AIV/01/41/41'>Gen. 41:41-44</a>; <a href='/AIV/09/16/11'>1 Sam. 16:11-13</a>",
@@ -178,11 +110,6 @@
     },
     {
       "pk": 25004015,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 4,
       "verse": 15,
       "text": "I saw all the living who walk under the sun follow the youth, the successor, who stands in his place.",
       "links": "<a href='/AIV/21/2/12'>Eccl. 2:12</a>",
@@ -190,38 +117,10 @@
     },
     {
       "pk": 25004016,
-      "translation": "AIV",
-      "book": 25,
-      "bookName": "Ecclesiastes",
-      "bookAbbreviation": "Eccl",
-      "chapter": 4,
       "verse": 16,
       "text": "There was no end to all the people, to all whom he led. Yet those who come later will not rejoice in him. Surely this also is vanity and a chasing after wind.",
       "links": "<a href='/AIV/21/1/2'>Eccl. 1:2</a>",
       "comment": "Fame and influence are ultimately temporary and unsatisfying. This reiterates the vanity of worldly pursuits and subtly points to the importance of seeking something eternal—namely, participation in the unbroken unity and faithfulness found in the true body of Christ."
-    }
-  ],
-  "translatedAt": "2025-12-24T07:08:23.206Z",
-  "sections": [
-    {
-      "title": "The Oppression of the Helpless",
-      "startVerse": 1,
-      "endVerse": 3
-    },
-    {
-      "title": "The Vanity of Toil and Rivalry",
-      "startVerse": 4,
-      "endVerse": 6
-    },
-    {
-      "title": "The Value of Companionship",
-      "startVerse": 7,
-      "endVerse": 12
-    },
-    {
-      "title": "The Futility of Kingship and Popularity",
-      "startVerse": 13,
-      "endVerse": 16
     }
   ]
 }

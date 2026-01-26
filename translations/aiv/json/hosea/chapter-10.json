@@ -1,16 +1,13 @@
 {
-  "book": 35,
+  "translation": "AIV",
+  "bookId": "hosea",
   "bookName": "Hosea",
   "bookAbbreviation": "Hos",
+  "bookNumber": 35,
   "chapter": 10,
   "verses": [
     {
       "pk": 35010001,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 10,
       "verse": 1,
       "text": "Israel is a spreading vine; he brings forth fruit for himself. The more his fruit increased, the more he built altars; as his land prospered, he adorned his sacred pillars.",
       "links": "<a href='/AIV/28/2/8'>Hos. 2:8</a>; <a href='/AIV/05/12/2-3'>Deut. 12:2–3</a>; <a href='/AIV/28/8/11'>Hos. 8:11</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 35010002,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 10,
       "verse": 2,
       "text": "Their heart is divided; now they must bear their guilt. The Lord will break down their altars and destroy their sacred pillars.",
       "links": "<a href='/AIV/19/119/113'>Ps. 119:113</a>; <a href='/AIV/05/7/5'>Deut. 7:5</a>; <a href='/AIV/28/8/14'>Hos. 8:14</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 35010003,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 10,
       "verse": 3,
       "text": "Then they will say, 'We have no king, for we did not fear the Lord. And even if we had a king, what could he do for us?'",
       "links": "<a href='/AIV/28/3/4'>Hos. 3:4</a>; <a href='/AIV/28/13/10-11'>Hos. 13:10–11</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 35010004,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 10,
       "verse": 4,
       "text": "They speak empty words, swearing false oaths while making covenants; so judgment springs up like poisonous weeds in the furrows of the field.",
       "links": "<a href='/AIV/19/12/2'>Ps. 12:2</a>; <a href='/AIV/24/17/6'>Jer. 17:6</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 35010005,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 10,
       "verse": 5,
       "text": "The inhabitants of Samaria tremble for the calf of Beth-aven. Its people mourn for it, and its priests wail over it—over its glory, because it has departed from it.",
       "links": "<a href='/AIV/11/12/28-30'>1 Kgs. 12:28–30</a>; <a href='/AIV/28/4/15'>Hos. 4:15</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 35010006,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 10,
       "verse": 6,
       "text": "Indeed, it shall be carried to Assyria as tribute for the great king. Ephraim will be put to shame, and Israel will be ashamed of his own counsel.",
       "links": "<a href='/AIV/28/5/13'>Hos. 5:13</a>; <a href='/AIV/12/17/3-6'>2 Kgs. 17:3–6</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 35010007,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 10,
       "verse": 7,
       "text": "Samaria’s king will disappear like a twig floating on the surface of the water.",
       "links": "<a href='/AIV/28/13/11'>Hos. 13:11</a>; <a href='/AIV/23/7/8'>Isa. 7:8</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 35010008,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 10,
       "verse": 8,
       "text": "The high places of Aven, the sin of Israel, will be destroyed. Thorn and thistle will grow on their altars. Then they will say to the mountains, 'Cover us!' and to the hills, 'Fall on us!'",
       "links": "<a href='/AIV/28/4/15'>Hos. 4:15</a>; <a href='/AIV/42/23/30'>Luke 23:30</a>; <a href='/AIV/66/6/16'>Rev. 6:16</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 35010009,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 10,
       "verse": 9,
       "text": "Since the days of Gibeah, you have sinned, O Israel. There they have continued. Shall not war overtake them in Gibeah because of the wickedness of the people?",
       "links": "<a href='/AIV/07/19/22-30'>Judg. 19:22–30</a>; <a href='/AIV/09/9/9'>Hos. 9:9</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 35010010,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 10,
       "verse": 10,
       "text": "When I please, I will discipline them. Nations will be gathered against them when they are bound for their double guilt.",
       "links": "<a href='/AIV/28/2/10'>Hos. 2:10</a>; <a href='/AIV/24/30/11'>Jer. 30:11</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 35010011,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 10,
       "verse": 11,
       "text": "Ephraim was a trained heifer that loved to thresh, so I spared her fair neck. But I will put Ephraim to the yoke; Judah must plow; Jacob must break up the ground.",
       "links": "<a href='/AIV/05/25/4'>Deut. 25:4</a>; <a href='/AIV/28/6/11'>Hos. 6:11</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 35010012,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 10,
       "verse": 12,
       "text": "Sow for yourselves righteousness; reap unfailing love. Break up your fallow ground, for it is time to seek the Lord, until He comes and showers righteousness upon you.",
       "links": "<a href='/AIV/24/4/3'>Jer. 4:3</a>; <a href='/AIV/28/2/19'>Hos. 2:19</a>; <a href='/AIV/40/6/33'>Matt. 6:33</a>",
@@ -154,11 +96,6 @@
     },
     {
       "pk": 35010013,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 10,
       "verse": 13,
       "text": "You have plowed wickedness, you have reaped injustice, you have eaten the fruit of lies. Because you have trusted in your own way and in your many warriors,",
       "links": "<a href='/AIV/28/8/7'>Hos. 8:7</a>; <a href='/AIV/19/33/16-17'>Ps. 33:16–17</a>",
@@ -166,11 +103,6 @@
     },
     {
       "pk": 35010014,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 10,
       "verse": 14,
       "text": "therefore, the roar of battle will arise among your people, and all your strongholds will be destroyed, as Shalman destroyed Beth-arbel in the day of battle; mothers were dashed to pieces with their children.",
       "links": "<a href='/AIV/12/17/3'>2 Kgs. 17:3</a>; <a href='/AIV/19/137/9'>Ps. 137:9</a>",
@@ -178,38 +110,10 @@
     },
     {
       "pk": 35010015,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 10,
       "verse": 15,
       "text": "So it will be done to you, O Bethel, because of your great evil. At dawn the king of Israel will be utterly cut off.",
       "links": "<a href='/AIV/28/1/4'>Hos. 1:4</a>; <a href='/AIV/28/10/7'>Hos. 10:7</a>",
       "comment": "Final pronouncement of judgment. Bethel, once a place of encounter with God, became a source of idolatry. The sudden removal of Israel’s king points to a future longing for a true Shepherd-King who will never be cut off (see <a href='/AIV/40/2/6'>Matt. 2:6</a>)."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:38:39.693Z",
-  "sections": [
-    {
-      "title": "Israel’s Idolatry and Punishment",
-      "startVerse": 1,
-      "endVerse": 4
-    },
-    {
-      "title": "Judgment Against Samaria and Beth-aven",
-      "startVerse": 5,
-      "endVerse": 8
-    },
-    {
-      "title": "The Sins of Gibeah and Promise of Discipline",
-      "startVerse": 9,
-      "endVerse": 11
-    },
-    {
-      "title": "Call to Repentance and Warning of Destruction",
-      "startVerse": 12,
-      "endVerse": 15
     }
   ]
 }

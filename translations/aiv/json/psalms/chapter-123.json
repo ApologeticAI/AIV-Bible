@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 123,
   "verses": [
     {
       "pk": 23123001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 123,
       "verse": 1,
       "text": "To you I lift up my eyes, O you who sit enthroned in heaven.",
       "links": "<a href='/AIV/19/121/1'>Ps. 121:1</a>; <a href='/AIV/19/11/4'>Ps. 11:4</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23123002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 123,
       "verse": 2,
       "text": "Just as the eyes of servants look to the hand of their master, and the eyes of a maid to the hand of her mistress, so our eyes look to the Lord our God, until he shows us mercy.",
       "links": "<a href='/AIV/19/25/15'>Ps. 25:15</a>; <a href='/AIV/19/130/6'>Ps. 130:6</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23123003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 123,
       "verse": 3,
       "text": "Have mercy on us, O Lord, have mercy! For we have endured much contempt.",
       "links": "<a href='/AIV/19/4/1'>Ps. 4:1</a>; <a href='/AIV/19/51/1'>Ps. 51:1</a>",
@@ -43,23 +30,10 @@
     },
     {
       "pk": 23123004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 123,
       "verse": 4,
       "text": "Our soul has had more than enough of the scorn of those who are at ease, of the contempt of the proud.",
       "links": "<a href='/AIV/19/73/3-12'>Ps. 73:3-12</a>; <a href='/AIV/19/119/51'>Ps. 119:51</a>",
       "comment": "Here, the psalmist expresses exhaustion from the mockery and arrogance of the prosperous and proud. This is a reminder that God calls his people to humility and dependence on Him, not the fleeting comforts of self-sufficiency. Theologically, this verse can be read as a call to deep unity among believers, persevering together in adversity and not isolating oneself—an idea central to apostolic teaching and the historical church's focus on visible unity."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:42:44.905Z",
-  "sections": [
-    {
-      "title": "A Plea for Mercy",
-      "startVerse": 1,
-      "endVerse": 4
     }
   ]
 }

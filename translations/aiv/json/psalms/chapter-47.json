@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 47,
   "verses": [
     {
       "pk": 23047001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 47,
       "verse": 1,
       "text": "Clap your hands, all you peoples! Shout to God with a voice of triumph!",
       "links": "<a href='/AIV/19/66/1'>Ps. 66:1</a>; <a href='/AIV/19/98/4'>Ps. 98:4</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23047002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 47,
       "verse": 2,
       "text": "For the LORD Most High is awe-inspiring; he is the great King over all the earth.",
       "links": "<a href='/AIV/19/95/3'>Ps. 95:3</a>; <a href='/AIV/19/96/4'>Ps. 96:4</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23047003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 47,
       "verse": 3,
       "text": "He subdues peoples under us, and nations under our feet.",
       "links": "<a href='/AIV/19/18/47'>Ps. 18:47</a>; <a href='/AIV/19/110/1'>Ps. 110:1</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23047004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 47,
       "verse": 4,
       "text": "He chooses our inheritance for us, the pride of Jacob whom he loves. Selah.",
       "links": "<a href='/AIV/19/105/11'>Ps. 105:11</a>; <a href='/AIV/05/32/9'>Deut. 32:9</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23047005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 47,
       "verse": 5,
       "text": "God has gone up with a shout, the LORD with the sound of a trumpet.",
       "links": "<a href='/AIV/19/68/18'>Ps. 68:18</a>; <a href='/AIV/42/24/51'>Luke 24:51</a>; <a href='/AIV/46/15/52'>1 Cor. 15:52</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 23047006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 47,
       "verse": 6,
       "text": "Sing praises to God, sing praises! Sing praises to our King, sing praises!",
       "links": "<a href='/AIV/19/66/4'>Ps. 66:4</a>; <a href='/AIV/19/98/4-6'>Ps. 98:4-6</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 23047007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 47,
       "verse": 7,
       "text": "For God is the King of all the earth; sing praises with understanding.",
       "links": "<a href='/AIV/19/22/28'>Ps. 22:28</a>; <a href='/AIV/19/99/1'>Ps. 99:1</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 23047008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 47,
       "verse": 8,
       "text": "God reigns over the nations; God sits on his holy throne.",
       "links": "<a href='/AIV/19/9/7'>Ps. 9:7</a>; <a href='/AIV/19/103/19'>Ps. 103:19</a>",
@@ -104,28 +66,10 @@
     },
     {
       "pk": 23047009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 47,
       "verse": 9,
       "text": "The princes of the peoples gather as the people of the God of Abraham. For the shields of the earth belong to God; he is greatly exalted.",
       "links": "<a href='/AIV/19/72/11'>Ps. 72:11</a>; <a href='/AIV/01/12/3'>Gen. 12:3</a>; <a href='/AIV/50/2/10-11'>Phil. 2:10-11</a>",
       "comment": "The gathering of the nations around the God of Abraham points toward the unity of all peoples in one faith, fulfilling the promises to Abraham. The 'shields' symbolize rulers; all earthly authority is ultimately subject to God. This prefigures the unity of all believers under one divine shepherd as seen in <a href='/AIV/43/10/16'>John 10:16</a>."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:14:50.645Z",
-  "sections": [
-    {
-      "title": "God, King of All the Earth",
-      "startVerse": 1,
-      "endVerse": 4
-    },
-    {
-      "title": "The Ascension of the Lord",
-      "startVerse": 5,
-      "endVerse": 9
     }
   ]
 }

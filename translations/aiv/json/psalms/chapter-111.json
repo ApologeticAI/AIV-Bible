@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 111,
   "verses": [
     {
       "pk": 23111001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 111,
       "verse": 1,
       "text": "Praise the LORD! I will give thanks to the LORD with all my heart, in the assembly of the upright, and in the congregation.",
       "links": "<a href='/AIV/19/9/1'>Ps. 9:1</a>; <a href='/AIV/19/35/18'>Ps. 35:18</a>; <a href='/AIV/19/86/12'>Ps. 86:12</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23111002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 111,
       "verse": 2,
       "text": "Great are the works of the LORD, studied by all who delight in them.",
       "links": "<a href='/AIV/19/104/24'>Ps. 104:24</a>; <a href='/AIV/19/145/4'>Ps. 145:4</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23111003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 111,
       "verse": 3,
       "text": "Splendid and majestic is his work, and his righteousness endures forever.",
       "links": "<a href='/AIV/19/112/3'>Ps. 112:3</a>; <a href='/AIV/19/145/7'>Ps. 145:7</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23111004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 111,
       "verse": 4,
       "text": "He has caused his wonders to be remembered; the LORD is gracious and full of compassion.",
       "links": "<a href='/AIV/19/78/4'>Ps. 78:4</a>; <a href='/AIV/19/145/8'>Ps. 145:8</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23111005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 111,
       "verse": 5,
       "text": "He gives food to those who fear him; he remembers his covenant forever.",
       "links": "<a href='/AIV/2/16/4'>Ex. 16:4</a>; <a href='/AIV/19/105/8'>Ps. 105:8</a>; <a href='/AIV/19/145/15'>Ps. 145:15</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23111006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 111,
       "verse": 6,
       "text": "He has shown his people the power of his works, giving them the inheritance of the nations.",
       "links": "<a href='/AIV/5/4/37-38'>Deut. 4:37-38</a>; <a href='/AIV/19/105/44'>Ps. 105:44</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23111007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 111,
       "verse": 7,
       "text": "The works of his hands are faithful and just; all his precepts are trustworthy.",
       "links": "<a href='/AIV/19/19/7'>Ps. 19:7</a>; <a href='/AIV/19/119/138'>Ps. 119:138</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 23111008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 111,
       "verse": 8,
       "text": "They are established forever and ever, enacted in truth and uprightness.",
       "links": "<a href='/AIV/19/89/34'>Ps. 89:34</a>; <a href='/AIV/19/119/160'>Ps. 119:160</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 23111009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 111,
       "verse": 9,
       "text": "He sent redemption to his people; he has commanded his covenant forever. Holy and awesome is his name!",
       "links": "<a href='/AIV/19/130/7-8'>Ps. 130:7-8</a>; <a href='/AIV/42/1/68-69'>Luke 1:68-69</a>",
@@ -115,23 +72,10 @@
     },
     {
       "pk": 23111010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 111,
       "verse": 10,
       "text": "The fear of the LORD is the beginning of wisdom; all who practice it have good understanding. His praise endures forever.",
       "links": "<a href='/AIV/20/1/7'>Prov. 1:7</a>; <a href='/AIV/19/112/1'>Ps. 112:1</a>",
       "comment": "Reverent awe before God is the root of true wisdom. Practicing worship and obedience leads to understanding, emphasizing that living faith is expressed through both word and ritual (<a href='/AIV/43/13/17'>John 13:17</a>)."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:39:28.802Z",
-  "sections": [
-    {
-      "title": "Praise of God's Wonderful Works",
-      "startVerse": 1,
-      "endVerse": 10
     }
   ]
 }

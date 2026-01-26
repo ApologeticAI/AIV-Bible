@@ -1,16 +1,13 @@
 {
-  "book": 14,
+  "translation": "AIV",
+  "bookId": "2-chronicles",
   "bookName": "2 Chronicles",
-  "bookAbbreviation": "2Chr",
+  "bookAbbreviation": "2 Chr",
+  "bookNumber": 14,
   "chapter": 1,
   "verses": [
     {
       "pk": 14001001,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 1,
       "verse": 1,
       "text": "Solomon the son of David made himself strong in his kingdom, and the Lord his God was with him and exalted him greatly.",
       "links": "<a href='/AIV/13/28/5-7'>1 Chr. 28:5-7</a>; <a href='/AIV/11/2/46'>1 Kgs. 2:46</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 14001002,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 1,
       "verse": 2,
       "text": "Solomon spoke to all Israel, to the commanders of thousands and hundreds, to the judges, and to every leader in all Israel, the heads of the fathers’ houses.",
       "links": "<a href='/AIV/13/27/1'>1 Chr. 27:1</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 14001003,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 1,
       "verse": 3,
       "text": "Then Solomon and all the assembly with him went to the high place at Gibeon, because the tent of meeting of God, which Moses the servant of the Lord had made in the wilderness, was there.",
       "links": "<a href='/AIV/02/40/34-38'>Exod. 40:34-38</a>; <a href='/AIV/09/21/29'>1 Sam. 21:29</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 14001004,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 1,
       "verse": 4,
       "text": "But David had brought up the ark of God from Kiriath-jearim to the place David had prepared for it, for he had pitched a tent for it in Jerusalem.",
       "links": "<a href='/AIV/10/6/2'>2 Sam. 6:2</a>; <a href='/AIV/13/15/1'>1 Chr. 15:1</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 14001005,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 1,
       "verse": 5,
       "text": "Moreover, the bronze altar that Bezalel the son of Uri, son of Hur, had made, was there before the tabernacle of the Lord. And Solomon and the assembly sought it out.",
       "links": "<a href='/AIV/02/31/2'>Exod. 31:2</a>; <a href='/AIV/02/38/1'>Exod. 38:1</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 14001006,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 1,
       "verse": 6,
       "text": "And Solomon went up there to the bronze altar before the Lord at the tent of meeting, and offered a thousand burnt offerings on it.",
       "links": "<a href='/AIV/11/3/4'>1 Kgs. 3:4</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 14001007,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 1,
       "verse": 7,
       "text": "That night God appeared to Solomon and said to him, 'Ask for whatever you wish Me to give you.'",
       "links": "<a href='/AIV/11/3/5'>1 Kgs. 3:5</a>; <a href='/AIV/40/7/7'>Matt. 7:7</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 14001008,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 1,
       "verse": 8,
       "text": "And Solomon said to God, 'You have shown great and steadfast love to David my father, and have made me king in his place.'",
       "links": "<a href='/AIV/10/7/15'>2 Sam. 7:15</a>; <a href='/AIV/11/3/6'>1 Kgs. 3:6</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 14001009,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 1,
       "verse": 9,
       "text": "'O Lord God, let Your promise to David my father be realized, for You have made me king over a people as numerous as the dust of the earth.'",
       "links": "<a href='/AIV/01/13/16'>Gen. 13:16</a>; <a href='/AIV/10/7/12'>2 Sam. 7:12</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 14001010,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 1,
       "verse": 10,
       "text": "'Now give me wisdom and knowledge so that I may lead this people, for who is able to govern this great people of Yours?'",
       "links": "<a href='/AIV/11/3/9'>1 Kgs. 3:9</a>; <a href='/AIV/20/2/3-6'>Prov. 2:3-6</a>; <a href='/AIV/59/1/5'>Jas. 1:5</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 14001011,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 1,
       "verse": 11,
       "text": "And God said to Solomon, 'Because this was in your heart, and you have not asked for riches, wealth, or honor, nor the death of your enemies, nor have you asked for a long life, but have asked for wisdom and knowledge to govern My people over whom I have made you king,'",
       "links": "<a href='/AIV/19/37/4'>Ps. 37:4</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 14001012,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 1,
       "verse": 12,
       "text": "'Wisdom and knowledge are granted to you. And I will give you riches, wealth, and honor, unlike any king before you or after you.'",
       "links": "<a href='/AIV/11/3/12-13'>1 Kgs. 3:12-13</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 14001013,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 1,
       "verse": 13,
       "text": "So Solomon came from the high place at Gibeon, from before the tent of meeting, to Jerusalem. And he reigned over Israel.",
       "links": "<a href='/AIV/11/3/15'>1 Kgs. 3:15</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 14001014,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 1,
       "verse": 14,
       "text": "Solomon gathered chariots and horsemen. He had one thousand four hundred chariots and twelve thousand horsemen, whom he stationed in the chariot cities and with the king at Jerusalem.",
       "links": "<a href='/AIV/11/10/26'>1 Kgs. 10:26</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 14001015,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 1,
       "verse": 15,
       "text": "And the king made silver and gold in Jerusalem as plentiful as stones, and cedars as abundant as the sycamores in the foothills.",
       "links": "<a href='/AIV/11/10/27'>1 Kgs. 10:27</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 14001016,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 1,
       "verse": 16,
       "text": "Solomon’s horses were imported from Egypt and Kue. The king’s merchants purchased them from Kue at a price.",
       "links": "<a href='/AIV/11/10/28'>1 Kgs. 10:28</a>",
@@ -201,33 +123,10 @@
     },
     {
       "pk": 14001017,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 1,
       "verse": 17,
       "text": "A chariot could be imported from Egypt for six hundred shekels of silver, and a horse for one hundred fifty. In the same way, they exported them to all the kings of the Hittites and of Aram.",
       "links": "<a href='/AIV/11/10/29'>1 Kgs. 10:29</a>",
       "comment": "The mention of trade with neighboring peoples shows Israel’s influence, but stresses that true security does not come from riches or alliances, but from fidelity to God and His covenant."
-    }
-  ],
-  "translatedAt": "2025-12-24T04:21:55.620Z",
-  "sections": [
-    {
-      "title": "Solomon Worships at Gibeon",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "Solomon's Prayer for Wisdom",
-      "startVerse": 7,
-      "endVerse": 13
-    },
-    {
-      "title": "Solomon's Wealth and Chariots",
-      "startVerse": 14,
-      "endVerse": 17
     }
   ]
 }

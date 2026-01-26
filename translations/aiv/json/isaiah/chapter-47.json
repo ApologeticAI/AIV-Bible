@@ -1,16 +1,13 @@
 {
-  "book": 29,
+  "translation": "AIV",
+  "bookId": "isaiah",
   "bookName": "Isaiah",
   "bookAbbreviation": "Isa",
+  "bookNumber": 29,
   "chapter": 47,
   "verses": [
     {
       "pk": 29047001,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 47,
       "verse": 1,
       "text": "Come down and sit in the dust, virgin daughter of Babylon. Sit on the ground without a throne, daughter of the Chaldeans. For you shall no longer be called tender and delicate.",
       "links": "<a href='/AIV/19/137/8'>Ps. 137:8</a>; <a href='/AIV/24/51/33'>Jer. 51:33</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 29047002,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 47,
       "verse": 2,
       "text": "Take millstones and grind flour; remove your veil. Strip off your skirt, uncover your legs, cross the rivers.",
       "links": "<a href='/AIV/25/1/15'>Lam. 1:15</a>; <a href='/AIV/34/3/5'>Nah. 3:5</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 29047003,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 47,
       "verse": 3,
       "text": "Your nakedness will be uncovered, your shame will be seen. I will take vengeance, and I will not meet you as a man.",
       "links": "<a href='/AIV/19/79/12'>Ps. 79:12</a>; <a href='/AIV/66/18/6'>Rev. 18:6</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 29047004,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 47,
       "verse": 4,
       "text": "Our Redeemer—the LORD of hosts is His name—the Holy One of Israel.",
       "links": "<a href='/AIV/23/41/14'>Isa. 41:14</a>; <a href='/AIV/19/24/10'>Ps. 24:10</a>; <a href='/AIV/42/1/68'>Luke 1:68</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 29047005,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 47,
       "verse": 5,
       "text": "Sit in silence, and go into darkness, daughter of the Chaldeans; for you shall no longer be called the mistress of kingdoms.",
       "links": "<a href='/AIV/23/13/10'>Isa. 13:10</a>; <a href='/AIV/66/18/7'>Rev. 18:7</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 29047006,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 47,
       "verse": 6,
       "text": "I was angry with My people; I profaned My inheritance and gave them into your hand. You showed them no mercy; you laid a heavy yoke on the elderly.",
       "links": "<a href='/AIV/19/106/40'>Ps. 106:40</a>; <a href='/AIV/25/5/13'>Lam. 5:13</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 29047007,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 47,
       "verse": 7,
       "text": "You said, 'I will be mistress forever,' so you did not take these things to heart or think about their end.",
       "links": "<a href='/AIV/19/49/11'>Ps. 49:11</a>; <a href='/AIV/66/18/7'>Rev. 18:7</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 29047008,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 47,
       "verse": 8,
       "text": "Now listen, you lover of pleasures, who sits securely, who says in your heart, 'I am, and there is no one else beside me; I will not sit as a widow or know the loss of children.'",
       "links": "<a href='/AIV/66/18/7'>Rev. 18:7</a>; <a href='/AIV/23/45/6'>Isa. 45:6</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 29047009,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 47,
       "verse": 9,
       "text": "But these two things will come to you in a moment, in one day: loss of children and widowhood. They will come upon you in full measure, despite your many sorceries and great enchantments.",
       "links": "<a href='/AIV/23/13/22'>Isa. 13:22</a>; <a href='/AIV/66/18/8'>Rev. 18:8</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 29047010,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 47,
       "verse": 10,
       "text": "You trusted in your wickedness. You said, 'No one sees me.' Your wisdom and knowledge led you astray, and you said in your heart, 'I am, and there is no one else beside me.'",
       "links": "<a href='/AIV/35/2/4'>Hab. 2:4</a>; <a href='/AIV/23/45/5'>Isa. 45:5</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 29047011,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 47,
       "verse": 11,
       "text": "Therefore disaster shall come upon you, and you will not know its dawn. Misfortune will fall on you, and you will not be able to charm it away. Ruin will come on you suddenly, which you do not foresee.",
       "links": "<a href='/AIV/66/18/8'>Rev. 18:8</a>; <a href='/AIV/20/6/15'>Prov. 6:15</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 29047012,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 47,
       "verse": 12,
       "text": "Stand now with your enchantments and the multitude of your sorceries, with which you have labored from your youth; perhaps you may be able to benefit, perhaps you may cause terror.",
       "links": "<a href='/AIV/24/27/9'>Jer. 27:9</a>; <a href='/AIV/44/8/9'>Acts 8:9</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 29047013,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 47,
       "verse": 13,
       "text": "You are exhausted by your many counsels; let your astrologers stand up and save you, those who divide the heavens and make known what shall come upon you.",
       "links": "<a href='/AIV/27/2/2'>Dan. 2:2</a>; <a href='/AIV/23/44/25'>Isa. 44:25</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 29047014,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 47,
       "verse": 14,
       "text": "Behold, they are like stubble; fire consumes them. They cannot rescue themselves from the power of the flame. There is no coal for warming, nor fire to sit before.",
       "links": "<a href='/AIV/23/33/11'>Isa. 33:11</a>; <a href='/AIV/19/83/14'>Ps. 83:14</a>",
@@ -177,33 +109,10 @@
     },
     {
       "pk": 29047015,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 47,
       "verse": 15,
       "text": "So shall those with whom you have labored, your merchants from your youth, wander each in his own direction; there is no one to save you.",
       "links": "<a href='/AIV/66/18/11'>Rev. 18:11</a>; <a href='/AIV/23/43/11'>Isa. 43:11</a>",
       "comment": "In the end, Babylon is utterly forsaken, unable to rely on the relationships or commerce built by human effort. Salvation is found nowhere but in the LORD Himself—foreshadowing the exclusivity of redemption in Christ and the necessity of perseverance in unity and faith (<a href='/AIV/43/14/6'>John 14:6</a>)."
-    }
-  ],
-  "translatedAt": "2025-12-24T08:12:51.601Z",
-  "sections": [
-    {
-      "title": "The Humiliation of Babylon",
-      "startVerse": 1,
-      "endVerse": 7
-    },
-    {
-      "title": "The Judgment on Babylon’s Arrogance",
-      "startVerse": 8,
-      "endVerse": 11
-    },
-    {
-      "title": "The Futility of Babylon’s Sorceries",
-      "startVerse": 12,
-      "endVerse": 15
     }
   ]
 }

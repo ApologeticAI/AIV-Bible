@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 128,
   "verses": [
     {
       "pk": 23128001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 128,
       "verse": 1,
       "text": "Blessed is everyone who fears the LORD, who walks in his ways.",
       "links": "<a href='/AIV/19/1/1'>Ps. 1:1</a>; <a href='/AIV/19/112/1'>Ps. 112:1</a>; <a href='/AIV/19/119/1'>Ps. 119:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23128002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 128,
       "verse": 2,
       "text": "You will eat the fruit of your labor; you will be blessed and it will be well with you.",
       "links": "<a href='/AIV/5/28/2-6'>Deut. 28:2-6</a>; <a href='/AIV/19/90/17'>Ps. 90:17</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23128003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 128,
       "verse": 3,
       "text": "Your wife will be like a fruitful vine within your house, your children like olive shoots around your table.",
       "links": "<a href='/AIV/19/52/8'>Ps. 52:8</a>; <a href='/AIV/20/31/10-31'>Prov. 31:10-31</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23128004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 128,
       "verse": 4,
       "text": "Behold, thus shall the man be blessed who fears the LORD.",
       "links": "<a href='/AIV/19/127/3-5'>Ps. 127:3-5</a>; <a href='/AIV/19/1/1-3'>Ps. 1:1-3</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23128005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 128,
       "verse": 5,
       "text": "May the LORD bless you from Zion; may you see the prosperity of Jerusalem all the days of your life.",
       "links": "<a href='/AIV/19/134/3'>Ps. 134:3</a>; <a href='/AIV/19/122/6'>Ps. 122:6</a>",
@@ -68,28 +45,10 @@
     },
     {
       "pk": 23128006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 128,
       "verse": 6,
       "text": "May you see your children's children. Peace be upon Israel!",
       "links": "<a href='/AIV/5/6/2'>Deut. 6:2</a>; <a href='/AIV/19/125/5'>Ps. 125:5</a>",
       "comment": "Longevity to see descendants is the crowning blessing, reflecting the value placed on generational heritage. The closing invocation for peace upon Israel is both literal and spiritual: ‘peace’ (shalom) suggests completeness, security, and well-being. In the spiritual sense, Israel symbolizes the gathered people of God, future hope for all faithful believers. This echoes the Pauline teaching on the unified people of God (<a href='/AIV/45/11/26'>Rom. 11:26</a>), hinting at the enduring unity and universality of God’s blessing."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:43:43.743Z",
-  "sections": [
-    {
-      "title": "The Blessings of Those Who Fear the Lord",
-      "startVerse": 1,
-      "endVerse": 4
-    },
-    {
-      "title": "Prayer for Blessing from Zion",
-      "startVerse": 5,
-      "endVerse": 6
     }
   ]
 }

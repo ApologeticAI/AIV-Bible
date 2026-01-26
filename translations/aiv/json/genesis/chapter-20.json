@@ -1,16 +1,13 @@
 {
-  "book": 1,
+  "translation": "AIV",
+  "bookId": "genesis",
   "bookName": "Genesis",
   "bookAbbreviation": "Gen",
+  "bookNumber": 1,
   "chapter": 20,
   "verses": [
     {
       "pk": 1020001,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 20,
       "verse": 1,
       "text": "Abraham traveled from there toward the region of the Negev, and settled between Kadesh and Shur. While he was staying in Gerar as a foreigner,",
       "links": "<a href='/AIV/1/16/7'>Gen. 16:7</a>; <a href='/AIV/1/12/9'>Gen. 12:9</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 1020002,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 20,
       "verse": 2,
       "text": "Abraham said about Sarah his wife, 'She is my sister.' So Abimelech king of Gerar sent and took Sarah.",
       "links": "<a href='/AIV/1/12/13'>Gen. 12:13</a>; <a href='/AIV/1/26/7'>Gen. 26:7</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 1020003,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 20,
       "verse": 3,
       "text": "But God came to Abimelech in a dream by night and said, 'You are as good as dead because of the woman whom you have taken, for she is a man’s wife.'",
       "links": "<a href='/AIV/1/12/17'>Gen. 12:17</a>; <a href='/AIV/1/31/24'>Gen. 31:24</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 1020004,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 20,
       "verse": 4,
       "text": "Now Abimelech had not come near her, so he said, 'Lord, will you destroy an innocent nation also?'",
       "links": "<a href='/AIV/1/18/23'>Gen. 18:23</a>; <a href='/AIV/1/19/4-5'>Gen. 19:4-5</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 1020005,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 20,
       "verse": 5,
       "text": "'Didn’t he say to me, “She is my sister”? And she herself even said, “He is my brother.” I have done this with a clear heart and clean hands.'",
       "links": "<a href='/AIV/18/22/30'>Job 22:30</a>; <a href='/AIV/19/24/4'>Ps. 24:4</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 1020006,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 20,
       "verse": 6,
       "text": "Then God said to him in the dream, 'Yes, I know that you have done this with a pure heart. That is why I withheld you from sinning against Me; therefore I did not let you touch her.'",
       "links": "<a href='/AIV/19/19/13'>Ps. 19:13</a>; <a href='/AIV/1/39/9'>Gen. 39:9</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 1020007,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 20,
       "verse": 7,
       "text": "Now therefore, restore the man’s wife; for he is a prophet, and he will pray for you and you will live. But if you do not restore her, know that you will surely die, you and all who are yours.'",
       "links": "<a href='/AIV/18/42/8'>Job 42:8</a>; <a href='/AIV/1/12/17'>Gen. 12:17</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 1020008,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 20,
       "verse": 8,
       "text": "So Abimelech rose early in the morning and called all his servants, and told them all these things; and the men were greatly afraid.",
       "links": "<a href='/AIV/1/41/8'>Gen. 41:8</a>; <a href='/AIV/2/9/20-21'>Ex. 9:20-21</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 1020009,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 20,
       "verse": 9,
       "text": "Then Abimelech called Abraham, and said to him, 'What have you done to us? How have I sinned against you, that you have brought upon me and my kingdom a great sin? You have done things to me that ought not to have been done.'",
       "links": "<a href='/AIV/1/12/18'>Gen. 12:18</a>; <a href='/AIV/1/26/10'>Gen. 26:10</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 1020010,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 20,
       "verse": 10,
       "text": "Abimelech also said to Abraham, 'What were you thinking, that you did this thing?'",
       "links": "<a href='/AIV/1/26/9-10'>Gen. 26:9-10</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 1020011,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 20,
       "verse": 11,
       "text": "Abraham said, 'I thought, Surely there is no fear of God in this place, and they will kill me because of my wife.'",
       "links": "<a href='/AIV/1/12/12'>Gen. 12:12</a>; <a href='/AIV/19/36/1'>Ps. 36:1</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 1020012,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 20,
       "verse": 12,
       "text": "And besides, she really is my sister, the daughter of my father but not the daughter of my mother, and she became my wife.",
       "links": "<a href='/AIV/1/11/29'>Gen. 11:29</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 1020013,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 20,
       "verse": 13,
       "text": "When God caused me to wander from my father’s house, I said to her, \"This is the kindness you must show me: at every place to which we come, say of me, ‘He is my brother.’\"",
       "links": "<a href='/AIV/1/12/1'>Gen. 12:1</a>; <a href='/AIV/1/12/13'>Gen. 12:13</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 1020014,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 20,
       "verse": 14,
       "text": "Then Abimelech took sheep and oxen, male servants and female servants, and gave them to Abraham, and he returned Sarah his wife to him.",
       "links": "<a href='/AIV/1/12/16'>Gen. 12:16</a>; <a href='/AIV/1/13/2'>Gen. 13:2</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 1020015,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 20,
       "verse": 15,
       "text": "Abimelech said, 'See, my land is before you; settle wherever you please.'",
       "links": "<a href='/AIV/1/13/9'>Gen. 13:9</a>; <a href='/AIV/1/34/10'>Gen. 34:10</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 1020016,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 20,
       "verse": 16,
       "text": "To Sarah he said, 'Look, I have given your brother a thousand pieces of silver. This is to vindicate you before all who are with you. You are completely cleared.'",
       "links": "<a href='/AIV/1/24/53'>Gen. 24:53</a>; <a href='/AIV/1/26/11'>Gen. 26:11</a>",
@@ -200,11 +122,6 @@
     },
     {
       "pk": 1020017,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 20,
       "verse": 17,
       "text": "Then Abraham prayed to God, and God healed Abimelech, and his wife and female servants, so they could have children again.",
       "links": "<a href='/AIV/1/12/17'>Gen. 12:17</a>; <a href='/AIV/18/42/9-10'>Job 42:9-10</a>",
@@ -213,33 +130,10 @@
     },
     {
       "pk": 1020018,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 20,
       "verse": 18,
       "text": "For the LORD had closed all the wombs in the household of Abimelech because of Sarah, Abraham’s wife.",
       "links": "<a href='/AIV/1/16/2'>Gen. 16:2</a>; <a href='/AIV/1/30/2'>Gen. 30:2</a>",
       "comment": "God’s sovereign opening and closing of wombs demonstrates His authority over life. This continues the theme of barrenness and miraculous birth found throughout Scripture (cf. Luke 1:7, 1:36), often paralleling salvation history."
-    }
-  ],
-  "translatedAt": "2025-12-24T00:20:40.541Z",
-  "sections": [
-    {
-      "title": "Abraham and Sarah in Gerar",
-      "startVerse": 1,
-      "endVerse": 8
-    },
-    {
-      "title": "Abraham’s Explanation and Abimelech’s Restitution",
-      "startVerse": 9,
-      "endVerse": 16
-    },
-    {
-      "title": "Abraham Prays for Abimelech",
-      "startVerse": 17,
-      "endVerse": 18
     }
   ]
 }

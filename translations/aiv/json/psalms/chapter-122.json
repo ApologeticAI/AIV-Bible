@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 122,
   "verses": [
     {
       "pk": 23122001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 122,
       "verse": 1,
       "text": "I was glad when they said to me, 'Let us go to the house of the Lord.'",
       "links": "<a href='/AIV/19/42/4'>Ps. 42:4</a>; <a href='/AIV/19/84/1-2'>Ps. 84:1-2</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23122002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 122,
       "verse": 2,
       "text": "Our feet are standing within your gates, O Jerusalem.",
       "links": "<a href='/AIV/19/48/12-13'>Ps. 48:12-13</a>; <a href='/AIV/19/87/2'>Ps. 87:2</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23122003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 122,
       "verse": 3,
       "text": "Jerusalem, built as a city joined together as one,",
       "links": "<a href='/AIV/19/133/1'>Ps. 133:1</a>; <a href='/AIV/49/2/21-22'>Eph. 2:21-22</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23122004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 122,
       "verse": 4,
       "text": "to which the tribes go up—the tribes of the Lord—as a testimony for Israel, to praise the name of the Lord.",
       "links": "<a href='/AIV/19/122/1'>Ps. 122:1</a>; <a href='/AIV/19/87/7'>Ps. 87:7</a>; <a href='/AIV/05/16/16'>Deut. 16:16</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23122005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 122,
       "verse": 5,
       "text": "For there, thrones for judgment were set, the thrones of the house of David.",
       "links": "<a href='/AIV/10/08/15'>2 Sam. 8:15</a>; <a href='/AIV/19/89/36-37'>Ps. 89:36-37</a>; <a href='/AIV/42/01/32-33'>Luke 1:32-33</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23122006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 122,
       "verse": 6,
       "text": "Pray for the peace of Jerusalem: 'May those who love you be secure.'",
       "links": "<a href='/AIV/19/125/2'>Ps. 125:2</a>; <a href='/AIV/23/62/6-7'>Isa. 62:6-7</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 23122007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 122,
       "verse": 7,
       "text": "Peace be within your walls, and security within your citadels.",
       "links": "<a href='/AIV/19/51/18'>Ps. 51:18</a>; <a href='/AIV/19/48/13-14'>Ps. 48:13-14</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 23122008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 122,
       "verse": 8,
       "text": "For the sake of my brothers and my friends, I will say, 'Peace be within you.'",
       "links": "<a href='/AIV/19/122/6'>Ps. 122:6</a>; <a href='/AIV/45/12/18'>Rom. 12:18</a>",
@@ -104,28 +66,10 @@
     },
     {
       "pk": 23122009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 122,
       "verse": 9,
       "text": "For the sake of the house of the Lord our God, I will seek your good.",
       "links": "<a href='/AIV/19/27/4'>Ps. 27:4</a>; <a href='/AIV/19/69/9'>Ps. 69:9</a>; <a href='/AIV/19/84/10'>Ps. 84:10</a>",
       "comment": "The psalm ends with devotion to the house of the Lord—a concern for God’s dwelling and its welfare, which reflects the ideal of prioritizing God’s worship and presence, a theme later echoed in the New Testament community (Acts 2:46-47)."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:42:37.588Z",
-  "sections": [
-    {
-      "title": "Joyful Pilgrimage to Jerusalem",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "Prayer for the Peace of Jerusalem",
-      "startVerse": 6,
-      "endVerse": 9
     }
   ]
 }

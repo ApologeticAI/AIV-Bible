@@ -1,16 +1,13 @@
 {
-  "book": 27,
+  "translation": "AIV",
+  "bookId": "wisdom",
   "bookName": "Wisdom",
   "bookAbbreviation": "Wis",
+  "bookNumber": 27,
   "chapter": 3,
   "verses": [
     {
       "pk": 27003001,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 3,
       "verse": 1,
       "text": "But the souls of the righteous are in the hand of God, and no torment will ever touch them.",
       "links": "<a href='/AIV/19/23/4'>Ps. 23:4</a>; <a href='/AIV/41/12/27'>Mk 12:27</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 27003002,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 3,
       "verse": 2,
       "text": "In the eyes of the foolish, they seemed to die, and their departure was considered a disaster.",
       "links": "<a href='/AIV/23/57/1-2'>Isa 57:1-2</a>; <a href='/AIV/19/14/1'>Ps. 14:1</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 27003003,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 3,
       "verse": 3,
       "text": "Their departure from us is thought to be their ruin, but they are at peace.",
       "links": "<a href='/AIV/29/57/2'>Isa. 57:2</a>; <a href='/AIV/57/1/23'>Phil. 1:23</a>; <a href='/AIV/59/4/14'>1Thess. 4:14</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 27003004,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 3,
       "verse": 4,
       "text": "For though in the sight of others they seemed to be punished, their hope was full of immortality.",
       "links": "<a href='/AIV/52/8/18'>Rom. 8:18</a>; <a href='/AIV/54/4/17'>2Cor. 4:17</a>; <a href='/AIV/50/11/25'>John. 11:25</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 27003005,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 3,
       "verse": 5,
       "text": "After being disciplined a little, they will receive great good, because God tested them and found them worthy of himself.",
       "links": "<a href='/AIV/66/1/12'>Jas. 1:12</a>; <a href='/AIV/67/1/6'>1Pet. 1:6-7</a>; <a href='/AIV/73/2/10'>Rev. 2:10</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 27003006,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 3,
       "verse": 6,
       "text": "Like gold in the furnace he tested them, and like a sacrificial burnt offering he accepted them.",
       "links": "<a href='/AIV/40/13/43'>Mt 13:43</a>; <a href='/AIV/27/12/3'>Dan 12:3</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 27003007,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 3,
       "verse": 7,
       "text": "In the time of their visitation they will shine forth, and will run like sparks through the stubble.",
       "links": "<a href='/AIV/27/7/22'>Dan 7:22</a>; <a href='/AIV/40/19/28'>Mt 19:28</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 27003008,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 3,
       "verse": 8,
       "text": "They will govern nations and rule over peoples, and the Lord will reign over them forever.",
       "links": "<a href='/AIV/34/7/27'>Dan. 7:27</a>; <a href='/AIV/47/19/28'>Matt. 19:28</a>; <a href='/AIV/73/20/4'>Rev. 20:4</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 27003009,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 3,
       "verse": 9,
       "text": "Those who trust in him will understand truth, and the faithful will abide with him in love, because grace and mercy are upon his holy ones, and he watches over his elect.",
       "links": "<a href='/AIV/23/34/22'>Ps. 34:22</a>; <a href='/AIV/50/8/32'>John. 8:32</a>; <a href='/AIV/52/8/28'>Rom. 8:28</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 27003010,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 3,
       "verse": 10,
       "text": "But the ungodly will be punished as their reasoning deserves, those who disregarded the righteous and rebelled against the Lord;",
       "links": "<a href='/AIV/20/1/7'>Prov 1:7</a>; <a href='/AIV/21/2/11'>Eccl 2:11</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 27003011,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 3,
       "verse": 11,
       "text": "For those who despise wisdom and instruction are miserable. Their hope is vain, their labors are unprofitable, and their works are useless.",
       "links": "<a href='/AIV/58/12/15'>Heb 12:15</a>; <a href='/AIV/24/23/40'>Jer 23:40</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 27003012,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 3,
       "verse": 12,
       "text": "Their wives are foolish, and their children evil;",
       "links": "<a href='/AIV/23/56/3-5'>Isa 56:3-5</a>; <a href='/AIV/40/19/12'>Mt 19:12</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 27003013,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 3,
       "verse": 13,
       "text": "On Childlessness\nBlessed is the barren woman who is undefiled, who has not entered into a sinful union; she will have fruit when God examines souls.",
       "links": "<a href='/AIV/29/54/1'>Isa. 54:1</a>; <a href='/AIV/47/19/12'>Matt. 19:12</a>; <a href='/AIV/49/23/29'>Luke. 23:29</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 27003014,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 3,
       "verse": 14,
       "text": "Blessed also is the eunuch whose hands have done no lawless deed, and who has not devised wicked things against the Lord; for special favor will be shown him for his faithfulness, and a place of great delight in the temple of the Lord.",
       "links": "<a href='/AIV/23/56/4-5'>Isa 56:4-5</a>; <a href='/AIV/19/84/10'>Ps. 84:10</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 27003015,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 3,
       "verse": 15,
       "text": "For the fruit of good labors is renowned, and the root of understanding does not fail.",
       "links": "<a href='/AIV/24/3/13'>Prov. 3:13</a>; <a href='/AIV/47/7/17'>Matt. 7:17</a>; <a href='/AIV/66/3/17'>Jas. 3:17</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 27003016,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 3,
       "verse": 16,
       "text": "But children of adulterers will not come to maturity, and the offspring of an unlawful union will perish.",
       "links": "<a href='/AIV/21/8/10'>Eccl 8:10</a>; <a href='/AIV/19/49/12'>Ps. 49:12</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 27003017,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 3,
       "verse": 17,
       "text": "Even if they live long they will be held of no account, and finally their old age will be without honor.",
       "links": "<a href='/AIV/19/78/34'>Ps. 78:34</a>; <a href='/AIV/23/48/22'>Isa 48:22</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 27003018,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 3,
       "verse": 18,
       "text": "If they die young, they will have no hope and no consolation on the day of judgment.",
       "links": "<a href='/AIV/24/11/7'>Prov. 11:7</a>; <a href='/AIV/49/12/20'>Luke. 12:20</a>; <a href='/AIV/47/25/11'>Matt. 25:11-12</a>",
@@ -225,33 +137,10 @@
     },
     {
       "pk": 27003019,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 3,
       "verse": 19,
       "text": "For the end of an unrighteous generation is grievous.",
       "links": "<a href='/AIV/23/1/4'>Ps. 1:4-6</a>; <a href='/AIV/47/7/26'>Matt. 7:26-27</a>; <a href='/AIV/52/6/23'>Rom. 6:23</a>",
       "comment": "The final destiny of the wicked is sorrowful and disastrous, underscoring the severity of divine justice and the ultimate futility of a godless life—see Psalm 1:6."
-    }
-  ],
-  "translatedAt": "2026-01-01T22:01:56.750Z",
-  "sections": [
-    {
-      "title": "The Reward of the Righteous",
-      "startVerse": 1,
-      "endVerse": 8
-    },
-    {
-      "title": "The Punishment of the Ungodly",
-      "startVerse": 9,
-      "endVerse": 11
-    },
-    {
-      "title": "Blessings of the Virtuous and Fate of the Wicked Offspring",
-      "startVerse": 12,
-      "endVerse": 19
     }
   ]
 }

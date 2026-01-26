@@ -1,16 +1,13 @@
 {
-  "book": 35,
+  "translation": "AIV",
+  "bookId": "hosea",
   "bookName": "Hosea",
   "bookAbbreviation": "Hos",
+  "bookNumber": 35,
   "chapter": 11,
   "verses": [
     {
       "pk": 35011001,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 11,
       "verse": 1,
       "text": "When Israel was a child, I loved him, and out of Egypt I called My son.",
       "links": "<a href='/AIV/2/12/37'>Ex. 12:37</a>; <a href='/AIV/40/2/15'>Matt. 2:15</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 35011002,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 11,
       "verse": 2,
       "text": "The more I called them, the more they went away from Me; they sacrificed to the Baals and burned offerings to carved images.",
       "links": "<a href='/AIV/9/12/10'>1 Kings 12:10</a>; <a href='/AIV/7/2/11-13'>Judg. 2:11-13</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 35011003,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 11,
       "verse": 3,
       "text": "Yet it was I who taught Ephraim to walk, taking them by their arms, but they did not know it was I who healed them.",
       "links": "<a href='/AIV/19/103/3'>Ps. 103:3</a>; <a href='/AIV/2/15/26'>Ex. 15:26</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 35011004,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 11,
       "verse": 4,
       "text": "I led them with cords of kindness, with bands of love. I became to them as one who eases the yoke on their jaws, and I bent down to feed them.",
       "links": "<a href='/AIV/19/78/25'>Ps. 78:25</a>; <a href='/AIV/2/16/4'>Ex. 16:4</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 35011005,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 11,
       "verse": 5,
       "text": "They shall not return to Egypt, but Assyria shall be their king, because they refused to return to Me.",
       "links": "<a href='/AIV/12/17/6'>2 Kings 17:6</a>; <a href='/AIV/24/2/18'>Jer. 2:18</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 35011006,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 11,
       "verse": 6,
       "text": "The sword shall rage against their cities, consume their bars, and devour because of their counsels.",
       "links": "<a href='/AIV/23/1/20'>Isa. 1:20</a>; <a href='/AIV/26/21/14'>Ezek. 21:14</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 35011007,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 11,
       "verse": 7,
       "text": "My people are bent on turning away from Me. Though they call upon the Most High, He shall not lift them up at all.",
       "links": "<a href='/AIV/19/78/41'>Ps. 78:41</a>; <a href='/AIV/23/29/13'>Isa. 29:13</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 35011008,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 11,
       "verse": 8,
       "text": "How can I give you up, Ephraim? How can I hand you over, Israel? How can I treat you like Admah or make you like Zeboiim? My heart recoils within Me; My compassion grows warm and tender.",
       "links": "<a href='/AIV/5/19/29'>Gen. 19:29</a>; <a href='/AIV/23/54/8'>Isa. 54:8</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 35011009,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 11,
       "verse": 9,
       "text": "I will not execute My fierce anger; I will not destroy Ephraim again, for I am God and not a man, the Holy One in your midst; and I will not come in wrath.",
       "links": "<a href='/AIV/19/99/9'>Ps. 99:9</a>; <a href='/AIV/23/12/6'>Isa. 12:6</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 35011010,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 11,
       "verse": 10,
       "text": "They shall follow the LORD; He will roar like a lion; when He roars, His children shall come trembling from the west.",
       "links": "<a href='/AIV/30/1/2'>Amos 1:2</a>; <a href='/AIV/23/11/11'>Isa. 11:11</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 35011011,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 11,
       "verse": 11,
       "text": "They shall come trembling like birds from Egypt, and like doves from the land of Assyria, and I will settle them in their homes, declares the LORD.",
       "links": "<a href='/AIV/36/3/20'>Zeph. 3:20</a>; <a href='/AIV/23/27/13'>Isa. 27:13</a>",
@@ -141,39 +88,11 @@
     },
     {
       "pk": 35011012,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 11,
       "verse": 12,
       "text": "Ephraim surrounds Me with lies, and the house of Israel with deceit, but Judah still walks with God, and is faithful to the Holy One.",
       "links": "<a href='/AIV/23/1/21'>Isa. 1:21</a>; <a href='/AIV/19/78/9'>Ps. 78:9</a>",
       "comment": "Israel’s betrayal is contrasted with Judah’s relative faithfulness, highlighting the remnant theme. This sets up the expectation of enduring faith preserved through visible spiritual structures and calls to unity.",
       "sectionHeader": "Israel and Judah Compared"
-    }
-  ],
-  "translatedAt": "2025-12-24T09:38:53.883Z",
-  "sections": [
-    {
-      "title": "God’s Love and Israel’s Ingratitude",
-      "startVerse": 1,
-      "endVerse": 4
-    },
-    {
-      "title": "Judgment and Compassion of the Lord",
-      "startVerse": 5,
-      "endVerse": 9
-    },
-    {
-      "title": "Promise of Restoration",
-      "startVerse": 10,
-      "endVerse": 11
-    },
-    {
-      "title": "Israel and Judah Compared",
-      "startVerse": 12,
-      "endVerse": 12
     }
   ]
 }

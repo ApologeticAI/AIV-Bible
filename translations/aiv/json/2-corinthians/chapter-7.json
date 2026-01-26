@@ -1,16 +1,13 @@
 {
-  "book": 54,
+  "translation": "AIV",
+  "bookId": "2-corinthians",
   "bookName": "2 Corinthians",
-  "bookAbbreviation": "2Cor",
+  "bookAbbreviation": "2 Cor",
+  "bookNumber": 54,
   "chapter": 7,
   "verses": [
     {
       "pk": 54007001,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 7,
       "verse": 1,
       "text": "Therefore, since we have these promises, beloved, let us purify ourselves from every defilement of body and spirit, bringing holiness to completion in the fear of God.",
       "links": "<a href='/AIV/47/6/16-18'>2Cor 6:16-18</a>; <a href='/AIV/03/11/44'>Lev. 11:44</a>; <a href='/AIV/60/1/15-16'>1Pet 1:15-16</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 54007002,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 7,
       "verse": 2,
       "text": "Make room for us in your hearts. We have wronged no one, we have corrupted no one, we have taken advantage of no one.",
       "links": "<a href='/AIV/47/6/11-13'>2Cor 6:11-13</a>; <a href='/AIV/44/20/33'>Acts 20:33</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 54007003,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 7,
       "verse": 3,
       "text": "I do not say this to condemn you, for I said before that you are in our hearts, to die together and to live together.",
       "links": "<a href='/AIV/47/3/2'>2Cor 3:2</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 54007004,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 7,
       "verse": 4,
       "text": "I have great confidence in you; I boast much about you; I am filled with comfort. In all our affliction, I am overflowing with joy.",
       "links": "<a href='/AIV/47/1/4'>2Cor 1:4</a>; <a href='/AIV/47/4/8-10'>2Cor 4:8-10</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 54007005,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 7,
       "verse": 5,
       "text": "For even when we came into Macedonia, our bodies had no rest, but we were afflicted in every way: struggles on the outside, fears within.",
       "links": "<a href='/AIV/44/16/9-10'>Acts 16:9-10</a>; <a href='/AIV/47/2/13'>2Cor 2:13</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 54007006,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 7,
       "verse": 6,
       "text": "But God, who comforts the downcast, comforted us by the arrival of Titus.",
       "links": "<a href='/AIV/47/1/3-4'>2Cor 1:3-4</a>; <a href='/AIV/56/1/4'>Titus 1:4</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 54007007,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 7,
       "verse": 7,
       "text": "And not only by his arrival, but also by the comfort he had received from you. He told us of your longing, your mourning, your zeal for me, so that I rejoiced even more.",
       "links": "<a href='/AIV/47/1/14'>2Cor 1:14</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 54007008,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 7,
       "verse": 8,
       "text": "For even if I caused you sorrow by my letter, I do not regret it—though I did regret it, for I see that that letter grieved you, though only for a while.",
       "links": "<a href='/AIV/47/2/4'>2Cor 2:4</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 54007009,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 7,
       "verse": 9,
       "text": "Now I rejoice, not because you were grieved, but because your grief led to repentance. For you were grieved as God intended, so that you suffered no loss because of us.",
       "links": "<a href='/AIV/58/12/11'>Heb 12:11</a>; <a href='/AIV/19/51/17'>Ps. 51:17</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 54007010,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 7,
       "verse": 10,
       "text": "For godly grief produces a repentance that leads to salvation without regret, but worldly grief produces death.",
       "links": "<a href='/AIV/19/32/1-5'>Ps. 32:1-5</a>; <a href='/AIV/40/27/3-5'>Matt 27:3-5</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 54007011,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 7,
       "verse": 11,
       "text": "For see what this very thing, godly grief, has produced in you: what earnestness, what eagerness to clear yourselves, what indignation, what fear, what longing, what zeal, what punishment! At every point you proved yourselves innocent in the matter.",
       "links": "<a href='/AIV/40/3/8'>Matt 3:8</a>; <a href='/AIV/44/19/18'>Acts 19:18</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 54007012,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 7,
       "verse": 12,
       "text": "So even though I wrote to you, it was not for the sake of the one who did wrong, nor for the one who suffered wrong, but so that your earnestness for us might be revealed to you in the sight of God.",
       "links": "<a href='/AIV/47/2/5-6'>2Cor 2:5-6</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 54007013,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 7,
       "verse": 13,
       "text": "Because of this, we were comforted. In addition to our comfort, we rejoiced even more at the joy of Titus, because his spirit has been refreshed by all of you.",
       "links": "<a href='/AIV/47/7/6-7'>2Cor 7:6-7</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 54007014,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 7,
       "verse": 14,
       "text": "For if I have boasted anything to him about you, I was not put to shame. But just as everything we said to you was true, so also our boasting before Titus has proved true.",
       "links": "<a href='/AIV/47/9/2'>2Cor 9:2</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 54007015,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 7,
       "verse": 15,
       "text": "And his affection for you is even greater, as he remembers your obedience, how you received him with fear and trembling.",
       "links": "<a href='/AIV/49/6/5'>Eph 6:5</a>; <a href='/AIV/50/2/12'>Phil 2:12</a>",
@@ -188,28 +115,10 @@
     },
     {
       "pk": 54007016,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 7,
       "verse": 16,
       "text": "I rejoice because I have complete confidence in you.",
       "links": "<a href='/AIV/47/2/3'>2Cor 2:3</a>",
       "comment": "Paul ends with an expression of trust and hope in their continued faithfulness. This reiterates the ongoing growth and sanctification expected from the Body of Christ."
-    }
-  ],
-  "translatedAt": "2025-12-24T11:55:28.146Z",
-  "sections": [
-    {
-      "title": "Exhortation to Holiness",
-      "startVerse": 1,
-      "endVerse": 4
-    },
-    {
-      "title": "Paul’s Joy at the Repentance of the Corinthians",
-      "startVerse": 5,
-      "endVerse": 16
     }
   ]
 }

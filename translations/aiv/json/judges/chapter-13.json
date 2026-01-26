@@ -1,16 +1,13 @@
 {
-  "book": 7,
+  "translation": "AIV",
+  "bookId": "judges",
   "bookName": "Judges",
   "bookAbbreviation": "Judg",
+  "bookNumber": 7,
   "chapter": 13,
   "verses": [
     {
       "pk": 7013001,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 13,
       "verse": 1,
       "text": "Again, the children of Israel did what was evil in the sight of the LORD, and the LORD delivered them into the hand of the Philistines for forty years.",
       "links": "<a href='/AIV/7/2/11'>Judg. 2:11</a>; <a href='/AIV/7/10/7'>Judg. 10:7</a>; <a href='/AIV/1/6/14'>Gen. 6:14</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 7013002,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 13,
       "verse": 2,
       "text": "There was a certain man of Zorah, of the tribe of the Danites, whose name was Manoah. His wife was barren and had borne no children.",
       "links": "<a href='/AIV/1/11/30'>Gen. 11:30</a>; <a href='/AIV/9/1/11'>1 Sam. 1:2</a>",
@@ -32,11 +24,6 @@
     },
     {
       "pk": 7013003,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 13,
       "verse": 3,
       "text": "The angel of the LORD appeared to the woman and said to her, 'Behold, you are barren and have borne no children, but you shall conceive and bear a son.'",
       "links": "<a href='/AIV/1/18/10'>Gen. 18:10</a>; <a href='/AIV/9/1/11'>1 Sam. 1:11</a>; <a href='/AIV/42/1/13'>Luke 1:13</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 7013004,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 13,
       "verse": 4,
       "text": "Now, therefore, be careful, and drink no wine or strong drink, and do not eat anything unclean.",
       "links": "<a href='/AIV/4/6/3'>Num. 6:3</a>; <a href='/AIV/3/11/1-47'>Lev. 11:1-47</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 7013005,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 13,
       "verse": 5,
       "text": "For behold, you shall conceive and bear a son. No razor shall come upon his head, for the boy shall be a Nazirite to God from the womb. He will begin to save Israel from the hand of the Philistines.",
       "links": "<a href='/AIV/4/6/5'>Num. 6:5</a>; <a href='/AIV/1/49/16'>Gen. 49:16</a>; <a href='/AIV/9/1/11'>1 Sam. 1:11</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 7013006,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 13,
       "verse": 6,
       "text": "Then the woman came and told her husband, saying, 'A man of God came to me, and his appearance was like the appearance of the angel of God, very awesome. I did not ask him where he was from, and he did not tell me his name.'",
       "links": "<a href='/AIV/1/32/29'>Gen. 32:29</a>; <a href='/AIV/2/6/22'>Exod. 6:22</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 7013007,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 13,
       "verse": 7,
       "text": "But he said to me, ‘Behold, you shall conceive and bear a son. So drink no wine or strong drink, and eat nothing unclean, for the boy shall be a Nazirite to God from the womb until the day of his death.’",
       "links": "<a href='/AIV/4/6/2'>Num. 6:2-5</a>; <a href='/AIV/9/1/11'>1 Sam. 1:11</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 7013008,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 13,
       "verse": 8,
       "text": "Then Manoah prayed to the LORD and said, 'O Lord, please let the man of God whom you sent come again to us, and teach us what we are to do for the boy who will be born.'",
       "links": "<a href='/AIV/1/25/21'>Gen. 25:21</a>; <a href='/AIV/42/1/34'>Luke 1:34</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 7013009,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 13,
       "verse": 9,
       "text": "And God listened to the voice of Manoah, and the angel of God came again to the woman while she was sitting in the field; but her husband Manoah was not with her.",
       "links": "<a href='/AIV/19/34/15'>Ps. 34:15</a>; <a href='/AIV/42/1/11'>Luke 1:11</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 7013010,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 13,
       "verse": 10,
       "text": "So the woman ran quickly and told her husband, 'Behold, the man who came to me the other day has appeared to me.'",
       "links": "<a href='/AIV/9/3/5-10'>1 Sam. 3:5-10</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 7013011,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 13,
       "verse": 11,
       "text": "So Manoah got up and followed his wife. He came to the man and said to him, 'Are you the man who spoke to this woman?' And he said, 'I am.'",
       "links": "<a href='/AIV/2/3/14'>Exod. 3:14</a>; <a href='/AIV/43/8/58'>John 8:58</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 7013012,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 13,
       "verse": 12,
       "text": "And Manoah said, 'Now when your words come true, what shall be the boy's rule of life and his work?'",
       "links": "<a href='/AIV/9/1/23'>1 Sam. 1:23</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 7013013,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 13,
       "verse": 13,
       "text": "And the angel of the LORD said to Manoah, 'Of all that I said to the woman, let her be careful.'",
       "links": "<a href='/AIV/7/13/4'>Judg. 13:4</a>; <a href='/AIV/7/13/7'>Judg. 13:7</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 7013014,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 13,
       "verse": 14,
       "text": "She may not eat anything that comes from the vine, nor drink wine or strong drink, nor eat anything unclean. All that I commanded her, let her observe.'",
       "links": "<a href='/AIV/4/6/3-4'>Num. 6:3-4</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 7013015,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 13,
       "verse": 15,
       "text": "Manoah said to the angel of the LORD, 'Please let us detain you, and we will prepare a young goat for you.'",
       "links": "<a href='/AIV/1/18/3'>Gen. 18:3</a>; <a href='/AIV/7/6/18'>Judg. 6:18-19</a>",
@@ -190,11 +117,6 @@
     },
     {
       "pk": 7013016,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 13,
       "verse": 16,
       "text": "And the angel of the LORD said to Manoah, 'If you detain me, I will not eat your food, but if you prepare a burnt offering, then offer it to the LORD.' (For Manoah did not know that he was the angel of the LORD.)",
       "links": "<a href='/AIV/7/6/20-21'>Judg. 6:20-21</a>; <a href='/AIV/1/18/8'>Gen. 18:8</a>",
@@ -202,11 +124,6 @@
     },
     {
       "pk": 7013017,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 13,
       "verse": 17,
       "text": "Manoah said to the angel of the LORD, 'What is your name, so that when your words come true, we may honor you?'",
       "links": "<a href='/AIV/1/32/29'>Gen. 32:29</a>",
@@ -214,11 +131,6 @@
     },
     {
       "pk": 7013018,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 13,
       "verse": 18,
       "text": "But the angel of the LORD said to him, 'Why do you ask my name, seeing it is wonderful?'",
       "links": "<a href='/AIV/23/9/6'>Isa. 9:6</a>; <a href='/AIV/1/32/29'>Gen. 32:29</a>",
@@ -226,11 +138,6 @@
     },
     {
       "pk": 7013019,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 13,
       "verse": 19,
       "text": "So Manoah took the young goat with the grain offering and offered it upon the rock to the LORD, and He did a wondrous thing while Manoah and his wife looked on.",
       "links": "<a href='/AIV/7/6/21'>Judg. 6:21</a>; <a href='/AIV/2/3/2'>Exod. 3:2</a>",
@@ -238,11 +145,6 @@
     },
     {
       "pk": 7013020,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 13,
       "verse": 20,
       "text": "As the flame went up toward heaven from the altar, the angel of the LORD ascended in the flame of the altar. When Manoah and his wife saw this, they fell on their faces to the ground.",
       "links": "<a href='/AIV/7/6/21'>Judg. 6:21</a>; <a href='/AIV/1/17/3'>Gen. 17:3</a>",
@@ -250,11 +152,6 @@
     },
     {
       "pk": 7013021,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 13,
       "verse": 21,
       "text": "The angel of the LORD appeared no more to Manoah and his wife. Then Manoah knew that he was the angel of the LORD.",
       "links": "<a href='/AIV/2/33/20'>Exod. 33:20</a>; <a href='/AIV/1/32/30'>Gen. 32:30</a>",
@@ -262,11 +159,6 @@
     },
     {
       "pk": 7013022,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 13,
       "verse": 22,
       "text": "Manoah said to his wife, 'We shall surely die, for we have seen God.'",
       "links": "<a href='/AIV/2/33/20'>Exod. 33:20</a>; <a href='/AIV/1/32/30'>Gen. 32:30</a>",
@@ -274,11 +166,6 @@
     },
     {
       "pk": 7013023,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 13,
       "verse": 23,
       "text": "But his wife said to him, 'If the LORD had meant to kill us, He would not have accepted a burnt offering and a grain offering at our hands, or shown us all these things, or now announced such things as these to us.'",
       "links": "<a href='/AIV/1/4/4'>Gen. 4:4</a>",
@@ -286,11 +173,6 @@
     },
     {
       "pk": 7013024,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 13,
       "verse": 24,
       "text": "The woman bore a son and called his name Samson. The boy grew, and the LORD blessed him.",
       "links": "<a href='/AIV/1/21/20'>Gen. 21:20</a>; <a href='/AIV/9/2/26'>1 Sam. 2:26</a>; <a href='/AIV/42/2/52'>Luke 2:52</a>",
@@ -299,43 +181,10 @@
     },
     {
       "pk": 7013025,
-      "translation": "AIV",
-      "book": 7,
-      "bookName": "Judges",
-      "bookAbbreviation": "Judg",
-      "chapter": 13,
       "verse": 25,
       "text": "And the Spirit of the LORD began to move him at Mahaneh-dan, between Zorah and Eshtaol.",
       "links": "<a href='/AIV/7/14/6'>Judg. 14:6</a>; <a href='/AIV/9/10/6'>1 Sam. 10:6</a>",
       "comment": "The Spirit’s action initiates Samson’s mission, showing that true leadership and strength for God’s people comes by the Spirit. The Spirit’s descent prefigures the empowering of leaders and, ultimately, the coming of the Spirit at Pentecost (Acts 2)."
-    }
-  ],
-  "translatedAt": "2025-12-24T02:38:28.059Z",
-  "sections": [
-    {
-      "title": "Israel Oppressed by the Philistines",
-      "startVerse": 1,
-      "endVerse": 1
-    },
-    {
-      "title": "The Angel's Promise of Samson's Birth",
-      "startVerse": 2,
-      "endVerse": 7
-    },
-    {
-      "title": "Manoah and His Wife Receive the Angel",
-      "startVerse": 8,
-      "endVerse": 14
-    },
-    {
-      "title": "The Angel's Ascension and Manoah's Offering",
-      "startVerse": 15,
-      "endVerse": 23
-    },
-    {
-      "title": "Birth and Growth of Samson",
-      "startVerse": 24,
-      "endVerse": 25
     }
   ]
 }

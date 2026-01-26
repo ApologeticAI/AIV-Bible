@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 121,
   "verses": [
     {
       "pk": 23121001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 121,
       "verse": 1,
       "text": "I lift up my eyes to the hills— from where will my help come?",
       "links": "<a href='/AIV/19/123/1'>Ps. 123:1</a>; <a href='/AIV/23/40/26'>Isa. 40:26</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23121002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 121,
       "verse": 2,
       "text": "My help comes from the LORD, the Maker of heaven and earth.",
       "links": "<a href='/AIV/19/124/8'>Ps. 124:8</a>; <a href='/AIV/1/1/1'>Gen. 1:1</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23121003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 121,
       "verse": 3,
       "text": "He will not let your foot be moved; he who guards you will not slumber.",
       "links": "<a href='/AIV/19/41/2'>Ps. 41:2</a>; <a href='/AIV/1/28/15'>Gen. 28:15</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23121004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 121,
       "verse": 4,
       "text": "Indeed, he who guards Israel will neither slumber nor sleep.",
       "links": "<a href='/AIV/1/28/15'>Gen. 28:15</a>; <a href='/AIV/19/127/1'>Ps. 127:1</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23121005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 121,
       "verse": 5,
       "text": "The LORD is your protector; the LORD is your shade at your right hand.",
       "links": "<a href='/AIV/19/16/8'>Ps. 16:8</a>; <a href='/AIV/19/91/1'>Ps. 91:1</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23121006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 121,
       "verse": 6,
       "text": "The sun will not harm you by day, nor the moon by night.",
       "links": "<a href='/AIV/19/91/5-6'>Ps. 91:5-6</a>; <a href='/AIV/23/49/10'>Isa. 49:10</a>; <a href='/AIV/66/7/16'>Rev. 7:16</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23121007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 121,
       "verse": 7,
       "text": "The LORD will guard you from all evil; he will guard your life.",
       "links": "<a href='/AIV/19/97/10'>Ps. 97:10</a>; <a href='/AIV/40/6/13'>Matt. 6:13</a>; <a href='/AIV/55/4/18'>2 Tim. 4:18</a>",
@@ -91,23 +58,10 @@
     },
     {
       "pk": 23121008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 121,
       "verse": 8,
       "text": "The LORD will guard your going out and your coming in, from now and forever.",
       "links": "<a href='/AIV/5/28/6'>Deut. 28:6</a>; <a href='/AIV/19/139/3'>Ps. 139:3</a>; <a href='/AIV/42/2/29-32'>Luke 2:29-32</a>",
       "comment": "This verse covers the totality of life—every action, every journey. God’s everlasting protection reflects a trust in divine providence that leads his people from this earthly pilgrimage to their everlasting home. The concept hints at the enduring promise of ongoing divine guardianship found throughout the Scripture and in the ordered life of faith."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:42:25.102Z",
-  "sections": [
-    {
-      "title": "The Lord Our Guardian",
-      "startVerse": 1,
-      "endVerse": 8
     }
   ]
 }

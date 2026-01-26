@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 36,
   "verses": [
     {
       "pk": 23036001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 36,
       "verse": 1,
       "text": "Transgression speaks to the wicked deep in his heart; there is no fear of God before his eyes.",
       "links": "<a href='/AIV/45/3/18'>Rom. 3:18</a>; <a href='/AIV/20/8/13'>Prov. 8:13</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23036002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 36,
       "verse": 2,
       "text": "For he flatters himself in his own eyes that his iniquity will not be found out and hated.",
       "links": "<a href='/AIV/20/12/15'>Prov. 12:15</a>; <a href='/AIV/19/49/18'>Ps. 49:18</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23036003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 36,
       "verse": 3,
       "text": "The words of his mouth are evil and deceitful; he has ceased to act wisely and do good.",
       "links": "<a href='/AIV/20/10/32'>Prov. 10:32</a>; <a href='/AIV/40/12/34'>Matt. 12:34</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23036004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 36,
       "verse": 4,
       "text": "He plots wickedness on his bed; he sets himself on a path that is not good; he does not reject evil.",
       "links": "<a href='/AIV/20/4/16'>Prov. 4:16</a>; <a href='/AIV/19/1/1'>Ps. 1:1</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23036005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 36,
       "verse": 5,
       "text": "Your steadfast love, O LORD, extends to the heavens, your faithfulness reaches to the clouds.",
       "links": "<a href='/AIV/19/57/10'>Ps. 57:10</a>; <a href='/AIV/19/103/11'>Ps. 103:11</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 23036006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 36,
       "verse": 6,
       "text": "Your righteousness is like the mighty mountains; your judgments are like the great deep; LORD, you preserve man and beast.",
       "links": "<a href='/AIV/19/71/19'>Ps. 71:19</a>; <a href='/AIV/19/104/14'>Ps. 104:14</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 23036007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 36,
       "verse": 7,
       "text": "How precious is your steadfast love, O God! The children of mankind take refuge in the shadow of your wings.",
       "links": "<a href='/AIV/19/17/8'>Ps. 17:8</a>; <a href='/AIV/40/23/37'>Matt. 23:37</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 23036008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 36,
       "verse": 8,
       "text": "They feast on the abundance of your house, and you give them drink from the river of your delights.",
       "links": "<a href='/AIV/19/65/4'>Ps. 65:4</a>; <a href='/AIV/43/7/37-39'>John 7:37-39</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 23036009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 36,
       "verse": 9,
       "text": "For with you is the fountain of life; in your light we see light.",
       "links": "<a href='/AIV/19/16/11'>Ps. 16:11</a>; <a href='/AIV/43/8/12'>John 8:12</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 23036010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 36,
       "verse": 10,
       "text": "Continue your steadfast love to those who know you, and your righteousness to the upright in heart.",
       "links": "<a href='/AIV/19/31/23'>Ps. 31:23</a>; <a href='/AIV/19/97/11'>Ps. 97:11</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 23036011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 36,
       "verse": 11,
       "text": "Let not the foot of arrogance come upon me, nor the hand of the wicked drive me away.",
       "links": "<a href='/AIV/19/119/133'>Ps. 119:133</a>; <a href='/AIV/19/18/48'>Ps. 18:48</a>",
@@ -141,33 +88,10 @@
     },
     {
       "pk": 23036012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 36,
       "verse": 12,
       "text": "There the evildoers have fallen; they are thrown down and cannot rise.",
       "links": "<a href='/AIV/19/1/6'>Ps. 1:6</a>; <a href='/AIV/20/24/16'>Prov. 24:16</a>",
       "comment": "The destiny of those persisting in evil is ultimate defeat. The psalm finishes with a vision of final justice, which is assured for the faithful and points to the hope of resurrection and victory over sin."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:10:40.866Z",
-  "sections": [
-    {
-      "title": "The Corruption of the Wicked",
-      "startVerse": 1,
-      "endVerse": 4
-    },
-    {
-      "title": "The Steadfast Love of God",
-      "startVerse": 5,
-      "endVerse": 9
-    },
-    {
-      "title": "Prayer for Protection from the Wicked",
-      "startVerse": 10,
-      "endVerse": 12
     }
   ]
 }

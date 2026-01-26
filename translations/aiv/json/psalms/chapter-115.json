@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 115,
   "verses": [
     {
       "pk": 23115001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 115,
       "verse": 1,
       "text": "Not to us, LORD, not to us, but to your name give glory, for your steadfast love and your truth.",
       "links": "<a href='/AIV/19/113/1'>Ps. 113:1</a>; <a href='/AIV/19/29/2'>Ps. 29:2</a>; <a href='/AIV/19/117/2'>Ps. 117:2</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23115002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 115,
       "verse": 2,
       "text": "Why should the nations say, 'Where is their God?'",
       "links": "<a href='/AIV/19/42/3'>Ps. 42:3</a>; <a href='/AIV/19/79/10'>Ps. 79:10</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23115003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 115,
       "verse": 3,
       "text": "Our God is in the heavens; he does whatever pleases him.",
       "links": "<a href='/AIV/19/135/6'>Ps. 135:6</a>; <a href='/AIV/27/4/35'>Dan. 4:35</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23115004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 115,
       "verse": 4,
       "text": "Their idols are silver and gold, the work of human hands.",
       "links": "<a href='/AIV/19/135/15'>Ps. 135:15</a>; <a href='/AIV/2/20/23'>Ex. 20:23</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 23115005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 115,
       "verse": 5,
       "text": "They have mouths, but do not speak; eyes, but do not see;",
       "links": "<a href='/AIV/19/135/16'>Ps. 135:16</a>; <a href='/AIV/23/44/18'>Isa. 44:18</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 23115006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 115,
       "verse": 6,
       "text": "They have ears, but do not hear; noses, but do not smell;",
       "links": "<a href='/AIV/19/135/17'>Ps. 135:17</a>; <a href='/AIV/23/46/7'>Isa. 46:7</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 23115007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 115,
       "verse": 7,
       "text": "They have hands, but do not feel; feet, but do not walk; they make no sound in their throat.",
       "links": "<a href='/AIV/23/41/7'>Isa. 41:7</a>; <a href='/AIV/19/135/17'>Ps. 135:17</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 23115008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 115,
       "verse": 8,
       "text": "Those who make them will become like them, and so will all who trust in them.",
       "links": "<a href='/AIV/19/135/18'>Ps. 135:18</a>; <a href='/AIV/45/1/22-23'>Rom. 1:22-23</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 23115009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 115,
       "verse": 9,
       "text": "Israel, trust in the LORD! He is their help and their shield.",
       "links": "<a href='/AIV/19/18/2'>Ps. 18:2</a>; <a href='/AIV/19/118/2'>Ps. 118:2</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 23115010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 115,
       "verse": 10,
       "text": "House of Aaron, trust in the LORD! He is their help and their shield.",
       "links": "<a href='/AIV/19/118/3'>Ps. 118:3</a>; <a href='/AIV/2/28/1'>Ex. 28:1</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 23115011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 115,
       "verse": 11,
       "text": "You who fear the LORD, trust in the LORD! He is their help and their shield.",
       "links": "<a href='/AIV/19/118/4'>Ps. 118:4</a>; <a href='/AIV/19/34/9'>Ps. 34:9</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 23115012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 115,
       "verse": 12,
       "text": "The LORD has remembered us; he will bless us; he will bless the house of Israel; he will bless the house of Aaron;",
       "links": "<a href='/AIV/19/98/3'>Ps. 98:3</a>; <a href='/AIV/19/135/19'>Ps. 135:19</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 23115013,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 115,
       "verse": 13,
       "text": "He will bless those who fear the LORD, both the small and the great.",
       "links": "<a href='/AIV/19/34/9'>Ps. 34:9</a>; <a href='/AIV/66/19/5'>Rev. 19:5</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 23115014,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 115,
       "verse": 14,
       "text": "May the LORD give you increase, you and your children!",
       "links": "<a href='/AIV/19/128/3'>Ps. 128:3</a>; <a href='/AIV/1/22/17'>Gen. 22:17</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 23115015,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 115,
       "verse": 15,
       "text": "May you be blessed by the LORD, who made heaven and earth.",
       "links": "<a href='/AIV/19/121/2'>Ps. 121:2</a>; <a href='/AIV/19/134/3'>Ps. 134:3</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 23115016,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 115,
       "verse": 16,
       "text": "The heavens are the LORD’s heavens, but the earth he has given to mankind.",
       "links": "<a href='/AIV/1/1/26'>Gen. 1:26</a>; <a href='/AIV/19/8/6'>Ps. 8:6</a>",
@@ -202,11 +124,6 @@
     },
     {
       "pk": 23115017,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 115,
       "verse": 17,
       "text": "The dead do not praise the LORD, nor do any who go down into silence.",
       "links": "<a href='/AIV/19/6/5'>Ps. 6:5</a>; <a href='/AIV/23/38/18'>Isa. 38:18</a>",
@@ -214,38 +131,10 @@
     },
     {
       "pk": 23115018,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 115,
       "verse": 18,
       "text": "But we will bless the LORD from this time forth and forevermore. Praise the LORD!",
       "links": "<a href='/AIV/19/113/2'>Ps. 113:2</a>; <a href='/AIV/19/103/1'>Ps. 103:1</a>",
       "comment": "Ends with a vow of perpetual worship. The community commits to praise now and eternally—a foreshadowing of the worship of the saints in glory. See Heb. 12:22-24 for the vision of everlasting worship."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:40:26.356Z",
-  "sections": [
-    {
-      "title": "Glory to God Alone",
-      "startVerse": 1,
-      "endVerse": 3
-    },
-    {
-      "title": "The Folly of Idols",
-      "startVerse": 4,
-      "endVerse": 8
-    },
-    {
-      "title": "Trust and Blessing for God’s People",
-      "startVerse": 9,
-      "endVerse": 15
-    },
-    {
-      "title": "Everlasting Praise to the Lord",
-      "startVerse": 16,
-      "endVerse": 18
     }
   ]
 }

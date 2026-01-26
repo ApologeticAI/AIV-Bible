@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 81,
   "verses": [
     {
       "pk": 23081001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 81,
       "verse": 1,
       "text": "Sing aloud to God our strength; shout for joy to the God of Jacob!",
       "links": "<a href='/AIV/19/47/1'>Ps. 47:1</a>; <a href='/AIV/19/95/1'>Ps. 95:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23081002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 81,
       "verse": 2,
       "text": "Raise a song; sound the tambourine, the sweet lyre with the harp.",
       "links": "<a href='/AIV/19/150/3-4'>Ps. 150:3-4</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23081003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 81,
       "verse": 3,
       "text": "Blow the trumpet at the new moon, at the full moon, on our feast day.",
       "links": "<a href='/AIV/03/23/24'>Lev. 23:24</a>; <a href='/AIV/04/10/10'>Num. 10:10</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23081004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 81,
       "verse": 4,
       "text": "For this is a statute for Israel, an ordinance of the God of Jacob.",
       "links": "<a href='/AIV/03/23/1-2'>Lev. 23:1-2</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23081005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 81,
       "verse": 5,
       "text": "He appointed it as a testimony in Joseph when he went out over the land of Egypt. I heard a language I did not know:",
       "links": "<a href='/AIV/01/41/45'>Gen. 41:45</a>; <a href='/AIV/02/1/8'>Ex. 1:8</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23081006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 81,
       "verse": 6,
       "text": "I relieved his shoulder from the burden; his hands were freed from the basket.",
       "links": "<a href='/AIV/02/6/6'>Ex. 6:6</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23081007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 81,
       "verse": 7,
       "text": "In distress you called, and I delivered you; I answered you in the secret place of thunder; I tested you at the waters of Meribah. Selah.",
       "links": "<a href='/AIV/02/14/10'>Ex. 14:10</a>; <a href='/AIV/02/17/7'>Ex. 17:7</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 23081008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 81,
       "verse": 8,
       "text": "Hear, O my people, while I admonish you! O Israel, if you would only listen to me!",
       "links": "<a href='/AIV/19/95/7-8'>Ps. 95:7-8</a>; <a href='/AIV/05/6/4'>Deut. 6:4</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 23081009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 81,
       "verse": 9,
       "text": "There shall be no strange god among you; you shall not bow down to a foreign god.",
       "links": "<a href='/AIV/02/20/3'>Ex. 20:3</a>; <a href='/AIV/05/5/7'>Deut. 5:7</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 23081010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 81,
       "verse": 10,
       "text": "I am the LORD your God, who brought you up out of the land of Egypt. Open your mouth wide, and I will fill it.",
       "links": "<a href='/AIV/02/20/2'>Ex. 20:2</a>; <a href='/AIV/05/8/3'>Deut. 8:3</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 23081011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 81,
       "verse": 11,
       "text": "But my people did not listen to my voice; Israel would not submit to me.",
       "links": "<a href='/AIV/07/2/17'>Judg. 2:17</a>; <a href='/AIV/19/78/10'>Ps. 78:10</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 23081012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 81,
       "verse": 12,
       "text": "So I gave them over to their stubborn hearts, to walk in their own counsels.",
       "links": "<a href='/AIV/19/106/43'>Ps. 106:43</a>; <a href='/AIV/45/1/24'>Rom. 1:24</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 23081013,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 81,
       "verse": 13,
       "text": "Oh, that my people would listen to me, that Israel would walk in my ways!",
       "links": "<a href='/AIV/19/81/8'>Ps. 81:8</a>; <a href='/AIV/23/48/18'>Isa. 48:18</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 23081014,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 81,
       "verse": 14,
       "text": "I would soon subdue their enemies, and turn my hand against their adversaries.",
       "links": "<a href='/AIV/19/47/3'>Ps. 47:3</a>; <a href='/AIV/23/26/11'>Isa. 26:11</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 23081015,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 81,
       "verse": 15,
       "text": "Those who hate the LORD would cringe before him, and their fate would last forever.",
       "links": "<a href='/AIV/19/66/3'>Ps. 66:3</a>; <a href='/AIV/19/68/1-2'>Ps. 68:1-2</a>",
@@ -188,28 +115,10 @@
     },
     {
       "pk": 23081016,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 81,
       "verse": 16,
       "text": "But he would feed you with the finest wheat, and with honey from the rock I would satisfy you.",
       "links": "<a href='/AIV/05/32/13-14'>Deut. 32:13-14</a>; <a href='/AIV/19/23/5'>Ps. 23:5</a>",
       "comment": "The ‘finest wheat’ and ‘honey from the rock’ are not only physical blessings but also spiritual foreshadowings—anticipating the superabundant nourishment God provides for His people, fully given in the Bread of Life and the sweetness of the sacraments (see John 6:51)."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:28:02.605Z",
-  "sections": [
-    {
-      "title": "Festival Praise to God",
-      "startVerse": 1,
-      "endVerse": 7
-    },
-    {
-      "title": "God’s Admonition to Israel",
-      "startVerse": 8,
-      "endVerse": 16
     }
   ]
 }

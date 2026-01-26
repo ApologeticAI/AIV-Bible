@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 66,
   "verses": [
     {
       "pk": 23066001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 66,
       "verse": 1,
       "text": "Shout joyfully to God, all the earth!",
       "links": "<a href='/AIV/19/95/1'>Ps. 95:1</a>; <a href='/AIV/23/42/10-12'>Isa. 42:10-12</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23066002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 66,
       "verse": 2,
       "text": "Sing the glory of His name; give Him glorious praise.",
       "links": "<a href='/AIV/19/29/2'>Ps. 29:2</a>; <a href='/AIV/19/96/8'>Ps. 96:8</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23066003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 66,
       "verse": 3,
       "text": "Say to God, 'How awe-inspiring are Your works! Your enemies cringe before Your mighty power.'",
       "links": "<a href='/AIV/19/68/35'>Ps. 68:35</a>; <a href='/AIV/19/47/2'>Ps. 47:2</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23066004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 66,
       "verse": 4,
       "text": "All the earth will bow down in worship to You and sing praises to You; they will sing praise to Your name.”",
       "links": "<a href='/AIV/19/22/27'>Ps. 22:27</a>; <a href='/AIV/23/45/23'>Isa. 45:23</a>; <a href='/AIV/50/2/10'>Phil. 2:10</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23066005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 66,
       "verse": 5,
       "text": "Come and see the works of God; His deeds that inspire awe among humanity.",
       "links": "<a href='/AIV/19/46/8'>Ps. 46:8</a>; <a href='/AIV/19/66/16'>Ps. 66:16</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23066006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 66,
       "verse": 6,
       "text": "He turned the sea into dry land; they crossed the river on foot. Let us rejoice in Him there.",
       "links": "<a href='/AIV/2/14/21-22'>Exod. 14:21-22</a>; <a href='/AIV/6/3/17'>Josh. 3:17</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23066007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 66,
       "verse": 7,
       "text": "He rules forever by His might; His eyes watch the nations—let not the rebellious rise up against Him.",
       "links": "<a href='/AIV/19/11/4'>Ps. 11:4</a>; <a href='/AIV/19/22/28'>Ps. 22:28</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 23066008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 66,
       "verse": 8,
       "text": "Bless our God, O peoples; let the sound of His praise be heard.",
       "links": "<a href='/AIV/19/67/3'>Ps. 67:3</a>; <a href='/AIV/19/117/1'>Ps. 117:1</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 23066009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 66,
       "verse": 9,
       "text": "He keeps us in life, and does not allow our feet to slip.",
       "links": "<a href='/AIV/19/121/3'>Ps. 121:3</a>; <a href='/AIV/19/124/7'>Ps. 124:7</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 23066010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 66,
       "verse": 10,
       "text": "For You, O God, have tested us; You have refined us as silver is refined.",
       "links": "<a href='/AIV/19/17/3'>Ps. 17:3</a>; <a href='/AIV/19/12/6'>Ps. 12:6</a>; <a href='/AIV/38/13/9'>Zech. 13:9</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 23066011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 66,
       "verse": 11,
       "text": "You brought us into a net; You laid a heavy burden on our backs.",
       "links": "<a href='/AIV/19/9/15'>Ps. 9:15</a>; <a href='/AIV/19/107/10'>Ps. 107:10</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 23066012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 66,
       "verse": 12,
       "text": "You let men ride over our heads; we went through fire and water, but You brought us out to a place of abundance.",
       "links": "<a href='/AIV/19/18/16'>Ps. 18:16</a>; <a href='/AIV/23/43/2'>Isa. 43:2</a>; <a href='/AIV/1/50/20'>Gen. 50:20</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 23066013,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 66,
       "verse": 13,
       "text": "I will enter Your house with burnt offerings; I will fulfill my vows to You,",
       "links": "<a href='/AIV/19/22/25'>Ps. 22:25</a>; <a href='/AIV/19/50/14'>Ps. 50:14</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 23066014,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 66,
       "verse": 14,
       "text": "which my lips uttered and my mouth spoke when I was in distress.",
       "links": "<a href='/AIV/19/22/24-25'>Ps. 22:24-25</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 23066015,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 66,
       "verse": 15,
       "text": "I will offer You fat animals as burnt offerings, with the smoke of rams; I will present bulls and goats. Selah.",
       "links": "<a href='/AIV/19/51/19'>Ps. 51:19</a>; <a href='/AIV/19/66/13'>Ps. 66:13</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 23066016,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 66,
       "verse": 16,
       "text": "Come and hear, all who fear God, and I will tell what He has done for my soul.",
       "links": "<a href='/AIV/19/34/11'>Ps. 34:11</a>; <a href='/AIV/19/107/2'>Ps. 107:2</a>",
@@ -202,11 +124,6 @@
     },
     {
       "pk": 23066017,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 66,
       "verse": 17,
       "text": "I cried out to Him with my mouth, and high praise was on my tongue.",
       "links": "<a href='/AIV/19/18/6'>Ps. 18:6</a>; <a href='/AIV/19/145/19'>Ps. 145:19</a>",
@@ -214,11 +131,6 @@
     },
     {
       "pk": 23066018,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 66,
       "verse": 18,
       "text": "If I had cherished iniquity in my heart, the Lord would not have listened.",
       "links": "<a href='/AIV/20/28/9'>Prov. 28:9</a>; <a href='/AIV/23/59/2'>Isa. 59:2</a>",
@@ -226,11 +138,6 @@
     },
     {
       "pk": 23066019,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 66,
       "verse": 19,
       "text": "But truly God has listened; He has attended to the voice of my prayer.",
       "links": "<a href='/AIV/19/34/4'>Ps. 34:4</a>; <a href='/AIV/19/116/1'>Ps. 116:1</a>",
@@ -238,38 +145,10 @@
     },
     {
       "pk": 23066020,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 66,
       "verse": 20,
       "text": "Blessed be God, because He has not rejected my prayer or withdrawn His steadfast love from me.",
       "links": "<a href='/AIV/19/28/6'>Ps. 28:6</a>; <a href='/AIV/19/136/1'>Ps. 136:1</a>",
       "comment": "The psalm ends on a note of thanksgiving, emphasizing God’s unending mercy and faithfulness. Steadfast love (Hebrew 'hesed') points to God’s everlasting covenant with His people, ultimately fulfilled in Christ (Luke 1:72-73)."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:21:11.273Z",
-  "sections": [
-    {
-      "title": "A Song of Praise to God for His Mighty Works",
-      "startVerse": 1,
-      "endVerse": 7
-    },
-    {
-      "title": "God’s People Tested and Delivered",
-      "startVerse": 8,
-      "endVerse": 12
-    },
-    {
-      "title": "Thanksgiving for Answered Prayer",
-      "startVerse": 13,
-      "endVerse": 15
-    },
-    {
-      "title": "Proclamation of God’s Faithfulness",
-      "startVerse": 16,
-      "endVerse": 20
     }
   ]
 }

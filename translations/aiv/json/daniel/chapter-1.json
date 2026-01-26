@@ -1,16 +1,13 @@
 {
-  "book": 34,
+  "translation": "AIV",
+  "bookId": "daniel",
   "bookName": "Daniel",
   "bookAbbreviation": "Dan",
+  "bookNumber": 34,
   "chapter": 1,
   "verses": [
     {
       "pk": 34001001,
-      "translation": "AIV",
-      "book": 34,
-      "bookName": "Daniel",
-      "bookAbbreviation": "Dan",
-      "chapter": 1,
       "verse": 1,
       "text": "In the third year of the reign of Jehoiakim king of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it.",
       "links": "<a href='/AIV/12/24/1'>2 Kings 24:1</a>; <a href='/AIV/24/25/1'>Jer. 25:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 34001002,
-      "translation": "AIV",
-      "book": 34,
-      "bookName": "Daniel",
-      "bookAbbreviation": "Dan",
-      "chapter": 1,
       "verse": 2,
       "text": "And the Lord delivered Jehoiakim king of Judah into his hand, along with some of the vessels of the house of God. He carried them to the land of Shinar, to the house of his god, and placed the vessels in the treasury of his god.",
       "links": "<a href='/AIV/10/8/7'>2 Sam. 8:7</a>; <a href='/AIV/24/27/18-20'>Jer. 27:18-20</a>; <a href='/AIV/01/11/2'>Gen. 11:2</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 34001003,
-      "translation": "AIV",
-      "book": 34,
-      "bookName": "Daniel",
-      "bookAbbreviation": "Dan",
-      "chapter": 1,
       "verse": 3,
       "text": "Then the king commanded Ashpenaz, chief of his officials, to bring some of the Israelites, both from the royal family and from the nobility,",
       "links": "<a href='/AIV/12/20/17'>2 Kings 20:17</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 34001004,
-      "translation": "AIV",
-      "book": 34,
-      "bookName": "Daniel",
-      "bookAbbreviation": "Dan",
-      "chapter": 1,
       "verse": 4,
       "text": "Youths without any blemish, handsome and skillful in all wisdom, knowledgeable, quick to understand, and competent to serve in the king’s palace, and to teach them the literature and language of the Chaldeans.",
       "links": "<a href='/AIV/23/39/7'>Isa. 39:7</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 34001005,
-      "translation": "AIV",
-      "book": 34,
-      "bookName": "Daniel",
-      "bookAbbreviation": "Dan",
-      "chapter": 1,
       "verse": 5,
       "text": "The king assigned them a daily portion of the king’s food and wine. They were to be trained for three years, after which they were to enter the king’s service.",
       "links": "<a href='/AIV/01/41/46'>Gen. 41:46</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 34001006,
-      "translation": "AIV",
-      "book": 34,
-      "bookName": "Daniel",
-      "bookAbbreviation": "Dan",
-      "chapter": 1,
       "verse": 6,
       "text": "Among these were Daniel, Hananiah, Mishael, and Azariah from the tribe of Judah.",
       "links": "<a href='/AIV/12/23/8-9'>2 Kings 23:8-9</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 34001007,
-      "translation": "AIV",
-      "book": 34,
-      "bookName": "Daniel",
-      "bookAbbreviation": "Dan",
-      "chapter": 1,
       "verse": 7,
       "text": "The chief official gave them new names: Daniel he called Belteshazzar; Hananiah, Shadrach; Mishael, Meshach; and Azariah, Abednego.",
       "links": "<a href='/AIV/04/13/16'>Num. 13:16</a>; <a href='/AIV/27/4/8'>Dan. 4:8</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 34001008,
-      "translation": "AIV",
-      "book": 34,
-      "bookName": "Daniel",
-      "bookAbbreviation": "Dan",
-      "chapter": 1,
       "verse": 8,
       "text": "But Daniel resolved in his heart not to defile himself with the king’s food or wine. He asked the chief official for permission not to defile himself.",
       "links": "<a href='/AIV/03/11/45'>Lev. 11:45</a>; <a href='/AIV/19/119/11'>Ps. 119:11</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 34001009,
-      "translation": "AIV",
-      "book": 34,
-      "bookName": "Daniel",
-      "bookAbbreviation": "Dan",
-      "chapter": 1,
       "verse": 9,
       "text": "Now God caused the chief official to show favor and compassion toward Daniel.",
       "links": "<a href='/AIV/01/39/21'>Gen. 39:21</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 34001010,
-      "translation": "AIV",
-      "book": 34,
-      "bookName": "Daniel",
-      "bookAbbreviation": "Dan",
-      "chapter": 1,
       "verse": 10,
       "text": "But the chief official said to Daniel, “I am afraid of my lord the king, who assigned your food and drink. If he sees you looking weaker than others your age, you will endanger my life with the king.”",
       "links": "<a href='/AIV/01/40/2'>Gen. 40:2</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 34001011,
-      "translation": "AIV",
-      "book": 34,
-      "bookName": "Daniel",
-      "bookAbbreviation": "Dan",
-      "chapter": 1,
       "verse": 11,
       "text": "Then Daniel said to the steward whom the chief official had appointed over Daniel, Hananiah, Mishael, and Azariah:",
       "links": "<a href='/AIV/27/1/16'>Dan. 1:16</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 34001012,
-      "translation": "AIV",
-      "book": 34,
-      "bookName": "Daniel",
-      "bookAbbreviation": "Dan",
-      "chapter": 1,
       "verse": 12,
       "text": "“Please test your servants for ten days. Let us be given only vegetables to eat and water to drink.”",
       "links": "<a href='/AIV/27/1/14'>Dan. 1:14</a>; <a href='/AIV/27/1/15'>Dan. 1:15</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 34001013,
-      "translation": "AIV",
-      "book": 34,
-      "bookName": "Daniel",
-      "bookAbbreviation": "Dan",
-      "chapter": 1,
       "verse": 13,
       "text": "Then let our appearance and the appearance of the youths who eat the king’s food be observed by you, and deal with your servants according to what you see.”",
       "links": "<a href='/AIV/27/1/18'>Dan. 1:18</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 34001014,
-      "translation": "AIV",
-      "book": 34,
-      "bookName": "Daniel",
-      "bookAbbreviation": "Dan",
-      "chapter": 1,
       "verse": 14,
       "text": "So he listened to them in this matter and tested them for ten days.",
       "links": "<a href='/AIV/27/1/12'>Dan. 1:12</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 34001015,
-      "translation": "AIV",
-      "book": 34,
-      "bookName": "Daniel",
-      "bookAbbreviation": "Dan",
-      "chapter": 1,
       "verse": 15,
       "text": "At the end of ten days, their appearance was better and healthier than all the youths who ate the king’s food.",
       "links": "<a href='/AIV/19/34/8-10'>Ps. 34:8-10</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 34001016,
-      "translation": "AIV",
-      "book": 34,
-      "bookName": "Daniel",
-      "bookAbbreviation": "Dan",
-      "chapter": 1,
       "verse": 16,
       "text": "So the steward continued to take away their food and wine and gave them vegetables.",
       "links": "<a href='/AIV/27/1/12'>Dan. 1:12</a>",
@@ -200,11 +122,6 @@
     },
     {
       "pk": 34001017,
-      "translation": "AIV",
-      "book": 34,
-      "bookName": "Daniel",
-      "bookAbbreviation": "Dan",
-      "chapter": 1,
       "verse": 17,
       "text": "To these four youths, God gave learning and skill in every kind of literature and wisdom; and Daniel had understanding in all visions and dreams.",
       "links": "<a href='/AIV/01/41/15-16'>Gen. 41:15-16</a>; <a href='/AIV/27/2/19'>Dan. 2:19</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 34001018,
-      "translation": "AIV",
-      "book": 34,
-      "bookName": "Daniel",
-      "bookAbbreviation": "Dan",
-      "chapter": 1,
       "verse": 18,
       "text": "At the end of the time set by the king for them to be brought in, the chief official presented them to Nebuchadnezzar.",
       "links": "<a href='/AIV/27/1/5'>Dan. 1:5</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 34001019,
-      "translation": "AIV",
-      "book": 34,
-      "bookName": "Daniel",
-      "bookAbbreviation": "Dan",
-      "chapter": 1,
       "verse": 19,
       "text": "The king spoke with them, and among them all, none was found like Daniel, Hananiah, Mishael, and Azariah; so they served before the king.",
       "links": "<a href='/AIV/27/2/48-49'>Dan. 2:48-49</a>",
@@ -237,11 +144,6 @@
     },
     {
       "pk": 34001020,
-      "translation": "AIV",
-      "book": 34,
-      "bookName": "Daniel",
-      "bookAbbreviation": "Dan",
-      "chapter": 1,
       "verse": 20,
       "text": "In every matter of wisdom and understanding about which the king questioned them, he found them ten times better than all the magicians and enchanters in his entire kingdom.",
       "links": "<a href='/AIV/27/5/11'>Dan. 5:11</a>; <a href='/AIV/01/41/39'>Gen. 41:39</a>",
@@ -249,33 +151,10 @@
     },
     {
       "pk": 34001021,
-      "translation": "AIV",
-      "book": 34,
-      "bookName": "Daniel",
-      "bookAbbreviation": "Dan",
-      "chapter": 1,
       "verse": 21,
       "text": "And Daniel remained there until the first year of King Cyrus.",
       "links": "<a href='/AIV/15/1/1'>Ezra 1:1</a>; <a href='/AIV/27/6/28'>Dan. 6:28</a>",
       "comment": "Daniel’s endurance through successive regimes witnesses to God’s faithfulness across generations. His presence until Cyrus points to the restoration of God’s people (see Ezra 1:1) and a continuity of sacred tradition against all odds."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:27:21.259Z",
-  "sections": [
-    {
-      "title": "Daniel and His Friends Taken to Babylon",
-      "startVerse": 1,
-      "endVerse": 7
-    },
-    {
-      "title": "Faithfulness in the King’s Court",
-      "startVerse": 8,
-      "endVerse": 16
-    },
-    {
-      "title": "God Grants Knowledge and Wisdom",
-      "startVerse": 17,
-      "endVerse": 21
     }
   ]
 }

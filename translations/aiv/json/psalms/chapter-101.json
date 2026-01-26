@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 101,
   "verses": [
     {
       "pk": 23101001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 101,
       "verse": 1,
       "text": "I will sing of mercy and justice; to you, LORD, I will make music.",
       "links": "<a href='/AIV/19/89/1'>Ps. 89:1</a>; <a href='/AIV/19/92/1'>Ps. 92:1</a>; <a href='/AIV/19/106/1'>Ps. 106:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23101002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 101,
       "verse": 2,
       "text": "I will ponder the path that is blameless. When will you come to me? I will walk within my house with a heart of integrity.",
       "links": "<a href='/AIV/19/18/23'>Ps. 18:23</a>; <a href='/AIV/19/15/2'>Ps. 15:2</a>; <a href='/AIV/19/119/1'>Ps. 119:1</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23101003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 101,
       "verse": 3,
       "text": "I will not set before my eyes anything worthless. I hate the deeds of those who turn aside; it shall not cling to me.",
       "links": "<a href='/AIV/19/24/4'>Ps. 24:4</a>; <a href='/AIV/19/119/37'>Ps. 119:37</a>; <a href='/AIV/20/4/23'>Prov. 4:23</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23101004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 101,
       "verse": 4,
       "text": "A twisted heart will depart from me; I will not know evil.",
       "links": "<a href='/AIV/19/73/27'>Ps. 73:27</a>; <a href='/AIV/19/141/4'>Ps. 141:4</a>; <a href='/AIV/19/26/4'>Ps. 26:4</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23101005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 101,
       "verse": 5,
       "text": "Whoever secretly slanders his neighbor, I will destroy; the arrogant in heart and eyes, I will not endure.",
       "links": "<a href='/AIV/19/15/3'>Ps. 15:3</a>; <a href='/AIV/19/101/7'>Ps. 101:7</a>; <a href='/AIV/20/16/5'>Prov. 16:5</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23101006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 101,
       "verse": 6,
       "text": "My eyes will be on the faithful of the land, that they may dwell with me; those who walk in integrity are the ones who will minister to me.",
       "links": "<a href='/AIV/19/15/1-2'>Ps. 15:1-2</a>; <a href='/AIV/19/24/3-4'>Ps. 24:3-4</a>; <a href='/AIV/19/101/2'>Ps. 101:2</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 23101007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 101,
       "verse": 7,
       "text": "No one who practices deceit shall dwell in my house; no one who utters lies shall stand before my eyes.",
       "links": "<a href='/AIV/19/15/2'>Ps. 15:2</a>; <a href='/AIV/19/24/4'>Ps. 24:4</a>; <a href='/AIV/20/6/16-19'>Prov. 6:16-19</a>",
@@ -92,28 +59,10 @@
     },
     {
       "pk": 23101008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 101,
       "verse": 8,
       "text": "Morning by morning I will destroy all the wicked of the land, cutting off from the LORD’s city all who practice evil.",
       "links": "<a href='/AIV/19/73/27'>Ps. 73:27</a>; <a href='/AIV/19/37/38'>Ps. 37:38</a>; <a href='/AIV/23/52/1'>Isa. 52:1</a>; <a href='/AIV/66/21/27'>Rev. 21:27</a>",
       "comment": "Daily vigilance against evil is stressed. The reference to the LORD's city points toward the biblical ideal of a holy people dwelling in the renewed Jerusalem, as fulfilled in Revelation (<a href='/AIV/66/21/27'>Rev. 21:27</a>). This foreshadows the ultimate gathering of the righteous, both literally and spiritually, under God’s eternal reign."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:34:14.319Z",
-  "sections": [
-    {
-      "title": "Commitment to Righteousness and Justice",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "The Conduct of the Faithful and the Wicked",
-      "startVerse": 6,
-      "endVerse": 8
     }
   ]
 }

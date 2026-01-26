@@ -1,16 +1,13 @@
 {
-  "book": 42,
+  "translation": "AIV",
+  "bookId": "habakkuk",
   "bookName": "Habakkuk",
   "bookAbbreviation": "Hab",
+  "bookNumber": 42,
   "chapter": 1,
   "verses": [
     {
       "pk": 42001001,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 1,
       "verse": 1,
       "text": "The oracle which Habakkuk the prophet saw.",
       "links": "<a href='/AIV/20/30/1'>Prov. 30:1</a>; <a href='/AIV/23/13/1'>Isa. 13:1</a>",
@@ -18,11 +15,6 @@
     },
     {
       "pk": 42001002,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 1,
       "verse": 2,
       "text": "O LORD, how long shall I cry for help, and You do not hear? Or cry to You, 'Violence!' and You do not save?",
       "links": "<a href='/AIV/19/13/1'>Ps. 13:1-2</a>; <a href='/AIV/24/12/1'>Jer. 12:1</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 42001003,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 1,
       "verse": 3,
       "text": "Why do You make me see iniquity, and why do You look idly at wrong? Destruction and violence are before me; strife and contention arise.",
       "links": "<a href='/AIV/19/73/3-9'>Ps. 73:3-9</a>; <a href='/AIV/24/9/24'>Jer. 9:24</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 42001004,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 1,
       "verse": 4,
       "text": "Therefore the law is powerless, and justice never goes forth. For the wicked surround the righteous; so justice goes forth perverted.",
       "links": "<a href='/AIV/19/82/2'>Ps. 82:2</a>; <a href='/AIV/23/59/14'>Isa. 59:14</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 42001005,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 1,
       "verse": 5,
       "text": "Look among the nations, and see; wonder and be amazed. For I am doing a work in your days that you would not believe if told.",
       "links": "<a href='/AIV/44/13/41'>Acts 13:41</a>; <a href='/AIV/23/29/14'>Isa. 29:14</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 42001006,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 1,
       "verse": 6,
       "text": "For behold, I am raising up the Chaldeans, that fierce and impetuous nation, who march across the breadth of the earth to take dwellings not their own.",
       "links": "<a href='/AIV/24/5/15-17'>Jer. 5:15-17</a>; <a href='/AIV/23/39/3'>Isa. 39:3</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 42001007,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 1,
       "verse": 7,
       "text": "They are dreaded and fearsome; their justice and dignity proceed from themselves.",
       "links": "<a href='/AIV/23/47/8-10'>Isa. 47:8-10</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 42001008,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 1,
       "verse": 8,
       "text": "Their horses are swifter than leopards, fiercer than wolves at dusk; their horsemen press proudly on. Their horsemen come from afar; they fly like an eagle swift to devour.",
       "links": "<a href='/AIV/24/4/13'>Jer. 4:13</a>; <a href='/AIV/05/28/49'>Deut. 28:49</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 42001009,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 1,
       "verse": 9,
       "text": "They all come for violence, all their faces set forward. They gather captives like sand.",
       "links": "<a href='/AIV/01/41/49'>Gen. 41:49</a>; <a href='/AIV/24/15/8'>Jer. 15:8</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 42001010,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 1,
       "verse": 10,
       "text": "At kings they scoff, and at rulers they laugh. They laugh at every stronghold, for they heap up earth and capture it.",
       "links": "<a href='/AIV/23/37/13'>Isa. 37:13</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 42001011,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 1,
       "verse": 11,
       "text": "Then they sweep by like the wind and go on, guilty men whose own strength is their god.",
       "links": "<a href='/AIV/24/16/12'>Jer. 16:12</a>; <a href='/AIV/27/5/23'>Dan. 5:23</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 42001012,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 1,
       "verse": 12,
       "text": "Are You not from everlasting, O LORD my God, my Holy One? We shall not die. O LORD, You have appointed them to judge; O Rock, You have established them for correction.",
       "links": "<a href='/AIV/05/32/4'>Deut. 32:4</a>; <a href='/AIV/19/90/2'>Ps. 90:2</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 42001013,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 1,
       "verse": 13,
       "text": "You who are of purer eyes than to see evil and cannot look at wrong, why do You look on those who deal treacherously and remain silent when the wicked swallows up a man more righteous than he?",
       "links": "<a href='/AIV/19/5/4-6'>Ps. 5:4-6</a>; <a href='/AIV/24/12/1'>Jer. 12:1</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 42001014,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 1,
       "verse": 14,
       "text": "You make mankind like the fish of the sea, like crawling things that have no ruler.",
       "links": "<a href='/AIV/01/1/28'>Gen. 1:28</a>; <a href='/AIV/19/8/6-8'>Ps. 8:6-8</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 42001015,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 1,
       "verse": 15,
       "text": "The wicked bring all of them up with a hook; they drag them out with their net, and gather them in their dragnet. So they rejoice and are glad.",
       "links": "<a href='/AIV/26/29/4'>Ezek. 29:4</a>; <a href='/AIV/40/13/47-50'>Matt. 13:47-50</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 42001016,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 1,
       "verse": 16,
       "text": "Therefore they sacrifice to their net and make offerings to their dragnet, for by them their portion is fat and their food plentiful.",
       "links": "<a href='/AIV/27/5/4'>Dan. 5:4</a>; <a href='/AIV/05/8/17'>Deut. 8:17</a>",
@@ -201,33 +123,10 @@
     },
     {
       "pk": 42001017,
-      "translation": "AIV",
-      "book": 42,
-      "bookName": "Habakkuk",
-      "bookAbbreviation": "Hab",
-      "chapter": 1,
       "verse": 17,
       "text": "Shall they then keep on emptying their net and mercilessly destroying nations forever?",
       "links": "<a href='/AIV/19/74/10-22'>Ps. 74:10-22</a>; <a href='/AIV/24/51/24'>Jer. 51:24</a>",
       "comment": "The question challenges God’s justice, seeking hope that tyranny will not have the final word. The unresolved cry here sets up the theme of faithful waiting for divine vindication—a theme fulfilled in the coming of the Messiah and the establishment of His eternal kingdom."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:51:09.498Z",
-  "sections": [
-    {
-      "title": "Habakkuk’s Complaint About Injustice",
-      "startVerse": 2,
-      "endVerse": 4
-    },
-    {
-      "title": "God’s Answer: The Coming of the Chaldeans",
-      "startVerse": 5,
-      "endVerse": 11
-    },
-    {
-      "title": "Habakkuk’s Second Complaint: Questioning God’s Justice",
-      "startVerse": 12,
-      "endVerse": 17
     }
   ]
 }

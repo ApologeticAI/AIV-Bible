@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 114,
   "verses": [
     {
       "pk": 23114001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 114,
       "verse": 1,
       "text": "When Israel came out of Egypt, when the house of Jacob left a people of foreign tongue,",
       "links": "<a href='/AIV/02/12/51'>Ex. 12:51</a>; <a href='/AIV/19/81/6'>Ps. 81:6</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23114002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 114,
       "verse": 2,
       "text": "Judah became His sanctuary, Israel His dominion.",
       "links": "<a href='/AIV/02/19/6'>Ex. 19:6</a>; <a href='/AIV/19/78/68'>Ps. 78:68</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23114003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 114,
       "verse": 3,
       "text": "The sea saw and fled; the Jordan turned back.",
       "links": "<a href='/AIV/02/14/21-22'>Ex. 14:21-22</a>; <a href='/AIV/06/3/13-16'>Josh. 3:13-16</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23114004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 114,
       "verse": 4,
       "text": "The mountains skipped like rams, the hills like lambs.",
       "links": "<a href='/AIV/07/5/5'>Judg. 5:5</a>; <a href='/AIV/19/29/6'>Ps. 29:6</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23114005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 114,
       "verse": 5,
       "text": "What is it, O sea, that you flee? O Jordan, that you turn back?",
       "links": "<a href='/AIV/02/14/15-22'>Ex. 14:15-22</a>; <a href='/AIV/06/3/16'>Josh. 3:16</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23114006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 114,
       "verse": 6,
       "text": "O mountains, that you leap like rams, and O hills, like lambs?",
       "links": "<a href='/AIV/19/29/6'>Ps. 29:6</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23114007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 114,
       "verse": 7,
       "text": "Tremble, O earth, at the presence of the Lord, at the presence of the God of Jacob,",
       "links": "<a href='/AIV/19/97/4-5'>Ps. 97:4-5</a>; <a href='/AIV/02/19/18'>Ex. 19:18</a>",
@@ -91,23 +58,10 @@
     },
     {
       "pk": 23114008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 114,
       "verse": 8,
       "text": "Who turned the rock into a pool of water, the flint into a spring.",
       "links": "<a href='/AIV/02/17/6'>Ex. 17:6</a>; <a href='/AIV/04/20/10-11'>Num. 20:10-11</a>; <a href='/AIV/46/10/4'>1 Cor. 10:4</a>",
       "comment": "God miraculously provides water from the rock, which Paul saw as a type for Christ (<a href='/AIV/46/10/4'>1 Cor. 10:4</a>), the source of living water for His people. Here we see both physical and spiritual nourishment—a sign pointing to the sacramental reality of Christ’s provision."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:40:05.918Z",
-  "sections": [
-    {
-      "title": "Israel’s Deliverance from Egypt",
-      "startVerse": 1,
-      "endVerse": 8
     }
   ]
 }

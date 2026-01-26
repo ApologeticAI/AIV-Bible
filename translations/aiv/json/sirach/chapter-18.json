@@ -1,38 +1,13 @@
 {
-  "book": 28,
+  "translation": "AIV",
+  "bookId": "sirach",
   "bookName": "Sirach",
   "bookAbbreviation": "Sir",
+  "bookNumber": 28,
   "chapter": 18,
-  "sections": [
-    {
-      "title": "The Wisdom and Mercy of God",
-      "startVerse": 1,
-      "endVerse": 13
-    },
-    {
-      "title": "The Practice of Kindness",
-      "startVerse": 14,
-      "endVerse": 17
-    },
-    {
-      "title": "The Wisdom of Preparation",
-      "startVerse": 18,
-      "endVerse": 28
-    },
-    {
-      "title": "Proper Disposition Before God",
-      "startVerse": 29,
-      "endVerse": 33
-    }
-  ],
   "verses": [
     {
       "pk": 28018001,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 18,
       "verse": 1,
       "text": "He who lives forever created all things together. The Lord alone is righteous.",
       "links": "<a href='/AIV/01/1/1'>Gen. 1:1</a>; <a href='/AIV/19/145/17'>Ps. 145:17</a>",
@@ -41,154 +16,83 @@
     },
     {
       "pk": 28018002,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 18,
       "verse": 2,
       "text": "No one can fully declare his works. Who can search out his glorious deeds?",
       "links": "<a href='/AIV/19/40/5'>Ps. 40:5</a>; <a href='/AIV/23/40/28'>Isa. 40:28</a>",
-      "comment": "This verse highlights human limitation in understanding the fullness of God’s works. It echoes the humility required before the mystery of God.",
-      "sectionHeader": null
+      "comment": "This verse highlights human limitation in understanding the fullness of God’s works. It echoes the humility required before the mystery of God."
     },
     {
       "pk": 28018003,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 18,
       "verse": 4,
       "text": "Who can measure his majestic power, and who can further tell of his mercies?",
       "links": "<a href='/AIV/19/103/11'>Ps. 103:11</a>; <a href='/AIV/19/145/3'>Ps. 145:3</a>",
-      "comment": "God’s mercy is linked to his majesty. The unmeasurable nature of God’s love forms the foundation of all redemption.",
-      "sectionHeader": null
+      "comment": "God’s mercy is linked to his majesty. The unmeasurable nature of God’s love forms the foundation of all redemption."
     },
     {
       "pk": 28018004,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 18,
       "verse": 5,
       "text": "It is not possible to lessen, or to add, nor is it possible to explore the wonders of the Lord.",
       "links": "<a href='/AIV/18/37/5'>Job 37:5</a>; <a href='/AIV/45/11/33'>Rom. 11:33</a>",
-      "comment": "Affirms the completeness and perfection of God’s works. This connects with Paul’s doxology in Romans about the inscrutability of God’s ways.",
-      "sectionHeader": null
+      "comment": "Affirms the completeness and perfection of God’s works. This connects with Paul’s doxology in Romans about the inscrutability of God’s ways."
     },
     {
       "pk": 28018005,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 18,
       "verse": 6,
       "text": "When a man has finished, he is just beginning, and when he stops, he will be in need.",
       "links": "<a href='/AIV/19/139/6'>Ps. 139:6</a>",
-      "comment": "Human effort is always incomplete before God; only the Lord is self-sufficient. This encourages humility and ongoing reliance on God’s providence.",
-      "sectionHeader": null
+      "comment": "Human effort is always incomplete before God; only the Lord is self-sufficient. This encourages humility and ongoing reliance on God’s providence."
     },
     {
       "pk": 28018006,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 18,
       "verse": 7,
       "text": "What are human beings, and what use are they? What is good in them, and what is evil?",
       "links": "<a href='/AIV/18/7/17'>Job 7:17</a>; <a href='/AIV/19/8/4'>Ps. 8:4</a>",
-      "comment": "This echoes wisdom literature that ponders mankind’s frailty and moral ambiguity, preparing for the later Christian recognition of the need for grace.",
-      "sectionHeader": null
+      "comment": "This echoes wisdom literature that ponders mankind’s frailty and moral ambiguity, preparing for the later Christian recognition of the need for grace."
     },
     {
       "pk": 28018007,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 18,
       "verse": 8,
       "text": "The number of a person's days is great if it reaches a hundred years.",
       "links": "<a href='/AIV/01/5/27'>Gen. 5:27</a>; <a href='/AIV/19/90/10'>Ps. 90:10</a>",
-      "comment": "Human life, even at its fullest, is portrayed as limited. This points to the transitory nature of earthly existence.",
-      "sectionHeader": null
+      "comment": "Human life, even at its fullest, is portrayed as limited. This points to the transitory nature of earthly existence."
     },
     {
       "pk": 28018008,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 18,
       "verse": 9,
       "text": "Like a drop of water from the sea and a grain of sand, so are a few years in the day of eternity.",
       "links": "<a href='/AIV/19/39/5'>Ps. 39:5</a>",
-      "comment": "This vivid imagery emphasizes the vast difference between God’s eternity and our brief lives.",
-      "sectionHeader": null
+      "comment": "This vivid imagery emphasizes the vast difference between God’s eternity and our brief lives."
     },
     {
       "pk": 28018009,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 18,
       "verse": 10,
       "text": "Therefore the Lord is patient with mankind, and pours out his mercy upon them.",
       "links": "<a href='/AIV/19/103/8'>Ps. 103:8</a>; <a href='/AIV/60/3/20'>2 Pet. 3:20</a>",
-      "comment": "The Lord’s patience and mercy provide the foundation for salvation history, foreshadowing Christ’s redemptive mission.",
-      "sectionHeader": null
+      "comment": "The Lord’s patience and mercy provide the foundation for salvation history, foreshadowing Christ’s redemptive mission."
     },
     {
       "pk": 28018010,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 18,
       "verse": 11,
       "text": "He sees and recognizes that their end is evil; therefore he multiplies forgiveness.",
       "links": "<a href='/AIV/23/55/7'>Isa. 55:7</a>; <a href='/AIV/40/18/21-22'>Matt. 18:21-22</a>",
-      "comment": "God’s knowledge moves him to mercy. This multiplication of forgiveness echoes Jesus’s teaching on boundless forgiveness.",
-      "sectionHeader": null
+      "comment": "God’s knowledge moves him to mercy. This multiplication of forgiveness echoes Jesus’s teaching on boundless forgiveness."
     },
     {
       "pk": 28018011,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 18,
       "verse": 12,
       "text": "The mercy of a man is for his neighbor, but the mercy of the Lord is for all living things. He rebukes, disciplines, and teaches, and brings them back as a shepherd leads his flock.",
       "links": "<a href='/AIV/19/145/9'>Ps. 145:9</a>; <a href='/AIV/23/40/11'>Isa. 40:11</a>",
-      "comment": "This verse prefigures Christ, the Good Shepherd, who came for all. The Lord's universal mercy and his role as teacher and guide are essential themes for understanding salvation.",
-      "sectionHeader": null
+      "comment": "This verse prefigures Christ, the Good Shepherd, who came for all. The Lord's universal mercy and his role as teacher and guide are essential themes for understanding salvation."
     },
     {
       "pk": 28018012,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 18,
       "verse": 13,
       "text": "He has compassion on those who accept discipline and who eagerly seek after his judgments.",
       "links": "<a href='/AIV/19/25/9'>Ps. 25:9</a>",
-      "comment": "God's mercy is especially abundant to those who repent and seek his will. The call to discipline and obedience suggests a life oriented toward virtue and God's commands.",
-      "sectionHeader": null
+      "comment": "God's mercy is especially abundant to those who repent and seek his will. The call to discipline and obedience suggests a life oriented toward virtue and God's commands."
     },
     {
       "pk": 28018013,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 18,
       "verse": 14,
       "text": "My child, do not add reproach to your good deeds, nor cause grief through harsh words given with a gift.",
       "links": "<a href='/AIV/20/25/14'>Prov. 25:14</a>; <a href='/AIV/47/9/7'>2 Cor. 9:7</a>",
@@ -197,50 +101,27 @@
     },
     {
       "pk": 28018014,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 18,
       "verse": 15,
       "text": "Does not the dew soothe the heat? So also a kind word is better than a gift.",
       "links": "<a href='/AIV/20/15/1'>Prov. 15:1</a>",
-      "comment": "A gentle, encouraging word can bring greater comfort than material gifts. The analogy underlines the power of speech to build up or heal.",
-      "sectionHeader": null
+      "comment": "A gentle, encouraging word can bring greater comfort than material gifts. The analogy underlines the power of speech to build up or heal."
     },
     {
       "pk": 28018015,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 18,
       "verse": 16,
       "text": "Certainly, the kind word is above the best gift. Every giving is accompanied by the gracious fear of the Lord.",
       "links": "<a href='/AIV/20/22/11'>Prov. 22:11</a>",
-      "comment": "Proper giving is completed in reverence for God. True virtue unites both deed and attitude.",
-      "sectionHeader": null
+      "comment": "Proper giving is completed in reverence for God. True virtue unites both deed and attitude."
     },
     {
       "pk": 28018016,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 18,
       "verse": 17,
       "text": "A fool may give grudgingly, but the wise person presents gifts with a cheerful face.",
       "links": "<a href='/AIV/47/9/7'>2 Cor. 9:7</a>",
-      "comment": "Joy and willingness in charity reflect a heart conformed to God's own love, as later echoed by Paul.",
-      "sectionHeader": null
+      "comment": "Joy and willingness in charity reflect a heart conformed to God's own love, as later echoed by Paul."
     },
     {
       "pk": 28018017,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 18,
       "verse": 18,
       "text": "Before you speak, learn; and before you become ill, take care of yourself.",
       "links": "<a href='/AIV/20/18/13'>Prov. 18:13</a>",
@@ -249,141 +130,76 @@
     },
     {
       "pk": 28018018,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 18,
       "verse": 19,
       "text": "Before judgment, examine yourself, and at the time of visitation you will find mercy.",
       "links": "<a href='/AIV/40/7/1-5'>Matt. 7:1-5</a>; <a href='/AIV/11/13/28'>1 Cor. 11:28</a>",
-      "comment": "Self-examination is key to repentance and personal holiness. This concept is vital to a sacramental view of confession, where introspection leads to mercy.",
-      "sectionHeader": null
+      "comment": "Self-examination is key to repentance and personal holiness. This concept is vital to a sacramental view of confession, where introspection leads to mercy."
     },
     {
       "pk": 28018019,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 18,
       "verse": 20,
       "text": "Before falling ill, humble yourself; and when you sin, show repentance.",
       "links": "<a href='/AIV/19/32/5'>Ps. 32:5</a>",
-      "comment": "Humility and repentance before God’s discipline secure his mercy. Note the implication of an ongoing process of conversion throughout life.",
-      "sectionHeader": null
+      "comment": "Humility and repentance before God’s discipline secure his mercy. Note the implication of an ongoing process of conversion throughout life."
     },
     {
       "pk": 28018020,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 18,
       "verse": 21,
       "text": "Do not delay to turn to the Lord, nor postpone conversion from day to day.",
       "links": "<a href='/AIV/42/12/20'>Luke 12:20</a>; <a href='/AIV/47/6/2'>2 Cor. 6:2</a>",
-      "comment": "Immediate repentance is urged—today is the day of salvation. The urgency recalls Jesus’ call to be ever-prepared for God’s coming.",
-      "sectionHeader": null
+      "comment": "Immediate repentance is urged—today is the day of salvation. The urgency recalls Jesus’ call to be ever-prepared for God’s coming."
     },
     {
       "pk": 28018021,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 18,
       "verse": 22,
       "text": "Suddenly the wrath of the Lord will break forth, and in the time of punishment you will be destroyed.",
       "links": "<a href='/AIV/23/55/6'>Isa. 55:6</a>",
-      "comment": "There is a real danger in spiritual procrastination. Echoes Old Testament warnings of divine justice.",
-      "sectionHeader": null
+      "comment": "There is a real danger in spiritual procrastination. Echoes Old Testament warnings of divine justice."
     },
     {
       "pk": 28018022,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 18,
       "verse": 23,
       "text": "Do not rely on riches, and say, 'I have enough,' and do not let them lead you astray down the wrong path.",
       "links": "<a href='/AIV/19/52/7'>Ps. 52:7</a>; <a href='/AIV/40/19/24'>Matt. 19:24</a>",
-      "comment": "Wealth can be a deception, tempting one away from God. Jesus later warns about the dangers of riches more strongly.",
-      "sectionHeader": null
+      "comment": "Wealth can be a deception, tempting one away from God. Jesus later warns about the dangers of riches more strongly."
     },
     {
       "pk": 28018023,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 18,
       "verse": 24,
       "text": "Do not say, 'Who has power over me?'— for the Lord will surely punish you.",
       "links": "<a href='/AIV/05/8/17-18'>Deut. 8:17-18</a>",
-      "comment": "Pride before God is folly. All are accountable to His authority.",
-      "sectionHeader": null
+      "comment": "Pride before God is folly. All are accountable to His authority."
     },
     {
       "pk": 28018024,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 18,
       "verse": 25,
       "text": "Do not say, 'I have sinned, and nothing happened to me,' for the Lord is patient.",
       "links": "<a href='/AIV/45/2/4'>Rom. 2:4</a>",
-      "comment": "God’s patience is meant to lead to repentance, not presumption.",
-      "sectionHeader": null
+      "comment": "God’s patience is meant to lead to repentance, not presumption."
     },
     {
       "pk": 28018025,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 18,
       "verse": 26,
       "text": "Do not be so confident of forgiveness that you add sin upon sin.",
       "links": "<a href='/AIV/45/6/1'>Rom. 6:1</a>",
-      "comment": "Warning against presuming upon God’s mercy. True repentance avoids willful sin.",
-      "sectionHeader": null
+      "comment": "Warning against presuming upon God’s mercy. True repentance avoids willful sin."
     },
     {
       "pk": 28018026,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 18,
       "verse": 27,
       "text": "Do not say, 'His compassion is great, he will forgive the multitude of my sins,' for both mercy and wrath are with him, and his anger rests on sinners.",
       "links": "<a href='/AIV/02/34/6-7'>Ex. 34:6-7</a>",
-      "comment": "This verse warns against presuming upon God’s mercy without sincere repentance, emphasizing that divine compassion is inseparable from justice; similar warnings appear in Romans 2:4-5 and Wisdom 11:21, reminding readers that God’s patience does not negate his righteous judgment.",
-      "sectionHeader": null
+      "comment": "This verse warns against presuming upon God’s mercy without sincere repentance, emphasizing that divine compassion is inseparable from justice; similar warnings appear in Romans 2:4-5 and Wisdom 11:21, reminding readers that God’s patience does not negate his righteous judgment."
     },
     {
       "pk": 28018027,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 18,
       "verse": 28,
       "text": "Do not delay to humble yourself before the Lord, and do not wait to do so until you are dying.",
       "links": "<a href='/AIV/40/25/1-13'>Matt. 25:1-13</a>",
-      "comment": "The necessity of dying prepared is an ancient Christian teaching. It evokes the wise and foolish virgins in Jesus’s parable—preparation is essential.",
-      "sectionHeader": null
+      "comment": "The necessity of dying prepared is an ancient Christian teaching. It evokes the wise and foolish virgins in Jesus’s parable—preparation is essential."
     },
     {
       "pk": 28018028,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 18,
       "verse": 29,
       "text": "Before making a vow, prepare your soul; do not be like one who tests the Lord.",
       "links": "<a href='/AIV/05/6/16'>Deut. 6:16</a>; <a href='/AIV/21/5/4-5'>Eccl. 5:4-5</a>",
@@ -392,56 +208,31 @@
     },
     {
       "pk": 28018029,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 18,
       "verse": 30,
       "text": "Think about God’s wrath on the day of death, and at the time of retribution, when he will turn his face away.",
       "links": "<a href='/AIV/58/9/27'>Heb. 9:27</a>",
-      "comment": "Final judgment and afterlife are reinforced here, pointing to the need for an eternal perspective.",
-      "sectionHeader": null
+      "comment": "Final judgment and afterlife are reinforced here, pointing to the need for an eternal perspective."
     },
     {
       "pk": 28018030,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 18,
       "verse": 31,
       "text": "In the time of plenty, remember the time of hunger; in the days of wealth, remember poverty and need.",
       "links": "<a href='/AIV/05/8/18'>Deut. 8:18</a>",
-      "comment": "Thinking ahead stirs gratefulness and caution. Practicing moderation is a mark of wisdom.",
-      "sectionHeader": null
+      "comment": "Thinking ahead stirs gratefulness and caution. Practicing moderation is a mark of wisdom."
     },
     {
       "pk": 28018031,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 18,
       "verse": 32,
       "text": "From morning to evening conditions change; so all things pass swiftly before the Lord.",
       "links": "<a href='/AIV/19/102/11-12'>Ps. 102:11-12</a>",
-      "comment": "The transience of life is expressed, recalling the Psalms. This calls for constant faithfulness.",
-      "sectionHeader": null
+      "comment": "The transience of life is expressed, recalling the Psalms. This calls for constant faithfulness."
     },
     {
       "pk": 28018032,
-      "translation": "AIV",
-      "book": 28,
-      "bookName": "Sirach",
-      "bookAbbreviation": "Sir",
-      "chapter": 18,
       "verse": 33,
       "text": "A wise person is always careful in everything, and in days of sin will guard against offense.",
       "links": "<a href='/AIV/20/4/23'>Prov. 4:23</a>",
-      "comment": "Continuous vigilance is the mark of true wisdom. The life of virtue demands self-examination and prudence.",
-      "sectionHeader": null
+      "comment": "Continuous vigilance is the mark of true wisdom. The life of virtue demands self-examination and prudence."
     }
-  ],
-  "translatedAt": "2025-12-28T02:30:02.848Z"
+  ]
 }

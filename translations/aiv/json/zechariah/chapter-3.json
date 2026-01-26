@@ -1,16 +1,13 @@
 {
-  "book": 45,
+  "translation": "AIV",
+  "bookId": "zechariah",
   "bookName": "Zechariah",
   "bookAbbreviation": "Zech",
+  "bookNumber": 45,
   "chapter": 3,
   "verses": [
     {
       "pk": 45003001,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 3,
       "verse": 1,
       "text": "Then he showed me Joshua the high priest standing before the angel of the LORD, and Satan standing at his right hand to accuse him.",
       "links": "<a href='/AIV/18/1/6-12'>Job 1:6-12</a>; <a href='/AIV/66/12/10'>Rev. 12:10</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 45003002,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 3,
       "verse": 2,
       "text": "And the LORD said to Satan, 'The LORD rebuke you, Satan! The LORD who has chosen Jerusalem rebuke you! Is not this man a brand plucked from the fire?'",
       "links": "<a href='/AIV/65/1/9'>Jude 1:9</a>; <a href='/AIV/23/1/29'>Isa. 1:29</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 45003003,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 3,
       "verse": 3,
       "text": "Now Joshua was standing before the angel, clothed with filthy garments.",
       "links": "<a href='/AIV/23/64/6'>Isa. 64:6</a>; <a href='/AIV/66/7/14'>Rev. 7:14</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 45003004,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 3,
       "verse": 4,
       "text": "And the angel said to those standing before him, 'Take away the filthy garments from him.' To Joshua he said, 'See, I have taken away your guilt from you, and I will clothe you with pure vestments.'",
       "links": "<a href='/AIV/23/61/10'>Isa. 61:10</a>; <a href='/AIV/66/19/8'>Rev. 19:8</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 45003005,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 3,
       "verse": 5,
       "text": "And I said, 'Let them put a clean turban on his head.' So they put a clean turban on his head and clothed him with garments. And the angel of the LORD was standing by.",
       "links": "<a href='/AIV/02/28/36-39'>Ex. 28:36-39</a>; <a href='/AIV/19/132/9'>Ps. 132:9</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 45003006,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 3,
       "verse": 6,
       "text": "And the angel of the LORD solemnly charged Joshua,",
       "links": "<a href='/AIV/06/1/7'>Josh. 1:7</a>; <a href='/AIV/02/19/5-6'>Ex. 19:5-6</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 45003007,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 3,
       "verse": 7,
       "text": "'Thus says the LORD of hosts: If you will walk in My ways and keep My charge, then you shall govern My house and have charge of My courts, and I will give you access among those who stand here.'",
       "links": "<a href='/AIV/19/84/10'>Ps. 84:10</a>; <a href='/AIV/66/3/12'>Rev. 3:12</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 45003008,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 3,
       "verse": 8,
       "text": "'Hear now, O Joshua the high priest, you and your companions who sit before you, for they are men of sign; for behold, I am bringing My servant, the Branch.'",
       "links": "<a href='/AIV/23/11/1'>Isa. 11:1</a>; <a href='/AIV/24/23/5'>Jer. 23:5</a>; <a href='/AIV/40/2/23'>Matt. 2:23</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 45003009,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 3,
       "verse": 9,
       "text": "For behold, the stone I have set before Joshua—on one stone are seven eyes. I will engrave its inscription, declares the LORD of hosts, and I will remove the iniquity of this land in one day.",
       "links": "<a href='/AIV/66/5/6'>Rev. 5:6</a>; <a href='/AIV/19/118/22'>Ps. 118:22</a>; <a href='/AIV/40/21/42'>Matt. 21:42</a>",
@@ -116,28 +73,10 @@
     },
     {
       "pk": 45003010,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 3,
       "verse": 10,
       "text": "'In that day, declares the LORD of hosts, every one of you will invite his neighbor to sit under his vine and under his fig tree.'",
       "links": "<a href='/AIV/11/4/25'>1 Kings 4:25</a>; <a href='/AIV/33/4/4'>Mic. 4:4</a>; <a href='/AIV/43/1/45-51'>John 1:45-51</a>",
       "comment": "The vision of peace and communion under the vine and fig tree recalls the fullness of God’s kingdom and reconciliation. This alludes to the unity and community among believers and the visible, sacramental fellowship. The phrase points toward the fulfillment found in Christ and His Church, gathered in harmony and love."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:55:27.529Z",
-  "sections": [
-    {
-      "title": "The Cleansing of Joshua the High Priest",
-      "startVerse": 1,
-      "endVerse": 7
-    },
-    {
-      "title": "The Promise of the Branch",
-      "startVerse": 8,
-      "endVerse": 10
     }
   ]
 }

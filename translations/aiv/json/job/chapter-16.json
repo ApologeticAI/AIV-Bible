@@ -1,16 +1,13 @@
 {
-  "book": 22,
+  "translation": "AIV",
+  "bookId": "job",
   "bookName": "Job",
   "bookAbbreviation": "Job",
+  "bookNumber": 22,
   "chapter": 16,
   "verses": [
     {
       "pk": 22016001,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 16,
       "verse": 1,
       "text": "Then Job answered and said:",
       "links": "<a href='/AIV/18/15/1'>Job 15:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 22016002,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 16,
       "verse": 2,
       "text": "I have heard many things like these; you are all miserable comforters.",
       "links": "<a href='/AIV/18/13/4'>Job 13:4</a>; <a href='/AIV/18/21/34'>Job 21:34</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 22016003,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 16,
       "verse": 3,
       "text": "Will useless words have an end? Or what provokes you that you continue to answer?",
       "links": "<a href='/AIV/18/13/5'>Job 13:5</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 22016004,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 16,
       "verse": 4,
       "text": "I also could speak as you do, if your souls were in my soul’s place; I could join words together against you, and shake my head at you.",
       "links": "<a href='/AIV/18/19/5'>Job 19:5</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 22016005,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 16,
       "verse": 5,
       "text": "But I would strengthen you with my mouth, and the comfort of my lips would bring relief.",
       "links": "<a href='/AIV/23/50/4'>Isa. 50:4</a>; <a href='/AIV/58/3/13'>Heb. 3:13</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 22016006,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 16,
       "verse": 6,
       "text": "Even if I speak, my pain is not relieved; and if I refrain, how much of it leaves me?",
       "links": "<a href='/AIV/19/39/2'>Ps. 39:2</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 22016007,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 16,
       "verse": 7,
       "text": "But now He has worn me out; You have ruined my entire family.",
       "links": "<a href='/AIV/18/1/19'>Job 1:19</a>; <a href='/AIV/18/10/1'>Job 10:1</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 22016008,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 16,
       "verse": 8,
       "text": "You have seized me; it is a witness against me. My leanness rises up to testify to my face.",
       "links": "<a href='/AIV/18/13/26'>Job 13:26</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 22016009,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 16,
       "verse": 9,
       "text": "His anger tears at me and He harasses me; He grinds His teeth against me. My enemy sharpens his eyes on me.",
       "links": "<a href='/AIV/18/19/11'>Job 19:11</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 22016010,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 16,
       "verse": 10,
       "text": "They have opened their mouths wide against me; they have struck my cheek with reproach; they gather together against me.",
       "links": "<a href='/AIV/18/30/10'>Job 30:10</a>; <a href='/AIV/25/3/30'>Lam. 3:30</a>; <a href='/AIV/40/26/67'>Matt. 26:67</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 22016011,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 16,
       "verse": 11,
       "text": "God has delivered me into the hands of the wicked, and thrown me into the hands of the unrighteous.",
       "links": "<a href='/AIV/42/24/7'>Luke 24:7</a>; <a href='/AIV/18/8/20'>Job 8:20</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 22016012,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 16,
       "verse": 12,
       "text": "I was at ease, but He shattered me; He seized me by the neck and broke me apart. He has set me up as His target.",
       "links": "<a href='/AIV/18/7/20'>Job 7:20</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 22016013,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 16,
       "verse": 13,
       "text": "His archers surround me. He pierces my kidneys without mercy and pours out my gall on the ground.",
       "links": "<a href='/AIV/18/6/4'>Job 6:4</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 22016014,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 16,
       "verse": 14,
       "text": "He breaks me with blow after blow; He runs at me like a warrior.",
       "links": "<a href='/AIV/18/13/25'>Job 13:25</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 22016015,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 16,
       "verse": 15,
       "text": "I have sewed sackcloth over my skin and buried my horn in the dust.",
       "links": "<a href='/AIV/18/2/12'>Job 2:12</a>; <a href='/AIV/19/7/5'>Ps. 7:5</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 22016016,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 16,
       "verse": 16,
       "text": "My face is red with weeping, and deep shadows are on my eyelids,",
       "links": "<a href='/AIV/18/17/7'>Job 17:7</a>",
@@ -200,11 +122,6 @@
     },
     {
       "pk": 22016017,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 16,
       "verse": 17,
       "text": "even though there is no violence in my hands, and my prayer is pure.",
       "links": "<a href='/AIV/18/1/1'>Job 1:1</a>; <a href='/AIV/19/66/18'>Ps. 66:18</a>",
@@ -212,11 +129,6 @@
     },
     {
       "pk": 22016018,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 16,
       "verse": 18,
       "text": "O earth, do not cover my blood, and let my cry have no resting place.",
       "links": "<a href='/AIV/18/27/9'>Job 27:9</a>; <a href='/AIV/01/4/10'>Gen. 4:10</a>; <a href='/AIV/66/6/10'>Rev. 6:10</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 22016019,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 16,
       "verse": 19,
       "text": "Even now, my witness is in heaven; my advocate is on high.",
       "links": "<a href='/AIV/19/89/37'>Ps. 89:37</a>; <a href='/AIV/58/7/25'>Heb. 7:25</a>; <a href='/AIV/62/2/1'>1 John 2:1</a>",
@@ -237,11 +144,6 @@
     },
     {
       "pk": 22016020,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 16,
       "verse": 20,
       "text": "My friends scorn me, but my eyes pour out tears to God,",
       "links": "<a href='/AIV/18/12/4'>Job 12:4</a>; <a href='/AIV/19/6/6'>Ps. 6:6</a>",
@@ -249,11 +151,6 @@
     },
     {
       "pk": 22016021,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 16,
       "verse": 21,
       "text": "that one might plead for a man with God, as a man pleads for his neighbor.",
       "links": "<a href='/AIV/18/9/33'>Job 9:33</a>",
@@ -261,33 +158,10 @@
     },
     {
       "pk": 22016022,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 16,
       "verse": 22,
       "text": "For when a few years have come, I will go the way from which I shall not return.",
       "links": "<a href='/AIV/18/10/21'>Job 10:21</a>; <a href='/AIV/58/9/27'>Heb. 9:27</a>",
       "comment": "Job refers to the certainty of death. The hope of resurrection and eternal life (see John 5:28-29) develops from meditations on this finality."
-    }
-  ],
-  "translatedAt": "2025-12-24T05:46:47.903Z",
-  "sections": [
-    {
-      "title": "Job Rebukes His Friends' Comfort",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "Job Laments God's Attacks",
-      "startVerse": 7,
-      "endVerse": 17
-    },
-    {
-      "title": "Job Appeals to Heaven for Vindication",
-      "startVerse": 18,
-      "endVerse": 22
     }
   ]
 }

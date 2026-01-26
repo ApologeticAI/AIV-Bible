@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 17,
   "verses": [
     {
       "pk": 23017001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 17,
       "verse": 1,
       "text": "Hear, O LORD, a just cause; listen to my cry. Give ear to my prayer from lips without deceit.",
       "links": "<a href='/AIV/19/86/6'>Ps. 86:6</a>; <a href='/AIV/23/59/1-2'>Isa. 59:1-2</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23017002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 17,
       "verse": 2,
       "text": "Let my vindication come from your presence; let your eyes see what is right.",
       "links": "<a href='/AIV/19/26/1'>Ps. 26:1</a>; <a href='/AIV/19/7/8'>Ps. 7:8</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23017003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 17,
       "verse": 3,
       "text": "You have examined my heart; you have visited me by night; you have tested me and found nothing. I have resolved that my mouth will not sin.",
       "links": "<a href='/AIV/19/139/23'>Ps. 139:23</a>; <a href='/AIV/18/23/10'>Job 23:10</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23017004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 17,
       "verse": 4,
       "text": "As for what people do, by the word of your lips I have avoided the ways of the violent.",
       "links": "<a href='/AIV/19/119/9-11'>Ps. 119:9-11</a>; <a href='/AIV/19/1/1'>Ps. 1:1</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23017005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 17,
       "verse": 5,
       "text": "My steps have held fast to your paths; my feet have not slipped.",
       "links": "<a href='/AIV/19/18/36'>Ps. 18:36</a>; <a href='/AIV/19/37/31'>Ps. 37:31</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23017006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 17,
       "verse": 6,
       "text": "I call upon you, O God, for you will answer me; incline your ear to me and hear my words.",
       "links": "<a href='/AIV/19/4/3'>Ps. 4:3</a>; <a href='/AIV/19/34/17'>Ps. 34:17</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23017007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 17,
       "verse": 7,
       "text": "Show your marvelous steadfast love, you who save by your right hand those who take refuge in you from their enemies.",
       "links": "<a href='/AIV/19/36/7'>Ps. 36:7</a>; <a href='/AIV/19/98/1'>Ps. 98:1</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 23017008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 17,
       "verse": 8,
       "text": "Keep me as the apple of your eye; hide me under the shadow of your wings,",
       "links": "<a href='/AIV/05/32/10'>Deut. 32:10</a>; <a href='/AIV/19/91/4'>Ps. 91:4</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 23017009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 17,
       "verse": 9,
       "text": "from the wicked who oppress me, from my deadly enemies who surround me.",
       "links": "<a href='/AIV/19/22/12-13'>Ps. 22:12-13</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 23017010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 17,
       "verse": 10,
       "text": "They have closed their hearts to mercy; with their mouths they speak arrogantly.",
       "links": "<a href='/AIV/19/73/8-9'>Ps. 73:8-9</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 23017011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 17,
       "verse": 11,
       "text": "They now surround our steps; they have set their eyes to throw us down to the ground.",
       "links": "<a href='/AIV/19/140/5'>Ps. 140:5</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 23017012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 17,
       "verse": 12,
       "text": "He is like a lion eager to tear, a young lion lurking in secret places.",
       "links": "<a href='/AIV/19/10/9'>Ps. 10:9</a>; <a href='/AIV/60/5/8'>1 Pet. 5:8</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 23017013,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 17,
       "verse": 13,
       "text": "Arise, O LORD! Confront him, bring him low. Deliver my soul from the wicked by your sword,",
       "links": "<a href='/AIV/19/7/6'>Ps. 7:6</a>; <a href='/AIV/19/35/1'>Ps. 35:1</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 23017014,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 17,
       "verse": 14,
       "text": "from men, by your hand, O LORD— from men of the world whose portion is in this life. You fill their bellies with your treasure; their children are satisfied, and they leave their abundance to their children.",
       "links": "<a href='/AIV/19/49/6-11'>Ps. 49:6-11</a>; <a href='/AIV/42/12/20-21'>Luke 12:20-21</a>",
@@ -176,34 +108,11 @@
     },
     {
       "pk": 23017015,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 17,
       "verse": 15,
       "text": "But as for me, I shall behold your face in righteousness; when I awake, I shall be satisfied with your likeness.",
       "links": "<a href='/AIV/19/16/11'>Ps. 16:11</a>; <a href='/AIV/13/13/12'>1 Cor. 13:12</a>; <a href='/AIV/62/3/2'>1 John 3:2</a>",
       "comment": "The psalmist’s hope climaxes in gazing upon God's face—language that foreshadows the hope of resurrected life and seeing God ‘face to face’ (1 Cor. 13:12, 1 John 3:2). Spiritual tradition has long seen in this verse a promise of communion with God, not only in this life but especially in the next, dwelling with Him in righteousness.",
       "sectionHeader": "Hope of Seeing God’s Face"
-    }
-  ],
-  "translatedAt": "2025-12-24T06:03:50.326Z",
-  "sections": [
-    {
-      "title": "A Prayer for Vindication and Protection",
-      "startVerse": 1,
-      "endVerse": 8
-    },
-    {
-      "title": "Deliverance from Ruthless Enemies",
-      "startVerse": 9,
-      "endVerse": 14
-    },
-    {
-      "title": "Hope of Seeing God’s Face",
-      "startVerse": 15,
-      "endVerse": 15
     }
   ]
 }

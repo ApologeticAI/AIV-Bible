@@ -1,16 +1,13 @@
 {
-  "book": 17,
+  "translation": "AIV",
+  "bookId": "tobit",
   "bookName": "Tobit",
   "bookAbbreviation": "Tob",
+  "bookNumber": 17,
   "chapter": 9,
   "verses": [
     {
       "pk": 17009001,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 9,
       "verse": 1,
       "text": "Then Tobias called Raphael and said to him, 'Brother Azariah, my father will be anxiously looking for me, and I do not wish to cause him distress. Moreover, I must not violate Raguel's oath, for he has solemnly sworn that I cannot leave until the wedding feast is finished. Take a servant and two camels, and go to Rages in Media to Gabael; receive the money for me and bring him to the wedding feast.'",
       "links": "<a href='/AIV/17/4/20'>Tob. 4:20</a>; <a href='/AIV/1/24/33'>Gen. 24:33</a>; <a href='/AIV/24/27/10'>Prov. 27:10</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 17009002,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 9,
       "verse": 2,
       "text": "So Raphael went and lodged with Gabael, and gave him the receipt; Gabael brought out the bags with the seals and counted them before him.",
       "links": "<a href='/AIV/17/1/14'>Tobit 1:14</a>; <a href='/AIV/17/4/20-21'>Tobit 4:20-21</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 17009003,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 9,
       "verse": 3,
       "text": "Then they both loaded the bags on the camels, and they traveled together to the wedding feast.",
       "links": "<a href='/AIV/17/8/19'>Tobit 8:19</a>; <a href='/AIV/01/24/61'>Gen. 24:61</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 17009004,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 9,
       "verse": 4,
       "text": "As they entered Raguel's house, they found Tobias sitting at the table.",
       "links": "<a href='/AIV/17/7/14'>Tobit 7:14</a>; <a href='/AIV/19/23/5'>Psalm 23:5</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 17009005,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 9,
       "verse": 5,
       "text": "He was filled with joy as he greeted Gabael, who wept and blessed him, saying, 'Good and noble son of a good and noble father, may God’s blessing rest on you and on your wife and your wife’s father and mother. Blessed be God, because I have seen Tobias, who is so much like his father!'",
       "links": "<a href='/AIV/17/7/6-7'>Tobit 7:6-7</a>; <a href='/AIV/01/47/7-10'>Gen. 47:7-10</a>",
@@ -68,28 +45,10 @@
     },
     {
       "pk": 17009006,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 9,
       "verse": 6,
       "text": "Then they all rejoiced together. They praised God and sat down to share the feast.",
       "links": "<a href='/AIV/19/22/26'>Ps. 22:26</a>; <a href='/AIV/42/15/6,9,32'>Luke 15:6,9,32</a>",
       "comment": "This final verse highlights the gathering of believers in joyful thanksgiving and shared feasts—a strong biblical image fulfilled most fully in communion with Christ (cf. Luke 22:19-20). The joy and praise exemplify unity, thanksgiving, and the anticipation of the heavenly celebration. There is also a spiritual foreshadowing of the ultimate feast—the Eucharist—where Christ gives Himself as the center of our joy and thanksgiving."
-    }
-  ],
-  "translatedAt": "2025-12-28T02:53:37.350Z",
-  "sections": [
-    {
-      "title": "Raphael Sent to Recover Tobias’s Money",
-      "startVerse": 1,
-      "endVerse": 3
-    },
-    {
-      "title": "Gabael Brought to the Wedding Feast",
-      "startVerse": 4,
-      "endVerse": 6
     }
   ]
 }

@@ -1,16 +1,13 @@
 {
-  "book": 10,
+  "translation": "AIV",
+  "bookId": "2-samuel",
   "bookName": "2 Samuel",
-  "bookAbbreviation": "2Sam",
+  "bookAbbreviation": "2 Sam",
+  "bookNumber": 10,
   "chapter": 4,
   "verses": [
     {
       "pk": 10004001,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 4,
       "verse": 1,
       "text": "When Saul’s son heard that Abner had died at Hebron, his courage failed, and all Israel was alarmed.",
       "links": "<a href='/AIV/10/3/27'>2Sam 3:27</a>; <a href='/AIV/9/31/6'>1Sam 31:6</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 10004002,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 4,
       "verse": 2,
       "text": "Saul’s son had two men who were leaders of raiding bands. One was named Baanah, and the other, Rechab, sons of Rimmon the Beerothite, from the tribe of Benjamin—for Beeroth is counted among Benjamin.",
       "links": "<a href='/AIV/6/18/25'>Josh 18:25</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 10004003,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 4,
       "verse": 3,
       "text": "The Beerothites had fled to Gittaim and have lived there as resident foreigners until this day.",
       "links": "<a href='/AIV/16/11/33'>Neh 11:33</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 10004004,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 4,
       "verse": 4,
       "text": "Jonathan, Saul's son, had a son who was lame in both feet. He was five years old when the news about Saul and Jonathan came from Jezreel, and his nurse picked him up and fled. In haste to get away, the boy fell and became lame. His name was Mephibosheth.",
       "links": "<a href='/AIV/10/9/3'>2Sam 9:3</a>; <a href='/AIV/9/31/2'>1Sam 31:2</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 10004005,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 4,
       "verse": 5,
       "text": "Now the sons of Rimmon the Beerothite, Rechab and Baanah, went during the heat of the day to the house of Ish-bosheth, as he was lying down for his midday rest.",
       "links": "<a href='/AIV/10/3/39'>2Sam 3:39</a>",
@@ -69,11 +46,6 @@
     },
     {
       "pk": 10004006,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 4,
       "verse": 6,
       "text": "They entered into the house, as though to get wheat, and stabbed him in the stomach. Then Rechab and Baanah, his brother, escaped.",
       "links": "<a href='/AIV/10/2/23'>2Sam 2:23</a>",
@@ -81,11 +53,6 @@
     },
     {
       "pk": 10004007,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 4,
       "verse": 7,
       "text": "After they entered the house, he lay on his bed in his bedroom. They struck him, killed him, and cut off his head. Taking his head, they traveled all night along the road to the Arabah.",
       "links": "<a href='/AIV/10/1/9'>2Sam 1:9</a>",
@@ -93,11 +60,6 @@
     },
     {
       "pk": 10004008,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 4,
       "verse": 8,
       "text": "They brought the head of Ish-bosheth to David at Hebron and said to the king, 'Here is the head of Ish-bosheth, Saul’s son, your enemy who sought your life. The LORD has avenged my lord the king this day against Saul and his offspring.'",
       "links": "<a href='/AIV/10/1/16'>2Sam 1:16</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 10004009,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 4,
       "verse": 9,
       "text": "But David answered Rechab and Baanah, his brother, sons of Rimmon the Beerothite, 'As the LORD lives, who has redeemed my life from every adversity,'",
       "links": "<a href='/AIV/19/34/4'>Ps. 34:4</a>; <a href='/AIV/10/22/2-3'>2Sam 22:2-3</a>",
@@ -118,11 +75,6 @@
     },
     {
       "pk": 10004010,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 4,
       "verse": 10,
       "text": "'When someone told me, “Saul is dead,” imagining he was bringing good news, I seized him and killed him in Ziklag, which was his reward for his message.'",
       "links": "<a href='/AIV/10/1/14-16'>2Sam 1:14-16</a>",
@@ -130,11 +82,6 @@
     },
     {
       "pk": 10004011,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 4,
       "verse": 11,
       "text": "'How much more, wicked men who have killed a righteous man in his own house on his bed! Shall I not now require his blood from your hand and destroy you from the earth?'",
       "links": "<a href='/AIV/1/9/6'>Gen 9:6</a>; <a href='/AIV/5/19/11'>Deut 19:11</a>",
@@ -142,38 +89,10 @@
     },
     {
       "pk": 10004012,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 4,
       "verse": 12,
       "text": "So David commanded his young men, and they killed Rechab and Baanah, cut off their hands and feet, and hung them by the pool in Hebron. But the head of Ish-bosheth they buried in the tomb of Abner at Hebron.",
       "links": "<a href='/AIV/10/3/32'>2Sam 3:32</a>; <a href='/AIV/9/31/9-10'>1Sam 31:9-10</a>",
       "comment": "David enforces public justice, restoring order among God’s people. He honors the dead appropriately, foreshadowing practices of reverence for the righteous that will become central to Christian tradition regarding saints and martyrs (cf. <a href='/AIV/19/116/15'>Ps. 116:15</a>)."
-    }
-  ],
-  "translatedAt": "2025-12-24T03:10:23.816Z",
-  "sections": [
-    {
-      "title": "Ish-bosheth's Fear After Abner's Death",
-      "startVerse": 1,
-      "endVerse": 3
-    },
-    {
-      "title": "Mephibosheth’s Lameness",
-      "startVerse": 4,
-      "endVerse": 4
-    },
-    {
-      "title": "The Murder of Ish-bosheth",
-      "startVerse": 5,
-      "endVerse": 8
-    },
-    {
-      "title": "David Executes Ish-bosheth’s Murderers",
-      "startVerse": 9,
-      "endVerse": 12
     }
   ]
 }

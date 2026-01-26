@@ -1,16 +1,13 @@
 {
-  "book": 57,
+  "translation": "AIV",
+  "bookId": "philippians",
   "bookName": "Philippians",
   "bookAbbreviation": "Phil",
+  "bookNumber": 57,
   "chapter": 4,
   "verses": [
     {
       "pk": 57004001,
-      "translation": "AIV",
-      "book": 57,
-      "bookName": "Philippians",
-      "bookAbbreviation": "Phil",
-      "chapter": 4,
       "verse": 1,
       "text": "Therefore, my brothers whom I love and long for, my joy and my crown, stand firm in the Lord in this way, beloved.",
       "links": "<a href='/AIV/52/3/8'>1 Thess. 3:8</a>; <a href='/AIV/53/2/15'>2 Thess. 2:15</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 57004002,
-      "translation": "AIV",
-      "book": 57,
-      "bookName": "Philippians",
-      "bookAbbreviation": "Phil",
-      "chapter": 4,
       "verse": 2,
       "text": "I urge Euodia and I urge Syntyche to agree in the Lord.",
       "links": "<a href='/AIV/45/12/16'>Rom. 12:16</a>; <a href='/AIV/49/4/3'>Eph. 4:3</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 57004003,
-      "translation": "AIV",
-      "book": 57,
-      "bookName": "Philippians",
-      "bookAbbreviation": "Phil",
-      "chapter": 4,
       "verse": 3,
       "text": "Yes, I ask you also, true companion, help these women, for they have labored with me in the gospel, together with Clement and the rest of my fellow workers, whose names are in the book of life.",
       "links": "<a href='/AIV/42/10/20'>Luke 10:20</a>; <a href='/AIV/66/3/5'>Rev. 3:5</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 57004004,
-      "translation": "AIV",
-      "book": 57,
-      "bookName": "Philippians",
-      "bookAbbreviation": "Phil",
-      "chapter": 4,
       "verse": 4,
       "text": "Rejoice in the Lord always; again I will say, rejoice!",
       "links": "<a href='/AIV/19/97/12'>Ps. 97:12</a>; <a href='/AIV/52/5/16'>1 Thess. 5:16</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 57004005,
-      "translation": "AIV",
-      "book": 57,
-      "bookName": "Philippians",
-      "bookAbbreviation": "Phil",
-      "chapter": 4,
       "verse": 5,
       "text": "Let your gentleness be known to all people. The Lord is near.",
       "links": "<a href='/AIV/59/5/8'>James 5:8</a>; <a href='/AIV/19/145/18'>Ps. 145:18</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 57004006,
-      "translation": "AIV",
-      "book": 57,
-      "bookName": "Philippians",
-      "bookAbbreviation": "Phil",
-      "chapter": 4,
       "verse": 6,
       "text": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, let your requests be made known to God.",
       "links": "<a href='/AIV/40/6/25'>Matt. 6:25</a>; <a href='/AIV/60/5/7'>1 Pet. 5:7</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 57004007,
-      "translation": "AIV",
-      "book": 57,
-      "bookName": "Philippians",
-      "bookAbbreviation": "Phil",
-      "chapter": 4,
       "verse": 7,
       "text": "And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus.",
       "links": "<a href='/AIV/23/26/3'>Isa. 26:3</a>; <a href='/AIV/51/3/15'>Col. 3:15</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 57004008,
-      "translation": "AIV",
-      "book": 57,
-      "bookName": "Philippians",
-      "bookAbbreviation": "Phil",
-      "chapter": 4,
       "verse": 8,
       "text": "Finally, brothers, whatever is true, whatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is commendable, if there is any virtue and if there is anything worthy of praise, think about these things.",
       "links": "<a href='/AIV/19/119/9'>Ps. 119:9</a>; <a href='/AIV/55/2/22'>2 Tim. 2:22</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 57004009,
-      "translation": "AIV",
-      "book": 57,
-      "bookName": "Philippians",
-      "bookAbbreviation": "Phil",
-      "chapter": 4,
       "verse": 9,
       "text": "Whatever you have learned and received and heard and seen in me—practice these things, and the God of peace will be with you.",
       "links": "<a href='/AIV/46/11/1'>1 Cor. 11:1</a>; <a href='/AIV/54/4/16'>1 Tim. 4:16</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 57004010,
-      "translation": "AIV",
-      "book": 57,
-      "bookName": "Philippians",
-      "bookAbbreviation": "Phil",
-      "chapter": 4,
       "verse": 10,
       "text": "I rejoiced greatly in the Lord that now at last your concern for me has revived; indeed, you were concerned but had no opportunity.",
       "links": "<a href='/AIV/47/8/1-2'>2 Cor. 8:1-2</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 57004011,
-      "translation": "AIV",
-      "book": 57,
-      "bookName": "Philippians",
-      "bookAbbreviation": "Phil",
-      "chapter": 4,
       "verse": 11,
       "text": "Not that I speak from need, for I have learned to be content in whatever situation I am.",
       "links": "<a href='/AIV/54/6/6'>1 Tim. 6:6</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 57004012,
-      "translation": "AIV",
-      "book": 57,
-      "bookName": "Philippians",
-      "bookAbbreviation": "Phil",
-      "chapter": 4,
       "verse": 12,
       "text": "I know both how to be brought low, and I know how to abound. In every circumstance I have learned the secret of facing plenty and hunger, abundance and need.",
       "links": "<a href='/AIV/47/6/10'>2 Cor. 6:10</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 57004013,
-      "translation": "AIV",
-      "book": 57,
-      "bookName": "Philippians",
-      "bookAbbreviation": "Phil",
-      "chapter": 4,
       "verse": 13,
       "text": "I can do all things through him who strengthens me.",
       "links": "<a href='/AIV/47/12/9'>2 Cor. 12:9</a>; <a href='/AIV/19/18/32'>Ps. 18:32</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 57004014,
-      "translation": "AIV",
-      "book": 57,
-      "bookName": "Philippians",
-      "bookAbbreviation": "Phil",
-      "chapter": 4,
       "verse": 14,
       "text": "Yet it was kind of you to share in my trouble.",
       "links": "<a href='/AIV/58/13/16'>Heb. 13:16</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 57004015,
-      "translation": "AIV",
-      "book": 57,
-      "bookName": "Philippians",
-      "bookAbbreviation": "Phil",
-      "chapter": 4,
       "verse": 15,
       "text": "And you Philippians yourselves know that in the beginning of the gospel, when I left Macedonia, no church entered into partnership with me in giving and receiving, except you only.",
       "links": "<a href='/AIV/44/16/12'>Acts 16:12</a>; <a href='/AIV/47/11/8-9'>2 Cor. 11:8-9</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 57004016,
-      "translation": "AIV",
-      "book": 57,
-      "bookName": "Philippians",
-      "bookAbbreviation": "Phil",
-      "chapter": 4,
       "verse": 16,
       "text": "For even in Thessalonica you sent me help for my needs once and again.",
       "links": "<a href='/AIV/52/2/2'>1 Thess. 2:2</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 57004017,
-      "translation": "AIV",
-      "book": 57,
-      "bookName": "Philippians",
-      "bookAbbreviation": "Phil",
-      "chapter": 4,
       "verse": 17,
       "text": "Not that I seek the gift, but I seek the fruit that increases to your account.",
       "links": "<a href='/AIV/40/6/20'>Matt. 6:20</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 57004018,
-      "translation": "AIV",
-      "book": 57,
-      "bookName": "Philippians",
-      "bookAbbreviation": "Phil",
-      "chapter": 4,
       "verse": 18,
       "text": "I have received full payment and more; I am amply supplied, having received from Epaphroditus the gifts you sent, a fragrant offering, an acceptable sacrifice, well pleasing to God.",
       "links": "<a href='/AIV/49/5/2'>Eph. 5:2</a>; <a href='/AIV/19/51/17'>Ps. 51:17</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 57004019,
-      "translation": "AIV",
-      "book": 57,
-      "bookName": "Philippians",
-      "bookAbbreviation": "Phil",
-      "chapter": 4,
       "verse": 19,
       "text": "And my God will supply every need of yours according to his riches in glory in Christ Jesus.",
       "links": "<a href='/AIV/19/23/1'>Ps. 23:1</a>; <a href='/AIV/49/1/18'>Eph. 1:18</a>",
@@ -237,11 +144,6 @@
     },
     {
       "pk": 57004020,
-      "translation": "AIV",
-      "book": 57,
-      "bookName": "Philippians",
-      "bookAbbreviation": "Phil",
-      "chapter": 4,
       "verse": 20,
       "text": "To our God and Father be glory forever and ever. Amen.",
       "links": "<a href='/AIV/45/11/36'>Rom. 11:36</a>; <a href='/AIV/55/4/18'>2 Tim. 4:18</a>",
@@ -249,11 +151,6 @@
     },
     {
       "pk": 57004021,
-      "translation": "AIV",
-      "book": 57,
-      "bookName": "Philippians",
-      "bookAbbreviation": "Phil",
-      "chapter": 4,
       "verse": 21,
       "text": "Greet every saint in Christ Jesus. The brothers who are with me greet you.",
       "links": "<a href='/AIV/45/16/16'>Rom. 16:16</a>; <a href='/AIV/58/13/24'>Heb. 13:24</a>",
@@ -262,11 +159,6 @@
     },
     {
       "pk": 57004022,
-      "translation": "AIV",
-      "book": 57,
-      "bookName": "Philippians",
-      "bookAbbreviation": "Phil",
-      "chapter": 4,
       "verse": 22,
       "text": "All the saints greet you, especially those of Caesar's household.",
       "links": "<a href='/AIV/45/16/11'>Rom. 16:11</a>",
@@ -274,38 +166,10 @@
     },
     {
       "pk": 57004023,
-      "translation": "AIV",
-      "book": 57,
-      "bookName": "Philippians",
-      "bookAbbreviation": "Phil",
-      "chapter": 4,
       "verse": 23,
       "text": "The grace of the Lord Jesus Christ be with your spirit.",
       "links": "<a href='/AIV/54/6/21'>1 Tim. 6:21</a>; <a href='/AIV/55/4/22'>2 Tim. 4:22</a>",
       "comment": "Paul ends invoking Christ’s grace, a blessing that initiates and sustains the Christian life. The phrase also reflects the importance of spiritual life and unity among those joined in Christ through faith and sacrament."
-    }
-  ],
-  "translatedAt": "2025-12-24T12:05:55.071Z",
-  "sections": [
-    {
-      "title": "Exhortations to Unity and Joy",
-      "startVerse": 1,
-      "endVerse": 3
-    },
-    {
-      "title": "Peace Through Prayer and Right Thinking",
-      "startVerse": 4,
-      "endVerse": 9
-    },
-    {
-      "title": "Gratitude for the Philippians’ Generosity",
-      "startVerse": 10,
-      "endVerse": 20
-    },
-    {
-      "title": "Final Greetings and Blessing",
-      "startVerse": 21,
-      "endVerse": 23
     }
   ]
 }

@@ -1,16 +1,13 @@
 {
-  "book": 30,
+  "translation": "AIV",
+  "bookId": "jeremiah",
   "bookName": "Jeremiah",
   "bookAbbreviation": "Jer",
+  "bookNumber": 30,
   "chapter": 12,
   "verses": [
     {
       "pk": 30012001,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 12,
       "verse": 1,
       "text": "You are righteous, O LORD, when I bring my case before you; yet I would speak with you about your judgments. Why does the way of the wicked prosper? Why do all who deal treacherously thrive?",
       "links": "<a href='/AIV/18/21/7'>Job 21:7</a>; <a href='/AIV/19/73/3'>Ps. 73:3</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 30012002,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 12,
       "verse": 2,
       "text": "You have planted them, they have taken root, they grow, they produce fruit. Yet you are near in their mouths but far from their hearts.",
       "links": "<a href='/AIV/23/29/13'>Isa. 29:13</a>; <a href='/AIV/40/15/8'>Matt. 15:8</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 30012003,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 12,
       "verse": 3,
       "text": "But you, LORD, know me; you see me, and test my heart toward you. Pull them out like sheep for slaughter, and set them apart for the day of killing.",
       "links": "<a href='/AIV/19/17/3'>Ps. 17:3</a>; <a href='/AIV/24/11/20'>Jer. 11:20</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 30012004,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 12,
       "verse": 4,
       "text": "How long will the land mourn and the grass of every field wither? Because of the evil of those who dwell in it, the beasts and the birds are consumed, for they say, 'He will not see our end.'",
       "links": "<a href='/AIV/19/107/34'>Ps. 107:34</a>; <a href='/AIV/24/4/25'>Jer. 4:25</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 30012005,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 12,
       "verse": 5,
       "text": "If you have run with those who are on foot and they have wearied you, how will you compete with horses? And if in safe land you fall, how will you do among the thickets by the Jordan?",
       "links": "<a href='/AIV/24/25/29'>Jer. 25:29</a>; <a href='/AIV/18/4/19'>Job 4:19</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 30012006,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 12,
       "verse": 6,
       "text": "For even your brothers and your father's house, even they have dealt treacherously with you; they cry aloud after you. Do not trust them, though they speak friendly words to you.",
       "links": "<a href='/AIV/19/41/9'>Ps. 41:9</a>; <a href='/AIV/24/9/4'>Jer. 9:4'>Jer. 9:4</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 30012007,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 12,
       "verse": 7,
       "text": "I have forsaken my house, I have abandoned my heritage; I have given the beloved of my soul into the hands of her enemies.",
       "links": "<a href='/AIV/24/7/29'>Jer. 7:29</a>; <a href='/AIV/28/9/15'>Hos. 9:15</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 30012008,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 12,
       "verse": 8,
       "text": "My heritage has become to me like a lion in the forest; she has raised her voice against me, so I hate her.",
       "links": "<a href='/AIV/19/22/13'>Ps. 22:13</a>; <a href='/AIV/24/2/30'>Jer. 2:30</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 30012009,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 12,
       "verse": 9,
       "text": "Is my heritage to me like a speckled bird of prey, that other birds surround and attack? Go, gather all the beasts of the field; bring them to devour.",
       "links": "<a href='/AIV/19/79/2'>Ps. 79:2</a>; <a href='/AIV/24/7/33'>Jer. 7:33</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 30012010,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 12,
       "verse": 10,
       "text": "Many shepherds have destroyed my vineyard; they have trampled my portion underfoot, they have made my pleasant portion a desolate wilderness.",
       "links": "<a href='/AIV/23/5/1-7'>Isa. 5:1-7</a>; <a href='/AIV/24/23/1-2'>Jer. 23:1-2</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 30012011,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 12,
       "verse": 11,
       "text": "They have made it a ruin; it mourns to me, desolate; the whole land is laid waste, because no one takes it to heart.",
       "links": "<a href='/AIV/19/142/4'>Ps. 142:4</a>; <a href='/AIV/24/5/21'>Jer. 5:21</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 30012012,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 12,
       "verse": 12,
       "text": "Upon all the bare heights in the wilderness, destroyers have come. For the sword of the LORD devours from one end of the land to the other; no flesh has peace.",
       "links": "<a href='/AIV/23/1/20'>Isa. 1:20</a>; <a href='/AIV/24/6/25'>Jer. 6:25</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 30012013,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 12,
       "verse": 13,
       "text": "They have sown wheat and have reaped thorns; they have exhausted themselves but profit nothing. They will be ashamed of their harvest because of the burning anger of the LORD.",
       "links": "<a href='/AIV/28/8/7'>Hos. 8:7</a>; <a href='/AIV/19/126/5-6'>Ps. 126:5-6</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 30012014,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 12,
       "verse": 14,
       "text": "This is what the LORD says concerning all my evil neighbors who touch the heritage I gave to my people Israel: 'I will uproot them from their land, and I will uproot the house of Judah from among them.'",
       "links": "<a href='/AIV/24/25/9'>Jer. 25:9</a>; <a href='/AIV/24/46/27-28'>Jer. 46:27-28</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 30012015,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 12,
       "verse": 15,
       "text": "And after I have uprooted them, I will again have compassion on them, and I will bring them back, each one to his inheritance and each one to his land.",
       "links": "<a href='/AIV/24/3/18'>Jer. 3:18</a>; <a href='/AIV/45/11/23'>Rom. 11:23</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 30012016,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 12,
       "verse": 16,
       "text": "And if they diligently learn the ways of my people, to swear by my name, 'As the LORD lives,' just as they taught my people to swear by Baal, then they shall be built up in the midst of my people.",
       "links": "<a href='/AIV/19/22/27'>Ps. 22:27</a>; <a href='/AIV/23/19/25'>Isa. 19:25</a>",
@@ -201,33 +123,10 @@
     },
     {
       "pk": 30012017,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 12,
       "verse": 17,
       "text": "But if any nation will not listen, then I will utterly uproot and destroy that nation, declares the LORD.",
       "links": "<a href='/AIV/24/18/7-10'>Jer. 18:7-10</a>; <a href='/AIV/19/2/9'>Ps. 2:9</a>",
       "comment": "Final warning: judgment awaits those who reject the Lord’s rule, a truth repeated throughout both testaments (Acts 17:30-31). Theological tradition underscores that God’s justice is always tempered with a call to repentance and communion."
-    }
-  ],
-  "translatedAt": "2025-12-24T08:27:48.092Z",
-  "sections": [
-    {
-      "title": "Jeremiah's Complaint About the Prosperity of the Wicked",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "God’s Answer and Judgment on His Heritage",
-      "startVerse": 7,
-      "endVerse": 13
-    },
-    {
-      "title": "The Lord’s Mercy and Judgment on the Nations",
-      "startVerse": 14,
-      "endVerse": 17
     }
   ]
 }

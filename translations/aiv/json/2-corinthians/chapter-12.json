@@ -1,16 +1,13 @@
 {
-  "book": 54,
+  "translation": "AIV",
+  "bookId": "2-corinthians",
   "bookName": "2 Corinthians",
-  "bookAbbreviation": "2Cor",
+  "bookAbbreviation": "2 Cor",
+  "bookNumber": 54,
   "chapter": 12,
   "verses": [
     {
       "pk": 54012001,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 12,
       "verse": 1,
       "text": "It is necessary to boast, though nothing is gained by it; I will go on to visions and revelations from the Lord.",
       "links": "<a href='/AIV/47/11/30'>2Cor. 11:30</a>; <a href='/AIV/44/9/10-12'>Acts 9:10-12</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 54012002,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 12,
       "verse": 2,
       "text": "I know a man in Christ who, fourteen years ago—whether in the body I do not know, or out of the body I do not know, God knows—was caught up to the third heaven.",
       "links": "<a href='/AIV/46/15/8'>1Cor. 15:8</a>; <a href='/AIV/26/8/1-3'>Ezek. 8:1-3</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 54012003,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 12,
       "verse": 3,
       "text": "And I know that this man—whether in the body or out of the body I do not know, God knows—",
       "links": "<a href='/AIV/54/12/2'>2Cor. 12:2</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 54012004,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 12,
       "verse": 4,
       "text": "was caught up into paradise and heard things that cannot be told, things which a human being is not permitted to speak.",
       "links": "<a href='/AIV/42/23/43'>Luke 23:43</a>; <a href='/AIV/66/2/7'>Rev. 2:7</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 54012005,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 12,
       "verse": 5,
       "text": "On behalf of this person I will boast, but about myself I will not boast, except of my weaknesses.",
       "links": "<a href='/AIV/47/11/30'>2Cor. 11:30</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 54012006,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 12,
       "verse": 6,
       "text": "Though if I should wish to boast, I would not be foolish, for I would be speaking the truth. But I refrain, so that no one may think more of me than what they see in me or hear from me.",
       "links": "<a href='/AIV/47/10/8'>2Cor. 10:8</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 54012007,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 12,
       "verse": 7,
       "text": "And so, to keep me from becoming conceited because of the surpassing greatness of the revelations, a thorn was given me in the flesh, a messenger of Satan to torment me, to keep me from being proud.",
       "links": "<a href='/AIV/47/1/8-9'>2Cor. 1:8-9</a>; <a href='/AIV/18/2/6'>Job 2:6</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 54012008,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 12,
       "verse": 8,
       "text": "Three times I pleaded with the Lord about this, that it should leave me.",
       "links": "<a href='/AIV/40/26/44'>Matt. 26:44</a>; <a href='/AIV/42/22/41-44'>Luke 22:41-44</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 54012009,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 12,
       "verse": 9,
       "text": "But he said to me, 'My grace is sufficient for you, for power is made perfect in weakness.' Therefore I will boast all the more gladly of my weaknesses, so that the power of Christ may rest upon me.",
       "links": "<a href='/AIV/47/3/5'>2Cor. 3:5</a>; <a href='/AIV/40/11/28'>Matt. 11:28</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 54012010,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 12,
       "verse": 10,
       "text": "So for Christ’s sake, I delight in weaknesses, in insults, in hardships, in persecutions, in difficulties. For when I am weak, then I am strong.",
       "links": "<a href='/AIV/47/4/7-12'>2Cor. 4:7-12</a>; <a href='/AIV/40/5/11-12'>Matt. 5:11-12</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 54012011,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 12,
       "verse": 11,
       "text": "I have become a fool—you forced me to it. I ought to have been commended by you, for in nothing was I inferior to those 'super-apostles,' even though I am nothing.",
       "links": "<a href='/AIV/47/11/5'>2Cor. 11:5</a>; <a href='/AIV/47/10/12'>2Cor. 10:12</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 54012012,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 12,
       "verse": 12,
       "text": "The signs of a true apostle were performed among you with utmost patience—by signs and wonders and mighty works.",
       "links": "<a href='/AIV/44/2/43'>Acts 2:43</a>; <a href='/AIV/40/10/1'>Matt. 10:1</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 54012013,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 12,
       "verse": 13,
       "text": "For in what were you made less than other churches, except that I myself was not a burden to you? Forgive me this injustice!",
       "links": "<a href='/AIV/47/11/7-9'>2Cor. 11:7-9</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 54012014,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 12,
       "verse": 14,
       "text": "Look, for the third time I am ready to come to you, and I will not be a burden, for I seek not your possessions but you. Children should not be obligated to save up for their parents, but parents for their children.",
       "links": "<a href='/AIV/47/13/1'>2Cor. 13:1</a>; <a href='/AIV/46/4/14-15'>1Cor. 4:14-15</a>",
@@ -178,11 +110,6 @@
     },
     {
       "pk": 54012015,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 12,
       "verse": 15,
       "text": "I will most gladly spend and be spent for your souls. If I love you more, am I to be loved less?",
       "links": "<a href='/AIV/47/1/6'>2Cor. 1:6</a>; <a href='/AIV/47/4/12'>2Cor. 4:12</a>",
@@ -190,11 +117,6 @@
     },
     {
       "pk": 54012016,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 12,
       "verse": 16,
       "text": "But suppose I did not burden you; instead, being crafty, I caught you by trickery.",
       "links": "<a href='/AIV/47/11/9'>2Cor. 11:9</a>",
@@ -202,11 +124,6 @@
     },
     {
       "pk": 54012017,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 12,
       "verse": 17,
       "text": "Did I take advantage of you through any of those I sent to you?",
       "links": "<a href='/AIV/47/8/18-22'>2Cor. 8:18-22</a>",
@@ -214,11 +131,6 @@
     },
     {
       "pk": 54012018,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 12,
       "verse": 18,
       "text": "I urged Titus to go, and I sent our brother with him. Did Titus take advantage of you? Did we not walk in the same spirit and follow the same footsteps?",
       "links": "<a href='/AIV/47/8/16-17'>2Cor. 8:16-17</a>; <a href='/AIV/46/4/17'>1Cor. 4:17</a>",
@@ -226,11 +138,6 @@
     },
     {
       "pk": 54012019,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 12,
       "verse": 19,
       "text": "Have you been thinking all along that we are defending ourselves to you? In the sight of God in Christ, we speak; and all for your building up, beloved.",
       "links": "<a href='/AIV/47/5/11'>2Cor. 5:11</a>; <a href='/AIV/46/8/1'>1Cor. 8:1</a>",
@@ -238,11 +145,6 @@
     },
     {
       "pk": 54012020,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 12,
       "verse": 20,
       "text": "For I fear that perhaps when I come I may not find you as I wish, and that you may find me not as you wish—that there may be quarreling, jealousy, anger, selfishness, slander, gossip, arrogance, and disorder.",
       "links": "<a href='/AIV/48/5/19-21'>Gal. 5:19-21</a>; <a href='/AIV/46/1/10-11'>1Cor. 1:10-11</a>",
@@ -251,43 +153,10 @@
     },
     {
       "pk": 54012021,
-      "translation": "AIV",
-      "book": 54,
-      "bookName": "2 Corinthians",
-      "bookAbbreviation": "2Cor",
-      "chapter": 12,
       "verse": 21,
       "text": "I am afraid that, when I come again, my God may humble me before you, and I may have to mourn for many who have sinned before and have not repented of the impurity, sexual sin, and debauchery they have practiced.",
       "links": "<a href='/AIV/47/13/2'>2Cor. 13:2</a>; <a href='/AIV/46/5/1-2'>1Cor. 5:1-2</a>",
       "comment": "Paul makes clear the expectation of repentance and restoration, reflecting an enduring belief in the importance of confession and communal reconciliation, which is a foundational aspect of New Testament life."
-    }
-  ],
-  "translatedAt": "2025-12-24T11:57:31.057Z",
-  "sections": [
-    {
-      "title": "Paul’s Visions and Revelations",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "Paul’s Thorn in the Flesh",
-      "startVerse": 7,
-      "endVerse": 10
-    },
-    {
-      "title": "Signs of an Apostle",
-      "startVerse": 11,
-      "endVerse": 13
-    },
-    {
-      "title": "Paul’s Love for the Corinthians",
-      "startVerse": 14,
-      "endVerse": 19
-    },
-    {
-      "title": "Paul’s Concern for the Corinthians’ Repentance",
-      "startVerse": 20,
-      "endVerse": 21
     }
   ]
 }

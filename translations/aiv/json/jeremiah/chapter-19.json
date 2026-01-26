@@ -1,16 +1,13 @@
 {
-  "book": 30,
+  "translation": "AIV",
+  "bookId": "jeremiah",
   "bookName": "Jeremiah",
   "bookAbbreviation": "Jer",
+  "bookNumber": 30,
   "chapter": 19,
   "verses": [
     {
       "pk": 30019001,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 19,
       "verse": 1,
       "text": "Thus says the LORD: Go and buy a potter’s earthenware flask. Take some of the elders of the people and some of the elders of the priests,",
       "links": "<a href='/AIV/24/18/2'>Jer. 18:2</a>; <a href='/AIV/03/04/15'>Lev. 4:15</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 30019002,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 19,
       "verse": 2,
       "text": "and go out to the Valley of Ben Hinnom, near the entrance of the Potsherd Gate. There proclaim the words that I will speak to you.",
       "links": "<a href='/AIV/06/15/8'>Josh. 15:8</a>; <a href='/AIV/24/07/31'>Jer. 7:31</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 30019003,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 19,
       "verse": 3,
       "text": "Say, 'Hear the word of the LORD, kings of Judah and inhabitants of Jerusalem! Thus says the LORD of Hosts, the God of Israel: I am about to bring such disaster upon this place that whoever hears of it, his ears will tingle.'",
       "links": "<a href='/AIV/09/03/11'>1 Sam. 3:11</a>; <a href='/AIV/12/21/12'>2 Kings 21:12</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 30019004,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 19,
       "verse": 4,
       "text": "Because they have forsaken me and made this place foreign, and have burned offerings in it to other gods whom neither they, nor their fathers, nor the kings of Judah have known, and have filled this place with the blood of innocents,",
       "links": "<a href='/AIV/24/07/30-32'>Jer. 7:30-32</a>; <a href='/AIV/02/23/7'>Ex. 23:7</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 30019005,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 19,
       "verse": 5,
       "text": "and have built high places for Baal to burn their sons in the fire as offerings to Baal, which I never commanded or spoke, nor did it enter my mind.",
       "links": "<a href='/AIV/24/07/31'>Jer. 7:31</a>; <a href='/AIV/24/32/35'>Jer. 32:35</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 30019006,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 19,
       "verse": 6,
       "text": "Therefore, behold, the days are coming, declares the LORD, when this place shall no longer be called Topheth or the Valley of Ben Hinnom, but the Valley of Slaughter.",
       "links": "<a href='/AIV/24/07/32'>Jer. 7:32</a>; <a href='/AIV/24/19/11'>Jer. 19:11</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 30019007,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 19,
       "verse": 7,
       "text": "And in this place I will make void the plans of Judah and Jerusalem, and will cause them to fall by the sword before their enemies and by the hand of those who seek their lives. I will give their corpses as food to the birds of the heavens and to the beasts of the earth.",
       "links": "<a href='/AIV/05/28/26'>Deut. 28:26</a>; <a href='/AIV/24/16/4'>Jer. 16:4</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 30019008,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 19,
       "verse": 8,
       "text": "I will make this city a horror, a thing to be hissed at. Everyone who passes by it will be appalled and hiss because of all its wounds.",
       "links": "<a href='/AIV/24/18/16'>Jer. 18:16</a>; <a href='/AIV/25/2/15-16'>Lam. 2:15-16</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 30019009,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 19,
       "verse": 9,
       "text": "I will make them eat the flesh of their sons and daughters, and each shall eat the flesh of his companion during the siege and distress with which their enemies and those who seek their lives afflict them.",
       "links": "<a href='/AIV/03/26/29'>Lev. 26:29</a>; <a href='/AIV/25/4/10'>Lam. 4:10</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 30019010,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 19,
       "verse": 10,
       "text": "Then you shall break the flask in the sight of the men who go with you,",
       "links": "<a href='/AIV/24/51/34'>Jer. 51:34</a>; <a href='/AIV/24/18/4'>Jer. 18:4</a>",
@@ -127,11 +79,6 @@
     },
     {
       "pk": 30019011,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 19,
       "verse": 11,
       "text": "and say to them, 'Thus says the LORD of Hosts: So will I break this people and this city, as one breaks a potter’s vessel so that it can never be made whole again. In Topheth they shall bury until there is no place left to bury.'",
       "links": "<a href='/AIV/19/02/09'>Ps. 2:9</a>; <a href='/AIV/24/07/32'>Jer. 7:32</a>",
@@ -139,11 +86,6 @@
     },
     {
       "pk": 30019012,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 19,
       "verse": 12,
       "text": "Thus I will do to this place, declares the LORD, and to its inhabitants, making this city like Topheth.",
       "links": "<a href='/AIV/24/07/32'>Jer. 7:32</a>",
@@ -151,11 +93,6 @@
     },
     {
       "pk": 30019013,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 19,
       "verse": 13,
       "text": "'The houses of Jerusalem and the houses of the kings of Judah—all the houses upon whose roofs they have burned incense to all the host of heaven and poured out drink offerings to other gods—shall become defiled like the place of Topheth.'",
       "links": "<a href='/AIV/12/23/12'>2 Kings 23:12</a>; <a href='/AIV/24/32/29'>Jer. 32:29</a>",
@@ -163,11 +100,6 @@
     },
     {
       "pk": 30019014,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 19,
       "verse": 14,
       "text": "Then Jeremiah came from Topheth, where the LORD had sent him to prophesy, and stood in the court of the LORD's house and said to all the people:",
       "links": "<a href='/AIV/24/07/02'>Jer. 7:2</a>; <a href='/AIV/24/26/2'>Jer. 26:2</a>",
@@ -176,28 +108,10 @@
     },
     {
       "pk": 30019015,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 19,
       "verse": 15,
       "text": "'Thus says the LORD of Hosts, the God of Israel: Behold, I am bringing upon this city and all its towns all the disaster that I have pronounced against it, because they have stiffened their necks, refusing to hear my words.'",
       "links": "<a href='/AIV/24/17/23'>Jer. 17:23</a>; <a href='/AIV/02/32/9'>Ex. 32:9</a>",
       "comment": "The persistent refusal to heed God’s revealed word leads to judgment. The motif of ‘stiff-necked’ people is a reminder of the need for humility, obedience, and openness to truth as received via apostolic authority and tradition."
-    }
-  ],
-  "translatedAt": "2025-12-24T08:31:51.499Z",
-  "sections": [
-    {
-      "title": "The Symbol of the Broken Flask",
-      "startVerse": 1,
-      "endVerse": 13
-    },
-    {
-      "title": "Jeremiah’s Warning in the Temple",
-      "startVerse": 14,
-      "endVerse": 15
     }
   ]
 }

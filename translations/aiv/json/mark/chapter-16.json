@@ -1,16 +1,13 @@
 {
-  "book": 48,
+  "translation": "AIV",
+  "bookId": "mark",
   "bookName": "Mark",
   "bookAbbreviation": "Mark",
+  "bookNumber": 48,
   "chapter": 16,
   "verses": [
     {
       "pk": 48016001,
-      "translation": "AIV",
-      "book": 48,
-      "bookName": "Mark",
-      "bookAbbreviation": "Mark",
-      "chapter": 16,
       "verse": 1,
       "text": "When the Sabbath was over, Mary Magdalene, Mary the mother of James, and Salome bought spices, so they could go and anoint Him.",
       "links": "<a href='/AIV/42/24/1'>Luke 24:1</a>; <a href='/AIV/40/28/1'>Matt. 28:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 48016002,
-      "translation": "AIV",
-      "book": 48,
-      "bookName": "Mark",
-      "bookAbbreviation": "Mark",
-      "chapter": 16,
       "verse": 2,
       "text": "Very early on the first day of the week, just after sunrise, they went to the tomb.",
       "links": "<a href='/AIV/43/20/1'>John 20:1</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 48016003,
-      "translation": "AIV",
-      "book": 48,
-      "bookName": "Mark",
-      "bookAbbreviation": "Mark",
-      "chapter": 16,
       "verse": 3,
       "text": "They were saying to one another, 'Who will roll away the stone from the entrance of the tomb for us?'",
       "links": "<a href='/AIV/40/27/60'>Matt. 27:60</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 48016004,
-      "translation": "AIV",
-      "book": 48,
-      "bookName": "Mark",
-      "bookAbbreviation": "Mark",
-      "chapter": 16,
       "verse": 4,
       "text": "But when they looked up, they saw that the stone, which was very large, had been rolled away.",
       "links": "<a href='/AIV/42/24/2'>Luke 24:2</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 48016005,
-      "translation": "AIV",
-      "book": 48,
-      "bookName": "Mark",
-      "bookAbbreviation": "Mark",
-      "chapter": 16,
       "verse": 5,
       "text": "And as they entered the tomb, they saw a young man dressed in a white robe sitting on the right side, and they were startled.",
       "links": "<a href='/AIV/40/28/3'>Matt. 28:3</a>; <a href='/AIV/42/24/4'>Luke 24:4</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 48016006,
-      "translation": "AIV",
-      "book": 48,
-      "bookName": "Mark",
-      "bookAbbreviation": "Mark",
-      "chapter": 16,
       "verse": 6,
       "text": "He said to them, 'Do not be afraid. You seek Jesus of Nazareth, who was crucified. He has risen! He is not here. See the place where they laid him.'",
       "links": "<a href='/AIV/41/8/31'>Mark 8:31</a>; <a href='/AIV/40/28/5-6'>Matt. 28:5-6</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 48016007,
-      "translation": "AIV",
-      "book": 48,
-      "bookName": "Mark",
-      "bookAbbreviation": "Mark",
-      "chapter": 16,
       "verse": 7,
       "text": "But go, tell His disciples and Peter, 'He is going ahead of you to Galilee. There you will see Him, just as He told you.'",
       "links": "<a href='/AIV/41/14/28'>Mark 14:28</a>; <a href='/AIV/42/24/9-10'>Luke 24:9-10</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 48016008,
-      "translation": "AIV",
-      "book": 48,
-      "bookName": "Mark",
-      "bookAbbreviation": "Mark",
-      "chapter": 16,
       "verse": 8,
       "text": "So they went out and fled from the tomb, for terror and amazement had seized them; and they said nothing to anyone, for they were afraid. THE SHORTER ENDING OF MARK [[And all that had been commanded them they told briefly to those around Peter. And afterward Jesus himself sent out through them, from east to west, the sacred and imperishable proclamation of eternal salvation. ]]",
       "links": "<a href='/AIV/42/24/5'>Luke 24:5</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 48016009,
-      "translation": "AIV",
-      "book": 48,
-      "bookName": "Mark",
-      "bookAbbreviation": "Mark",
-      "chapter": 16,
       "verse": 9,
       "text": "Now after He rose early on the first day of the week, He appeared first to Mary Magdalene, from whom He had cast out seven demons.",
       "links": "<a href='/AIV/42/8/2'>Luke 8:2</a>; <a href='/AIV/43/20/14-16'>John 20:14-16</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 48016010,
-      "translation": "AIV",
-      "book": 48,
-      "bookName": "Mark",
-      "bookAbbreviation": "Mark",
-      "chapter": 16,
       "verse": 10,
       "text": "She went and told those who had been with Him, as they mourned and wept.",
       "links": "<a href='/AIV/43/20/18'>John 20:18</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 48016011,
-      "translation": "AIV",
-      "book": 48,
-      "bookName": "Mark",
-      "bookAbbreviation": "Mark",
-      "chapter": 16,
       "verse": 11,
       "text": "When they heard that He was alive and had been seen by her, they did not believe it.",
       "links": "<a href='/AIV/42/24/11'>Luke 24:11</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 48016012,
-      "translation": "AIV",
-      "book": 48,
-      "bookName": "Mark",
-      "bookAbbreviation": "Mark",
-      "chapter": 16,
       "verse": 12,
       "text": "After this, He appeared in a different form to two of them, as they were walking into the country.",
       "links": "<a href='/AIV/42/24/13-16'>Luke 24:13-16</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 48016013,
-      "translation": "AIV",
-      "book": 48,
-      "bookName": "Mark",
-      "bookAbbreviation": "Mark",
-      "chapter": 16,
       "verse": 13,
       "text": "They went back and told the rest, but they did not believe them either.",
       "links": "<a href='/AIV/42/24/35'>Luke 24:35</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 48016014,
-      "translation": "AIV",
-      "book": 48,
-      "bookName": "Mark",
-      "bookAbbreviation": "Mark",
-      "chapter": 16,
       "verse": 14,
       "text": "Later, He appeared to the Eleven as they were reclining at table; and He rebuked them for their lack of faith and stubbornness, because they had not believed those who had seen Him after He had risen.",
       "links": "<a href='/AIV/42/24/36-38'>Luke 24:36-38</a>; <a href='/AIV/43/20/19-29'>John 20:19-29</a>",
@@ -178,23 +110,13 @@
     },
     {
       "pk": 48016015,
-      "translation": "AIV",
-      "book": 48,
-      "bookName": "Mark",
-      "bookAbbreviation": "Mark",
-      "chapter": 16,
       "verse": 15,
-      "text": "And He said to them, 'Go into all the world and preach the gospel to all creation.'",
+      "text": "And He said to them, \"Go into all the world and preach the gospel to all creation.",
       "links": "<a href='/AIV/40/28/19-20'>Matt. 28:19-20</a>",
       "comment": "The Great Commission tasks the apostles with universal mission, emphasizing the one Church’s calling to evangelize every nation. The authority given here becomes a foundation for the apostolic mission."
     },
     {
       "pk": 48016016,
-      "translation": "AIV",
-      "book": 48,
-      "bookName": "Mark",
-      "bookAbbreviation": "Mark",
-      "chapter": 16,
       "verse": 16,
       "text": "Whoever believes and is baptized will be saved, but whoever does not believe will be condemned.",
       "links": "<a href='/AIV/43/3/5'>John 3:5</a>; <a href='/AIV/44/2/38'>Acts 2:38</a>",
@@ -202,11 +124,6 @@
     },
     {
       "pk": 48016017,
-      "translation": "AIV",
-      "book": 48,
-      "bookName": "Mark",
-      "bookAbbreviation": "Mark",
-      "chapter": 16,
       "verse": 17,
       "text": "And these signs will follow those who believe: In My name they will cast out demons; they will speak in new tongues;",
       "links": "<a href='/AIV/44/2/4'>Acts 2:4</a>; <a href='/AIV/44/16/18'>Acts 16:18</a>",
@@ -214,23 +131,13 @@
     },
     {
       "pk": 48016018,
-      "translation": "AIV",
-      "book": 48,
-      "bookName": "Mark",
-      "bookAbbreviation": "Mark",
-      "chapter": 16,
       "verse": 18,
-      "text": "they will pick up serpents with their hands; and if they drink any deadly thing, it will not harm them; they will lay their hands on the sick, and they will recover.",
+      "text": "they will pick up serpents with their hands; and if they drink any deadly thing, it will not harm them; they will lay their hands on the sick, and they will recover.\"",
       "links": "<a href='/AIV/44/28/5'>Acts 28:5</a>; <a href='/AIV/59/5/14'>James 5:14</a>",
       "comment": "These signs testify to continued divine protection and healing through the ministry of the apostles and their successors. Laying on of hands connects to spiritual authority and healing practices."
     },
     {
       "pk": 48016019,
-      "translation": "AIV",
-      "book": 48,
-      "bookName": "Mark",
-      "bookAbbreviation": "Mark",
-      "chapter": 16,
       "verse": 19,
       "text": "So then the Lord Jesus, after He had spoken to them, was taken up into heaven and sat down at the right hand of God.",
       "links": "<a href='/AIV/42/24/51'>Luke 24:51</a>; <a href='/AIV/19/110/1'>Ps. 110:1</a>; <a href='/AIV/58/1/3'>Heb. 1:3</a>",
@@ -239,43 +146,10 @@
     },
     {
       "pk": 48016020,
-      "translation": "AIV",
-      "book": 48,
-      "bookName": "Mark",
-      "bookAbbreviation": "Mark",
-      "chapter": 16,
       "verse": 20,
       "text": "They went out and preached everywhere, while the Lord worked with them and confirmed the message by the signs that accompanied them.",
       "links": "<a href='/AIV/44/5/12'>Acts 5:12</a>; <a href='/AIV/58/2/4'>Heb. 2:4</a>",
       "comment": "The close cooperation between the Lord and His messengers points to God continuously affirming the truth of the apostolic preaching through miracles, laying the foundation of the one, holy, apostolic faith."
-    }
-  ],
-  "translatedAt": "2025-12-28T23:44:06.142Z",
-  "sections": [
-    {
-      "title": "The Resurrection of Jesus",
-      "startVerse": 1,
-      "endVerse": 8
-    },
-    {
-      "title": "Jesus Appears to Mary Magdalene",
-      "startVerse": 9,
-      "endVerse": 11
-    },
-    {
-      "title": "Jesus Appears to Two Disciples",
-      "startVerse": 12,
-      "endVerse": 13
-    },
-    {
-      "title": "The Commissioning of the Eleven",
-      "startVerse": 14,
-      "endVerse": 18
-    },
-    {
-      "title": "The Ascension of Jesus",
-      "startVerse": 19,
-      "endVerse": 20
     }
   ]
 }

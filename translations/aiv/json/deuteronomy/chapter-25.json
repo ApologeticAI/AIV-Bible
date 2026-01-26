@@ -1,16 +1,13 @@
 {
-  "book": 5,
+  "translation": "AIV",
+  "bookId": "deuteronomy",
   "bookName": "Deuteronomy",
   "bookAbbreviation": "Deut",
+  "bookNumber": 5,
   "chapter": 25,
   "verses": [
     {
       "pk": 5025001,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 25,
       "verse": 1,
       "text": "If there is a dispute between men, and they come before the judges, and they judge them, and declare the righteous innocent and pronounce the wicked guilty,",
       "links": "<a href='/AIV/2/23/7'>Ex. 23:7</a>; <a href='/AIV/5/16/18'>Deut. 16:18</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 5025002,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 25,
       "verse": 2,
       "text": "then if the guilty man deserves to be beaten, the judge shall cause him to lie down and be beaten in his presence, with a number of stripes according to his guilt.",
       "links": "<a href='/AIV/2/21/20'>Ex. 21:20</a>; <a href='/AIV/20/19/29'>Prov. 19:29</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 5025003,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 25,
       "verse": 3,
       "text": "He may be given forty lashes, but not more, so that if he is beaten with more stripes than these, your brother is not degraded in your sight.",
       "links": "<a href='/AIV/47/11/24'>2 Cor. 11:24</a>; <a href='/AIV/5/17/8'>Deut. 17:8</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 5025004,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 25,
       "verse": 4,
       "text": "You shall not muzzle an ox when it is treading out the grain.",
       "links": "<a href='/AIV/46/9/9'>1 Cor. 9:9</a>; <a href='/AIV/54/5/18'>1 Tim. 5:18</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 5025005,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 25,
       "verse": 5,
       "text": "If brothers dwell together, and one of them dies without having a son, the wife of the dead man shall not marry outside of the family to a stranger. Her husband's brother shall take her as his wife and perform the duty of a brother-in-law to her.",
       "links": "<a href='/AIV/1/38/8'>Gen. 38:8</a>; <a href='/AIV/40/22/24'>Matt. 22:24</a>",
@@ -69,11 +46,6 @@
     },
     {
       "pk": 5025006,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 25,
       "verse": 6,
       "text": "And the first son whom she bears shall succeed in the name of his dead brother, that his name may not be blotted out of Israel.",
       "links": "<a href='/AIV/8/4/5-10'>Ruth 4:5-10</a>; <a href='/AIV/40/22/24'>Matt. 22:24</a>",
@@ -81,11 +53,6 @@
     },
     {
       "pk": 5025007,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 25,
       "verse": 7,
       "text": "But if the man does not wish to take his brother’s wife, then his brother’s wife shall go up to the elders at the gate and say, 'My husband's brother refuses to set up a name for his brother in Israel; he will not perform the duty of a brother-in-law to me.'",
       "links": "<a href='/AIV/8/4/7'>Ruth 4:7</a>",
@@ -93,11 +60,6 @@
     },
     {
       "pk": 5025008,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 25,
       "verse": 8,
       "text": "Then the elders of his city shall summon him and speak to him. If he persists and says, 'I do not wish to take her,'",
       "links": "<a href='/AIV/8/4/8'>Ruth 4:8</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 5025009,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 25,
       "verse": 9,
       "text": "then his brother's wife shall go up to him in the presence of the elders, pull his sandal off his foot and spit in his face. She shall answer and say, 'So shall it be done to the man who does not build up his brother's house.'",
       "links": "<a href='/AIV/8/4/7-8'>Ruth 4:7-8</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 5025010,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 25,
       "verse": 10,
       "text": "And his name shall be called in Israel, 'The house of him who had his sandal removed.'",
       "links": "<a href='/AIV/8/4/8'>Ruth 4:8</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 5025011,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 25,
       "verse": 11,
       "text": "If two men are fighting with each other, and the wife of one comes near to rescue her husband from the hand of him who is beating him, and puts out her hand and seizes him by the private parts,",
       "links": "<a href='/AIV/3/18/6'>Lev. 18:6</a>; <a href='/AIV/3/20/11'>Lev. 20:11</a>; <a href='/AIV/5/23/1'>Deut. 23:1</a>",
@@ -142,11 +89,6 @@
     },
     {
       "pk": 5025012,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 25,
       "verse": 12,
       "text": "then you shall cut off her hand; your eye shall have no pity.",
       "links": "<a href='/AIV/5/19/21'>Deut. 19:21</a>",
@@ -154,11 +96,6 @@
     },
     {
       "pk": 5025013,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 25,
       "verse": 13,
       "text": "You shall not have in your bag differing weights, a heavy and a light.",
       "links": "<a href='/AIV/3/19/35-36'>Lev. 19:35-36</a>; <a href='/AIV/20/20/10'>Prov. 20:10</a>",
@@ -167,11 +104,6 @@
     },
     {
       "pk": 5025014,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 25,
       "verse": 14,
       "text": "You shall not have in your house differing measures, a large and a small.",
       "links": "<a href='/AIV/20/16/11'>Prov. 16:11</a>",
@@ -179,11 +111,6 @@
     },
     {
       "pk": 5025015,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 25,
       "verse": 15,
       "text": "You shall have a full and just weight, a full and just measure, so that your days may be long in the land that the LORD your God is giving you.",
       "links": "<a href='/AIV/3/19/36'>Lev. 19:36</a>; <a href='/AIV/20/11/1'>Prov. 11:1</a>",
@@ -191,11 +118,6 @@
     },
     {
       "pk": 5025016,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 25,
       "verse": 16,
       "text": "For all who do such things, all who act dishonestly, are an abomination to the LORD your God.",
       "links": "<a href='/AIV/20/20/23'>Prov. 20:23</a>",
@@ -203,11 +125,6 @@
     },
     {
       "pk": 5025017,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 25,
       "verse": 17,
       "text": "Remember what Amalek did to you on the way as you came out of Egypt,",
       "links": "<a href='/AIV/2/17/8-16'>Ex. 17:8-16</a>; <a href='/AIV/9/15/2-3'>1 Sam. 15:2-3</a>",
@@ -216,11 +133,6 @@
     },
     {
       "pk": 5025018,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 25,
       "verse": 18,
       "text": "how he met you on the way and attacked your rear, all who were weak and lagging behind you, when you were faint and weary; and he did not fear God.",
       "links": "<a href='/AIV/2/17/8-13'>Ex. 17:8-13</a>",
@@ -228,48 +140,10 @@
     },
     {
       "pk": 5025019,
-      "translation": "AIV",
-      "book": 5,
-      "bookName": "Deuteronomy",
-      "bookAbbreviation": "Deut",
-      "chapter": 25,
       "verse": 19,
       "text": "Therefore, when the LORD your God gives you rest from all your enemies around you, in the land that the LORD your God is giving you as an inheritance to possess, you shall blot out the memory of Amalek from under heaven. Do not forget.",
       "links": "<a href='/AIV/9/15/3'>1 Sam. 15:3</a>; <a href='/AIV/2/17/14'>Ex. 17:14</a>",
       "comment": "Complete obedience to divine command symbolizes the ultimate victory over evil. This points forward to Christ's final triumph over the powers of darkness. 'Do not forget' is a call to faithful remembrance—a key theme in worship and spiritual life (<a href='/AIV/42/22/19'>Luke 22:19</a>)."
-    }
-  ],
-  "translatedAt": "2025-12-24T02:10:24.050Z",
-  "sections": [
-    {
-      "title": "Judicial Punishment and Its Limits",
-      "startVerse": 1,
-      "endVerse": 3
-    },
-    {
-      "title": "Kindness to Working Animals",
-      "startVerse": 4,
-      "endVerse": 4
-    },
-    {
-      "title": "The Law of Levirate Marriage",
-      "startVerse": 5,
-      "endVerse": 10
-    },
-    {
-      "title": "Penalty for Improper Intervention in a Fight",
-      "startVerse": 11,
-      "endVerse": 12
-    },
-    {
-      "title": "Honest Weights and Measures",
-      "startVerse": 13,
-      "endVerse": 16
-    },
-    {
-      "title": "Command to Blot Out Amalek",
-      "startVerse": 17,
-      "endVerse": 19
     }
   ]
 }

@@ -1,16 +1,13 @@
 {
-  "book": 22,
+  "translation": "AIV",
+  "bookId": "job",
   "bookName": "Job",
   "bookAbbreviation": "Job",
+  "bookNumber": 22,
   "chapter": 23,
   "verses": [
     {
       "pk": 22023001,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 23,
       "verse": 1,
       "text": "Then Job answered and said:",
       "links": "<a href='/AIV/22/6/1'>Job 6:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 22023002,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 23,
       "verse": 2,
       "text": "Today also my complaint is bitter; my hand presses heavily because of my groaning.",
       "links": "<a href='/AIV/22/7/11'>Job 7:11</a>; <a href='/AIV/19/32/4'>Ps. 32:4</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 22023003,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 23,
       "verse": 3,
       "text": "Oh, that I knew where I might find Him, that I might come even to His seat!",
       "links": "<a href='/AIV/22/13/3'>Job 13:3</a>; <a href='/AIV/19/42/2'>Ps. 42:2</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 22023004,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 23,
       "verse": 4,
       "text": "I would lay my case before Him and fill my mouth with arguments.",
       "links": "<a href='/AIV/22/13/15'>Job 13:15</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 22023005,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 23,
       "verse": 5,
       "text": "I would know the words He would answer me, and understand what He would say to me.",
       "links": "<a href='/AIV/22/9/16'>Job 9:16</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 22023006,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 23,
       "verse": 6,
       "text": "Would He contend with me in the greatness of His power? No; surely He would pay attention to me.",
       "links": "<a href='/AIV/22/9/19'>Job 9:19</a>; <a href='/AIV/19/34/18'>Ps. 34:18</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 22023007,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 23,
       "verse": 7,
       "text": "There an upright man could argue with Him, and I would be acquitted forever by my judge.",
       "links": "<a href='/AIV/22/13/18'>Job 13:18</a>; <a href='/AIV/19/143/2'>Ps. 143:2</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 22023008,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 23,
       "verse": 8,
       "text": "Behold, I go forward, but He is not there; and backward, but I do not perceive Him;",
       "links": "<a href='/AIV/22/9/11'>Job 9:11</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 22023009,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 23,
       "verse": 9,
       "text": "On the left hand when He is working, I do not behold Him; He turns to the right hand, but I do not see Him.",
       "links": "<a href='/AIV/19/77/19'>Ps. 77:19</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 22023010,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 23,
       "verse": 10,
       "text": "But He knows the way I take; when He has tested me, I shall come forth as gold.",
       "links": "<a href='/AIV/19/66/10'>Ps. 66:10</a>; <a href='/AIV/60/1/7'>1 Pet. 1:7</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 22023011,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 23,
       "verse": 11,
       "text": "My foot has held fast to His steps; I have kept His way and have not turned aside.",
       "links": "<a href='/AIV/19/119/1'>Ps. 119:1</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 22023012,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 23,
       "verse": 12,
       "text": "I have not departed from the commandment of His lips; I have treasured the words of His mouth more than my daily bread.",
       "links": "<a href='/AIV/19/119/11'>Ps. 119:11</a>; <a href='/AIV/40/4/4'>Matt. 4:4</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 22023013,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 23,
       "verse": 13,
       "text": "But He is unchangeable, and who can turn Him? What His soul desires, that He does.",
       "links": "<a href='/AIV/19/33/11'>Ps. 33:11</a>; <a href='/AIV/39/3/6'>Mal. 3:6</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 22023014,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 23,
       "verse": 14,
       "text": "For He will complete what He appoints for me, and many such things are in His mind.",
       "links": "<a href='/AIV/19/138/8'>Ps. 138:8</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 22023015,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 23,
       "verse": 15,
       "text": "Therefore I am terrified at His presence; when I consider, I am in dread of Him.",
       "links": "<a href='/AIV/19/119/120'>Ps. 119:120</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 22023016,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 23,
       "verse": 16,
       "text": "God has made my heart faint; the Almighty has terrified me.",
       "links": "<a href='/AIV/19/73/26'>Ps. 73:26</a>",
@@ -201,33 +123,10 @@
     },
     {
       "pk": 22023017,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 23,
       "verse": 17,
       "text": "If only I could vanish in darkness, and thick darkness would cover my face!",
       "links": "<a href='/AIV/19/27/1'>Ps. 27:1</a>; <a href='/AIV/19/139/12'>Ps. 139:12</a>",
       "comment": "Job's yearning to disappear into darkness reflects his acute suffering and desire to escape God's overwhelming presence. This verse highlights the motif of darkness as a metaphor for despair and the limits of human endurance in the face of inexplicable suffering. Ancient translations vary on whether Job is expressing a wish for concealment or merely describing his plight, but the majority understanding sees in this line a longing for relief through oblivion."
-    }
-  ],
-  "translatedAt": "2026-01-01T21:55:29.843Z",
-  "sections": [
-    {
-      "title": "Job Longs to Present His Case Before God",
-      "startVerse": 1,
-      "endVerse": 7
-    },
-    {
-      "title": "The Mystery of God's Ways",
-      "startVerse": 8,
-      "endVerse": 14
-    },
-    {
-      "title": "Job Fears the Unsearchable God",
-      "startVerse": 15,
-      "endVerse": 17
     }
   ]
 }

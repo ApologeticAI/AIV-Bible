@@ -1,16 +1,13 @@
 {
-  "book": 69,
+  "translation": "AIV",
+  "bookId": "1-john",
   "bookName": "1 John",
-  "bookAbbreviation": "1John",
+  "bookAbbreviation": "1 John",
+  "bookNumber": 69,
   "chapter": 3,
   "verses": [
     {
       "pk": 69003001,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 3,
       "verse": 1,
       "text": "See what kind of love the Father has given to us, that we should be called children of God—and that is what we are! The reason the world does not know us is that it did not know Him.",
       "links": "<a href='/AIV/43/1/12'>John 1:12</a>; <a href='/AIV/45/8/14-16'>Rom. 8:14-16</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 69003002,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 3,
       "verse": 2,
       "text": "Beloved, now we are children of God, and what we will be has not yet been revealed. But we know that when He appears, we will be like Him, because we shall see Him as He is.",
       "links": "<a href='/AIV/50/3/21'>Phil. 3:21</a>; <a href='/AIV/40/5/8'>Matt. 5:8</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 69003003,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 3,
       "verse": 3,
       "text": "Everyone who has this hope in Him purifies himself, just as He is pure.",
       "links": "<a href='/AIV/58/12/14'>Heb. 12:14</a>; <a href='/AIV/40/5/48'>Matt. 5:48</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 69003004,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 3,
       "verse": 4,
       "text": "Everyone who commits sin practices lawlessness; sin is lawlessness.",
       "links": "<a href='/AIV/45/6/19'>Rom. 6:19</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 69003005,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 3,
       "verse": 5,
       "text": "You know that He appeared to take away sins, and in Him there is no sin.",
       "links": "<a href='/AIV/43/1/29'>John 1:29</a>; <a href='/AIV/58/4/15'>Heb. 4:15</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 69003006,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 3,
       "verse": 6,
       "text": "No one who remains in Him keeps on sinning; no one who keeps on sinning has seen Him or known Him.",
       "links": "<a href='/AIV/43/15/4'>John 15:4</a>; <a href='/AIV/40/7/23'>Matt. 7:23</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 69003007,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 3,
       "verse": 7,
       "text": "Children, let no one deceive you. Whoever practices righteousness is righteous, just as He is righteous.",
       "links": "<a href='/AIV/40/7/16-20'>Matt. 7:16-20</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 69003008,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 3,
       "verse": 8,
       "text": "Whoever makes a practice of sinning is of the devil, for the devil has been sinning from the beginning. The Son of God appeared for this reason: to destroy the works of the devil.",
       "links": "<a href='/AIV/01/3/1-6'>Gen. 3:1-6</a>; <a href='/AIV/43/8/44'>John 8:44</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 69003009,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 3,
       "verse": 9,
       "text": "No one born of God makes a practice of sinning, because God’s seed remains in him; he cannot keep on sinning, because he has been born of God.",
       "links": "<a href='/AIV/43/3/3-6'>John 3:3-6</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 69003010,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 3,
       "verse": 10,
       "text": "By this it is clear who are children of God, and who are children of the devil: whoever does not practice righteousness is not of God, nor is the one who does not love his brother.",
       "links": "<a href='/AIV/40/5/22-24'>Matt. 5:22-24</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 69003011,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 3,
       "verse": 11,
       "text": "For this is the message you have heard from the beginning: that we should love one another.",
       "links": "<a href='/AIV/43/13/34'>John 13:34</a>;<a href='/AIV/03/19/18'>Lev. 19:18</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 69003012,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 3,
       "verse": 12,
       "text": "We must not be like Cain, who was of the evil one and murdered his brother. And why did he murder him? Because his own deeds were evil and his brother’s were righteous.",
       "links": "<a href='/AIV/01/4/8'>Gen. 4:8</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 69003013,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 3,
       "verse": 13,
       "text": "Do not be surprised, brothers, that the world hates you.",
       "links": "<a href='/AIV/43/15/18-19'>John 15:18-19</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 69003014,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 3,
       "verse": 14,
       "text": "We know that we have passed from death into life, because we love the brothers. Whoever does not love remains in death.",
       "links": "<a href='/AIV/43/5/24'>John 5:24</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 69003015,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 3,
       "verse": 15,
       "text": "Everyone who hates his brother is a murderer, and you know that no murderer has eternal life remaining in him.",
       "links": "<a href='/AIV/40/5/21-22'>Matt. 5:21-22</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 69003016,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 3,
       "verse": 16,
       "text": "By this we know love: that He laid down His life for us, and we ought to lay down our lives for the brothers.",
       "links": "<a href='/AIV/43/15/13'>John 15:13</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 69003017,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 3,
       "verse": 17,
       "text": "But if anyone has the world’s goods and sees his brother in need, yet closes his heart against him, how does the love of God remain in him?",
       "links": "<a href='/AIV/59/2/15-17'>James 2:15-17</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 69003018,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 3,
       "verse": 18,
       "text": "Little children, let us not love in word or speech only, but in action and in truth.",
       "links": "<a href='/AIV/59/2/18'>James 2:18</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 69003019,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 3,
       "verse": 19,
       "text": "By this we shall know that we are of the truth and assure our heart before Him;",
       "links": "<a href='/AIV/43/18/37'>John 18:37</a>",
@@ -238,11 +145,6 @@
     },
     {
       "pk": 69003020,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 3,
       "verse": 20,
       "text": "for if our heart condemns us, God is greater than our heart, and He knows everything.",
       "links": "<a href='/AIV/19/139/1-2'>Ps. 139:1-2</a>",
@@ -250,11 +152,6 @@
     },
     {
       "pk": 69003021,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 3,
       "verse": 21,
       "text": "Beloved, if our heart does not condemn us, we have confidence before God;",
       "links": "<a href='/AIV/58/10/22'>Heb. 10:22</a>",
@@ -262,11 +159,6 @@
     },
     {
       "pk": 69003022,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 3,
       "verse": 22,
       "text": "and whatever we ask we receive from Him, because we keep His commandments and do what is pleasing in His sight.",
       "links": "<a href='/AIV/43/15/10'>John 15:10</a>",
@@ -274,11 +166,6 @@
     },
     {
       "pk": 69003023,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 3,
       "verse": 23,
       "text": "And this is His commandment: that we should believe in the name of His Son Jesus Christ, and love one another, just as He has commanded us.",
       "links": "<a href='/AIV/43/6/29'>John 6:29</a>; <a href='/AIV/43/13/34'>John 13:34</a>",
@@ -286,38 +173,10 @@
     },
     {
       "pk": 69003024,
-      "translation": "AIV",
-      "book": 69,
-      "bookName": "1 John",
-      "bookAbbreviation": "1John",
-      "chapter": 3,
       "verse": 24,
       "text": "And whoever keeps His commandments abides in Him, and He in them. And by this we know that He abides in us: by the Spirit whom He has given us.",
       "links": "<a href='/AIV/43/14/23'>John 14:23</a>; <a href='/AIV/45/8/9'>Rom. 8:9</a>",
       "comment": "Final emphasis is on reciprocal abiding—believers in God and God in believers. The Holy Spirit’s indwelling is the sign and means of this abiding presence. Faith, obedience, and the gift of the Spirit are united in the life of a Christian."
-    }
-  ],
-  "translatedAt": "2025-12-24T12:31:03.335Z",
-  "sections": [
-    {
-      "title": "Children of God and Purity in Christ",
-      "startVerse": 1,
-      "endVerse": 3
-    },
-    {
-      "title": "Sin and Righteousness",
-      "startVerse": 4,
-      "endVerse": 10
-    },
-    {
-      "title": "Love One Another",
-      "startVerse": 11,
-      "endVerse": 18
-    },
-    {
-      "title": "Confidence Before God",
-      "startVerse": 19,
-      "endVerse": 24
     }
   ]
 }

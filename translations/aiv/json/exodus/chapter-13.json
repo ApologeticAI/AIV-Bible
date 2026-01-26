@@ -1,16 +1,13 @@
 {
-  "book": 2,
+  "translation": "AIV",
+  "bookId": "exodus",
   "bookName": "Exodus",
   "bookAbbreviation": "Exod",
+  "bookNumber": 2,
   "chapter": 13,
   "verses": [
     {
       "pk": 2013001,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 13,
       "verse": 1,
       "text": "The LORD spoke to Moses, saying:",
       "links": "<a href='/AIV/2/6/10'>Exod. 6:10</a>; <a href='/AIV/3/1/1'>Lev. 1:1</a>; <a href='/AIV/4/1/1'>Num. 1:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 2013002,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 13,
       "verse": 2,
       "text": "\"Consecrate to Me every firstborn, whichever opens the womb among the Israelites, both man and animal; it belongs to Me.\"",
       "links": "<a href='/AIV/2/22/29-30'>Exod. 22:29-30</a>; <a href='/AIV/3/27/26'>Lev. 27:26</a>; <a href='/AIV/4/3/13'>Num. 3:13</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 2013003,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 13,
       "verse": 3,
       "text": "Then Moses said to the people, \"Remember this day, the day you came out of Egypt, out of the house of slavery, for with a strong hand the LORD brought you out from there. No leavened bread shall be eaten.",
       "links": "<a href='/AIV/2/12/17'>Exod. 12:17</a>; <a href='/AIV/5/16/3'>Deut. 16:3</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 2013004,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 13,
       "verse": 4,
       "text": "Today, in the month of Abib, you are going out.",
       "links": "<a href='/AIV/2/12/2'>Exod. 12:2</a>; <a href='/AIV/5/16/1'>Deut. 16:1</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 2013005,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 13,
       "verse": 5,
       "text": "When the LORD brings you into the land of the Canaanites, Hittites, Amorites, Hivites, and Jebusites, the land He swore to your fathers to give you, a land flowing with milk and honey, you shall observe this service in this month.",
       "links": "<a href='/AIV/1/15/18'>Gen. 15:18-21</a>; <a href='/AIV/2/3/8'>Exod. 3:8</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 2013006,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 13,
       "verse": 6,
       "text": "Seven days you shall eat unleavened bread, and on the seventh day there shall be a feast to the LORD.",
       "links": "<a href='/AIV/3/23/6'>Lev. 23:6-8</a>; <a href='/AIV/5/16/8'>Deut. 16:8</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 2013007,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 13,
       "verse": 7,
       "text": "Unleavened bread shall be eaten for seven days; no leavened bread shall be seen among you, nor shall any leaven be seen within your borders.",
       "links": "<a href='/AIV/2/12/15'>Exod. 12:15,19</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 2013008,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 13,
       "verse": 8,
       "text": "You shall tell your son on that day, 'It is because of what the LORD did for me when I came out of Egypt.'",
       "links": "<a href='/AIV/2/12/26-27'>Exod. 12:26-27</a>; <a href='/AIV/5/6/20-21'>Deut. 6:20-21</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 2013009,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 13,
       "verse": 9,
       "text": "It shall be for you as a sign on your hand and as a reminder between your eyes, so that the LORD's law may be in your mouth. For with a strong hand the LORD brought you out of Egypt.",
       "links": "<a href='/AIV/5/6/8'>Deut. 6:8</a>; <a href='/AIV/19/119/11'>Ps. 119:11</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 2013010,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 13,
       "verse": 10,
       "text": "You shall therefore keep this statute at its appointed time year after year.",
       "links": "<a href='/AIV/2/12/24'>Exod. 12:24</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 2013011,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 13,
       "verse": 11,
       "text": "When the LORD brings you into the land of the Canaanites, just as He swore to you and your fathers, and gives it to you,",
       "links": "<a href='/AIV/1/15/18'>Gen. 15:18</a>; <a href='/AIV/2/3/8'>Exod. 3:8</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 2013012,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 13,
       "verse": 12,
       "text": "then you shall set apart to the LORD every firstborn of the womb. All the firstborn of your livestock that are males shall be the LORD's.",
       "links": "<a href='/AIV/2/22/29-30'>Exod. 22:29-30</a>; <a href='/AIV/4/18/15'>Num. 18:15</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 2013013,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 13,
       "verse": 13,
       "text": "Every firstborn of a donkey you shall redeem with a lamb, and if you do not redeem it you must break its neck. Every firstborn of man among your sons you shall redeem.",
       "links": "<a href='/AIV/4/18/15-17'>Num. 18:15-17</a>; <a href='/AIV/3/27/27'>Lev. 27:27</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 2013014,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 13,
       "verse": 14,
       "text": "And when in the future your son asks you, ‘What does this mean?’ you shall say to him, ‘By a strong hand the LORD brought us out of Egypt, out of the house of slavery.’",
       "links": "<a href='/AIV/2/12/26-27'>Exod. 12:26-27</a>; <a href='/AIV/5/6/20-21'>Deut. 6:20-21</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 2013015,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 13,
       "verse": 15,
       "text": "For when Pharaoh stubbornly refused to let us go, the LORD killed all the firstborn in the land of Egypt, both the firstborn of man and of animal. Therefore I sacrifice to the LORD all the males that open the womb, but all the firstborn of my sons I redeem.",
       "links": "<a href='/AIV/2/12/29-30'>Exod. 12:29-30</a>; <a href='/AIV/4/18/16'>Num. 18:16</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 2013016,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 13,
       "verse": 16,
       "text": "So it shall be as a sign on your hand and as frontlets between your eyes, for by a strong hand the LORD brought us out of Egypt.",
       "links": "<a href='/AIV/5/6/8'>Deut. 6:8</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 2013017,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 13,
       "verse": 17,
       "text": "When Pharaoh let the people go, God did not lead them by way of the land of the Philistines, though it was near; for God said, 'Lest the people change their minds when they see war and return to Egypt.'",
       "links": "<a href='/AIV/2/14/11-12'>Exod. 14:11-12</a>",
@@ -214,11 +131,6 @@
     },
     {
       "pk": 2013018,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 13,
       "verse": 18,
       "text": "But God led the people around by the way of the wilderness toward the Red Sea. The people of Israel went up out of the land of Egypt armed for battle.",
       "links": "<a href='/AIV/2/14/2'>Exod. 14:2</a>; <a href='/AIV/6/24/8'>Josh. 24:8</a>",
@@ -226,11 +138,6 @@
     },
     {
       "pk": 2013019,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 13,
       "verse": 19,
       "text": "Moses took the bones of Joseph with him, for Joseph had made the sons of Israel swear solemnly, saying, 'God will surely visit you, and you shall carry up my bones with you from here.'",
       "links": "<a href='/AIV/1/50/24-25'>Gen. 50:24-25</a>; <a href='/AIV/6/24/32'>Josh. 24:32</a>; <a href='/AIV/11/11/22'>Heb. 11:22</a>",
@@ -238,11 +145,6 @@
     },
     {
       "pk": 2013020,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 13,
       "verse": 20,
       "text": "They set out from Succoth and camped at Etham, on the edge of the wilderness.",
       "links": "<a href='/AIV/4/33/6-8'>Num. 33:6-8</a>",
@@ -250,11 +152,6 @@
     },
     {
       "pk": 2013021,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 13,
       "verse": 21,
       "text": "The LORD went before them by day in a pillar of cloud to lead them along the way, and by night in a pillar of fire to give them light, so that they might travel by day and by night.",
       "links": "<a href='/AIV/2/14/19-20'>Exod. 14:19-20</a>; <a href='/AIV/4/9/15-23'>Num. 9:15-23</a>",
@@ -262,38 +159,10 @@
     },
     {
       "pk": 2013022,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 13,
       "verse": 22,
       "text": "He did not take away the pillar of cloud by day or the pillar of fire by night from before the people.",
       "links": "<a href='/AIV/2/40/38'>Exod. 40:38</a>; <a href='/AIV/16/9/12'>Neh. 9:12</a>",
       "comment": "This enduring presence foreshadows God’s promises of constant guidance and protection, and points forward to the ways He continues to be visibly present among His people even now."
-    }
-  ],
-  "translatedAt": "2025-12-24T00:53:29.219Z",
-  "sections": [
-    {
-      "title": "The Consecration of the Firstborn",
-      "startVerse": 1,
-      "endVerse": 2
-    },
-    {
-      "title": "The Feast of Unleavened Bread",
-      "startVerse": 3,
-      "endVerse": 10
-    },
-    {
-      "title": "Instruction on the Redemption of the Firstborn",
-      "startVerse": 11,
-      "endVerse": 16
-    },
-    {
-      "title": "The Pillar of Cloud and Fire",
-      "startVerse": 17,
-      "endVerse": 22
     }
   ]
 }

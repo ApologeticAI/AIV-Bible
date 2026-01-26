@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 28,
   "verses": [
     {
       "pk": 23028001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 28,
       "verse": 1,
       "text": "To you, O LORD, I call; my Rock, do not be silent to me. If you remain silent to me, I will become like those who go down to the pit.",
       "links": "<a href='/AIV/18/7/21'>Job 7:21</a>; <a href='/AIV/19/143/7'>Ps. 143:7</a>; <a href='/AIV/23/38/18'>Isa. 38:18</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23028002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 28,
       "verse": 2,
       "text": "Hear the voice of my prayer when I cry to you for help, when I lift up my hands toward your holy sanctuary.",
       "links": "<a href='/AIV/19/5/7'>Ps. 5:7</a>; <a href='/AIV/19/134/2'>Ps. 134:2</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23028003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 28,
       "verse": 3,
       "text": "Do not drag me away with the wicked, with those who do evil, who speak peace with their neighbors while evil is in their hearts.",
       "links": "<a href='/AIV/19/26/9-10'>Ps. 26:9-10</a>; <a href='/AIV/19/12/2'>Ps. 12:2</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23028004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 28,
       "verse": 4,
       "text": "Repay them according to their deeds and the evil of their actions; give them what their hands have done and bring upon them what they deserve.",
       "links": "<a href='/AIV/19/94/2'>Ps. 94:2</a>; <a href='/AIV/20/24/12'>Prov. 24:12</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23028005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 28,
       "verse": 5,
       "text": "Because they do not regard the works of the LORD or what his hands have done, he will tear them down and not build them up.",
       "links": "<a href='/AIV/19/92/5-7'>Ps. 92:5-7</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23028006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 28,
       "verse": 6,
       "text": "Blessed be the LORD! For he has heard the voice of my prayer.",
       "links": "<a href='/AIV/19/66/19-20'>Ps. 66:19-20</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 23028007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 28,
       "verse": 7,
       "text": "The LORD is my strength and my shield; my heart trusted in him, and I was helped; my heart rejoices, and with my song I will thank him.",
       "links": "<a href='/AIV/19/3/3'>Ps. 3:3</a>; <a href='/AIV/19/18/2'>Ps. 18:2</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 23028008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 28,
       "verse": 8,
       "text": "The LORD is the strength of his people; he is a saving fortress for his anointed one.",
       "links": "<a href='/AIV/19/20/6'>Ps. 20:6</a>; <a href='/AIV/19/89/18'>Ps. 89:18</a>",
@@ -105,33 +67,10 @@
     },
     {
       "pk": 23028009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 28,
       "verse": 9,
       "text": "Save your people and bless your inheritance; shepherd them and carry them forever.",
       "links": "<a href='/AIV/19/80/1'>Ps. 80:1</a>; <a href='/AIV/23/40/11'>Isa. 40:11</a>; <a href='/AIV/43/10/11'>John 10:11</a>",
       "comment": "The request to 'shepherd and carry' the people echoes God’s continual provision. This image finds ultimate fulfillment in Christ as the Good Shepherd (John 10:11). The connection of inheritance, blessing, and shepherding points to a visible, protected community under God’s guidance throughout history."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:07:50.752Z",
-  "sections": [
-    {
-      "title": "Prayer for Deliverance from the Wicked",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "Thanksgiving for Answered Prayer",
-      "startVerse": 6,
-      "endVerse": 7
-    },
-    {
-      "title": "Intercession for God's People",
-      "startVerse": 8,
-      "endVerse": 9
     }
   ]
 }

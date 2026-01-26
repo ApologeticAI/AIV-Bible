@@ -1,16 +1,13 @@
 {
-  "book": 40,
+  "translation": "AIV",
+  "bookId": "micah",
   "bookName": "Micah",
   "bookAbbreviation": "Mic",
+  "bookNumber": 40,
   "chapter": 4,
   "verses": [
     {
       "pk": 40004001,
-      "translation": "AIV",
-      "book": 40,
-      "bookName": "Micah",
-      "bookAbbreviation": "Mic",
-      "chapter": 4,
       "verse": 1,
       "text": "But in the last days, the mountain of the LORD’s house will be established as the highest of the mountains; it will be lifted up above the hills, and peoples will stream to it.",
       "links": "<a href='/AIV/23/2/2'>Isaiah 2:2</a>; <a href='/AIV/19/68/15'>Psalm 68:15-16</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 40004002,
-      "translation": "AIV",
-      "book": 40,
-      "bookName": "Micah",
-      "bookAbbreviation": "Mic",
-      "chapter": 4,
       "verse": 2,
       "text": "Many nations will come and say, 'Come, let us go up to the mountain of the LORD, to the house of the God of Jacob. He will teach us His ways so that we may walk in His paths.' For the law will go out from Zion, and the word of the LORD from Jerusalem.",
       "links": "<a href='/AIV/23/2/3'>Isaiah 2:3</a>; <a href='/AIV/42/24/47'>Luke 24:47</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 40004003,
-      "translation": "AIV",
-      "book": 40,
-      "bookName": "Micah",
-      "bookAbbreviation": "Mic",
-      "chapter": 4,
       "verse": 3,
       "text": "He will judge between many peoples and decide disputes for strong nations far away; they will beat their swords into plows and their spears into pruning knives. Nation will not lift up sword against nation, nor will they learn war anymore.",
       "links": "<a href='/AIV/23/2/4'>Isaiah 2:4</a>; <a href='/AIV/65/12'>James 4:1-2</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 40004004,
-      "translation": "AIV",
-      "book": 40,
-      "bookName": "Micah",
-      "bookAbbreviation": "Mic",
-      "chapter": 4,
       "verse": 4,
       "text": "But every man will sit under his own vine and under his own fig tree, and no one will make them afraid, for the mouth of the LORD of armies has spoken.",
       "links": "<a href='/AIV/11/4/25'>1 Kings 4:25</a>; <a href='/AIV/38/3/10'>Zechariah 3:10</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 40004005,
-      "translation": "AIV",
-      "book": 40,
-      "bookName": "Micah",
-      "bookAbbreviation": "Mic",
-      "chapter": 4,
       "verse": 5,
       "text": "For all the peoples walk, each in the name of its god, but we will walk in the name of the LORD our God forever and ever.",
       "links": "<a href='/AIV/19/115/1-3'>Psalm 115:1-3</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 40004006,
-      "translation": "AIV",
-      "book": 40,
-      "bookName": "Micah",
-      "bookAbbreviation": "Mic",
-      "chapter": 4,
       "verse": 6,
       "text": "In that day, declares the LORD, I will gather the lame and assemble those who have been driven away, and those whom I have afflicted.",
       "links": "<a href='/AIV/23/35/5-6'>Isaiah 35:5-6</a>; <a href='/AIV/40/15/30'>Matthew 15:30-31</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 40004007,
-      "translation": "AIV",
-      "book": 40,
-      "bookName": "Micah",
-      "bookAbbreviation": "Mic",
-      "chapter": 4,
       "verse": 7,
       "text": "I will make the lame a remnant, and those who were cast off a strong nation; and the LORD will reign over them on Mount Zion from now on and forever.",
       "links": "<a href='/AIV/23/24/23'>Isaiah 24:23</a>; <a href='/AIV/42/1/33'>Luke 1:33</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 40004008,
-      "translation": "AIV",
-      "book": 40,
-      "bookName": "Micah",
-      "bookAbbreviation": "Mic",
-      "chapter": 4,
       "verse": 8,
       "text": "And you, O tower of the flock, hill of the daughter of Zion, to you it will come; the former dominion will come, kingship for the daughter of Jerusalem.",
       "links": "<a href='/AIV/01/35/21'>Genesis 35:21</a>; <a href='/AIV/42/2/8'>Luke 2:8-11</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 40004009,
-      "translation": "AIV",
-      "book": 40,
-      "bookName": "Micah",
-      "bookAbbreviation": "Mic",
-      "chapter": 4,
       "verse": 9,
       "text": "Now, why do you cry aloud? Is there no king among you? Has your counselor perished, that pain has seized you like a woman in labor?",
       "links": "<a href='/AIV/24/8/19'>Jeremiah 8:19</a>; <a href='/AIV/23/66/7'>Isaiah 66:7-8</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 40004010,
-      "translation": "AIV",
-      "book": 40,
-      "bookName": "Micah",
-      "bookAbbreviation": "Mic",
-      "chapter": 4,
       "verse": 10,
       "text": "Writhe and groan, daughter of Zion, like a woman in labor, for now you shall go out from the city and dwell in the field, and go to Babylon. There you will be rescued; there the LORD will redeem you from the hand of your enemies.",
       "links": "<a href='/AIV/24/29/10-14'>Jeremiah 29:10-14</a>; <a href='/AIV/40/1/21'>Matthew 1:21</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 40004011,
-      "translation": "AIV",
-      "book": 40,
-      "bookName": "Micah",
-      "bookAbbreviation": "Mic",
-      "chapter": 4,
       "verse": 11,
       "text": "Now many nations are assembled against you, saying, 'Let her be defiled, and let our eyes look on Zion.'",
       "links": "<a href='/AIV/19/83/4-5'>Psalm 83:4-5</a>; <a href='/AIV/23/29/7-8'>Isaiah 29:7-8</a>",
@@ -142,11 +89,6 @@
     },
     {
       "pk": 40004012,
-      "translation": "AIV",
-      "book": 40,
-      "bookName": "Micah",
-      "bookAbbreviation": "Mic",
-      "chapter": 4,
       "verse": 12,
       "text": "But they do not know the thoughts of the LORD, nor do they understand His plan—that He has gathered them like sheaves to the threshing floor.",
       "links": "<a href='/AIV/01/50/20'>Genesis 50:20</a>; <a href='/AIV/23/55/8-9'>Isaiah 55:8-9</a>",
@@ -154,38 +96,10 @@
     },
     {
       "pk": 40004013,
-      "translation": "AIV",
-      "book": 40,
-      "bookName": "Micah",
-      "bookAbbreviation": "Mic",
-      "chapter": 4,
       "verse": 13,
       "text": "Rise and thresh, daughter of Zion, for I will make your horn iron and your hooves bronze; you will crush many peoples, and I will devote their gain to the LORD, their wealth to the Lord of all the earth.",
       "links": "<a href='/AIV/23/41/15-16'>Isaiah 41:15-16</a>; <a href='/AIV/66/21/24-26'>Revelation 21:24-26</a>",
       "comment": "God empowers Zion, signifying strength given to God’s people to carry out His victory and purpose. The dedication of the nations' wealth to the LORD foreshadows the universal mission and the gathering of all things to God—a key theme in the ultimate unity and sanctification of the people of God."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:48:33.835Z",
-  "sections": [
-    {
-      "title": "The Peaceful Reign of the Messiah",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "The Restoration of Zion",
-      "startVerse": 6,
-      "endVerse": 8
-    },
-    {
-      "title": "The Exile and Deliverance of Zion",
-      "startVerse": 9,
-      "endVerse": 10
-    },
-    {
-      "title": "The Defeat of Zion’s Enemies",
-      "startVerse": 11,
-      "endVerse": 13
     }
   ]
 }

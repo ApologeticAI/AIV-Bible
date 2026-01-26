@@ -1,16 +1,13 @@
 {
-  "book": 41,
+  "translation": "AIV",
+  "bookId": "nahum",
   "bookName": "Nahum",
   "bookAbbreviation": "Nah",
+  "bookNumber": 41,
   "chapter": 1,
   "verses": [
     {
       "pk": 41001001,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 1,
       "verse": 1,
       "text": "A prophecy about Nineveh. The book of the vision of Nahum from Elkosh.",
       "links": "<a href='/AIV/23/13/1'>Isa. 13:1</a>; <a href='/AIV/36/2/13'>Zeph. 2:13</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 41001002,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 1,
       "verse": 2,
       "text": "The LORD is a jealous and avenging God; the LORD takes vengeance and is filled with wrath. The LORD takes vengeance against his adversaries, and keeps wrath for his enemies.",
       "links": "<a href='/AIV/2/20/5'>Ex. 20:5</a>; <a href='/AIV/5/4/24'>Deut. 4:24</a>; <a href='/AIV/19/94/1'>Ps. 94:1</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 41001003,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 1,
       "verse": 3,
       "text": "The LORD is slow to anger but great in power; and he will by no means leave the guilty unpunished. His way is in the whirlwind and the storm, and the clouds are the dust of his feet.",
       "links": "<a href='/AIV/2/34/6-7'>Ex. 34:6-7</a>; <a href='/AIV/19/18/9-11'>Ps. 18:9-11</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 41001004,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 1,
       "verse": 4,
       "text": "He rebukes the sea and makes it dry; he dries up all the rivers. Bashan and Carmel wither, and the flowers of Lebanon fade.",
       "links": "<a href='/AIV/2/14/21'>Ex. 14:21</a>; <a href='/AIV/19/106/9'>Ps. 106:9</a>; <a href='/AIV/24/50/19'>Jer. 50:19</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 41001005,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 1,
       "verse": 5,
       "text": "The mountains quake before him, and the hills melt away. The earth heaves at his presence—the world and all who dwell in it.",
       "links": "<a href='/AIV/19/97/5'>Ps. 97:5</a>; <a href='/AIV/34/2/6'>Mic. 1:4</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 41001006,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 1,
       "verse": 6,
       "text": "Who can stand before his indignation? Who can endure the fury of his anger? His wrath is poured out like fire, and the rocks are shattered before him.",
       "links": "<a href='/AIV/19/76/7'>Ps. 76:7</a>; <a href='/AIV/66/6/17'>Rev. 6:17</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 41001007,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 1,
       "verse": 7,
       "text": "The LORD is good, a stronghold in the day of trouble; he knows those who take refuge in him.",
       "links": "<a href='/AIV/19/34/8'>Ps. 34:8</a>; <a href='/AIV/19/37/39'>Ps. 37:39</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 41001008,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 1,
       "verse": 8,
       "text": "But with an overwhelming flood he will make a complete end of his foes, and he will pursue his enemies into darkness.",
       "links": "<a href='/AIV/1/6/17'>Gen. 6:17</a>; <a href='/AIV/19/46/2-3'>Ps. 46:2-3</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 41001009,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 1,
       "verse": 9,
       "text": "What do you plot against the LORD? He will make a complete end; trouble will not rise up a second time.",
       "links": "<a href='/AIV/6/11/20'>Josh. 11:20</a>; <a href='/AIV/19/21/11'>Ps. 21:11</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 41001010,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 1,
       "verse": 10,
       "text": "For they are tangled like thorns, and drunk like drunkards; they are consumed like stubble fully dry.",
       "links": "<a href='/AIV/23/10/17'>Isa. 10:17</a>; <a href='/AIV/19/83/13'>Ps. 83:13</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 41001011,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 1,
       "verse": 11,
       "text": "From you has come one who plots evil against the LORD, a wicked counselor.",
       "links": "<a href='/AIV/12/18/32-35'>2 Kings 18:32-35</a>; <a href='/AIV/23/36/8-10'>Isa. 36:8-10</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 41001012,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 1,
       "verse": 12,
       "text": "This is what the LORD says: 'Though they are at full strength and many, they will be cut down and pass away. Though I have afflicted you, I will afflict you no more.'",
       "links": "<a href='/AIV/23/14/22'>Isa. 14:22</a>; <a href='/AIV/19/135/8-12'>Ps. 135:8-12</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 41001013,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 1,
       "verse": 13,
       "text": "Now I will break his yoke from you and tear your bonds apart.",
       "links": "<a href='/AIV/23/10/27'>Isa. 10:27</a>; <a href='/AIV/19/107/14'>Ps. 107:14</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 41001014,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 1,
       "verse": 14,
       "text": "The LORD has given a command about you: 'Your name will no longer be spread; I will cut off the carved image and the cast idol from the house of your gods. I will prepare your grave, for you are vile.'",
       "links": "<a href='/AIV/23/37/38'>Isa. 37:38</a>; <a href='/AIV/24/51/52'>Jer. 51:52</a>",
@@ -177,39 +109,11 @@
     },
     {
       "pk": 41001015,
-      "translation": "AIV",
-      "book": 41,
-      "bookName": "Nahum",
-      "bookAbbreviation": "Nah",
-      "chapter": 1,
       "verse": 15,
       "text": "Look! On the mountains the feet of one who brings good news, who proclaims peace! Celebrate your festivals, Judah, fulfill your vows! For the wicked will never again invade you; they are completely cut off.",
       "links": "<a href='/AIV/23/52/7'>Isa. 52:7</a>; <a href='/AIV/45/10/15'>Rom. 10:15</a>",
       "comment": "This verse is quoted in Isaiah 52:7 and echoed in Rom. 10:15. 'Good news' and 'peace' point prophetically to the Gospel and Christ’s work. The mention of festivals and vows reveals continuity of worship and covenant faith, fulfilled in Christ who established public, sacramental worship.",
       "sectionHeader": "The Messenger of Good News"
-    }
-  ],
-  "translatedAt": "2025-12-24T09:49:56.474Z",
-  "sections": [
-    {
-      "title": "Introduction and God’s Judgment on His Enemies",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "The LORD’s Protection of Judah and the Downfall of Nineveh",
-      "startVerse": 7,
-      "endVerse": 11
-    },
-    {
-      "title": "The Destruction Decreed and Liberation of Judah",
-      "startVerse": 12,
-      "endVerse": 14
-    },
-    {
-      "title": "The Messenger of Good News",
-      "startVerse": 15,
-      "endVerse": 15
     }
   ]
 }

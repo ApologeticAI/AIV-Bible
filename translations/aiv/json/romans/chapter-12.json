@@ -1,16 +1,13 @@
 {
-  "book": 52,
+  "translation": "AIV",
+  "bookId": "romans",
   "bookName": "Romans",
   "bookAbbreviation": "Rom",
+  "bookNumber": 52,
   "chapter": 12,
   "verses": [
     {
       "pk": 52012001,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 12,
       "verse": 1,
       "text": "Therefore, brothers, I urge you by the mercies of God to present your bodies as a living sacrifice, holy and pleasing to God—this is your spiritual worship.",
       "links": "<a href='/AIV/19/50/14'>Ps. 50:14</a>; <a href='/AIV/46/6/19-20'>1 Cor. 6:19-20</a>; <a href='/AIV/60/2/5'>1 Pet. 2:5</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 52012002,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 12,
       "verse": 2,
       "text": "Do not be conformed to this world, but be transformed by the renewing of your mind, so that you may test and approve what the will of God is—what is good and pleasing and perfect.",
       "links": "<a href='/AIV/49/4/23'>Eph. 4:23</a>; <a href='/AIV/60/1/14'>1 Pet. 1:14</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 52012003,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 12,
       "verse": 3,
       "text": "For by the grace given to me I say to everyone among you not to think of yourself more highly than you ought, but to think with sober judgment, each according to the measure of faith God has assigned.",
       "links": "<a href='/AIV/46/4/7'>1 Cor. 4:7</a>; <a href='/AIV/49/4/7'>Eph. 4:7</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 52012004,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 12,
       "verse": 4,
       "text": "For just as in one body we have many members, and not all the members have the same function,",
       "links": "<a href='/AIV/46/12/12-14'>1 Cor. 12:12-14</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 52012005,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 12,
       "verse": 5,
       "text": "so we, though many, are one body in Christ, and individually members of one another.",
       "links": "<a href='/AIV/46/12/27'>1 Cor. 12:27</a>; <a href='/AIV/49/4/25'>Eph. 4:25</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 52012006,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 12,
       "verse": 6,
       "text": "Having gifts that differ according to the grace given to us, let us use them: if prophecy, in proportion to our faith;",
       "links": "<a href='/AIV/46/12/4-11'>1 Cor. 12:4-11</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 52012007,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 12,
       "verse": 7,
       "text": "if service, in serving; if teaching, in teaching;",
       "links": "<a href='/AIV/60/4/10-11'>1 Pet. 4:10-11</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 52012008,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 12,
       "verse": 8,
       "text": "if exhorting, in exhortation; the one giving, with generosity; the one leading, with diligence; the one showing mercy, with cheerfulness.",
       "links": "<a href='/AIV/47/9/7'>2 Cor. 9:7</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 52012009,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 12,
       "verse": 9,
       "text": "Let love be without hypocrisy. Abhor what is evil; cling to what is good.",
       "links": "<a href='/AIV/19/97/10'>Ps. 97:10</a>; <a href='/AIV/54/1/5'>1 Tim. 1:5</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 52012010,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 12,
       "verse": 10,
       "text": "Be devoted to one another in brotherly love; outdo one another in showing honor.",
       "links": "<a href='/AIV/58/13/1'>Heb. 13:1</a>; <a href='/AIV/50/2/3'>Phil. 2:3</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 52012011,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 12,
       "verse": 11,
       "text": "Do not be lazy in zeal, be fervent in spirit; serve the Lord.",
       "links": "<a href='/AIV/48/6/9'>Gal. 6:9</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 52012012,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 12,
       "verse": 12,
       "text": "Rejoice in hope, be patient in tribulation, be constant in prayer.",
       "links": "<a href='/AIV/42/18/1'>Luke 18:1</a>; <a href='/AIV/59/1/2-4'>Jas. 1:2-4</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 52012013,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 12,
       "verse": 13,
       "text": "Contribute to the needs of the saints and pursue hospitality.",
       "links": "<a href='/AIV/58/13/2-3'>Heb. 13:2-3</a>; <a href='/AIV/60/4/9'>1 Pet. 4:9</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 52012014,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 12,
       "verse": 14,
       "text": "Bless those who persecute you; bless and do not curse them.",
       "links": "<a href='/AIV/40/5/44'>Matt. 5:44</a>; <a href='/AIV/60/3/9'>1 Pet. 3:9</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 52012015,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 12,
       "verse": 15,
       "text": "Rejoice with those who rejoice, weep with those who weep.",
       "links": "<a href='/AIV/46/12/26'>1 Cor. 12:26</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 52012016,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 12,
       "verse": 16,
       "text": "Live in harmony with one another. Do not be haughty, but associate with the lowly. Do not be wise in your own sight.",
       "links": "<a href='/AIV/20/3/7'>Prov. 3:7</a>; <a href='/AIV/50/2/2-3'>Phil. 2:2-3</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 52012017,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 12,
       "verse": 17,
       "text": "Repay no one evil for evil. Give careful thought to do what is honorable in the sight of all people.",
       "links": "<a href='/AIV/20/20/22'>Prov. 20:22</a>; <a href='/AIV/40/5/39'>Matt. 5:39</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 52012018,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 12,
       "verse": 18,
       "text": "If possible, so far as it depends on you, live peaceably with all people.",
       "links": "<a href='/AIV/58/12/14'>Heb. 12:14</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 52012019,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 12,
       "verse": 19,
       "text": "Beloved, do not avenge yourselves, but leave room for the wrath of God, for it is written, 'Vengeance is mine, I will repay, says the Lord.'",
       "links": "<a href='/AIV/05/32/35'>Deut. 32:35</a>; <a href='/AIV/58/10/30'>Heb. 10:30</a>",
@@ -237,11 +144,6 @@
     },
     {
       "pk": 52012020,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 12,
       "verse": 20,
       "text": "But if your enemy is hungry, feed him; if he is thirsty, give him something to drink. For by doing so you will heap burning coals on his head.",
       "links": "<a href='/AIV/20/25/21-22'>Prov. 25:21-22</a>; <a href='/AIV/40/5/44-45'>Matt. 5:44-45</a>",
@@ -249,33 +151,10 @@
     },
     {
       "pk": 52012021,
-      "translation": "AIV",
-      "book": 52,
-      "bookName": "Romans",
-      "bookAbbreviation": "Rom",
-      "chapter": 12,
       "verse": 21,
       "text": "Do not be overcome by evil, but overcome evil with good.",
       "links": "<a href='/AIV/40/6/13'>Matt. 6:13</a>; <a href='/AIV/19/37/27'>Ps. 37:27</a>",
       "comment": "The Christian life involves actively choosing good over evil, reflecting Christ’s victory on the cross (see Matt. 6:13). This victory over evil through good forms the core of authentic Christian witness and service, and is integral to both personal and communal holiness."
-    }
-  ],
-  "translatedAt": "2025-12-24T11:41:41.838Z",
-  "sections": [
-    {
-      "title": "A Living Sacrifice to God",
-      "startVerse": 1,
-      "endVerse": 2
-    },
-    {
-      "title": "Many Members in One Body",
-      "startVerse": 3,
-      "endVerse": 8
-    },
-    {
-      "title": "Marks of the Christian Life",
-      "startVerse": 9,
-      "endVerse": 21
     }
   ]
 }

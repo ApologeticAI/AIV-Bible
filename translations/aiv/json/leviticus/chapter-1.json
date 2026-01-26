@@ -1,16 +1,13 @@
 {
-  "book": 3,
+  "translation": "AIV",
+  "bookId": "leviticus",
   "bookName": "Leviticus",
   "bookAbbreviation": "Lev",
+  "bookNumber": 3,
   "chapter": 1,
   "verses": [
     {
       "pk": 3001001,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 1,
       "verse": 1,
       "text": "The LORD called to Moses and spoke to him from the Tent of Meeting, saying,",
       "links": "<a href='/AIV/2/25/22'>Ex. 25:22</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 3001002,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 1,
       "verse": 2,
       "text": "\"Speak to the sons of Israel and say to them: When any one of you brings an offering to the LORD, you shall bring your offering of livestock from the herd or from the flock.",
       "links": "<a href='/AIV/1/4/4'>Gen. 4:4</a>; <a href='/AIV/3/22/19'>Lev. 22:19</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 3001003,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 1,
       "verse": 3,
       "text": "If his offering is a burnt offering from the herd, he shall offer a male without defect; he shall bring it to the entrance of the Tent of Meeting, that he may be accepted before the LORD.",
       "links": "<a href='/AIV/3/22/20'>Lev. 22:20</a>; <a href='/AIV/1/8/20-21'>Gen. 8:20-21</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 3001004,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 1,
       "verse": 4,
       "text": "He shall lay his hand on the head of the burnt offering, and it shall be accepted for him to make atonement for him.",
       "links": "<a href='/AIV/3/4/15'>Lev. 4:15</a>; <a href='/AIV/23/53/6'>Isa. 53:6</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 3001005,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 1,
       "verse": 5,
       "text": "Then he shall slaughter the bull before the LORD; and Aaron's sons, the priests, shall offer the blood and sprinkle the blood all around on the altar that is at the entrance of the Tent of Meeting.",
       "links": "<a href='/AIV/3/17/11'>Lev. 17:11</a>; <a href='/AIV/58/9/22'>Heb. 9:22</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 3001006,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 1,
       "verse": 6,
       "text": "He shall flay the burnt offering and cut it into pieces.",
       "links": "<a href='/AIV/3/8/20'>Lev. 8:20</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 3001007,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 1,
       "verse": 7,
       "text": "The sons of Aaron the priest shall put fire on the altar and arrange wood on the fire.",
       "links": "<a href='/AIV/3/6/12'>Lev. 6:12</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 3001008,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 1,
       "verse": 8,
       "text": "Then Aaron’s sons, the priests, shall arrange the pieces, the head and the fat, on the wood that is on the fire on the altar.",
       "links": "<a href='/AIV/3/9/13-14'>Lev. 9:13–14</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 3001009,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 1,
       "verse": 9,
       "text": "But its entrails and its legs he shall wash with water. And the priest shall burn all of it on the altar as a burnt offering, a food offering with a pleasing aroma to the LORD.",
       "links": "<a href='/AIV/2/29/18'>Ex. 29:18</a>; <a href='/AIV/50/4/18'>Phil. 4:18</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 3001010,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 1,
       "verse": 10,
       "text": "If his offering is from the flock, from the sheep or from the goats, as a burnt offering, he shall offer a male without defect.",
       "links": "<a href='/AIV/3/22/19'>Lev. 22:19</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 3001011,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 1,
       "verse": 11,
       "text": "He shall slaughter it on the north side of the altar before the LORD, and Aaron’s sons, the priests, shall sprinkle its blood around on the altar.",
       "links": "<a href='/AIV/3/5/9'>Lev. 5:9</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 3001012,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 1,
       "verse": 12,
       "text": "He shall cut it into pieces, with its head and its fat, and the priest shall arrange them on the wood that is on the fire on the altar.",
       "links": "<a href='/AIV/3/8/18-21'>Lev. 8:18-21</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 3001013,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 1,
       "verse": 13,
       "text": "But the entrails and the legs he shall wash with water, and the priest shall offer all of it and burn it on the altar; it is a burnt offering, a food offering with a pleasing aroma to the LORD.",
       "links": "<a href='/AIV/2/29/25'>Ex. 29:25</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 3001014,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 1,
       "verse": 14,
       "text": "If his offering to the LORD is a burnt offering of birds, then he shall bring his offering of turtledoves or young pigeons.",
       "links": "<a href='/AIV/3/5/7'>Lev. 5:7</a>; <a href='/AIV/42/2/24'>Luke 2:24</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 3001015,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 1,
       "verse": 15,
       "text": "The priest shall bring it to the altar and wring off its head and burn it on the altar, and its blood shall be drained out at the side of the altar.",
       "links": "<a href='/AIV/2/29/16'>Ex. 29:16</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 3001016,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 1,
       "verse": 16,
       "text": "He shall remove its crop with its contents and throw it beside the altar on the east side, to the place for ashes.",
       "links": "<a href='/AIV/3/6/10'>Lev. 6:10</a>",
@@ -201,33 +123,10 @@
     },
     {
       "pk": 3001017,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 1,
       "verse": 17,
       "text": "Then he shall tear it open by its wings, but shall not divide it completely. The priest shall burn it on the altar, on the wood that is on the fire. It is a burnt offering, a food offering, with a pleasing aroma to the LORD.",
       "links": "<a href='/AIV/1/8/20-21'>Gen. 8:20–21</a>; <a href='/AIV/49/5/2'>Eph. 5:2</a>",
       "comment": "Even the small details are divinely ordained for worship. The aroma pleasing to the LORD foreshadows Christian teaching that sacrificial love, above all, is pleasing to God. The unity and order in sacrifice anticipate the order of later Christian liturgy."
-    }
-  ],
-  "translatedAt": "2025-12-24T01:10:09.082Z",
-  "sections": [
-    {
-      "title": "Laws Regarding Burnt Offerings",
-      "startVerse": 1,
-      "endVerse": 9
-    },
-    {
-      "title": "Burnt Offering of Sheep or Goats",
-      "startVerse": 10,
-      "endVerse": 13
-    },
-    {
-      "title": "Burnt Offering of Birds",
-      "startVerse": 14,
-      "endVerse": 17
     }
   ]
 }

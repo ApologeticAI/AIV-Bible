@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 134,
   "verses": [
     {
       "pk": 23134001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 134,
       "verse": 1,
       "text": "Come, bless the LORD, all you servants of the LORD, who stand by night in the house of the LORD.",
       "links": "<a href='/AIV/19/135/1-2'>Ps. 135:1-2</a>; <a href='/AIV/14/29/11'>2 Chr. 29:11</a>; <a href='/AIV/19/42/8'>Ps. 42:8</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23134002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 134,
       "verse": 2,
       "text": "Lift up your hands in the holy place and bless the LORD.",
       "links": "<a href='/AIV/19/28/2'>Ps. 28:2</a>; <a href='/AIV/54/2/8'>1 Tim. 2:8</a>; <a href='/AIV/19/63/4'>Ps. 63:4</a>",
@@ -31,23 +23,10 @@
     },
     {
       "pk": 23134003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 134,
       "verse": 3,
       "text": "May the LORD bless you from Zion, He who made heaven and earth.",
       "links": "<a href='/AIV/19/128/5'>Ps. 128:5</a>; <a href='/AIV/19/121/2'>Ps. 121:2</a>; <a href='/AIV/19/24/1'>Ps. 24:1</a>",
       "comment": "The psalm concludes with a priestly benediction, invoking blessing from Zion—the place of God's dwelling and the spiritual center of worship. The reference to the Creator highlights the Lord's universal majesty and authority. Spiritually, Zion becomes the figure of God's ultimate dwelling among His people, fulfilled in the new covenant community. The reciprocal relationship—servants bless God, and God blesses them—is central to biblical theology, echoing the continual exchange of blessing in worship that reaches its fullness in Christ, our true mediator (<a href='/AIV/54/2/5'>1 Tim. 2:5</a>)."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:45:08.967Z",
-  "sections": [
-    {
-      "title": "Exhortation to Nightly Praise",
-      "startVerse": 1,
-      "endVerse": 3
     }
   ]
 }

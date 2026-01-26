@@ -1,16 +1,13 @@
 {
-  "book": 1,
+  "translation": "AIV",
+  "bookId": "genesis",
   "bookName": "Genesis",
   "bookAbbreviation": "Gen",
+  "bookNumber": 1,
   "chapter": 28,
   "verses": [
     {
       "pk": 1028001,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 28,
       "verse": 1,
       "text": "Then Isaac called Jacob, blessed him, and commanded him, saying, 'You must not take a wife from the daughters of Canaan.'",
       "links": "<a href='/AIV/1/24/3'>Gen. 24:3</a>; <a href='/AIV/6/23/12-13'>Josh. 23:12-13</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 1028002,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 28,
       "verse": 2,
       "text": "'Get up, go to Paddan-Aram, to the house of Bethuel your mother’s father, and marry one of the daughters of Laban, your mother’s brother.'",
       "links": "<a href='/AIV/1/24/4'>Gen. 24:4</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 1028003,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 28,
       "verse": 3,
       "text": "'May God Almighty bless you, make you fruitful and multiply you, so that you will become a company of peoples.'",
       "links": "<a href='/AIV/1/17/1-2'>Gen. 17:1-2</a>; <a href='/AIV/1/35/11'>Gen. 35:11</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 1028004,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 28,
       "verse": 4,
       "text": "'And may he give you the blessing of Abraham, to you and to your descendants with you, so that you may possess the land where you now live as a foreigner, the land God gave to Abraham.'",
       "links": "<a href='/AIV/1/12/7'>Gen. 12:7</a>; <a href='/AIV/1/13/15'>Gen. 13:15</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 1028005,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 28,
       "verse": 5,
       "text": "So Isaac sent Jacob away, and he went to Paddan-Aram, to Laban, son of Bethuel the Aramean, the brother of Rebekah, mother of Jacob and Esau.",
       "links": "<a href='/AIV/1/25/20'>Gen. 25:20</a>; <a href='/AIV/1/24/29'>Gen. 24:29</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 1028006,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 28,
       "verse": 6,
       "text": "Now Esau saw that Isaac had blessed Jacob and sent him away to Paddan-Aram to take a wife from there, and that when he blessed him he commanded, ‘You must not take a wife from the daughters of Canaan,’",
       "links": "<a href='/AIV/1/27/46'>Gen. 27:46</a>; <a href='/AIV/1/26/34-35'>Gen. 26:34-35</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 1028007,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 28,
       "verse": 7,
       "text": "and that Jacob had obeyed his father and mother and had gone to Paddan-Aram.",
       "links": "<a href='/AIV/1/28/2'>Gen. 28:2</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 1028008,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 28,
       "verse": 8,
       "text": "So Esau saw that the daughters of Canaan did not please Isaac his father.",
       "links": "<a href='/AIV/1/26/35'>Gen. 26:35</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 1028009,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 28,
       "verse": 9,
       "text": "So Esau went to Ishmael and married, besides his other wives, Mahalath the daughter of Ishmael, Abraham’s son, the sister of Nebaioth.",
       "links": "<a href='/AIV/1/25/13'>Gen. 25:13</a>; <a href='/AIV/1/36/3'>Gen. 36:3</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 1028010,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 28,
       "verse": 10,
       "text": "Jacob left Beersheba and went toward Haran.",
       "links": "<a href='/AIV/1/27/43'>Gen. 27:43</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 1028011,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 28,
       "verse": 11,
       "text": "He reached a certain place and stayed there for the night, because the sun had set. Taking one of the stones of that place, he put it under his head and lay down in that place to sleep.",
       "links": "<a href='/AIV/1/28/18'>Gen. 28:18</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 1028012,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 28,
       "verse": 12,
       "text": "And he dreamed, and behold, a stairway was set up on the earth, and the top of it reached to heaven. And there the angels of God were ascending and descending on it.",
       "links": "<a href='/AIV/43/1/51'>John 1:51</a>; <a href='/AIV/1/32/1-2'>Gen. 32:1-2</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 1028013,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 28,
       "verse": 13,
       "text": "And behold, the LORD stood above it and said, 'I am the LORD, the God of Abraham your father and the God of Isaac. The land on which you are lying, I will give to you and your descendants.'",
       "links": "<a href='/AIV/2/3/6'>Ex. 3:6</a>; <a href='/AIV/1/13/15'>Gen. 13:15</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 1028014,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 28,
       "verse": 14,
       "text": "'Your descendants will be like the dust of the earth, and you will spread out to the west and to the east, to the north and to the south. All the families of the earth will be blessed in you and in your descendants.'",
       "links": "<a href='/AIV/1/13/16'>Gen. 13:16</a>; <a href='/AIV/1/12/3'>Gen. 12:3</a>; <a href='/AIV/48/3/8'>Gal. 3:8</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 1028015,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 28,
       "verse": 15,
       "text": "'Behold, I am with you and will keep you wherever you go, and will bring you back to this land. I will not leave you until I have done what I have promised you.'",
       "links": "<a href='/AIV/1/26/24'>Gen. 26:24</a>; <a href='/AIV/40/28/20'>Matt. 28:20</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 1028016,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 28,
       "verse": 16,
       "text": "Then Jacob woke from his sleep and said, 'Surely the LORD is in this place, and I did not know it.'",
       "links": "<a href='/AIV/2/3/5'>Ex. 3:5</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 1028017,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 28,
       "verse": 17,
       "text": "He was afraid and said, 'How awesome is this place! This is none other than the house of God, and this is the gate of heaven.'",
       "links": "<a href='/AIV/1/28/22'>Gen. 28:22</a>; <a href='/AIV/19/84/1'>Ps. 84:1</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 1028018,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 28,
       "verse": 18,
       "text": "Early in the morning Jacob took the stone he had put under his head, set it up as a pillar, and poured oil on top of it.",
       "links": "<a href='/AIV/1/31/45'>Gen. 31:45</a>; <a href='/AIV/1/35/14'>Gen. 35:14</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 1028019,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 28,
       "verse": 19,
       "text": "He called the name of that place Bethel, though previously the city was called Luz.",
       "links": "<a href='/AIV/1/12/8'>Gen. 12:8</a>; <a href='/AIV/1/35/7'>Gen. 35:7</a>",
@@ -237,11 +144,6 @@
     },
     {
       "pk": 1028020,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 28,
       "verse": 20,
       "text": "Then Jacob made a vow, saying, 'If God will be with me and will keep me on this journey that I go, and will give me bread to eat and clothing to wear,",
       "links": "<a href='/AIV/1/31/13'>Gen. 31:13</a>",
@@ -249,11 +151,6 @@
     },
     {
       "pk": 1028021,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 28,
       "verse": 21,
       "text": "'so that I come again to my father’s house in peace, then the LORD shall be my God,'",
       "links": "<a href='/AIV/1/33/18-20'>Gen. 33:18-20</a>",
@@ -261,33 +158,10 @@
     },
     {
       "pk": 1028022,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 28,
       "verse": 22,
       "text": "'and this stone, which I have set up as a pillar, will be God’s house. And of all that you give me I will surely give a tenth to you.'",
       "links": "<a href='/AIV/1/14/20'>Gen. 14:20</a>; <a href='/AIV/3/27/30'>Lev. 27:30</a>; <a href='/AIV/58/7/8'>Heb. 7:8</a>",
       "comment": "Jacob’s vow to tithe affirms the principle of giving to God from one’s possessions. The stone as a sign of God’s house anticipates the later establishment of formal places of worship and the call to generosity and stewardship as part of worship."
-    }
-  ],
-  "translatedAt": "2025-12-24T00:25:58.269Z",
-  "sections": [
-    {
-      "title": "Jacob Sent to Paddan-Aram",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "Esau Marries Mahalath",
-      "startVerse": 6,
-      "endVerse": 9
-    },
-    {
-      "title": "Jacob’s Dream at Bethel",
-      "startVerse": 10,
-      "endVerse": 22
     }
   ]
 }

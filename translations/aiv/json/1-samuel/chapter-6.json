@@ -1,16 +1,13 @@
 {
-  "book": 9,
+  "translation": "AIV",
+  "bookId": "1-samuel",
   "bookName": "1 Samuel",
-  "bookAbbreviation": "1Sam",
+  "bookAbbreviation": "1 Sam",
+  "bookNumber": 9,
   "chapter": 6,
   "verses": [
     {
       "pk": 9006001,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 6,
       "verse": 1,
       "text": "The ark of the Lord remained in the land of the Philistines for seven months.",
       "links": "<a href='/AIV/9/5/1'>1Sam 5:1</a>; <a href='/AIV/24/25/11'>Jer. 25:11</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 9006002,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 6,
       "verse": 2,
       "text": "And the Philistines called for the priests and the diviners, saying, 'What should we do with the ark of the Lord? Tell us how we should send it back to its place.'",
       "links": "<a href='/AIV/2/7/11'>Exod. 7:11</a>; <a href='/AIV/21/10/15'>Eccl. 10:15</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 9006003,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 6,
       "verse": 3,
       "text": "They responded, 'If you send away the ark of the God of Israel, do not send it empty. You must certainly return with it a guilt offering. Then you will be healed, and you shall know why His hand has not been removed from you.'",
       "links": "<a href='/AIV/3/5/14'>Lev. 5:14-19</a>; <a href='/AIV/9/5/6'>1Sam 5:6</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 9006004,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 6,
       "verse": 4,
       "text": "And they asked, 'What is the guilt offering that we should return to Him?' They answered, 'Five golden tumors and five golden mice, according to the number of the rulers of the Philistines. For the same plague was on all of you and on your rulers.'",
       "links": "<a href='/AIV/9/5/6'>1Sam 5:6</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 9006005,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 6,
       "verse": 5,
       "text": "So make images of your tumors and images of your mice that ravage the land, and give glory to the God of Israel. Perhaps He will lighten His hand from you, your gods, and your land.",
       "links": "<a href='/AIV/2/8/19'>Exod. 8:19</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 9006006,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 6,
       "verse": 6,
       "text": "Why should you harden your hearts as the Egyptians and Pharaoh hardened their hearts? When He dealt harshly with them, did they not let the Israelites go, and they departed?",
       "links": "<a href='/AIV/2/7/13'>Exod. 7:13</a>; <a href='/AIV/2/12/31'>Exod. 12:31</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 9006007,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 6,
       "verse": 7,
       "text": "Now then, make a new cart and take two milk cows on which there has never been a yoke. Harness the cows to the cart, but take their calves home, away from them.",
       "links": "<a href='/AIV/4/19/2'>Num. 19:2</a>; <a href='/AIV/10/6/3'>2 Sam. 6:3</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 9006008,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 6,
       "verse": 8,
       "text": "Take the ark of the Lord and put it on the cart. Place the golden objects that you are returning to Him as a guilt offering in a box beside it. Then send it off, and let it go on its way.",
       "links": "<a href='/AIV/9/6/4'>1Sam 6:4</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 9006009,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 6,
       "verse": 9,
       "text": "'And watch: if it goes up the road to its own land, to Beth-shemesh, then He has done us this great evil. But if not, then we shall know that it was not His hand that struck us; it happened to us by chance.'",
       "links": "<a href='/AIV/9/5/10'>1Sam 5:10</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 9006010,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 6,
       "verse": 10,
       "text": "The men did so, and took two milk cows, harnessed them to the cart, and shut up their calves at home.",
       "links": "<a href='/AIV/9/6/7'>1Sam 6:7</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 9006011,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 6,
       "verse": 11,
       "text": "They put the ark of the Lord on the cart, along with the box containing the golden mice and images of their tumors.",
       "links": "<a href='/AIV/9/6/8'>1Sam 6:8</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 9006012,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 6,
       "verse": 12,
       "text": "And the cows headed straight for the road to Beth-shemesh. They went along the highway, lowing as they went, and did not turn to the right or the left. The rulers of the Philistines followed them as far as the border of Beth-shemesh.",
       "links": "<a href='/AIV/9/6/9'>1Sam 6:9</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 9006013,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 6,
       "verse": 13,
       "text": "Now the people of Beth-shemesh were reaping their wheat harvest in the valley. When they looked up and saw the ark, they rejoiced at the sight.",
       "links": "<a href='/AIV/9/6/15'>1Sam 6:15</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 9006014,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 6,
       "verse": 14,
       "text": "The cart came into the field of Joshua of Beth-shemesh and stopped there. A large stone was there. They split the wood of the cart and offered the cows as a burnt offering to the Lord.",
       "links": "<a href='/AIV/7/13/19'>Judg. 13:19</a>; <a href='/AIV/1/22/9'>Gen. 22:9</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 9006015,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 6,
       "verse": 15,
       "text": "The Levites took down the ark of the Lord and the box that was beside it, containing the golden objects, and placed them on the large stone. The men of Beth-shemesh offered burnt offerings and made sacrifices to the Lord on that day.",
       "links": "<a href='/AIV/4/4/15'>Num. 4:15</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 9006016,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 6,
       "verse": 16,
       "text": "When the five rulers of the Philistines saw this, they returned that same day to Ekron.",
       "links": "<a href='/AIV/9/5/10'>1Sam 5:10</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 9006017,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 6,
       "verse": 17,
       "text": "These are the golden tumors that the Philistines returned as a guilt offering to the Lord: one for Ashdod, one for Gaza, one for Ashkelon, one for Gath, and one for Ekron.",
       "links": "<a href='/AIV/9/6/4'>1Sam 6:4</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 9006018,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 6,
       "verse": 18,
       "text": "And the golden mice, according to the number of all the cities of the Philistines under the rule of the five rulers, both fortified cities and country villages, even to the great stone on which they set the ark of the Lord. This stone remains to this day in the field of Joshua of Beth-shemesh.",
       "links": "<a href='/AIV/9/6/14'>1Sam 6:14</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 9006019,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 6,
       "verse": 19,
       "text": "But God struck some of the men of Beth-shemesh, because they looked into the ark of the Lord. He struck down seventy men; the people mourned because the Lord had struck the people with a great blow.",
       "links": "<a href='/AIV/4/4/15'>Num. 4:15</a>; <a href='/AIV/10/6/7'>2 Sam. 6:7</a>",
@@ -238,11 +145,6 @@
     },
     {
       "pk": 9006020,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 6,
       "verse": 20,
       "text": "The men of Beth-shemesh said, 'Who is able to stand before the Lord, this holy God? And to whom shall He go up from us?'",
       "links": "<a href='/AIV/19/76/7'>Ps. 76:7</a>; <a href='/AIV/2/19/21'>Exod. 19:21</a>",
@@ -250,38 +152,10 @@
     },
     {
       "pk": 9006021,
-      "translation": "AIV",
-      "book": 9,
-      "bookName": "1 Samuel",
-      "bookAbbreviation": "1Sam",
-      "chapter": 6,
       "verse": 21,
       "text": "So they sent messengers to the inhabitants of Kiriath-jearim, saying, 'The Philistines have returned the ark of the Lord; come down and take it up to you.'",
       "links": "<a href='/AIV/9/7/1'>1Sam 7:1</a>",
       "comment": "The arc is received among a prepared people. This echoes the importance of readiness and proper preparation when hosting the presence of the Lord—a principle embodied in reverent worship and discipline."
-    }
-  ],
-  "translatedAt": "2025-12-24T02:51:40.876Z",
-  "sections": [
-    {
-      "title": "The Philistines Decide to Return the Ark",
-      "startVerse": 1,
-      "endVerse": 9
-    },
-    {
-      "title": "The Ark Sent Back to Israel",
-      "startVerse": 10,
-      "endVerse": 12
-    },
-    {
-      "title": "The Ark at Beth-shemesh",
-      "startVerse": 13,
-      "endVerse": 18
-    },
-    {
-      "title": "Judgment on the Men of Beth-shemesh",
-      "startVerse": 19,
-      "endVerse": 21
     }
   ]
 }

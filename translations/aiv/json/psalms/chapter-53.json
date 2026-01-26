@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 53,
   "verses": [
     {
       "pk": 23053001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 53,
       "verse": 1,
       "text": "The fool says in his heart, “There is no God.” They are corrupt and commit evil injustice; there is no one who does good.",
       "links": "<a href='/AIV/19/14/1'>Ps. 14:1</a>; <a href='/AIV/45/3/10-12'>Rom. 3:10-12</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23053002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 53,
       "verse": 2,
       "text": "God looks down from heaven on the children of man, to see if there is anyone who understands, who seeks after God.",
       "links": "<a href='/AIV/19/14/2'>Ps. 14:2</a>; <a href='/AIV/1/6/12'>Gen. 6:12</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23053003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 53,
       "verse": 3,
       "text": "All have turned away; together they have become corrupt. There is none who does good, not even one.",
       "links": "<a href='/AIV/19/14/3'>Ps. 14:3</a>; <a href='/AIV/45/3/12'>Rom. 3:12</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23053004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 53,
       "verse": 4,
       "text": "Do all those who do evil never understand, who eat up my people as they eat bread and do not call upon God?",
       "links": "<a href='/AIV/19/14/4'>Ps. 14:4</a>; <a href='/AIV/33/3/3'>Mic. 3:3</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23053005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 53,
       "verse": 5,
       "text": "There they are, overwhelmed with fear, where there was nothing to fear, for God scatters the bones of those who encamp against you; you put them to shame, for God has rejected them.",
       "links": "<a href='/AIV/19/14/5'>Ps. 14:5</a>; <a href='/AIV/24/8/1-2'>Jer. 8:1-2</a>",
@@ -67,29 +44,11 @@
     },
     {
       "pk": 23053006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 53,
       "verse": 6,
       "text": "Oh, that salvation for Israel would come out of Zion! When God restores the fortunes of His people, let Jacob rejoice, let Israel be glad.",
       "links": "<a href='/AIV/19/14/7'>Ps. 14:7</a>; <a href='/AIV/45/11/26'>Rom. 11:26</a>; <a href='/AIV/23/2/3'>Isa. 2:3</a>",
       "comment": "Zion is symbolically associated with God's dwelling and the locus of true worship. This verse expresses longing for salvation coming from the place God has chosen. Christians see its fulfillment in Christ, who brings restoration and joy to all God's people (cf. Romans 11:26). The spiritual and eschatological reading is that the fullness of salvation and worship is gathered in the community God has established, with Christ at its center.",
       "sectionHeader": "Prayer for Deliverance and Restoration"
-    }
-  ],
-  "translatedAt": "2025-12-24T06:17:11.602Z",
-  "sections": [
-    {
-      "title": "Universal Corruption and Folly",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "Prayer for Deliverance and Restoration",
-      "startVerse": 6,
-      "endVerse": 6
     }
   ]
 }

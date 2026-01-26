@@ -1,16 +1,13 @@
 {
-  "book": 35,
+  "translation": "AIV",
+  "bookId": "hosea",
   "bookName": "Hosea",
   "bookAbbreviation": "Hos",
+  "bookNumber": 35,
   "chapter": 13,
   "verses": [
     {
       "pk": 35013001,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 13,
       "verse": 1,
       "text": "When Ephraim spoke, people trembled; he was exalted in Israel. But he became guilty by worshiping Baal, and so he died.",
       "links": "<a href='/AIV/28/11/7'>Hos. 11:7</a>; <a href='/AIV/09/15/23'>1 Sam. 15:23</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 35013002,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 13,
       "verse": 2,
       "text": "And now they keep on sinning and make a cast image for themselves, idols of silver made according to their understanding, all of them the work of artisans. “Sacrifice to these,” they say. People are kissing calves!",
       "links": "<a href='/AIV/02/32/4-6'>Exod. 32:4-6</a>; <a href='/AIV/11/17/30'>1 Kings 17:30</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 35013003,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 13,
       "verse": 3,
       "text": "Therefore they will be like the morning mist, like dew that quickly disappears, like chaff blown away from the threshing floor, like smoke rising from a window.",
       "links": "<a href='/AIV/19/68/2'>Ps. 68:2</a>; <a href='/AIV/23/17/13'>Isa. 17:13</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 35013004,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 13,
       "verse": 4,
       "text": "Yet I am the LORD your God since the land of Egypt, and you shall acknowledge no god but Me. There is no savior besides Me.",
       "links": "<a href='/AIV/02/20/2-3'>Exod. 20:2-3</a>; <a href='/AIV/23/43/11'>Isa. 43:11</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 35013005,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 13,
       "verse": 5,
       "text": "I cared for you in the wilderness, in the dry and thirsty land.",
       "links": "<a href='/AIV/05/08/2'>Deut. 8:2</a>; <a href='/AIV/19/78/52'>Ps. 78:52</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 35013006,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 13,
       "verse": 6,
       "text": "When they had pasture, they became satisfied; when they were satisfied, their hearts became proud, so they forgot Me.",
       "links": "<a href='/AIV/05/06/12'>Deut. 6:12</a>; <a href='/AIV/20/30/9'>Prov. 30:9</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 35013007,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 13,
       "verse": 7,
       "text": "So I will become like a lion to them, like a leopard lurking by the path.",
       "links": "<a href='/AIV/23/31/4'>Isa. 31:4</a>; <a href='/AIV/25/3/10'>Lam. 3:10</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 35013008,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 13,
       "verse": 8,
       "text": "I will attack them like a bear robbed of her cubs, I will tear open their hearts. Like a lion I will devour them; wild animals will rip them apart.",
       "links": "<a href='/AIV/28/5/14'>Hos. 5:14</a>; <a href='/AIV/23/38/13'>Isa. 38:13</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 35013009,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 13,
       "verse": 9,
       "text": "You are destroyed, Israel, because you are against Me, against your helper.",
       "links": "<a href='/AIV/28/4/6'>Hos. 4:6</a>; <a href='/AIV/05/33/29'>Deut. 33:29</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 35013010,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 13,
       "verse": 10,
       "text": "Where is your king now, that he may save you? Where are your rulers, all those you asked for? Let them deliver you in your time of trouble.",
       "links": "<a href='/AIV/09/08/19'>1 Sam. 8:19</a>; <a href='/AIV/28/10/3'>Hos. 10:3</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 35013011,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 13,
       "verse": 11,
       "text": "I gave you a king in My anger, and in My wrath I took him away.",
       "links": "<a href='/AIV/09/15/26'>1 Sam. 15:26</a>; <a href='/AIV/28/10/7'>Hos. 10:7</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 35013012,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 13,
       "verse": 12,
       "text": "Ephraim’s guilt is stored up; his sins are kept in record.",
       "links": "<a href='/AIV/19/130/3'>Ps. 130:3</a>; <a href='/AIV/40/12/36'>Matt. 12:36</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 35013013,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 13,
       "verse": 13,
       "text": "Labor pains will come for him, but he is an unwise son, for when the time comes, he does not position himself to be born.",
       "links": "<a href='/AIV/23/37/3'>Isa. 37:3</a>; <a href='/AIV/24/04/31'>Jer. 4:31</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 35013014,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 13,
       "verse": 14,
       "text": "Should I ransom them from the power of Sheol? Should I rescue them from death? O death, where are your plagues? O Sheol, where is your destruction? Compassion is hidden from My eyes.",
       "links": "<a href='/AIV/46/15/54-55'>1 Cor. 15:54-55</a>; <a href='/AIV/19/49/15'>Ps. 49:15</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 35013015,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 13,
       "verse": 15,
       "text": "Though he flourishes among brothers, an east wind will come—the wind of the LORD rising from the desert. His spring will dry up, his fountain will be emptied. It will strip away his treasury of every precious thing.",
       "links": "<a href='/AIV/28/12/1'>Hos. 12:1</a>; <a href='/AIV/24/13/24'>Jer. 13:24</a>",
@@ -189,39 +116,11 @@
     },
     {
       "pk": 35013016,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 13,
       "verse": 16,
       "text": "Samaria will bear her guilt, because she rebelled against her God. Her people will fall by the sword, their infants will be dashed to the ground, and pregnant women ripped open.",
       "links": "<a href='/AIV/12/08/12'>2 Kings 8:12</a>; <a href='/AIV/28/10/14'>Hos. 10:14</a>",
       "comment": "Graphic prophecy of judgment for rebellion. The severity intends to awaken repentance and the desire for restoration, foreshadowing the mercy extended in the new covenant through Christ's sacrifice and the promise of healing (Isa. 53:5).",
       "sectionHeader": "Destruction of Samaria"
-    }
-  ],
-  "translatedAt": "2025-12-28T08:15:14.906Z",
-  "sections": [
-    {
-      "title": "Idolatry and Its Consequences",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "The LORD’s Judgment on Israel",
-      "startVerse": 7,
-      "endVerse": 9
-    },
-    {
-      "title": "The Futility of Kings and the Certainty of Punishment",
-      "startVerse": 10,
-      "endVerse": 15
-    },
-    {
-      "title": "Destruction of Samaria",
-      "startVerse": 16,
-      "endVerse": 16
     }
   ]
 }

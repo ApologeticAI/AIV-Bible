@@ -1,16 +1,13 @@
 {
-  "book": 1,
+  "translation": "AIV",
+  "bookId": "genesis",
   "bookName": "Genesis",
   "bookAbbreviation": "Gen",
+  "bookNumber": 1,
   "chapter": 16,
   "verses": [
     {
       "pk": 1016001,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 16,
       "verse": 1,
       "text": "Now Sarai, Abram’s wife, had borne him no children. She had an Egyptian servant whose name was Hagar.",
       "links": "<a href='/AIV/1/12/16'>Gen 12:16</a>; <a href='/AIV/1/21/9-21'>Gen 21:9-21</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 1016002,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 16,
       "verse": 2,
       "text": "Sarai said to Abram, 'Behold now, the Lord has prevented me from bearing children. Go in to my servant; perhaps I shall obtain children by her.' And Abram listened to the voice of Sarai.",
       "links": "<a href='/AIV/1/30/3'>Gen 30:3</a>; <a href='/AIV/1/3/17'>Gen 3:17</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 1016003,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 16,
       "verse": 3,
       "text": "So after Abram had lived ten years in the land of Canaan, Sarai, Abram’s wife, took Hagar the Egyptian, her servant, and gave her to Abram her husband as a wife.",
       "links": "<a href='/AIV/1/12/5'>Gen 12:5</a>; <a href='/AIV/1/25/6'>Gen 25:6</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 1016004,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 16,
       "verse": 4,
       "text": "And he went in to Hagar, and she conceived. And when she saw that she had conceived, she looked with contempt on her mistress.",
       "links": "<a href='/AIV/1/30/4-5'>Gen 30:4-5</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 1016005,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 16,
       "verse": 5,
       "text": "And Sarai said to Abram, 'May the wrong done to me be on you! I gave my servant to your embrace, and when she saw that she had conceived, she looked on me with contempt. May the Lord judge between you and me!'",
       "links": "<a href='/AIV/1/31/53'>Gen 31:53</a>; <a href='/AIV/7/11/27'>Judg 11:27</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 1016006,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 16,
       "verse": 6,
       "text": "But Abram said to Sarai, 'Behold, your servant is in your hand; do to her as you see fit.' Then Sarai dealt harshly with her, and she fled from her.",
       "links": "<a href='/AIV/1/13/9'>Gen 13:9</a>; <a href='/AIV/1/21/10'>Gen 21:10</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 1016007,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 16,
       "verse": 7,
       "text": "The angel of the Lord found her by a spring of water in the wilderness, the spring on the way to Shur.",
       "links": "<a href='/AIV/1/21/17'>Gen 21:17</a>; <a href='/AIV/2/3/2'>Exod 3:2</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 1016008,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 16,
       "verse": 8,
       "text": "And he said, 'Hagar, servant of Sarai, where have you come from and where are you going?' She said, 'I am fleeing from my mistress Sarai.'",
       "links": "<a href='/AIV/1/3/9'>Gen 3:9</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 1016009,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 16,
       "verse": 9,
       "text": "The angel of the Lord said to her, 'Return to your mistress and submit yourself under her hand.'",
       "links": "<a href='/AIV/1/21/12'>Gen 21:12</a>; <a href='/AIV/60/2/18'>1 Pet 2:18</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 1016010,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 16,
       "verse": 10,
       "text": "The angel of the Lord also said to her, 'I will surely multiply your offspring so that they cannot be numbered for multitude.'",
       "links": "<a href='/AIV/1/17/20'>Gen 17:20</a>; <a href='/AIV/1/21/18'>Gen 21:18</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 1016011,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 16,
       "verse": 11,
       "text": "And the angel of the Lord said to her, 'Behold, you are pregnant and shall bear a son. You shall call his name Ishmael, because the Lord has heard your affliction.'",
       "links": "<a href='/AIV/1/17/19'>Gen 17:19</a>; <a href='/AIV/1/21/17'>Gen 21:17</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 1016012,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 16,
       "verse": 12,
       "text": "He shall be a wild donkey of a man, his hand against everyone and everyone’s hand against him, and he shall dwell over against all his brothers.'",
       "links": "<a href='/AIV/1/25/18'>Gen 25:18</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 1016013,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 16,
       "verse": 13,
       "text": "So she called the name of the Lord who spoke to her, 'You are a God of seeing,' for she said, 'Have I even here seen him who sees me?'",
       "links": "<a href='/AIV/1/32/30'>Gen 32:30</a>; <a href='/AIV/19/139/1-2'>Ps 139:1-2</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 1016014,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 16,
       "verse": 14,
       "text": "Therefore the well was called Beer-lahai-roi; it lies between Kadesh and Bered.",
       "links": "<a href='/AIV/1/24/62'>Gen 24:62</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 1016015,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 16,
       "verse": 15,
       "text": "And Hagar bore Abram a son, and Abram called the name of his son, whom Hagar bore, Ishmael.",
       "links": "<a href='/AIV/1/17/23-26'>Gen 17:23-26</a>",
@@ -189,33 +116,10 @@
     },
     {
       "pk": 1016016,
-      "translation": "AIV",
-      "book": 1,
-      "bookName": "Genesis",
-      "bookAbbreviation": "Gen",
-      "chapter": 16,
       "verse": 16,
       "text": "Abram was eighty-six years old when Hagar bore Ishmael to Abram.",
       "links": "<a href='/AIV/1/12/4'>Gen 12:4</a>; <a href='/AIV/1/17/1'>Gen 17:1</a>",
       "comment": "Abram’s age highlights the continued wait for God’s ultimate promise through Sarah. Faith requires trust in God’s timing and ways, which are often unexpected, prefiguring how fulfillment comes later through divine initiative."
-    }
-  ],
-  "translatedAt": "2025-12-24T00:18:05.036Z",
-  "sections": [
-    {
-      "title": "Sarai Gives Hagar to Abram",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "The Flight of Hagar and the Angel of the Lord",
-      "startVerse": 7,
-      "endVerse": 14
-    },
-    {
-      "title": "Birth of Ishmael",
-      "startVerse": 15,
-      "endVerse": 16
     }
   ]
 }

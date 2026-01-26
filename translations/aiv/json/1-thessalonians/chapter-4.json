@@ -1,16 +1,13 @@
 {
-  "book": 59,
+  "translation": "AIV",
+  "bookId": "1-thessalonians",
   "bookName": "1 Thessalonians",
-  "bookAbbreviation": "1Thess",
+  "bookAbbreviation": "1 Thess",
+  "bookNumber": 59,
   "chapter": 4,
   "verses": [
     {
       "pk": 59004001,
-      "translation": "AIV",
-      "book": 59,
-      "bookName": "1 Thessalonians",
-      "bookAbbreviation": "1Thess",
-      "chapter": 4,
       "verse": 1,
       "text": "Finally, brothers and sisters, we ask and urge you in the Lord Jesus: just as you received instructions from us about how you ought to walk and to please God—as you are already doing—so continue to grow even more.",
       "links": "<a href='/AIV/54/6/11'>1Tim. 6:11</a>; <a href='/AIV/57/1/6'>Philem. 1:6</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 59004002,
-      "translation": "AIV",
-      "book": 59,
-      "bookName": "1 Thessalonians",
-      "bookAbbreviation": "1Thess",
-      "chapter": 4,
       "verse": 2,
       "text": "For you know what commands we gave to you through the Lord Jesus.",
       "links": "<a href='/AIV/46/14/37'>1Cor. 14:37</a>; <a href='/AIV/40/28/20'>Matt. 28:20</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 59004003,
-      "translation": "AIV",
-      "book": 59,
-      "bookName": "1 Thessalonians",
-      "bookAbbreviation": "1Thess",
-      "chapter": 4,
       "verse": 3,
       "text": "For this is the will of God: your sanctification; that you abstain from sexual immorality;",
       "links": "<a href='/AIV/46/6/18'>1Cor. 6:18</a>; <a href='/AIV/60/1/16'>1Pet. 1:16</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 59004004,
-      "translation": "AIV",
-      "book": 59,
-      "bookName": "1 Thessalonians",
-      "bookAbbreviation": "1Thess",
-      "chapter": 4,
       "verse": 4,
       "text": "that each one of you should know how to control his own vessel in holiness and honor,",
       "links": "<a href='/AIV/54/2/21'>2Tim. 2:21</a>; <a href='/AIV/45/6/19'>Rom. 6:19</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 59004005,
-      "translation": "AIV",
-      "book": 59,
-      "bookName": "1 Thessalonians",
-      "bookAbbreviation": "1Thess",
-      "chapter": 4,
       "verse": 5,
       "text": "not in the passion of lust like the Gentiles who do not know God;",
       "links": "<a href='/AIV/49/4/17-19'>Eph. 4:17-19</a>; <a href='/AIV/45/1/24'>Rom. 1:24</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 59004006,
-      "translation": "AIV",
-      "book": 59,
-      "bookName": "1 Thessalonians",
-      "bookAbbreviation": "1Thess",
-      "chapter": 4,
       "verse": 6,
       "text": "that no one transgress and defraud his brother in this matter, because the Lord is avenger in all these things, just as we told you before and solemnly warned you.",
       "links": "<a href='/AIV/45/12/19'>Rom. 12:19</a>; <a href='/AIV/05/32/35'>Deut. 32:35</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 59004007,
-      "translation": "AIV",
-      "book": 59,
-      "bookName": "1 Thessalonians",
-      "bookAbbreviation": "1Thess",
-      "chapter": 4,
       "verse": 7,
       "text": "For God has not called us to impurity, but to holiness.",
       "links": "<a href='/AIV/03/19/2'>Lev. 19:2</a>; <a href='/AIV/60/1/15'>1Pet. 1:15</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 59004008,
-      "translation": "AIV",
-      "book": 59,
-      "bookName": "1 Thessalonians",
-      "bookAbbreviation": "1Thess",
-      "chapter": 4,
       "verse": 8,
       "text": "Therefore, whoever disregards this instruction does not reject man, but God, who gives His Holy Spirit to you.",
       "links": "<a href='/AIV/44/5/3-4'>Acts 5:3-4</a>; <a href='/AIV/47/5/5'>2Cor. 5:5</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 59004009,
-      "translation": "AIV",
-      "book": 59,
-      "bookName": "1 Thessalonians",
-      "bookAbbreviation": "1Thess",
-      "chapter": 4,
       "verse": 9,
       "text": "Now about brotherly love, you do not need anyone to write to you, for you yourselves have been taught by God to love one another.",
       "links": "<a href='/AIV/43/13/34'>John 13:34</a>; <a href='/AIV/62/4/7'>1John 4:7</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 59004010,
-      "translation": "AIV",
-      "book": 59,
-      "bookName": "1 Thessalonians",
-      "bookAbbreviation": "1Thess",
-      "chapter": 4,
       "verse": 10,
       "text": "Indeed, you are showing this love to all the brothers and sisters throughout Macedonia. But we urge you, brothers and sisters, to excel even more,",
       "links": "<a href='/AIV/47/8/7'>2Cor. 8:7</a>; <a href='/AIV/62/3/18'>1John 3:18</a>",
@@ -127,11 +79,6 @@
     },
     {
       "pk": 59004011,
-      "translation": "AIV",
-      "book": 59,
-      "bookName": "1 Thessalonians",
-      "bookAbbreviation": "1Thess",
-      "chapter": 4,
       "verse": 11,
       "text": "and to aspire to live quietly, to mind your own affairs, and to work with your hands, just as we instructed you,",
       "links": "<a href='/AIV/53/3/12'>2Thess. 3:12</a>; <a href='/AIV/49/4/28'>Eph. 4:28</a>",
@@ -139,11 +86,6 @@
     },
     {
       "pk": 59004012,
-      "translation": "AIV",
-      "book": 59,
-      "bookName": "1 Thessalonians",
-      "bookAbbreviation": "1Thess",
-      "chapter": 4,
       "verse": 12,
       "text": "so that you may walk properly before outsiders and not be dependent on anyone.",
       "links": "<a href='/AIV/60/2/12'>1Pet. 2:12</a>; <a href='/AIV/56/3/14'>Titus 3:14</a>",
@@ -151,11 +93,6 @@
     },
     {
       "pk": 59004013,
-      "translation": "AIV",
-      "book": 59,
-      "bookName": "1 Thessalonians",
-      "bookAbbreviation": "1Thess",
-      "chapter": 4,
       "verse": 13,
       "text": "But we do not want you to be uninformed, brothers and sisters, about those who have fallen asleep, so that you will not grieve as do the rest who have no hope.",
       "links": "<a href='/AIV/46/15/18'>1Cor. 15:18</a>; <a href='/AIV/40/9/24'>Matt. 9:24</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 59004014,
-      "translation": "AIV",
-      "book": 59,
-      "bookName": "1 Thessalonians",
-      "bookAbbreviation": "1Thess",
-      "chapter": 4,
       "verse": 14,
       "text": "For if we believe that Jesus died and rose again, so also God will bring with Him those who have fallen asleep through Jesus.",
       "links": "<a href='/AIV/40/28/6'>Matt. 28:6</a>; <a href='/AIV/43/11/25'>John 11:25</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 59004015,
-      "translation": "AIV",
-      "book": 59,
-      "bookName": "1 Thessalonians",
-      "bookAbbreviation": "1Thess",
-      "chapter": 4,
       "verse": 15,
       "text": "For this we say to you by the word of the Lord, that we who are alive, who remain until the coming of the Lord, will not precede those who have fallen asleep.",
       "links": "<a href='/AIV/46/15/51'>1Cor. 15:51</a>; <a href='/AIV/40/24/31'>Matt. 24:31</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 59004016,
-      "translation": "AIV",
-      "book": 59,
-      "bookName": "1 Thessalonians",
-      "bookAbbreviation": "1Thess",
-      "chapter": 4,
       "verse": 16,
       "text": "For the Lord Himself, with a shout, with the voice of the archangel and with the trumpet of God, will descend from heaven, and the dead in Christ will rise first.",
       "links": "<a href='/AIV/51/2/12'>Col. 2:12</a>; <a href='/AIV/02/19/16'>Exod. 19:16</a>",
@@ -200,11 +122,6 @@
     },
     {
       "pk": 59004017,
-      "translation": "AIV",
-      "book": 59,
-      "bookName": "1 Thessalonians",
-      "bookAbbreviation": "1Thess",
-      "chapter": 4,
       "verse": 17,
       "text": "Then we who are alive, who remain, will be caught up together with them in the clouds to meet the Lord in the air, and so we will always be with the Lord.",
       "links": "<a href='/AIV/40/24/31'>Matt. 24:31</a>; <a href='/AIV/27/7/13'>Dan. 7:13</a>",
@@ -212,28 +129,10 @@
     },
     {
       "pk": 59004018,
-      "translation": "AIV",
-      "book": 59,
-      "bookName": "1 Thessalonians",
-      "bookAbbreviation": "1Thess",
-      "chapter": 4,
       "verse": 18,
       "text": "Therefore encourage one another with these words.",
       "links": "<a href='/AIV/58/10/25'>Heb. 10:25</a>; <a href='/AIV/62/3/2'>1John 3:2</a>",
       "comment": "Mutual encouragement in the hope of resurrection and eternal life is a mark of the true church, a community sharing comfort and faith. The exhortation underlines the significance of communal life, ongoing teaching, and apostolic unity."
-    }
-  ],
-  "translatedAt": "2025-12-24T12:08:58.603Z",
-  "sections": [
-    {
-      "title": "Exhortation to Holiness and Charity",
-      "startVerse": 1,
-      "endVerse": 12
-    },
-    {
-      "title": "The Hope of the Resurrection",
-      "startVerse": 13,
-      "endVerse": 18
     }
   ]
 }

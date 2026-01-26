@@ -1,16 +1,13 @@
 {
-  "book": 30,
+  "translation": "AIV",
+  "bookId": "jeremiah",
   "bookName": "Jeremiah",
   "bookAbbreviation": "Jer",
+  "bookNumber": 30,
   "chapter": 40,
   "verses": [
     {
       "pk": 30040001,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 40,
       "verse": 1,
       "text": "The word that came to Jeremiah from the LORD after Nebuzaradan the captain of the guard had released him from Ramah, when he had taken him bound in chains among all the captives of Jerusalem and Judah who were carried away to Babylon.",
       "links": "<a href='/AIV/24/39/11-14'>Jer. 39:11-14</a>; <a href='/AIV/24/32/2-3'>Jer. 32:2-3</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 30040002,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 40,
       "verse": 2,
       "text": "And the captain of the guard took Jeremiah and said to him, \"The LORD your God pronounced this disaster upon this place.",
       "links": "<a href='/AIV/24/1/14-16'>Jer. 1:14-16</a>; <a href='/AIV/24/19/3-8'>Jer. 19:3-8</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 30040003,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 40,
       "verse": 3,
       "text": "And the LORD has brought it about, and has done just as He said. Because you sinned against the LORD and did not listen to His voice, this thing has come upon you.",
       "links": "<a href='/AIV/24/25/8-11'>Jer. 25:8-11</a>; <a href='/AIV/05/28/15'>Deut. 28:15</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 30040004,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 40,
       "verse": 4,
       "text": "Now, see, I am freeing you today from the chains on your hands. If it seems good to you to come with me to Babylon, come, and I will look after you. But if it seems wrong for you to come with me to Babylon, stay here. See, all the land is before you; go wherever you think it is good and right to go.",
       "links": "<a href='/AIV/24/39/12'>Jer. 39:12</a>; <a href='/AIV/01/13/9'>Gen. 13:9</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 30040005,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 40,
       "verse": 5,
       "text": "But before Jeremiah turned to go, Nebuzaradan added, \"Go back to Gedaliah the son of Ahikam, son of Shaphan, whom the king of Babylon has appointed over the cities of Judah, and dwell with him among the people, or go wherever it seems right for you to go.\" So the captain of the guard gave him provisions and a gift and let him go.",
       "links": "<a href='/AIV/24/39/14'>Jer. 39:14</a>; <a href='/AIV/24/26/24'>Jer. 26:24</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 30040006,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 40,
       "verse": 6,
       "text": "Then Jeremiah went to Gedaliah the son of Ahikam at Mizpah, and lived with him among the people who were left in the land.",
       "links": "<a href='/AIV/24/39/14'>Jer. 39:14</a>; <a href='/AIV/24/41/1'>Jer. 41:1</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 30040007,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 40,
       "verse": 7,
       "text": "Now when all the commanders of the forces in the open country, they and their men, heard that the king of Babylon had appointed Gedaliah the son of Ahikam governor in the land, and had committed to him men, women, and children, those of the poor of the land who had not been taken into exile to Babylon,",
       "links": "<a href='/AIV/24/39/10'>Jer. 39:10</a>; <a href='/AIV/24/52/16'>Jer. 52:16</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 30040008,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 40,
       "verse": 8,
       "text": "they came to Gedaliah at Mizpah—even Ishmael the son of Nethaniah, Johanan and Jonathan the sons of Kareah, Seraiah the son of Tanhumeth, the sons of Ephai the Netophathite, and Jezaniah the son of the Maacathite, they and their men.",
       "links": "<a href='/AIV/24/41/1-2'>Jer. 41:1-2</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 30040009,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 40,
       "verse": 9,
       "text": "And Gedaliah the son of Ahikam, son of Shaphan, took an oath to them and to their men, saying, \"Do not be afraid to serve the Chaldeans. Dwell in the land and serve the king of Babylon, and it shall go well with you.\"",
       "links": "<a href='/AIV/24/29/5-7'>Jer. 29:5-7</a>; <a href='/AIV/45/13/1'>Rom. 13:1</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 30040010,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 40,
       "verse": 10,
       "text": "\"As for me, I will dwell at Mizpah to represent you before the Chaldeans who come to us. But as for you, gather wine and summer fruit and oil, and store them in your vessels, and dwell in your cities that you have taken.\"",
       "links": "<a href='/AIV/24/40/12'>Jer. 40:12</a>; <a href='/AIV/24/29/5'>Jer. 29:5</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 30040011,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 40,
       "verse": 11,
       "text": "Likewise, when all the Jews who were in Moab and among the Ammonites and in Edom and in all the countries heard that the king of Babylon had left a remnant of Judah, and had set over them Gedaliah the son of Ahikam, son of Shaphan,",
       "links": "<a href='/AIV/24/40/10'>Jer. 40:10</a>; <a href='/AIV/24/40/12'>Jer. 40:12</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 30040012,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 40,
       "verse": 12,
       "text": "then all the Jews returned from all the places to which they had been driven, and came to the land of Judah, to Gedaliah at Mizpah. And they gathered wine and summer fruit in great abundance.",
       "links": "<a href='/AIV/24/29/14'>Jer. 29:14</a>; <a href='/AIV/30/9/14'>Amos 9:14</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 30040013,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 40,
       "verse": 13,
       "text": "Now Johanan the son of Kareah and all the commanders of the forces in the open country came to Gedaliah at Mizpah",
       "links": "<a href='/AIV/24/40/8'>Jer. 40:8</a>; <a href='/AIV/24/41/2'>Jer. 41:2</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 30040014,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 40,
       "verse": 14,
       "text": "and said to him, \"Do you know that Baalis the king of the Ammonites has sent Ishmael the son of Nethaniah to take your life?\" But Gedaliah the son of Ahikam did not believe them.",
       "links": "<a href='/AIV/24/41/2'>Jer. 41:2</a>; <a href='/AIV/19/62/4'>Ps. 62:4</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 30040015,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 40,
       "verse": 15,
       "text": "Then Johanan the son of Kareah spoke privately to Gedaliah at Mizpah, saying, \"Let me go and kill Ishmael the son of Nethaniah, and no one will know it. Why should he take your life, so that all the Jews who are gathered to you would be scattered, and the remnant of Judah would perish?\"",
       "links": "<a href='/AIV/24/41/8'>Jer. 41:8</a>; <a href='/AIV/40/26/51'>Matt. 26:51</a>",
@@ -189,33 +116,10 @@
     },
     {
       "pk": 30040016,
-      "translation": "AIV",
-      "book": 30,
-      "bookName": "Jeremiah",
-      "bookAbbreviation": "Jer",
-      "chapter": 40,
       "verse": 16,
       "text": "But Gedaliah the son of Ahikam said to Johanan the son of Kareah, \"You shall not do this thing, for you are speaking falsely about Ishmael.\"",
       "links": "<a href='/AIV/24/41/2'>Jer. 41:2</a>; <a href='/AIV/24/40/14'>Jer. 40:14</a>",
       "comment": "Gedaliah’s refusal to act on suspicion leads to his downfall, yet his innocence is reminiscent of the suffering servant motif—choosing trust over violence. This prefigures the attitude shown by Jesus before his Passion."
-    }
-  ],
-  "translatedAt": "2025-12-24T08:43:54.197Z",
-  "sections": [
-    {
-      "title": "Jeremiah Set Free by Nebuzaradan",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "Gedaliah Appointed Governor",
-      "startVerse": 7,
-      "endVerse": 12
-    },
-    {
-      "title": "Ishmael’s Plot Against Gedaliah",
-      "startVerse": 13,
-      "endVerse": 16
     }
   ]
 }

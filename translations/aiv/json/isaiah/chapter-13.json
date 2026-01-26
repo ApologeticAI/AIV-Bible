@@ -1,16 +1,13 @@
 {
-  "book": 29,
+  "translation": "AIV",
+  "bookId": "isaiah",
   "bookName": "Isaiah",
   "bookAbbreviation": "Isa",
+  "bookNumber": 29,
   "chapter": 13,
   "verses": [
     {
       "pk": 29013001,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 13,
       "verse": 1,
       "text": "The oracle against Babylon that Isaiah, the son of Amoz, saw:",
       "links": "<a href='/AIV/23/21/1'>Isa. 21:1</a>; <a href='/AIV/34/2/1'>Nah. 2:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 29013002,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 13,
       "verse": 2,
       "text": "Raise a banner on a bare hill, call out to them with a loud voice; wave your hand, so they may enter the gates of the nobles.",
       "links": "<a href='/AIV/23/5/26'>Isa. 5:26</a>; <a href='/AIV/23/62/10'>Isa. 62:10</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 29013003,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 13,
       "verse": 3,
       "text": "I myself have commanded my consecrated ones; I have summoned my warriors, those who rejoice in my triumph, to execute my wrath.",
       "links": "<a href='/AIV/23/10/5-6'>Isa. 10:5-6</a>; <a href='/AIV/23/45/1'>Isa. 45:1</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 29013004,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 13,
       "verse": 4,
       "text": "A sound! A tumult on the mountains, like that of a great multitude! The noise of kingdoms, nations gathering together! The LORD of hosts is mustering an army for battle.",
       "links": "<a href='/AIV/19/110/6'>Ps. 110:6</a>; <a href='/AIV/29/3/9-11'>Joel 3:9-11</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 29013005,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 13,
       "verse": 5,
       "text": "They come from a far country, from the ends of the heavens— the LORD and the weapons of his indignation— to destroy the whole land.",
       "links": "<a href='/AIV/23/46/11'>Isa. 46:11</a>; <a href='/AIV/24/50/9'>Jer. 50:9</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 29013006,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 13,
       "verse": 6,
       "text": "Wail, for the day of the LORD is near; it will come like destruction from the Almighty.",
       "links": "<a href='/AIV/29/1/15'>Joel 1:15</a>; <a href='/AIV/34/1/6'>Nah. 1:6</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 29013007,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 13,
       "verse": 7,
       "text": "Therefore all hands will hang limp, every human heart will melt,",
       "links": "<a href='/AIV/06/2/11'>Josh. 2:11</a>; <a href='/AIV/34/2/10'>Nah. 2:10</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 29013008,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 13,
       "verse": 8,
       "text": "They will be terrified—anguish and pain will seize them; they will writhe like a woman in labor. They will look at one another in shock, their faces aflame.",
       "links": "<a href='/AIV/24/30/6'>Jer. 30:6</a>; <a href='/AIV/66/6/15-17'>Rev. 6:15-17</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 29013009,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 13,
       "verse": 9,
       "text": "Look! The day of the LORD is coming, cruel, with fury and burning anger, to make the earth a desolation and destroy its sinners from it.",
       "links": "<a href='/AIV/24/46/10'>Jer. 46:10</a>; <a href='/AIV/66/19/15'>Rev. 19:15</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 29013010,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 13,
       "verse": 10,
       "text": "For the stars of the heavens and their constellations will not give their light; the sun will be dark when it rises, and the moon will not shed its light.",
       "links": "<a href='/AIV/26/32/7-8'>Ezek. 32:7-8</a>; <a href='/AIV/40/24/29'>Matt. 24:29</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 29013011,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 13,
       "verse": 11,
       "text": "I will punish the world for its evil, and the wicked for their iniquity; I will bring an end to the arrogance of the proud, and lay low the insolence of the ruthless.",
       "links": "<a href='/AIV/24/25/31'>Jer. 25:31</a>; <a href='/AIV/59/4/6'>James 4:6</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 29013012,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 13,
       "verse": 12,
       "text": "I will make people scarcer than fine gold, mankind rarer than the gold of Ophir.",
       "links": "<a href='/AIV/18/28/16'>Job 28:16</a>; <a href='/AIV/11/9/28'>1 Kgs. 9:28</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 29013013,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 13,
       "verse": 13,
       "text": "Therefore I will make the heavens tremble, and the earth will shake from its place at the wrath of the LORD of armies in the day of his fierce anger.",
       "links": "<a href='/AIV/29/2/10'>Joel 2:10</a>; <a href='/AIV/37/2/6-7'>Hag. 2:6-7</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 29013014,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 13,
       "verse": 14,
       "text": "Like hunted gazelles, like sheep with no one to gather them, everyone will return to his own people, and each will flee to his own land.",
       "links": "<a href='/AIV/24/50/16'>Jer. 50:16</a>; <a href='/AIV/40/9/36'>Matt. 9:36</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 29013015,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 13,
       "verse": 15,
       "text": "Whoever is found will be pierced through, and whoever is caught will fall by the sword.",
       "links": "<a href='/AIV/24/50/37'>Jer. 50:37</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 29013016,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 13,
       "verse": 16,
       "text": "Their infants will be dashed to pieces before their eyes; their houses will be plundered, and their wives violated.",
       "links": "<a href='/AIV/19/137/8-9'>Ps. 137:8-9</a>; <a href='/AIV/24/51/22'>Jer. 51:22</a>",
@@ -200,11 +122,6 @@
     },
     {
       "pk": 29013017,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 13,
       "verse": 17,
       "text": "Look! I am stirring up the Medes against them, who have no regard for silver and take no pleasure in gold.",
       "links": "<a href='/AIV/27/5/28'>Dan. 5:28</a>; <a href='/AIV/23/21/2'>Isa. 21:2</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 29013018,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 13,
       "verse": 18,
       "text": "Their bows will strike down the young men; they will have no mercy on the fruit of the womb; their eyes will not pity children.",
       "links": "<a href='/AIV/23/47/9-10'>Isa. 47:9-10</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 29013019,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 13,
       "verse": 19,
       "text": "And Babylon, the glory of kingdoms, the splendor and pride of the Chaldeans, will be like Sodom and Gomorrah when God overthrew them.",
       "links": "<a href='/AIV/01/19/24-25'>Gen. 19:24-25</a>; <a href='/AIV/23/14/23'>Isa. 14:23</a>; <a href='/AIV/66/18/2'>Rev. 18:2</a>",
@@ -238,11 +145,6 @@
     },
     {
       "pk": 29013020,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 13,
       "verse": 20,
       "text": "It will never be inhabited or lived in from generation to generation; Arabs will not pitch their tents there, shepherds will not make their flocks lie down there.",
       "links": "<a href='/AIV/24/50/39-40'>Jer. 50:39-40</a>",
@@ -250,11 +152,6 @@
     },
     {
       "pk": 29013021,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 13,
       "verse": 21,
       "text": "But wild animals will lie there, and their houses will be full of owls; ostriches will dwell there, and wild goats will leap about.",
       "links": "<a href='/AIV/34/2/10-14'>Zeph. 2:10-14</a>; <a href='/AIV/23/34/11-15'>Isa. 34:11-15</a>",
@@ -262,38 +159,10 @@
     },
     {
       "pk": 29013022,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 13,
       "verse": 22,
       "text": "Hyenas will howl in its strongholds, jackals in the luxurious palaces; her time is coming soon, her days will not be prolonged.",
       "links": "<a href='/AIV/19/102/13'>Ps. 102:13</a>; <a href='/AIV/66/18/10'>Rev. 18:10</a>",
       "comment": "Despite Babylon’s former glory, its judgment is certain and swift. The finality here speaks of God’s faithfulness to His promises—He preserves His remnant through tribulation and establishes a permanent kingdom."
-    }
-  ],
-  "translatedAt": "2025-12-24T07:56:59.422Z",
-  "sections": [
-    {
-      "title": "Prophecy Against Babylon",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "The Day of the Lord's Judgment",
-      "startVerse": 6,
-      "endVerse": 16
-    },
-    {
-      "title": "The Medes Attack Babylon",
-      "startVerse": 17,
-      "endVerse": 18
-    },
-    {
-      "title": "The Desolation of Babylon",
-      "startVerse": 19,
-      "endVerse": 22
     }
   ]
 }

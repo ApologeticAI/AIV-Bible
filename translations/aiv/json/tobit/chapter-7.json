@@ -1,16 +1,13 @@
 {
-  "book": 17,
+  "translation": "AIV",
+  "bookId": "tobit",
   "bookName": "Tobit",
   "bookAbbreviation": "Tob",
+  "bookNumber": 17,
   "chapter": 7,
   "verses": [
     {
       "pk": 17007001,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 7,
       "verse": 1,
       "text": "When they entered Ecbatana, Tobias said, 'Brother Azariah, lead me straight to the house of Raguel.' So he brought him to Raguel's house, and they found him sitting at the door of the courtyard. They greeted him first, and he replied, 'Greetings to you, brothers. Welcome!' He invited them into his house.",
       "links": "<a href='/AIV/01/18/1'>Gen. 18:1</a>; <a href='/AIV/58/13/2'>Heb. 13:2</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 17007002,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 7,
       "verse": 2,
       "text": "Raguel said to Edna his wife, 'How much this young man resembles my cousin Tobit!'",
       "links": "<a href='/AIV/06/22/14'>Josh. 22:14</a>;",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 17007003,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 7,
       "verse": 3,
       "text": "Raguel asked them, 'Where do you come from, brothers?' They replied, 'We are sons of Naphtali, taken captive in Nineveh.'",
       "links": "<a href='/AIV/12/17/6'>2 Kings 17:6</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 17007004,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 7,
       "verse": 4,
       "text": "Raguel said, 'So you know Tobit, our kinsman?' They answered, 'Yes, we know him.'",
       "links": "<a href='/AIV/17/1/1'>Tob. 1:1</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 17007005,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 7,
       "verse": 5,
       "text": "Raguel said, 'He is my cousin. What is his health? Is he well?' They replied, 'He is alive and well.' Then Tobias added, 'He is my father.'",
       "links": "<a href='/AIV/17/5/1'>Tob. 5:1</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 17007006,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 7,
       "verse": 6,
       "text": "Raguel jumped up and embraced Tobias and wept. He said, 'Blessings on you, my child, son of a good and noble father!' When he heard that Tobit had lost his sight, he was grieved and wept.",
       "links": "<a href='/AIV/20/10/1'>Prov. 10:1</a>; <a href='/AIV/42/15/20'>Luke 15:20</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 17007007,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 7,
       "verse": 7,
       "text": "He also spoke to him as follows, “Blessings on you, my child, son of a good and noble father! O most miserable of calamities that such an upright and beneficent man has become blind!” He then embraced his kinsman Tobias and wept.",
       "links": "<a href='/AIV/17/11/19'>Tob. 11:19</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 17007008,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 7,
       "verse": 8,
       "text": "His wife Edna also wept for him, and their daughter Sarah likewise wept.",
       "links": "<a href='/AIV/1/37/34'>Gen. 37:34-35</a>; <a href='/AIV/50/11/33'>John. 11:33-35</a>; <a href='/AIV/52/12/15'>Rom. 12:15</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 17007009,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 7,
       "verse": 9,
       "text": "Then Raguel slaughtered a ram from the flock and received them very warmly. When they had bathed and washed themselves and had reclined to dine, Tobias said to Raphael, “Brother Azariah, ask Raguel to give me my kinswoman Sarah.”",
       "links": "<a href='/AIV/06/27/4'>Josh. 27:4</a>; <a href='/AIV/04/36/6'>Num. 36:6</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 17007010,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 7,
       "verse": 10,
       "text": "But Raguel overheard it and said to the lad, “Eat and drink, and be merry tonight. For no one except you, brother, has the right to marry my daughter Sarah. Likewise I am not at liberty to give her to any other man than yourself, because you are my nearest relative. But let me explain to you the true situation more fully, my child.",
       "links": "<a href='/AIV/17/3/8'>Tob. 3:8</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 17007011,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 7,
       "verse": 11,
       "text": "I have given her to seven men of our kinsmen, and all died on the night when they went in to her. But now, my child, eat and drink, and the Lord will act on behalf of you both.” But Tobias said, “I will neither eat nor drink anything until you settle the things that pertain to me.” So Raguel said, “I will do so. She is given to you in accordance with the decree in the book of Moses, and it has been decreed from heaven that she be given to you. Take your kinswoman; from now on you are her brother and she is your sister. She is given to you from today and forever. May the Lord of heaven, my child, guide and prosper you both this night and grant you mercy and peace.”",
       "links": "<a href='/AIV/17/6/17'>Tob. 6:17</a>; <a href='/AIV/23/46/10'>Isa. 46:10</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 17007012,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 7,
       "verse": 12,
       "text": "Then Raguel summoned his daughter Sarah. When she came to him, he took her by the hand and gave her to Tobias, saying, 'Take her to be your wife in accordance with the law and decree written in the book of Moses. Take her and bring her safely to your father. And may the God of heaven prosper your journey with his peace.'",
       "links": "<a href='/AIV/05/24/1'>Deut. 24:1</a>; <a href='/AIV/01/2/24'>Gen. 2:24</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 17007013,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 7,
       "verse": 13,
       "text": "Then he called her mother and told her to bring writing material; and he wrote out a copy of a marriage contract, to the effect that he gave her to him as wife according to the decree of the law of Moses.",
       "links": "<a href='/AIV/1/24/61'>Gen. 24:61-67</a>; <a href='/AIV/17/6/13'>Tob. 6:13</a>; <a href='/AIV/46/2/14'>Mal. 2:14</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 17007014,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 7,
       "verse": 14,
       "text": "Then they began to eat and drink.",
       "links": "<a href='/AIV/1/24/54'>Gen. 24:54</a>; <a href='/AIV/50/2/1'>John. 2:1-2</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 17007015,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 7,
       "verse": 15,
       "text": "Raguel called his wife Edna and said to her, \"Sister, get the other room ready, and take her there.\"",
       "links": "<a href='/AIV/1/24/67'>Gen. 24:67</a>; <a href='/AIV/7/14/10'>Judg. 14:10-11</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 17007016,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 7,
       "verse": 16,
       "text": "So she went and made the bed in the room as he had told her, and brought Sarah there. She wept for her daughter. Then, wiping away the tears, she said to her, “Take courage, my daughter; the Lord of heaven grant you joy in place of your sorrow. Take courage, my daughter.” Then she went out.",
       "links": "<a href='/AIV/23/30/5'>Ps. 30:5</a>; <a href='/AIV/50/16/20'>John. 16:20</a>; <a href='/AIV/28/30/23'>Sir. 30:23</a>",
@@ -202,38 +124,10 @@
     },
     {
       "pk": 17007017,
-      "translation": "AIV",
-      "book": 17,
-      "bookName": "Tobit",
-      "bookAbbreviation": "Tob",
-      "chapter": 7,
       "verse": 17,
       "text": "",
       "links": "<a href='/AIV/23/61/3'>Isa. 61:3</a>; <a href='/AIV/43/16/20'>John 16:20</a>",
       "comment": "Edna’s motherly comfort points to themes of hope and restoration emphasized throughout the Bible, culminating in the promise that God turns mourning into joy (see Isaiah 61:3, John 16:20)."
-    }
-  ],
-  "translatedAt": "2026-01-01T22:01:23.350Z",
-  "sections": [
-    {
-      "title": "Arrival at Raguel’s House",
-      "startVerse": 1,
-      "endVerse": 7
-    },
-    {
-      "title": "Tobias Seeks Sarah’s Hand in Marriage",
-      "startVerse": 8,
-      "endVerse": 12
-    },
-    {
-      "title": "The Marriage of Tobias and Sarah",
-      "startVerse": 13,
-      "endVerse": 15
-    },
-    {
-      "title": "Sarah Prepared for Her Wedding Night",
-      "startVerse": 16,
-      "endVerse": 17
     }
   ]
 }

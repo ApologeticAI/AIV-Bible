@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 131,
   "verses": [
     {
       "pk": 23131001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 131,
       "verse": 1,
       "text": "Lord, my heart is not proud, nor my eyes lifted up; I do not concern myself with things too great or too marvelous for me.",
       "links": "<a href='/AIV/20/15/33'>Prov. 15:33</a>; <a href='/AIV/19/101/5'>Ps. 101:5</a>; <a href='/AIV/19/76/10'>Ps. 76:10</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23131002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 131,
       "verse": 2,
       "text": "Indeed, I have calmed and quieted my soul; like a weaned child with its mother, like a weaned child is my soul within me.",
       "links": "<a href='/AIV/19/62/1'>Ps. 62:1</a>; <a href='/AIV/19/116/7'>Ps. 116:7</a>; <a href='/AIV/19/42/5'>Ps. 42:5</a>",
@@ -31,23 +23,10 @@
     },
     {
       "pk": 23131003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 131,
       "verse": 3,
       "text": "Israel, hope in the Lord from this time forth and forever.",
       "links": "<a href='/AIV/19/130/7'>Ps. 130:7</a>; <a href='/AIV/19/71/5'>Ps. 71:5</a>; <a href='/AIV/45/15/12'>Rom. 15:12</a>",
       "comment": "The call for Israel to hope in the Lord is both corporate and eternal, tying the personal trust of the psalmist to the communal faith of God’s people—past, present, and future. This hope ultimately finds its fulfillment in the Messiah and the enduring faith of the Church across generations (Hebrews 6:18-19). The invitation to ‘forever’ reveals God’s eternal covenant and the continuity of faith experienced through liturgy and tradition."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:44:17.730Z",
-  "sections": [
-    {
-      "title": "Childlike Humility and Trust in God",
-      "startVerse": 1,
-      "endVerse": 3
     }
   ]
 }

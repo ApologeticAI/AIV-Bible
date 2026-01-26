@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 8,
   "verses": [
     {
       "pk": 23008001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 8,
       "verse": 1,
       "text": "O LORD, our Lord, how majestic is Your Name in all the earth! You have set Your glory above the heavens.",
       "links": "<a href='/AIV/19/113/4'>Ps. 113:4</a>; <a href='/AIV/19/148/13'>Ps. 148:13</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23008002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 8,
       "verse": 2,
       "text": "From the mouths of infants and nursing babies You have established strength, because of Your foes, to silence the enemy and the avenger.",
       "links": "<a href='/AIV/40/21/16'>Matt. 21:16</a>; <a href='/AIV/19/118/14'>Ps. 118:14</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23008003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 8,
       "verse": 3,
       "text": "When I look at Your heavens, the work of Your fingers, the moon and the stars, which You have set in place:",
       "links": "<a href='/AIV/19/19/1'>Ps. 19:1</a>; <a href='/AIV/18/26/7'>Job 26:7</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 23008004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 8,
       "verse": 4,
       "text": "What is man that You are mindful of him, and the son of man that You care for him?",
       "links": "<a href='/AIV/58/2/6'>Heb. 2:6</a>; <a href='/AIV/19/144/3'>Ps. 144:3</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 23008005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 8,
       "verse": 5,
       "text": "You made him a little lower than the heavenly beings, and crowned him with glory and honor.",
       "links": "<a href='/AIV/19/21/5'>Ps. 21:5</a>; <a href='/AIV/58/2/7'>Heb. 2:7</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 23008006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 8,
       "verse": 6,
       "text": "You made him ruler over the works of Your hands; You put all things under his feet:",
       "links": "<a href='/AIV/19/104/24'>Ps. 104:24</a>; <a href='/AIV/46/15/27'>1 Cor. 15:27</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 23008007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 8,
       "verse": 7,
       "text": "All sheep and oxen, and also the beasts of the field,",
       "links": "<a href='/AIV/19/50/10'>Ps. 50:10</a>; <a href='/AIV/01/1/24'>Gen. 1:24</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 23008008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 8,
       "verse": 8,
       "text": "the birds of the heavens, and the fish of the sea, whatever passes along the paths of the seas.",
       "links": "<a href='/AIV/01/1/26'>Gen. 1:26</a>; <a href='/AIV/19/104/25'>Ps. 104:25</a>",
@@ -104,28 +66,10 @@
     },
     {
       "pk": 23008009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 8,
       "verse": 9,
       "text": "O LORD, our Lord, how majestic is Your Name in all the earth!",
       "links": "<a href='/AIV/19/8/1'>Ps. 8:1</a>; <a href='/AIV/19/72/19'>Ps. 72:19</a>",
       "comment": "This concluding refrain recapitulates verse 1, uniting the psalm in worship. Repeated praise emphasizes God’s glory and the everlasting nature of His Name. Its cyclical structure echoes the liturgical rhythm in worship, which historically points to a continual offering of praise—a sign of the unity of creation and worship as one."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:01:07.383Z",
-  "sections": [
-    {
-      "title": "The Majesty of God's Name",
-      "startVerse": 1,
-      "endVerse": 2
-    },
-    {
-      "title": "The Dignity of Man in Creation",
-      "startVerse": 3,
-      "endVerse": 9
     }
   ]
 }

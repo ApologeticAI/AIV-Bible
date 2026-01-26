@@ -1,16 +1,13 @@
 {
-  "book": 43,
+  "translation": "AIV",
+  "bookId": "zephaniah",
   "bookName": "Zephaniah",
   "bookAbbreviation": "Zeph",
+  "bookNumber": 43,
   "chapter": 2,
   "verses": [
     {
       "pk": 43002001,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 2,
       "verse": 1,
       "text": "Gather yourselves together—gather, yes, gather, O nation without shame,",
       "links": "<a href='/AIV/23/34/1'>Isa. 34:1</a>; <a href='/AIV/36/3/18'>Zeph. 3:18</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 43002002,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 2,
       "verse": 2,
       "text": "before the decree takes effect—before the day passes like chaff—before the fierce anger of the LORD comes upon you, before the day of the LORD’s anger comes upon you.",
       "links": "<a href='/AIV/23/47/11'>Isa. 47:11</a>; <a href='/AIV/29/1/15'>Joel 1:15</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 43002003,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 2,
       "verse": 3,
       "text": "Seek the LORD, all you humble of the land, who have carried out His justice. Seek righteousness, seek humility; perhaps you will be sheltered on the day of the LORD’s anger.",
       "links": "<a href='/AIV/23/55/6'>Isa. 55:6</a>; <a href='/AIV/19/76/9'>Ps. 76:9</a>; <a href='/AIV/40/5/3'>Matt. 5:3</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 43002004,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 2,
       "verse": 4,
       "text": "For Gaza will be abandoned, and Ashkelon a wasteland; Ashdod will be driven out at noon, and Ekron will be uprooted.",
       "links": "<a href='/AIV/24/25/20'>Jer. 25:20</a>; <a href='/AIV/30/1/7'>Amos 1:7</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 43002005,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 2,
       "verse": 5,
       "text": "Woe to the inhabitants of the seacoast, the nation of the Cherethites! The word of the LORD is against you, O Canaan, land of the Philistines; I will destroy you, so that no inhabitant remains.",
       "links": "<a href='/AIV/26/25/16'>Ezek. 25:16</a>; <a href='/AIV/09/30/14'>1 Sam. 30:14</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 43002006,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 2,
       "verse": 6,
       "text": "The seacoast will become pastures, with wells for shepherds and folds for flocks.",
       "links": "<a href='/AIV/23/17/2'>Isa. 17:2</a>; <a href='/AIV/26/25/5'>Ezek. 25:5</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 43002007,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 2,
       "verse": 7,
       "text": "The coastland will belong to the remnant of the house of Judah; there they will graze. In the houses of Ashkelon they will lie down at evening. For the LORD their God will visit them and restore their fortunes.",
       "links": "<a href='/AIV/26/36/12'>Ezek. 36:12</a>; <a href='/AIV/24/29/14'>Jer. 29:14</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 43002008,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 2,
       "verse": 8,
       "text": "I have heard the taunts of Moab and the insults of the Ammonites, how they have taunted My people and boasted against their territory.",
       "links": "<a href='/AIV/26/25/3'>Ezek. 25:3</a>; <a href='/AIV/25/1/10'>Lam. 1:10</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 43002009,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 2,
       "verse": 9,
       "text": "Therefore, as I live, says the LORD of hosts, the God of Israel: Surely Moab will become like Sodom and the Ammonites like Gomorrah—a place of weeds and salt pits, a perpetual desolation. The remnant of My people will plunder them, and the remainder of My nation will inherit them.",
       "links": "<a href='/AIV/01/19/24'>Gen. 19:24</a>; <a href='/AIV/23/15/6'>Isa. 15:6</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 43002010,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 2,
       "verse": 10,
       "text": "This will happen to them because of their pride, for they have taunted and exalted themselves against the people of the LORD of hosts.",
       "links": "<a href='/AIV/20/16/18'>Prov. 16:18</a>; <a href='/AIV/19/94/4'>Ps. 94:4</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 43002011,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 2,
       "verse": 11,
       "text": "The LORD will be awesome against them; for He will reduce all the gods of the earth. All the lands of the nations will worship Him, everyone from his own place—",
       "links": "<a href='/AIV/19/86/9'>Ps. 86:9</a>; <a href='/AIV/23/2/17'>Isa. 2:17</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 43002012,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 2,
       "verse": 12,
       "text": "You Cushites also will be slain by My sword.",
       "links": "<a href='/AIV/23/18/1'>Isa. 18:1</a>; <a href='/AIV/26/30/4-5'>Ezek. 30:4-5</a>",
@@ -154,11 +96,6 @@
     },
     {
       "pk": 43002013,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 2,
       "verse": 13,
       "text": "He will stretch out His hand against the north and destroy Assyria; He will make Nineveh a desolation, dry like the desert.",
       "links": "<a href='/AIV/34/2/13'>Nahum 2:13</a>; <a href='/AIV/01/10/11'>Gen. 10:11</a>",
@@ -166,11 +103,6 @@
     },
     {
       "pk": 43002014,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 2,
       "verse": 14,
       "text": "Flocks and herds will lie down in her midst, all kinds of wild animals. The desert owl and the screech owl will rest atop her pillars; their voices will echo through the windows. Rubble will be at the thresholds; the cedar work will be exposed.",
       "links": "<a href='/AIV/23/13/21'>Isa. 13:21</a>; <a href='/AIV/26/26/20'>Ezek. 26:20</a>",
@@ -178,38 +110,10 @@
     },
     {
       "pk": 43002015,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 2,
       "verse": 15,
       "text": "This is the city of rejoicing, that lived securely, that said in her heart, 'I am, and there is none besides me.' What a ruin she has become, a lair for wild animals! Everyone who passes by her hisses and shakes his fist.",
       "links": "<a href='/AIV/23/47/8-10'>Isa. 47:8-10</a>; <a href='/AIV/05/32/39'>Deut. 32:39</a>",
       "comment": "The pride of the city is condemned—'I am, and there is none besides me' echoes the pride of Babylon and all who try to take God's place. God alone is the true 'I AM' (<a href='/AIV/02/3/14'>Ex. 3:14</a>). The fall of worldly power serves as a warning to seek lasting security in God, and to remain in faithful unity with His appointed leadership, avoiding the spiritual dangers of pride and separation."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:52:50.501Z",
-  "sections": [
-    {
-      "title": "Call to Repentance Before the Day of the Lord",
-      "startVerse": 1,
-      "endVerse": 3
-    },
-    {
-      "title": "Judgment Against the Philistines",
-      "startVerse": 4,
-      "endVerse": 7
-    },
-    {
-      "title": "Judgment Against Moab and Ammon",
-      "startVerse": 8,
-      "endVerse": 11
-    },
-    {
-      "title": "Judgment Against Cush and Assyria",
-      "startVerse": 12,
-      "endVerse": 15
     }
   ]
 }

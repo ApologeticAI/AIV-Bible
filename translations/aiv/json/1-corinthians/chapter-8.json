@@ -1,16 +1,13 @@
 {
-  "book": 53,
+  "translation": "AIV",
+  "bookId": "1-corinthians",
   "bookName": "1 Corinthians",
-  "bookAbbreviation": "1Cor",
+  "bookAbbreviation": "1 Cor",
+  "bookNumber": 53,
   "chapter": 8,
   "verses": [
     {
       "pk": 53008001,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 8,
       "verse": 1,
       "text": "Now concerning food offered to idols: we know that we all have knowledge. Knowledge puffs up, but love builds up.",
       "links": "<a href='/AIV/46/13/2'>1 Cor. 13:2</a>; <a href='/AIV/45/14/14'>Rom. 14:14</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 53008002,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 8,
       "verse": 2,
       "text": "If anyone imagines that he knows something, he does not yet know as he ought to know.",
       "links": "<a href='/AIV/09/2/3'>1 Sam. 2:3</a>; <a href='/AIV/19/139/6'>Ps. 139:6</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 53008003,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 8,
       "verse": 3,
       "text": "But if anyone loves God, he is known by God.",
       "links": "<a href='/AIV/43/10/14'>John 10:14</a>; <a href='/AIV/62/4/7-8'>1 John 4:7-8</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 53008004,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 8,
       "verse": 4,
       "text": "So, as to eating food offered to idols, we know that ‘an idol is nothing in the world,’ and that ‘there is no God but one.’",
       "links": "<a href='/AIV/05/6/4'>Deut. 6:4</a>; <a href='/AIV/19/115/4'>Ps. 115:4</a>; <a href='/AIV/45/3/30'>Rom. 3:30</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 53008005,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 8,
       "verse": 5,
       "text": "For even if there are so-called gods, whether in heaven or on earth—as indeed there are many ‘gods’ and many ‘lords’—",
       "links": "<a href='/AIV/19/82/1'>Ps. 82:1</a>; <a href='/AIV/05/10/17'>Deut. 10:17</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 53008006,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 8,
       "verse": 6,
       "text": "Yet for us there is one God, the Father, from whom all things came and for whom we exist, and one Lord, Jesus Christ, through whom all things came and through whom we exist.",
       "links": "<a href='/AIV/43/1/1-3'>John 1:1-3</a>; <a href='/AIV/51/1/16-17'>Col. 1:16-17</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 53008007,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 8,
       "verse": 7,
       "text": "However, not everyone possesses this knowledge. Some, because of former association with idols, eat food as really offered to an idol, and their conscience, being weak, is defiled.",
       "links": "<a href='/AIV/45/14/23'>Rom. 14:23</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 53008008,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 8,
       "verse": 8,
       "text": "Food does not bring us closer to God. We are no worse off if we do not eat, and no better if we do.",
       "links": "<a href='/AIV/45/14/17'>Rom. 14:17</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 53008009,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 8,
       "verse": 9,
       "text": "But take care that this right of yours does not somehow become a stumbling block to the weak.",
       "links": "<a href='/AIV/45/14/13'>Rom. 14:13</a>; <a href='/AIV/40/18/6'>Matt. 18:6</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 53008010,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 8,
       "verse": 10,
       "text": "For if anyone sees you who have knowledge eating in an idol’s temple, will he not be encouraged, if his conscience is weak, to eat food offered to idols?",
       "links": "<a href='/AIV/45/14/15'>Rom. 14:15</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 53008011,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 8,
       "verse": 11,
       "text": "And by your knowledge this weak person is destroyed, the brother for whom Christ died.",
       "links": "<a href='/AIV/45/14/15'>Rom. 14:15</a>; <a href='/AIV/45/5/6'>Rom. 5:6</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 53008012,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 8,
       "verse": 12,
       "text": "Thus, sinning against your brothers and wounding their conscience when it is weak, you sin against Christ.",
       "links": "<a href='/AIV/40/25/40'>Matt. 25:40</a>; <a href='/AIV/44/9/4'>Acts 9:4</a>",
@@ -152,28 +94,10 @@
     },
     {
       "pk": 53008013,
-      "translation": "AIV",
-      "book": 53,
-      "bookName": "1 Corinthians",
-      "bookAbbreviation": "1Cor",
-      "chapter": 8,
       "verse": 13,
       "text": "Therefore, if food causes my brother to fall, I will never eat meat again, so that I might not cause my brother to stumble.",
       "links": "<a href='/AIV/45/14/21'>Rom. 14:21</a>",
       "comment": "Paul concludes by choosing personal sacrifice for the sake of others, modeling mature Christian love—echoing Christ's own self-giving love. Living this way is essential for true unity in the Church and for becoming a sign of Christ’s sacrificial love for the world."
-    }
-  ],
-  "translatedAt": "2025-12-24T11:47:30.124Z",
-  "sections": [
-    {
-      "title": "Food Offered to Idols",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "Consideration for the Weak",
-      "startVerse": 7,
-      "endVerse": 13
     }
   ]
 }

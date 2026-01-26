@@ -1,16 +1,13 @@
 {
-  "book": 34,
+  "translation": "AIV",
+  "bookId": "daniel",
   "bookName": "Daniel",
   "bookAbbreviation": "Dan",
+  "bookNumber": 34,
   "chapter": 12,
   "verses": [
     {
       "pk": 34012001,
-      "translation": "AIV",
-      "book": 34,
-      "bookName": "Daniel",
-      "bookAbbreviation": "Dan",
-      "chapter": 12,
       "verse": 1,
       "text": "At that time, Michael, the great prince who stands guard over the children of your people, will arise. And there will be a time of distress such as has not happened since the beginning of nations until that time. But at that time, all your people who are found written in the book shall be delivered.",
       "links": "<a href='/AIV/66/12/7'>Rev. 12:7</a>; <a href='/AIV/27/10/21'>Dan. 10:21</a>; <a href='/AIV/42/10/20'>Luke 10:20</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 34012002,
-      "translation": "AIV",
-      "book": 34,
-      "bookName": "Daniel",
-      "bookAbbreviation": "Dan",
-      "chapter": 12,
       "verse": 2,
       "text": "Many of those who sleep in the dust of the earth will awake, some to everlasting life, and some to shame and everlasting contempt.",
       "links": "<a href='/AIV/40/25/46'>Matt. 25:46</a>; <a href='/AIV/43/5/28-29'>John 5:28-29</a>; <a href='/AIV/23/26/19'>Isa. 26:19</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 34012003,
-      "translation": "AIV",
-      "book": 34,
-      "bookName": "Daniel",
-      "bookAbbreviation": "Dan",
-      "chapter": 12,
       "verse": 3,
       "text": "Those who are wise will shine like the brightness of the sky, and those who lead many to righteousness, like the stars forever and ever.",
       "links": "<a href='/AIV/40/13/43'>Matt. 13:43</a>; <a href='/AIV/19/73/24'>Ps. 73:24</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 34012004,
-      "translation": "AIV",
-      "book": 34,
-      "bookName": "Daniel",
-      "bookAbbreviation": "Dan",
-      "chapter": 12,
       "verse": 4,
       "text": "But you, Daniel, shut up the words and seal the book until the time of the end. Many will roam to and fro, and knowledge will increase.",
       "links": "<a href='/AIV/66/5/1'>Rev. 5:1</a>; <a href='/AIV/27/8/26'>Dan. 8:26</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 34012005,
-      "translation": "AIV",
-      "book": 34,
-      "bookName": "Daniel",
-      "bookAbbreviation": "Dan",
-      "chapter": 12,
       "verse": 5,
       "text": "Then I, Daniel, looked, and there stood two others, one on this bank of the river and the other on that bank of the river.",
       "links": "<a href='/AIV/27/8/16'>Dan. 8:16</a>; <a href='/AIV/66/22/1'>Rev. 22:1</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 34012006,
-      "translation": "AIV",
-      "book": 34,
-      "bookName": "Daniel",
-      "bookAbbreviation": "Dan",
-      "chapter": 12,
       "verse": 6,
       "text": "One said to the man dressed in linen, who was above the waters of the river, 'How long will it be until the end of these wonders?'",
       "links": "<a href='/AIV/27/10/5'>Dan. 10:5</a>; <a href='/AIV/66/6/10'>Rev. 6:10</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 34012007,
-      "translation": "AIV",
-      "book": 34,
-      "bookName": "Daniel",
-      "bookAbbreviation": "Dan",
-      "chapter": 12,
       "verse": 7,
       "text": "I heard the man dressed in linen, who was above the waters of the river, as he raised his right hand and his left hand toward heaven and swore by Him who lives forever that it will be for a time, times, and half a time. And when the power of the holy people has been shattered, all these things will be accomplished.",
       "links": "<a href='/AIV/66/10/6'>Rev. 10:6</a>; <a href='/AIV/27/7/25'>Dan. 7:25</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 34012008,
-      "translation": "AIV",
-      "book": 34,
-      "bookName": "Daniel",
-      "bookAbbreviation": "Dan",
-      "chapter": 12,
       "verse": 8,
       "text": "I heard, but I did not understand. Then I said, 'My lord, what shall be the outcome of these things?'",
       "links": "<a href='/AIV/27/8/15'>Dan. 8:15</a>; <a href='/AIV/66/7/13-14'>Rev. 7:13-14</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 34012009,
-      "translation": "AIV",
-      "book": 34,
-      "bookName": "Daniel",
-      "bookAbbreviation": "Dan",
-      "chapter": 12,
       "verse": 9,
       "text": "He said, 'Go your way, Daniel, for the words are closed up and sealed until the time of the end.'",
       "links": "<a href='/AIV/27/8/26'>Dan. 8:26</a>; <a href='/AIV/66/22/10'>Rev. 22:10</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 34012010,
-      "translation": "AIV",
-      "book": 34,
-      "bookName": "Daniel",
-      "bookAbbreviation": "Dan",
-      "chapter": 12,
       "verse": 10,
       "text": "Many shall be purified, made white, and refined, but the wicked shall act wickedly. None of the wicked will understand, but those who are wise will understand.",
       "links": "<a href='/AIV/66/7/14'>Rev. 7:14</a>; <a href='/AIV/19/51/7'>Ps. 51:7</a>; <a href='/AIV/18/28/28'>Job 28:28</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 34012011,
-      "translation": "AIV",
-      "book": 34,
-      "bookName": "Daniel",
-      "bookAbbreviation": "Dan",
-      "chapter": 12,
       "verse": 11,
       "text": "From the time that the regular burnt offering is taken away and the abomination that causes desolation is set up, there will be one thousand two hundred ninety days.",
       "links": "<a href='/AIV/27/11/31'>Dan. 11:31</a>; <a href='/AIV/40/24/15'>Matt. 24:15</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 34012012,
-      "translation": "AIV",
-      "book": 34,
-      "bookName": "Daniel",
-      "bookAbbreviation": "Dan",
-      "chapter": 12,
       "verse": 12,
       "text": "Blessed is the one who waits and arrives at the one thousand three hundred thirty-five days.",
       "links": "<a href='/AIV/59/5/11'>James 5:11</a>",
@@ -152,28 +94,10 @@
     },
     {
       "pk": 34012013,
-      "translation": "AIV",
-      "book": 34,
-      "bookName": "Daniel",
-      "bookAbbreviation": "Dan",
-      "chapter": 12,
       "verse": 13,
       "text": "But go your way until the end; you shall rest, and at the end of the days you will rise to receive your allotted inheritance.",
       "links": "<a href='/AIV/42/20/35-36'>Luke 20:35-36</a>; <a href='/AIV/11/2/10'>1 Kgs. 2:10</a>",
       "comment": "Daniel is promised personal resurrection and reward—a teaching that prefigures Christ’s own resurrection and the hope of resurrection for all the faithful (Luke 20:36). Rest is symbolic of death, but the promise of rising at the end reflects confidence in bodily resurrection, final justice, and participation in the fullness of the kingdom, which God prepares for His devoted people."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:34:33.948Z",
-  "sections": [
-    {
-      "title": "The Time of the End and the Resurrection",
-      "startVerse": 1,
-      "endVerse": 4
-    },
-    {
-      "title": "The Sealed Prophecy and the Angelic Explanation",
-      "startVerse": 5,
-      "endVerse": 13
     }
   ]
 }

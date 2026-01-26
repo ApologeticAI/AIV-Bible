@@ -1,16 +1,13 @@
 {
-  "book": 3,
+  "translation": "AIV",
+  "bookId": "leviticus",
   "bookName": "Leviticus",
   "bookAbbreviation": "Lev",
+  "bookNumber": 3,
   "chapter": 3,
   "verses": [
     {
       "pk": 3003001,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 3,
       "verse": 1,
       "text": "If anyone presents a sacrifice of peace offering, and brings it from the herd, whether male or female, it must be without defect before the LORD.",
       "links": "<a href='/AIV/3/22/21-22'>Lev. 22:21-22</a>; <a href='/AIV/2/12/5'>Ex. 12:5</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 3003002,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 3,
       "verse": 2,
       "text": "He shall lay his hand on the head of his offering and slaughter it at the entrance of the Tent of Meeting. Aaron's sons, the priests, shall sprinkle the blood around on the altar.",
       "links": "<a href='/AIV/3/1/4-5'>Lev. 1:4-5</a>; <a href='/AIV/3/17/11'>Lev. 17:11</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 3003003,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 3,
       "verse": 3,
       "text": "He shall offer from the sacrifice of the peace offering as an offering made by fire to the LORD: the fat that covers the entrails and all the fat that is on the entrails,",
       "links": "<a href='/AIV/3/7/3-5'>Lev. 7:3-5</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 3003004,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 3,
       "verse": 4,
       "text": "and the two kidneys with the fat that is on them, which is by the loins, and the lobe of the liver, which he shall remove with the kidneys.",
       "links": "<a href='/AIV/3/7/4'>Lev. 7:4</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 3003005,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 3,
       "verse": 5,
       "text": "Aaron’s sons shall burn it on the altar on top of the burnt offering, which is on the wood that is on the fire; it is an offering made by fire, a pleasing aroma to the LORD.",
       "links": "<a href='/AIV/3/1/9'>Lev. 1:9</a>; <a href='/AIV/50/4/18'>Phil. 4:18</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 3003006,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 3,
       "verse": 6,
       "text": "If his offering as a sacrifice of peace offering to the LORD is from the flock, he shall offer either a male or a female, but it must be without defect.",
       "links": "<a href='/AIV/3/1/10'>Lev. 1:10</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 3003007,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 3,
       "verse": 7,
       "text": "If he offers a lamb as his offering, then he shall present it before the LORD.",
       "links": "<a href='/AIV/3/4/32'>Lev. 4:32</a>; <a href='/AIV/43/1/29'>John 1:29</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 3003008,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 3,
       "verse": 8,
       "text": "He shall lay his hand on the head of his offering and slaughter it before the Tent of Meeting, and Aaron's sons shall sprinkle its blood around on the altar.",
       "links": "<a href='/AIV/3/3/2'>Lev. 3:2</a>, <a href='/AIV/58/9/21-22'>Heb. 9:21-22</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 3003009,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 3,
       "verse": 9,
       "text": "From the sacrifice of the peace offering he shall offer as an offering made by fire to the LORD its fat, the entire fat tail cut off close to the backbone, and the fat that covers the entrails and all the fat on the entrails,",
       "links": "<a href='/AIV/3/7/3'>Lev. 7:3</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 3003010,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 3,
       "verse": 10,
       "text": "the two kidneys with the fat that is on them near the loins, and the lobe of the liver, which he shall remove with the kidneys.",
       "links": "<a href='/AIV/3/3/4'>Lev. 3:4</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 3003011,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 3,
       "verse": 11,
       "text": "The priest shall burn them on the altar as food, an offering made by fire to the LORD.",
       "links": "<a href='/AIV/3/21/6'>Lev. 21:6</a>; <a href='/AIV/50/4/18'>Phil. 4:18</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 3003012,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 3,
       "verse": 12,
       "text": "If his offering is a goat, then he shall present it before the LORD.",
       "links": "<a href='/AIV/3/4/23'>Lev. 4:23</a>; <a href='/AIV/40/25/32-33'>Matt. 25:32-33</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 3003013,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 3,
       "verse": 13,
       "text": "He shall lay his hand on its head and slaughter it before the Tent of Meeting, and Aaron’s sons shall sprinkle its blood around on the altar.",
       "links": "<a href='/AIV/3/3/2'>Lev. 3:2</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 3003014,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 3,
       "verse": 14,
       "text": "He shall offer from it as his offering, an offering made by fire to the LORD, the fat that covers the entrails and all the fat that is on the entrails,",
       "links": "<a href='/AIV/3/3/3'>Lev. 3:3</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 3003015,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 3,
       "verse": 15,
       "text": "the two kidneys with the fat that is on them near the loins, and the lobe of the liver, which he shall remove with the kidneys.",
       "links": "<a href='/AIV/3/3/10'>Lev. 3:10</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 3003016,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 3,
       "verse": 16,
       "text": "The priest shall burn them on the altar as food, a pleasing aroma. All fat belongs to the LORD.",
       "links": "<a href='/AIV/3/3/5'>Lev. 3:5</a>; <a href='/AIV/3/7/25'>Lev. 7:25</a>",
@@ -201,39 +123,11 @@
     },
     {
       "pk": 3003017,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 3,
       "verse": 17,
       "text": "It shall be a perpetual statute throughout your generations in all your dwelling places, that you shall eat neither fat nor blood.",
       "links": "<a href='/AIV/3/7/26-27'>Lev. 7:26-27</a>; <a href='/AIV/5/12/23'>Deut. 12:23</a>; <a href='/AIV/44/15/20'>Acts 15:20</a>",
       "comment": "This is understood both literally and spiritually: God reserves the highest for Himself, while blood (life) belongs to God alone. In the New Testament, the Apostles maintain the emphasis on reverence for blood (Acts 15:20). Spiritually, it lays groundwork for deep respect for what is holy in our worship and participation in the covenant.",
       "sectionHeader": "Prohibition against Eating Fat and Blood"
-    }
-  ],
-  "translatedAt": "2025-12-24T01:11:04.807Z",
-  "sections": [
-    {
-      "title": "The Peace Offering from the Herd",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "The Peace Offering from the Flock",
-      "startVerse": 6,
-      "endVerse": 11
-    },
-    {
-      "title": "The Peace Offering from the Goats",
-      "startVerse": 12,
-      "endVerse": 16
-    },
-    {
-      "title": "Prohibition against Eating Fat and Blood",
-      "startVerse": 17,
-      "endVerse": 17
     }
   ]
 }

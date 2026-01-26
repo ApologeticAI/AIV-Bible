@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 32,
   "verses": [
     {
       "pk": 23032001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 32,
       "verse": 1,
       "text": "Blessed is the one whose transgression is forgiven, whose sin is covered.",
       "links": "<a href='/AIV/19/85/2'>Ps. 85:2</a>; <a href='/AIV/45/4/7-8'>Rom. 4:7-8</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23032002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 32,
       "verse": 2,
       "text": "Blessed is the man to whom the LORD does not count iniquity, and in whose spirit there is no deceit.",
       "links": "<a href='/AIV/19/73/1'>Ps. 73:1</a>; <a href='/AIV/43/1/47'>John 1:47</a>; <a href='/AIV/45/4/8'>Rom. 4:8</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23032003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 32,
       "verse": 3,
       "text": "When I kept silent, my bones wasted away through my groaning all day long.",
       "links": "<a href='/AIV/19/31/10'>Ps. 31:10</a>; <a href='/AIV/19/38/3'>Ps. 38:3</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 23032004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 32,
       "verse": 4,
       "text": "For day and night your hand was heavy upon me; my strength was dried up as by the heat of summer. Selah.",
       "links": "<a href='/AIV/19/38/2'>Ps. 38:2</a>; <a href='/AIV/19/39/10'>Ps. 39:10</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 23032005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 32,
       "verse": 5,
       "text": "I acknowledged my sin to you, and I did not cover up my iniquity; I said, 'I will confess my transgressions to the LORD,' and you forgave the guilt of my sin. Selah.",
       "links": "<a href='/AIV/19/51/3-4'>Ps. 51:3-4</a>; <a href='/AIV/20/28/13'>Prov. 28:13</a>; <a href='/AIV/62/1/9'>1 John 1:9</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 23032006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 32,
       "verse": 6,
       "text": "Therefore let everyone who is godly pray to you while you may be found; surely in the rush of great waters, they shall not reach him.",
       "links": "<a href='/AIV/19/69/13'>Ps. 69:13</a>; <a href='/AIV/23/55/6'>Isa. 55:6</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 23032007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 32,
       "verse": 7,
       "text": "You are a hiding place for me; you preserve me from trouble; you surround me with songs of deliverance. Selah.",
       "links": "<a href='/AIV/19/27/5'>Ps. 27:5</a>; <a href='/AIV/19/119/114'>Ps. 119:114</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 23032008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 32,
       "verse": 8,
       "text": "'I will instruct you and teach you in the way you should go; I will counsel you with my eye upon you.'",
       "links": "<a href='/AIV/19/25/8-9'>Ps. 25:8-9</a>; <a href='/AIV/19/48/14'>Ps. 48:14</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 23032009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 32,
       "verse": 9,
       "text": "Do not be like a horse or a mule, without understanding, which must be controlled with bit and bridle, or it will not come near you.",
       "links": "<a href='/AIV/20/26/3'>Prov. 26:3</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 23032010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 32,
       "verse": 10,
       "text": "Many are the sorrows of the wicked, but steadfast love surrounds the one who trusts in the LORD.",
       "links": "<a href='/AIV/19/34/21'>Ps. 34:21</a>; <a href='/AIV/19/125/2'>Ps. 125:2</a>",
@@ -129,33 +81,10 @@
     },
     {
       "pk": 23032011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 32,
       "verse": 11,
       "text": "Be glad in the LORD, and rejoice, you righteous; and shout for joy, all you upright in heart!",
       "links": "<a href='/AIV/19/33/1'>Ps. 33:1</a>; <a href='/AIV/35/3/18'>Hab. 3:18</a>",
       "comment": "Forgiveness leads to joy and communal praise, a characteristic of the worshiping people of God in all ages, fulfilled when believers live out their faith together in unity and truth."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:09:03.530Z",
-  "sections": [
-    {
-      "title": "The Blessedness of Forgiveness",
-      "startVerse": 1,
-      "endVerse": 2
-    },
-    {
-      "title": "Confession and Deliverance",
-      "startVerse": 3,
-      "endVerse": 7
-    },
-    {
-      "title": "Instruction and Counsel from the Lord",
-      "startVerse": 8,
-      "endVerse": 11
     }
   ]
 }

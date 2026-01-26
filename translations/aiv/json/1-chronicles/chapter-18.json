@@ -1,16 +1,13 @@
 {
-  "book": 13,
+  "translation": "AIV",
+  "bookId": "1-chronicles",
   "bookName": "1 Chronicles",
-  "bookAbbreviation": "1Chr",
+  "bookAbbreviation": "1 Chr",
+  "bookNumber": 13,
   "chapter": 18,
   "verses": [
     {
       "pk": 13018001,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 18,
       "verse": 1,
       "text": "After this, David defeated the Philistines and subdued them, and he took Gath and its villages from the hand of the Philistines.",
       "links": "<a href='/AIV/10/8/1'>2 Sam. 8:1</a>; <a href='/AIV/09/17/51'>1 Sam. 17:51</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 13018002,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 18,
       "verse": 2,
       "text": "He defeated Moab, and the Moabites became subject to David and brought him tribute.",
       "links": "<a href='/AIV/10/8/2'>2 Sam. 8:2</a>; <a href='/AIV/08/23/2'>Ruth 2:2</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 13018003,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 18,
       "verse": 3,
       "text": "David also defeated Hadadezer king of Zobah at Hamath, as he went to establish his rule at the river Euphrates.",
       "links": "<a href='/AIV/10/8/3'>2 Sam. 8:3</a>; <a href='/AIV/01/15/18'>Gen. 15:18</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 13018004,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 18,
       "verse": 4,
       "text": "David captured from him a thousand chariots, seven thousand charioteers, and twenty thousand foot soldiers. David hamstrung all the chariot horses except enough for one hundred chariots.",
       "links": "<a href='/AIV/10/8/4'>2 Sam. 8:4</a>; <a href='/AIV/05/17/16'>Deut. 17:16</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 13018005,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 18,
       "verse": 5,
       "text": "When the Arameans of Damascus came to help Hadadezer king of Zobah, David struck down twenty-two thousand men of the Arameans.",
       "links": "<a href='/AIV/10/8/5'>2 Sam. 8:5</a>; <a href='/AIV/19/68/30'>Ps. 68:30</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 13018006,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 18,
       "verse": 6,
       "text": "Then David set up garrisons in Aram of Damascus, and the Arameans became subject to David, bringing him tribute. And the LORD gave victory to David wherever he went.",
       "links": "<a href='/AIV/10/8/6'>2 Sam. 8:6</a>; <a href='/AIV/09/18/14'>1 Sam. 18:14</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 13018007,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 18,
       "verse": 7,
       "text": "David took the shields of gold that were carried by the servants of Hadadezer and brought them to Jerusalem.",
       "links": "<a href='/AIV/10/8/7'>2 Sam. 8:7</a>; <a href='/AIV/11/10/16'>1 Kings 10:16</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 13018008,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 18,
       "verse": 8,
       "text": "From Tibhath and Cun, cities of Hadadezer, David took very much bronze. With it Solomon later made the bronze Sea, the pillars, and the vessels for the temple.",
       "links": "<a href='/AIV/11/7/23'>1 Kings 7:23</a>; <a href='/AIV/13/29/2'>1 Chr. 29:2</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 13018009,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 18,
       "verse": 9,
       "text": "When Tou king of Hamath heard that David had defeated the whole army of Hadadezer king of Zobah,",
       "links": "<a href='/AIV/10/8/9'>2 Sam. 8:9</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 13018010,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 18,
       "verse": 10,
       "text": "he sent his son Hadoram to King David to greet him and to bless him, because he had fought against Hadadezer and defeated him, for Hadadezer had been at war with Tou. He sent all kinds of articles of gold, silver, and bronze.",
       "links": "<a href='/AIV/10/8/10'>2 Sam. 8:10</a>; <a href='/AIV/13/29/4'>1 Chr. 29:4</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 13018011,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 18,
       "verse": 11,
       "text": "King David dedicated these also to the LORD, with the silver and gold he had carried away from all the nations: Edom, Moab, the Ammonites, the Philistines, and Amalek.",
       "links": "<a href='/AIV/13/22/14'>1 Chr. 22:14</a>; <a href='/AIV/19/72/10-11'>Ps. 72:10-11</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 13018012,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 18,
       "verse": 12,
       "text": "Moreover Abishai the son of Zeruiah killed eighteen thousand Edomites in the Valley of Salt.",
       "links": "<a href='/AIV/10/8/13'>2 Sam. 8:13</a>; <a href='/AIV/19/60/1'>Ps. 60:1</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 13018013,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 18,
       "verse": 13,
       "text": "He put garrisons in Edom, and all the Edomites became subject to David. And the LORD gave victory to David wherever he went.",
       "links": "<a href='/AIV/13/18/6'>1 Chr. 18:6</a>; <a href='/AIV/13/29/25'>1 Chr. 29:25</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 13018014,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 18,
       "verse": 14,
       "text": "So David reigned over all Israel, and he administered justice and righteousness for all his people.",
       "links": "<a href='/AIV/13/29/23'>1 Chr. 29:23</a>; <a href='/AIV/23/9/7'>Isa. 9:7</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 13018015,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 18,
       "verse": 15,
       "text": "Joab the son of Zeruiah was over the army; Jehoshaphat the son of Ahilud was recorder;",
       "links": "<a href='/AIV/10/8/16'>2 Sam. 8:16</a>; <a href='/AIV/13/27/34'>1 Chr. 27:34</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 13018016,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 18,
       "verse": 16,
       "text": "Zadok the son of Ahitub and Abimelech the son of Abiathar were priests; and Shavsha was secretary;",
       "links": "<a href='/AIV/13/15/11'>1 Chr. 15:11</a>; <a href='/AIV/11/2/35'>1 Kings 2:35</a>",
@@ -201,33 +123,10 @@
     },
     {
       "pk": 13018017,
-      "translation": "AIV",
-      "book": 13,
-      "bookName": "1 Chronicles",
-      "bookAbbreviation": "1Chr",
-      "chapter": 18,
       "verse": 17,
       "text": "Benaiah the son of Jehoiada was over the Cherethites and Pelethites; and David’s sons were chief officials in the service of the king.",
       "links": "<a href='/AIV/10/8/18'>2 Sam. 8:18</a>; <a href='/AIV/13/23/28'>1 Chr. 23:28</a>",
       "comment": "Benaiah's authority and David’s sons’ high office demonstrate roles for both royal and priestly service. This points to the principle of established hierarchy in the administration of God's people, paralleled in later ecclesial life and order."
-    }
-  ],
-  "translatedAt": "2025-12-24T04:15:11.565Z",
-  "sections": [
-    {
-      "title": "David’s Victories over Surrounding Nations",
-      "startVerse": 1,
-      "endVerse": 8
-    },
-    {
-      "title": "Tou King of Hamath Sends Gifts to David",
-      "startVerse": 9,
-      "endVerse": 14
-    },
-    {
-      "title": "David’s Officials",
-      "startVerse": 15,
-      "endVerse": 17
     }
   ]
 }

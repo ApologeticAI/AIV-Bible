@@ -1,16 +1,13 @@
 {
-  "book": 14,
+  "translation": "AIV",
+  "bookId": "2-chronicles",
   "bookName": "2 Chronicles",
-  "bookAbbreviation": "2Chr",
+  "bookAbbreviation": "2 Chr",
+  "bookNumber": 14,
   "chapter": 5,
   "verses": [
     {
       "pk": 14005001,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 5,
       "verse": 1,
       "text": "When all the work Solomon had done for the house of the LORD was finished, Solomon brought in the things his father David had dedicated—the silver, the gold, and all the furnishings. He placed them in the treasuries of the house of God.",
       "links": "<a href='/AIV/11/7/51'>1 Kgs 7:51</a>; <a href='/AIV/13/22/14'>1 Chr 22:14</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 14005002,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 5,
       "verse": 2,
       "text": "Then Solomon gathered the elders of Israel, all the heads of the tribes, and the chief fathers of the people of Israel in Jerusalem, to bring up the ark of the covenant of the LORD from the city of David, that is, Zion.",
       "links": "<a href='/AIV/10/6/12'>2 Sam 6:12</a>; <a href='/AIV/11/8/1'>1 Kgs 8:1</a>",
@@ -32,11 +24,6 @@
     },
     {
       "pk": 14005003,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 5,
       "verse": 3,
       "text": "So all the men of Israel assembled before the king at the feast, which was in the seventh month.",
       "links": "<a href='/AIV/03/23/34'>Lev 23:34</a>; <a href='/AIV/11/8/2'>1 Kgs 8:2</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 14005004,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 5,
       "verse": 4,
       "text": "When all the elders of Israel arrived, the Levites lifted up the ark.",
       "links": "<a href='/AIV/04/4/15'>Num 4:15</a>; <a href='/AIV/11/8/3'>1 Kgs 8:3</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 14005005,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 5,
       "verse": 5,
       "text": "They brought up the ark, the tent of meeting, and all the sacred vessels that were in the tent. The Levitical priests brought them up.",
       "links": "<a href='/AIV/02/40/1-9'>Ex 40:1–9</a>; <a href='/AIV/04/3/5-8'>Num 3:5–8</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 14005006,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 5,
       "verse": 6,
       "text": "King Solomon and the whole congregation of Israel, who had gathered before the ark, sacrificed so many sheep and oxen they could not be counted or numbered for multitude.",
       "links": "<a href='/AIV/11/8/5'>1 Kgs 8:5</a>; <a href='/AIV/03/9/22'>Lev 9:22</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 14005007,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 5,
       "verse": 7,
       "text": "Then the priests brought the ark of the covenant of the LORD to its place, into the inner sanctuary of the temple, the Most Holy Place, under the wings of the cherubim.",
       "links": "<a href='/AIV/02/25/21-22'>Ex 25:21–22</a>; <a href='/AIV/11/8/6'>1 Kgs 8:6</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 14005008,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 5,
       "verse": 8,
       "text": "For the cherubim spread their wings over the place of the ark, so that the cherubim covered the ark and its poles from above.",
       "links": "<a href='/AIV/02/25/18-20'>Ex 25:18–20</a>; <a href='/AIV/58/9/5'>Heb 9:5</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 14005009,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 5,
       "verse": 9,
       "text": "The poles were so long that their ends could be seen from the Holy Place in front of the inner sanctuary, but they could not be seen from outside. They are there to this day.",
       "links": "<a href='/AIV/02/25/13-15'>Ex 25:13–15</a>; <a href='/AIV/11/8/8'>1 Kgs 8:8</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 14005010,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 5,
       "verse": 10,
       "text": "There was nothing in the ark except the two tablets that Moses had put there at Horeb, when the LORD made a covenant with the people of Israel, when they came out of Egypt.",
       "links": "<a href='/AIV/02/25/16'>Ex 25:16</a>; <a href='/AIV/05/10/2'>Deut 10:2</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 14005011,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 5,
       "verse": 11,
       "text": "When the priests came out of the Holy Place—for all the priests present had consecrated themselves, without regard to their divisions—",
       "links": "<a href='/AIV/03/8/30'>Lev 8:30</a>; <a href='/AIV/11/8/10'>1 Kgs 8:10</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 14005012,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 5,
       "verse": 12,
       "text": "and all the Levites who were singers—Asaph, Heman, Jeduthun, their sons and relatives—stood east of the altar, clothed in fine linen, with cymbals, harps, and lyres. Together with them were 120 priests sounding trumpets.",
       "links": "<a href='/AIV/13/25/1-7'>1 Chr 25:1–7</a>; <a href='/AIV/03/16/4'>Lev 16:4</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 14005013,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 5,
       "verse": 13,
       "text": "The trumpeters and singers joined as one to give praise and thanks to the LORD. They raised their voices, accompanied by trumpets, cymbals, and other instruments, and praised the LORD: 'For He is good, for His steadfast love endures forever.' Then the house, the house of the LORD, was filled with a cloud,",
       "links": "<a href='/AIV/02/40/34-35'>Ex 40:34–35</a>; <a href='/AIV/19/136/1'>Ps 136:1</a>",
@@ -165,33 +102,10 @@
     },
     {
       "pk": 14005014,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 5,
       "verse": 14,
       "text": "so that the priests could not stand to minister because of the cloud, for the glory of the LORD filled the house of God.",
       "links": "<a href='/AIV/02/40/35'>Ex 40:35</a>; <a href='/AIV/11/8/11'>1 Kgs 8:11</a>",
       "comment": "The overwhelming glory of God prevents even the priests from ministering. This signifies that true worship is empowered and completed by God's presence, not merely by human action. The 'glory cloud' prefigures the descent of the Spirit and the real presence of God in later sacred assemblies."
-    }
-  ],
-  "translatedAt": "2025-12-24T04:23:43.337Z",
-  "sections": [
-    {
-      "title": "Completion of the Temple Furnishings",
-      "startVerse": 1,
-      "endVerse": 1
-    },
-    {
-      "title": "The Ark Brought into the Temple",
-      "startVerse": 2,
-      "endVerse": 10
-    },
-    {
-      "title": "The Glory of the Lord Fills the Temple",
-      "startVerse": 11,
-      "endVerse": 14
     }
   ]
 }

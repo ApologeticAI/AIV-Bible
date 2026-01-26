@@ -1,16 +1,13 @@
 {
-  "book": 22,
+  "translation": "AIV",
+  "bookId": "job",
   "bookName": "Job",
   "bookAbbreviation": "Job",
+  "bookNumber": 22,
   "chapter": 42,
   "verses": [
     {
       "pk": 22042001,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 42,
       "verse": 1,
       "text": "Then Job answered the LORD and said:",
       "links": "<a href='/AIV/22/40/3-5'>Job 40:3-5</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 22042002,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 42,
       "verse": 2,
       "text": "\"I know that you can do all things, and that no purpose of yours can be hindered.",
       "links": "<a href='/AIV/19/115/3'>Ps. 115:3</a>; <a href='/AIV/24/32/17'>Jer. 32:17</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 22042003,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 42,
       "verse": 3,
       "text": "\"You asked, 'Who is this that obscures counsel without knowledge?' Surely I spoke about things I did not understand, things too wonderful for me to know.\"",
       "links": "<a href='/AIV/22/38/2'>Job 38:2</a>; <a href='/AIV/19/139/6'>Ps. 139:6</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 22042004,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 42,
       "verse": 4,
       "text": "\"Listen, and I will speak; I will question you, and you shall answer me.\"",
       "links": "<a href='/AIV/22/38/3'>Job 38:3</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 22042005,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 42,
       "verse": 5,
       "text": "\"My ears had heard of you, but now my eyes have seen you.\"",
       "links": "<a href='/AIV/19/63/2'>Ps. 63:2</a>; <a href='/AIV/19/34/8'>Ps. 34:8</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 22042006,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 42,
       "verse": 6,
       "text": "\"Therefore I despise myself and repent in dust and ashes.\"",
       "links": "<a href='/AIV/18/39/14'>Dan. 9:3</a>; <a href='/AIV/18/12/8'>Jonah 3:6</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 22042007,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 42,
       "verse": 7,
       "text": "After the LORD had spoken these words to Job, he said to Eliphaz the Temanite: \"My anger burns against you and against your two friends, because you have not spoken of me what is right, as my servant Job has.\"",
       "links": "<a href='/AIV/22/32/1-2'>Job 32:1-2</a>; <a href='/AIV/19/50/17'>Ps. 50:17</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 22042008,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 42,
       "verse": 8,
       "text": "Now therefore, take seven bulls and seven rams, and go to my servant Job and offer up a burnt offering for yourselves. My servant Job shall pray for you, for I will accept his prayer, not to deal with you according to your folly. For you have not spoken of me what is right, as my servant Job has.\"",
       "links": "<a href='/AIV/03/9/2'>Lev. 9:2</a>; <a href='/AIV/04/23/1'>Num. 23:1</a>; <a href='/AIV/19/32/6'>Ps. 32:6</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 22042009,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 42,
       "verse": 9,
       "text": "So Eliphaz the Temanite, Bildad the Shuhite, and Zophar the Naamathite went and did as the LORD commanded them, and the LORD accepted Job’s prayer.",
       "links": "<a href='/AIV/22/1/1-3'>Job 1:1-3</a>; <a href='/AIV/19/34/15'>Ps. 34:15</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 22042010,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 42,
       "verse": 10,
       "text": "And the LORD restored Job’s fortunes, when he had prayed for his friends. And the LORD gave Job twice as much as he had before.",
       "links": "<a href='/AIV/22/1/2-3'>Job 1:2-3</a>; <a href='/AIV/23/61/7'>Isa. 61:7</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 22042011,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 42,
       "verse": 11,
       "text": "Then all his brothers, sisters, and all who had known him before came to him, and ate bread with him in his house. They consoled him and comforted him for all the evil that the LORD had brought upon him. And each one gave him a piece of silver and a gold ring.",
       "links": "<a href='/AIV/22/19/13-14'>Job 19:13-14</a>; <a href='/AIV/42/15/23'>Luke 15:23</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 22042012,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 42,
       "verse": 12,
       "text": "The LORD blessed the latter days of Job more than his beginning. He had fourteen thousand sheep, six thousand camels, a thousand yoke of oxen, and a thousand female donkeys.",
       "links": "<a href='/AIV/22/1/3'>Job 1:3</a>; <a href='/AIV/23/61/7'>Isa. 61:7</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 22042013,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 42,
       "verse": 13,
       "text": "He also had seven sons and three daughters.",
       "links": "<a href='/AIV/22/1/2'>Job 1:2</a>; <a href='/AIV/19/127/3'>Ps. 127:3</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 22042014,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 42,
       "verse": 14,
       "text": "He named the first daughter Jemimah, the second Keziah, and the third Keren-happuch.",
       "links": "<a href='/AIV/22/1/2'>Job 1:2</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 22042015,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 42,
       "verse": 15,
       "text": "In all the land there were no women as beautiful as Job’s daughters; and their father gave them an inheritance among their brothers.",
       "links": "<a href='/AIV/04/27/7'>Num. 27:7</a>; <a href='/AIV/48/3/28'>Gal. 3:28</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 22042016,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 42,
       "verse": 16,
       "text": "After this, Job lived one hundred and forty years, and saw his children and their children, to four generations.",
       "links": "<a href='/AIV/22/8/32'>Job 8:32</a>; <a href='/AIV/01/50/23'>Gen. 50:23</a>",
@@ -201,33 +123,10 @@
     },
     {
       "pk": 22042017,
-      "translation": "AIV",
-      "book": 22,
-      "bookName": "Job",
-      "bookAbbreviation": "Job",
-      "chapter": 42,
       "verse": 17,
       "text": "Then Job died, old and full of days.",
       "links": "<a href='/AIV/01/25/8'>Gen. 25:8</a>; <a href='/AIV/01/35/29'>Gen. 35:29</a>",
       "comment": "Job’s peaceful death 'full of days' echoes the patriarchal blessing—a sign of a life lived in accord with God’s will. It points to the hope not only of temporal reward, but the promise of everlasting life for those faithful, which is ultimately fulfilled through Christ’s victory over death."
-    }
-  ],
-  "translatedAt": "2025-12-24T05:59:04.248Z",
-  "sections": [
-    {
-      "title": "Job’s Repentance and Submission",
-      "startVerse": 1,
-      "endVerse": 6
-    },
-    {
-      "title": "The Lord Rebukes Job’s Friends",
-      "startVerse": 7,
-      "endVerse": 9
-    },
-    {
-      "title": "Job’s Restoration and Blessing",
-      "startVerse": 10,
-      "endVerse": 17
     }
   ]
 }

@@ -1,16 +1,13 @@
 {
-  "book": 10,
+  "translation": "AIV",
+  "bookId": "2-samuel",
   "bookName": "2 Samuel",
-  "bookAbbreviation": "2Sam",
+  "bookAbbreviation": "2 Sam",
+  "bookNumber": 10,
   "chapter": 9,
   "verses": [
     {
       "pk": 10009001,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 9,
       "verse": 1,
       "text": "David asked, \"Is there anyone left from the house of Saul, to whom I may show kindness for Jonathan’s sake?\"",
       "links": "<a href='/AIV/9/20/14-15'>1 Sam. 20:14-15</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 10009002,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 9,
       "verse": 2,
       "text": "There was a servant of Saul’s household named Ziba. They called him to David, and the king asked, \"Are you Ziba?\" He replied, \"I am your servant.\"",
       "links": "<a href='/AIV/10/16/1'>2 Sam. 16:1</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 10009003,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 9,
       "verse": 3,
       "text": "The king said, \"Is there no one still alive from the house of Saul to whom I may show God’s kindness?\" Ziba answered, \"There is still a son of Jonathan; he is crippled in both feet.\"",
       "links": "<a href='/AIV/10/4/4'>2 Sam. 4:4</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 10009004,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 9,
       "verse": 4,
       "text": "\"Where is he?\" the king asked. Ziba replied, \"He is at the house of Machir son of Ammiel, in Lo-debar.\"",
       "links": "<a href='/AIV/10/17/27'>2 Sam. 17:27</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 10009005,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 9,
       "verse": 5,
       "text": "Then King David sent for him and brought him from Machir’s house at Lo-debar.",
       "links": "<a href='/AIV/24/32/41-42'>Jer. 32:41-42</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 10009006,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 9,
       "verse": 6,
       "text": "When Mephibosheth son of Jonathan, son of Saul, came to David, he bowed low and paid homage. David said, \"Mephibosheth!\" And he answered, \"Here is your servant.\"",
       "links": "<a href='/AIV/42/15/18-19'>Luke 15:18-19</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 10009007,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 9,
       "verse": 7,
       "text": "David said to him, \"Do not be afraid, for I will surely show you kindness for Jonathan your father’s sake. I will return to you all the land that belonged to Saul your grandfather, and you shall always eat at my table.\"",
       "links": "<a href='/AIV/42/22/30'>Luke 22:30</a>; <a href='/AIV/10/21/7'>2 Sam. 21:7</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 10009008,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 9,
       "verse": 8,
       "text": "Mephibosheth bowed down and said, \"What is your servant, that you should notice a dead dog like me?\"",
       "links": "<a href='/AIV/10/16/9'>2 Sam. 16:9</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 10009009,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 9,
       "verse": 9,
       "text": "Then the king called Ziba, Saul’s servant, and said to him, \"I have given to your master’s grandson everything that belonged to Saul and his family.\"",
       "links": "<a href='/AIV/10/19/29'>2 Sam. 19:29</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 10009010,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 9,
       "verse": 10,
       "text": "You and your sons and your servants shall farm the land for him and bring in its produce, so that your master’s grandson may have food to eat. But Mephibosheth, your master’s grandson, will always eat at my table.\" Ziba had fifteen sons and twenty servants.",
       "links": "<a href='/AIV/46/9/13'>1 Cor. 9:13</a>",
@@ -127,11 +79,6 @@
     },
     {
       "pk": 10009011,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 9,
       "verse": 11,
       "text": "Then Ziba said to the king, \"Your servant will do all my lord the king commands.\" So Mephibosheth ate at David’s table, like one of the king’s sons.",
       "links": "<a href='/AIV/43/1/12'>John 1:12</a>",
@@ -139,11 +86,6 @@
     },
     {
       "pk": 10009012,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 9,
       "verse": 12,
       "text": "Mephibosheth had a young son named Mica. All who lived in Ziba’s household became servants of Mephibosheth.",
       "links": "<a href='/AIV/13/8/34-35'>1 Chr. 8:34-35</a>",
@@ -151,23 +93,10 @@
     },
     {
       "pk": 10009013,
-      "translation": "AIV",
-      "book": 10,
-      "bookName": "2 Samuel",
-      "bookAbbreviation": "2Sam",
-      "chapter": 9,
       "verse": 13,
       "text": "And Mephibosheth lived in Jerusalem, because he always ate at the king’s table. He was crippled in both feet.",
       "links": "<a href='/AIV/10/21/7'>2 Sam. 21:7</a>",
       "comment": "Dwelling in Jerusalem and eating at the king’s table, despite personal weakness, is a vivid sign of the continuous grace offered in the city of God and a foretaste of the perpetual banquet promised to those who persevere in faith."
-    }
-  ],
-  "translatedAt": "2025-12-24T03:15:37.201Z",
-  "sections": [
-    {
-      "title": "David’s Kindness to Mephibosheth",
-      "startVerse": 1,
-      "endVerse": 13
     }
   ]
 }

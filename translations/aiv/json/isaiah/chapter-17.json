@@ -1,16 +1,13 @@
 {
-  "book": 29,
+  "translation": "AIV",
+  "bookId": "isaiah",
   "bookName": "Isaiah",
   "bookAbbreviation": "Isa",
+  "bookNumber": 29,
   "chapter": 17,
   "verses": [
     {
       "pk": 29017001,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 17,
       "verse": 1,
       "text": "The burden concerning Damascus: Behold, Damascus will cease to be a city, and will become a heap of ruins.",
       "links": "<a href='/AIV/23/7/8'>Isa. 7:8</a>; <a href='/AIV/24/49/23-27'>Jer. 49:23-27</a>; <a href='/AIV/30/1/3-5'>Amos 1:3-5</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 29017002,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 17,
       "verse": 2,
       "text": "The cities of Aroer are forsaken; they will be for flocks, which lie down, and none will make them afraid.",
       "links": "<a href='/AIV/24/49/23'>Jer. 49:23</a>; <a href='/AIV/26/25/5'>Ezek. 25:5</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 29017003,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 17,
       "verse": 3,
       "text": "The fortress will disappear from Ephraim, and sovereignty from Damascus. The remnant of Aram will be like the glory of the people of Israel, declares the LORD of Hosts.",
       "links": "<a href='/AIV/28/1/4'>Hos. 1:4</a>; <a href='/AIV/23/7/8-9'>Isa. 7:8-9</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 29017004,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 17,
       "verse": 4,
       "text": "In that day the glory of Jacob will fade, and the fatness of his flesh will grow lean.",
       "links": "<a href='/AIV/23/10/16'>Isa. 10:16</a>; <a href='/AIV/28/10/8'>Hos. 10:8</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 29017005,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 17,
       "verse": 5,
       "text": "It will be as when the harvester gathers standing grain, and his arm reaps the ears. It will be as when one gleans ears of grain in the Valley of Rephaim.",
       "links": "<a href='/AIV/03/19/9-10'>Lev. 19:9-10</a>; <a href='/AIV/24/6/9'>Jer. 6:9</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 29017006,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 17,
       "verse": 6,
       "text": "Only gleanings will be left in it, as when an olive tree is beaten—two or three berries at the very top, four or five on the branches of a fruitful tree, declares the Lord, the God of Israel.",
       "links": "<a href='/AIV/24/6/9'>Jer. 6:9</a>; <a href='/AIV/24/49/9'>Jer. 49:9</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 29017007,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 17,
       "verse": 7,
       "text": "In that day, a man will look to his Maker, and his eyes will regard the Holy One of Israel.",
       "links": "<a href='/AIV/23/1/4'>Isa. 1:4</a>; <a href='/AIV/23/10/20-21'>Isa. 10:20-21</a>",
@@ -93,11 +60,6 @@
     },
     {
       "pk": 29017008,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 17,
       "verse": 8,
       "text": "They will not look to the altars, the work of their hands; they will not regard what their fingers have made, either the Asherim or the incense altars.",
       "links": "<a href='/AIV/14/31/1'>2 Chr. 31:1</a>; <a href='/AIV/23/2/8'>Isa. 2:8</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 29017009,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 17,
       "verse": 9,
       "text": "In that day their strong cities will be like the deserted places of the forest and the hilltops, which were deserted before the children of Israel. It will become a desolation.",
       "links": "<a href='/AIV/07/6/2'>Judg. 6:2</a>; <a href='/AIV/23/13/9'>Isa. 13:9</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 29017010,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 17,
       "verse": 10,
       "text": "For you have forgotten the God of your salvation and have not remembered the Rock of your refuge; therefore you plant pleasant plants and set foreign vines,",
       "links": "<a href='/AIV/05/32/18'>Deut. 32:18</a>; <a href='/AIV/23/27/2'>Isa. 27:2</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 29017011,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 17,
       "verse": 11,
       "text": "In the day that you plant, you make it grow; in the morning you make your seed blossom—but the harvest will flee away in a day of grief and incurable pain.",
       "links": "<a href='/AIV/28/8/7'>Hos. 8:7</a>; <a href='/AIV/19/127/1'>Ps. 127:1</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 29017012,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 17,
       "verse": 12,
       "text": "Ah, the thunder of many peoples; they roar like the roaring of the seas! The rushing of nations—they rush like the rushing of mighty waters!",
       "links": "<a href='/AIV/23/8/7'>Isa. 8:7</a>; <a href='/AIV/23/17/13'>Isa. 17:13</a>",
@@ -154,11 +96,6 @@
     },
     {
       "pk": 29017013,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 17,
       "verse": 13,
       "text": "The nations will rush like the rushing of many waters, but He will rebuke them, and they will flee far away, chased like chaff on the mountains before the wind and like whirling dust before the storm.",
       "links": "<a href='/AIV/23/41/15-16'>Isa. 41:15-16</a>; <a href='/AIV/19/1/4'>Ps. 1:4</a>",
@@ -166,38 +103,10 @@
     },
     {
       "pk": 29017014,
-      "translation": "AIV",
-      "book": 29,
-      "bookName": "Isaiah",
-      "bookAbbreviation": "Isa",
-      "chapter": 17,
       "verse": 14,
       "text": "At evening, terror; before morning, they are no more. This is the portion of those who plunder us, the lot of those who rob us.",
       "links": "<a href='/AIV/23/37/36'>Isa. 37:36</a>; <a href='/AIV/19/30/5'>Ps. 30:5</a>",
       "comment": "This verse foretells the sudden and complete overthrow of Israel's enemies—most likely referencing Assyria (cf. Isaiah 37:36)—emphasizing God's power to bring swift judgment upon those who oppress His people (see Psalm 37:35–36; Exodus 14:24-27)."
-    }
-  ],
-  "translatedAt": "2025-12-24T07:58:33.695Z",
-  "sections": [
-    {
-      "title": "Oracle Against Damascus",
-      "startVerse": 1,
-      "endVerse": 3
-    },
-    {
-      "title": "Judgment on Israel",
-      "startVerse": 4,
-      "endVerse": 6
-    },
-    {
-      "title": "A Remnant Turns to God",
-      "startVerse": 7,
-      "endVerse": 11
-    },
-    {
-      "title": "The Judgment of the Nations",
-      "startVerse": 12,
-      "endVerse": 14
     }
   ]
 }

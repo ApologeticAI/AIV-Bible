@@ -1,16 +1,13 @@
 {
-  "book": 45,
+  "translation": "AIV",
+  "bookId": "zechariah",
   "bookName": "Zechariah",
   "bookAbbreviation": "Zech",
+  "bookNumber": 45,
   "chapter": 5,
   "verses": [
     {
       "pk": 45005001,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 5,
       "verse": 1,
       "text": "Then I looked up again and saw a flying scroll.",
       "links": "<a href='/AIV/24/36/2'>Jer. 36:2</a>; <a href='/AIV/26/2/9-10'>Ezek. 2:9-10</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 45005002,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 5,
       "verse": 2,
       "text": "He said to me, 'What do you see?' I answered, 'I see a flying scroll, twenty cubits long and ten cubits wide.'",
       "links": "<a href='/AIV/11/6/3'>1 Kgs. 6:3</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 45005003,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 5,
       "verse": 3,
       "text": "Then he said to me, 'This is the curse that goes out over the face of the whole land; for everyone who steals shall be cleaned out according to what is written on one side, and everyone who swears falsely shall be cleaned out according to what is written on the other side.'",
       "links": "<a href='/AIV/3/20/15'>Ex. 20:15</a>; <a href='/AIV/3/19/12'>Lev. 19:12</a>; <a href='/AIV/39/3/5'>Mal. 3:5</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 45005004,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 5,
       "verse": 4,
       "text": "'I will send it out,' declares the LORD of hosts, 'and it will enter the house of the thief and the house of him who swears falsely by my name. It will remain in his house and consume it, both timber and stones.'",
       "links": "<a href='/AIV/3/19/35-37'>Lev. 19:35-37</a>; <a href='/AIV/6/7/15-26'>Josh. 7:15-26</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 45005005,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 5,
       "verse": 5,
       "text": "Then the angel who was speaking with me came forward and said to me, 'Lift up your eyes and see what this is that is going out.'",
       "links": "<a href='/AIV/38/1/9'>Zech. 1:9</a>; <a href='/AIV/38/4/1'>Zech. 4:1</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 45005006,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 5,
       "verse": 6,
       "text": "I asked, 'What is it?' He said, 'This is the measuring basket that is going out.' And he said, 'This is their iniquity in all the land.'",
       "links": "<a href='/AIV/03/19/36'>Lev. 19:36</a>; <a href='/AIV/30/8/5'>Amos 8:5</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 45005007,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 5,
       "verse": 7,
       "text": "And behold, a lead cover was lifted, and there was a woman sitting inside the basket.",
       "links": "<a href='/AIV/20/7/27'>Prov. 7:27</a>; <a href='/AIV/66/17/4'>Rev. 17:4</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 45005008,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 5,
       "verse": 8,
       "text": "And he said, 'This is Wickedness.' And he cast her down into the basket, and he put the lead cover on its opening.",
       "links": "<a href='/AIV/18/24/13'>Job 24:13</a>; <a href='/AIV/66/18/2'>Rev. 18:2</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 45005009,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 5,
       "verse": 9,
       "text": "Then I lifted my eyes and saw, and two women were coming out with the wind in their wings. They had wings like those of a stork, and they lifted up the basket between earth and heaven.",
       "links": "<a href='/AIV/19/104/3'>Ps. 104:3</a>; <a href='/AIV/66/12/14'>Rev. 12:14</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 45005010,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 5,
       "verse": 10,
       "text": "I said to the angel who was speaking with me, 'Where are they taking the basket?'",
       "links": "<a href='/AIV/24/17/4'>Jer. 17:4</a>",
@@ -128,28 +80,10 @@
     },
     {
       "pk": 45005011,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 5,
       "verse": 11,
       "text": "He said to me, 'To the land of Shinar, to build a house for her. When it is prepared, the basket will be set there on its base.'",
       "links": "<a href='/AIV/01/11/2'>Gen. 11:2</a>; <a href='/AIV/27/1/2'>Dan. 1:2</a>; <a href='/AIV/66/17/5'>Rev. 17:5</a>",
       "comment": "Shinar refers to Babylon, a biblical symbol of rebellion against God (cf. <a href='/AIV/01/11/2'>Gen. 11:2</a>). Evil is exiled to its place of origin and awaits a final, eschatological judgment—foreshadowing the ultimate victory over sin found in Christ and the formation of a purified people."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:56:05.189Z",
-  "sections": [
-    {
-      "title": "The Vision of the Flying Scroll",
-      "startVerse": 1,
-      "endVerse": 4
-    },
-    {
-      "title": "The Vision of the Woman in the Ephah",
-      "startVerse": 5,
-      "endVerse": 11
     }
   ]
 }

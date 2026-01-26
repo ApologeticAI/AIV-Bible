@@ -1,16 +1,13 @@
 {
-  "book": 3,
+  "translation": "AIV",
+  "bookId": "leviticus",
   "bookName": "Leviticus",
   "bookAbbreviation": "Lev",
+  "bookNumber": 3,
   "chapter": 2,
   "verses": [
     {
       "pk": 3002001,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 2,
       "verse": 1,
       "text": "When anyone brings a grain offering to the LORD, his offering must be of fine flour. He shall pour oil on it and put frankincense on it.",
       "links": "<a href='/AIV/2/40/29'>Ex. 40:29</a>; <a href='/AIV/4/7/13'>Num. 7:13</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 3002002,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 2,
       "verse": 2,
       "text": "He shall bring it to Aaron’s sons, the priests, and one of them shall take a handful of fine flour and oil, along with all the frankincense, and burn this as a memorial portion on the altar, a pleasing aroma to the LORD.",
       "links": "<a href='/AIV/4/15/15'>Num. 15:15</a>; <a href='/AIV/19/141/2'>Ps. 141:2</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 3002003,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 2,
       "verse": 3,
       "text": "But the rest of the grain offering shall belong to Aaron and his sons. It is a most holy part of the offerings to the LORD made by fire.",
       "links": "<a href='/AIV/3/6/16'>Lev. 6:16</a>; <a href='/AIV/58/13/10'>Heb. 13:10</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 3002004,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 2,
       "verse": 4,
       "text": "If you bring a grain offering baked in the oven, it must be of unleavened cakes of fine flour mixed with oil, or unleavened wafers spread with oil.",
       "links": "<a href='/AIV/2/12/8'>Ex. 12:8</a>; <a href='/AIV/46/5/7'>1 Cor. 5:7</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 3002005,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 2,
       "verse": 5,
       "text": "If your grain offering is prepared on a griddle, it must be of unleavened fine flour mixed with oil.",
       "links": "<a href='/AIV/3/7/9'>Lev. 7:9</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 3002006,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 2,
       "verse": 6,
       "text": "Break it into pieces and pour oil on it; it is a grain offering.",
       "links": "<a href='/AIV/4/7/46'>Num. 7:46</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 3002007,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 2,
       "verse": 7,
       "text": "If your offering is prepared in a pan, it must be made of fine flour with oil.",
       "links": "<a href='/AIV/3/7/9'>Lev. 7:9</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 3002008,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 2,
       "verse": 8,
       "text": "Bring the grain offering, made with these things, to the LORD. Present it to the priest, who shall bring it to the altar.",
       "links": "<a href='/AIV/3/6/14-15'>Lev. 6:14-15</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 3002009,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 2,
       "verse": 9,
       "text": "The priest shall take from the grain offering a memorial portion and burn it on the altar as a pleasing aroma to the LORD. The rest shall belong to Aaron and his sons.",
       "links": "<a href='/AIV/3/6/15-16'>Lev. 6:15-16</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 3002010,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 2,
       "verse": 10,
       "text": "It is a most holy part of the offerings to the LORD made by fire.",
       "links": "<a href='/AIV/3/6/17'>Lev. 6:17</a>",
@@ -127,11 +79,6 @@
     },
     {
       "pk": 3002011,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 2,
       "verse": 11,
       "text": "No grain offering that you bring to the LORD shall be made with leaven, for you must not burn any leaven or honey as an offering by fire to the LORD.",
       "links": "<a href='/AIV/2/12/15'>Ex. 12:15</a>; <a href='/AIV/46/5/7-8'>1 Cor. 5:7-8</a>",
@@ -139,11 +86,6 @@
     },
     {
       "pk": 3002012,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 2,
       "verse": 12,
       "text": "You may present them as an offering of firstfruits to the LORD, but they shall not be offered on the altar as a pleasing aroma.",
       "links": "<a href='/AIV/2/23/17'>Ex. 23:17</a>; <a href='/AIV/4/18/12'>Num. 18:12</a>",
@@ -151,11 +93,6 @@
     },
     {
       "pk": 3002013,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 2,
       "verse": 13,
       "text": "Season all your grain offerings with salt. Do not let the salt of the covenant with your God be missing from your grain offering; offer salt with all your offerings.",
       "links": "<a href='/AIV/4/18/19'>Num. 18:19</a>; <a href='/AIV/40/5/13'>Matt. 5:13</a>; <a href='/AIV/41/9/49-50'>Mark 9:49-50</a>",
@@ -163,11 +100,6 @@
     },
     {
       "pk": 3002014,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 2,
       "verse": 14,
       "text": "If you bring a grain offering of firstfruits to the LORD, offer crushed new grain roasted by fire, as your grain offering of firstfruits.",
       "links": "<a href='/AIV/2/23/16-17'>Ex. 23:16-17</a>; <a href='/AIV/4/18/13'>Num. 18:13</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 3002015,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 2,
       "verse": 15,
       "text": "Put oil and frankincense on it; it is a grain offering.",
       "links": "<a href='/AIV/3/2/1'>Lev. 2:1</a>",
@@ -188,28 +115,10 @@
     },
     {
       "pk": 3002016,
-      "translation": "AIV",
-      "book": 3,
-      "bookName": "Leviticus",
-      "bookAbbreviation": "Lev",
-      "chapter": 2,
       "verse": 16,
       "text": "The priest shall burn the memorial portion, some of the crushed new grain and oil along with all the frankincense, as an offering by fire to the LORD.",
       "links": "<a href='/AIV/3/2/2'>Lev. 2:2</a>; <a href='/AIV/19/141/2'>Ps. 141:2</a>",
       "comment": "This final act returns the offering to God in sacred fire, a symbol of total dedication and purification, echoing the future sacrifice of Christ who offers Himself completely to the Father."
-    }
-  ],
-  "translatedAt": "2025-12-24T01:10:28.269Z",
-  "sections": [
-    {
-      "title": "Laws Concerning Grain Offerings",
-      "startVerse": 1,
-      "endVerse": 13
-    },
-    {
-      "title": "Grain Offerings of Firstfruits",
-      "startVerse": 14,
-      "endVerse": 16
     }
   ]
 }

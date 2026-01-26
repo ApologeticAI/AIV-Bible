@@ -1,16 +1,13 @@
 {
-  "book": 27,
+  "translation": "AIV",
+  "bookId": "wisdom",
   "bookName": "Wisdom",
   "bookAbbreviation": "Wis",
+  "bookNumber": 27,
   "chapter": 13,
   "verses": [
     {
       "pk": 27013001,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 13,
       "verse": 1,
       "text": "For all people who are ignorant of God are foolish by nature, and from the good things that are seen they did not recognize the One who is, nor did they recognize the Artisan from His works.",
       "links": "<a href='/AIV/19/19/1'>Ps. 19:1</a>; <a href='/AIV/45/1/19-20'>Rom. 1:19-20</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 27013002,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 13,
       "verse": 2,
       "text": "Instead, they supposed that fire or wind or swift air, the circle of stars, raging water, or the lights of heaven were the gods that rule the world.",
       "links": "<a href='/AIV/05/4/19'>Deut. 4:19</a>; <a href='/AIV/23/44/17'>Isa. 44:17</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 27013003,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 13,
       "verse": 3,
       "text": "If, awe-struck by their beauty, they took them to be gods, let them understand how much greater is the Lord of these, for the Originator of beauty fashioned them.",
       "links": "<a href='/AIV/01/1/31'>Gen. 1:31</a>; <a href='/AIV/19/104/24'>Ps. 104:24</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 27013004,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 13,
       "verse": 4,
       "text": "For if people were amazed at their power and energy, let them understand from these just how much mightier is the One who made them.",
       "links": "<a href='/AIV/19/96/5'>Ps. 96:5</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 27013005,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 13,
       "verse": 5,
       "text": "For from the greatness and beauty of created things, in corresponding reflection, the Maker is seen by understanding.",
       "links": "<a href='/AIV/45/1/20'>Rom. 1:20</a>; <a href='/AIV/19/8/3'>Ps. 8:3</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 27013006,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 13,
       "verse": 6,
       "text": "Yet, even so, these people are little to blame, for perhaps they go astray while seeking God and wanting to find Him.",
       "links": "<a href='/AIV/44/17/27'>Acts 17:27</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 27013007,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 13,
       "verse": 7,
       "text": "For as they live among His works, they keep searching, and are drawn to what they see, for what they see is beautiful.",
       "links": "<a href='/AIV/19/27/4'>Ps. 27:4</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 27013008,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 13,
       "verse": 8,
       "text": "But still, they are not excused;",
       "links": "<a href='/AIV/45/1/20'>Rom. 1:20</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 27013009,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 13,
       "verse": 9,
       "text": "For if they were able to know so much that they could examine the world, how did they not more quickly find the Lord of all?",
       "links": "<a href='/AIV/19/94/9-10'>Ps. 94:9-10</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 27013010,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 13,
       "verse": 10,
       "text": "But they are even more foolish, and more miserable are those who put their hopes in lifeless things—who call the things made by human hands 'gods', whether idols of gold and silver, images of animals, or a useless stone made long ago by someone's hand.",
       "links": "<a href='/AIV/02/20/4'>Ex. 20:4</a>; <a href='/AIV/23/44/9-20'>Isa. 44:9-20</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 27013011,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 13,
       "verse": 11,
       "text": "A woodworker takes a piece of suitable wood, carefully peels off the bark, and skillfully crafts it for practical use, making a vessel for everyday life.",
       "links": "<a href='/AIV/23/44/13'>Isa. 44:13</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 27013012,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 13,
       "verse": 12,
       "text": "But the leftovers from this work—the pieces that are good for nothing—he uses to cook his food and satisfy his hunger.",
       "links": "<a href='/AIV/23/44/15-16'>Isa. 44:15-16</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 27013013,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 13,
       "verse": 13,
       "text": "Then, from what is left over—a chunk that is good for nothing, gnarled and twisted—he carves with the skill left in him a useless image shaped like a human being.",
       "links": "<a href='/AIV/23/44/17'>Isa. 44:17</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 27013014,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 13,
       "verse": 14,
       "text": "He places it in his home, nails it down so it won’t fall, and prays to it, asking about his possessions, marriage, and children, not feeling any shame in speaking to a lifeless thing.",
       "links": "<a href='/AIV/23/44/17-20'>Isa. 44:17-20</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 27013015,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 13,
       "verse": 15,
       "text": "For health, he calls upon what is weak; for life, he prays to what is dead; for help, he begs something utterly powerless.",
       "links": "<a href='/AIV/23/44/9-10'>Isa. 44:9-10</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 27013016,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 13,
       "verse": 16,
       "text": "He prays for a prosperous journey to something that cannot walk a step; for profit and success in business and work, to something with no hands at all.",
       "links": "<a href='/AIV/19/115/4-7'>Ps. 115:4-7</a>",
@@ -200,11 +122,6 @@
     },
     {
       "pk": 27013017,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 13,
       "verse": 17,
       "text": "He prays for strength to an object made with his own two hands, earnestly pleading for life to a dead thing, asking for help from something utterly unhelpful.",
       "links": "<a href='/AIV/23/44/17'>Isa. 44:17</a>",
@@ -212,11 +129,6 @@
     },
     {
       "pk": 27013018,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 13,
       "verse": 18,
       "text": "He asks about the future from something absolutely powerless and about a journey from something that cannot move. He pleads for gain from something that cannot give, and for a good outcome from what is completely powerless.",
       "links": "<a href='/AIV/19/135/15-18'>Ps. 135:15-18</a>",
@@ -224,28 +136,10 @@
     },
     {
       "pk": 27013019,
-      "translation": "AIV",
-      "book": 27,
-      "bookName": "Wisdom",
-      "bookAbbreviation": "Wis",
-      "chapter": 13,
       "verse": 19,
       "text": "For recovery of health, he appeals to something weak; for life, he prays to something dead; for help, he implores what is completely useless for work, for a good journey he turns to something that cannot walk, and for profit and success in business, and for finding success in his work, he asks help from something with no power in its hands.",
       "links": "<a href='/AIV/19/135/18'>Ps. 135:18</a>",
       "comment": "This verse mocks the folly of idol worship, highlighting the irony of seeking power, life, and help from lifeless objects; it underscores the emptiness of false religion compared to reliance on the living God (cf. Isaiah 44:9-20, Psalm 115:4-8)."
-    }
-  ],
-  "translatedAt": "2025-12-24T07:20:17.009Z",
-  "sections": [
-    {
-      "title": "The Folly of Idolatry and Failure to Discern the Creator",
-      "startVerse": 1,
-      "endVerse": 9
-    },
-    {
-      "title": "Condemnation of the Worship of Man-Made Idols",
-      "startVerse": 10,
-      "endVerse": 19
     }
   ]
 }

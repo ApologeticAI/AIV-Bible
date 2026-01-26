@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 6,
   "verses": [
     {
       "pk": 23006001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 6,
       "verse": 1,
       "text": "Lord, do not rebuke me in your anger, nor discipline me in your wrath.",
       "links": "<a href='/AIV/18/5/17'>Job 5:17</a>; <a href='/AIV/19/38/1'>Ps. 38:1</a>; <a href='/AIV/19/118/18'>Ps. 118:18</a>; <a href='/AIV/20/3/12'>Prov. 3:12</a>; <a href='/AIV/58/12/6'>Heb. 12:6</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23006002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 6,
       "verse": 2,
       "text": "Be merciful to me, Lord, for I am weak; heal me, Lord, for my bones are troubled.",
       "links": "<a href='/AIV/19/38/3'>Ps. 38:3</a>; <a href='/AIV/19/51/17'>Ps. 51:17</a>; <a href='/AIV/10/13/39'>2 Sam. 13:39</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23006003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 6,
       "verse": 3,
       "text": "My soul is greatly troubled, but you, Lord—how long?",
       "links": "<a href='/AIV/19/13/1'>Ps. 13:1</a>; <a href='/AIV/35/1/2'>Hab. 1:2</a>; <a href='/AIV/40/26/38'>Matt. 26:38</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23006004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 6,
       "verse": 4,
       "text": "Turn, Lord, deliver my soul; save me because of your faithful love.",
       "links": "<a href='/AIV/19/31/16'>Ps. 31:16</a>; <a href='/AIV/19/44/26'>Ps. 44:26</a>; <a href='/AIV/19/143/11'>Ps. 143:11</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23006005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 6,
       "verse": 5,
       "text": "For in death there is no remembrance of you; in the grave, who will give you thanks?",
       "links": "<a href='/AIV/19/30/9'>Ps. 30:9</a>; <a href='/AIV/19/88/10-12'>Ps. 88:10-12</a>; <a href='/AIV/23/38/18-19'>Isa. 38:18-19</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23006006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 6,
       "verse": 6,
       "text": "I am worn out from my groaning; all night long I flood my bed with weeping and drench my couch with tears.",
       "links": "<a href='/AIV/19/42/3'>Ps. 42:3</a>; <a href='/AIV/19/77/2'>Ps. 77:2</a>; <a href='/AIV/25/2/18'>Lam. 2:18</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23006007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 6,
       "verse": 7,
       "text": "My eyes grow weak with sorrow; they fail because of all my foes.",
       "links": "<a href='/AIV/19/31/9'>Ps. 31:9</a>; <a href='/AIV/19/88/9'>Ps. 88:9</a>; <a href='/AIV/19/119/82'>Ps. 119:82</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 23006008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 6,
       "verse": 8,
       "text": "Depart from me, all you evildoers, for the Lord has heard the sound of my weeping.",
       "links": "<a href='/AIV/19/34/15-16'>Ps. 34:15-16</a>; <a href='/AIV/19/139/19'>Ps. 139:19</a>; <a href='/AIV/40/7/23'>Matt. 7:23</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 23006009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 6,
       "verse": 9,
       "text": "The Lord has heard my plea; the Lord accepts my prayer.",
       "links": "<a href='/AIV/19/3/4'>Ps. 3:4</a>; <a href='/AIV/19/28/6'>Ps. 28:6</a>; <a href='/AIV/19/116/1'>Ps. 116:1</a>",
@@ -116,28 +73,10 @@
     },
     {
       "pk": 23006010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 6,
       "verse": 10,
       "text": "All my enemies will be ashamed and deeply troubled; they will turn back and suddenly be put to shame.",
       "links": "<a href='/AIV/19/35/4'>Ps. 35:4</a>; <a href='/AIV/19/83/16'>Ps. 83:16</a>; <a href='/AIV/23/41/11'>Isa. 41:11</a>",
       "comment": "The Psalm ends with hope in God’s righteous judgment. The reversal of the enemies’ fortunes is a theme fulfilled in Christ's victory over sin and death. The sudden vindication is a reminder of ultimate justice and the future resurrection promised to the faithful."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:00:37.366Z",
-  "sections": [
-    {
-      "title": "A Prayer for Mercy in Suffering",
-      "startVerse": 1,
-      "endVerse": 7
-    },
-    {
-      "title": "Confidence in God's Deliverance",
-      "startVerse": 8,
-      "endVerse": 10
     }
   ]
 }

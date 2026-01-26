@@ -1,16 +1,13 @@
 {
-  "book": 2,
+  "translation": "AIV",
+  "bookId": "exodus",
   "bookName": "Exodus",
   "bookAbbreviation": "Exod",
+  "bookNumber": 2,
   "chapter": 5,
   "verses": [
     {
       "pk": 2005001,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 5,
       "verse": 1,
       "text": "Afterward, Moses and Aaron went to Pharaoh and said, “This is what the LORD, the God of Israel, says: ‘Let My people go, so that they may hold a feast to Me in the wilderness.’”",
       "links": "<a href='/AIV/2/3/18'>Exod. 3:18</a>; <a href='/AIV/2/7/16'>Exod. 7:16</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 2005002,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 5,
       "verse": 2,
       "text": "But Pharaoh replied, “Who is the LORD, that I should obey His voice and let Israel go? I do not know the LORD, and moreover, I will not let Israel go.”",
       "links": "<a href='/AIV/2/7/5'>Exod. 7:5</a>; <a href='/AIV/19/79/6'>Ps. 79:6</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 2005003,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 5,
       "verse": 3,
       "text": "Then they said, “The God of the Hebrews has met with us. Please let us go a three-day journey into the wilderness to sacrifice to the LORD our God, or He may strike us with pestilence or with the sword.”",
       "links": "<a href='/AIV/2/3/18'>Exod. 3:18</a>; <a href='/AIV/2/7/16'>Exod. 7:16</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 2005004,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 5,
       "verse": 4,
       "text": "But the king of Egypt said to them, “Moses and Aaron, why are you taking the people away from their work? Get back to your labors!”",
       "links": "<a href='/AIV/2/1/11-14'>Exod. 1:11-14</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 2005005,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 5,
       "verse": 5,
       "text": "Pharaoh also said, “Look, the people of the land are now many, and you are making them rest from their burdens.”",
       "links": "<a href='/AIV/2/1/7'>Exod. 1:7</a>; <a href='/AIV/2/2/23'>Exod. 2:23</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 2005006,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 5,
       "verse": 6,
       "text": "That same day, Pharaoh commanded the taskmasters of the people and their overseers,",
       "links": "<a href='/AIV/2/1/11'>Exod. 1:11</a>; <a href='/AIV/2/5/10'>Exod. 5:10</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 2005007,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 5,
       "verse": 7,
       "text": "“You shall no longer give the people straw to make bricks as before; let them go and gather straw for themselves.”",
       "links": "<a href='/AIV/2/1/14'>Exod. 1:14</a>; <a href='/AIV/2/5/12-13'>Exod. 5:12-13</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 2005008,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 5,
       "verse": 8,
       "text": "But the number of bricks they made previously, you shall impose on them; you shall not reduce it. For they are idle; therefore they cry, ‘Let us go and sacrifice to our God.’",
       "links": "<a href='/AIV/2/5/17'>Exod. 5:17</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 2005009,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 5,
       "verse": 9,
       "text": "Let heavier work be laid on the men, that they may labor at it and pay no regard to lying words.”",
       "links": "<a href='/AIV/2/5/17'>Exod. 5:17</a>; <a href='/AIV/2/6/9'>Exod. 6:9</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 2005010,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 5,
       "verse": 10,
       "text": "So the taskmasters of the people and their overseers went out and spoke to the people, saying, “Thus says Pharaoh: ‘I will not give you straw.’”",
       "links": "<a href='/AIV/2/5/6'>Exod. 5:6</a>; <a href='/AIV/2/5/7'>Exod. 5:7</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 2005011,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 5,
       "verse": 11,
       "text": "‘Go, get straw wherever you can find it, but your work will not be reduced in the least.’”",
       "links": "<a href='/AIV/2/5/8'>Exod. 5:8</a>; <a href='/AIV/2/5/7'>Exod. 5:7</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 2005012,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 5,
       "verse": 12,
       "text": "So the people scattered throughout all the land of Egypt to gather stubble for straw.",
       "links": "<a href='/AIV/2/5/7'>Exod. 5:7</a>; <a href='/AIV/2/1/14'>Exod. 1:14</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 2005013,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 5,
       "verse": 13,
       "text": "And the taskmasters pressed them, saying, “Complete your work, your daily amount, as when there was straw.”",
       "links": "<a href='/AIV/2/5/8'>Exod. 5:8</a>; <a href='/AIV/2/5/11'>Exod. 5:11</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 2005014,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 5,
       "verse": 14,
       "text": "Moreover, the Israelite overseers, whom Pharaoh’s taskmasters had set over them, were beaten and asked, “Why have you not finished making your quota of bricks yesterday and today, as before?”",
       "links": "<a href='/AIV/2/5/7'>Exod. 5:7</a>; <a href='/AIV/2/5/10-13'>Exod. 5:10-13</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 2005015,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 5,
       "verse": 15,
       "text": "Then the Israelite overseers came and cried out to Pharaoh, saying, “Why do you treat your servants this way?”",
       "links": "<a href='/AIV/2/5/14'>Exod. 5:14</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 2005016,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 5,
       "verse": 16,
       "text": "No straw is given to your servants, and yet they say to us, ‘Make bricks!’ We are beaten, but it is your own people who are at fault.”",
       "links": "<a href='/AIV/2/5/8-9'>Exod. 5:8-9</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 2005017,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 5,
       "verse": 17,
       "text": "But Pharaoh said, “You are idle, idle! That is why you say, ‘Let us go and sacrifice to the LORD.’",
       "links": "<a href='/AIV/2/5/8-9'>Exod. 5:8-9</a>; <a href='/AIV/2/5/4'>Exod. 5:4</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 2005018,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 5,
       "verse": 18,
       "text": "So go now and work, for no straw will be given you, yet you must deliver the same number of bricks.”",
       "links": "<a href='/AIV/2/5/7-8'>Exod. 5:7-8</a>; <a href='/AIV/2/5/11'>Exod. 5:11</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 2005019,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 5,
       "verse": 19,
       "text": "The Israelite overseers saw that they were in trouble when they were told, “You must not reduce your daily amount of bricks.”",
       "links": "<a href='/AIV/2/5/8'>Exod. 5:8</a>; <a href='/AIV/2/5/13'>Exod. 5:13</a>",
@@ -237,11 +144,6 @@
     },
     {
       "pk": 2005020,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 5,
       "verse": 20,
       "text": "When they left Pharaoh, they met Moses and Aaron, who were waiting for them.",
       "links": "<a href='/AIV/2/5/22'>Exod. 5:22</a>",
@@ -249,11 +151,6 @@
     },
     {
       "pk": 2005021,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 5,
       "verse": 21,
       "text": "And they said to them, “May the LORD look on you and judge, because you have made us detestable in Pharaoh’s eyes and in the eyes of his servants, and you have put a sword in their hand to kill us.”",
       "links": "<a href='/AIV/2/5/14'>Exod. 5:14</a>; <a href='/AIV/2/6/9'>Exod. 6:9</a>",
@@ -261,11 +158,6 @@
     },
     {
       "pk": 2005022,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 5,
       "verse": 22,
       "text": "Then Moses turned to the LORD and said, “O Lord, why have You brought trouble on this people? Why did You send me?”",
       "links": "<a href='/AIV/2/3/11'>Exod. 3:11</a>; <a href='/AIV/2/4/1'>Exod. 4:1</a>",
@@ -274,38 +166,10 @@
     },
     {
       "pk": 2005023,
-      "translation": "AIV",
-      "book": 2,
-      "bookName": "Exodus",
-      "bookAbbreviation": "Exod",
-      "chapter": 5,
       "verse": 23,
       "text": "For since I came to Pharaoh to speak in Your name, he has done evil to this people, and You have not delivered Your people at all.”",
       "links": "<a href='/AIV/2/4/29-31'>Exod. 4:29-31</a>; <a href='/AIV/2/6/1'>Exod. 6:1</a>",
       "comment": "Moses voices frustration at seemingly unanswered prayer. This developmental faith journey highlights perseverance. Deliverance often follows periods of intensified suffering, foreshadowing the pattern of death and resurrection in the Christian mystery."
-    }
-  ],
-  "translatedAt": "2025-12-24T00:49:20.990Z",
-  "sections": [
-    {
-      "title": "Moses and Aaron Before Pharaoh",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "Increased Oppression of the Israelites",
-      "startVerse": 6,
-      "endVerse": 14
-    },
-    {
-      "title": "The Israelites Complain to Pharaoh",
-      "startVerse": 15,
-      "endVerse": 21
-    },
-    {
-      "title": "Moses’ Plea to the LORD",
-      "startVerse": 22,
-      "endVerse": 23
     }
   ]
 }

@@ -1,16 +1,13 @@
 {
-  "book": 18,
+  "translation": "AIV",
+  "bookId": "judith",
   "bookName": "Judith",
   "bookAbbreviation": "Jdt",
+  "bookNumber": 18,
   "chapter": 13,
   "verses": [
     {
       "pk": 18013001,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 13,
       "verse": 1,
       "text": "When evening came, his servants hurried to their beds, and Bagoas closed the tent from outside and dismissed those who were waiting. All withdrew, not suspecting anything, because they believed he would rest with Judith.",
       "links": "<a href='/AIV/18/12/5'>Jdt 12:5</a>; <a href='/AIV/18/12/19'>Jdt 12:19</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 18013002,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 13,
       "verse": 2,
       "text": "But Judith was left alone in the tent, with Holofernes stretched out on his bed, for he was dead drunk.",
       "links": "<a href='/AIV/18/9/1-14'>Jdt 9:1-14</a>; <a href='/AIV/7/16/28'>Judg. 16:28</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 18013003,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 13,
       "verse": 3,
       "text": "Now Judith had told her maid to stand outside the bedchamber and to wait for her to come out, as she did on the other days; for she said she would be going out for her prayers. She had said the same thing to Bagoas.",
       "links": "<a href='/AIV/18/12/20'>Jdt 12:20</a>; <a href='/AIV/19/78/65'>Ps. 78:65</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 18013004,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 13,
       "verse": 4,
       "text": "Judith said, 'Give me strength today, Lord God of Israel.'",
       "links": "<a href='/AIV/18/9/14'>Jdt 9:14</a>; <a href='/AIV/7/16/28'>Judg. 16:28</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 18013005,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 13,
       "verse": 5,
       "text": "She approached the head of the bed, took the sword that hung there,",
       "links": "<a href='/AIV/18/12/7'>Jdt 12:7</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 18013006,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 13,
       "verse": 6,
       "text": "and, approaching his bed, grasped his hair and said, 'Strengthen me, Lord God of Israel, this day.'",
       "links": "<a href='/AIV/7/16/28'>Judg. 16:28</a>; <a href='/AIV/18/9/13'>Jdt 9:13</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 18013007,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 13,
       "verse": 7,
       "text": "Then she struck his neck twice with all her might and cut off his head.",
       "links": "<a href='/AIV/7/4/21'>Judg. 4:21</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 18013008,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 13,
       "verse": 8,
       "text": "She rolled his body off the bed and then pulled down the canopy from the posts. After a moment, she left and gave Holofernes' head to her maid,",
       "links": "<a href='/AIV/7/4/21'>Judg. 4:21</a>; <a href='/AIV/18/10/5'>Jdt 10:5</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 18013009,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 13,
       "verse": 9,
       "text": "who put it into her food bag. Then the two of them went out together, as they were accustomed to go to prayer. They passed through the camp and circled the valley, and went up to the gate of the city.",
       "links": "<a href='/AIV/18/10/10-11'>Jdt 10:10-11</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 18013010,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 13,
       "verse": 10,
       "text": "Judith called from afar to the watchmen at the city gates: 'Open! Open the gate! God is with us! He has shown His power in Israel and against the enemy, as He has done today.'",
       "links": "<a href='/AIV/18/8/33'>Jdt 8:33</a>; <a href='/AIV/2/14/30'>Ex. 14:30</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 18013011,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 13,
       "verse": 11,
       "text": "When the men of her city heard her voice, they hurried down to the gate of the city and called for the elders. All ran together, from the youngest to the oldest, for her return seemed incredible. They opened the gate and welcomed them. They kindled a fire to give light and surrounded them.",
       "links": "<a href='/AIV/18/8/10'>Jdt 8:10</a>; <a href='/AIV/18/15/12'>Jdt 15:12</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 18013012,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 13,
       "verse": 12,
       "text": "Judith said to them with a loud voice: 'Praise God! Praise Him! Praise God, who has not withheld His mercy from the house of Israel, but has crushed our enemies by my hand this night!'",
       "links": "<a href='/AIV/2/15/1'>Ex. 15:1</a>; <a href='/AIV/18/5/21'>Jdt 5:21</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 18013013,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 13,
       "verse": 13,
       "text": "Then, in their midst, she took the head out of the bag and showed it to them, saying, 'Behold the head of Holofernes, the commander of the Assyrian army, and here is the canopy under which he lay in his drunkenness. The Lord struck him down by the hand of a woman.'",
       "links": "<a href='/AIV/7/4/9'>Judg. 4:9</a>; <a href='/AIV/18/9/10'>Jdt 9:10</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 18013014,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 13,
       "verse": 14,
       "text": "The Lord kept me on the right path when I went out, and brought me back safely. My face deceived him for his destruction, but he did not commit sin with me to defile or shame me.",
       "links": "<a href='/AIV/18/12/20'>Jdt 12:20</a>; <a href='/AIV/18/10/13'>Jdt 10:13</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 18013015,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 13,
       "verse": 15,
       "text": "All the people were greatly amazed and fell down to worship God, declaring with one voice, 'Blessed are you, our God, who have today humbled our enemies!'",
       "links": "<a href='/AIV/7/5/2'>Judg. 5:2</a>; <a href='/AIV/19/18/47'>Ps. 18:47</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 18013016,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 13,
       "verse": 16,
       "text": "Uzziah said to her, 'O daughter, you are most blessed among all women upon the earth! May the Most High God be praised, who has directed you to cut off the head of our enemy.'",
       "links": "<a href='/AIV/42/1/28'>Lk. 1:28</a>; <a href='/AIV/42/1/42'>Lk. 1:42</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 18013017,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 13,
       "verse": 17,
       "text": "Judith answered, 'As the Lord lives, who has protected me on my journey, what I have done was by Him. It was the Lord who prevented me from falling into sin with him, so as to defile or shame myself.'",
       "links": "<a href='/AIV/18/8/35'>Jdt 8:35</a>; <a href='/AIV/18/10/13'>Jdt 10:13</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 18013018,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 13,
       "verse": 18,
       "text": "And Uzziah said to her, 'Blessed are you, daughter, by the Most High God above all women on earth; and blessed be the Lord God, who created the heavens and the earth, who has guided you to cut off the head of our enemy. Your hope will never depart from the hearts of men who remember the power of God. May God grant you eternal honor for risking your life and averting our ruin.'",
       "links": "<a href='/AIV/49/1/42'>Luke. 1:42</a>; <a href='/AIV/1/1/1'>Gen. 1:1</a>; <a href='/AIV/6/2/12'>Josh. 2:12</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 18013019,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 13,
       "verse": 19,
       "text": "And all the people said, 'So be it. So be it.'",
       "links": "<a href='/AIV/16/8/6'>Neh. 8:6</a>; <a href='/AIV/13/16/36'>1Chr. 16:36</a>",
@@ -237,33 +144,10 @@
     },
     {
       "pk": 18013020,
-      "translation": "AIV",
-      "book": 18,
-      "bookName": "Judith",
-      "bookAbbreviation": "Jdt",
-      "chapter": 13,
       "verse": 20,
       "text": "May God grant this to be a perpetual honor to you, and may he reward you with blessings, because you risked your own life when our nation was brought low, and you averted our ruin, walking in the straight path before our God.\" And all the people said, \"Amen. Amen.\"",
       "links": "<a href='/AIV/19/4/16'>Esth. 4:16</a>; <a href='/AIV/52/2/7'>Rom. 2:7</a>; <a href='/AIV/28/4/16'>Sir. 4:16</a>",
       "comment": "This blessing highlights the profound gratitude and honor bestowed on Judith for her courageous act, reminiscent of other biblical heroines like Esther (Esther 4:16), and underscores the theme of God rewarding faithfulness and sacrificial leadership in times of national crisis."
-    }
-  ],
-  "translatedAt": "2026-01-02T03:43:55.497Z",
-  "sections": [
-    {
-      "title": "Judith Slays Holofernes",
-      "startVerse": 1,
-      "endVerse": 8
-    },
-    {
-      "title": "Judith Returns to Bethulia with Holofernes’ Head",
-      "startVerse": 9,
-      "endVerse": 11
-    },
-    {
-      "title": "Judith Praises God and Is Honored by the People",
-      "startVerse": 12,
-      "endVerse": 20
     }
   ]
 }

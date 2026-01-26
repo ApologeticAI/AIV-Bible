@@ -1,16 +1,13 @@
 {
-  "book": 73,
+  "translation": "AIV",
+  "bookId": "revelation",
   "bookName": "Revelation",
   "bookAbbreviation": "Rev",
+  "bookNumber": 73,
   "chapter": 9,
   "verses": [
     {
       "pk": 73009001,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 9,
       "verse": 1,
       "text": "The fifth angel sounded his trumpet, and I saw a star fallen from heaven to earth; and the key to the shaft of the abyss was given to him.",
       "links": "<a href='/AIV/23/14/12'>Isa. 14:12</a>; <a href='/AIV/42/10/18'>Luke 10:18</a>; <a href='/AIV/66/1/18'>Rev. 1:18</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 73009002,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 9,
       "verse": 2,
       "text": "He opened the shaft of the abyss, and smoke went up from the shaft like the smoke of a great furnace; and the sun and the air were darkened by the smoke from the shaft.",
       "links": "<a href='/AIV/02/19/18'>Ex. 19:18</a>; <a href='/AIV/29/2/2'>Joel 2:2</a>; <a href='/AIV/66/6/12'>Rev. 6:12</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 73009003,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 9,
       "verse": 3,
       "text": "Out of the smoke locusts came down onto the earth, and power was given to them like the power scorpions have on the earth.",
       "links": "<a href='/AIV/02/10/12'>Ex. 10:12-15</a>; <a href='/AIV/29/1/4'>Joel 1:4</a>; <a href='/AIV/10/24/13'>2 Sam. 24:13</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 73009004,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 9,
       "verse": 4,
       "text": "They were told not to harm the grass of the earth, or any green plant or any tree, but only the people who do not have the seal of God on their foreheads.",
       "links": "<a href='/AIV/66/7/3'>Rev. 7:3</a>; <a href='/AIV/02/12/22'>Ex. 12:22-23</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 73009005,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 9,
       "verse": 5,
       "text": "They were not allowed to kill them, but only to torture them for five months. Their torment was like the torment of a scorpion when it stings a person.",
       "links": "<a href='/AIV/14/10/13'>2 Chr. 10:13-14</a>; <a href='/AIV/42/10/19'>Luke 10:19</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 73009006,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 9,
       "verse": 6,
       "text": "In those days people will seek death and will not find it; they will long to die, but death will flee from them.",
       "links": "<a href='/AIV/18/3/21'>Job 3:21</a>; <a href='/AIV/24/8/3'>Jer. 8:3</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 73009007,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 9,
       "verse": 7,
       "text": "The locusts looked like horses prepared for battle. On their heads appeared something like crowns of gold, and their faces were like human faces.",
       "links": "<a href='/AIV/29/2/4'>Joel 2:4</a>; <a href='/AIV/07/7/12'>Judg. 7:12</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 73009008,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 9,
       "verse": 8,
       "text": "They had hair like women’s hair, and their teeth were like lions’ teeth.",
       "links": "<a href='/AIV/29/1/6'>Joel 1:6</a>; <a href='/AIV/07/16/17'>Judg. 16:17</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 73009009,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 9,
       "verse": 9,
       "text": "They had breastplates like breastplates of iron, and the sound of their wings was like the noise of many chariots and horses rushing into battle.",
       "links": "<a href='/AIV/29/2/5'>Joel 2:5</a>; <a href='/AIV/07/5/28'>Judg. 5:28</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 73009010,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 9,
       "verse": 10,
       "text": "They have tails with stingers like scorpions, and in their tails is their power to torment people for five months.",
       "links": "<a href='/AIV/66/9/5'>Rev. 9:5</a>; <a href='/AIV/42/10/19'>Luke 10:19</a>",
@@ -127,11 +79,6 @@
     },
     {
       "pk": 73009011,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 9,
       "verse": 11,
       "text": "They have as king over them the angel of the abyss. His name in Hebrew is Abaddon, and in Greek he is called Apollyon.",
       "links": "<a href='/AIV/18/26/6'>Job 26:6</a>; <a href='/AIV/20/30/27'>Prov. 30:27</a>",
@@ -139,11 +86,6 @@
     },
     {
       "pk": 73009012,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 9,
       "verse": 12,
       "text": "The first woe has passed; look, two woes are still to come after this.",
       "links": "<a href='/AIV/66/8/13'>Rev. 8:13</a>",
@@ -151,11 +93,6 @@
     },
     {
       "pk": 73009013,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 9,
       "verse": 13,
       "text": "The sixth angel sounded his trumpet, and I heard a voice from the four horns of the golden altar that is before God.",
       "links": "<a href='/AIV/02/30/1'>Ex. 30:1-3</a>; <a href='/AIV/66/8/3'>Rev. 8:3</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 73009014,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 9,
       "verse": 14,
       "text": "It said to the sixth angel who had the trumpet, 'Release the four angels who are bound at the great river Euphrates.'",
       "links": "<a href='/AIV/01/2/14'>Gen. 2:14</a>; <a href='/AIV/24/46/10'>Jer. 46:10</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 73009015,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 9,
       "verse": 15,
       "text": "So the four angels, who had been prepared for the hour, and day, and month, and year, were released to kill a third of mankind.",
       "links": "<a href='/AIV/27/12/1'>Dan. 12:1</a>; <a href='/AIV/66/8/7-12'>Rev. 8:7-12</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 73009016,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 9,
       "verse": 16,
       "text": "The number of the mounted troops was twice ten thousand times ten thousand; I heard their number.",
       "links": "<a href='/AIV/19/68/17'>Ps. 68:17</a>; <a href='/AIV/38/6/6'>Zech. 6:6</a>",
@@ -200,11 +122,6 @@
     },
     {
       "pk": 73009017,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 9,
       "verse": 17,
       "text": "And in my vision, I saw the horses and those who rode them: they wore breastplates the color of fire, sapphire, and sulfur; the heads of the horses were like lions’ heads, and out of their mouths came fire, smoke, and sulfur.",
       "links": "<a href='/AIV/34/2/3-4'>Nah. 2:3-4</a>; <a href='/AIV/09/14/14'>1 Sam. 14:14</a>",
@@ -212,11 +129,6 @@
     },
     {
       "pk": 73009018,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 9,
       "verse": 18,
       "text": "By these three plagues—a third of mankind was killed: by the fire, the smoke, and the sulfur that came out of their mouths.",
       "links": "<a href='/AIV/66/8/7-12'>Rev. 8:7-12</a>; <a href='/AIV/01/19/24'>Gen. 19:24</a>",
@@ -224,11 +136,6 @@
     },
     {
       "pk": 73009019,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 9,
       "verse": 19,
       "text": "For the power of the horses is in their mouths and in their tails; for their tails are like serpents, having heads, and with them they harm.",
       "links": "<a href='/AIV/04/21/6'>Num. 21:6</a>; <a href='/AIV/09/10/17'>1 Sam. 10:17</a>",
@@ -236,11 +143,6 @@
     },
     {
       "pk": 73009020,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 9,
       "verse": 20,
       "text": "The rest of mankind, who were not killed by these plagues, did not repent of the works of their hands so as not to worship demons and idols of gold, silver, bronze, stone, and wood, which cannot see, hear, or walk.",
       "links": "<a href='/AIV/19/115/4-7'>Ps. 115:4-7</a>; <a href='/AIV/05/32/17'>Deut. 32:17</a>",
@@ -249,33 +151,10 @@
     },
     {
       "pk": 73009021,
-      "translation": "AIV",
-      "book": 73,
-      "bookName": "Revelation",
-      "bookAbbreviation": "Rev",
-      "chapter": 9,
       "verse": 21,
       "text": "They did not repent of their murders or their sorceries, or their sexual immorality, or their thefts.",
       "links": "<a href='/AIV/19/106/37-39'>Ps. 106:37-39</a>; <a href='/AIV/48/5/19-21'>Gal. 5:19-21</a>",
       "comment": "Unrepentance brings continued judgment. The list echoes the sins forbidden in both Old and New Testaments, showing the continuity of God’s moral law. Frequent repentance, sacramental confession, and perseverance in the faith are safeguards for the believer."
-    }
-  ],
-  "translatedAt": "2025-12-24T12:36:45.592Z",
-  "sections": [
-    {
-      "title": "The Fifth Trumpet: The Plague of Locusts",
-      "startVerse": 1,
-      "endVerse": 12
-    },
-    {
-      "title": "The Sixth Trumpet: The Army from the Euphrates",
-      "startVerse": 13,
-      "endVerse": 19
-    },
-    {
-      "title": "The Unrepentance of Mankind",
-      "startVerse": 20,
-      "endVerse": 21
     }
   ]
 }

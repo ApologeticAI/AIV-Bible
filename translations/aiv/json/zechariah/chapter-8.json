@@ -1,16 +1,13 @@
 {
-  "book": 45,
+  "translation": "AIV",
+  "bookId": "zechariah",
   "bookName": "Zechariah",
   "bookAbbreviation": "Zech",
+  "bookNumber": 45,
   "chapter": 8,
   "verses": [
     {
       "pk": 45008001,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 8,
       "verse": 1,
       "text": "The word of the LORD of hosts came to me, saying:",
       "links": "<a href='/AIV/38/1/1'>Zech. 1:1</a>",
@@ -18,12 +15,12 @@
       "sectionHeader": "The Lord’s Zeal and Promise to Zion"
     },
     {
+      "pk": 45008024,
+      "verse": 1,
+      "text": ""
+    },
+    {
       "pk": 45008002,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 8,
       "verse": 2,
       "text": "Thus says the LORD of hosts: 'I am exceedingly jealous for Zion; yes, with great wrath I am jealous for her.'",
       "links": "<a href='/AIV/38/1/14'>Zech. 1:14</a>; <a href='/AIV/02/20/5'>Ex. 20:5</a>",
@@ -31,11 +28,6 @@
     },
     {
       "pk": 45008003,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 8,
       "verse": 3,
       "text": "Thus says the LORD: 'I will return to Zion and will dwell in the midst of Jerusalem. Jerusalem will be called the City of Truth, and the mountain of the LORD of hosts the Holy Mountain.'",
       "links": "<a href='/AIV/26/48/35'>Ezek. 48:35</a>; <a href='/AIV/23/1/26-27'>Isa. 1:26-27</a>",
@@ -43,11 +35,6 @@
     },
     {
       "pk": 45008004,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 8,
       "verse": 4,
       "text": "Thus says the LORD of hosts: 'Old men and old women will again sit in the streets of Jerusalem, each with their staff in hand because of great age.'",
       "links": "<a href='/AIV/23/65/20'>Isa. 65:20</a>",
@@ -55,11 +42,6 @@
     },
     {
       "pk": 45008005,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 8,
       "verse": 5,
       "text": "And the streets of the city shall be full of boys and girls playing in its streets.",
       "links": "<a href='/AIV/23/65/19'>Isa. 65:19</a>",
@@ -67,11 +49,6 @@
     },
     {
       "pk": 45008006,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 8,
       "verse": 6,
       "text": "Thus says the LORD of hosts: 'If it seems marvelous in the eyes of the remnant of this people in these days, should it also seem marvelous in My eyes?' declares the LORD of hosts.",
       "links": "<a href='/AIV/01/18/14'>Gen. 18:14</a>",
@@ -79,11 +56,6 @@
     },
     {
       "pk": 45008007,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 8,
       "verse": 7,
       "text": "Thus says the LORD of hosts: 'Behold, I will save My people from the land of the east and from the land of the west.'",
       "links": "<a href='/AIV/23/43/5-6'>Isa. 43:5-6</a>; <a href='/AIV/05/30/3-4'>Deut. 30:3-4</a>",
@@ -91,11 +63,6 @@
     },
     {
       "pk": 45008008,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 8,
       "verse": 8,
       "text": "I will bring them back and they will dwell in the midst of Jerusalem. They will be My people, and I will be their God, in truth and in righteousness.",
       "links": "<a href='/AIV/24/31/33'>Jer. 31:33</a>; <a href='/AIV/26/37/27'>Ezek. 37:27</a>",
@@ -103,11 +70,6 @@
     },
     {
       "pk": 45008009,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 8,
       "verse": 9,
       "text": "Thus says the LORD of hosts: 'Let your hands be strong, you who now hear these words that were spoken by the prophets when the foundation was laid for the house of the LORD of hosts, that the temple might be built.'",
       "links": "<a href='/AIV/15/5/1-2'>Ezra 5:1-2</a>; <a href='/AIV/37/2/4'>Hag. 2:4</a>",
@@ -116,11 +78,6 @@
     },
     {
       "pk": 45008010,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 8,
       "verse": 10,
       "text": "'For before these days there was no wage for man or beast; there was no safety from adversary for those who went out or came in, for I set every man against his neighbor.'",
       "links": "<a href='/AIV/37/1/6,10'>Hag. 1:6,10</a>",
@@ -128,11 +85,6 @@
     },
     {
       "pk": 45008011,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 8,
       "verse": 11,
       "text": "'But now I will not deal with the remnant of this people as in the former days,' says the LORD of hosts.",
       "links": "<a href='/AIV/23/65/8'>Isa. 65:8</a>",
@@ -140,11 +92,6 @@
     },
     {
       "pk": 45008012,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 8,
       "verse": 12,
       "text": "'For there will be peace for the seed; the vine will produce its fruit, the ground will yield its increase, and the heavens will give their dew. I will cause the remnant of this people to inherit all these things.'",
       "links": "<a href='/AIV/03/26/4'>Lev. 26:4</a>; <a href='/AIV/05/11/14'>Deut. 11:14</a>",
@@ -152,11 +99,6 @@
     },
     {
       "pk": 45008013,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 8,
       "verse": 13,
       "text": "'As you have been a curse among the nations, O house of Judah and house of Israel, so I will save you, and you shall be a blessing. Do not fear—let your hands be strong!'",
       "links": "<a href='/AIV/01/12/3'>Gen. 12:3</a>; <a href='/AIV/38/10/5-6'>Zech. 10:5-6</a>",
@@ -164,11 +106,6 @@
     },
     {
       "pk": 45008014,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 8,
       "verse": 14,
       "text": "For thus says the LORD of hosts: 'Just as I purposed to bring disaster on you when your ancestors provoked Me to wrath,' says the LORD of hosts, 'and I did not relent,",
       "links": "<a href='/AIV/24/25/7-11'>Jer. 25:7-11</a>",
@@ -176,11 +113,6 @@
     },
     {
       "pk": 45008015,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 8,
       "verse": 15,
       "text": "'so again I have purposed in these days to do good to Jerusalem and to the house of Judah. Do not be afraid.'",
       "links": "<a href='/AIV/26/34/25-27'>Ezek. 34:25-27</a>",
@@ -188,11 +120,6 @@
     },
     {
       "pk": 45008016,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 8,
       "verse": 16,
       "text": "'These are the things you shall do: Speak truth to one another; judge with truth and justice in your gates.'",
       "links": "<a href='/AIV/03/19/15-18'>Lev. 19:15-18</a>; <a href='/AIV/49/4/25'>Eph. 4:25</a>",
@@ -201,11 +128,6 @@
     },
     {
       "pk": 45008017,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 8,
       "verse": 17,
       "text": "'Do not plot evil in your hearts against one another; do not love false oath, for all these are things that I hate,' declares the LORD.",
       "links": "<a href='/AIV/19/101/3'>Ps. 101:3</a>; <a href='/AIV/40/5/33-37'>Matt. 5:33-37</a>",
@@ -213,11 +135,6 @@
     },
     {
       "pk": 45008018,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 8,
       "verse": 18,
       "text": "The word of the LORD of hosts came to me, saying:",
       "links": "<a href='/AIV/38/1/1'>Zech. 1:1</a>",
@@ -226,11 +143,6 @@
     },
     {
       "pk": 45008019,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 8,
       "verse": 19,
       "text": "Thus says the LORD of hosts: 'The fasts of the fourth, fifth, seventh, and tenth months will become joy and gladness and cheerful festivals for the house of Judah; therefore love truth and peace.'",
       "links": "<a href='/AIV/24/52/6,12,29'>Jer. 52:6,12,29</a>; <a href='/AIV/23/35/10'>Isa. 35:10</a>",
@@ -238,11 +150,6 @@
     },
     {
       "pk": 45008020,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 8,
       "verse": 20,
       "text": "Thus says the LORD of hosts: 'Peoples shall yet come, and inhabitants of many cities;",
       "links": "<a href='/AIV/19/87/4-6'>Ps. 87:4-6</a>; <a href='/AIV/23/2/2-4'>Isa. 2:2-4</a>",
@@ -250,11 +157,6 @@
     },
     {
       "pk": 45008021,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 8,
       "verse": 21,
       "text": "The inhabitants of one city will go to another, saying, 'Let us go at once to seek the LORD of hosts and to plead for His favor.' 'I too will go.'",
       "links": "<a href='/AIV/23/2/3'>Isa. 2:3</a>",
@@ -262,11 +164,6 @@
     },
     {
       "pk": 45008022,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 8,
       "verse": 22,
       "text": "Many peoples and strong nations will come to seek the LORD of hosts in Jerusalem and to plead for the LORD’s favor.",
       "links": "<a href='/AIV/19/102/18-22'>Ps. 102:18-22</a>",
@@ -274,45 +171,10 @@
     },
     {
       "pk": 45008023,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 8,
       "verse": 23,
       "text": "Thus says the LORD of hosts: In those days ten men from nations of every language shall take hold of a Jew, grasping his garment and saying, “Let us go with you, for we have heard that God is with you.”",
       "links": "<a href='/AIV/29/2/3'>Isa. 2:3</a>; <a href='/AIV/29/60/3'>Isa. 60:3</a>; <a href='/AIV/40/4/2'>Mic. 4:2</a>",
       "comment": "This verse portrays a prophetic vision of the future in which people from various nations will seek connection with Israel, recognizing God's presence among them. The image of 'grasping his garment' reflects ancient Near Eastern customs symbolizing earnest desire for blessing and guidance. The number 'ten' may indicate completeness or a representative multitude, reinforcing the theme of international recognition of God's work. The verse foreshadows themes of the messianic age, universal worship, and inclusion of the nations, resonating with similar passages such as Isaiah 2:2-3 and Micah 4:1-2."
-    },
-    {
-      "0": "l",
-      "1": "i",
-      "2": "n",
-      "3": "k",
-      "4": "s",
-      "pk": 45008024
-    }
-  ],
-  "translatedAt": "2026-01-01T22:02:07.288Z",
-  "sections": [
-    {
-      "title": "The Lord’s Zeal and Promise to Zion",
-      "startVerse": 1,
-      "endVerse": 8
-    },
-    {
-      "title": "Blessings for the Remnant and Restoration of Jerusalem",
-      "startVerse": 9,
-      "endVerse": 15
-    },
-    {
-      "title": "Call to Justice and Truth",
-      "startVerse": 16,
-      "endVerse": 17
-    },
-    {
-      "title": "Fasts Turned to Festivals; Jerusalem Sought by the Nations",
-      "startVerse": 18
     }
   ]
 }

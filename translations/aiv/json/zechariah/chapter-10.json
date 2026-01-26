@@ -1,16 +1,13 @@
 {
-  "book": 45,
+  "translation": "AIV",
+  "bookId": "zechariah",
   "bookName": "Zechariah",
   "bookAbbreviation": "Zech",
+  "bookNumber": 45,
   "chapter": 10,
   "verses": [
     {
       "pk": 45010001,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 10,
       "verse": 1,
       "text": "Ask the LORD for rain in the time of the spring rain. The LORD makes the storm clouds, and he gives them showers of rain and plants in the field for everyone.",
       "links": "<a href='/AIV/19/147/8'>Ps. 147:8</a>; <a href='/AIV/24/5/24'>Jer. 5:24</a>; <a href='/AIV/28/6/3'>Hos. 6:3</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 45010002,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 10,
       "verse": 2,
       "text": "For the household idols speak falsehood, and the diviners see lies; they tell empty dreams and give comfort in vain. Therefore the people wander like sheep; they are oppressed because there is no shepherd.",
       "links": "<a href='/AIV/23/44/25'>Isa. 44:25</a>; <a href='/AIV/26/34/5'>Ezek. 34:5</a>; <a href='/AIV/43/10/12'>John 10:12</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 45010003,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 10,
       "verse": 3,
       "text": "My anger burns against the shepherds, and I will punish the leaders. For the LORD of Armies will care for his flock, the house of Judah, and will make them like his majestic horse in battle.",
       "links": "<a href='/AIV/26/34/10'>Ezek. 34:10</a>; <a href='/AIV/19/80/1'>Ps. 80:1</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 45010004,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 10,
       "verse": 4,
       "text": "From him will come the cornerstone, the tent peg, from him the battle bow; from him every ruler will go out together.",
       "links": "<a href='/AIV/19/118/22'>Ps. 118:22</a>; <a href='/AIV/23/28/16'>Isa. 28:16</a>; <a href='/AIV/40/21/42'>Matt. 21:42</a>; <a href='/AIV/44/4/11'>Acts 4:11</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 45010005,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 10,
       "verse": 5,
       "text": "They will be like mighty men in battle, trampling their enemies in the mud of the streets. They will fight because the LORD is with them, and the riders on horses will be put to shame.",
       "links": "<a href='/AIV/06/6/12'>Judg. 6:12</a>; <a href='/AIV/23/41/10'>Isa. 41:10</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 45010006,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 10,
       "verse": 6,
       "text": "I will strengthen the house of Judah, and I will save the house of Joseph. I will bring them back because I have compassion on them, and they will be as though I had not rejected them; for I am the LORD their God, and I will answer them.",
       "links": "<a href='/AIV/24/31/18'>Jer. 31:18</a>; <a href='/AIV/28/1/7'>Hos. 1:7</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 45010007,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 10,
       "verse": 7,
       "text": "Those of Ephraim will become like mighty men, and their hearts will rejoice as with wine. Their children will see it and rejoice; their hearts will exult in the LORD.",
       "links": "<a href='/AIV/19/104/15'>Ps. 104:15</a>; <a href='/AIV/36/3/17'>Zeph. 3:17</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 45010008,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 10,
       "verse": 8,
       "text": "I will whistle for them and gather them in, for I have redeemed them; and they will be as numerous as they once were.",
       "links": "<a href='/AIV/23/5/26'>Isa. 5:26</a>; <a href='/AIV/24/32/37'>Jer. 32:37</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 45010009,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 10,
       "verse": 9,
       "text": "Though I scatter them among the nations, they will remember me in distant countries, and they will live with their children, and they will return.",
       "links": "<a href='/AIV/05/30/3'>Deut. 30:3</a>; <a href='/AIV/24/50/4-5'>Jer. 50:4-5</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 45010010,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 10,
       "verse": 10,
       "text": "I will bring them back from the land of Egypt and gather them from Assyria. I will bring them to the land of Gilead and Lebanon, until there is no room for them.",
       "links": "<a href='/AIV/23/11/11'>Isa. 11:11</a>; <a href='/AIV/28/11/11'>Hos. 11:11</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 45010011,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 10,
       "verse": 11,
       "text": "He will pass through the sea of distress and strike the waves of the sea; all the depths of the Nile will dry up. The pride of Assyria will be brought down, and the scepter of Egypt will depart.",
       "links": "<a href='/AIV/02/14/21'>Ex. 14:21</a>; <a href='/AIV/19/106/9'>Ps. 106:9</a>",
@@ -141,33 +88,10 @@
     },
     {
       "pk": 45010012,
-      "translation": "AIV",
-      "book": 45,
-      "bookName": "Zechariah",
-      "bookAbbreviation": "Zech",
-      "chapter": 10,
       "verse": 12,
       "text": "I will make them strong in the LORD, and they shall walk in his name, declares the LORD.",
       "links": "<a href='/AIV/33/4/5'>Mic. 4:5</a>; <a href='/AIV/51/2/6'>Col. 2:6</a>",
       "comment": "The culmination is God's people living and persevering in His name—strong, faithful, and united. Walking in God's name has implications for both worship and daily life, signifying a visible, unified faith community."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:58:08.752Z",
-  "sections": [
-    {
-      "title": "The LORD Promises Rain and Denounces False Shepherds",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "Restoration and Strengthening of Judah and Israel",
-      "startVerse": 6,
-      "endVerse": 7
-    },
-    {
-      "title": "Return from Exile and Triumph Over Enemies",
-      "startVerse": 8,
-      "endVerse": 12
     }
   ]
 }

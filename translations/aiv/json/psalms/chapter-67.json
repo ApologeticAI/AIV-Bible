@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 67,
   "verses": [
     {
       "pk": 23067001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 67,
       "verse": 1,
       "text": "May God be gracious to us and bless us; may he make his face shine upon us. Selah",
       "links": "<a href='/AIV/04/6/24-26'>Num. 6:24-26</a>; <a href='/AIV/80/1/2'>Jas. 1:17</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23067002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 67,
       "verse": 2,
       "text": "That your way may be known on earth, your salvation among all nations.",
       "links": "<a href='/AIV/01/12/3'>Gen. 12:3</a>; <a href='/AIV/23/49/6'>Isa. 49:6</a>; <a href='/AIV/40/28/19'>Matt. 28:19</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23067003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 67,
       "verse": 3,
       "text": "Let the peoples praise you, O God; let all the peoples praise you.",
       "links": "<a href='/AIV/19/22/27'>Ps. 22:27</a>; <a href='/AIV/19/117/1'>Ps. 117:1</a>; <a href='/AIV/66/7/9-10'>Rev. 7:9-10</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23067004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 67,
       "verse": 4,
       "text": "Let the nations be glad and sing for joy, for you judge the peoples with fairness and guide the nations on earth. Selah",
       "links": "<a href='/AIV/19/9/8'>Ps. 9:8</a>; <a href='/AIV/45/2/11'>Rom. 2:11</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23067005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 67,
       "verse": 5,
       "text": "Let the peoples praise you, O God; let all the peoples praise you.",
       "links": "<a href='/AIV/19/67/3'>Ps. 67:3</a>; <a href='/AIV/19/117/1'>Ps. 117:1</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23067006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 67,
       "verse": 6,
       "text": "The earth has yielded its increase; God, our God, blesses us.",
       "links": "<a href='/AIV/03/26/4'>Lev. 26:4</a>; <a href='/AIV/19/65/9-13'>Ps. 65:9-13</a>",
@@ -80,28 +52,10 @@
     },
     {
       "pk": 23067007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 67,
       "verse": 7,
       "text": "God blesses us, so that all the ends of the earth may fear him.",
       "links": "<a href='/AIV/01/18/18'>Gen. 18:18</a>; <a href='/AIV/19/22/27'>Ps. 22:27</a>",
       "comment": "God’s blessings are not for one nation alone but intended as a witness to all peoples, drawing them into awe and reverence before God. The psalm ends with a vision of a worldwide family united in the worship and fear of God—a theme fully realized in the one, visible, apostolic church established by Christ for all nations."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:21:23.448Z",
-  "sections": [
-    {
-      "title": "Prayer for God's Blessing on All Nations",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "Universal Praise and Blessing",
-      "startVerse": 6,
-      "endVerse": 7
     }
   ]
 }

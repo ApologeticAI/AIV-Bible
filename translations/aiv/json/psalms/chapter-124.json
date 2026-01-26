@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 124,
   "verses": [
     {
       "pk": 23124001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 124,
       "verse": 1,
       "text": "If the Lord had not been on our side—let Israel now say—",
       "links": "<a href='/AIV/19/94/17'>Ps. 94:17</a>; <a href='/AIV/19/127/1'>Ps. 127:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23124002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 124,
       "verse": 2,
       "text": "If the Lord had not been on our side, when people rose up against us,",
       "links": "<a href='/AIV/19/44/5-8'>Ps. 44:5-8</a>; <a href='/AIV/02/14/30'>Ex. 14:30</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23124003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 124,
       "verse": 3,
       "text": "then they would have swallowed us alive, when their anger was kindled against us.",
       "links": "<a href='/AIV/19/56/1-2'>Ps. 56:1-2</a>; <a href='/AIV/19/35/25'>Ps. 35:25</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23124004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 124,
       "verse": 4,
       "text": "Then the waters would have swept us away, the torrent would have gone over us;",
       "links": "<a href='/AIV/19/69/1-2'>Ps. 69:1-2</a>; <a href='/AIV/23/43/2'>Isa. 43:2</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23124005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 124,
       "verse": 5,
       "text": "then over us would have passed the raging waters.",
       "links": "<a href='/AIV/19/18/4'>Ps. 18:4</a>; <a href='/AIV/19/144/7'>Ps. 144:7</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23124006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 124,
       "verse": 6,
       "text": "Blessed be the Lord, who has not given us as prey to their teeth.",
       "links": "<a href='/AIV/08/2/6'>Ruth 2:6</a>; <a href='/AIV/19/34/1'>Ps. 34:1</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23124007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 124,
       "verse": 7,
       "text": "We have escaped like a bird from the snare of the fowlers; the snare is broken, and we have escaped.",
       "links": "<a href='/AIV/19/91/3'>Ps. 91:3</a>; <a href='/AIV/19/141/9-10'>Ps. 141:9-10</a>",
@@ -91,23 +58,10 @@
     },
     {
       "pk": 23124008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 124,
       "verse": 8,
       "text": "Our help is in the name of the Lord, who made heaven and earth.",
       "links": "<a href='/AIV/19/121/2'>Ps. 121:2</a>; <a href='/AIV/01/1/1'>Gen. 1:1</a>; <a href='/AIV/44/4/12'>Acts 4:12</a>",
       "comment": "This final declaration centers all hope and deliverance on God alone, the Creator. Recognizing God as Creator deepens our trust in Him, echoing the unity and authority ultimately revealed in Christ’s mediation (<a href='/AIV/54/2/5'>1 Tim. 2:5</a>), and in the ongoing protection bestowed upon His people as a spiritual family."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:42:56.581Z",
-  "sections": [
-    {
-      "title": "Thanksgiving for Deliverance from Enemies",
-      "startVerse": 1,
-      "endVerse": 8
     }
   ]
 }

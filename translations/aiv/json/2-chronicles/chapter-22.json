@@ -1,16 +1,13 @@
 {
-  "book": 14,
+  "translation": "AIV",
+  "bookId": "2-chronicles",
   "bookName": "2 Chronicles",
-  "bookAbbreviation": "2Chr",
+  "bookAbbreviation": "2 Chr",
+  "bookNumber": 14,
   "chapter": 22,
   "verses": [
     {
       "pk": 14022001,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 22,
       "verse": 1,
       "text": "The people of Jerusalem made Ahaziah, the youngest son of Jehoram, king in his place, because the raiding party that came with the Arabs to the camp had killed all the older sons. So Ahaziah son of Jehoram became king of Judah.",
       "links": "<a href='/AIV/12/8/25-27'>2 Kgs 8:25-27</a>; <a href='/AIV/14/21/17'>2 Chr 21:17</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 14022002,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 22,
       "verse": 2,
       "text": "Ahaziah was twenty-two years old when he became king, and he reigned in Jerusalem one year. His mother’s name was Athaliah, the granddaughter of Omri.",
       "links": "<a href='/AIV/12/8/26'>2 Kgs 8:26</a>; <a href='/AIV/14/21/6'>2 Chr 21:6</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 14022003,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 22,
       "verse": 3,
       "text": "He also followed the ways of the house of Ahab, for his mother influenced him to do what was evil.",
       "links": "<a href='/AIV/14/21/6'>2 Chr 21:6</a>; <a href='/AIV/11/16/30'>1 Kgs 16:30</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 14022004,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 22,
       "verse": 4,
       "text": "He did what was evil in the sight of the Lord like the house of Ahab, for they were his advisors after the death of his father, to his destruction.",
       "links": "<a href='/AIV/14/21/6'>2 Chr 21:6</a>; <a href='/AIV/14/20/37'>2 Chr 20:37</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 14022005,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 22,
       "verse": 5,
       "text": "He also followed their advice and went with Jehoram the son of Ahab king of Israel to make war against Hazael king of Aram at Ramoth-Gilead, and the Arameans wounded Joram.",
       "links": "<a href='/AIV/12/8/28'>2 Kgs 8:28</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 14022006,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 22,
       "verse": 6,
       "text": "So Joram turned back to Jezreel to recover from the wounds which the Arameans had inflicted on him at Ramah, when he fought against Hazael king of Aram. Then Ahaziah the son of Jehoram, king of Judah, went down to Jezreel to visit Joram son of Ahab, because he was sick.",
       "links": "<a href='/AIV/12/8/29'>2 Kgs 8:29</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 14022007,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 22,
       "verse": 7,
       "text": "But this was from God, that Ahaziah should be destroyed by going to Joram. For when he arrived, he went out with Joram against Jehu son of Nimshi, whom the Lord had anointed to destroy the house of Ahab.",
       "links": "<a href='/AIV/12/9/1-10'>2 Kgs 9:1-10</a>; <a href='/AIV/11/19/16'>1 Kgs 19:16</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 14022008,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 22,
       "verse": 8,
       "text": "When Jehu was executing judgment on the house of Ahab, he found the officials of Judah and the sons of Ahaziah’s relatives, who were attending Ahaziah, and killed them.",
       "links": "<a href='/AIV/12/10/12-14'>2 Kgs 10:12-14</a>",
@@ -103,11 +65,6 @@
     },
     {
       "pk": 14022009,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 22,
       "verse": 9,
       "text": "Ahaziah was found hiding in Samaria, so they brought him to Jehu, killed him, and buried him. They said, 'He is the grandson of Jehoshaphat, who sought the Lord with all his heart.' So the house of Ahaziah had no power to hold the kingdom.",
       "links": "<a href='/AIV/12/9/27-28'>2 Kgs 9:27-28</a>; <a href='/AIV/14/17/3-4'>2 Chr 17:3-4</a>",
@@ -115,11 +72,6 @@
     },
     {
       "pk": 14022010,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 22,
       "verse": 10,
       "text": "Now when Athaliah, the mother of Ahaziah, saw that her son was dead, she arose and destroyed all the royal heirs of the house of Judah.",
       "links": "<a href='/AIV/12/11/1'>2 Kgs 11:1</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 14022011,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 22,
       "verse": 11,
       "text": "But Jehosheba, the daughter of King Jehoram, took Joash son of Ahaziah, and secretly stole him away from among the king’s sons who were to be killed, and put him and his nurse in a bedroom. So Jehosheba, the wife of Jehoiada the priest (because she was Ahaziah’s sister), hid him from Athaliah so she could not kill him.",
       "links": "<a href='/AIV/12/11/2'>2 Kgs 11:2</a>; <a href='/AIV/14/23/1'>2 Chr 23:1</a>",
@@ -141,33 +88,10 @@
     },
     {
       "pk": 14022012,
-      "translation": "AIV",
-      "book": 14,
-      "bookName": "2 Chronicles",
-      "bookAbbreviation": "2Chr",
-      "chapter": 22,
       "verse": 12,
       "text": "He remained hidden with them in the house of God for six years, while Athaliah ruled over the land.",
       "links": "<a href='/AIV/14/23/1'>2 Chr 23:1</a>; <a href='/AIV/12/11/3'>2 Kgs 11:3</a>",
       "comment": "Joash’s preservation in the house of God prefigures the protection and formation of future leaders within the sanctuary. This waiting period is reminiscent of Christ’s own hidden life and the fulfillment of God’s plan in the fullness of time (<a href='/AIV/48/4/4'>Gal 4:4</a>)."
-    }
-  ],
-  "translatedAt": "2025-12-24T04:32:20.590Z",
-  "sections": [
-    {
-      "title": "Reign and Death of Ahaziah",
-      "startVerse": 1,
-      "endVerse": 9
-    },
-    {
-      "title": "Athaliah Usurps the Throne",
-      "startVerse": 10,
-      "endVerse": 10
-    },
-    {
-      "title": "Joash Preserved from Athaliah",
-      "startVerse": 11,
-      "endVerse": 12
     }
   ]
 }

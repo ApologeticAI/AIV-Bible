@@ -1,16 +1,13 @@
 {
-  "book": 33,
+  "translation": "AIV",
+  "bookId": "ezekiel",
   "bookName": "Ezekiel",
   "bookAbbreviation": "Ezek",
+  "bookNumber": 33,
   "chapter": 10,
   "verses": [
     {
       "pk": 33010001,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 10,
       "verse": 1,
       "text": "Then I looked, and there above the expanse that was over the heads of the cherubim, there appeared something like a throne, as if made of sapphire, and it was seen above them.",
       "links": "<a href='/AIV/26/1/22'>Ezek. 1:22</a>; <a href='/AIV/02/24/10'>Ex. 24:10</a>; <a href='/AIV/66/4/6'>Rev. 4:6</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 33010002,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 10,
       "verse": 2,
       "text": "And He spoke to the man clothed with linen and said, 'Go in among the wheels beneath the cherubim, fill your hands with burning coals from among the cherubim, and scatter them over the city.' And he went in before my eyes.",
       "links": "<a href='/AIV/26/9/2'>Ezek. 9:2</a>; <a href='/AIV/26/1/13'>Ezek. 1:13</a>",
@@ -32,11 +24,6 @@
     },
     {
       "pk": 33010003,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 10,
       "verse": 3,
       "text": "Now the cherubim were standing on the south side of the temple when the man went in, and the cloud filled the inner court.",
       "links": "<a href='/AIV/02/40/34'>Ex. 40:34</a>; <a href='/AIV/11/8/10-11'>1 Kgs. 8:10-11</a>",
@@ -45,11 +32,6 @@
     },
     {
       "pk": 33010004,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 10,
       "verse": 4,
       "text": "Then the glory of the LORD rose from above the cherubim to the threshold of the temple, and the temple was filled with the cloud, and the court was filled with the brightness of the LORD's glory.",
       "links": "<a href='/AIV/26/9/3'>Ezek. 9:3</a>; <a href='/AIV/19/18/11-12'>Ps. 18:11-12</a>",
@@ -57,11 +39,6 @@
     },
     {
       "pk": 33010005,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 10,
       "verse": 5,
       "text": "And the sound of the wings of the cherubim was heard as far as the outer court, like the voice of God Almighty when He speaks.",
       "links": "<a href='/AIV/26/1/24'>Ezek. 1:24</a>; <a href='/AIV/19/29/3-4'>Ps. 29:3-4</a>",
@@ -69,11 +46,6 @@
     },
     {
       "pk": 33010006,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 10,
       "verse": 6,
       "text": "And when He commanded the man clothed with linen, saying, 'Take fire from among the wheels, from among the cherubim,' he went in and stood beside the wheel.",
       "links": "<a href='/AIV/26/1/15'>Ezek. 1:15</a>",
@@ -81,11 +53,6 @@
     },
     {
       "pk": 33010007,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 10,
       "verse": 7,
       "text": "And a cherub stretched out his hand from among the cherubim to the fire that was among them, and he took some of it and put it into the hands of the man clothed with linen. And he took it and went out.",
       "links": "<a href='/AIV/23/6/6'>Is. 6:6</a>",
@@ -93,11 +60,6 @@
     },
     {
       "pk": 33010008,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 10,
       "verse": 8,
       "text": "And under the wings of the cherubim was something like human hands, visible to them.",
       "links": "<a href='/AIV/26/1/8'>Ezek. 1:8</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 33010009,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 10,
       "verse": 9,
       "text": "And I looked, and there were four wheels beside the cherubim, one wheel beside each cherub; and the wheels appeared to shine like beryl stone.",
       "links": "<a href='/AIV/26/1/16'>Ezek. 1:16</a>",
@@ -118,11 +75,6 @@
     },
     {
       "pk": 33010010,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 10,
       "verse": 10,
       "text": "As for their appearance, all four had the same form, as if one wheel were within another.",
       "links": "<a href='/AIV/26/1/16'>Ezek. 1:16</a>",
@@ -130,11 +82,6 @@
     },
     {
       "pk": 33010011,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 10,
       "verse": 11,
       "text": "Whenever they moved, they went in the direction one faced, without turning as they went; for they went wherever the head faced, not turning as they moved.",
       "links": "<a href='/AIV/26/1/17'>Ezek. 1:17</a>",
@@ -142,11 +89,6 @@
     },
     {
       "pk": 33010012,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 10,
       "verse": 12,
       "text": "And their whole body, their backs, their hands, their wings, and the wheels were full of eyes all around, even the wheels that each of the four cherubim had.",
       "links": "<a href='/AIV/26/1/18'>Ezek. 1:18</a>; <a href='/AIV/66/4/8'>Rev. 4:8</a>",
@@ -154,11 +96,6 @@
     },
     {
       "pk": 33010013,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 10,
       "verse": 13,
       "text": "As for the wheels, they were called in my hearing, 'the whirling wheels.'",
       "links": "<a href='/AIV/26/1/16'>Ezek. 1:16</a>",
@@ -166,11 +103,6 @@
     },
     {
       "pk": 33010014,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 10,
       "verse": 14,
       "text": "Each one had four faces: the first was the face of a cherub, the second the face of a man, the third the face of a lion, and the fourth the face of an eagle.",
       "links": "<a href='/AIV/26/1/10'>Ezek. 1:10</a>; <a href='/AIV/66/4/7'>Rev. 4:7</a>",
@@ -178,11 +110,6 @@
     },
     {
       "pk": 33010015,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 10,
       "verse": 15,
       "text": "And the cherubim rose upward—these were the living creatures that I had seen by the Kebar canal.",
       "links": "<a href='/AIV/26/1/1'>Ezek. 1:1</a>; <a href='/AIV/26/1/22'>Ezek. 1:22</a>",
@@ -190,11 +117,6 @@
     },
     {
       "pk": 33010016,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 10,
       "verse": 16,
       "text": "And when the cherubim moved, the wheels moved beside them; and when the cherubim lifted their wings to rise from the ground, the wheels did not turn from beside them.",
       "links": "<a href='/AIV/26/1/19'>Ezek. 1:19</a>",
@@ -202,11 +124,6 @@
     },
     {
       "pk": 33010017,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 10,
       "verse": 17,
       "text": "When they stood still, these stood still; and when they rose, these rose with them, for the spirit of the living creatures was in them.",
       "links": "<a href='/AIV/26/1/20-21'>Ezek. 1:20-21</a>",
@@ -214,11 +131,6 @@
     },
     {
       "pk": 33010018,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 10,
       "verse": 18,
       "text": "Then the glory of the LORD departed from the threshold of the temple and stood over the cherubim.",
       "links": "<a href='/AIV/26/9/3'>Ezek. 9:3</a>; <a href='/AIV/26/11/23'>Ezek. 11:23</a>",
@@ -227,11 +139,6 @@
     },
     {
       "pk": 33010019,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 10,
       "verse": 19,
       "text": "The cherubim lifted their wings and rose up from the earth before my eyes as they went out, and the wheels beside them. And they stood at the entrance of the east gate of the LORD’s house, and the glory of the God of Israel hovered over them from above.",
       "links": "<a href='/AIV/26/11/1'>Ezek. 11:1</a>; <a href='/AIV/43/1/14'>Jn. 1:14</a>",
@@ -239,11 +146,6 @@
     },
     {
       "pk": 33010020,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 10,
       "verse": 20,
       "text": "These were the living creatures that I saw beneath the God of Israel by the Kebar canal, and I knew that they were cherubim.",
       "links": "<a href='/AIV/26/1/1'>Ezek. 1:1</a>; <a href='/AIV/26/1/22'>Ezek. 1:22</a>",
@@ -251,11 +153,6 @@
     },
     {
       "pk": 33010021,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 10,
       "verse": 21,
       "text": "Each had four faces, and each had four wings, and under their wings were what appeared to be human hands.",
       "links": "<a href='/AIV/26/1/6-8'>Ezek. 1:6-8</a>",
@@ -263,43 +160,10 @@
     },
     {
       "pk": 33010022,
-      "translation": "AIV",
-      "book": 33,
-      "bookName": "Ezekiel",
-      "bookAbbreviation": "Ezek",
-      "chapter": 10,
       "verse": 22,
       "text": "And as for the likeness of their faces, they were the same faces whose appearance I had seen by the Kebar canal. Each one went straight ahead.",
       "links": "<a href='/AIV/26/1/10'>Ezek. 1:10</a>",
       "comment": "Ezekiel reiterates the identical appearance of the living creatures (cherubim) he saw earlier by the Kebar canal (Ezek. 1:5-14), emphasizing consistency in his visionary experience and highlighting the heavenly order and purposefulness of these beings in God’s glory and judgment."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:03:03.420Z",
-  "sections": [
-    {
-      "title": "The Vision of the Sapphire Throne",
-      "startVerse": 1,
-      "endVerse": 1
-    },
-    {
-      "title": "The Man Clothed in Linen Scatters Fire",
-      "startVerse": 2,
-      "endVerse": 2
-    },
-    {
-      "title": "The Glory of the LORD Fills the Temple",
-      "startVerse": 3,
-      "endVerse": 8
-    },
-    {
-      "title": "The Living Creatures and the Whirling Wheels",
-      "startVerse": 9,
-      "endVerse": 17
-    },
-    {
-      "title": "The Departure of the Glory of the LORD",
-      "startVerse": 18,
-      "endVerse": 22
     }
   ]
 }

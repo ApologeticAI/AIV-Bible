@@ -1,16 +1,13 @@
 {
-  "book": 37,
+  "translation": "AIV",
+  "bookId": "amos",
   "bookName": "Amos",
   "bookAbbreviation": "Amos",
+  "bookNumber": 37,
   "chapter": 1,
   "verses": [
     {
       "pk": 37001001,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 1,
       "verse": 1,
       "text": "The words of Amos, who was among the shepherds of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah and in the days of Jeroboam son of Joash, king of Israel, two years before the earthquake.",
       "links": "<a href='/AIV/14/26/1'>2 Chron. 26:1</a>; <a href='/AIV/12/14/23'>2 Kings 14:23</a>; <a href='/AIV/38/14/5'>Zech. 14:5</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 37001002,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 1,
       "verse": 2,
       "text": "He said: 'The LORD roars from Zion, and raises His voice from Jerusalem; the pastures of the shepherds wither, and the top of Carmel dries up.'",
       "links": "<a href='/AIV/29/3/16'>Joel 3:16</a>; <a href='/AIV/19/46/6'>Ps. 46:6</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 37001003,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 1,
       "verse": 3,
       "text": "This is what the LORD says: 'For three transgressions of Damascus, and for four, I will not turn back its punishment, because they have threshed Gilead with iron sledges.'",
       "links": "<a href='/AIV/23/8/4'>Isa. 8:4</a>; <a href='/AIV/24/49/23'>Jer. 49:23</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 37001004,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 1,
       "verse": 4,
       "text": "So I will send fire upon the house of Hazael, and it will consume the palaces of Ben-Hadad.",
       "links": "<a href='/AIV/12/13/3'>2 Kings 13:3</a>; <a href='/AIV/24/49/27'>Jer. 49:27</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 37001005,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 1,
       "verse": 5,
       "text": "I will break the gate-bar of Damascus, and cut off the inhabitants from the Valley of Aven, and the one who holds the scepter from Beth Eden; and the people of Aram shall go into exile to Kir,' says the LORD.",
       "links": "<a href='/AIV/12/16/9'>2 Kings 16:9</a>; <a href='/AIV/30/9/7'>Amos 9:7</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 37001006,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 1,
       "verse": 6,
       "text": "This is what the LORD says: 'For three transgressions of Gaza, and for four, I will not turn back its punishment, because they carried whole communities into exile, handing them over to Edom.'",
       "links": "<a href='/AIV/24/47/1'>Jer. 47:1</a>; <a href='/AIV/26/25/15'>Ezek. 25:15</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 37001007,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 1,
       "verse": 7,
       "text": "So I will send fire upon the wall of Gaza, and it will consume her palaces.",
       "links": "<a href='/AIV/36/2/4'>Zeph. 2:4</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 37001008,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 1,
       "verse": 8,
       "text": "I will cut off the inhabitants from Ashdod, and the one who holds the scepter from Ashkelon; I will turn My hand against Ekron, and the remnant of the Philistines shall perish,' says the Lord GOD.",
       "links": "<a href='/AIV/24/47/5'>Jer. 47:5</a>; <a href='/AIV/36/2/4-5'>Zeph. 2:4-5</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 37001009,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 1,
       "verse": 9,
       "text": "This is what the LORD says: 'For three transgressions of Tyre, and for four, I will not turn back its punishment, because they delivered entire communities of captives to Edom, and did not remember the covenant of brothers.'",
       "links": "<a href='/AIV/26/26/2'>Ezek. 26:2</a>; <a href='/AIV/29/3/4'>Joel 3:4-6</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 37001010,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 1,
       "verse": 10,
       "text": "So I will send fire upon the wall of Tyre, and it will consume her palaces.",
       "links": "<a href='/AIV/26/28/18'>Ezek. 28:18</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 37001011,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 1,
       "verse": 11,
       "text": "This is what the LORD says: 'For three transgressions of Edom, and for four, I will not turn back its punishment, because he pursued his brother with the sword, cast off all compassion, maintained his anger continually, and kept his rage forever.'",
       "links": "<a href='/AIV/31/1/10-11'>Obad. 10-11</a>; <a href='/AIV/19/137/7'>Ps. 137:7</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 37001012,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 1,
       "verse": 12,
       "text": "So I will send fire upon Teman, and it will consume the palaces of Bozrah.",
       "links": "<a href='/AIV/24/49/20-22'>Jer. 49:20-22</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 37001013,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 1,
       "verse": 13,
       "text": "This is what the LORD says: 'For three transgressions of the Ammonites, and for four, I will not turn back its punishment, because they ripped open pregnant women in Gilead, that they might enlarge their border.'",
       "links": "<a href='/AIV/12/15/16'>2 Kings 15:16</a>; <a href='/AIV/24/49/1'>Jer. 49:1</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 37001014,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 1,
       "verse": 14,
       "text": "So I will set fire to the wall of Rabbah, and it will consume her palaces, with shouting on the day of battle, with a storm on the day of the whirlwind.",
       "links": "<a href='/AIV/24/49/2'>Jer. 49:2</a>",
@@ -176,28 +108,10 @@
     },
     {
       "pk": 37001015,
-      "translation": "AIV",
-      "book": 37,
-      "bookName": "Amos",
-      "bookAbbreviation": "Amos",
-      "chapter": 1,
       "verse": 15,
       "text": "And their king will go into exile, he and his officials together,' says the LORD.",
       "links": "<a href='/AIV/24/49/3'>Jer. 49:3</a>",
       "comment": "The king and his officials represent the earthly headship of Ammon, now subject to God's authority and judgment. Just as nations suffer when their rulers fail, so true spiritual order is emphasized—pointing ahead to Christ as the true King whose kingdom endures forever (Luke 1:33; Rev. 11:15)."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:41:44.768Z",
-  "sections": [
-    {
-      "title": "Introduction: Amos's Prophetic Call",
-      "startVerse": 1,
-      "endVerse": 2
-    },
-    {
-      "title": "Oracles Against the Nations",
-      "startVerse": 3,
-      "endVerse": 15
     }
   ]
 }

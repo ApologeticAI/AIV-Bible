@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 60,
   "verses": [
     {
       "pk": 23060001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 60,
       "verse": 1,
       "text": "O God, you have rejected us, you have broken us; you have been angry—restore us again.",
       "links": "<a href='/AIV/19/44/9'>Ps. 44:9</a>; <a href='/AIV/19/85/4'>Ps. 85:4</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23060002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 60,
       "verse": 2,
       "text": "You have shaken the land and split it open; heal its fractures, for it trembles.",
       "links": "<a href='/AIV/19/46/2-3'>Ps. 46:2-3</a>; <a href='/AIV/23/24/19'>Isa. 24:19</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23060003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 60,
       "verse": 3,
       "text": "You have made your people suffer hardship; you have given us wine that makes us stagger.",
       "links": "<a href='/AIV/19/71/20'>Ps. 71:20</a>; <a href='/AIV/23/51/17'>Isa. 51:17</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23060004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 60,
       "verse": 4,
       "text": "You have given those who fear you a banner to be raised high because of the truth. Selah.",
       "links": "<a href='/AIV/19/20/5'>Ps. 20:5</a>; <a href='/AIV/23/11/10-12'>Isa. 11:10-12</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23060005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 60,
       "verse": 5,
       "text": "Save us with your right hand and answer us, so those you love may be delivered.",
       "links": "<a href='/AIV/19/17/7'>Ps. 17:7</a>; <a href='/AIV/19/108/6'>Ps. 108:6</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23060006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 60,
       "verse": 6,
       "text": "God has spoken in his holiness: 'I will exult, I will divide up Shechem and measure out the Valley of Succoth.'",
       "links": "<a href='/AIV/19/108/7'>Ps. 108:7</a>; <a href='/AIV/6/24/32'>Josh. 24:32</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 23060007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 60,
       "verse": 7,
       "text": "Gilead is mine, and Manasseh is mine; Ephraim is the helmet for my head, Judah is my scepter.",
       "links": "<a href='/AIV/1/49/10'>Gen. 49:10</a>; <a href='/AIV/19/80/2'>Ps. 80:2</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 23060008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 60,
       "verse": 8,
       "text": "Moab is my washbasin; upon Edom I cast my sandal; over Philistia I shout in triumph.",
       "links": "<a href='/AIV/19/108/9'>Ps. 108:9</a>; <a href='/AIV/19/83/6'>Ps. 83:6</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 23060009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 60,
       "verse": 9,
       "text": "Who will bring me to the fortified city? Who will lead me to Edom?",
       "links": "<a href='/AIV/19/108/10'>Ps. 108:10</a>; <a href='/AIV/4/20/17'>Num. 20:17'>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 23060010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 60,
       "verse": 10,
       "text": "Is it not you, O God, who have rejected us, and do not go out with our armies?",
       "links": "<a href='/AIV/19/44/9'>Ps. 44:9</a>; <a href='/AIV/19/68/1'>Ps. 68:1</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 23060011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 60,
       "verse": 11,
       "text": "Give us help against the enemy, for human help is worthless.",
       "links": "<a href='/AIV/19/118/8'>Ps. 118:8</a>; <a href='/AIV/19/108/12'>Ps. 108:12</a>",
@@ -141,33 +88,10 @@
     },
     {
       "pk": 23060012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 60,
       "verse": 12,
       "text": "With God we will gain victory, and he will trample down our enemies.",
       "links": "<a href='/AIV/19/44/5'>Ps. 44:5</a>; <a href='/AIV/19/108/13'>Ps. 108:13</a>; <a href='/AIV/45/16/20'>Rom. 16:20</a>",
       "comment": "Victory is assured only in partnership with God, foreshadowing Christ's triumph over sin and Satan (cf. Rom. 16:20). The psalm closes with confident hope rooted in faithfulness—a confidence lived out in worship, unity, and sacramental grace."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:19:33.494Z",
-  "sections": [
-    {
-      "title": "Prayer for Restoration After Defeat",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "God's Sovereign Decree Over the Nations",
-      "startVerse": 6,
-      "endVerse": 8
-    },
-    {
-      "title": "Renewed Plea for Victory and Deliverance",
-      "startVerse": 9,
-      "endVerse": 12
     }
   ]
 }

@@ -1,16 +1,13 @@
 {
-  "book": 60,
+  "translation": "AIV",
+  "bookId": "2-thessalonians",
   "bookName": "2 Thessalonians",
-  "bookAbbreviation": "2Thess",
+  "bookAbbreviation": "2 Thess",
+  "bookNumber": 60,
   "chapter": 3,
   "verses": [
     {
       "pk": 60003001,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 3,
       "verse": 1,
       "text": "Finally, brothers, pray for us, that the word of the Lord may spread rapidly and be honored, as it was among you.",
       "links": "<a href='/AIV/45/15/30'>Rom. 15:30</a>; <a href='/AIV/51/4/3'>Col. 4:3</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 60003002,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 3,
       "verse": 2,
       "text": "And pray that we may be delivered from wicked and evil people, for not all have faith.",
       "links": "<a href='/AIV/45/15/31'>Rom. 15:31</a>; <a href='/AIV/40/6/13'>Matt. 6:13</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 60003003,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 3,
       "verse": 3,
       "text": "But the Lord is faithful, and he will strengthen you and guard you from the evil one.",
       "links": "<a href='/AIV/46/10/13'>1 Cor. 10:13</a>; <a href='/AIV/43/17/15'>John 17:15</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 60003004,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 3,
       "verse": 4,
       "text": "And we are confident in the Lord about you, that you are doing and will continue to do what we command.",
       "links": "<a href='/AIV/46/7/25'>1 Cor. 7:25</a>; <a href='/AIV/43/14/15'>John 14:15</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 60003005,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 3,
       "verse": 5,
       "text": "May the Lord direct your hearts into the love of God and the steadfastness of Christ.",
       "links": "<a href='/AIV/45/5/5'>Rom. 5:5</a>; <a href='/AIV/58/12/2'>Heb. 12:2</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 60003006,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 3,
       "verse": 6,
       "text": "Now we command you, brothers, in the name of our Lord Jesus Christ, to keep away from every brother who walks in idleness and does not live according to the tradition you received from us.",
       "links": "<a href='/AIV/54/5/22'>1 Tim. 5:22</a>; <a href='/AIV/47/6/17'>2 Cor. 6:17</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 60003007,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 3,
       "verse": 7,
       "text": "For you yourselves know how you ought to imitate us, because we were not idle when we were with you.",
       "links": "<a href='/AIV/46/11/1'>1 Cor. 11:1</a>; <a href='/AIV/52/1/6'>1 Thess. 1:6</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 60003008,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 3,
       "verse": 8,
       "text": "Nor did we eat anyone's bread without paying for it, but with labor and hardship we worked night and day, so that we would not be a burden to any of you.",
       "links": "<a href='/AIV/52/2/9'>1 Thess. 2:9</a>; <a href='/AIV/44/18/3'>Acts 18:3</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 60003009,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 3,
       "verse": 9,
       "text": "It was not because we do not have the right, but to give you an example to imitate.",
       "links": "<a href='/AIV/46/9/4'>1 Cor. 9:4</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 60003010,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 3,
       "verse": 10,
       "text": "For even when we were with you, we gave you this rule: 'If anyone is not willing to work, neither should he eat.'",
       "links": "<a href='/AIV/52/4/11'>1 Thess. 4:11</a>; <a href='/AIV/20/19/15'>Prov. 19:15</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 60003011,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 3,
       "verse": 11,
       "text": "For we hear that some among you are walking in idleness, not busy at work but busybodies.",
       "links": "<a href='/AIV/54/5/13'>1 Tim. 5:13</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 60003012,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 3,
       "verse": 12,
       "text": "Now we command and urge such persons in the Lord Jesus Christ to settle down quietly and earn their own living.",
       "links": "<a href='/AIV/46/4/12'>1 Cor. 4:12</a>; <a href='/AIV/52/4/11'>1 Thess. 4:11</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 60003013,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 3,
       "verse": 13,
       "text": "Brothers, do not grow weary in doing good.",
       "links": "<a href='/AIV/48/6/9'>Gal. 6:9</a>; <a href='/AIV/42/18/1'>Luke 18:1</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 60003014,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 3,
       "verse": 14,
       "text": "If anyone does not obey our instruction in this letter, take note of that person and do not associate with him, so that he may be ashamed.",
       "links": "<a href='/AIV/46/5/9-13'>1 Cor. 5:9-13</a>; <a href='/AIV/40/18/15-17'>Matt. 18:15-17</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 60003015,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 3,
       "verse": 15,
       "text": "Yet do not regard him as an enemy, but warn him as a brother.",
       "links": "<a href='/AIV/47/2/6-8'>2 Cor. 2:6-8</a>; <a href='/AIV/48/6/1'>Gal. 6:1</a>",
@@ -188,11 +115,6 @@
     },
     {
       "pk": 60003016,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 3,
       "verse": 16,
       "text": "Now may the Lord of peace himself give you peace at all times and in every way. The Lord be with you all.",
       "links": "<a href='/AIV/52/5/23'>1 Thess. 5:23</a>; <a href='/AIV/43/14/27'>John 14:27</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 60003017,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 3,
       "verse": 17,
       "text": "I, Paul, write this greeting with my own hand. This is my mark in every letter; it is how I write.",
       "links": "<a href='/AIV/46/16/21'>1 Cor. 16:21</a>; <a href='/AIV/51/4/18'>Col. 4:18</a>",
@@ -213,33 +130,10 @@
     },
     {
       "pk": 60003018,
-      "translation": "AIV",
-      "book": 60,
-      "bookName": "2 Thessalonians",
-      "bookAbbreviation": "2Thess",
-      "chapter": 3,
       "verse": 18,
       "text": "The grace of our Lord Jesus Christ be with you all.",
       "links": "<a href='/AIV/46/16/23'>1 Cor. 16:23</a>; <a href='/AIV/66/22/21'>Rev. 22:21</a>",
       "comment": "Paul closes with a prayer for grace, a familiar blessing that links all believers through Christ. This grace, referenced often, stems from Christ’s redemptive work and sacramental life of the Church, emphasizing unity in Him."
-    }
-  ],
-  "translatedAt": "2025-12-24T12:10:22.432Z",
-  "sections": [
-    {
-      "title": "Request for Prayer and Confidence in the Lord",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "Warning Against Idleness",
-      "startVerse": 6,
-      "endVerse": 15
-    },
-    {
-      "title": "Final Exhortations and Benediction",
-      "startVerse": 16,
-      "endVerse": 18
     }
   ]
 }

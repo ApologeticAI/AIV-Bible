@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 135,
   "verses": [
     {
       "pk": 23135001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 135,
       "verse": 1,
       "text": "Praise the LORD! Praise the name of the LORD; give praise, you servants of the LORD,",
       "links": "<a href='/AIV/19/113/1'>Ps. 113:1</a>; <a href='/AIV/19/134/1'>Ps. 134:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23135002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 135,
       "verse": 2,
       "text": "who stand in the house of the LORD, in the courts of the house of our God.",
       "links": "<a href='/AIV/19/134/1'>Ps. 134:1</a>; <a href='/AIV/19/92/13'>Ps. 92:13</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23135003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 135,
       "verse": 3,
       "text": "Praise the LORD, for the LORD is good; sing to his name, for it is pleasant!",
       "links": "<a href='/AIV/19/100/5'>Ps. 100:5</a>; <a href='/AIV/19/147/1'>Ps. 147:1</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23135004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 135,
       "verse": 4,
       "text": "For the LORD has chosen Jacob for himself, Israel as his treasured possession.",
       "links": "<a href='/AIV/05/7/6'>Deut. 7:6</a>; <a href='/AIV/19/33/12'>Ps. 33:12</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23135005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 135,
       "verse": 5,
       "text": "For I know that the LORD is great, and our Lord is above all gods.",
       "links": "<a href='/AIV/19/95/3'>Ps. 95:3</a>; <a href='/AIV/19/96/4'>Ps. 96:4</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23135006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 135,
       "verse": 6,
       "text": "Whatever the LORD pleases, he does, in heaven and on earth, in the seas and all depths.",
       "links": "<a href='/AIV/19/115/3'>Ps. 115:3</a>; <a href='/AIV/18/9/10'>Job 9:10</a>",
@@ -79,11 +51,6 @@
     },
     {
       "pk": 23135007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 135,
       "verse": 7,
       "text": "He makes clouds rise from the ends of the earth; he sends lightning with the rain and brings out the wind from his storehouses.",
       "links": "<a href='/AIV/19/104/3'>Ps. 104:3'>Ps. 104:3</a>; <a href='/AIV/24/10/13'>Jer. 10:13</a>",
@@ -91,11 +58,6 @@
     },
     {
       "pk": 23135008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 135,
       "verse": 8,
       "text": "He struck down the firstborn of Egypt, both man and beast.",
       "links": "<a href='/AIV/02/12/29'>Ex. 12:29</a>; <a href='/AIV/19/78/51'>Ps. 78:51</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 23135009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 135,
       "verse": 9,
       "text": "He sent signs and wonders into your midst, Egypt, against Pharaoh and all his servants.",
       "links": "<a href='/AIV/02/7/3'>Ex. 7:3</a>; <a href='/AIV/19/78/43'>Ps. 78:43</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 23135010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 135,
       "verse": 10,
       "text": "He struck down many nations and killed mighty kings:",
       "links": "<a href='/AIV/06/12/7'>Josh. 12:7</a>; <a href='/AIV/19/136/17-20'>Ps. 136:17-20</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 23135011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 135,
       "verse": 11,
       "text": "Sihon, king of the Amorites, and Og, king of Bashan, and all the kingdoms of Canaan.",
       "links": "<a href='/AIV/04/21/21-35'>Num. 21:21-35</a>; <a href='/AIV/05/3/1-11'>Deut. 3:1-11</a>",
@@ -140,11 +87,6 @@
     },
     {
       "pk": 23135012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 135,
       "verse": 12,
       "text": "He gave their land as a heritage, a heritage to his people Israel.",
       "links": "<a href='/AIV/19/44/2-3'>Ps. 44:2-3</a>; <a href='/AIV/19/136/21-22'>Ps. 136:21-22</a>",
@@ -152,11 +94,6 @@
     },
     {
       "pk": 23135013,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 135,
       "verse": 13,
       "text": "Your name, O LORD, endures forever; your memorial, O LORD, through all generations.",
       "links": "<a href='/AIV/19/102/12'>Ps. 102:12</a>; <a href='/AIV/19/72/17'>Ps. 72:17</a>",
@@ -164,11 +101,6 @@
     },
     {
       "pk": 23135014,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 135,
       "verse": 14,
       "text": "For the LORD will vindicate his people and have compassion on his servants.",
       "links": "<a href='/AIV/05/32/36'>Deut. 32:36</a>; <a href='/AIV/19/103/13'>Ps. 103:13</a>",
@@ -176,11 +108,6 @@
     },
     {
       "pk": 23135015,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 135,
       "verse": 15,
       "text": "The idols of the nations are silver and gold, made by human hands.",
       "links": "<a href='/AIV/19/115/4'>Ps. 115:4</a>; <a href='/AIV/23/44/9-20'>Isa. 44:9-20</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 23135016,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 135,
       "verse": 16,
       "text": "They have mouths, but do not speak; they have eyes, but do not see;",
       "links": "<a href='/AIV/19/115/5'>Ps. 115:5</a>; <a href='/AIV/24/10/5'>Jer. 10:5</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 23135017,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 135,
       "verse": 17,
       "text": "They have ears, but do not hear, nor is there any breath in their mouths.",
       "links": "<a href='/AIV/19/115/6'>Ps. 115:6</a>; <a href='/AIV/19/135/16'>Ps. 135:16</a>",
@@ -213,11 +130,6 @@
     },
     {
       "pk": 23135018,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 135,
       "verse": 18,
       "text": "Those who make them become like them, so do all who trust in them.",
       "links": "<a href='/AIV/19/115/8'>Ps. 115:8</a>; <a href='/AIV/24/2/5'>Jer. 2:5</a>",
@@ -225,11 +137,6 @@
     },
     {
       "pk": 23135019,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 135,
       "verse": 19,
       "text": "O house of Israel, bless the LORD! O house of Aaron, bless the LORD!",
       "links": "<a href='/AIV/19/115/12'>Ps. 115:12</a>; <a href='/AIV/19/118/3'>Ps. 118:3</a>",
@@ -238,11 +145,6 @@
     },
     {
       "pk": 23135020,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 135,
       "verse": 20,
       "text": "O house of Levi, bless the LORD! You who fear the LORD, bless the LORD!",
       "links": "<a href='/AIV/19/115/12'>Ps. 115:12</a>; <a href='/AIV/19/134/1'>Ps. 134:1</a>",
@@ -250,38 +152,10 @@
     },
     {
       "pk": 23135021,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 135,
       "verse": 21,
       "text": "Blessed be the LORD from Zion, he who dwells in Jerusalem! Praise the LORD!",
       "links": "<a href='/AIV/19/134/3'>Ps. 134:3</a>; <a href='/AIV/19/87/2'>Ps. 87:2</a>",
       "comment": "Zion and Jerusalem point to the divine presence among his people, establishing a pattern for God’s dwelling in the midst of his gathered worshippers. This highlights the significance of communal worship and spiritual unity."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:45:32.932Z",
-  "sections": [
-    {
-      "title": "Hymn of Praise to the Lord",
-      "startVerse": 1,
-      "endVerse": 7
-    },
-    {
-      "title": "The Lord’s Mighty Acts and Faithfulness to Israel",
-      "startVerse": 8,
-      "endVerse": 14
-    },
-    {
-      "title": "The Vanity of Idols",
-      "startVerse": 15,
-      "endVerse": 18
-    },
-    {
-      "title": "Call to Bless the Lord",
-      "startVerse": 19,
-      "endVerse": 21
     }
   ]
 }

@@ -1,16 +1,13 @@
 {
-  "book": 35,
+  "translation": "AIV",
+  "bookId": "hosea",
   "bookName": "Hosea",
   "bookAbbreviation": "Hos",
+  "bookNumber": 35,
   "chapter": 1,
   "verses": [
     {
       "pk": 35001001,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 1,
       "verse": 1,
       "text": "The word of the LORD came to Hosea son of Beeri, during the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and during the days of Jeroboam son of Joash, king of Israel.",
       "links": "<a href='/AIV/12/15/32-38'>2 Kings 15:32-38</a>; <a href='/AIV/14/26/1'>2 Chr. 26:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 35001002,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 1,
       "verse": 2,
       "text": "When the LORD first spoke to Hosea, the LORD said to him, 'Go, take for yourself a wife of prostitution and children of unfaithfulness, for the land is guilty of forsaking the LORD in its prostitution.'",
       "links": "<a href='/AIV/28/4/15'>Hos. 4:15</a>; <a href='/AIV/23/1/21'>Isa. 1:21</a>",
@@ -32,11 +24,6 @@
     },
     {
       "pk": 35001003,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 1,
       "verse": 3,
       "text": "So Hosea went and took Gomer daughter of Diblaim, and she conceived and bore him a son.",
       "links": "<a href='/AIV/28/3/1-3'>Hos. 3:1-3</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 35001004,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 1,
       "verse": 4,
       "text": "Then the LORD said to Hosea, 'Name him Jezreel, for soon I will punish the house of Jehu for the bloodshed at Jezreel, and I will end the kingdom of Israel.'",
       "links": "<a href='/AIV/12/10/1-11'>2 Kings 10:1-11</a>; <a href='/AIV/28/2/22'>Hos. 2:22</a>",
@@ -57,11 +39,6 @@
     },
     {
       "pk": 35001005,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 1,
       "verse": 5,
       "text": "On that day, I will break the bow of Israel in the Valley of Jezreel.",
       "links": "<a href='/AIV/19/46/9'>Ps. 46:9</a>; <a href='/AIV/28/2/22-23'>Hos. 2:22-23</a>",
@@ -69,11 +46,6 @@
     },
     {
       "pk": 35001006,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 1,
       "verse": 6,
       "text": "Gomer conceived again and gave birth to a daughter. And the LORD said to Hosea: 'Name her Lo-Ruhamah, for I will no longer show compassion to the house of Israel, that I should forgive them.'",
       "links": "<a href='/AIV/28/2/4-13'>Hos. 2:4-13</a>; <a href='/AIV/19/85/7'>Ps. 85:7</a>",
@@ -81,11 +53,6 @@
     },
     {
       "pk": 35001007,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 1,
       "verse": 7,
       "text": "But I will have compassion on the house of Judah, and I will save them—not by bow or sword or war, nor by horses or horsemen, but by the LORD their God.",
       "links": "<a href='/AIV/23/37/36'>Isa. 37:36</a>; <a href='/AIV/19/20/7'>Ps. 20:7</a>",
@@ -93,11 +60,6 @@
     },
     {
       "pk": 35001008,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 1,
       "verse": 8,
       "text": "After she had weaned Lo-Ruhamah, Gomer conceived and bore a son.",
       "links": "<a href='/AIV/28/2/23'>Hos. 2:23</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 35001009,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 1,
       "verse": 9,
       "text": "Then the LORD said, 'Name him Lo-Ammi, for you are not my people, and I am not your God.'",
       "links": "<a href='/AIV/03/26/12'>Lev. 26:12</a>; <a href='/AIV/28/2/23'>Hos. 2:23</a>; <a href='/AIV/60/2/10'>1 Pet. 2:10</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 35001010,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 1,
       "verse": 10,
       "text": "Yet the number of the children of Israel will be like the sand of the sea, which cannot be measured or counted; and in the place where it was said to them, 'You are not my people,' there it will be said, 'You are children of the living God.'",
       "links": "<a href='/AIV/01/22/17'>Gen. 22:17</a>; <a href='/AIV/45/9/25-26'>Rom. 9:25-26</a>; <a href='/AIV/60/2/10'>1 Pet. 2:10</a>",
@@ -130,38 +82,10 @@
     },
     {
       "pk": 35001011,
-      "translation": "AIV",
-      "book": 35,
-      "bookName": "Hosea",
-      "bookAbbreviation": "Hos",
-      "chapter": 1,
       "verse": 11,
       "text": "Then the children of Judah and the children of Israel will be gathered together, and they will appoint one head for themselves, and they will go up from the land, for great will be the day of Jezreel.",
       "links": "<a href='/AIV/28/3/5'>Hos. 3:5</a>; <a href='/AIV/26/37/22'>Ezek. 37:22'</a>; <a href='/AIV/43/10/16'>John 10:16</a>",
       "comment": "The promise of unity under one leader foreshadows Messianic hope, later fulfilled in Jesus Christ, the true Shepherd. This reunion signifies both literal return and spiritual gathering, inviting all believers to anticipate restoration and leadership that is divinely appointed and apostolic in its succession."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:34:51.016Z",
-  "sections": [
-    {
-      "title": "Introduction: Hosea's Call and the Historical Setting",
-      "startVerse": 1,
-      "endVerse": 1
-    },
-    {
-      "title": "The Marriage of Hosea and Gomer as a Sign",
-      "startVerse": 2,
-      "endVerse": 3
-    },
-    {
-      "title": "The Symbolic Names of Hosea’s Children",
-      "startVerse": 4,
-      "endVerse": 9
-    },
-    {
-      "title": "Promise of Restoration for Israel and Judah",
-      "startVerse": 10,
-      "endVerse": 11
     }
   ]
 }

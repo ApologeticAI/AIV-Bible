@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 40,
   "verses": [
     {
       "pk": 23040001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 40,
       "verse": 1,
       "text": "I waited patiently for the LORD, and he turned to me and heard my cry.",
       "links": "<a href='/AIV/19/27/14'>Ps. 27:14</a>; <a href='/AIV/19/37/7'>Ps. 37:7</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23040002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 40,
       "verse": 2,
       "text": "He lifted me up out of the pit of destruction, out of the miry clay, and set my feet upon a rock, making my steps secure.",
       "links": "<a href='/AIV/19/69/2'>Ps. 69:2</a>; <a href='/AIV/19/27/5'>Ps. 27:5</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23040003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 40,
       "verse": 3,
       "text": "He put a new song in my mouth, a song of praise to our God. Many will see and fear, and put their trust in the LORD.",
       "links": "<a href='/AIV/19/33/3'>Ps. 33:3</a>; <a href='/AIV/19/96/1'>Ps. 96:1</a>",
@@ -43,11 +30,6 @@
     },
     {
       "pk": 23040004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 40,
       "verse": 4,
       "text": "Blessed is the man who makes the LORD his trust, and does not turn to the proud or to those who go astray after lies.",
       "links": "<a href='/AIV/19/1/1'>Ps. 1:1</a>; <a href='/AIV/19/84/12'>Ps. 84:12</a>",
@@ -55,11 +37,6 @@
     },
     {
       "pk": 23040005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 40,
       "verse": 5,
       "text": "Many, O LORD my God, are the wonders you have done, and your thoughts toward us—none can compare with you. Were I to declare and speak of them, they are more than can be counted.",
       "links": "<a href='/AIV/19/139/17-18'>Ps. 139:17-18</a>; <a href='/AIV/19/92/5'>Ps. 92:5</a>",
@@ -67,11 +44,6 @@
     },
     {
       "pk": 23040006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 40,
       "verse": 6,
       "text": "Sacrifice and offering you did not desire, but you have opened my ears; burnt offering and sin offering you have not required.",
       "links": "<a href='/AIV/1/15/22'>1 Sam. 15:22</a>; <a href='/AIV/19/51/16'>Ps. 51:16</a>; <a href='/AIV/58/10/5-7'>Heb. 10:5-7</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 23040007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 40,
       "verse": 7,
       "text": "Then I said, 'Behold, I come; in the scroll of the book it is written of me.'",
       "links": "<a href='/AIV/58/10/7'>Heb. 10:7</a>; <a href='/AIV/43/5/39'>John 5:39</a>",
@@ -92,11 +59,6 @@
     },
     {
       "pk": 23040008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 40,
       "verse": 8,
       "text": "I delight to do your will, O my God; your law is within my heart.",
       "links": "<a href='/AIV/19/119/16'>Ps. 119:16</a>; <a href='/AIV/24/31/33'>Jer. 31:33</a>",
@@ -104,11 +66,6 @@
     },
     {
       "pk": 23040009,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 40,
       "verse": 9,
       "text": "I have proclaimed the good news of righteousness in the great assembly; I have not restrained my lips, as you know, O LORD.",
       "links": "<a href='/AIV/19/22/22'>Ps. 22:22</a>; <a href='/AIV/19/35/18'>Ps. 35:18</a>",
@@ -116,11 +73,6 @@
     },
     {
       "pk": 23040010,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 40,
       "verse": 10,
       "text": "I have not hidden your righteousness within my heart; I have spoken of your faithfulness and your salvation; I have not concealed your lovingkindness and your truth from the great assembly.",
       "links": "<a href='/AIV/19/89/1'>Ps. 89:1</a>; <a href='/AIV/19/22/25'>Ps. 22:25</a>",
@@ -128,11 +80,6 @@
     },
     {
       "pk": 23040011,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 40,
       "verse": 11,
       "text": "Do not withhold your mercy from me, O LORD; may your lovingkindness and your truth continually guard me.",
       "links": "<a href='/AIV/19/61/7'>Ps. 61:7</a>; <a href='/AIV/19/85/10'>Ps. 85:10</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 23040012,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 40,
       "verse": 12,
       "text": "For evils without number have surrounded me; my iniquities have overtaken me, and I cannot see; they are more than the hairs of my head, and my heart fails me.",
       "links": "<a href='/AIV/19/38/4'>Ps. 38:4</a>; <a href='/AIV/19/69/4'>Ps. 69:4</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 23040013,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 40,
       "verse": 13,
       "text": "Be pleased, O LORD, to deliver me! O LORD, hurry to help me!",
       "links": "<a href='/AIV/19/70/1'>Ps. 70:1</a>; <a href='/AIV/19/22/19'>Ps. 22:19</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 23040014,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 40,
       "verse": 14,
       "text": "Let those who seek to destroy my life be ashamed and confounded together; let those who desire my harm be turned back and humiliated.",
       "links": "<a href='/AIV/19/35/4'>Ps. 35:4</a>; <a href='/AIV/19/7/15'>Ps. 7:15</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 23040015,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 40,
       "verse": 15,
       "text": "Let those who say to me, 'Aha! Aha!' be appalled because of their shame.",
       "links": "<a href='/AIV/19/35/21'>Ps. 35:21</a>; <a href='/AIV/19/70/3'>Ps. 70:3</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 23040016,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 40,
       "verse": 16,
       "text": "Let all who seek you rejoice and be glad in you; let those who love your salvation continually say, 'The LORD is great!'",
       "links": "<a href='/AIV/19/70/4'>Ps. 70:4</a>; <a href='/AIV/19/35/27'>Ps. 35:27</a>",
@@ -201,33 +123,10 @@
     },
     {
       "pk": 23040017,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 40,
       "verse": 17,
       "text": "But I am poor and needy; may the Lord think of me. You are my help and my deliverer; O my God, do not delay.",
       "links": "<a href='/AIV/19/70/5'>Ps. 70:5</a>; <a href='/AIV/19/72/12'>Ps. 72:12</a>",
       "comment": "The Psalm concludes in humble supplication, showing the importance of humility and trust in God’s mercy. The repeated phrase underscores both personal need and God's faithfulness to deliver, resonating with the teachings on God’s grace and our continual dependence on Him."
-    }
-  ],
-  "translatedAt": "2025-12-24T06:12:49.347Z",
-  "sections": [
-    {
-      "title": "Thanksgiving for Deliverance",
-      "startVerse": 1,
-      "endVerse": 5
-    },
-    {
-      "title": "Delight in God’s Will",
-      "startVerse": 6,
-      "endVerse": 10
-    },
-    {
-      "title": "Prayer for Help and Protection",
-      "startVerse": 11,
-      "endVerse": 17
     }
   ]
 }

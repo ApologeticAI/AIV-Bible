@@ -1,16 +1,13 @@
 {
-  "book": 23,
+  "translation": "AIV",
+  "bookId": "psalms",
   "bookName": "Psalms",
   "bookAbbreviation": "Ps",
+  "bookNumber": 23,
   "chapter": 82,
   "verses": [
     {
       "pk": 23082001,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 82,
       "verse": 1,
       "text": "God takes His stand in the assembly of the mighty; He judges among the gods.",
       "links": "<a href='/AIV/02/22/28'>Ex. 22:28</a>; <a href='/AIV/19/58/11'>Ps. 58:11</a>; <a href='/AIV/43/10/34-36'>John 10:34-36</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 23082002,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 82,
       "verse": 2,
       "text": "How long will you judge unjustly and show favor to the wicked? Selah",
       "links": "<a href='/AIV/19/58/1'>Ps. 58:1</a>; <a href='/AIV/19/94/3'>Ps. 94:3</a>",
@@ -31,11 +23,6 @@
     },
     {
       "pk": 23082003,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 82,
       "verse": 3,
       "text": "Defend the weak and the orphan; uphold the rights of the afflicted and the needy.",
       "links": "<a href='/AIV/23/1/17'>Isa. 1:17</a>; <a href='/AIV/05/24/17'>Deut. 24:17</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 23082004,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 82,
       "verse": 4,
       "text": "Rescue the poor and needy; deliver them from the hand of the wicked.",
       "links": "<a href='/AIV/20/24/11'>Prov. 24:11</a>; <a href='/AIV/19/72/12'>Ps. 72:12</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 23082005,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 82,
       "verse": 5,
       "text": "They neither know nor understand; they walk about in darkness. All the foundations of the earth are shaken.",
       "links": "<a href='/AIV/19/14/4'>Ps. 14:4</a>; <a href='/AIV/28/4/1'>Hos. 4:1</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 23082006,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 82,
       "verse": 6,
       "text": "I said, 'You are gods, and all of you are sons of the Most High.'",
       "links": "<a href='/AIV/43/10/34'>John 10:34</a>; <a href='/AIV/02/4/22'>Ex. 4:22</a>",
@@ -81,11 +53,6 @@
     },
     {
       "pk": 23082007,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 82,
       "verse": 7,
       "text": "But you will die like men, and fall like any of the princes.",
       "links": "<a href='/AIV/19/49/12'>Ps. 49:12</a>; <a href='/AIV/23/14/12'>Isa. 14:12</a>",
@@ -93,39 +60,11 @@
     },
     {
       "pk": 23082008,
-      "translation": "AIV",
-      "book": 23,
-      "bookName": "Psalms",
-      "bookAbbreviation": "Ps",
-      "chapter": 82,
       "verse": 8,
       "text": "Rise up, O God, judge the earth! For You shall inherit all nations.",
       "links": "<a href='/AIV/19/2/8'>Ps. 2:8</a>; <a href='/AIV/66/11/15'>Rev. 11:15</a>",
       "comment": "The Psalmist prays for God’s ultimate judgment and rule over all nations—a prophecy fulfilled in Christ’s universal kingship (see Rev. 11:15). The expectation is for God’s just reign to be established on earth and among all peoples, inviting the whole world into the fullness of divine worship and unity.",
       "sectionHeader": "Prayer for God's Universal Judgment"
-    }
-  ],
-  "translatedAt": "2025-12-24T06:28:16.010Z",
-  "sections": [
-    {
-      "title": "God Judges in the Divine Assembly",
-      "startVerse": 1,
-      "endVerse": 2
-    },
-    {
-      "title": "A Call for Justice to the Oppressed",
-      "startVerse": 3,
-      "endVerse": 5
-    },
-    {
-      "title": "The Destiny of Unjust Judges",
-      "startVerse": 6,
-      "endVerse": 7
-    },
-    {
-      "title": "Prayer for God's Universal Judgment",
-      "startVerse": 8,
-      "endVerse": 8
     }
   ]
 }

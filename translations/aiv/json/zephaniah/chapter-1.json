@@ -1,16 +1,13 @@
 {
-  "book": 43,
+  "translation": "AIV",
+  "bookId": "zephaniah",
   "bookName": "Zephaniah",
   "bookAbbreviation": "Zeph",
+  "bookNumber": 43,
   "chapter": 1,
   "verses": [
     {
       "pk": 43001001,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 1,
       "verse": 1,
       "text": "The word of the LORD that came to Zephaniah son of Cushi, son of Gedaliah, son of Amariah, son of Hezekiah, in the days of Josiah, son of Amon, king of Judah:",
       "links": "<a href='/AIV/12/22/1'>2 Kings 22:1</a>; <a href='/AIV/36/1/1'>Zeph. 1:1</a>",
@@ -19,11 +16,6 @@
     },
     {
       "pk": 43001002,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 1,
       "verse": 2,
       "text": "\"I will utterly sweep away everything from the face of the earth,\" declares the LORD.",
       "links": "<a href='/AIV/01/6/7'>Gen. 6:7</a>; <a href='/AIV/23/24/3'>Isa. 24:3</a>",
@@ -32,11 +24,6 @@
     },
     {
       "pk": 43001003,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 1,
       "verse": 3,
       "text": "\"I will sweep away man and beast; I will sweep away the birds of the heavens, and the fish of the sea, and the stumbling blocks along with the wicked. I will cut off mankind from the face of the earth,\" declares the LORD.",
       "links": "<a href='/AIV/01/7/23'>Gen. 7:23</a>; <a href='/AIV/19/104/29'>Ps. 104:29</a>",
@@ -44,11 +31,6 @@
     },
     {
       "pk": 43001004,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 1,
       "verse": 4,
       "text": "\"I will stretch out my hand against Judah and against all the inhabitants of Jerusalem. I will cut off from this place every remnant of Baal, the names of the idolatrous priests along with the priests,",
       "links": "<a href='/AIV/12/23/4'>2 Kings 23:4</a>; <a href='/AIV/28/2/17'>Hos. 2:17</a>",
@@ -56,11 +38,6 @@
     },
     {
       "pk": 43001005,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 1,
       "verse": 5,
       "text": "Those who bow down on the roofs to the stars of heaven, and those who bow down and swear to the LORD but also swear by Milcom;",
       "links": "<a href='/AIV/12/17/16'>2 Kings 17:16</a>; <a href='/AIV/24/19/13'>Jer. 19:13</a>",
@@ -68,11 +45,6 @@
     },
     {
       "pk": 43001006,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 1,
       "verse": 6,
       "text": "those who have turned back from following the LORD, and have not sought the LORD or inquired of him.",
       "links": "<a href='/AIV/24/2/13'>Jer. 2:13</a>; <a href='/AIV/19/14/2'>Ps. 14:2</a>",
@@ -80,11 +52,6 @@
     },
     {
       "pk": 43001007,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 1,
       "verse": 7,
       "text": "Be silent before the Lord GOD! For the day of the LORD is near; the LORD has prepared a sacrifice and has consecrated his guests.",
       "links": "<a href='/AIV/23/13/6'>Isa. 13:6</a>; <a href='/AIV/29/2/1'>Joel 2:1</a>",
@@ -93,11 +60,6 @@
     },
     {
       "pk": 43001008,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 1,
       "verse": 8,
       "text": "\"On the day of the LORD’s sacrifice, I will punish the officials and the king’s sons, and all who array themselves in foreign garments.",
       "links": "<a href='/AIV/12/10/22'>2 Kings 10:22</a>; <a href='/AIV/23/3/14'>Isa. 3:14</a>",
@@ -105,11 +67,6 @@
     },
     {
       "pk": 43001009,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 1,
       "verse": 9,
       "text": "On that day, I will punish all who leap over the threshold, who fill their master's house with violence and deceit.",
       "links": "<a href='/AIV/09/5/5'>1 Sam. 5:5</a>; <a href='/AIV/19/10/7'>Ps. 10:7</a>",
@@ -117,11 +74,6 @@
     },
     {
       "pk": 43001010,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 1,
       "verse": 10,
       "text": "\"On that day,\" declares the LORD, \"a cry will be heard from the Fish Gate, wailing from the Second Quarter, and loud crashing from the hills.",
       "links": "<a href='/AIV/16/3/3'>Neh. 3:3</a>; <a href='/AIV/14/33/14'>2 Chr. 33:14</a>",
@@ -129,11 +81,6 @@
     },
     {
       "pk": 43001011,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 1,
       "verse": 11,
       "text": "Wail, O inhabitants of the Mortar! For all the merchants are cut off; all who weigh out silver are wiped out.",
       "links": "<a href='/AIV/26/27/27'>Ezek. 27:27</a>; <a href='/AIV/19/135/17'>Ps. 135:17</a>",
@@ -141,11 +88,6 @@
     },
     {
       "pk": 43001012,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 1,
       "verse": 12,
       "text": "At that time I will search Jerusalem with lamps, and I will punish those who are complacent, who say in their hearts, 'The LORD will not do good, nor will he do evil.'",
       "links": "<a href='/AIV/19/139/23'>Ps. 139:23</a>; <a href='/AIV/23/29/13'>Isa. 29:13</a>",
@@ -153,11 +95,6 @@
     },
     {
       "pk": 43001013,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 1,
       "verse": 13,
       "text": "Therefore their wealth will become plunder, and their houses will be laid waste. Though they build houses, they will not dwell in them; though they plant vineyards, they will not drink their wine.",
       "links": "<a href='/AIV/05/28/30'>Deut. 28:30</a>; <a href='/AIV/23/65/22'>Isa. 65:22</a>",
@@ -165,11 +102,6 @@
     },
     {
       "pk": 43001014,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 1,
       "verse": 14,
       "text": "The great day of the LORD is near, near and hastening fast. The sound of the day of the LORD is bitter; the mighty man cries aloud there.",
       "links": "<a href='/AIV/29/2/11'>Joel 2:11</a>; <a href='/AIV/23/13/9'>Isa. 13:9</a>",
@@ -177,11 +109,6 @@
     },
     {
       "pk": 43001015,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 1,
       "verse": 15,
       "text": "That day is a day of wrath, a day of distress and anguish, a day of ruin and devastation, a day of darkness and gloom, a day of clouds and thick darkness,",
       "links": "<a href='/AIV/29/2/2'>Joel 2:2</a>; <a href='/AIV/23/8/22'>Isa. 8:22</a>",
@@ -189,11 +116,6 @@
     },
     {
       "pk": 43001016,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 1,
       "verse": 16,
       "text": "a day of trumpet blast and battle cry against the fortified cities and against the lofty battlements.",
       "links": "<a href='/AIV/06/6/20'>Josh. 6:20</a>; <a href='/AIV/29/2/1'>Joel 2:1</a>",
@@ -201,11 +123,6 @@
     },
     {
       "pk": 43001017,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 1,
       "verse": 17,
       "text": "I will bring distress on mankind, so that they shall walk like the blind, because they have sinned against the LORD; their blood shall be poured out like dust, and their flesh like dung.",
       "links": "<a href='/AIV/19/146/8'>Ps. 146:8</a>; <a href='/AIV/23/59/10'>Isa. 59:10</a>",
@@ -213,33 +130,10 @@
     },
     {
       "pk": 43001018,
-      "translation": "AIV",
-      "book": 43,
-      "bookName": "Zephaniah",
-      "bookAbbreviation": "Zeph",
-      "chapter": 1,
       "verse": 18,
       "text": "Neither their silver nor their gold will be able to deliver them on the day of the LORD’s wrath. In the fire of his jealousy, all the earth shall be consumed; for he will make a complete, sudden end of all the inhabitants of the earth.",
       "links": "<a href='/AIV/20/11/4'>Prov. 11:4</a>; <a href='/AIV/23/66/16'>Isa. 66:16</a>",
       "comment": "Material wealth does not save (see [Prov. 11:4](#)). The finality of judgment points to the need for spiritual readiness and the hope of being purified by divine fire—a foreshadowing of new life promised through the Messiah."
-    }
-  ],
-  "translatedAt": "2025-12-24T09:52:21.895Z",
-  "sections": [
-    {
-      "title": "Introduction and Genealogy of Zephaniah",
-      "startVerse": 1,
-      "endVerse": 1
-    },
-    {
-      "title": "Judgment on Judah and the Wicked",
-      "startVerse": 2,
-      "endVerse": 6
-    },
-    {
-      "title": "The Day of the Lord",
-      "startVerse": 7,
-      "endVerse": 18
     }
   ]
 }
