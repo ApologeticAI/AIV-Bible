@@ -1,0 +1,41 @@
+{
+  "translation": "AIV",
+  "bookId": "esther",
+  "bookName": "Esther",
+  "bookAbbreviation": "Est",
+  "bookNumber": 17,
+  "chapter": 12,
+  "verses": [
+    {
+      "pk": 1722001,
+      "verse": 1,
+      "text": "Now Mordecai took his rest in the courtyard with Bigthan and Teresh, the two eunuchs of the king who kept watch in the courtyard.",
+      "sectionHeader": "Mordecai Saves the King"
+    },
+    {
+      "pk": 1722002,
+      "verse": 2,
+      "text": "He overheard their conversation and inquired into their purposes, and learned that they were preparing to lay hands on Artaxerxes; and he informed the king concerning them."
+    },
+    {
+      "pk": 1722003,
+      "verse": 3,
+      "text": "Then the king examined the two eunuchs, and after they had confessed it, they were led away to execution."
+    },
+    {
+      "pk": 1722004,
+      "verse": 4,
+      "text": "The king made a permanent record of these things, and Mordecai wrote an account of them."
+    },
+    {
+      "pk": 1722005,
+      "verse": 5,
+      "text": "And the king ordered Mordecai to serve in the court, and rewarded him for these things."
+    },
+    {
+      "pk": 1722006,
+      "verse": 6,
+      "text": "But Haman son of Hammedatha, a Bougean, was in great honor with the king, and he sought to harm Mordecai and his people because of the two eunuchs of the king."
+    }
+  ]
+}

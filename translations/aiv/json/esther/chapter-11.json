@@ -1,0 +1,73 @@
+{
+  "translation": "AIV",
+  "bookId": "esther",
+  "bookName": "Esther",
+  "bookAbbreviation": "Est",
+  "bookNumber": 17,
+  "chapter": 11,
+  "verses": [
+    {
+      "pk": 1721001,
+      "verse": 1,
+      "text": "In the fourth year of the reigns of Ptolemy and Cleopatra, Dositheus, who was himself a priest and born of the Levites, and Ptolemy his son, brought this epistle of Purim, which they said was a translation by Lysimachus the son of Ptolemy in Jerusalem.",
+      "comment": "This verse is the 'colophon' or closing note found in the Greek Septuagint version of Esther. It authenticates the Greek translation by naming the translators and the date of its delivery to Egypt.",
+      "sectionHeader": "The Colophon of Esther"
+    },
+    {
+      "pk": 1721002,
+      "verse": 2,
+      "text": "In the second year of the reign of Artaxerxes the Great, on the first day of Nisan, Mordecai son of Jair son of Shimei son of Kish, of the tribe of Benjamin, had a dream.",
+      "sectionHeader": "ADDITION A: Prologue"
+    },
+    {
+      "pk": 1721003,
+      "verse": 3,
+      "text": "He was a Jew living in the city of Susa, a great man, serving in the court of the king."
+    },
+    {
+      "pk": 1721004,
+      "verse": 4,
+      "text": "He was one of the captives whom King Nebuchadnezzar of Babylon had brought from Jerusalem with King Jeconiah of Judah."
+    },
+    {
+      "pk": 1721005,
+      "verse": 5,
+      "text": "And this was his dream: Noises and confusion, thunders and earthquake, tumult on the earth!"
+    },
+    {
+      "pk": 1721006,
+      "verse": 6,
+      "text": "Then two great dragons came forward, both ready to fight, and they roared terribly."
+    },
+    {
+      "pk": 1721007,
+      "verse": 7,
+      "text": "At their roaring every nation prepared for war, to fight against the righteous nation."
+    },
+    {
+      "pk": 1721008,
+      "verse": 8,
+      "text": "It was a day of darkness and gloom, of tribulation and distress, affliction and great tumult on the earth!"
+    },
+    {
+      "pk": 1721009,
+      "verse": 9,
+      "text": "And the whole righteous nation was troubled; they feared the evils that threatened them, and were ready to perish."
+    },
+    {
+      "pk": 1721010,
+      "verse": 10,
+      "text": "Then they cried out to God; and at their outcry, as though from a tiny spring, there came a great river, with abundant water;"
+    },
+    {
+      "pk": 1721011,
+      "verse": 11,
+      "text": "light came, and the sun rose, and the lowly were exalted and devoured those held in honor."
+    },
+    {
+      "pk": 1721012,
+      "verse": 12,
+      "text": "Mordecai saw in this dream what God had determined to do, and after he awoke he had it on his mind, seeking all day to understand it in every detail."
+    }
+  ]
+}
